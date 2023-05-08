@@ -15,7 +15,7 @@ export const SEARCH_ITEMS: RSSItem[] = [
     {
         title: "CVE-2023 FEED",
         query: "CVE-2023",
-        TYPE: "ISSUE",
+        TYPE: "REPOSITORY",
         link: `${BASE_URL}/cve2023.json`,
         homepage: "https://github.com/search?o=desc&q=CVE-2023&s=updated&type=Repositories"
     }
