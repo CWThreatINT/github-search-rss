@@ -6,6 +6,17 @@
     "description": "CVE-2022 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/112864964?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2022-24637</div>",
+            "url": "https://github.com/c0derpwner/HTB-pwned",
+            "title": "c0derpwner/HTB-pwned: CVE-2022-24637",
+            "date_modified": "2023-05-08T08:35:48.000Z",
+            "date_published": "2023-05-02T08:48:35.000Z",
+            "author": {
+                "name": "c0derpwner",
+                "url": "https://github.com/c0derpwner"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/112469853?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>An exploit script for CVE-2022-28368 designed to make exploitation less annoying, made for a HTB machine</div>",
             "url": "https://github.com/Henryisnotavailable/Dompdf-Exploit-RCE",
             "title": "Henryisnotavailable/Dompdf-Exploit-RCE: An exploit script for CVE-2022-28368 designed to make exploitation less annoying, made for a HTB machine",
@@ -80,17 +91,6 @@
             "author": {
                 "name": "FredBrave",
                 "url": "https://github.com/FredBrave"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/112864964?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2022-24637</div>",
-            "url": "https://github.com/c0derpwner/HTB-pwned",
-            "title": "c0derpwner/HTB-pwned: CVE-2022-24637",
-            "date_modified": "2023-05-08T08:35:48.000Z",
-            "date_published": "2023-05-02T08:48:35.000Z",
-            "author": {
-                "name": "c0derpwner",
-                "url": "https://github.com/c0derpwner"
             }
         },
         {
