@@ -83,6 +83,17 @@
             }
         },
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/112864964?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2022-24637</div>",
+            "url": "https://github.com/c0derpwner/HTB-pwned",
+            "title": "c0derpwner/HTB-pwned: CVE-2022-24637",
+            "date_modified": "2023-05-08T08:35:48.000Z",
+            "date_published": "2023-05-02T08:48:35.000Z",
+            "author": {
+                "name": "c0derpwner",
+                "url": "https://github.com/c0derpwner"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/72800859?u=d53be4f09a67af4f8999a7ecc7a73b9c74f45d28&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>I do some tweaking for iOS from 16.0 to 16.1.2 based on MacDirtyCow (CVE-2022-46689) exploit.</div>",
             "url": "https://github.com/tdquang266/MDC",
             "title": "tdquang266/MDC: I do some tweaking for iOS from 16.0 to 16.1.2 based on MacDirtyCow (CVE-2022-46689) exploit.",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "ariyaadinatha",
                 "url": "https://github.com/ariyaadinatha"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/62627838?u=9aa37fc6971d6c00bc1385be939714eab3cc62ed&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2022-46169</div>",
-            "url": "https://github.com/yassinebk/CVE-2022-46169",
-            "title": "yassinebk/CVE-2022-46169: CVE-2022-46169",
-            "date_modified": "2023-04-30T10:37:52.000Z",
-            "date_published": "2023-04-30T10:37:44.000Z",
-            "author": {
-                "name": "yassinebk",
-                "url": "https://github.com/yassinebk"
             }
         }
     ]
