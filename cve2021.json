@@ -1,0 +1,229 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "CVE-2021 FEED",
+    "home_page_url": "https://github.com/search?o=desc&q=CVE-2021&s=updated&type=Repositories",
+    "feed_url": "https://cwthreatint.github.io/github-search-rss/cve2021.json",
+    "description": "CVE-2021 FEED on GitHub",
+    "items": [
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/8308258?u=301d6bae0a5e45e1bc37fd37590f09d5d7326b99&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Simple payload builder</div>",
+            "url": "https://github.com/BenEdridge/CVE-2021-46703",
+            "title": "BenEdridge/CVE-2021-46703: Simple payload builder",
+            "date_modified": "2023-05-07T11:40:10.000Z",
+            "date_published": "2023-05-07T08:25:37.000Z",
+            "author": {
+                "name": "BenEdridge",
+                "url": "https://github.com/BenEdridge"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/5873573?u=3be2c745f678b3c4041926995970c3d693237216&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Cobalt Strike (CS) Beacon Object File (BOF) foundation for kernel exploitation using CVE-2021-21551.</div>",
+            "url": "https://github.com/tijme/kernel-mii",
+            "title": "tijme/kernel-mii: Cobalt Strike (CS) Beacon Object File (BOF) foundation for kernel exploitation using CVE-2021-21551.",
+            "date_modified": "2023-05-05T16:12:08.000Z",
+            "date_published": "2022-06-25T11:13:45.000Z",
+            "author": {
+                "name": "tijme",
+                "url": "https://github.com/tijme"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/70909693?u=33c011e3c268d75dec372499949b60a7e59e7c73&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Apache version 2.4.49 is vulnerable to a directory traversal attack that could allow attackers to reveal sensitive information or gain remote code execution.</div>",
+            "url": "https://github.com/K3ysTr0K3R/CVE-2021-41773-EXPLOIT",
+            "title": "K3ysTr0K3R/CVE-2021-41773-EXPLOIT: Apache version 2.4.49 is vulnerable to a directory traversal attack that could allow attackers to reveal sensitive information or gain remote code execution.",
+            "date_modified": "2023-05-06T21:09:36.000Z",
+            "date_published": "2023-05-06T17:46:29.000Z",
+            "author": {
+                "name": "K3ysTr0K3R",
+                "url": "https://github.com/K3ysTr0K3R"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/132640315?u=15bc7cb0db381e932be93df8d1b778f9b3add86d&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>bypasses the authentication functionality of vnc servers</div>",
+            "url": "https://github.com/glencooper872/tightvnc-zeroday-exploit-auth-bypass",
+            "title": "glencooper872/tightvnc-zeroday-exploit-auth-bypass: bypasses the authentication functionality of vnc servers",
+            "date_modified": "2023-05-05T17:08:42.000Z",
+            "date_published": "2023-05-05T05:53:18.000Z",
+            "author": {
+                "name": "glencooper872",
+                "url": "https://github.com/glencooper872"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/7356025?u=4bf80d665e0f24d1a7126a23c52208d3a0ed8dc9&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>PoC for PwnKit: Local Privilege Escalation Vulnerability in polkit’s pkexec (CVE-2021-4034)</div>",
+            "url": "https://github.com/arthepsy/CVE-2021-4034",
+            "title": "arthepsy/CVE-2021-4034: PoC for PwnKit: Local Privilege Escalation Vulnerability in polkit’s pkexec (CVE-2021-4034)",
+            "date_modified": "2023-05-05T17:28:41.000Z",
+            "date_published": "2022-01-26T00:56:36.000Z",
+            "author": {
+                "name": "arthepsy",
+                "url": "https://github.com/arthepsy"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/98812000?u=c1412341907d9b4065dc01104dcb92fd13ad38a1&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2021-21300</div>",
+            "url": "https://github.com/henry861010/Network_Security_NYCU",
+            "title": "henry861010/Network_Security_NYCU: CVE-2021-21300",
+            "date_modified": "2023-05-04T11:49:24.000Z",
+            "date_published": "2023-05-04T07:46:35.000Z",
+            "author": {
+                "name": "henry861010",
+                "url": "https://github.com/henry861010"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/52085661?u=110ee8298a225cd24aa5b6015dd05e606d36d2c9&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>POC for CVE-2021-41091</div>",
+            "url": "https://github.com/UncleJ4ck/CVE-2021-41091",
+            "title": "UncleJ4ck/CVE-2021-41091: POC for CVE-2021-41091",
+            "date_modified": "2023-05-07T19:53:32.000Z",
+            "date_published": "2023-05-02T07:25:13.000Z",
+            "author": {
+                "name": "UncleJ4ck",
+                "url": "https://github.com/UncleJ4ck"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/3830775?u=ae6685722687541cd30b0f7f3357fe3eccb58af0&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Check and report for cve_2021_44228 (log4shell) on your system.</div>",
+            "url": "https://github.com/robertdebock/ansible-role-cve_2021_44228",
+            "title": "robertdebock/ansible-role-cve_2021_44228: Check and report for cve_2021_44228 (log4shell) on your system.",
+            "date_modified": "2023-03-03T11:07:54.000Z",
+            "date_published": "2021-12-15T14:53:17.000Z",
+            "author": {
+                "name": "robertdebock",
+                "url": "https://github.com/robertdebock"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/42806772?u=54c0195ba23ba1fc863cc16bcc5fc35da76bfe57&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div><g-emoji class=\"g-emoji\" alias=\"bomb\" fallback-src=\"https://github.githubassets.com/images/icons/emoji/unicode/1f4a3.png\">💣</g-emoji><g-emoji class=\"g-emoji\" alias=\"boom\" fallback-src=\"https://github.githubassets.com/images/icons/emoji/unicode/1f4a5.png\">💥</g-emoji><g-emoji class=\"g-emoji\" alias=\"skull\" fallback-src=\"https://github.githubassets.com/images/icons/emoji/unicode/1f480.png\">💀</g-emoji> Proof of Concept: пример запуска fork-бомбы на удаленном сервере благодаря уязвимости CVE-2021-44228</div>",
+            "url": "https://github.com/funcid/log4j-exploit-fork-bomb",
+            "title": "funcid/log4j-exploit-fork-bomb: 💣💥💀 Proof of Concept: пример запуска fork-бомбы на удаленном сервере благодаря уязвимости CVE-2021-44228",
+            "date_modified": "2023-05-06T18:26:50.000Z",
+            "date_published": "2023-04-15T12:47:39.000Z",
+            "author": {
+                "name": "funcid",
+                "url": "https://github.com/funcid"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/114736274?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
+            "url": "https://github.com/Zoo1sondv/CVE-2021-3129",
+            "title": "Zoo1sondv/CVE-2021-3129",
+            "date_modified": "2023-05-01T03:40:47.000Z",
+            "date_published": "2023-05-01T03:20:13.000Z",
+            "author": {
+                "name": "Zoo1sondv",
+                "url": "https://github.com/Zoo1sondv"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/131547485?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
+            "url": "https://github.com/andyhsu024/CVE-2021-29447",
+            "title": "andyhsu024/CVE-2021-29447",
+            "date_modified": "2023-04-24T01:33:23.000Z",
+            "date_published": "2023-04-24T01:33:22.000Z",
+            "author": {
+                "name": "andyhsu024",
+                "url": "https://github.com/andyhsu024"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/68028935?u=4a6327bb6c54abdd7cfd341700da99e9b6e4e89e&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Exploit in python3 to explore CVE-2021-38314 in Redux Framework a wordpress plugin </div>",
+            "url": "https://github.com/0xGabe/CVE-2021-38314",
+            "title": "0xGabe/CVE-2021-38314: Exploit in python3 to explore CVE-2021-38314 in Redux Framework a wordpress plugin ",
+            "date_modified": "2023-05-02T19:43:05.000Z",
+            "date_published": "2023-04-28T17:03:27.000Z",
+            "author": {
+                "name": "0xGabe",
+                "url": "https://github.com/0xGabe"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/33289300?u=f874082eec8cecd6ab1f067521011d3a4f537cc6&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2021-31589 is a powerful scanner for bug bounty hunters and penetration testers to discover vulnerabilities in their web applications.</div>",
+            "url": "https://github.com/karthi-the-hacker/CVE-2021-31589",
+            "title": "karthi-the-hacker/CVE-2021-31589: CVE-2021-31589 is a powerful scanner for bug bounty hunters and penetration testers to discover vulnerabilities in their web applications.",
+            "date_modified": "2023-04-19T09:11:50.000Z",
+            "date_published": "2023-04-19T09:10:40.000Z",
+            "author": {
+                "name": "karthi-the-hacker",
+                "url": "https://github.com/karthi-the-hacker"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/48286013?u=82a89f0426f1fb982591128a084f2d5eb9eca197&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2021-44228 Log4j2 BurpSuite Scanner,Customize ceye.io api or other apis,including internal networks</div>",
+            "url": "https://github.com/f0ng/log4j2burpscanner",
+            "title": "f0ng/log4j2burpscanner: CVE-2021-44228 Log4j2 BurpSuite Scanner,Customize ceye.io api or other apis,including internal networks",
+            "date_modified": "2023-05-06T07:09:18.000Z",
+            "date_published": "2021-12-11T07:19:11.000Z",
+            "author": {
+                "name": "f0ng",
+                "url": "https://github.com/f0ng"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/110767603?u=9f9a8688ed3a4a8ca1ae50d9ded2906919bb5953&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
+            "url": "https://github.com/iceberg-N/cve-2021-26855",
+            "title": "iceberg-N/cve-2021-26855",
+            "date_modified": "2023-04-25T04:29:36.000Z",
+            "date_published": "2023-04-25T04:29:35.000Z",
+            "author": {
+                "name": "iceberg-N",
+                "url": "https://github.com/iceberg-N"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/10504574?u=8210c6a151310845dd43dceb8153ba82fb14cd84&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
+            "url": "https://github.com/b-abderrahmane/CVE-2021-44228-playground",
+            "title": "b-abderrahmane/CVE-2021-44228-playground",
+            "date_modified": "2023-05-07T11:26:08.000Z",
+            "date_published": "2021-12-11T12:16:45.000Z",
+            "author": {
+                "name": "b-abderrahmane",
+                "url": "https://github.com/b-abderrahmane"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/72258277?u=2ae8e17c7dde6e117f5e7f6f5e1cbcb8dd22d7b4&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A little demonstration of cve-2021-41773 on httpd docker containers</div>",
+            "url": "https://github.com/MatanelGordon/docker-cve-2021-41773",
+            "title": "MatanelGordon/docker-cve-2021-41773: A little demonstration of cve-2021-41773 on httpd docker containers",
+            "date_modified": "2023-04-27T10:44:37.000Z",
+            "date_published": "2023-04-20T22:37:06.000Z",
+            "author": {
+                "name": "MatanelGordon",
+                "url": "https://github.com/MatanelGordon"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/101071411?u=6e03d8180dd059d493acc2a2087099c8710c0d46&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>An issue was discovered in BS_RCIO64.sys in Biostar RACING GT Evo 2.1.1905.1700. A low-integrity process can open the driver's device object and issue IOCTLs to read or write to arbitrary physical memory locations (or call an arbitrary address), leading to execution of arbitrary code. This is associated with 0x226040, 0x226044, and 0x226000.</div>",
+            "url": "https://github.com/Exploitables/CVE-2021-44852",
+            "title": "Exploitables/CVE-2021-44852: An issue was discovered in BS_RCIO64.sys in Biostar RACING GT Evo 2.1.1905.1700. A low-integrity process can open the driver's device object and issue IOCTLs to read or write to arbitrary physical memory locations (or call an arbitrary address), leading to execution of arbitrary code. This is associated with 0x226040, 0x226044, and 0x226000.",
+            "date_modified": "2023-03-22T14:09:02.000Z",
+            "date_published": "2023-03-22T04:11:03.000Z",
+            "author": {
+                "name": "Exploitables",
+                "url": "https://github.com/Exploitables"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/55347142?u=b972d3b82f6ef6596c57a143e42fe564b49a87f0&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>cve-2019-11510, cve-2019-19781, cve-2020-5902,                cve-2021-1497, cve-2021-20090,  cve-2021-22006, cve-2021-22205, cve-2021-26084, cve-2021-26855, cve-2021-26857, cve-2021–26857, cve-2021–26858, cve-2021–26865</div>",
+            "url": "https://github.com/34zY/APT-Backpack",
+            "title": "34zY/APT-Backpack: cve-2019-11510, cve-2019-19781, cve-2020-5902,                cve-2021-1497, cve-2021-20090,  cve-2021-22006, cve-2021-22205, cve-2021-26084, cve-2021-26855, cve-2021-26857, cve-2021–26857, cve-2021–26858, cve-2021–26865",
+            "date_modified": "2023-01-11T13:09:10.000Z",
+            "date_published": "2022-12-13T08:41:44.000Z",
+            "author": {
+                "name": "34zY",
+                "url": "https://github.com/34zY"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/53053198?u=d32b237f3c35cbdead92c20c8e3f64f1b4adef14&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Multiple SQL Injection Vulnerability in Support Board Version 3.3.3 that allow remote unauthenticated attacker to execute arbitrary SQL commands via status_code, department, user_id, conversation_id, conversation_status_code, and recipient_id parameters to ajax.php which is connected to functions.php which the vulnerability is present.</div>",
+            "url": "https://github.com/itsjeffersonli/CVE-2021-24741",
+            "title": "itsjeffersonli/CVE-2021-24741: Multiple SQL Injection Vulnerability in Support Board Version 3.3.3 that allow remote unauthenticated attacker to execute arbitrary SQL commands via status_code, department, user_id, conversation_id, conversation_status_code, and recipient_id parameters to ajax.php which is connected to functions.php which the vulnerability is present.",
+            "date_modified": "2023-04-24T02:39:18.000Z",
+            "date_published": "2021-08-28T18:34:40.000Z",
+            "author": {
+                "name": "itsjeffersonli",
+                "url": "https://github.com/itsjeffersonli"
+            }
+        }
+    ]
+}
