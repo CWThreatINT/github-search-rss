@@ -2,7 +2,7 @@
     "version": "https://jsonfeed.org/version/1",
     "title": "CVE-2023 FEED",
     "home_page_url": "https://github.com/search?o=desc&q=CVE-2023&s=updated&type=Repositories",
-    "feed_url": "https://azu.github.io/github-search-rss/cve2023.json",
+    "feed_url": "https://cwthreatint.github.io/cverss/cve2023.json",
     "description": "CVE-2023 FEED on GitHub",
     "items": [
         {
@@ -171,17 +171,6 @@
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/2186610?u=57d85463dda6ba7052565ca29c9b209091387cb5&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><p dir=\"auto\">implemented HostnameVerifier interface to verify the controller's hostname or IP</p>\n<ul class=\"contains-task-list\">\n<li class=\"task-list-item\"><input type=\"checkbox\" id=\"\" disabled=\"\" class=\"task-list-item-checkbox\" checked=\"\"> Ensure that the pull request title represents the desired changelog entry</li>\n<li class=\"task-list-item\"><input type=\"checkbox\" id=\"\" disabled=\"\" class=\"task-list-item-checkbox\" checked=\"\"> Please describe what you did</li>\n<li class=\"task-list-item\"><input type=\"checkbox\" id=\"\" disabled=\"\" class=\"task-list-item-checkbox\" checked=\"\"> Link to relevant issues in GitHub or Jira</li>\n<li class=\"task-list-item\"><input type=\"checkbox\" id=\"\" disabled=\"\" class=\"task-list-item-checkbox\" checked=\"\"> Link to relevant pull requests, esp. upstream and downstream changes</li>\n</ul>",
-            "url": "https://github.com/jenkinsci/neuvector-vulnerability-scanner-plugin/pull/38",
-            "title": "fix SECURITY-2841 / CVE-2023-30517",
-            "date_modified": "2023-05-03T20:57:47.000Z",
-            "date_published": "2023-05-03T20:57:47.000Z",
-            "author": {
-                "name": "songlongcn",
-                "url": "https://github.com/songlongcn"
-            }
-        },
-        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/32125108?u=29de58bb5144e11fb3c42e20f2e7076402f651a3&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><h2 dir=\"auto\">Introduction</h2>\n<p dir=\"auto\">In Nunjucks versions prior to version 3.2.4, it was possible to bypass the restrictions which are provided by the autoescape functionality. If there are two user-controlled parameters on the same line used in the views, it was possible to inject cross site scripting payloads using the backslash \\ character.</p>\n<p dir=\"auto\">Security alert: <a href=\"https://github.com/UK-Export-Finance/exip/security/dependabot/17\">https://github.com/UK-Export-Finance/exip/security/dependabot/17</a></p>\n<h2 dir=\"auto\">Resolution</h2>\n<ul dir=\"auto\">\n<li><code class=\"notranslate\">nunjucks</code> dependency updated to <code class=\"notranslate\">3.2.4</code></li>\n</ul>\n<h2 dir=\"auto\">Miscellaneous</h2>\n<ul dir=\"auto\">\n<li>Dependencies updates</li>\n<li>Removed <code class=\"notranslate\">rimraf</code></li>\n<li>Changed Webpack library name to <code class=\"notranslate\">EXIP</code>.</li>\n</ul>",
             "url": "https://github.com/UK-Export-Finance/exip/pull/465",
             "title": "fix(CVE-2023-2142): dependencies bumps",
@@ -190,6 +179,17 @@
             "author": {
                 "name": "abhi-markan",
                 "url": "https://github.com/abhi-markan"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/2186610?u=57d85463dda6ba7052565ca29c9b209091387cb5&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><p dir=\"auto\">implemented HostnameVerifier interface to verify the controller's hostname or IP</p>\n<ul class=\"contains-task-list\">\n<li class=\"task-list-item\"><input type=\"checkbox\" id=\"\" disabled=\"\" class=\"task-list-item-checkbox\" checked=\"\"> Ensure that the pull request title represents the desired changelog entry</li>\n<li class=\"task-list-item\"><input type=\"checkbox\" id=\"\" disabled=\"\" class=\"task-list-item-checkbox\" checked=\"\"> Please describe what you did</li>\n<li class=\"task-list-item\"><input type=\"checkbox\" id=\"\" disabled=\"\" class=\"task-list-item-checkbox\" checked=\"\"> Link to relevant issues in GitHub or Jira</li>\n<li class=\"task-list-item\"><input type=\"checkbox\" id=\"\" disabled=\"\" class=\"task-list-item-checkbox\" checked=\"\"> Link to relevant pull requests, esp. upstream and downstream changes</li>\n</ul>",
+            "url": "https://github.com/jenkinsci/neuvector-vulnerability-scanner-plugin/pull/38",
+            "title": "fix SECURITY-2841 / CVE-2023-30517",
+            "date_modified": "2023-05-03T20:57:47.000Z",
+            "date_published": "2023-05-03T20:57:47.000Z",
+            "author": {
+                "name": "songlongcn",
+                "url": "https://github.com/songlongcn"
             }
         },
         {
