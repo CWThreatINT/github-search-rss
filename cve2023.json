@@ -31,7 +31,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/26479696?u=35272f1bbaaa9082e9b6607eb6a59328b4b2551c&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2023-0386在ubuntu22.04上的提权</div>",
             "url": "https://github.com/xkaneiki/CVE-2023-0386",
             "title": "xkaneiki/CVE-2023-0386: CVE-2023-0386在ubuntu22.04上的提权",
-            "date_modified": "2023-05-08T13:12:54.000Z",
+            "date_modified": "2023-05-08T14:43:30.000Z",
             "date_published": "2023-05-05T03:02:13.000Z",
             "author": {
                 "name": "xkaneiki",
@@ -138,28 +138,6 @@
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/132640315?u=15bc7cb0db381e932be93df8d1b778f9b3add86d&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>zero day found in how excel processes hyperlinked text in formulas. poc just spawns a reverse shell, no binding of payload as of current version.</div>",
-            "url": "https://github.com/glencooper872/excel-zero-day-exploit",
-            "title": "glencooper872/excel-zero-day-exploit: zero day found in how excel processes hyperlinked text in formulas. poc just spawns a reverse shell, no binding of payload as of current version.",
-            "date_modified": "2023-05-07T01:06:14.000Z",
-            "date_published": "2023-05-05T05:52:47.000Z",
-            "author": {
-                "name": "glencooper872",
-                "url": "https://github.com/glencooper872"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/132640315?u=15bc7cb0db381e932be93df8d1b778f9b3add86d&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>bypasses the authentication functionality of vnc servers</div>",
-            "url": "https://github.com/glencooper872/tightvnc-zeroday-exploit-auth-bypass",
-            "title": "glencooper872/tightvnc-zeroday-exploit-auth-bypass: bypasses the authentication functionality of vnc servers",
-            "date_modified": "2023-05-05T17:08:42.000Z",
-            "date_published": "2023-05-05T05:53:18.000Z",
-            "author": {
-                "name": "glencooper872",
-                "url": "https://github.com/glencooper872"
-            }
-        },
-        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/84887432?u=e821a4292a664415f89ea708ffc0b6ccf75816e7&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2023-29489 mass exploit</div>",
             "url": "https://github.com/1337r0j4n/CVE-2023-29489",
             "title": "1337r0j4n/CVE-2023-29489: CVE-2023-29489 mass exploit",
@@ -223,6 +201,28 @@
             "author": {
                 "name": "Satheesh575555",
                 "url": "https://github.com/Satheesh575555"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/43825360?u=086c3c1d6a3b1c6654cf1692f80b32b3257b37f4&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
+            "url": "https://github.com/zPrototype/CVE-2023-29808",
+            "title": "zPrototype/CVE-2023-29808",
+            "date_modified": "2023-05-03T17:52:13.000Z",
+            "date_published": "2023-05-03T15:56:04.000Z",
+            "author": {
+                "name": "zPrototype",
+                "url": "https://github.com/zPrototype"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/34933203?u=f19324f3c81ef6a86b00438fc3a739568bbb6328&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Hotel Druid 3.0.4 Stored Cross Site Scripting Vulnerability </div>",
+            "url": "https://github.com/jichngan/CVE-2023-29839",
+            "title": "jichngan/CVE-2023-29839: Hotel Druid 3.0.4 Stored Cross Site Scripting Vulnerability ",
+            "date_modified": "2023-05-03T16:14:09.000Z",
+            "date_published": "2023-05-03T01:31:31.000Z",
+            "author": {
+                "name": "jichngan",
+                "url": "https://github.com/jichngan"
             }
         }
     ]

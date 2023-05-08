@@ -6,6 +6,17 @@
     "description": "CVE-2022 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/19479860?u=04677f490e98d90064fe473310aa361e4275e780&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>SnakeYAML-CVE-2022-1471-POC</div>",
+            "url": "https://github.com/falconkei/snakeyaml_cve_poc",
+            "title": "falconkei/snakeyaml_cve_poc: SnakeYAML-CVE-2022-1471-POC",
+            "date_modified": "2023-05-08T14:47:41.000Z",
+            "date_published": "2023-05-08T14:46:22.000Z",
+            "author": {
+                "name": "falconkei",
+                "url": "https://github.com/falconkei"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/112864964?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2022-24637</div>",
             "url": "https://github.com/c0derpwner/HTB-pwned",
             "title": "c0derpwner/HTB-pwned: CVE-2022-24637",
@@ -61,32 +72,10 @@
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/132640315?u=15bc7cb0db381e932be93df8d1b778f9b3add86d&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>zero day found in how excel processes hyperlinked text in formulas. poc just spawns a reverse shell, no binding of payload as of current version.</div>",
-            "url": "https://github.com/glencooper872/excel-zero-day-exploit",
-            "title": "glencooper872/excel-zero-day-exploit: zero day found in how excel processes hyperlinked text in formulas. poc just spawns a reverse shell, no binding of payload as of current version.",
-            "date_modified": "2023-05-07T01:06:14.000Z",
-            "date_published": "2023-05-05T05:52:47.000Z",
-            "author": {
-                "name": "glencooper872",
-                "url": "https://github.com/glencooper872"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/132640315?u=15bc7cb0db381e932be93df8d1b778f9b3add86d&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>bypasses the authentication functionality of vnc servers</div>",
-            "url": "https://github.com/glencooper872/tightvnc-zeroday-exploit-auth-bypass",
-            "title": "glencooper872/tightvnc-zeroday-exploit-auth-bypass: bypasses the authentication functionality of vnc servers",
-            "date_modified": "2023-05-05T17:08:42.000Z",
-            "date_published": "2023-05-05T05:53:18.000Z",
-            "author": {
-                "name": "glencooper872",
-                "url": "https://github.com/glencooper872"
-            }
-        },
-        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/114189847?u=6210e0800e863af244c52fdfeab27b3b36a05dce&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>This is a exploit of CVE-2022-46169 to cacti 1.2.22. This exploit allows through an RCE to obtain a reverse shell on your computer.</div>",
             "url": "https://github.com/FredBrave/CVE-2022-46169-CACTI-1.2.22",
             "title": "FredBrave/CVE-2022-46169-CACTI-1.2.22: This is a exploit of CVE-2022-46169 to cacti 1.2.22. This exploit allows through an RCE to obtain a reverse shell on your computer.",
-            "date_modified": "2023-05-07T18:01:23.000Z",
+            "date_modified": "2023-05-08T14:37:07.000Z",
             "date_published": "2023-05-01T20:00:23.000Z",
             "author": {
                 "name": "FredBrave",
@@ -223,6 +212,17 @@
             "author": {
                 "name": "ariyaadinatha",
                 "url": "https://github.com/ariyaadinatha"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/62627838?u=9aa37fc6971d6c00bc1385be939714eab3cc62ed&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2022-46169</div>",
+            "url": "https://github.com/yassinebk/CVE-2022-46169",
+            "title": "yassinebk/CVE-2022-46169: CVE-2022-46169",
+            "date_modified": "2023-04-30T10:37:52.000Z",
+            "date_published": "2023-04-30T10:37:44.000Z",
+            "author": {
+                "name": "yassinebk",
+                "url": "https://github.com/yassinebk"
             }
         }
     ]
