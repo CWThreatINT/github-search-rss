@@ -4,7 +4,7 @@
  **/
 import { RSSItem } from "./index";
 
-const BASE_URL = "https://cwthreatint.github.io/cverss";
+const BASE_URL = "https://cwthreatint.github.io/github-search-rss";
 // Query references
 // https://docs.github.com/en/github/searching-for-information-on-github/understanding-the-search-syntax
 // https://docs.github.com/en/github/searching-for-information-on-github/about-searching-on-github
