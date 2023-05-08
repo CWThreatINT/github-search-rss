@@ -6,6 +6,17 @@
     "description": "CVE-2023 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/53658504?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2023-20052, information leak vulnerability in the DMG file parser of ClamAV</div>",
+            "url": "https://github.com/nokn0wthing/CVE-2023-25002",
+            "title": "nokn0wthing/CVE-2023-25002: CVE-2023-20052, information leak vulnerability in the DMG file parser of ClamAV",
+            "date_modified": "2023-05-08T18:41:41.000Z",
+            "date_published": "2023-05-08T18:34:02.000Z",
+            "author": {
+                "name": "nokn0wthing",
+                "url": "https://github.com/nokn0wthing"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/16506022?u=15fc10c8fe40cecf1e6e1f2aa88f0aae91dcb0d4&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
             "url": "https://github.com/TardC/CVE-2023-27524",
             "title": "TardC/CVE-2023-27524",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "MaanVader",
                 "url": "https://github.com/MaanVader"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/102573923?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
-            "url": "https://github.com/Satheesh575555/linux-4.19.72_CVE-2023-0386",
-            "title": "Satheesh575555/linux-4.19.72_CVE-2023-0386",
-            "date_modified": "2023-05-08T00:32:07.000Z",
-            "date_published": "2023-05-04T11:55:43.000Z",
-            "author": {
-                "name": "Satheesh575555",
-                "url": "https://github.com/Satheesh575555"
             }
         }
     ]
