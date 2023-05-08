@@ -2,7 +2,7 @@
     "version": "https://jsonfeed.org/version/1",
     "title": "CVE-2023 FEED",
     "home_page_url": "https://github.com/search?o=desc&q=CVE-2023&s=updated&type=Repositories",
-    "feed_url": "https://cwthreatint.github.io/cverss/cve2023.json",
+    "feed_url": "https://cwthreatint.github.io/github-search-rss/cve2023.json",
     "description": "CVE-2023 FEED on GitHub",
     "items": [
         {
@@ -108,7 +108,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/16522225?u=fbe429100dba2f6b81b0c03b67aa189e0b3a0a2b&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><h3 dir=\"auto\">Template / PR Information</h3>\n\n\n<ul dir=\"auto\">\n<li>Fixed CVE-2020-XXX / Added CVE-2020-XXX / Updated CVE-2020-XXX</li>\n<li>References:</li>\n</ul>\n<h3 dir=\"auto\">Template Validation</h3>\n<p dir=\"auto\">I've validated this template locally?</p>\n<ul class=\"contains-task-list\">\n<li>[ Y] YES</li>\n<li class=\"task-list-item\"><input type=\"checkbox\" id=\"\" disabled=\"\" class=\"task-list-item-checkbox\"> NO</li>\n</ul>\n<h4 dir=\"auto\">Additional Details (leave it blank if not applicable)</h4>\n\n\n\n\n<h3 dir=\"auto\">Additional References:</h3>\n<ul dir=\"auto\">\n<li><a href=\"https://nuclei.projectdiscovery.io/templating-guide/\" rel=\"nofollow\">Nuclei Template Creation Guideline</a></li>\n<li><a href=\"https://github.com/projectdiscovery/nuclei-templates/wiki/Unique-Template-Matchers\">Nuclei Template Matcher Guideline</a></li>\n<li><a href=\"https://github.com/projectdiscovery/nuclei-templates/blob/master/CONTRIBUTING.md\">Nuclei Template Contribution Guideline</a></li>\n<li><a href=\"https://discord.gg/projectdiscovery\" rel=\"nofollow\">PD-Community Discord server</a></li>\n</ul>",
             "url": "https://github.com/projectdiscovery/nuclei-templates/pull/7177",
             "title": "Added CVE-2023-2356 Template",
-            "date_modified": "2023-05-05T11:38:00.000Z",
+            "date_modified": "2023-05-08T07:12:19.000Z",
             "date_published": "2023-05-04T13:00:06.000Z",
             "author": {
                 "name": "Co5mos",
