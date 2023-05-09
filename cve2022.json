@@ -6,6 +6,17 @@
     "description": "CVE-2022 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/26915500?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Demonstration of the SQL injection vulnerability in wordpress 5.8.2</div>",
+            "url": "https://github.com/daniel616/CVE-2022-21661-Demo",
+            "title": "daniel616/CVE-2022-21661-Demo: Demonstration of the SQL injection vulnerability in wordpress 5.8.2",
+            "date_modified": "2023-05-09T01:06:03.000Z",
+            "date_published": "2023-02-08T04:58:57.000Z",
+            "author": {
+                "name": "daniel616",
+                "url": "https://github.com/daniel616"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/112864964?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2022-24637</div>",
             "url": "https://github.com/c0derpwner/HTB-pwned",
             "title": "c0derpwner/HTB-pwned: CVE-2022-24637",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "ariyaadinatha",
                 "url": "https://github.com/ariyaadinatha"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/62627838?u=9aa37fc6971d6c00bc1385be939714eab3cc62ed&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2022-46169</div>",
-            "url": "https://github.com/yassinebk/CVE-2022-46169",
-            "title": "yassinebk/CVE-2022-46169: CVE-2022-46169",
-            "date_modified": "2023-04-30T10:37:52.000Z",
-            "date_published": "2023-04-30T10:37:44.000Z",
-            "author": {
-                "name": "yassinebk",
-                "url": "https://github.com/yassinebk"
             }
         }
     ]
