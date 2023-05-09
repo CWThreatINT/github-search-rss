@@ -6,6 +6,17 @@
     "description": "CVE-2023 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/105210950?u=aeddc7e33a53af016a65e4095803251b57a68fbf&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Exploits for CVE-2023-27327 and CVE-2023-27328</div>",
+            "url": "https://github.com/kn32/parallels-plist-escape",
+            "title": "kn32/parallels-plist-escape: Exploits for CVE-2023-27327 and CVE-2023-27328",
+            "date_modified": "2023-05-09T20:14:44.000Z",
+            "date_published": "2023-05-09T20:14:43.000Z",
+            "author": {
+                "name": "kn32",
+                "url": "https://github.com/kn32"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/11711101?u=261713aa5c23edb716752f583d1c5b2cac95df4b&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Exploit for CVE-2023-29930: blind file read/write in Genesys TFTP provisioning server configuration</div>",
             "url": "https://github.com/YSaxon/TFTPlunder",
             "title": "YSaxon/TFTPlunder: Exploit for CVE-2023-29930: blind file read/write in Genesys TFTP provisioning server configuration",
@@ -86,7 +97,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/18223385?u=5ba29c1a9447ae88a6a0433f44038f47471e11c1&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>TOP All bugbounty pentesting CVE-2023- POC Exp  RCE example payload  Things</div>",
             "url": "https://github.com/hktalent/TOP",
             "title": "hktalent/TOP: TOP All bugbounty pentesting CVE-2023- POC Exp  RCE example payload  Things",
-            "date_modified": "2023-05-09T19:51:38.000Z",
+            "date_modified": "2023-05-09T20:36:29.000Z",
             "date_published": "2022-03-19T01:54:15.000Z",
             "author": {
                 "name": "hktalent",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "chenaotian",
                 "url": "https://github.com/chenaotian"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/73027590?u=cab69d523ba8d242213726f9ea405b52d0895b42&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>DHCP Server Remote Code Execution impact:  2008 R2 SP1 до Server 2019</div>",
-            "url": "https://github.com/glavstroy/CVE-2023-28231",
-            "title": "glavstroy/CVE-2023-28231: DHCP Server Remote Code Execution impact:  2008 R2 SP1 до Server 2019",
-            "date_modified": "2023-05-09T14:38:56.000Z",
-            "date_published": "2023-05-05T21:13:13.000Z",
-            "author": {
-                "name": "glavstroy",
-                "url": "https://github.com/glavstroy"
             }
         }
     ]
