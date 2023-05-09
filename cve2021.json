@@ -6,6 +6,17 @@
     "description": "CVE-2021 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/52184829?u=3d58decd04baa22156589dcf3458a2ba453199c2&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Alibaba-Nacos-Unauthorized/ApacheDruid-RCE_CVE-2021-25646/MS-Exchange-SSRF-CVE-2021-26885/Oracle-WebLogic-CVE-2021-2109_RCE/RG-CNVD-2021-14536/RJ-SSL-VPN-UltraVires/Redis-Unauthorized-RCE/TDOA-V11.7-GetOnlineCookie/VMware-vCenter-GetAnyFile/yongyou-GRP-U8-XXE/Oracle-WebLogic-CVE-2020-14883/Oracle-WebLogic-CVE-2020-14882/Apache-Solr-GetAnyFile/F5-BIG-IP-CVE-2021-22986/Sonicwall-SSL-VPN-RCE/GitLab-Graphql-CNVD-2021-14193/D-Link-DCS-CVE-2020-25078/WLAN-AP-WEA453e-RCE/360TianQing-Unauthorized/360TianQing-SQLinjection/FanWeiOA-V8-SQLinjection/QiZhiBaoLeiJi-AnyUserLogin/QiAnXin-WangKangFirewall-RCE/金山-V8-终端安全系统/NCCloud-SQLinjection/ShowDoc-RCE</div>",
+            "url": "https://github.com/1n7erface/PocList",
+            "title": "1n7erface/PocList: Alibaba-Nacos-Unauthorized/ApacheDruid-RCE_CVE-2021-25646/MS-Exchange-SSRF-CVE-2021-26885/Oracle-WebLogic-CVE-2021-2109_RCE/RG-CNVD-2021-14536/RJ-SSL-VPN-UltraVires/Redis-Unauthorized-RCE/TDOA-V11.7-GetOnlineCookie/VMware-vCenter-GetAnyFile/yongyou-GRP-U8-XXE/Oracle-WebLogic-CVE-2020-14883/Oracle-WebLogic-CVE-2020-14882/Apache-Solr-GetAnyFile/F5-BIG-IP-CVE-2021-22986/Sonicwall-SSL-VPN-RCE/GitLab-Graphql-CNVD-2021-14193/D-Link-DCS-CVE-2020-25078/WLAN-AP-WEA453e-RCE/360TianQing-Unauthorized/360TianQing-SQLinjection/FanWeiOA-V8-SQLinjection/QiZhiBaoLeiJi-AnyUserLogin/QiAnXin-WangKangFirewall-RCE/金山-V8-终端安全系统/NCCloud-SQLinjection/ShowDoc-RCE",
+            "date_modified": "2023-05-09T09:13:51.000Z",
+            "date_published": "2021-03-11T22:49:17.000Z",
+            "author": {
+                "name": "1n7erface",
+                "url": "https://github.com/1n7erface"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/73027590?u=cab69d523ba8d242213726f9ea405b52d0895b42&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A Brief Introduction to V8 Inline Cache and Exploitating Type Confusion</div>",
             "url": "https://github.com/glavstroy/CVE-2021-38001",
             "title": "glavstroy/CVE-2021-38001: A Brief Introduction to V8 Inline Cache and Exploitating Type Confusion",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "34zY",
                 "url": "https://github.com/34zY"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/53053198?u=d32b237f3c35cbdead92c20c8e3f64f1b4adef14&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Multiple SQL Injection Vulnerability in Support Board Version 3.3.3 that allow remote unauthenticated attacker to execute arbitrary SQL commands via status_code, department, user_id, conversation_id, conversation_status_code, and recipient_id parameters to ajax.php which is connected to functions.php which the vulnerability is present.</div>",
-            "url": "https://github.com/itsjeffersonli/CVE-2021-24741",
-            "title": "itsjeffersonli/CVE-2021-24741: Multiple SQL Injection Vulnerability in Support Board Version 3.3.3 that allow remote unauthenticated attacker to execute arbitrary SQL commands via status_code, department, user_id, conversation_id, conversation_status_code, and recipient_id parameters to ajax.php which is connected to functions.php which the vulnerability is present.",
-            "date_modified": "2023-04-24T02:39:18.000Z",
-            "date_published": "2021-08-28T18:34:40.000Z",
-            "author": {
-                "name": "itsjeffersonli",
-                "url": "https://github.com/itsjeffersonli"
             }
         }
     ]
