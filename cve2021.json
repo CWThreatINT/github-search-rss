@@ -6,6 +6,17 @@
     "description": "CVE-2021 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/30470719?u=c18b8f98025a9907c3de87a3fa7e036e54de8067&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>PoC for CVE-2021-26088 written in PowerShell</div>",
+            "url": "https://github.com/theogobinet/CVE-2021-26088",
+            "title": "theogobinet/CVE-2021-26088: PoC for CVE-2021-26088 written in PowerShell",
+            "date_modified": "2023-05-09T13:18:49.000Z",
+            "date_published": "2023-05-09T13:13:41.000Z",
+            "author": {
+                "name": "theogobinet",
+                "url": "https://github.com/theogobinet"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/60603602?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Scanner for vScalation (CVE-2021-22015) a Local Privilege Escalation in VMWare vCenter</div>",
             "url": "https://github.com/PenteraIO/vScalation-CVE-2021-22015",
             "title": "PenteraIO/vScalation-CVE-2021-22015: Scanner for vScalation (CVE-2021-22015) a Local Privilege Escalation in VMWare vCenter",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "MatanelGordon",
                 "url": "https://github.com/MatanelGordon"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/101071411?u=6e03d8180dd059d493acc2a2087099c8710c0d46&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>An issue was discovered in BS_RCIO64.sys in Biostar RACING GT Evo 2.1.1905.1700. A low-integrity process can open the driver's device object and issue IOCTLs to read or write to arbitrary physical memory locations (or call an arbitrary address), leading to execution of arbitrary code. This is associated with 0x226040, 0x226044, and 0x226000.</div>",
-            "url": "https://github.com/Exploitables/CVE-2021-44852",
-            "title": "Exploitables/CVE-2021-44852: An issue was discovered in BS_RCIO64.sys in Biostar RACING GT Evo 2.1.1905.1700. A low-integrity process can open the driver's device object and issue IOCTLs to read or write to arbitrary physical memory locations (or call an arbitrary address), leading to execution of arbitrary code. This is associated with 0x226040, 0x226044, and 0x226000.",
-            "date_modified": "2023-03-22T14:09:02.000Z",
-            "date_published": "2023-03-22T04:11:03.000Z",
-            "author": {
-                "name": "Exploitables",
-                "url": "https://github.com/Exploitables"
             }
         }
     ]
