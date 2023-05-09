@@ -6,17 +6,6 @@
     "description": "CVE-2022 FEED on GitHub",
     "items": [
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/67005408?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
-            "url": "https://github.com/hshivhare67/kernel_v4.19.72_CVE-2022-0386",
-            "title": "hshivhare67/kernel_v4.19.72_CVE-2022-0386",
-            "date_modified": "2023-05-09T08:24:10.000Z",
-            "date_published": "2023-05-09T08:11:58.000Z",
-            "author": {
-                "name": "hshivhare67",
-                "url": "https://github.com/hshivhare67"
-            }
-        },
-        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/26915500?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Demonstration of the SQL injection vulnerability in wordpress 5.8.2</div>",
             "url": "https://github.com/daniel616/CVE-2022-21661-Demo",
             "title": "daniel616/CVE-2022-21661-Demo: Demonstration of the SQL injection vulnerability in wordpress 5.8.2",
@@ -223,6 +212,17 @@
             "author": {
                 "name": "jonathanbest7",
                 "url": "https://github.com/jonathanbest7"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/54601298?u=9666200154494c79bf606798c2fda08255e54e1a&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>This is poc of CVE-2022-46169 authentication bypass and remote code execution</div>",
+            "url": "https://github.com/ariyaadinatha/cacti-cve-2022-46169-exploit",
+            "title": "ariyaadinatha/cacti-cve-2022-46169-exploit: This is poc of CVE-2022-46169 authentication bypass and remote code execution",
+            "date_modified": "2023-05-09T01:47:37.000Z",
+            "date_published": "2023-03-11T19:39:44.000Z",
+            "author": {
+                "name": "ariyaadinatha",
+                "url": "https://github.com/ariyaadinatha"
             }
         }
     ]
