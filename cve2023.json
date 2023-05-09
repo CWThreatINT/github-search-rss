@@ -6,6 +6,28 @@
     "description": "CVE-2023 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/11711101?u=261713aa5c23edb716752f583d1c5b2cac95df4b&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Exploit for CVE-2023-29930: blind file read/write in Genesys TFTP provisioning server configuration</div>",
+            "url": "https://github.com/YSaxon/TFTPlunder",
+            "title": "YSaxon/TFTPlunder: Exploit for CVE-2023-29930: blind file read/write in Genesys TFTP provisioning server configuration",
+            "date_modified": "2023-05-09T16:37:51.000Z",
+            "date_published": "2021-07-02T03:10:53.000Z",
+            "author": {
+                "name": "YSaxon",
+                "url": "https://github.com/YSaxon"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/35935843?u=ea29b53d5a9590084396a4f39a8e7dabc7c60903&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>QloApp 1.5.2: Vulnerable to XSS on two Parameter (email_create and back)</div>",
+            "url": "https://github.com/ahrixia/CVE-2023-30256",
+            "title": "ahrixia/CVE-2023-30256: QloApp 1.5.2: Vulnerable to XSS on two Parameter (email_create and back)",
+            "date_modified": "2023-05-09T16:37:56.000Z",
+            "date_published": "2023-04-10T16:02:27.000Z",
+            "author": {
+                "name": "ahrixia",
+                "url": "https://github.com/ahrixia"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/67005408?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
             "url": "https://github.com/hshivhare67/kernel_v4.19.72_CVE-2023-0461",
             "title": "hshivhare67/kernel_v4.19.72_CVE-2023-0461",
@@ -53,7 +75,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/16506022?u=15fc10c8fe40cecf1e6e1f2aa88f0aae91dcb0d4&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
             "url": "https://github.com/TardC/CVE-2023-27524",
             "title": "TardC/CVE-2023-27524",
-            "date_modified": "2023-05-09T09:20:33.000Z",
+            "date_modified": "2023-05-09T16:13:22.000Z",
             "date_published": "2023-05-08T16:50:08.000Z",
             "author": {
                 "name": "TardC",
@@ -201,28 +223,6 @@
             "author": {
                 "name": "glavstroy",
                 "url": "https://github.com/glavstroy"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/84887432?u=e821a4292a664415f89ea708ffc0b6ccf75816e7&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2023-29489 mass exploit</div>",
-            "url": "https://github.com/1337r0j4n/CVE-2023-29489",
-            "title": "1337r0j4n/CVE-2023-29489: CVE-2023-29489 mass exploit",
-            "date_modified": "2023-05-05T10:49:47.000Z",
-            "date_published": "2023-05-05T10:45:19.000Z",
-            "author": {
-                "name": "1337r0j4n",
-                "url": "https://github.com/1337r0j4n"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/25004320?u=99d09ef85cd44e7d26278c0575b561c7c55352b9&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Perform With Apache-SuperSet Leaked Token [CSRF]</div>",
-            "url": "https://github.com/Pari-Malam/CVE-2023-27524",
-            "title": "Pari-Malam/CVE-2023-27524: Perform With Apache-SuperSet Leaked Token [CSRF]",
-            "date_modified": "2023-05-04T23:59:24.000Z",
-            "date_published": "2023-05-04T21:43:48.000Z",
-            "author": {
-                "name": "Pari-Malam",
-                "url": "https://github.com/Pari-Malam"
             }
         }
     ]
