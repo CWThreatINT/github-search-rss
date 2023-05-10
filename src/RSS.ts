@@ -21,14 +21,14 @@ export const SEARCH_ITEMS: RSSItem[] = [
     },
     {
         title: "CVE-2022 FEED",
-        query: "CVE-2022 sort:modifed-desc",
+        query: "CVE-2022 sort:modified-desc",
         TYPE: "REPOSITORY",
         link: `${BASE_URL}/cve2022.json`,
         homepage: "https://github.com/search?o=desc&q=CVE-2022&s=updated&type=Repositories"
     },
     {
         title: "CVE-2021 FEED",
-        query: "CVE-2021 sort:modifed-desc",
+        query: "CVE-2021 sort:modified-desc",
         TYPE: "REPOSITORY",
         link: `${BASE_URL}/cve2021.json`,
         homepage: "https://github.com/search?o=desc&q=CVE-2021&s=updated&type=Repositories"
