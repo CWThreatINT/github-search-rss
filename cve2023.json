@@ -149,6 +149,17 @@
             }
         },
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/85083396?u=8c66f0ecf865e20db00a06c81dc9c1398550666d&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>PoC for CVE-2023-2123</div>",
+            "url": "https://github.com/daniloalbuqrque/poc-cve-xss-encoded-wp-inventory-manager-plugin",
+            "title": "daniloalbuqrque/poc-cve-xss-encoded-wp-inventory-manager-plugin: PoC for CVE-2023-2123",
+            "date_modified": "2023-05-10T19:40:34.000Z",
+            "date_published": "2023-04-16T00:33:56.000Z",
+            "author": {
+                "name": "daniloalbuqrque",
+                "url": "https://github.com/daniloalbuqrque"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/92280784?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
             "url": "https://github.com/c7w1n/CVE-2023-30185",
             "title": "c7w1n/CVE-2023-30185",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "sandumjacob",
                 "url": "https://github.com/sandumjacob"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/94809865?u=e80a343277ab1acd6df1a3688e3f2de909cbbee5&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2023-23397 PoC</div>",
-            "url": "https://github.com/vlad-a-man/CVE-2023-23397",
-            "title": "vlad-a-man/CVE-2023-23397: CVE-2023-23397 PoC",
-            "date_modified": "2023-05-08T07:10:50.000Z",
-            "date_published": "2023-05-07T18:21:35.000Z",
-            "author": {
-                "name": "vlad-a-man",
-                "url": "https://github.com/vlad-a-man"
             }
         }
     ]
