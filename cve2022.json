@@ -6,6 +6,17 @@
     "description": "CVE-2022 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/105592340?u=f027c8d2035e3fbebbc41e00df34861aa1d256c9&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>redis未授权、redis_CVE-2022-0543检测利用二合一脚本</div>",
+            "url": "https://github.com/SiennaSkies/redisHack",
+            "title": "SiennaSkies/redisHack: redis未授权、redis_CVE-2022-0543检测利用二合一脚本",
+            "date_modified": "2023-05-10T05:06:25.000Z",
+            "date_published": "2023-05-10T05:05:31.000Z",
+            "author": {
+                "name": "SiennaSkies",
+                "url": "https://github.com/SiennaSkies"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/26915500?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Demonstration of the SQL injection vulnerability in wordpress 5.8.2</div>",
             "url": "https://github.com/daniel616/CVE-2022-21661-Demo",
             "title": "daniel616/CVE-2022-21661-Demo: Demonstration of the SQL injection vulnerability in wordpress 5.8.2",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "ruycr4ft",
                 "url": "https://github.com/ruycr4ft"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/507442?u=5ed6aa1139c2759e57fb7d9e97ea06295dc1a5f3&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2022-46718: an app may be able to read sensitive location information.</div>",
-            "url": "https://github.com/biscuitehh/cve-2022-46718-leaky-location",
-            "title": "biscuitehh/cve-2022-46718-leaky-location: CVE-2022-46718: an app may be able to read sensitive location information.",
-            "date_modified": "2023-05-05T19:54:16.000Z",
-            "date_published": "2023-05-01T18:34:52.000Z",
-            "author": {
-                "name": "biscuitehh",
-                "url": "https://github.com/biscuitehh"
             }
         }
     ]

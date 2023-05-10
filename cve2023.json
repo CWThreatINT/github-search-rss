@@ -6,11 +6,33 @@
     "description": "CVE-2023 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/86924237?u=f6f534d9a62258d4b5dad17e211ab9d2cb46465b&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A vulnerability, which was classified as critical, was found in SourceCodester Food Ordering Management System 1.0. Affected is an unknown function of the component Registration. The manipulation of the argument username leads to sql injection. It is possible to launch the attack remotely. The identifier of this vulnerability is VDB-228396.</div>",
+            "url": "https://github.com/thehackingverse/CVE-2023-2594",
+            "title": "thehackingverse/CVE-2023-2594: A vulnerability, which was classified as critical, was found in SourceCodester Food Ordering Management System 1.0. Affected is an unknown function of the component Registration. The manipulation of the argument username leads to sql injection. It is possible to launch the attack remotely. The identifier of this vulnerability is VDB-228396.",
+            "date_modified": "2023-05-10T06:07:43.000Z",
+            "date_published": "2023-05-10T06:07:43.000Z",
+            "author": {
+                "name": "thehackingverse",
+                "url": "https://github.com/thehackingverse"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/106973537?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
             "url": "https://github.com/nidhi7598/linux-4.19.72_CVE-2023-0461",
             "title": "nidhi7598/linux-4.19.72_CVE-2023-0461",
             "date_modified": "2023-05-10T04:53:12.000Z",
             "date_published": "2023-05-10T04:44:33.000Z",
+            "author": {
+                "name": "nidhi7598",
+                "url": "https://github.com/nidhi7598"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/106973537?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
+            "url": "https://github.com/nidhi7598/linux-4.19.72_CVE-2023-28772",
+            "title": "nidhi7598/linux-4.19.72_CVE-2023-28772",
+            "date_modified": "2023-05-10T05:33:16.000Z",
+            "date_published": "2023-05-10T05:22:21.000Z",
             "author": {
                 "name": "nidhi7598",
                 "url": "https://github.com/nidhi7598"
@@ -31,7 +53,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/18223385?u=5ba29c1a9447ae88a6a0433f44038f47471e11c1&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>TOP All bugbounty pentesting CVE-2023- POC Exp  RCE example payload  Things</div>",
             "url": "https://github.com/hktalent/TOP",
             "title": "hktalent/TOP: TOP All bugbounty pentesting CVE-2023- POC Exp  RCE example payload  Things",
-            "date_modified": "2023-05-10T03:16:01.000Z",
+            "date_modified": "2023-05-10T05:19:01.000Z",
             "date_published": "2022-03-19T01:54:15.000Z",
             "author": {
                 "name": "hktalent",
@@ -201,28 +223,6 @@
             "author": {
                 "name": "vlad-a-man",
                 "url": "https://github.com/vlad-a-man"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/86009160?u=b774578387fb2e4255f321f4d09dded1f7521846&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>VM Escape for Parallels Desktop &lt;18.1.1</div>",
-            "url": "https://github.com/Malwareman007/CVE-2023-27326",
-            "title": "Malwareman007/CVE-2023-27326: VM Escape for Parallels Desktop <18.1.1",
-            "date_modified": "2023-05-10T00:20:14.000Z",
-            "date_published": "2023-05-05T14:11:18.000Z",
-            "author": {
-                "name": "Malwareman007",
-                "url": "https://github.com/Malwareman007"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/73282041?u=8f1c71ada4cb02047ecaf8b22ae2c6eba7be9835&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
-            "url": "https://github.com/x-Defender/CVE-2023-29007_win-version",
-            "title": "x-Defender/CVE-2023-29007_win-version",
-            "date_modified": "2023-05-07T04:18:33.000Z",
-            "date_published": "2023-05-06T13:25:35.000Z",
-            "author": {
-                "name": "x-Defender",
-                "url": "https://github.com/x-Defender"
             }
         }
     ]
