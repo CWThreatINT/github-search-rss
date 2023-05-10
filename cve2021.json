@@ -6,91 +6,47 @@
     "description": "CVE-2021 FEED on GitHub",
     "items": [
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/3830775?u=ae6685722687541cd30b0f7f3357fe3eccb58af0&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Check and report for cve_2021_44228 (log4shell) on your system.</div>",
-            "url": "https://github.com/robertdebock/ansible-role-cve_2021_44228",
-            "title": "robertdebock/ansible-role-cve_2021_44228: Check and report for cve_2021_44228 (log4shell) on your system.",
-            "date_modified": "2023-03-03T11:07:54.000Z",
-            "date_published": "2021-12-15T14:53:17.000Z",
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/1332095?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2021-4034 1day</div>",
+            "url": "https://github.com/berdav/CVE-2021-4034",
+            "title": "berdav/CVE-2021-4034: CVE-2021-4034 1day",
+            "date_modified": "2023-05-09T03:47:49.000Z",
+            "date_published": "2022-01-25T23:51:37.000Z",
             "author": {
-                "name": "robertdebock",
-                "url": "https://github.com/robertdebock"
+                "name": "berdav",
+                "url": "https://github.com/berdav"
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/30470719?u=c18b8f98025a9907c3de87a3fa7e036e54de8067&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>PoC for CVE-2021-26088 written in PowerShell</div>",
-            "url": "https://github.com/theogobinet/CVE-2021-26088",
-            "title": "theogobinet/CVE-2021-26088: PoC for CVE-2021-26088 written in PowerShell",
-            "date_modified": "2023-05-09T13:18:49.000Z",
-            "date_published": "2023-05-09T13:13:41.000Z",
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/37779789?u=86a1aabeb297d18cc15dfef9e29de31d5c82c226&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2021-40444 PoC</div>",
+            "url": "https://github.com/lockedbyte/CVE-2021-40444",
+            "title": "lockedbyte/CVE-2021-40444: CVE-2021-40444 PoC",
+            "date_modified": "2023-05-05T16:11:58.000Z",
+            "date_published": "2021-09-10T16:55:53.000Z",
             "author": {
-                "name": "theogobinet",
-                "url": "https://github.com/theogobinet"
+                "name": "lockedbyte",
+                "url": "https://github.com/lockedbyte"
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/60603602?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Scanner for vScalation (CVE-2021-22015) a Local Privilege Escalation in VMWare vCenter</div>",
-            "url": "https://github.com/PenteraIO/vScalation-CVE-2021-22015",
-            "title": "PenteraIO/vScalation-CVE-2021-22015: Scanner for vScalation (CVE-2021-22015) a Local Privilege Escalation in VMWare vCenter",
-            "date_modified": "2023-02-02T15:20:40.000Z",
-            "date_published": "2021-09-30T07:16:27.000Z",
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/39370848?u=e4a5e8b9d78ef928570bd33c1133482f6341c919&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2021-42287/CVE-2021-42278 Scanner &amp; Exploiter.</div>",
+            "url": "https://github.com/cube0x0/noPac",
+            "title": "cube0x0/noPac: CVE-2021-42287/CVE-2021-42278 Scanner & Exploiter.",
+            "date_modified": "2023-05-08T01:06:38.000Z",
+            "date_published": "2021-12-11T19:27:30.000Z",
             "author": {
-                "name": "PenteraIO",
-                "url": "https://github.com/PenteraIO"
+                "name": "cube0x0",
+                "url": "https://github.com/cube0x0"
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/52184829?u=3d58decd04baa22156589dcf3458a2ba453199c2&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Alibaba-Nacos-Unauthorized/ApacheDruid-RCE_CVE-2021-25646/MS-Exchange-SSRF-CVE-2021-26885/Oracle-WebLogic-CVE-2021-2109_RCE/RG-CNVD-2021-14536/RJ-SSL-VPN-UltraVires/Redis-Unauthorized-RCE/TDOA-V11.7-GetOnlineCookie/VMware-vCenter-GetAnyFile/yongyou-GRP-U8-XXE/Oracle-WebLogic-CVE-2020-14883/Oracle-WebLogic-CVE-2020-14882/Apache-Solr-GetAnyFile/F5-BIG-IP-CVE-2021-22986/Sonicwall-SSL-VPN-RCE/GitLab-Graphql-CNVD-2021-14193/D-Link-DCS-CVE-2020-25078/WLAN-AP-WEA453e-RCE/360TianQing-Unauthorized/360TianQing-SQLinjection/FanWeiOA-V8-SQLinjection/QiZhiBaoLeiJi-AnyUserLogin/QiAnXin-WangKangFirewall-RCE/金山-V8-终端安全系统/NCCloud-SQLinjection/ShowDoc-RCE</div>",
-            "url": "https://github.com/1n7erface/PocList",
-            "title": "1n7erface/PocList: Alibaba-Nacos-Unauthorized/ApacheDruid-RCE_CVE-2021-25646/MS-Exchange-SSRF-CVE-2021-26885/Oracle-WebLogic-CVE-2021-2109_RCE/RG-CNVD-2021-14536/RJ-SSL-VPN-UltraVires/Redis-Unauthorized-RCE/TDOA-V11.7-GetOnlineCookie/VMware-vCenter-GetAnyFile/yongyou-GRP-U8-XXE/Oracle-WebLogic-CVE-2020-14883/Oracle-WebLogic-CVE-2020-14882/Apache-Solr-GetAnyFile/F5-BIG-IP-CVE-2021-22986/Sonicwall-SSL-VPN-RCE/GitLab-Graphql-CNVD-2021-14193/D-Link-DCS-CVE-2020-25078/WLAN-AP-WEA453e-RCE/360TianQing-Unauthorized/360TianQing-SQLinjection/FanWeiOA-V8-SQLinjection/QiZhiBaoLeiJi-AnyUserLogin/QiAnXin-WangKangFirewall-RCE/金山-V8-终端安全系统/NCCloud-SQLinjection/ShowDoc-RCE",
-            "date_modified": "2023-05-09T09:13:51.000Z",
-            "date_published": "2021-03-11T22:49:17.000Z",
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/39370848?u=e4a5e8b9d78ef928570bd33c1133482f6341c919&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>C# and Impacket implementation of PrintNightmare CVE-2021-1675/CVE-2021-34527</div>",
+            "url": "https://github.com/cube0x0/CVE-2021-1675",
+            "title": "cube0x0/CVE-2021-1675: C# and Impacket implementation of PrintNightmare CVE-2021-1675/CVE-2021-34527",
+            "date_modified": "2023-05-10T11:15:54.000Z",
+            "date_published": "2021-06-29T17:24:14.000Z",
             "author": {
-                "name": "1n7erface",
-                "url": "https://github.com/1n7erface"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/73027590?u=cab69d523ba8d242213726f9ea405b52d0895b42&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A Brief Introduction to V8 Inline Cache and Exploitating Type Confusion</div>",
-            "url": "https://github.com/glavstroy/CVE-2021-38001",
-            "title": "glavstroy/CVE-2021-38001: A Brief Introduction to V8 Inline Cache and Exploitating Type Confusion",
-            "date_modified": "2023-05-08T14:49:31.000Z",
-            "date_published": "2023-05-08T14:43:03.000Z",
-            "author": {
-                "name": "glavstroy",
-                "url": "https://github.com/glavstroy"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/8308258?u=301d6bae0a5e45e1bc37fd37590f09d5d7326b99&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Simple payload builder</div>",
-            "url": "https://github.com/BenEdridge/CVE-2021-46703",
-            "title": "BenEdridge/CVE-2021-46703: Simple payload builder",
-            "date_modified": "2023-05-07T11:40:10.000Z",
-            "date_published": "2023-05-07T08:25:37.000Z",
-            "author": {
-                "name": "BenEdridge",
-                "url": "https://github.com/BenEdridge"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/5873573?u=3be2c745f678b3c4041926995970c3d693237216&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Cobalt Strike (CS) Beacon Object File (BOF) foundation for kernel exploitation using CVE-2021-21551.</div>",
-            "url": "https://github.com/tijme/kernel-mii",
-            "title": "tijme/kernel-mii: Cobalt Strike (CS) Beacon Object File (BOF) foundation for kernel exploitation using CVE-2021-21551.",
-            "date_modified": "2023-05-05T16:12:08.000Z",
-            "date_published": "2022-06-25T11:13:45.000Z",
-            "author": {
-                "name": "tijme",
-                "url": "https://github.com/tijme"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/70909693?u=33c011e3c268d75dec372499949b60a7e59e7c73&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Apache version 2.4.49 is vulnerable to a directory traversal attack that could allow attackers to reveal sensitive information or gain remote code execution.</div>",
-            "url": "https://github.com/K3ysTr0K3R/CVE-2021-41773-EXPLOIT",
-            "title": "K3ysTr0K3R/CVE-2021-41773-EXPLOIT: Apache version 2.4.49 is vulnerable to a directory traversal attack that could allow attackers to reveal sensitive information or gain remote code execution.",
-            "date_modified": "2023-05-06T21:09:36.000Z",
-            "date_published": "2023-05-06T17:46:29.000Z",
-            "author": {
-                "name": "K3ysTr0K3R",
-                "url": "https://github.com/K3ysTr0K3R"
+                "name": "cube0x0",
+                "url": "https://github.com/cube0x0"
             }
         },
         {
@@ -105,124 +61,168 @@
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/98812000?u=c1412341907d9b4065dc01104dcb92fd13ad38a1&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2021-21300</div>",
-            "url": "https://github.com/henry861010/Network_Security_NYCU",
-            "title": "henry861010/Network_Security_NYCU: CVE-2021-21300",
-            "date_modified": "2023-05-04T11:49:24.000Z",
-            "date_published": "2023-05-04T07:46:35.000Z",
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/33349032?u=fbbb829309794f573c5f315afa161ce9dca49220&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2021-21972 Exploit</div>",
+            "url": "https://github.com/NS-Sp4ce/CVE-2021-21972",
+            "title": "NS-Sp4ce/CVE-2021-21972: CVE-2021-21972 Exploit",
+            "date_modified": "2023-05-10T16:54:35.000Z",
+            "date_published": "2021-02-24T11:14:58.000Z",
             "author": {
-                "name": "henry861010",
-                "url": "https://github.com/henry861010"
+                "name": "NS-Sp4ce",
+                "url": "https://github.com/NS-Sp4ce"
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/52085661?u=110ee8298a225cd24aa5b6015dd05e606d36d2c9&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>POC for CVE-2021-41091</div>",
-            "url": "https://github.com/UncleJ4ck/CVE-2021-41091",
-            "title": "UncleJ4ck/CVE-2021-41091: POC for CVE-2021-41091",
-            "date_modified": "2023-05-10T08:50:25.000Z",
-            "date_published": "2023-05-02T07:25:13.000Z",
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/101374?u=a7e25a91bea4f2414e412195be4310364b5a7151&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
+            "url": "https://github.com/blasty/CVE-2021-3156",
+            "title": "blasty/CVE-2021-3156",
+            "date_modified": "2023-05-09T13:36:52.000Z",
+            "date_published": "2021-01-30T20:39:58.000Z",
             "author": {
-                "name": "UncleJ4ck",
-                "url": "https://github.com/UncleJ4ck"
+                "name": "blasty",
+                "url": "https://github.com/blasty"
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/42806772?u=54c0195ba23ba1fc863cc16bcc5fc35da76bfe57&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div><g-emoji class=\"g-emoji\" alias=\"bomb\" fallback-src=\"https://github.githubassets.com/images/icons/emoji/unicode/1f4a3.png\">💣</g-emoji><g-emoji class=\"g-emoji\" alias=\"boom\" fallback-src=\"https://github.githubassets.com/images/icons/emoji/unicode/1f4a5.png\">💥</g-emoji><g-emoji class=\"g-emoji\" alias=\"skull\" fallback-src=\"https://github.githubassets.com/images/icons/emoji/unicode/1f480.png\">💀</g-emoji> Proof of Concept: пример запуска fork-бомбы на удаленном сервере благодаря уязвимости CVE-2021-44228</div>",
-            "url": "https://github.com/funcid/log4j-exploit-fork-bomb",
-            "title": "funcid/log4j-exploit-fork-bomb: 💣💥💀 Proof of Concept: пример запуска fork-бомбы на удаленном сервере благодаря уязвимости CVE-2021-44228",
-            "date_modified": "2023-05-06T18:26:50.000Z",
-            "date_published": "2023-04-15T12:47:39.000Z",
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/7529189?u=c2d48bc13a65b0be72f2d77a352a0b78847e583d&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Pure PowerShell implementation of CVE-2021-1675 Print Spooler Local Privilege Escalation (PrintNightmare)</div>",
+            "url": "https://github.com/calebstewart/CVE-2021-1675",
+            "title": "calebstewart/CVE-2021-1675: Pure PowerShell implementation of CVE-2021-1675 Print Spooler Local Privilege Escalation (PrintNightmare)",
+            "date_modified": "2023-05-10T11:16:38.000Z",
+            "date_published": "2021-07-01T23:45:58.000Z",
             "author": {
-                "name": "funcid",
-                "url": "https://github.com/funcid"
+                "name": "calebstewart",
+                "url": "https://github.com/calebstewart"
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/114736274?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
-            "url": "https://github.com/Zoo1sondv/CVE-2021-3129",
-            "title": "Zoo1sondv/CVE-2021-3129",
-            "date_modified": "2023-05-01T03:40:47.000Z",
-            "date_published": "2023-05-01T03:20:13.000Z",
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/68001644?u=462822ad15461addb74832de164e61a93276da7b&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2021-1732 Exploit</div>",
+            "url": "https://github.com/KaLendsi/CVE-2021-1732-Exploit",
+            "title": "KaLendsi/CVE-2021-1732-Exploit: CVE-2021-1732 Exploit",
+            "date_modified": "2023-05-05T16:11:48.000Z",
+            "date_published": "2021-03-05T02:11:10.000Z",
             "author": {
-                "name": "Zoo1sondv",
-                "url": "https://github.com/Zoo1sondv"
+                "name": "KaLendsi",
+                "url": "https://github.com/KaLendsi"
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/131547485?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
-            "url": "https://github.com/andyhsu024/CVE-2021-29447",
-            "title": "andyhsu024/CVE-2021-29447",
-            "date_modified": "2023-04-24T01:33:23.000Z",
-            "date_published": "2023-04-24T01:33:22.000Z",
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/20618414?u=c3aed2b6df2ad19ff650eb051f090e41c1c19f50&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Exploiting CVE-2021-42278 and CVE-2021-42287 to impersonate DA from standard domain user </div>",
+            "url": "https://github.com/WazeHell/sam-the-admin",
+            "title": "WazeHell/sam-the-admin: Exploiting CVE-2021-42278 and CVE-2021-42287 to impersonate DA from standard domain user ",
+            "date_modified": "2023-05-06T05:03:01.000Z",
+            "date_published": "2021-12-11T15:10:30.000Z",
             "author": {
-                "name": "andyhsu024",
-                "url": "https://github.com/andyhsu024"
+                "name": "WazeHell",
+                "url": "https://github.com/WazeHell"
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/68028935?u=4a6327bb6c54abdd7cfd341700da99e9b6e4e89e&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Exploit in python3 to explore CVE-2021-38314 in Redux Framework a wordpress plugin </div>",
-            "url": "https://github.com/0xGabe/CVE-2021-38314",
-            "title": "0xGabe/CVE-2021-38314: Exploit in python3 to explore CVE-2021-38314 in Redux Framework a wordpress plugin ",
-            "date_modified": "2023-05-02T19:43:05.000Z",
-            "date_published": "2023-04-28T17:03:27.000Z",
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/14171714?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Vulnerability scanner and mitigation patch for Log4j2 CVE-2021-44228</div>",
+            "url": "https://github.com/logpresso/CVE-2021-44228-Scanner",
+            "title": "logpresso/CVE-2021-44228-Scanner: Vulnerability scanner and mitigation patch for Log4j2 CVE-2021-44228",
+            "date_modified": "2023-05-08T13:03:04.000Z",
+            "date_published": "2021-12-11T11:18:46.000Z",
             "author": {
-                "name": "0xGabe",
-                "url": "https://github.com/0xGabe"
+                "name": "logpresso",
+                "url": "https://github.com/logpresso"
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/33289300?u=f874082eec8cecd6ab1f067521011d3a4f537cc6&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2021-31589 is a powerful scanner for bug bounty hunters and penetration testers to discover vulnerabilities in their web applications.</div>",
-            "url": "https://github.com/karthi-the-hacker/CVE-2021-31589",
-            "title": "karthi-the-hacker/CVE-2021-31589: CVE-2021-31589 is a powerful scanner for bug bounty hunters and penetration testers to discover vulnerabilities in their web applications.",
-            "date_modified": "2023-04-19T09:11:50.000Z",
-            "date_published": "2023-04-19T09:10:40.000Z",
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/8959898?u=856c9dc333cb1fac44f903988bafd7e6b01b7336&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2021-40444 - Fully Weaponized Microsoft Office Word RCE Exploit</div>",
+            "url": "https://github.com/klezVirus/CVE-2021-40444",
+            "title": "klezVirus/CVE-2021-40444: CVE-2021-40444 - Fully Weaponized Microsoft Office Word RCE Exploit",
+            "date_modified": "2023-05-05T16:11:59.000Z",
+            "date_published": "2021-09-15T22:34:35.000Z",
             "author": {
-                "name": "karthi-the-hacker",
-                "url": "https://github.com/karthi-the-hacker"
+                "name": "klezVirus",
+                "url": "https://github.com/klezVirus"
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/48286013?u=82a89f0426f1fb982591128a084f2d5eb9eca197&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2021-44228 Log4j2 BurpSuite Scanner,Customize ceye.io api or other apis,including internal networks</div>",
-            "url": "https://github.com/f0ng/log4j2burpscanner",
-            "title": "f0ng/log4j2burpscanner: CVE-2021-44228 Log4j2 BurpSuite Scanner,Customize ceye.io api or other apis,including internal networks",
-            "date_modified": "2023-05-08T12:22:55.000Z",
-            "date_published": "2021-12-11T07:19:11.000Z",
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/1476421?u=dbf0bb2a669dcb2bcbd04ee640f67740ac6d346d&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Proof of concept for CVE-2021-31166, a remote HTTP.sys use-after-free triggered remotely.</div>",
+            "url": "https://github.com/0vercl0k/CVE-2021-31166",
+            "title": "0vercl0k/CVE-2021-31166: Proof of concept for CVE-2021-31166, a remote HTTP.sys use-after-free triggered remotely.",
+            "date_modified": "2023-05-05T17:26:31.000Z",
+            "date_published": "2021-05-16T16:15:56.000Z",
             "author": {
-                "name": "f0ng",
-                "url": "https://github.com/f0ng"
+                "name": "0vercl0k",
+                "url": "https://github.com/0vercl0k"
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/110767603?u=9f9a8688ed3a4a8ca1ae50d9ded2906919bb5953&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
-            "url": "https://github.com/iceberg-N/cve-2021-26855",
-            "title": "iceberg-N/cve-2021-26855",
-            "date_modified": "2023-04-25T04:29:36.000Z",
-            "date_published": "2023-04-25T04:29:35.000Z",
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/1352296?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Sudo Baron Samedit Exploit</div>",
+            "url": "https://github.com/worawit/CVE-2021-3156",
+            "title": "worawit/CVE-2021-3156: Sudo Baron Samedit Exploit",
+            "date_modified": "2023-05-05T16:11:48.000Z",
+            "date_published": "2021-03-15T17:37:02.000Z",
             "author": {
-                "name": "iceberg-N",
-                "url": "https://github.com/iceberg-N"
+                "name": "worawit",
+                "url": "https://github.com/worawit"
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/10504574?u=8210c6a151310845dd43dceb8153ba82fb14cd84&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
-            "url": "https://github.com/b-abderrahmane/CVE-2021-44228-playground",
-            "title": "b-abderrahmane/CVE-2021-44228-playground",
-            "date_modified": "2023-05-07T11:26:08.000Z",
-            "date_published": "2021-12-11T12:16:45.000Z",
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/87979263?u=dd7f23490c7b9d1bd1dca84ccaf723402debf769&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A Proof-Of-Concept for the CVE-2021-44228 vulnerability. </div>",
+            "url": "https://github.com/kozmer/log4j-shell-poc",
+            "title": "kozmer/log4j-shell-poc: A Proof-Of-Concept for the CVE-2021-44228 vulnerability. ",
+            "date_modified": "2023-05-09T06:25:10.000Z",
+            "date_published": "2021-12-10T23:19:28.000Z",
             "author": {
-                "name": "b-abderrahmane",
-                "url": "https://github.com/b-abderrahmane"
+                "name": "kozmer",
+                "url": "https://github.com/kozmer"
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/72258277?u=2ae8e17c7dde6e117f5e7f6f5e1cbcb8dd22d7b4&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A little demonstration of cve-2021-41773 on httpd docker containers</div>",
-            "url": "https://github.com/MatanelGordon/docker-cve-2021-41773",
-            "title": "MatanelGordon/docker-cve-2021-41773: A little demonstration of cve-2021-41773 on httpd docker containers",
-            "date_modified": "2023-04-27T10:44:37.000Z",
-            "date_published": "2023-04-20T22:37:06.000Z",
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/136675?u=4c736320009a865c9228c938781fe22c80c80b91&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Spring Boot web application vulnerable to Log4Shell (CVE-2021-44228).</div>",
+            "url": "https://github.com/christophetd/log4shell-vulnerable-app",
+            "title": "christophetd/log4shell-vulnerable-app: Spring Boot web application vulnerable to Log4Shell (CVE-2021-44228).",
+            "date_modified": "2023-05-07T15:21:57.000Z",
+            "date_published": "2021-12-10T12:38:20.000Z",
             "author": {
-                "name": "MatanelGordon",
-                "url": "https://github.com/MatanelGordon"
+                "name": "christophetd",
+                "url": "https://github.com/christophetd"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/6007471?u=bd0018ab247daceb74d369a39f9b5bb9d56b5374&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Exploiting CVE-2021-42278 and CVE-2021-42287 to impersonate DA from standard domain user </div>",
+            "url": "https://github.com/Ridter/noPac",
+            "title": "Ridter/noPac: Exploiting CVE-2021-42278 and CVE-2021-42287 to impersonate DA from standard domain user ",
+            "date_modified": "2023-05-06T06:19:20.000Z",
+            "date_published": "2021-12-13T10:28:12.000Z",
+            "author": {
+                "name": "Ridter",
+                "url": "https://github.com/Ridter"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/58673953?u=a4ca3e25effd6a35293789eeb84f3750708d4fc3&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Ubuntu OverlayFS Local Privesc</div>",
+            "url": "https://github.com/briskets/CVE-2021-3493",
+            "title": "briskets/CVE-2021-3493: Ubuntu OverlayFS Local Privesc",
+            "date_modified": "2023-05-09T15:19:58.000Z",
+            "date_published": "2021-04-19T20:07:01.000Z",
+            "author": {
+                "name": "briskets",
+                "url": "https://github.com/briskets"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/14918218?u=81b0dbee27b1638dbcf6244bb54ad1d2a4f2a9d2&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>PoC for CVE-2021-3156 (sudo heap overflow)</div>",
+            "url": "https://github.com/stong/CVE-2021-3156",
+            "title": "stong/CVE-2021-3156: PoC for CVE-2021-3156 (sudo heap overflow)",
+            "date_modified": "2023-04-24T01:24:09.000Z",
+            "date_published": "2021-01-30T03:22:04.000Z",
+            "author": {
+                "name": "stong",
+                "url": "https://github.com/stong"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/3977708?u=ec996f2155bc072b2ec6bc02262cbd86f6c17879&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>ProxyLogon Full Exploit Chain PoC (CVE-2021–26855, CVE-2021–26857, CVE-2021–26858, CVE-2021–27065)</div>",
+            "url": "https://github.com/herwonowr/exprolog",
+            "title": "herwonowr/exprolog: ProxyLogon Full Exploit Chain PoC (CVE-2021–26855, CVE-2021–26857, CVE-2021–26858, CVE-2021–27065)",
+            "date_modified": "2023-04-25T07:19:23.000Z",
+            "date_published": "2021-03-15T08:36:56.000Z",
+            "author": {
+                "name": "herwonowr",
+                "url": "https://github.com/herwonowr"
             }
         }
     ]

@@ -6,223 +6,223 @@
     "description": "CVE-2022 FEED on GitHub",
     "items": [
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/86924237?u=f6f534d9a62258d4b5dad17e211ab9d2cb46465b&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
-            "url": "https://github.com/thehackingverse/CVE-2022-3546",
-            "title": "thehackingverse/CVE-2022-3546",
-            "date_modified": "2022-11-20T07:45:32.000Z",
-            "date_published": "2022-10-16T10:35:24.000Z",
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/94844022?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2022-2022</div>",
+            "url": "https://github.com/GREENHAT7/pxplan",
+            "title": "GREENHAT7/pxplan: CVE-2022-2022",
+            "date_modified": "2023-05-05T17:27:55.000Z",
+            "date_published": "2021-11-22T12:57:22.000Z",
             "author": {
-                "name": "thehackingverse",
-                "url": "https://github.com/thehackingverse"
+                "name": "GREENHAT7",
+                "url": "https://github.com/GREENHAT7"
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/105592340?u=f027c8d2035e3fbebbc41e00df34861aa1d256c9&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>redis未授权、redis_CVE-2022-0543检测利用二合一脚本</div>",
-            "url": "https://github.com/SiennaSkies/redisHack",
-            "title": "SiennaSkies/redisHack: redis未授权、redis_CVE-2022-0543检测利用二合一脚本",
-            "date_modified": "2023-05-10T05:06:25.000Z",
-            "date_published": "2023-05-10T05:05:31.000Z",
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/53857102?u=27e9f39a68754a8152ca8c3604081169f56aee8b&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2022-25636</div>",
+            "url": "https://github.com/Bonfee/CVE-2022-25636",
+            "title": "Bonfee/CVE-2022-25636: CVE-2022-25636",
+            "date_modified": "2023-05-08T04:20:58.000Z",
+            "date_published": "2022-03-07T13:38:41.000Z",
             "author": {
-                "name": "SiennaSkies",
-                "url": "https://github.com/SiennaSkies"
+                "name": "Bonfee",
+                "url": "https://github.com/Bonfee"
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/26915500?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Demonstration of the SQL injection vulnerability in wordpress 5.8.2</div>",
-            "url": "https://github.com/daniel616/CVE-2022-21661-Demo",
-            "title": "daniel616/CVE-2022-21661-Demo: Demonstration of the SQL injection vulnerability in wordpress 5.8.2",
-            "date_modified": "2023-05-09T01:06:03.000Z",
-            "date_published": "2023-02-08T04:58:57.000Z",
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/53857102?u=27e9f39a68754a8152ca8c3604081169f56aee8b&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2022-0995 exploit</div>",
+            "url": "https://github.com/Bonfee/CVE-2022-0995",
+            "title": "Bonfee/CVE-2022-0995: CVE-2022-0995 exploit",
+            "date_modified": "2023-05-05T17:29:31.000Z",
+            "date_published": "2022-03-26T21:46:09.000Z",
             "author": {
-                "name": "daniel616",
-                "url": "https://github.com/daniel616"
+                "name": "Bonfee",
+                "url": "https://github.com/Bonfee"
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/2650838?u=9cef82d6186ba7246a34745446cb5458c758725a&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>baton drop (CVE-2022-21894): Secure Boot Security Feature Bypass Vulnerability</div>",
-            "url": "https://github.com/Wack0/CVE-2022-21894",
-            "title": "Wack0/CVE-2022-21894: baton drop (CVE-2022-21894): Secure Boot Security Feature Bypass Vulnerability",
-            "date_modified": "2023-05-10T16:05:59.000Z",
-            "date_published": "2022-08-09T15:53:48.000Z",
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/68001644?u=462822ad15461addb74832de164e61a93276da7b&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>win32k LPE </div>",
+            "url": "https://github.com/KaLendsi/CVE-2022-21882",
+            "title": "KaLendsi/CVE-2022-21882: win32k LPE ",
+            "date_modified": "2023-05-05T17:28:42.000Z",
+            "date_published": "2022-01-27T03:44:10.000Z",
             "author": {
-                "name": "Wack0",
-                "url": "https://github.com/Wack0"
+                "name": "KaLendsi",
+                "url": "https://github.com/KaLendsi"
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/60603602?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Scanner for CVE-2022-22948 an Information Disclosure in VMWare vCenter</div>",
-            "url": "https://github.com/PenteraIO/CVE-2022-22948",
-            "title": "PenteraIO/CVE-2022-22948: Scanner for CVE-2022-22948 an Information Disclosure in VMWare vCenter",
-            "date_modified": "2023-01-31T14:06:41.000Z",
-            "date_published": "2021-10-17T09:59:20.000Z",
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/33525376?u=32d701bc34b9867981a0b8a0d899a098fedaf2e6&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>7-Zip through 21.07 on Windows allows privilege escalation and command execution when a file with the .7z extension is dragged to the Help&gt;Contents area.</div>",
+            "url": "https://github.com/kagancapar/CVE-2022-29072",
+            "title": "kagancapar/CVE-2022-29072: 7-Zip through 21.07 on Windows allows privilege escalation and command execution when a file with the .7z extension is dragged to the Help>Contents area.",
+            "date_modified": "2023-05-05T17:29:47.000Z",
+            "date_published": "2022-04-15T22:59:03.000Z",
             "author": {
-                "name": "PenteraIO",
-                "url": "https://github.com/PenteraIO"
+                "name": "kagancapar",
+                "url": "https://github.com/kagancapar"
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/112864964?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2022-24637</div>",
-            "url": "https://github.com/c0derpwner/HTB-pwned",
-            "title": "c0derpwner/HTB-pwned: CVE-2022-24637",
-            "date_modified": "2023-05-08T08:35:48.000Z",
-            "date_published": "2023-05-02T08:48:35.000Z",
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/3926753?u=3c08865fc198c382fe54900ac89d87589b4f4451&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A root exploit for CVE-2022-0847 (Dirty Pipe)</div>",
+            "url": "https://github.com/Arinerron/CVE-2022-0847-DirtyPipe-Exploit",
+            "title": "Arinerron/CVE-2022-0847-DirtyPipe-Exploit: A root exploit for CVE-2022-0847 (Dirty Pipe)",
+            "date_modified": "2023-05-05T17:29:14.000Z",
+            "date_published": "2022-03-07T18:55:20.000Z",
             "author": {
-                "name": "c0derpwner",
-                "url": "https://github.com/c0derpwner"
+                "name": "Arinerron",
+                "url": "https://github.com/Arinerron"
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/19479860?u=04677f490e98d90064fe473310aa361e4275e780&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>SnakeYAML-CVE-2022-1471-POC</div>",
-            "url": "https://github.com/falconkei/snakeyaml_cve_poc",
-            "title": "falconkei/snakeyaml_cve_poc: SnakeYAML-CVE-2022-1471-POC",
-            "date_modified": "2023-05-08T14:47:41.000Z",
-            "date_published": "2023-05-08T14:46:22.000Z",
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/16208471?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Operational information regarding CVE-2022-3602 and CVE-2022-3786, two vulnerabilities in OpenSSL 3</div>",
+            "url": "https://github.com/NCSC-NL/OpenSSL-2022",
+            "title": "NCSC-NL/OpenSSL-2022: Operational information regarding CVE-2022-3602 and CVE-2022-3786, two vulnerabilities in OpenSSL 3",
+            "date_modified": "2023-05-05T17:32:02.000Z",
+            "date_published": "2022-10-28T09:51:41.000Z",
             "author": {
-                "name": "falconkei",
-                "url": "https://github.com/falconkei"
+                "name": "NCSC-NL",
+                "url": "https://github.com/NCSC-NL"
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/112469853?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>An exploit script for CVE-2022-28368 designed to make exploitation less annoying, made for a HTB machine</div>",
-            "url": "https://github.com/Henryisnotavailable/Dompdf-Exploit-RCE",
-            "title": "Henryisnotavailable/Dompdf-Exploit-RCE: An exploit script for CVE-2022-28368 designed to make exploitation less annoying, made for a HTB machine",
-            "date_modified": "2023-05-07T14:51:35.000Z",
-            "date_published": "2023-05-07T14:49:38.000Z",
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/77638184?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2022-0185</div>",
+            "url": "https://github.com/Crusaders-of-Rust/CVE-2022-0185",
+            "title": "Crusaders-of-Rust/CVE-2022-0185: CVE-2022-0185",
+            "date_modified": "2023-04-18T13:38:20.000Z",
+            "date_published": "2022-01-19T06:19:38.000Z",
             "author": {
-                "name": "Henryisnotavailable",
-                "url": "https://github.com/Henryisnotavailable"
+                "name": "Crusaders-of-Rust",
+                "url": "https://github.com/Crusaders-of-Rust"
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/131547485?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
-            "url": "https://github.com/andyhsu024/CVE-2022-41034",
-            "title": "andyhsu024/CVE-2022-41034",
-            "date_modified": "2023-05-07T04:30:30.000Z",
-            "date_published": "2023-05-07T04:30:30.000Z",
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/26628940?u=af3e5ebce66d52d37112d1493433d751255b5f60&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2022-23222: Linux Kernel eBPF Local Privilege Escalation</div>",
+            "url": "https://github.com/tr3ee/CVE-2022-23222",
+            "title": "tr3ee/CVE-2022-23222: CVE-2022-23222: Linux Kernel eBPF Local Privilege Escalation",
+            "date_modified": "2023-05-07T11:34:54.000Z",
+            "date_published": "2022-06-07T03:20:23.000Z",
             "author": {
-                "name": "andyhsu024",
-                "url": "https://github.com/andyhsu024"
+                "name": "tr3ee",
+                "url": "https://github.com/tr3ee"
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/99851303?u=f86a9a694e604c5d7188339c3418d6e3c05901a8&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2022-21907漏洞RCE PoC</div>",
-            "url": "https://github.com/EzoomE/CVE-2022-21907-RCE",
-            "title": "EzoomE/CVE-2022-21907-RCE: CVE-2022-21907漏洞RCE PoC",
-            "date_modified": "2023-05-06T07:50:53.000Z",
-            "date_published": "2023-05-06T07:50:08.000Z",
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/59011386?u=e3908c7e4e1a335bec769772b92c0ee416b23ea3&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2022-22947</div>",
+            "url": "https://github.com/lucksec/Spring-Cloud-Gateway-CVE-2022-22947",
+            "title": "lucksec/Spring-Cloud-Gateway-CVE-2022-22947: CVE-2022-22947",
+            "date_modified": "2023-05-05T17:29:10.000Z",
+            "date_published": "2022-03-02T11:58:55.000Z",
             "author": {
-                "name": "EzoomE",
-                "url": "https://github.com/EzoomE"
+                "name": "lucksec",
+                "url": "https://github.com/lucksec"
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/55363474?u=9b9a70388246aee94987c017b763e333ea97f7a9&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>PoC for CVE-2022-46169 - Unauthenticated RCE on Cacti &lt;= 1.2.22</div>",
-            "url": "https://github.com/sAsPeCt488/CVE-2022-46169",
-            "title": "sAsPeCt488/CVE-2022-46169: PoC for CVE-2022-46169 - Unauthenticated RCE on Cacti <= 1.2.22",
-            "date_modified": "2023-05-05T19:30:21.000Z",
-            "date_published": "2023-01-05T16:56:06.000Z",
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/98105412?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>HTTP Protocol Stack Remote Code Execution Vulnerability CVE-2022-21907</div>",
+            "url": "https://github.com/ZZ-SOCMAP/CVE-2022-21907",
+            "title": "ZZ-SOCMAP/CVE-2022-21907: HTTP Protocol Stack Remote Code Execution Vulnerability CVE-2022-21907",
+            "date_modified": "2023-05-05T17:28:34.000Z",
+            "date_published": "2022-01-17T02:28:50.000Z",
             "author": {
-                "name": "sAsPeCt488",
-                "url": "https://github.com/sAsPeCt488"
+                "name": "ZZ-SOCMAP",
+                "url": "https://github.com/ZZ-SOCMAP"
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/114189847?u=6210e0800e863af244c52fdfeab27b3b36a05dce&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>This is a exploit of CVE-2022-46169 to cacti 1.2.22. This exploit allows through an RCE to obtain a reverse shell on your computer.</div>",
-            "url": "https://github.com/FredBrave/CVE-2022-46169-CACTI-1.2.22",
-            "title": "FredBrave/CVE-2022-46169-CACTI-1.2.22: This is a exploit of CVE-2022-46169 to cacti 1.2.22. This exploit allows through an RCE to obtain a reverse shell on your computer.",
-            "date_modified": "2023-05-09T21:35:55.000Z",
-            "date_published": "2023-05-01T20:00:23.000Z",
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/18663141?u=2f4646b4e3f9b108365fcca3eb28adcdea03429d&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>exploit for CVE-2022-2588</div>",
+            "url": "https://github.com/Markakd/CVE-2022-2588",
+            "title": "Markakd/CVE-2022-2588: exploit for CVE-2022-2588",
+            "date_modified": "2023-05-08T10:06:59.000Z",
+            "date_published": "2022-08-11T06:01:24.000Z",
             "author": {
-                "name": "FredBrave",
-                "url": "https://github.com/FredBrave"
+                "name": "Markakd",
+                "url": "https://github.com/Markakd"
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/72800859?u=d53be4f09a67af4f8999a7ecc7a73b9c74f45d28&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>I do some tweaking for iOS from 16.0 to 16.1.2 based on MacDirtyCow (CVE-2022-46689) exploit.</div>",
-            "url": "https://github.com/tdquang266/MDC",
-            "title": "tdquang266/MDC: I do some tweaking for iOS from 16.0 to 16.1.2 based on MacDirtyCow (CVE-2022-46689) exploit.",
-            "date_modified": "2023-04-17T13:30:36.000Z",
-            "date_published": "2023-04-16T03:33:38.000Z",
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/67718634?u=28e7a6a200de5fda94fde4b1cb9cb0502f1bf51c&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>WSO2 RCE (CVE-2022-29464) exploit and writeup.</div>",
+            "url": "https://github.com/hakivvi/CVE-2022-29464",
+            "title": "hakivvi/CVE-2022-29464: WSO2 RCE (CVE-2022-29464) exploit and writeup.",
+            "date_modified": "2023-05-05T17:29:51.000Z",
+            "date_published": "2022-04-20T21:23:52.000Z",
             "author": {
-                "name": "tdquang266",
-                "url": "https://github.com/tdquang266"
+                "name": "hakivvi",
+                "url": "https://github.com/hakivvi"
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/31874167?u=c0307f8581e29dabd430e0f333380c348e359639&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Binaries for CVE-2022-22963</div>",
-            "url": "https://github.com/GunZF0x/CVE-2022-22963",
-            "title": "GunZF0x/CVE-2022-22963: Binaries for CVE-2022-22963",
-            "date_modified": "2023-05-03T17:19:31.000Z",
-            "date_published": "2023-05-03T16:45:06.000Z",
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/79593994?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A proof of concept exploit for CVE-2022-40684 affecting Fortinet FortiOS, FortiProxy, and FortiSwitchManager</div>",
+            "url": "https://github.com/horizon3ai/CVE-2022-40684",
+            "title": "horizon3ai/CVE-2022-40684: A proof of concept exploit for CVE-2022-40684 affecting Fortinet FortiOS, FortiProxy, and FortiSwitchManager",
+            "date_modified": "2023-05-08T21:16:18.000Z",
+            "date_published": "2022-10-13T14:24:12.000Z",
             "author": {
-                "name": "GunZF0x",
-                "url": "https://github.com/GunZF0x"
+                "name": "horizon3ai",
+                "url": "https://github.com/horizon3ai"
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/25004320?u=99d09ef85cd44e7d26278c0575b561c7c55352b9&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Perform With Mass Exploits In WSO Management.</div>",
-            "url": "https://github.com/Pari-Malam/CVE-2022-29464",
-            "title": "Pari-Malam/CVE-2022-29464: Perform With Mass Exploits In WSO Management.",
-            "date_modified": "2023-05-10T15:03:46.000Z",
-            "date_published": "2023-04-25T09:45:18.000Z",
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/20841421?u=042221541931086a3593384d42f8bf474e77ac22&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CobaltStrike &lt;= 4.7.1 RCE</div>",
+            "url": "https://github.com/its-arun/CVE-2022-39197",
+            "title": "its-arun/CVE-2022-39197: CobaltStrike <= 4.7.1 RCE",
+            "date_modified": "2023-05-05T17:31:54.000Z",
+            "date_published": "2022-10-14T11:46:01.000Z",
             "author": {
-                "name": "Pari-Malam",
-                "url": "https://github.com/Pari-Malam"
+                "name": "its-arun",
+                "url": "https://github.com/its-arun"
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/1513073?u=558fac21323d1c44850bc8362bc05c6a1ca8feb0&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div><g-emoji class=\"g-emoji\" alias=\"snake\" fallback-src=\"https://github.githubassets.com/images/icons/emoji/unicode/1f40d.png\">🐍</g-emoji> Python Exploit for CVE-2022-46169</div>",
-            "url": "https://github.com/BKreisel/CVE-2022-46169",
-            "title": "BKreisel/CVE-2022-46169: 🐍 Python Exploit for CVE-2022-46169",
-            "date_modified": "2023-05-04T22:04:32.000Z",
-            "date_published": "2023-05-04T21:21:05.000Z",
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/43793247?u=b64bda9946f510954184269b687950e238bd9619&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>One day based on <a href=\"https://googleprojectzero.blogspot.com/2022/10/rc4-is-still-considered-harmful.html\" rel=\"nofollow\">https://googleprojectzero.blogspot.com/2022/10/rc4-is-still-considered-harmful.html</a></div>",
+            "url": "https://github.com/Bdenneu/CVE-2022-33679",
+            "title": "Bdenneu/CVE-2022-33679: One day based on https://googleprojectzero.blogspot.com/2022/10/rc4-is-still-considered-harmful.html",
+            "date_modified": "2023-05-08T16:37:44.000Z",
+            "date_published": "2022-11-02T18:38:01.000Z",
             "author": {
-                "name": "BKreisel",
-                "url": "https://github.com/BKreisel"
+                "name": "Bdenneu",
+                "url": "https://github.com/Bdenneu"
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/638560?u=5d96acda759288c3d30ae9d0a01ebb0fd1ad728f&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Proof of concept / CTF script for exploiting CVE-2022-46169 in Cacti, versions &gt;=1.2.22</div>",
-            "url": "https://github.com/MarkStrendin/CVE-2022-46169",
-            "title": "MarkStrendin/CVE-2022-46169: Proof of concept / CTF script for exploiting CVE-2022-46169 in Cacti, versions >=1.2.22",
-            "date_modified": "2023-05-03T19:54:22.000Z",
-            "date_published": "2023-05-03T19:53:01.000Z",
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/5160055?u=ef40aa3f616815fac6eff71ba1ab9346b9373b59&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>PoC for vulnerability in Honda's Remote Keyless System(CVE-2022-27254)</div>",
+            "url": "https://github.com/nonamecoder/CVE-2022-27254",
+            "title": "nonamecoder/CVE-2022-27254: PoC for vulnerability in Honda's Remote Keyless System(CVE-2022-27254)",
+            "date_modified": "2023-05-09T17:03:11.000Z",
+            "date_published": "2022-03-23T15:03:09.000Z",
             "author": {
-                "name": "MarkStrendin",
-                "url": "https://github.com/MarkStrendin"
+                "name": "nonamecoder",
+                "url": "https://github.com/nonamecoder"
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/38681779?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Improved PoC for Unauthenticated RCE on Cacti &lt;= 1.2.22 - CVE-2022-46169</div>",
-            "url": "https://github.com/Safarchand/CVE-2022-46169",
-            "title": "Safarchand/CVE-2022-46169: Improved PoC for Unauthenticated RCE on Cacti <= 1.2.22 - CVE-2022-46169",
-            "date_modified": "2023-05-04T17:07:23.000Z",
-            "date_published": "2023-05-02T17:26:11.000Z",
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/21257485?u=cb7e01972ffd65e9499562fb76720508cb5b8210&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2022-0847-DirtyPipe-Exploit   CVE-2022-0847 是存在于 Linux内核 5.8 及之后版本中的本地提权漏洞。攻击者通过利用此漏洞，可覆盖重写任意可读文件中的数据，从而可将普通权限的用户提升到特权 root。    CVE-2022-0847 的漏洞原理类似于 CVE-2016-5195 脏牛漏洞（Dirty Cow），但它更容易被利用。漏洞作者将此漏洞命名为“Dirty Pipe”</div>",
+            "url": "https://github.com/r1is/CVE-2022-0847",
+            "title": "r1is/CVE-2022-0847: CVE-2022-0847-DirtyPipe-Exploit   CVE-2022-0847 是存在于 Linux内核 5.8 及之后版本中的本地提权漏洞。攻击者通过利用此漏洞，可覆盖重写任意可读文件中的数据，从而可将普通权限的用户提升到特权 root。    CVE-2022-0847 的漏洞原理类似于 CVE-2016-5195 脏牛漏洞（Dirty Cow），但它更容易被利用。漏洞作者将此漏洞命名为“Dirty Pipe”",
+            "date_modified": "2023-05-05T17:29:14.000Z",
+            "date_published": "2022-03-07T18:36:50.000Z",
             "author": {
-                "name": "Safarchand",
-                "url": "https://github.com/Safarchand"
+                "name": "r1is",
+                "url": "https://github.com/r1is"
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/74200918?u=e06e9e9906c202d27e92ae2fb98b28af88038b44&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
-            "url": "https://github.com/meowhua15/CVE-2022-30190",
-            "title": "meowhua15/CVE-2022-30190",
-            "date_modified": "2023-05-02T07:58:56.000Z",
-            "date_published": "2023-05-02T07:56:28.000Z",
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/79593994?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>POC for CVE-2022-39952</div>",
+            "url": "https://github.com/horizon3ai/CVE-2022-39952",
+            "title": "horizon3ai/CVE-2022-39952: POC for CVE-2022-39952",
+            "date_modified": "2023-05-05T17:33:22.000Z",
+            "date_published": "2023-02-20T15:12:33.000Z",
             "author": {
-                "name": "meowhua15",
-                "url": "https://github.com/meowhua15"
+                "name": "horizon3ai",
+                "url": "https://github.com/horizon3ai"
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/89037170?u=460509c3be006b681a1bfb31aff6955a68de2888&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Este es un código del exploit CVE-2022-46169, que recree utilizando Python3! Si por ahí estás haciendo una máquina de HTB, esto te puede ser útil... <g-emoji class=\"g-emoji\" alias=\"crossed_fingers\" fallback-src=\"https://github.githubassets.com/images/icons/emoji/unicode/1f91e.png\">🤞</g-emoji><g-emoji class=\"g-emoji\" alias=\"sparkles\" fallback-src=\"https://github.githubassets.com/images/icons/emoji/unicode/2728.png\">✨</g-emoji> </div>",
-            "url": "https://github.com/sha-16/RCE-Cacti-1.2.22",
-            "title": "sha-16/RCE-Cacti-1.2.22: Este es un código del exploit CVE-2022-46169, que recree utilizando Python3! Si por ahí estás haciendo una máquina de HTB, esto te puede ser útil... 🤞✨ ",
-            "date_modified": "2023-05-02T02:43:30.000Z",
-            "date_published": "2023-05-02T02:41:44.000Z",
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/1476421?u=dbf0bb2a669dcb2bcbd04ee640f67740ac6d346d&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>PoC for CVE-2022-21971 \"Windows Runtime Remote Code Execution Vulnerability\"</div>",
+            "url": "https://github.com/0vercl0k/CVE-2022-21971",
+            "title": "0vercl0k/CVE-2022-21971: PoC for CVE-2022-21971 \"Windows Runtime Remote Code Execution Vulnerability\"",
+            "date_modified": "2023-04-29T11:36:54.000Z",
+            "date_published": "2022-02-26T20:37:42.000Z",
             "author": {
-                "name": "sha-16",
-                "url": "https://github.com/sha-16"
+                "name": "0vercl0k",
+                "url": "https://github.com/0vercl0k"
             }
         }
     ]
