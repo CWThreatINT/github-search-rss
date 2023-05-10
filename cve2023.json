@@ -75,7 +75,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/18223385?u=5ba29c1a9447ae88a6a0433f44038f47471e11c1&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>TOP All bugbounty pentesting CVE-2023- POC Exp  RCE example payload  Things</div>",
             "url": "https://github.com/hktalent/TOP",
             "title": "hktalent/TOP: TOP All bugbounty pentesting CVE-2023- POC Exp  RCE example payload  Things",
-            "date_modified": "2023-05-10T12:16:03.000Z",
+            "date_modified": "2023-05-10T13:57:08.000Z",
             "date_published": "2022-03-19T01:54:15.000Z",
             "author": {
                 "name": "hktalent",
@@ -160,17 +160,6 @@
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/53658504?u=f3a1f36887cb263179da64ccee4ea0a39d9c2697&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2023-20052, information leak vulnerability in the DMG file parser of ClamAV</div>",
-            "url": "https://github.com/nokn0wthing/CVE-2023-25002",
-            "title": "nokn0wthing/CVE-2023-25002: CVE-2023-20052, information leak vulnerability in the DMG file parser of ClamAV",
-            "date_modified": "2023-05-09T02:33:16.000Z",
-            "date_published": "2023-05-08T18:34:02.000Z",
-            "author": {
-                "name": "nokn0wthing",
-                "url": "https://github.com/nokn0wthing"
-            }
-        },
-        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/41988959?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Linux Bluetooth - Run arbitrary management commands as an unprivileged user</div>",
             "url": "https://github.com/lrh2000/CVE-2023-2002",
             "title": "lrh2000/CVE-2023-2002: Linux Bluetooth - Run arbitrary management commands as an unprivileged user",
@@ -196,7 +185,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/26479696?u=35272f1bbaaa9082e9b6607eb6a59328b4b2551c&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2023-0386在ubuntu22.04上的提权</div>",
             "url": "https://github.com/xkaneiki/CVE-2023-0386",
             "title": "xkaneiki/CVE-2023-0386: CVE-2023-0386在ubuntu22.04上的提权",
-            "date_modified": "2023-05-10T11:07:15.000Z",
+            "date_modified": "2023-05-10T14:06:49.000Z",
             "date_published": "2023-05-05T03:02:13.000Z",
             "author": {
                 "name": "xkaneiki",
@@ -223,6 +212,17 @@
             "author": {
                 "name": "sandumjacob",
                 "url": "https://github.com/sandumjacob"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/94809865?u=e80a343277ab1acd6df1a3688e3f2de909cbbee5&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2023-23397 PoC</div>",
+            "url": "https://github.com/vlad-a-man/CVE-2023-23397",
+            "title": "vlad-a-man/CVE-2023-23397: CVE-2023-23397 PoC",
+            "date_modified": "2023-05-08T07:10:50.000Z",
+            "date_published": "2023-05-07T18:21:35.000Z",
+            "author": {
+                "name": "vlad-a-man",
+                "url": "https://github.com/vlad-a-man"
             }
         }
     ]
