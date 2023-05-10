@@ -6,6 +6,17 @@
     "description": "CVE-2022 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/86924237?u=f6f534d9a62258d4b5dad17e211ab9d2cb46465b&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
+            "url": "https://github.com/thehackingverse/CVE-2022-3546",
+            "title": "thehackingverse/CVE-2022-3546",
+            "date_modified": "2022-11-20T07:45:32.000Z",
+            "date_published": "2022-10-16T10:35:24.000Z",
+            "author": {
+                "name": "thehackingverse",
+                "url": "https://github.com/thehackingverse"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/105592340?u=f027c8d2035e3fbebbc41e00df34861aa1d256c9&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>redis未授权、redis_CVE-2022-0543检测利用二合一脚本</div>",
             "url": "https://github.com/SiennaSkies/redisHack",
             "title": "SiennaSkies/redisHack: redis未授权、redis_CVE-2022-0543检测利用二合一脚本",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "sha-16",
                 "url": "https://github.com/sha-16"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/103446004?u=3609d01b78fd670729fd1ea40e939d0017d4c610&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Exploit for cacti version 1.2.22</div>",
-            "url": "https://github.com/ruycr4ft/CVE-2022-46169",
-            "title": "ruycr4ft/CVE-2022-46169: Exploit for cacti version 1.2.22",
-            "date_modified": "2023-05-02T14:36:35.000Z",
-            "date_published": "2023-05-01T14:29:28.000Z",
-            "author": {
-                "name": "ruycr4ft",
-                "url": "https://github.com/ruycr4ft"
             }
         }
     ]
