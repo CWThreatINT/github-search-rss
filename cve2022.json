@@ -6,6 +6,17 @@
     "description": "CVE-2022 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/2650838?u=9cef82d6186ba7246a34745446cb5458c758725a&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>baton drop (CVE-2022-21894): Secure Boot Security Feature Bypass Vulnerability</div>",
+            "url": "https://github.com/Wack0/CVE-2022-21894",
+            "title": "Wack0/CVE-2022-21894: baton drop (CVE-2022-21894): Secure Boot Security Feature Bypass Vulnerability",
+            "date_modified": "2023-05-09T23:52:46.000Z",
+            "date_published": "2022-08-09T15:53:48.000Z",
+            "author": {
+                "name": "Wack0",
+                "url": "https://github.com/Wack0"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/60603602?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Scanner for CVE-2022-22948 an Information Disclosure in VMWare vCenter</div>",
             "url": "https://github.com/PenteraIO/CVE-2022-22948",
             "title": "PenteraIO/CVE-2022-22948: Scanner for CVE-2022-22948 an Information Disclosure in VMWare vCenter",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "biscuitehh",
                 "url": "https://github.com/biscuitehh"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/91819614?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>check cve-2022-0847</div>",
-            "url": "https://github.com/jonathanbest7/cve-2022-0847",
-            "title": "jonathanbest7/cve-2022-0847: check cve-2022-0847",
-            "date_modified": "2023-04-30T23:52:15.000Z",
-            "date_published": "2023-04-30T23:52:14.000Z",
-            "author": {
-                "name": "jonathanbest7",
-                "url": "https://github.com/jonathanbest7"
             }
         }
     ]
