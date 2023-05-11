@@ -50,17 +50,6 @@
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/26479696?u=35272f1bbaaa9082e9b6607eb6a59328b4b2551c&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2023-0386在ubuntu22.04上的提权</div>",
-            "url": "https://github.com/xkaneiki/CVE-2023-0386",
-            "title": "xkaneiki/CVE-2023-0386: CVE-2023-0386在ubuntu22.04上的提权",
-            "date_modified": "2023-05-11T07:07:00.000Z",
-            "date_published": "2023-05-05T03:02:13.000Z",
-            "author": {
-                "name": "xkaneiki",
-                "url": "https://github.com/xkaneiki"
-            }
-        },
-        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/4098538?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Adobe Acrobat Reader - CVE-2023-21608 - Remote Code Execution Exploit</div>",
             "url": "https://github.com/hacksysteam/CVE-2023-21608",
             "title": "hacksysteam/CVE-2023-21608: Adobe Acrobat Reader - CVE-2023-21608 - Remote Code Execution Exploit",
@@ -97,7 +86,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/31594437?u=07281f92e7471d73a95632032314c774a6d2a0cb&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Exploit for the CVE-2023-23397</div>",
             "url": "https://github.com/sqrtZeroKnowledge/CVE-2023-23397_EXPLOIT_0DAY",
             "title": "sqrtZeroKnowledge/CVE-2023-23397_EXPLOIT_0DAY: Exploit for the CVE-2023-23397",
-            "date_modified": "2023-04-25T14:58:47.000Z",
+            "date_modified": "2023-05-11T13:09:09.000Z",
             "date_published": "2023-03-15T17:03:38.000Z",
             "author": {
                 "name": "sqrtZeroKnowledge",
@@ -182,14 +171,25 @@
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/18223385?u=5ba29c1a9447ae88a6a0433f44038f47471e11c1&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>TOP All bugbounty pentesting CVE-2023- POC Exp  RCE example payload  Things</div>",
-            "url": "https://github.com/hktalent/TOP",
-            "title": "hktalent/TOP: TOP All bugbounty pentesting CVE-2023- POC Exp  RCE example payload  Things",
-            "date_modified": "2023-05-11T08:34:12.000Z",
-            "date_published": "2022-03-19T01:54:15.000Z",
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/16323119?u=6b7b1b253a60c8e7efb1b04c84d670f792aa53e1&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Using CVE-2023-21768 to manual map kernel mode driver </div>",
+            "url": "https://github.com/SamuelTulach/nullmap",
+            "title": "SamuelTulach/nullmap: Using CVE-2023-21768 to manual map kernel mode driver ",
+            "date_modified": "2023-05-11T13:43:29.000Z",
+            "date_published": "2023-03-10T19:08:28.000Z",
             "author": {
-                "name": "hktalent",
-                "url": "https://github.com/hktalent"
+                "name": "SamuelTulach",
+                "url": "https://github.com/SamuelTulach"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/40518242?u=ae3fce3753aec87cd369d360dd2b6c7f3bc4de63&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>EXP for CVE-2023-28434 MinIO unauthorized to RCE</div>",
+            "url": "https://github.com/AbelChe/evil_minio",
+            "title": "AbelChe/evil_minio: EXP for CVE-2023-28434 MinIO unauthorized to RCE",
+            "date_modified": "2023-05-05T03:09:55.000Z",
+            "date_published": "2023-03-27T08:53:04.000Z",
+            "author": {
+                "name": "AbelChe",
+                "url": "https://github.com/AbelChe"
             }
         },
         {
@@ -215,14 +215,14 @@
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/40518242?u=ae3fce3753aec87cd369d360dd2b6c7f3bc4de63&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>EXP for CVE-2023-28434 MinIO unauthorized to RCE</div>",
-            "url": "https://github.com/AbelChe/evil_minio",
-            "title": "AbelChe/evil_minio: EXP for CVE-2023-28434 MinIO unauthorized to RCE",
-            "date_modified": "2023-05-05T03:09:55.000Z",
-            "date_published": "2023-03-27T08:53:04.000Z",
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/40891670?u=7014fa4231cdc3928d1c10bc70155a0f1380a586&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2023-0669 GoAnywhere MFT suffers from a pre-authentication command injection vulnerability in the License Response Servlet due to deserializing an arbitrary attacker-controlled object.</div>",
+            "url": "https://github.com/0xf4n9x/CVE-2023-0669",
+            "title": "0xf4n9x/CVE-2023-0669: CVE-2023-0669 GoAnywhere MFT suffers from a pre-authentication command injection vulnerability in the License Response Servlet due to deserializing an arbitrary attacker-controlled object.",
+            "date_modified": "2023-05-09T01:00:59.000Z",
+            "date_published": "2023-02-10T13:02:55.000Z",
             "author": {
-                "name": "AbelChe",
-                "url": "https://github.com/AbelChe"
+                "name": "0xf4n9x",
+                "url": "https://github.com/0xf4n9x"
             }
         }
     ]
