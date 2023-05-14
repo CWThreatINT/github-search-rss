@@ -42,7 +42,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/39370848?u=e4a5e8b9d78ef928570bd33c1133482f6341c919&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>C# and Impacket implementation of PrintNightmare CVE-2021-1675/CVE-2021-34527</div>",
             "url": "https://github.com/cube0x0/CVE-2021-1675",
             "title": "cube0x0/CVE-2021-1675: C# and Impacket implementation of PrintNightmare CVE-2021-1675/CVE-2021-34527",
-            "date_modified": "2023-05-13T10:31:28.000Z",
+            "date_modified": "2023-05-14T15:23:51.000Z",
             "date_published": "2021-06-29T17:24:14.000Z",
             "author": {
                 "name": "cube0x0",
@@ -138,17 +138,6 @@
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/1352296?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Sudo Baron Samedit Exploit</div>",
-            "url": "https://github.com/worawit/CVE-2021-3156",
-            "title": "worawit/CVE-2021-3156: Sudo Baron Samedit Exploit",
-            "date_modified": "2023-05-05T16:11:48.000Z",
-            "date_published": "2021-03-15T17:37:02.000Z",
-            "author": {
-                "name": "worawit",
-                "url": "https://github.com/worawit"
-            }
-        },
-        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/1476421?u=dbf0bb2a669dcb2bcbd04ee640f67740ac6d346d&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Proof of concept for CVE-2021-31166, a remote HTTP.sys use-after-free triggered remotely.</div>",
             "url": "https://github.com/0vercl0k/CVE-2021-31166",
             "title": "0vercl0k/CVE-2021-31166: Proof of concept for CVE-2021-31166, a remote HTTP.sys use-after-free triggered remotely.",
@@ -157,6 +146,17 @@
             "author": {
                 "name": "0vercl0k",
                 "url": "https://github.com/0vercl0k"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/1352296?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Sudo Baron Samedit Exploit</div>",
+            "url": "https://github.com/worawit/CVE-2021-3156",
+            "title": "worawit/CVE-2021-3156: Sudo Baron Samedit Exploit",
+            "date_modified": "2023-05-05T16:11:48.000Z",
+            "date_published": "2021-03-15T17:37:02.000Z",
+            "author": {
+                "name": "worawit",
+                "url": "https://github.com/worawit"
             }
         },
         {
