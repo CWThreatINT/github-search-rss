@@ -116,17 +116,6 @@
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/82209949?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>VM Escape for Parallels Desktop &lt;18.1.1</div>",
-            "url": "https://github.com/Impalabs/CVE-2023-27326",
-            "title": "Impalabs/CVE-2023-27326: VM Escape for Parallels Desktop <18.1.1",
-            "date_modified": "2023-05-05T17:33:43.000Z",
-            "date_published": "2023-03-20T11:47:54.000Z",
-            "author": {
-                "name": "Impalabs",
-                "url": "https://github.com/Impalabs"
-            }
-        },
-        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/1218718?u=1accabb19bff9bbea64ae19586b1a0bdc05769da&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
             "url": "https://github.com/TurtleARM/CVE-2023-0179-PoC",
             "title": "TurtleARM/CVE-2023-0179-PoC",
@@ -135,6 +124,17 @@
             "author": {
                 "name": "TurtleARM",
                 "url": "https://github.com/TurtleARM"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/82209949?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>VM Escape for Parallels Desktop &lt;18.1.1</div>",
+            "url": "https://github.com/Impalabs/CVE-2023-27326",
+            "title": "Impalabs/CVE-2023-27326: VM Escape for Parallels Desktop <18.1.1",
+            "date_modified": "2023-05-05T17:33:43.000Z",
+            "date_published": "2023-03-20T11:47:54.000Z",
+            "author": {
+                "name": "Impalabs",
+                "url": "https://github.com/Impalabs"
             }
         },
         {
@@ -182,6 +182,17 @@
             }
         },
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/62884435?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2023-32233: Linux内核中的安全漏洞</div>",
+            "url": "https://github.com/Liuk3r/CVE-2023-32233",
+            "title": "Liuk3r/CVE-2023-32233: CVE-2023-32233: Linux内核中的安全漏洞",
+            "date_modified": "2023-05-16T21:58:48.000Z",
+            "date_published": "2023-05-16T03:06:40.000Z",
+            "author": {
+                "name": "Liuk3r",
+                "url": "https://github.com/Liuk3r"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/18223385?u=5ba29c1a9447ae88a6a0433f44038f47471e11c1&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>TOP All bugbounty pentesting CVE-2023- POC Exp  RCE example payload  Things</div>",
             "url": "https://github.com/hktalent/TOP",
             "title": "hktalent/TOP: TOP All bugbounty pentesting CVE-2023- POC Exp  RCE example payload  Things",
@@ -193,28 +204,6 @@
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/62884435?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2023-32233: Linux内核中的安全漏洞</div>",
-            "url": "https://github.com/Liuk3r/CVE-2023-32233",
-            "title": "Liuk3r/CVE-2023-32233: CVE-2023-32233: Linux内核中的安全漏洞",
-            "date_modified": "2023-05-16T20:40:29.000Z",
-            "date_published": "2023-05-16T03:06:40.000Z",
-            "author": {
-                "name": "Liuk3r",
-                "url": "https://github.com/Liuk3r"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/16323119?u=6b7b1b253a60c8e7efb1b04c84d670f792aa53e1&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Using CVE-2023-21768 to manual map kernel mode driver </div>",
-            "url": "https://github.com/SamuelTulach/nullmap",
-            "title": "SamuelTulach/nullmap: Using CVE-2023-21768 to manual map kernel mode driver ",
-            "date_modified": "2023-05-16T14:54:17.000Z",
-            "date_published": "2023-03-10T19:08:28.000Z",
-            "author": {
-                "name": "SamuelTulach",
-                "url": "https://github.com/SamuelTulach"
-            }
-        },
-        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/86546351?u=7be66dedaee67a9932df8f5448f53e40bfbfb17f&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2023-0386 analysis and Exp</div>",
             "url": "https://github.com/chenaotian/CVE-2023-0386",
             "title": "chenaotian/CVE-2023-0386: CVE-2023-0386 analysis and Exp",
@@ -223,6 +212,17 @@
             "author": {
                 "name": "chenaotian",
                 "url": "https://github.com/chenaotian"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/122022313?u=f52d9d3dd72c1a2c3d8ebb15de11fbea576daa81&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Exploit for CVE-2023-27532 against Veeam Backup &amp; Replication</div>",
+            "url": "https://github.com/sfewer-r7/CVE-2023-27532",
+            "title": "sfewer-r7/CVE-2023-27532: Exploit for CVE-2023-27532 against Veeam Backup & Replication",
+            "date_modified": "2023-05-16T19:08:04.000Z",
+            "date_published": "2023-03-23T16:08:43.000Z",
+            "author": {
+                "name": "sfewer-r7",
+                "url": "https://github.com/sfewer-r7"
             }
         }
     ]
