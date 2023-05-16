@@ -42,7 +42,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/68001644?u=462822ad15461addb74832de164e61a93276da7b&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>win32k LPE </div>",
             "url": "https://github.com/KaLendsi/CVE-2022-21882",
             "title": "KaLendsi/CVE-2022-21882: win32k LPE ",
-            "date_modified": "2023-05-05T17:28:42.000Z",
+            "date_modified": "2023-05-16T20:48:11.000Z",
             "date_published": "2022-01-27T03:44:10.000Z",
             "author": {
                 "name": "KaLendsi",
@@ -86,22 +86,11 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/77638184?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2022-0185</div>",
             "url": "https://github.com/Crusaders-of-Rust/CVE-2022-0185",
             "title": "Crusaders-of-Rust/CVE-2022-0185: CVE-2022-0185",
-            "date_modified": "2023-05-16T16:10:50.000Z",
+            "date_modified": "2023-05-16T20:08:47.000Z",
             "date_published": "2022-01-19T06:19:38.000Z",
             "author": {
                 "name": "Crusaders-of-Rust",
                 "url": "https://github.com/Crusaders-of-Rust"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/26628940?u=af3e5ebce66d52d37112d1493433d751255b5f60&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2022-23222: Linux Kernel eBPF Local Privilege Escalation</div>",
-            "url": "https://github.com/tr3ee/CVE-2022-23222",
-            "title": "tr3ee/CVE-2022-23222: CVE-2022-23222: Linux Kernel eBPF Local Privilege Escalation",
-            "date_modified": "2023-05-07T11:34:54.000Z",
-            "date_published": "2022-06-07T03:20:23.000Z",
-            "author": {
-                "name": "tr3ee",
-                "url": "https://github.com/tr3ee"
             }
         },
         {
@@ -113,6 +102,17 @@
             "author": {
                 "name": "lucksec",
                 "url": "https://github.com/lucksec"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/26628940?u=af3e5ebce66d52d37112d1493433d751255b5f60&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2022-23222: Linux Kernel eBPF Local Privilege Escalation</div>",
+            "url": "https://github.com/tr3ee/CVE-2022-23222",
+            "title": "tr3ee/CVE-2022-23222: CVE-2022-23222: Linux Kernel eBPF Local Privilege Escalation",
+            "date_modified": "2023-05-07T11:34:54.000Z",
+            "date_published": "2022-06-07T03:20:23.000Z",
+            "author": {
+                "name": "tr3ee",
+                "url": "https://github.com/tr3ee"
             }
         },
         {
