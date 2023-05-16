@@ -39,6 +39,17 @@
             }
         },
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/68001644?u=462822ad15461addb74832de164e61a93276da7b&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>win32k LPE </div>",
+            "url": "https://github.com/KaLendsi/CVE-2022-21882",
+            "title": "KaLendsi/CVE-2022-21882: win32k LPE ",
+            "date_modified": "2023-05-05T17:28:42.000Z",
+            "date_published": "2022-01-27T03:44:10.000Z",
+            "author": {
+                "name": "KaLendsi",
+                "url": "https://github.com/KaLendsi"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/33525376?u=32d701bc34b9867981a0b8a0d899a098fedaf2e6&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>7-Zip through 21.07 on Windows allows privilege escalation and command execution when a file with the .7z extension is dragged to the Help&gt;Contents area.</div>",
             "url": "https://github.com/kagancapar/CVE-2022-29072",
             "title": "kagancapar/CVE-2022-29072: 7-Zip through 21.07 on Windows allows privilege escalation and command execution when a file with the .7z extension is dragged to the Help>Contents area.",
@@ -75,7 +86,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/77638184?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2022-0185</div>",
             "url": "https://github.com/Crusaders-of-Rust/CVE-2022-0185",
             "title": "Crusaders-of-Rust/CVE-2022-0185: CVE-2022-0185",
-            "date_modified": "2023-05-13T15:29:36.000Z",
+            "date_modified": "2023-05-16T16:10:50.000Z",
             "date_published": "2022-01-19T06:19:38.000Z",
             "author": {
                 "name": "Crusaders-of-Rust",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "0vercl0k",
                 "url": "https://github.com/0vercl0k"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/3851678?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2022-22963 PoC </div>",
-            "url": "https://github.com/dinosn/CVE-2022-22963",
-            "title": "dinosn/CVE-2022-22963: CVE-2022-22963 PoC ",
-            "date_modified": "2023-05-10T03:45:49.000Z",
-            "date_published": "2022-03-30T05:04:24.000Z",
-            "author": {
-                "name": "dinosn",
-                "url": "https://github.com/dinosn"
             }
         }
     ]
