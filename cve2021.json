@@ -83,6 +83,17 @@
             }
         },
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/7529189?u=c2d48bc13a65b0be72f2d77a352a0b78847e583d&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Pure PowerShell implementation of CVE-2021-1675 Print Spooler Local Privilege Escalation (PrintNightmare)</div>",
+            "url": "https://github.com/calebstewart/CVE-2021-1675",
+            "title": "calebstewart/CVE-2021-1675: Pure PowerShell implementation of CVE-2021-1675 Print Spooler Local Privilege Escalation (PrintNightmare)",
+            "date_modified": "2023-05-11T15:15:27.000Z",
+            "date_published": "2021-07-01T23:45:58.000Z",
+            "author": {
+                "name": "calebstewart",
+                "url": "https://github.com/calebstewart"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/68001644?u=462822ad15461addb74832de164e61a93276da7b&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2021-1732 Exploit</div>",
             "url": "https://github.com/KaLendsi/CVE-2021-1732-Exploit",
             "title": "KaLendsi/CVE-2021-1732-Exploit: CVE-2021-1732 Exploit",
@@ -141,7 +152,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/1352296?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Sudo Baron Samedit Exploit</div>",
             "url": "https://github.com/worawit/CVE-2021-3156",
             "title": "worawit/CVE-2021-3156: Sudo Baron Samedit Exploit",
-            "date_modified": "2023-05-05T16:11:48.000Z",
+            "date_modified": "2023-05-17T03:20:55.000Z",
             "date_published": "2021-03-15T17:37:02.000Z",
             "author": {
                 "name": "worawit",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "herwonowr",
                 "url": "https://github.com/herwonowr"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/37221555?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Scanners for Jar files that may be vulnerable to CVE-2021-44228</div>",
-            "url": "https://github.com/CERTCC/CVE-2021-44228_scanner",
-            "title": "CERTCC/CVE-2021-44228_scanner: Scanners for Jar files that may be vulnerable to CVE-2021-44228",
-            "date_modified": "2023-05-10T06:46:50.000Z",
-            "date_published": "2021-12-14T23:33:51.000Z",
-            "author": {
-                "name": "CERTCC",
-                "url": "https://github.com/CERTCC"
             }
         }
     ]
