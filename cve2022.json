@@ -94,17 +94,6 @@
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/26628940?u=af3e5ebce66d52d37112d1493433d751255b5f60&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2022-23222: Linux Kernel eBPF Local Privilege Escalation</div>",
-            "url": "https://github.com/tr3ee/CVE-2022-23222",
-            "title": "tr3ee/CVE-2022-23222: CVE-2022-23222: Linux Kernel eBPF Local Privilege Escalation",
-            "date_modified": "2023-05-25T02:08:28.000Z",
-            "date_published": "2022-06-07T03:20:23.000Z",
-            "author": {
-                "name": "tr3ee",
-                "url": "https://github.com/tr3ee"
-            }
-        },
-        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/59011386?u=e3908c7e4e1a335bec769772b92c0ee416b23ea3&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2022-22947</div>",
             "url": "https://github.com/lucksec/Spring-Cloud-Gateway-CVE-2022-22947",
             "title": "lucksec/Spring-Cloud-Gateway-CVE-2022-22947: CVE-2022-22947",
@@ -113,6 +102,17 @@
             "author": {
                 "name": "lucksec",
                 "url": "https://github.com/lucksec"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/26628940?u=af3e5ebce66d52d37112d1493433d751255b5f60&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2022-23222: Linux Kernel eBPF Local Privilege Escalation</div>",
+            "url": "https://github.com/tr3ee/CVE-2022-23222",
+            "title": "tr3ee/CVE-2022-23222: CVE-2022-23222: Linux Kernel eBPF Local Privilege Escalation",
+            "date_modified": "2023-05-25T02:08:28.000Z",
+            "date_published": "2022-06-07T03:20:23.000Z",
+            "author": {
+                "name": "tr3ee",
+                "url": "https://github.com/tr3ee"
             }
         },
         {
@@ -204,17 +204,6 @@
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/79593994?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>POC for CVE-2022-39952</div>",
-            "url": "https://github.com/horizon3ai/CVE-2022-39952",
-            "title": "horizon3ai/CVE-2022-39952: POC for CVE-2022-39952",
-            "date_modified": "2023-05-05T17:33:22.000Z",
-            "date_published": "2023-02-20T15:12:33.000Z",
-            "author": {
-                "name": "horizon3ai",
-                "url": "https://github.com/horizon3ai"
-            }
-        },
-        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/1476421?u=dbf0bb2a669dcb2bcbd04ee640f67740ac6d346d&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>PoC for CVE-2022-21971 \"Windows Runtime Remote Code Execution Vulnerability\"</div>",
             "url": "https://github.com/0vercl0k/CVE-2022-21971",
             "title": "0vercl0k/CVE-2022-21971: PoC for CVE-2022-21971 \"Windows Runtime Remote Code Execution Vulnerability\"",
@@ -223,6 +212,17 @@
             "author": {
                 "name": "0vercl0k",
                 "url": "https://github.com/0vercl0k"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/79593994?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>POC for CVE-2022-39952</div>",
+            "url": "https://github.com/horizon3ai/CVE-2022-39952",
+            "title": "horizon3ai/CVE-2022-39952: POC for CVE-2022-39952",
+            "date_modified": "2023-05-05T17:33:22.000Z",
+            "date_published": "2023-02-20T15:12:33.000Z",
+            "author": {
+                "name": "horizon3ai",
+                "url": "https://github.com/horizon3ai"
             }
         }
     ]
