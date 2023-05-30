@@ -39,6 +39,17 @@
             }
         },
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/39370848?u=e4a5e8b9d78ef928570bd33c1133482f6341c919&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>C# and Impacket implementation of PrintNightmare CVE-2021-1675/CVE-2021-34527</div>",
+            "url": "https://github.com/cube0x0/CVE-2021-1675",
+            "title": "cube0x0/CVE-2021-1675: C# and Impacket implementation of PrintNightmare CVE-2021-1675/CVE-2021-34527",
+            "date_modified": "2023-05-26T09:06:44.000Z",
+            "date_published": "2021-06-29T17:24:14.000Z",
+            "author": {
+                "name": "cube0x0",
+                "url": "https://github.com/cube0x0"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/7356025?u=4bf80d665e0f24d1a7126a23c52208d3a0ed8dc9&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>PoC for PwnKit: Local Privilege Escalation Vulnerability in polkit’s pkexec (CVE-2021-4034)</div>",
             "url": "https://github.com/arthepsy/CVE-2021-4034",
             "title": "arthepsy/CVE-2021-4034: PoC for PwnKit: Local Privilege Escalation Vulnerability in polkit’s pkexec (CVE-2021-4034)",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "herwonowr",
                 "url": "https://github.com/herwonowr"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/37221555?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Scanners for Jar files that may be vulnerable to CVE-2021-44228</div>",
-            "url": "https://github.com/CERTCC/CVE-2021-44228_scanner",
-            "title": "CERTCC/CVE-2021-44228_scanner: Scanners for Jar files that may be vulnerable to CVE-2021-44228",
-            "date_modified": "2023-05-27T08:18:54.000Z",
-            "date_published": "2021-12-14T23:33:51.000Z",
-            "author": {
-                "name": "CERTCC",
-                "url": "https://github.com/CERTCC"
             }
         }
     ]
