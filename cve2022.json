@@ -171,17 +171,6 @@
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/43793247?u=b64bda9946f510954184269b687950e238bd9619&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>One day based on <a href=\"https://googleprojectzero.blogspot.com/2022/10/rc4-is-still-considered-harmful.html\" rel=\"nofollow\">https://googleprojectzero.blogspot.com/2022/10/rc4-is-still-considered-harmful.html</a></div>",
-            "url": "https://github.com/Bdenneu/CVE-2022-33679",
-            "title": "Bdenneu/CVE-2022-33679: One day based on https://googleprojectzero.blogspot.com/2022/10/rc4-is-still-considered-harmful.html",
-            "date_modified": "2023-05-28T03:22:58.000Z",
-            "date_published": "2022-11-02T18:38:01.000Z",
-            "author": {
-                "name": "Bdenneu",
-                "url": "https://github.com/Bdenneu"
-            }
-        },
-        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/5160055?u=ef40aa3f616815fac6eff71ba1ab9346b9373b59&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>PoC for vulnerability in Honda's Remote Keyless System(CVE-2022-27254)</div>",
             "url": "https://github.com/nonamecoder/CVE-2022-27254",
             "title": "nonamecoder/CVE-2022-27254: PoC for vulnerability in Honda's Remote Keyless System(CVE-2022-27254)",
@@ -204,6 +193,17 @@
             }
         },
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/1476421?u=dbf0bb2a669dcb2bcbd04ee640f67740ac6d346d&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>PoC for CVE-2022-21971 \"Windows Runtime Remote Code Execution Vulnerability\"</div>",
+            "url": "https://github.com/0vercl0k/CVE-2022-21971",
+            "title": "0vercl0k/CVE-2022-21971: PoC for CVE-2022-21971 \"Windows Runtime Remote Code Execution Vulnerability\"",
+            "date_modified": "2023-05-27T08:18:57.000Z",
+            "date_published": "2022-02-26T20:37:42.000Z",
+            "author": {
+                "name": "0vercl0k",
+                "url": "https://github.com/0vercl0k"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/79593994?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>POC for CVE-2022-39952</div>",
             "url": "https://github.com/horizon3ai/CVE-2022-39952",
             "title": "horizon3ai/CVE-2022-39952: POC for CVE-2022-39952",
@@ -215,14 +215,14 @@
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/1476421?u=dbf0bb2a669dcb2bcbd04ee640f67740ac6d346d&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>PoC for CVE-2022-21971 \"Windows Runtime Remote Code Execution Vulnerability\"</div>",
-            "url": "https://github.com/0vercl0k/CVE-2022-21971",
-            "title": "0vercl0k/CVE-2022-21971: PoC for CVE-2022-21971 \"Windows Runtime Remote Code Execution Vulnerability\"",
-            "date_modified": "2023-05-27T08:18:57.000Z",
-            "date_published": "2022-02-26T20:37:42.000Z",
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/13276084?u=a3c1e439a8357f985029adbfa570c329c0296609&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A collection of exploits and documentation that can be used to exploit the Linux Dirty Pipe vulnerability.</div>",
+            "url": "https://github.com/AlexisAhmed/CVE-2022-0847-DirtyPipe-Exploits",
+            "title": "AlexisAhmed/CVE-2022-0847-DirtyPipe-Exploits: A collection of exploits and documentation that can be used to exploit the Linux Dirty Pipe vulnerability.",
+            "date_modified": "2023-05-29T02:51:06.000Z",
+            "date_published": "2022-03-12T20:57:24.000Z",
             "author": {
-                "name": "0vercl0k",
-                "url": "https://github.com/0vercl0k"
+                "name": "AlexisAhmed",
+                "url": "https://github.com/AlexisAhmed"
             }
         }
     ]
