@@ -28,17 +28,6 @@
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/53857102?u=27e9f39a68754a8152ca8c3604081169f56aee8b&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2022-0995 exploit</div>",
-            "url": "https://github.com/Bonfee/CVE-2022-0995",
-            "title": "Bonfee/CVE-2022-0995: CVE-2022-0995 exploit",
-            "date_modified": "2023-06-02T21:34:40.000Z",
-            "date_published": "2022-03-26T21:46:09.000Z",
-            "author": {
-                "name": "Bonfee",
-                "url": "https://github.com/Bonfee"
-            }
-        },
-        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/68001644?u=462822ad15461addb74832de164e61a93276da7b&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>win32k LPE </div>",
             "url": "https://github.com/KaLendsi/CVE-2022-21882",
             "title": "KaLendsi/CVE-2022-21882: win32k LPE ",
@@ -58,17 +47,6 @@
             "author": {
                 "name": "kagancapar",
                 "url": "https://github.com/kagancapar"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/3926753?u=3c08865fc198c382fe54900ac89d87589b4f4451&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A root exploit for CVE-2022-0847 (Dirty Pipe)</div>",
-            "url": "https://github.com/Arinerron/CVE-2022-0847-DirtyPipe-Exploit",
-            "title": "Arinerron/CVE-2022-0847-DirtyPipe-Exploit: A root exploit for CVE-2022-0847 (Dirty Pipe)",
-            "date_modified": "2023-06-04T02:08:00.000Z",
-            "date_published": "2022-03-07T18:55:20.000Z",
-            "author": {
-                "name": "Arinerron",
-                "url": "https://github.com/Arinerron"
             }
         },
         {
@@ -124,17 +102,6 @@
             "author": {
                 "name": "ZZ-SOCMAP",
                 "url": "https://github.com/ZZ-SOCMAP"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/18663141?u=2f4646b4e3f9b108365fcca3eb28adcdea03429d&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>exploit for CVE-2022-2588</div>",
-            "url": "https://github.com/Markakd/CVE-2022-2588",
-            "title": "Markakd/CVE-2022-2588: exploit for CVE-2022-2588",
-            "date_modified": "2023-06-02T15:24:58.000Z",
-            "date_published": "2022-08-11T06:01:24.000Z",
-            "author": {
-                "name": "Markakd",
-                "url": "https://github.com/Markakd"
             }
         },
         {
@@ -204,17 +171,6 @@
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/79593994?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>POC for CVE-2022-39952</div>",
-            "url": "https://github.com/horizon3ai/CVE-2022-39952",
-            "title": "horizon3ai/CVE-2022-39952: POC for CVE-2022-39952",
-            "date_modified": "2023-06-02T15:25:06.000Z",
-            "date_published": "2023-02-20T15:12:33.000Z",
-            "author": {
-                "name": "horizon3ai",
-                "url": "https://github.com/horizon3ai"
-            }
-        },
-        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/1476421?u=dbf0bb2a669dcb2bcbd04ee640f67740ac6d346d&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>PoC for CVE-2022-21971 \"Windows Runtime Remote Code Execution Vulnerability\"</div>",
             "url": "https://github.com/0vercl0k/CVE-2022-21971",
             "title": "0vercl0k/CVE-2022-21971: PoC for CVE-2022-21971 \"Windows Runtime Remote Code Execution Vulnerability\"",
@@ -223,6 +179,50 @@
             "author": {
                 "name": "0vercl0k",
                 "url": "https://github.com/0vercl0k"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/13276084?u=a3c1e439a8357f985029adbfa570c329c0296609&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A collection of exploits and documentation that can be used to exploit the Linux Dirty Pipe vulnerability.</div>",
+            "url": "https://github.com/AlexisAhmed/CVE-2022-0847-DirtyPipe-Exploits",
+            "title": "AlexisAhmed/CVE-2022-0847-DirtyPipe-Exploits: A collection of exploits and documentation that can be used to exploit the Linux Dirty Pipe vulnerability.",
+            "date_modified": "2023-06-03T14:40:17.000Z",
+            "date_published": "2022-03-12T20:57:24.000Z",
+            "author": {
+                "name": "AlexisAhmed",
+                "url": "https://github.com/AlexisAhmed"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/3851678?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2022-22963 PoC </div>",
+            "url": "https://github.com/dinosn/CVE-2022-22963",
+            "title": "dinosn/CVE-2022-22963: CVE-2022-22963 PoC ",
+            "date_modified": "2023-05-10T03:45:49.000Z",
+            "date_published": "2022-03-30T05:04:24.000Z",
+            "author": {
+                "name": "dinosn",
+                "url": "https://github.com/dinosn"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/23696484?u=ed3f83bcf5a2bd7b00aed40d04584f3fa162bee2&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Dockerized Spring4Shell (CVE-2022-22965) PoC application and exploit</div>",
+            "url": "https://github.com/reznok/Spring4Shell-POC",
+            "title": "reznok/Spring4Shell-POC: Dockerized Spring4Shell (CVE-2022-22965) PoC application and exploit",
+            "date_modified": "2023-06-06T07:01:55.000Z",
+            "date_published": "2022-03-31T00:24:28.000Z",
+            "author": {
+                "name": "reznok",
+                "url": "https://github.com/reznok"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/52328067?u=dc9a21e59e5ce7be88974172f3f249d9cd4b0144&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>POC for VMWARE CVE-2022-22954</div>",
+            "url": "https://github.com/sherlocksecurity/VMware-CVE-2022-22954",
+            "title": "sherlocksecurity/VMware-CVE-2022-22954: POC for VMWARE CVE-2022-22954",
+            "date_modified": "2023-06-02T15:24:53.000Z",
+            "date_published": "2022-04-11T13:59:23.000Z",
+            "author": {
+                "name": "sherlocksecurity",
+                "url": "https://github.com/sherlocksecurity"
             }
         }
     ]
