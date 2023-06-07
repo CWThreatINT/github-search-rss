@@ -149,17 +149,6 @@
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/82209949?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>VM Escape for Parallels Desktop &lt;18.1.1</div>",
-            "url": "https://github.com/Impalabs/CVE-2023-27326",
-            "title": "Impalabs/CVE-2023-27326: VM Escape for Parallels Desktop <18.1.1",
-            "date_modified": "2023-06-02T15:25:07.000Z",
-            "date_published": "2023-03-20T11:47:54.000Z",
-            "author": {
-                "name": "Impalabs",
-                "url": "https://github.com/Impalabs"
-            }
-        },
-        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/30940342?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A script to automate privilege escalation with CVE-2023-22809 vulnerability</div>",
             "url": "https://github.com/n3m1dotsys/CVE-2023-22809-sudoedit-privesc",
             "title": "n3m1dotsys/CVE-2023-22809-sudoedit-privesc: A script to automate privilege escalation with CVE-2023-22809 vulnerability",
@@ -223,6 +212,17 @@
             "author": {
                 "name": "Trackflaw",
                 "url": "https://github.com/Trackflaw"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/45040001?u=aac3fd767d1108b95b5380f9f71cb3b82fc1975e&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE 2023 25690 Proof of concept - mod_proxy vulnerable configuration on Apache HTTP Server versions 2.4.0 - 2.4.55 leads to HTTP Request Smuggling vulnerability.</div>",
+            "url": "https://github.com/dhmosfunk/CVE-2023-25690-POC",
+            "title": "dhmosfunk/CVE-2023-25690-POC: CVE 2023 25690 Proof of concept - mod_proxy vulnerable configuration on Apache HTTP Server versions 2.4.0 - 2.4.55 leads to HTTP Request Smuggling vulnerability.",
+            "date_modified": "2023-06-05T18:15:06.000Z",
+            "date_published": "2023-05-22T03:06:31.000Z",
+            "author": {
+                "name": "dhmosfunk",
+                "url": "https://github.com/dhmosfunk"
             }
         }
     ]
