@@ -138,6 +138,17 @@
             }
         },
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/1476421?u=dbf0bb2a669dcb2bcbd04ee640f67740ac6d346d&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Proof of concept for CVE-2021-31166, a remote HTTP.sys use-after-free triggered remotely.</div>",
+            "url": "https://github.com/0vercl0k/CVE-2021-31166",
+            "title": "0vercl0k/CVE-2021-31166: Proof of concept for CVE-2021-31166, a remote HTTP.sys use-after-free triggered remotely.",
+            "date_modified": "2023-06-08T12:37:17.000Z",
+            "date_published": "2021-05-16T16:15:56.000Z",
+            "author": {
+                "name": "0vercl0k",
+                "url": "https://github.com/0vercl0k"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/1352296?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Sudo Baron Samedit Exploit</div>",
             "url": "https://github.com/worawit/CVE-2021-3156",
             "title": "worawit/CVE-2021-3156: Sudo Baron Samedit Exploit",
@@ -149,21 +160,10 @@
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/1476421?u=dbf0bb2a669dcb2bcbd04ee640f67740ac6d346d&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Proof of concept for CVE-2021-31166, a remote HTTP.sys use-after-free triggered remotely.</div>",
-            "url": "https://github.com/0vercl0k/CVE-2021-31166",
-            "title": "0vercl0k/CVE-2021-31166: Proof of concept for CVE-2021-31166, a remote HTTP.sys use-after-free triggered remotely.",
-            "date_modified": "2023-06-05T02:24:50.000Z",
-            "date_published": "2021-05-16T16:15:56.000Z",
-            "author": {
-                "name": "0vercl0k",
-                "url": "https://github.com/0vercl0k"
-            }
-        },
-        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/87979263?u=dd7f23490c7b9d1bd1dca84ccaf723402debf769&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A Proof-Of-Concept for the CVE-2021-44228 vulnerability. </div>",
             "url": "https://github.com/kozmer/log4j-shell-poc",
             "title": "kozmer/log4j-shell-poc: A Proof-Of-Concept for the CVE-2021-44228 vulnerability. ",
-            "date_modified": "2023-06-07T02:10:59.000Z",
+            "date_modified": "2023-06-08T12:16:42.000Z",
             "date_published": "2021-12-10T23:19:28.000Z",
             "author": {
                 "name": "kozmer",
