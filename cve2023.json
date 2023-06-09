@@ -204,6 +204,17 @@
             }
         },
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/12781459?u=a4d346b749e3bb1d102e8aa990654767aca6a512&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2023-25157 - GeoServer SQL Injection - PoC</div>",
+            "url": "https://github.com/win3zz/CVE-2023-25157",
+            "title": "win3zz/CVE-2023-25157: CVE-2023-25157 - GeoServer SQL Injection - PoC",
+            "date_modified": "2023-06-09T07:44:58.000Z",
+            "date_published": "2023-06-06T14:05:09.000Z",
+            "author": {
+                "name": "win3zz",
+                "url": "https://github.com/win3zz"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/96427513?u=f9f5d157d71eb7678aea2a33222375db4e65491a&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>OpenSSH 9.1 vulnerability mass scan and exploit</div>",
             "url": "https://github.com/Christbowel/CVE-2023-25136",
             "title": "Christbowel/CVE-2023-25136: OpenSSH 9.1 vulnerability mass scan and exploit",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "Christbowel",
                 "url": "https://github.com/Christbowel"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/12781459?u=a4d346b749e3bb1d102e8aa990654767aca6a512&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2023-25157 - GeoServer SQL Injection - PoC</div>",
-            "url": "https://github.com/win3zz/CVE-2023-25157",
-            "title": "win3zz/CVE-2023-25157: CVE-2023-25157 - GeoServer SQL Injection - PoC",
-            "date_modified": "2023-06-09T05:23:11.000Z",
-            "date_published": "2023-06-06T14:05:09.000Z",
-            "author": {
-                "name": "win3zz",
-                "url": "https://github.com/win3zz"
             }
         }
     ]
