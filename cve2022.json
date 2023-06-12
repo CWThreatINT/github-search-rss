@@ -20,7 +20,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/53857102?u=27e9f39a68754a8152ca8c3604081169f56aee8b&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2022-25636</div>",
             "url": "https://github.com/Bonfee/CVE-2022-25636",
             "title": "Bonfee/CVE-2022-25636: CVE-2022-25636",
-            "date_modified": "2023-06-02T15:24:50.000Z",
+            "date_modified": "2023-06-12T07:34:58.000Z",
             "date_published": "2022-03-07T13:38:41.000Z",
             "author": {
                 "name": "Bonfee",
@@ -31,7 +31,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/53857102?u=27e9f39a68754a8152ca8c3604081169f56aee8b&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2022-0995 exploit</div>",
             "url": "https://github.com/Bonfee/CVE-2022-0995",
             "title": "Bonfee/CVE-2022-0995: CVE-2022-0995 exploit",
-            "date_modified": "2023-06-02T21:34:40.000Z",
+            "date_modified": "2023-06-12T07:35:50.000Z",
             "date_published": "2022-03-26T21:46:09.000Z",
             "author": {
                 "name": "Bonfee",
@@ -64,7 +64,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/3926753?u=3c08865fc198c382fe54900ac89d87589b4f4451&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A root exploit for CVE-2022-0847 (Dirty Pipe)</div>",
             "url": "https://github.com/Arinerron/CVE-2022-0847-DirtyPipe-Exploit",
             "title": "Arinerron/CVE-2022-0847-DirtyPipe-Exploit: A root exploit for CVE-2022-0847 (Dirty Pipe)",
-            "date_modified": "2023-06-07T21:08:03.000Z",
+            "date_modified": "2023-06-12T07:33:56.000Z",
             "date_published": "2022-03-07T18:55:20.000Z",
             "author": {
                 "name": "Arinerron",
@@ -97,7 +97,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/26628940?u=af3e5ebce66d52d37112d1493433d751255b5f60&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2022-23222: Linux Kernel eBPF Local Privilege Escalation</div>",
             "url": "https://github.com/tr3ee/CVE-2022-23222",
             "title": "tr3ee/CVE-2022-23222: CVE-2022-23222: Linux Kernel eBPF Local Privilege Escalation",
-            "date_modified": "2023-06-09T03:13:55.000Z",
+            "date_modified": "2023-06-12T07:34:01.000Z",
             "date_published": "2022-06-07T03:20:23.000Z",
             "author": {
                 "name": "tr3ee",
@@ -130,7 +130,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/18663141?u=2f4646b4e3f9b108365fcca3eb28adcdea03429d&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>exploit for CVE-2022-2588</div>",
             "url": "https://github.com/Markakd/CVE-2022-2588",
             "title": "Markakd/CVE-2022-2588: exploit for CVE-2022-2588",
-            "date_modified": "2023-06-08T02:32:26.000Z",
+            "date_modified": "2023-06-12T07:34:27.000Z",
             "date_published": "2022-08-11T06:01:24.000Z",
             "author": {
                 "name": "Markakd",
@@ -193,6 +193,17 @@
             }
         },
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/21257485?u=cb7e01972ffd65e9499562fb76720508cb5b8210&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2022-0847-DirtyPipe-Exploit   CVE-2022-0847 是存在于 Linux内核 5.8 及之后版本中的本地提权漏洞。攻击者通过利用此漏洞，可覆盖重写任意可读文件中的数据，从而可将普通权限的用户提升到特权 root。    CVE-2022-0847 的漏洞原理类似于 CVE-2016-5195 脏牛漏洞（Dirty Cow），但它更容易被利用。漏洞作者将此漏洞命名为“Dirty Pipe”</div>",
+            "url": "https://github.com/r1is/CVE-2022-0847",
+            "title": "r1is/CVE-2022-0847: CVE-2022-0847-DirtyPipe-Exploit   CVE-2022-0847 是存在于 Linux内核 5.8 及之后版本中的本地提权漏洞。攻击者通过利用此漏洞，可覆盖重写任意可读文件中的数据，从而可将普通权限的用户提升到特权 root。    CVE-2022-0847 的漏洞原理类似于 CVE-2016-5195 脏牛漏洞（Dirty Cow），但它更容易被利用。漏洞作者将此漏洞命名为“Dirty Pipe”",
+            "date_modified": "2023-06-12T07:33:59.000Z",
+            "date_published": "2022-03-07T18:36:50.000Z",
+            "author": {
+                "name": "r1is",
+                "url": "https://github.com/r1is"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/79593994?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>POC for CVE-2022-39952</div>",
             "url": "https://github.com/horizon3ai/CVE-2022-39952",
             "title": "horizon3ai/CVE-2022-39952: POC for CVE-2022-39952",
@@ -201,17 +212,6 @@
             "author": {
                 "name": "horizon3ai",
                 "url": "https://github.com/horizon3ai"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/21257485?u=cb7e01972ffd65e9499562fb76720508cb5b8210&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2022-0847-DirtyPipe-Exploit   CVE-2022-0847 是存在于 Linux内核 5.8 及之后版本中的本地提权漏洞。攻击者通过利用此漏洞，可覆盖重写任意可读文件中的数据，从而可将普通权限的用户提升到特权 root。    CVE-2022-0847 的漏洞原理类似于 CVE-2016-5195 脏牛漏洞（Dirty Cow），但它更容易被利用。漏洞作者将此漏洞命名为“Dirty Pipe”</div>",
-            "url": "https://github.com/r1is/CVE-2022-0847",
-            "title": "r1is/CVE-2022-0847: CVE-2022-0847-DirtyPipe-Exploit   CVE-2022-0847 是存在于 Linux内核 5.8 及之后版本中的本地提权漏洞。攻击者通过利用此漏洞，可覆盖重写任意可读文件中的数据，从而可将普通权限的用户提升到特权 root。    CVE-2022-0847 的漏洞原理类似于 CVE-2016-5195 脏牛漏洞（Dirty Cow），但它更容易被利用。漏洞作者将此漏洞命名为“Dirty Pipe”",
-            "date_modified": "2023-06-02T15:24:50.000Z",
-            "date_published": "2022-03-07T18:36:50.000Z",
-            "author": {
-                "name": "r1is",
-                "url": "https://github.com/r1is"
             }
         },
         {
