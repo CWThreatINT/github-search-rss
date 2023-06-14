@@ -149,17 +149,6 @@
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/82209949?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>VM Escape for Parallels Desktop &lt;18.1.1</div>",
-            "url": "https://github.com/Impalabs/CVE-2023-27326",
-            "title": "Impalabs/CVE-2023-27326: VM Escape for Parallels Desktop <18.1.1",
-            "date_modified": "2023-06-14T10:24:11.000Z",
-            "date_published": "2023-03-20T11:47:54.000Z",
-            "author": {
-                "name": "Impalabs",
-                "url": "https://github.com/Impalabs"
-            }
-        },
-        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/12781459?u=a4d346b749e3bb1d102e8aa990654767aca6a512&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2023-25157 - GeoServer SQL Injection - PoC</div>",
             "url": "https://github.com/win3zz/CVE-2023-25157",
             "title": "win3zz/CVE-2023-25157: CVE-2023-25157 - GeoServer SQL Injection - PoC",
@@ -168,6 +157,17 @@
             "author": {
                 "name": "win3zz",
                 "url": "https://github.com/win3zz"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/82209949?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>VM Escape for Parallels Desktop &lt;18.1.1</div>",
+            "url": "https://github.com/Impalabs/CVE-2023-27326",
+            "title": "Impalabs/CVE-2023-27326: VM Escape for Parallels Desktop <18.1.1",
+            "date_modified": "2023-06-14T10:24:11.000Z",
+            "date_published": "2023-03-20T11:47:54.000Z",
+            "author": {
+                "name": "Impalabs",
+                "url": "https://github.com/Impalabs"
             }
         },
         {
