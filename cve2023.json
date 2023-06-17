@@ -138,17 +138,6 @@
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/55592824?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>GitLab CVE-2023-2825 PoC. This PoC leverages a path traversal vulnerability to retrieve the /etc/passwd file from a system running GitLab 16.0.0.</div>",
-            "url": "https://github.com/Occamsec/CVE-2023-2825",
-            "title": "Occamsec/CVE-2023-2825: GitLab CVE-2023-2825 PoC. This PoC leverages a path traversal vulnerability to retrieve the /etc/passwd file from a system running GitLab 16.0.0.",
-            "date_modified": "2023-06-16T00:52:12.000Z",
-            "date_published": "2023-05-25T13:25:10.000Z",
-            "author": {
-                "name": "Occamsec",
-                "url": "https://github.com/Occamsec"
-            }
-        },
-        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/51722811?u=a195458fc64bade6e8616d1d5c43883f0abde0c0&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2023-32243</div>",
             "url": "https://github.com/RandomRobbieBF/CVE-2023-32243",
             "title": "RandomRobbieBF/CVE-2023-32243: CVE-2023-32243",
@@ -157,6 +146,17 @@
             "author": {
                 "name": "RandomRobbieBF",
                 "url": "https://github.com/RandomRobbieBF"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/55592824?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>GitLab CVE-2023-2825 PoC. This PoC leverages a path traversal vulnerability to retrieve the /etc/passwd file from a system running GitLab 16.0.0.</div>",
+            "url": "https://github.com/Occamsec/CVE-2023-2825",
+            "title": "Occamsec/CVE-2023-2825: GitLab CVE-2023-2825 PoC. This PoC leverages a path traversal vulnerability to retrieve the /etc/passwd file from a system running GitLab 16.0.0.",
+            "date_modified": "2023-06-16T00:52:12.000Z",
+            "date_published": "2023-05-25T13:25:10.000Z",
+            "author": {
+                "name": "Occamsec",
+                "url": "https://github.com/Occamsec"
             }
         },
         {
@@ -174,22 +174,11 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/79593994?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>MOVEit CVE-2023-34362</div>",
             "url": "https://github.com/horizon3ai/CVE-2023-34362",
             "title": "horizon3ai/CVE-2023-34362: MOVEit CVE-2023-34362",
-            "date_modified": "2023-06-17T01:29:04.000Z",
+            "date_modified": "2023-06-17T14:12:23.000Z",
             "date_published": "2023-06-09T19:07:32.000Z",
             "author": {
                 "name": "horizon3ai",
                 "url": "https://github.com/horizon3ai"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/12781459?u=a4d346b749e3bb1d102e8aa990654767aca6a512&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2023-25157 - GeoServer SQL Injection - PoC</div>",
-            "url": "https://github.com/win3zz/CVE-2023-25157",
-            "title": "win3zz/CVE-2023-25157: CVE-2023-25157 - GeoServer SQL Injection - PoC",
-            "date_modified": "2023-06-17T00:29:41.000Z",
-            "date_published": "2023-06-06T14:05:09.000Z",
-            "author": {
-                "name": "win3zz",
-                "url": "https://github.com/win3zz"
             }
         },
         {
@@ -204,6 +193,17 @@
             }
         },
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/30940342?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A script to automate privilege escalation with CVE-2023-22809 vulnerability</div>",
+            "url": "https://github.com/n3m1dotsys/CVE-2023-22809-sudoedit-privesc",
+            "title": "n3m1dotsys/CVE-2023-22809-sudoedit-privesc: A script to automate privilege escalation with CVE-2023-22809 vulnerability",
+            "date_modified": "2023-05-28T02:51:21.000Z",
+            "date_published": "2023-01-21T15:19:23.000Z",
+            "author": {
+                "name": "n3m1dotsys",
+                "url": "https://github.com/n3m1dotsys"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/1218718?u=1accabb19bff9bbea64ae19586b1a0bdc05769da&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
             "url": "https://github.com/TurtleARM/CVE-2023-0179-PoC",
             "title": "TurtleARM/CVE-2023-0179-PoC",
@@ -215,14 +215,14 @@
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/30940342?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A script to automate privilege escalation with CVE-2023-22809 vulnerability</div>",
-            "url": "https://github.com/n3m1dotsys/CVE-2023-22809-sudoedit-privesc",
-            "title": "n3m1dotsys/CVE-2023-22809-sudoedit-privesc: A script to automate privilege escalation with CVE-2023-22809 vulnerability",
-            "date_modified": "2023-05-28T02:51:21.000Z",
-            "date_published": "2023-01-21T15:19:23.000Z",
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/12781459?u=a4d346b749e3bb1d102e8aa990654767aca6a512&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2023-25157 - GeoServer SQL Injection - PoC</div>",
+            "url": "https://github.com/win3zz/CVE-2023-25157",
+            "title": "win3zz/CVE-2023-25157: CVE-2023-25157 - GeoServer SQL Injection - PoC",
+            "date_modified": "2023-06-17T00:29:41.000Z",
+            "date_published": "2023-06-06T14:05:09.000Z",
             "author": {
-                "name": "n3m1dotsys",
-                "url": "https://github.com/n3m1dotsys"
+                "name": "win3zz",
+                "url": "https://github.com/win3zz"
             }
         }
     ]
