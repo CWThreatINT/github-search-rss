@@ -193,6 +193,17 @@
             }
         },
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/58673953?u=a4ca3e25effd6a35293789eeb84f3750708d4fc3&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Ubuntu OverlayFS Local Privesc</div>",
+            "url": "https://github.com/briskets/CVE-2021-3493",
+            "title": "briskets/CVE-2021-3493: Ubuntu OverlayFS Local Privesc",
+            "date_modified": "2023-06-17T10:43:10.000Z",
+            "date_published": "2021-04-19T20:07:01.000Z",
+            "author": {
+                "name": "briskets",
+                "url": "https://github.com/briskets"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/14918218?u=81b0dbee27b1638dbcf6244bb54ad1d2a4f2a9d2&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>PoC for CVE-2021-3156 (sudo heap overflow)</div>",
             "url": "https://github.com/stong/CVE-2021-3156",
             "title": "stong/CVE-2021-3156: PoC for CVE-2021-3156 (sudo heap overflow)",
@@ -201,17 +212,6 @@
             "author": {
                 "name": "stong",
                 "url": "https://github.com/stong"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/58673953?u=a4ca3e25effd6a35293789eeb84f3750708d4fc3&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Ubuntu OverlayFS Local Privesc</div>",
-            "url": "https://github.com/briskets/CVE-2021-3493",
-            "title": "briskets/CVE-2021-3493: Ubuntu OverlayFS Local Privesc",
-            "date_modified": "2023-06-09T01:13:43.000Z",
-            "date_published": "2021-04-19T20:07:01.000Z",
-            "author": {
-                "name": "briskets",
-                "url": "https://github.com/briskets"
             }
         },
         {
