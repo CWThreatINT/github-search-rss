@@ -160,17 +160,6 @@
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/51722811?u=a195458fc64bade6e8616d1d5c43883f0abde0c0&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2023-32243</div>",
-            "url": "https://github.com/RandomRobbieBF/CVE-2023-32243",
-            "title": "RandomRobbieBF/CVE-2023-32243: CVE-2023-32243",
-            "date_modified": "2023-06-15T20:59:15.000Z",
-            "date_published": "2023-05-15T09:39:45.000Z",
-            "author": {
-                "name": "RandomRobbieBF",
-                "url": "https://github.com/RandomRobbieBF"
-            }
-        },
-        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/55592824?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>GitLab CVE-2023-2825 PoC. This PoC leverages a path traversal vulnerability to retrieve the /etc/passwd file from a system running GitLab 16.0.0.</div>",
             "url": "https://github.com/Occamsec/CVE-2023-2825",
             "title": "Occamsec/CVE-2023-2825: GitLab CVE-2023-2825 PoC. This PoC leverages a path traversal vulnerability to retrieve the /etc/passwd file from a system running GitLab 16.0.0.",
@@ -179,6 +168,17 @@
             "author": {
                 "name": "Occamsec",
                 "url": "https://github.com/Occamsec"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/51722811?u=a195458fc64bade6e8616d1d5c43883f0abde0c0&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2023-32243</div>",
+            "url": "https://github.com/RandomRobbieBF/CVE-2023-32243",
+            "title": "RandomRobbieBF/CVE-2023-32243: CVE-2023-32243",
+            "date_modified": "2023-06-15T20:59:15.000Z",
+            "date_published": "2023-05-15T09:39:45.000Z",
+            "author": {
+                "name": "RandomRobbieBF",
+                "url": "https://github.com/RandomRobbieBF"
             }
         },
         {
@@ -204,17 +204,6 @@
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/12781459?u=a4d346b749e3bb1d102e8aa990654767aca6a512&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2023-25157 - GeoServer SQL Injection - PoC</div>",
-            "url": "https://github.com/win3zz/CVE-2023-25157",
-            "title": "win3zz/CVE-2023-25157: CVE-2023-25157 - GeoServer SQL Injection - PoC",
-            "date_modified": "2023-06-19T06:50:18.000Z",
-            "date_published": "2023-06-06T14:05:09.000Z",
-            "author": {
-                "name": "win3zz",
-                "url": "https://github.com/win3zz"
-            }
-        },
-        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/82209949?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>VM Escape for Parallels Desktop &lt;18.1.1</div>",
             "url": "https://github.com/Impalabs/CVE-2023-27326",
             "title": "Impalabs/CVE-2023-27326: VM Escape for Parallels Desktop <18.1.1",
@@ -223,6 +212,17 @@
             "author": {
                 "name": "Impalabs",
                 "url": "https://github.com/Impalabs"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/12781459?u=a4d346b749e3bb1d102e8aa990654767aca6a512&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2023-25157 - GeoServer SQL Injection - PoC</div>",
+            "url": "https://github.com/win3zz/CVE-2023-25157",
+            "title": "win3zz/CVE-2023-25157: CVE-2023-25157 - GeoServer SQL Injection - PoC",
+            "date_modified": "2023-06-19T06:50:18.000Z",
+            "date_published": "2023-06-06T14:05:09.000Z",
+            "author": {
+                "name": "win3zz",
+                "url": "https://github.com/win3zz"
             }
         }
     ]
