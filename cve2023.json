@@ -152,22 +152,11 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/79593994?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>MOVEit CVE-2023-34362</div>",
             "url": "https://github.com/horizon3ai/CVE-2023-34362",
             "title": "horizon3ai/CVE-2023-34362: MOVEit CVE-2023-34362",
-            "date_modified": "2023-06-20T10:01:07.000Z",
+            "date_modified": "2023-06-20T21:28:29.000Z",
             "date_published": "2023-06-09T19:07:32.000Z",
             "author": {
                 "name": "horizon3ai",
                 "url": "https://github.com/horizon3ai"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/55592824?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>GitLab CVE-2023-2825 PoC. This PoC leverages a path traversal vulnerability to retrieve the /etc/passwd file from a system running GitLab 16.0.0.</div>",
-            "url": "https://github.com/Occamsec/CVE-2023-2825",
-            "title": "Occamsec/CVE-2023-2825: GitLab CVE-2023-2825 PoC. This PoC leverages a path traversal vulnerability to retrieve the /etc/passwd file from a system running GitLab 16.0.0.",
-            "date_modified": "2023-06-19T06:24:20.000Z",
-            "date_published": "2023-05-25T13:25:10.000Z",
-            "author": {
-                "name": "Occamsec",
-                "url": "https://github.com/Occamsec"
             }
         },
         {
@@ -179,6 +168,17 @@
             "author": {
                 "name": "RandomRobbieBF",
                 "url": "https://github.com/RandomRobbieBF"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/55592824?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>GitLab CVE-2023-2825 PoC. This PoC leverages a path traversal vulnerability to retrieve the /etc/passwd file from a system running GitLab 16.0.0.</div>",
+            "url": "https://github.com/Occamsec/CVE-2023-2825",
+            "title": "Occamsec/CVE-2023-2825: GitLab CVE-2023-2825 PoC. This PoC leverages a path traversal vulnerability to retrieve the /etc/passwd file from a system running GitLab 16.0.0.",
+            "date_modified": "2023-06-19T06:24:20.000Z",
+            "date_published": "2023-05-25T13:25:10.000Z",
+            "author": {
+                "name": "Occamsec",
+                "url": "https://github.com/Occamsec"
             }
         },
         {
