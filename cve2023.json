@@ -130,7 +130,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/77316200?u=2c2243c636c28bef2aafa8581512d5455679651b&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>VMWare vRealize Network Insight Pre-Authenticated RCE (CVE-2023-20887)</div>",
             "url": "https://github.com/sinsinology/CVE-2023-20887",
             "title": "sinsinology/CVE-2023-20887: VMWare vRealize Network Insight Pre-Authenticated RCE (CVE-2023-20887)",
-            "date_modified": "2023-06-21T10:47:12.000Z",
+            "date_modified": "2023-06-21T15:51:18.000Z",
             "date_published": "2023-06-13T13:17:23.000Z",
             "author": {
                 "name": "sinsinology",
@@ -152,7 +152,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/79593994?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>MOVEit CVE-2023-34362</div>",
             "url": "https://github.com/horizon3ai/CVE-2023-34362",
             "title": "horizon3ai/CVE-2023-34362: MOVEit CVE-2023-34362",
-            "date_modified": "2023-06-21T10:19:16.000Z",
+            "date_modified": "2023-06-21T15:54:08.000Z",
             "date_published": "2023-06-09T19:07:32.000Z",
             "author": {
                 "name": "horizon3ai",
@@ -193,6 +193,17 @@
             }
         },
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/12781459?u=a4d346b749e3bb1d102e8aa990654767aca6a512&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2023-25157 - GeoServer SQL Injection - PoC</div>",
+            "url": "https://github.com/win3zz/CVE-2023-25157",
+            "title": "win3zz/CVE-2023-25157: CVE-2023-25157 - GeoServer SQL Injection - PoC",
+            "date_modified": "2023-06-19T06:50:18.000Z",
+            "date_published": "2023-06-06T14:05:09.000Z",
+            "author": {
+                "name": "win3zz",
+                "url": "https://github.com/win3zz"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/1218718?u=1accabb19bff9bbea64ae19586b1a0bdc05769da&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
             "url": "https://github.com/TurtleARM/CVE-2023-0179-PoC",
             "title": "TurtleARM/CVE-2023-0179-PoC",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "Impalabs",
                 "url": "https://github.com/Impalabs"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/12781459?u=a4d346b749e3bb1d102e8aa990654767aca6a512&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2023-25157 - GeoServer SQL Injection - PoC</div>",
-            "url": "https://github.com/win3zz/CVE-2023-25157",
-            "title": "win3zz/CVE-2023-25157: CVE-2023-25157 - GeoServer SQL Injection - PoC",
-            "date_modified": "2023-06-19T06:50:18.000Z",
-            "date_published": "2023-06-06T14:05:09.000Z",
-            "author": {
-                "name": "win3zz",
-                "url": "https://github.com/win3zz"
             }
         }
     ]
