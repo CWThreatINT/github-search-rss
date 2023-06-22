@@ -28,6 +28,17 @@
             }
         },
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/39370848?u=e4a5e8b9d78ef928570bd33c1133482f6341c919&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2021-42287/CVE-2021-42278 Scanner &amp; Exploiter.</div>",
+            "url": "https://github.com/cube0x0/noPac",
+            "title": "cube0x0/noPac: CVE-2021-42287/CVE-2021-42278 Scanner & Exploiter.",
+            "date_modified": "2023-06-21T03:44:09.000Z",
+            "date_published": "2021-12-11T19:27:30.000Z",
+            "author": {
+                "name": "cube0x0",
+                "url": "https://github.com/cube0x0"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/39370848?u=e4a5e8b9d78ef928570bd33c1133482f6341c919&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>C# and Impacket implementation of PrintNightmare CVE-2021-1675/CVE-2021-34527</div>",
             "url": "https://github.com/cube0x0/CVE-2021-1675",
             "title": "cube0x0/CVE-2021-1675: C# and Impacket implementation of PrintNightmare CVE-2021-1675/CVE-2021-34527",
@@ -102,6 +113,17 @@
             "author": {
                 "name": "WazeHell",
                 "url": "https://github.com/WazeHell"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/14171714?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Vulnerability scanner and mitigation patch for Log4j2 CVE-2021-44228</div>",
+            "url": "https://github.com/logpresso/CVE-2021-44228-Scanner",
+            "title": "logpresso/CVE-2021-44228-Scanner: Vulnerability scanner and mitigation patch for Log4j2 CVE-2021-44228",
+            "date_modified": "2023-06-02T15:24:45.000Z",
+            "date_published": "2021-12-11T11:18:46.000Z",
+            "author": {
+                "name": "logpresso",
+                "url": "https://github.com/logpresso"
             }
         },
         {
@@ -193,36 +215,14 @@
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/37221555?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Scanners for Jar files that may be vulnerable to CVE-2021-44228</div>",
-            "url": "https://github.com/CERTCC/CVE-2021-44228_scanner",
-            "title": "CERTCC/CVE-2021-44228_scanner: Scanners for Jar files that may be vulnerable to CVE-2021-44228",
-            "date_modified": "2023-06-02T15:24:46.000Z",
-            "date_published": "2021-12-14T23:33:51.000Z",
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/3977708?u=ec996f2155bc072b2ec6bc02262cbd86f6c17879&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>ProxyLogon Full Exploit Chain PoC (CVE-2021–26855, CVE-2021–26857, CVE-2021–26858, CVE-2021–27065)</div>",
+            "url": "https://github.com/herwonowr/exprolog",
+            "title": "herwonowr/exprolog: ProxyLogon Full Exploit Chain PoC (CVE-2021–26855, CVE-2021–26857, CVE-2021–26858, CVE-2021–27065)",
+            "date_modified": "2023-06-14T00:36:53.000Z",
+            "date_published": "2021-03-15T08:36:56.000Z",
             "author": {
-                "name": "CERTCC",
-                "url": "https://github.com/CERTCC"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/29953808?u=33ddbaebd50c891b6df86fcf79057777607d85dd&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>[ProxyLogon] CVE-2021-26855 &amp; CVE-2021-27065 Fixed RawIdentity Bug Exploit. [ProxyOracle] CVE-2021-31195 &amp; CVE-2021-31196 Exploit Chains. [ProxyShell] CVE-2021-34473 &amp; CVE-2021-34523 &amp; CVE-2021-31207 Exploit Chains.</div>",
-            "url": "https://github.com/hosch3n/ProxyVulns",
-            "title": "hosch3n/ProxyVulns: [ProxyLogon] CVE-2021-26855 & CVE-2021-27065 Fixed RawIdentity Bug Exploit. [ProxyOracle] CVE-2021-31195 & CVE-2021-31196 Exploit Chains. [ProxyShell] CVE-2021-34473 & CVE-2021-34523 & CVE-2021-31207 Exploit Chains.",
-            "date_modified": "2023-06-03T10:20:20.000Z",
-            "date_published": "2021-04-14T11:12:30.000Z",
-            "author": {
-                "name": "hosch3n",
-                "url": "https://github.com/hosch3n"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/16593068?u=88af02e7a56e435e53db6f5650fbc73740773bd3&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Grafana Unauthorized arbitrary file reading vulnerability</div>",
-            "url": "https://github.com/jas502n/Grafana-CVE-2021-43798",
-            "title": "jas502n/Grafana-CVE-2021-43798: Grafana Unauthorized arbitrary file reading vulnerability",
-            "date_modified": "2023-06-02T15:24:45.000Z",
-            "date_published": "2021-12-07T09:02:16.000Z",
-            "author": {
-                "name": "jas502n",
-                "url": "https://github.com/jas502n"
+                "name": "herwonowr",
+                "url": "https://github.com/herwonowr"
             }
         }
     ]
