@@ -116,17 +116,6 @@
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/3140111?u=7c671995d46f4692816416ec223a7ed93e4100ca&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2023-24055 PoC (KeePass 2.5x)</div>",
-            "url": "https://github.com/alt3kx/CVE-2023-24055_PoC",
-            "title": "alt3kx/CVE-2023-24055_PoC: CVE-2023-24055 PoC (KeePass 2.5x)",
-            "date_modified": "2023-06-15T22:16:40.000Z",
-            "date_published": "2023-01-25T03:21:42.000Z",
-            "author": {
-                "name": "alt3kx",
-                "url": "https://github.com/alt3kx"
-            }
-        },
-        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/77316200?u=2c2243c636c28bef2aafa8581512d5455679651b&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>VMWare vRealize Network Insight Pre-Authenticated RCE (CVE-2023-20887)</div>",
             "url": "https://github.com/sinsinology/CVE-2023-20887",
             "title": "sinsinology/CVE-2023-20887: VMWare vRealize Network Insight Pre-Authenticated RCE (CVE-2023-20887)",
@@ -138,14 +127,14 @@
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/31594437?u=b0ede5ebd1e79dcb900f16921ba750c773deba9b&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Exploit for the CVE-2023-23397</div>",
-            "url": "https://github.com/sqrtZeroKnowledge/CVE-2023-23397_EXPLOIT_0DAY",
-            "title": "sqrtZeroKnowledge/CVE-2023-23397_EXPLOIT_0DAY: Exploit for the CVE-2023-23397",
-            "date_modified": "2023-06-12T18:59:58.000Z",
-            "date_published": "2023-03-15T17:03:38.000Z",
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/3140111?u=7c671995d46f4692816416ec223a7ed93e4100ca&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2023-24055 PoC (KeePass 2.5x)</div>",
+            "url": "https://github.com/alt3kx/CVE-2023-24055_PoC",
+            "title": "alt3kx/CVE-2023-24055_PoC: CVE-2023-24055 PoC (KeePass 2.5x)",
+            "date_modified": "2023-06-15T22:16:40.000Z",
+            "date_published": "2023-01-25T03:21:42.000Z",
             "author": {
-                "name": "sqrtZeroKnowledge",
-                "url": "https://github.com/sqrtZeroKnowledge"
+                "name": "alt3kx",
+                "url": "https://github.com/alt3kx"
             }
         },
         {
@@ -157,6 +146,17 @@
             "author": {
                 "name": "horizon3ai",
                 "url": "https://github.com/horizon3ai"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/31594437?u=b0ede5ebd1e79dcb900f16921ba750c773deba9b&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Exploit for the CVE-2023-23397</div>",
+            "url": "https://github.com/sqrtZeroKnowledge/CVE-2023-23397_EXPLOIT_0DAY",
+            "title": "sqrtZeroKnowledge/CVE-2023-23397_EXPLOIT_0DAY: Exploit for the CVE-2023-23397",
+            "date_modified": "2023-06-12T18:59:58.000Z",
+            "date_published": "2023-03-15T17:03:38.000Z",
+            "author": {
+                "name": "sqrtZeroKnowledge",
+                "url": "https://github.com/sqrtZeroKnowledge"
             }
         },
         {
@@ -174,7 +174,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/12781459?u=a4d346b749e3bb1d102e8aa990654767aca6a512&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2023-25157 - GeoServer SQL Injection - PoC</div>",
             "url": "https://github.com/win3zz/CVE-2023-25157",
             "title": "win3zz/CVE-2023-25157: CVE-2023-25157 - GeoServer SQL Injection - PoC",
-            "date_modified": "2023-06-26T09:19:13.000Z",
+            "date_modified": "2023-06-27T15:34:59.000Z",
             "date_published": "2023-06-06T14:05:09.000Z",
             "author": {
                 "name": "win3zz",
