@@ -196,7 +196,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/21257485?u=cb7e01972ffd65e9499562fb76720508cb5b8210&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2022-0847-DirtyPipe-Exploit   CVE-2022-0847 是存在于 Linux内核 5.8 及之后版本中的本地提权漏洞。攻击者通过利用此漏洞，可覆盖重写任意可读文件中的数据，从而可将普通权限的用户提升到特权 root。    CVE-2022-0847 的漏洞原理类似于 CVE-2016-5195 脏牛漏洞（Dirty Cow），但它更容易被利用。漏洞作者将此漏洞命名为“Dirty Pipe”</div>",
             "url": "https://github.com/r1is/CVE-2022-0847",
             "title": "r1is/CVE-2022-0847: CVE-2022-0847-DirtyPipe-Exploit   CVE-2022-0847 是存在于 Linux内核 5.8 及之后版本中的本地提权漏洞。攻击者通过利用此漏洞，可覆盖重写任意可读文件中的数据，从而可将普通权限的用户提升到特权 root。    CVE-2022-0847 的漏洞原理类似于 CVE-2016-5195 脏牛漏洞（Dirty Cow），但它更容易被利用。漏洞作者将此漏洞命名为“Dirty Pipe”",
-            "date_modified": "2023-06-21T04:39:58.000Z",
+            "date_modified": "2023-06-27T04:27:28.000Z",
             "date_published": "2022-03-07T18:36:50.000Z",
             "author": {
                 "name": "r1is",
