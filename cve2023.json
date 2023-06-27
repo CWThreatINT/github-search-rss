@@ -138,17 +138,6 @@
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/79593994?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>MOVEit CVE-2023-34362</div>",
-            "url": "https://github.com/horizon3ai/CVE-2023-34362",
-            "title": "horizon3ai/CVE-2023-34362: MOVEit CVE-2023-34362",
-            "date_modified": "2023-06-26T09:32:33.000Z",
-            "date_published": "2023-06-09T19:07:32.000Z",
-            "author": {
-                "name": "horizon3ai",
-                "url": "https://github.com/horizon3ai"
-            }
-        },
-        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/31594437?u=b0ede5ebd1e79dcb900f16921ba750c773deba9b&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Exploit for the CVE-2023-23397</div>",
             "url": "https://github.com/sqrtZeroKnowledge/CVE-2023-23397_EXPLOIT_0DAY",
             "title": "sqrtZeroKnowledge/CVE-2023-23397_EXPLOIT_0DAY: Exploit for the CVE-2023-23397",
@@ -157,6 +146,17 @@
             "author": {
                 "name": "sqrtZeroKnowledge",
                 "url": "https://github.com/sqrtZeroKnowledge"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/79593994?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>MOVEit CVE-2023-34362</div>",
+            "url": "https://github.com/horizon3ai/CVE-2023-34362",
+            "title": "horizon3ai/CVE-2023-34362: MOVEit CVE-2023-34362",
+            "date_modified": "2023-06-26T09:32:33.000Z",
+            "date_published": "2023-06-09T19:07:32.000Z",
+            "author": {
+                "name": "horizon3ai",
+                "url": "https://github.com/horizon3ai"
             }
         },
         {
@@ -171,17 +171,6 @@
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/12781459?u=a4d346b749e3bb1d102e8aa990654767aca6a512&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2023-25157 - GeoServer SQL Injection - PoC</div>",
-            "url": "https://github.com/win3zz/CVE-2023-25157",
-            "title": "win3zz/CVE-2023-25157: CVE-2023-25157 - GeoServer SQL Injection - PoC",
-            "date_modified": "2023-06-26T09:19:13.000Z",
-            "date_published": "2023-06-06T14:05:09.000Z",
-            "author": {
-                "name": "win3zz",
-                "url": "https://github.com/win3zz"
-            }
-        },
-        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/55592824?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>GitLab CVE-2023-2825 PoC. This PoC leverages a path traversal vulnerability to retrieve the /etc/passwd file from a system running GitLab 16.0.0.</div>",
             "url": "https://github.com/Occamsec/CVE-2023-2825",
             "title": "Occamsec/CVE-2023-2825: GitLab CVE-2023-2825 PoC. This PoC leverages a path traversal vulnerability to retrieve the /etc/passwd file from a system running GitLab 16.0.0.",
@@ -190,6 +179,17 @@
             "author": {
                 "name": "Occamsec",
                 "url": "https://github.com/Occamsec"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/12781459?u=a4d346b749e3bb1d102e8aa990654767aca6a512&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2023-25157 - GeoServer SQL Injection - PoC</div>",
+            "url": "https://github.com/win3zz/CVE-2023-25157",
+            "title": "win3zz/CVE-2023-25157: CVE-2023-25157 - GeoServer SQL Injection - PoC",
+            "date_modified": "2023-06-26T09:19:13.000Z",
+            "date_published": "2023-06-06T14:05:09.000Z",
+            "author": {
+                "name": "win3zz",
+                "url": "https://github.com/win3zz"
             }
         },
         {
