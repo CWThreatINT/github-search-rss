@@ -127,17 +127,6 @@
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/3140111?u=7c671995d46f4692816416ec223a7ed93e4100ca&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2023-24055 PoC (KeePass 2.5x)</div>",
-            "url": "https://github.com/alt3kx/CVE-2023-24055_PoC",
-            "title": "alt3kx/CVE-2023-24055_PoC: CVE-2023-24055 PoC (KeePass 2.5x)",
-            "date_modified": "2023-06-15T22:16:40.000Z",
-            "date_published": "2023-01-25T03:21:42.000Z",
-            "author": {
-                "name": "alt3kx",
-                "url": "https://github.com/alt3kx"
-            }
-        },
-        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/77316200?u=2c2243c636c28bef2aafa8581512d5455679651b&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>VMWare vRealize Network Insight Pre-Authenticated RCE (CVE-2023-20887)</div>",
             "url": "https://github.com/sinsinology/CVE-2023-20887",
             "title": "sinsinology/CVE-2023-20887: VMWare vRealize Network Insight Pre-Authenticated RCE (CVE-2023-20887)",
@@ -146,6 +135,17 @@
             "author": {
                 "name": "sinsinology",
                 "url": "https://github.com/sinsinology"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/3140111?u=7c671995d46f4692816416ec223a7ed93e4100ca&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2023-24055 PoC (KeePass 2.5x)</div>",
+            "url": "https://github.com/alt3kx/CVE-2023-24055_PoC",
+            "title": "alt3kx/CVE-2023-24055_PoC: CVE-2023-24055 PoC (KeePass 2.5x)",
+            "date_modified": "2023-06-15T22:16:40.000Z",
+            "date_published": "2023-01-25T03:21:42.000Z",
+            "author": {
+                "name": "alt3kx",
+                "url": "https://github.com/alt3kx"
             }
         },
         {
@@ -215,14 +215,14 @@
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/82209949?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>VM Escape for Parallels Desktop &lt;18.1.1</div>",
-            "url": "https://github.com/Impalabs/CVE-2023-27326",
-            "title": "Impalabs/CVE-2023-27326: VM Escape for Parallels Desktop <18.1.1",
-            "date_modified": "2023-06-20T03:02:10.000Z",
-            "date_published": "2023-03-20T11:47:54.000Z",
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/44291883?u=481f1771eecd4081b187c0f6983094ac5350a41b&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
+            "url": "https://github.com/Wh04m1001/CVE-2023-29343",
+            "title": "Wh04m1001/CVE-2023-29343",
+            "date_modified": "2023-07-05T09:45:38.000Z",
+            "date_published": "2023-06-18T11:14:08.000Z",
             "author": {
-                "name": "Impalabs",
-                "url": "https://github.com/Impalabs"
+                "name": "Wh04m1001",
+                "url": "https://github.com/Wh04m1001"
             }
         }
     ]
