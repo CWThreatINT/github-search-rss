@@ -9,7 +9,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/1332095?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2021-4034 1day</div>",
             "url": "https://github.com/berdav/CVE-2021-4034",
             "title": "berdav/CVE-2021-4034: CVE-2021-4034 1day",
-            "date_modified": "2023-07-06T06:42:01.000Z",
+            "date_modified": "2023-07-07T19:11:27.000Z",
             "date_published": "2022-01-25T23:51:37.000Z",
             "author": {
                 "name": "berdav",
@@ -20,7 +20,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/37779789?u=86a1aabeb297d18cc15dfef9e29de31d5c82c226&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2021-40444 PoC</div>",
             "url": "https://github.com/lockedbyte/CVE-2021-40444",
             "title": "lockedbyte/CVE-2021-40444: CVE-2021-40444 PoC",
-            "date_modified": "2023-07-07T03:27:31.000Z",
+            "date_modified": "2023-07-07T19:10:56.000Z",
             "date_published": "2021-09-10T16:55:53.000Z",
             "author": {
                 "name": "lockedbyte",
@@ -31,7 +31,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/39370848?u=e4a5e8b9d78ef928570bd33c1133482f6341c919&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2021-42287/CVE-2021-42278 Scanner &amp; Exploiter.</div>",
             "url": "https://github.com/cube0x0/noPac",
             "title": "cube0x0/noPac: CVE-2021-42287/CVE-2021-42278 Scanner & Exploiter.",
-            "date_modified": "2023-06-29T22:51:56.000Z",
+            "date_modified": "2023-07-07T19:11:16.000Z",
             "date_published": "2021-12-11T19:27:30.000Z",
             "author": {
                 "name": "cube0x0",
@@ -42,7 +42,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/39370848?u=e4a5e8b9d78ef928570bd33c1133482f6341c919&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>C# and Impacket implementation of PrintNightmare CVE-2021-1675/CVE-2021-34527</div>",
             "url": "https://github.com/cube0x0/CVE-2021-1675",
             "title": "cube0x0/CVE-2021-1675: C# and Impacket implementation of PrintNightmare CVE-2021-1675/CVE-2021-34527",
-            "date_modified": "2023-07-07T01:30:36.000Z",
+            "date_modified": "2023-07-07T19:10:38.000Z",
             "date_published": "2021-06-29T17:24:14.000Z",
             "author": {
                 "name": "cube0x0",
@@ -86,7 +86,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/7529189?u=c2d48bc13a65b0be72f2d77a352a0b78847e583d&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Pure PowerShell implementation of CVE-2021-1675 Print Spooler Local Privilege Escalation (PrintNightmare)</div>",
             "url": "https://github.com/calebstewart/CVE-2021-1675",
             "title": "calebstewart/CVE-2021-1675: Pure PowerShell implementation of CVE-2021-1675 Print Spooler Local Privilege Escalation (PrintNightmare)",
-            "date_modified": "2023-07-07T01:30:39.000Z",
+            "date_modified": "2023-07-07T19:10:39.000Z",
             "date_published": "2021-07-01T23:45:58.000Z",
             "author": {
                 "name": "calebstewart",
@@ -108,7 +108,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/20618414?u=c3aed2b6df2ad19ff650eb051f090e41c1c19f50&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Exploiting CVE-2021-42278 and CVE-2021-42287 to impersonate DA from standard domain user </div>",
             "url": "https://github.com/WazeHell/sam-the-admin",
             "title": "WazeHell/sam-the-admin: Exploiting CVE-2021-42278 and CVE-2021-42287 to impersonate DA from standard domain user ",
-            "date_modified": "2023-07-05T20:48:21.000Z",
+            "date_modified": "2023-07-07T19:11:16.000Z",
             "date_published": "2021-12-11T15:10:30.000Z",
             "author": {
                 "name": "WazeHell",
@@ -130,7 +130,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/8959898?u=856c9dc333cb1fac44f903988bafd7e6b01b7336&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2021-40444 - Fully Weaponized Microsoft Office Word RCE Exploit</div>",
             "url": "https://github.com/klezVirus/CVE-2021-40444",
             "title": "klezVirus/CVE-2021-40444: CVE-2021-40444 - Fully Weaponized Microsoft Office Word RCE Exploit",
-            "date_modified": "2023-07-07T03:45:49.000Z",
+            "date_modified": "2023-07-07T19:10:57.000Z",
             "date_published": "2021-09-15T22:34:35.000Z",
             "author": {
                 "name": "klezVirus",
@@ -218,7 +218,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/3977708?u=ec996f2155bc072b2ec6bc02262cbd86f6c17879&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>ProxyLogon Full Exploit Chain PoC (CVE-2021–26855, CVE-2021–26857, CVE-2021–26858, CVE-2021–27065)</div>",
             "url": "https://github.com/herwonowr/exprolog",
             "title": "herwonowr/exprolog: ProxyLogon Full Exploit Chain PoC (CVE-2021–26855, CVE-2021–26857, CVE-2021–26858, CVE-2021–27065)",
-            "date_modified": "2023-06-14T00:36:53.000Z",
+            "date_modified": "2023-07-07T19:10:20.000Z",
             "date_published": "2021-03-15T08:36:56.000Z",
             "author": {
                 "name": "herwonowr",
