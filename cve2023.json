@@ -127,17 +127,6 @@
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/79593994?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>MOVEit CVE-2023-34362</div>",
-            "url": "https://github.com/horizon3ai/CVE-2023-34362",
-            "title": "horizon3ai/CVE-2023-34362: MOVEit CVE-2023-34362",
-            "date_modified": "2023-07-12T07:07:14.000Z",
-            "date_published": "2023-06-09T19:07:32.000Z",
-            "author": {
-                "name": "horizon3ai",
-                "url": "https://github.com/horizon3ai"
-            }
-        },
-        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/77316200?u=2c2243c636c28bef2aafa8581512d5455679651b&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>VMWare vRealize Network Insight Pre-Authenticated RCE (CVE-2023-20887)</div>",
             "url": "https://github.com/sinsinology/CVE-2023-20887",
             "title": "sinsinology/CVE-2023-20887: VMWare vRealize Network Insight Pre-Authenticated RCE (CVE-2023-20887)",
@@ -146,6 +135,17 @@
             "author": {
                 "name": "sinsinology",
                 "url": "https://github.com/sinsinology"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/79593994?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>MOVEit CVE-2023-34362</div>",
+            "url": "https://github.com/horizon3ai/CVE-2023-34362",
+            "title": "horizon3ai/CVE-2023-34362: MOVEit CVE-2023-34362",
+            "date_modified": "2023-07-12T07:07:14.000Z",
+            "date_published": "2023-06-09T19:07:32.000Z",
+            "author": {
+                "name": "horizon3ai",
+                "url": "https://github.com/horizon3ai"
             }
         },
         {
@@ -174,7 +174,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/55592824?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>GitLab CVE-2023-2825 PoC. This PoC leverages a path traversal vulnerability to retrieve the /etc/passwd file from a system running GitLab 16.0.0.</div>",
             "url": "https://github.com/Occamsec/CVE-2023-2825",
             "title": "Occamsec/CVE-2023-2825: GitLab CVE-2023-2825 PoC. This PoC leverages a path traversal vulnerability to retrieve the /etc/passwd file from a system running GitLab 16.0.0.",
-            "date_modified": "2023-07-12T08:46:52.000Z",
+            "date_modified": "2023-07-12T09:27:12.000Z",
             "date_published": "2023-05-25T13:25:10.000Z",
             "author": {
                 "name": "Occamsec",
