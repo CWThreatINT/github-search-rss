@@ -42,22 +42,11 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/18195825?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023</div>",
             "url": "https://github.com/CVEProject/cvelist",
             "title": "CVEProject/cvelist: Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023",
-            "date_modified": "2023-07-13T09:57:45.000Z",
+            "date_modified": "2023-07-14T09:57:00.000Z",
             "date_published": "2020-11-02T19:30:55.000Z",
             "author": {
                 "name": "CVEProject",
                 "url": "https://github.com/CVEProject"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/26479696?u=35272f1bbaaa9082e9b6607eb6a59328b4b2551c&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2023-0386在ubuntu22.04上的提权</div>",
-            "url": "https://github.com/xkaneiki/CVE-2023-0386",
-            "title": "xkaneiki/CVE-2023-0386: CVE-2023-0386在ubuntu22.04上的提权",
-            "date_modified": "2023-07-08T13:39:18.000Z",
-            "date_published": "2023-05-05T03:02:13.000Z",
-            "author": {
-                "name": "xkaneiki",
-                "url": "https://github.com/xkaneiki"
             }
         },
         {
@@ -69,6 +58,17 @@
             "author": {
                 "name": "Wh04m1001",
                 "url": "https://github.com/Wh04m1001"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/26479696?u=35272f1bbaaa9082e9b6607eb6a59328b4b2551c&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2023-0386在ubuntu22.04上的提权</div>",
+            "url": "https://github.com/xkaneiki/CVE-2023-0386",
+            "title": "xkaneiki/CVE-2023-0386: CVE-2023-0386在ubuntu22.04上的提权",
+            "date_modified": "2023-07-08T13:39:18.000Z",
+            "date_published": "2023-05-05T03:02:13.000Z",
+            "author": {
+                "name": "xkaneiki",
+                "url": "https://github.com/xkaneiki"
             }
         },
         {
@@ -204,17 +204,6 @@
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/30940342?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A script to automate privilege escalation with CVE-2023-22809 vulnerability</div>",
-            "url": "https://github.com/n3m1dotsys/CVE-2023-22809-sudoedit-privesc",
-            "title": "n3m1dotsys/CVE-2023-22809-sudoedit-privesc: A script to automate privilege escalation with CVE-2023-22809 vulnerability",
-            "date_modified": "2023-07-11T01:22:10.000Z",
-            "date_published": "2023-01-21T15:19:23.000Z",
-            "author": {
-                "name": "n3m1dotsys",
-                "url": "https://github.com/n3m1dotsys"
-            }
-        },
-        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/93457304?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
             "url": "https://github.com/ohnonoyesyes/CVE-2023-25194",
             "title": "ohnonoyesyes/CVE-2023-25194",
@@ -223,6 +212,17 @@
             "author": {
                 "name": "ohnonoyesyes",
                 "url": "https://github.com/ohnonoyesyes"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/30940342?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A script to automate privilege escalation with CVE-2023-22809 vulnerability</div>",
+            "url": "https://github.com/n3m1dotsys/CVE-2023-22809-sudoedit-privesc",
+            "title": "n3m1dotsys/CVE-2023-22809-sudoedit-privesc: A script to automate privilege escalation with CVE-2023-22809 vulnerability",
+            "date_modified": "2023-07-11T01:22:10.000Z",
+            "date_published": "2023-01-21T15:19:23.000Z",
+            "author": {
+                "name": "n3m1dotsys",
+                "url": "https://github.com/n3m1dotsys"
             }
         }
     ]
