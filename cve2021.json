@@ -61,17 +61,6 @@
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/33349032?u=fbbb829309794f573c5f315afa161ce9dca49220&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2021-21972 Exploit</div>",
-            "url": "https://github.com/NS-Sp4ce/CVE-2021-21972",
-            "title": "NS-Sp4ce/CVE-2021-21972: CVE-2021-21972 Exploit",
-            "date_modified": "2023-07-18T17:18:56.000Z",
-            "date_published": "2021-02-24T11:14:58.000Z",
-            "author": {
-                "name": "NS-Sp4ce",
-                "url": "https://github.com/NS-Sp4ce"
-            }
-        },
-        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/101374?u=a7e25a91bea4f2414e412195be4310364b5a7151&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
             "url": "https://github.com/blasty/CVE-2021-3156",
             "title": "blasty/CVE-2021-3156",
@@ -91,17 +80,6 @@
             "author": {
                 "name": "calebstewart",
                 "url": "https://github.com/calebstewart"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/68001644?u=462822ad15461addb74832de164e61a93276da7b&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2021-1732 Exploit</div>",
-            "url": "https://github.com/KaLendsi/CVE-2021-1732-Exploit",
-            "title": "KaLendsi/CVE-2021-1732-Exploit: CVE-2021-1732 Exploit",
-            "date_modified": "2023-07-15T16:29:29.000Z",
-            "date_published": "2021-03-05T02:11:10.000Z",
-            "author": {
-                "name": "KaLendsi",
-                "url": "https://github.com/KaLendsi"
             }
         },
         {
@@ -223,6 +201,28 @@
             "author": {
                 "name": "herwonowr",
                 "url": "https://github.com/herwonowr"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/29953808?u=33ddbaebd50c891b6df86fcf79057777607d85dd&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>[ProxyLogon] CVE-2021-26855 &amp; CVE-2021-27065 Fixed RawIdentity Bug Exploit. [ProxyOracle] CVE-2021-31195 &amp; CVE-2021-31196 Exploit Chains. [ProxyShell] CVE-2021-34473 &amp; CVE-2021-34523 &amp; CVE-2021-31207 Exploit Chains.</div>",
+            "url": "https://github.com/hosch3n/ProxyVulns",
+            "title": "hosch3n/ProxyVulns: [ProxyLogon] CVE-2021-26855 & CVE-2021-27065 Fixed RawIdentity Bug Exploit. [ProxyOracle] CVE-2021-31195 & CVE-2021-31196 Exploit Chains. [ProxyShell] CVE-2021-34473 & CVE-2021-34523 & CVE-2021-31207 Exploit Chains.",
+            "date_modified": "2023-07-18T19:09:06.000Z",
+            "date_published": "2021-04-14T11:12:30.000Z",
+            "author": {
+                "name": "hosch3n",
+                "url": "https://github.com/hosch3n"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/37221555?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Scanners for Jar files that may be vulnerable to CVE-2021-44228</div>",
+            "url": "https://github.com/CERTCC/CVE-2021-44228_scanner",
+            "title": "CERTCC/CVE-2021-44228_scanner: Scanners for Jar files that may be vulnerable to CVE-2021-44228",
+            "date_modified": "2023-07-16T23:59:34.000Z",
+            "date_published": "2021-12-14T23:33:51.000Z",
+            "author": {
+                "name": "CERTCC",
+                "url": "https://github.com/CERTCC"
             }
         }
     ]
