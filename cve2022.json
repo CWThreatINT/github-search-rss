@@ -61,6 +61,17 @@
             }
         },
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/16208471?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Operational information regarding CVE-2022-3602 and CVE-2022-3786, two vulnerabilities in OpenSSL 3</div>",
+            "url": "https://github.com/NCSC-NL/OpenSSL-2022",
+            "title": "NCSC-NL/OpenSSL-2022: Operational information regarding CVE-2022-3602 and CVE-2022-3786, two vulnerabilities in OpenSSL 3",
+            "date_modified": "2023-07-24T15:53:20.000Z",
+            "date_published": "2022-10-28T09:51:41.000Z",
+            "author": {
+                "name": "NCSC-NL",
+                "url": "https://github.com/NCSC-NL"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/77638184?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2022-0185</div>",
             "url": "https://github.com/Crusaders-of-Rust/CVE-2022-0185",
             "title": "Crusaders-of-Rust/CVE-2022-0185: CVE-2022-0185",
@@ -171,6 +182,17 @@
             }
         },
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/21257485?u=cb7e01972ffd65e9499562fb76720508cb5b8210&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2022-0847-DirtyPipe-Exploit   CVE-2022-0847 是存在于 Linux内核 5.8 及之后版本中的本地提权漏洞。攻击者通过利用此漏洞，可覆盖重写任意可读文件中的数据，从而可将普通权限的用户提升到特权 root。    CVE-2022-0847 的漏洞原理类似于 CVE-2016-5195 脏牛漏洞（Dirty Cow），但它更容易被利用。漏洞作者将此漏洞命名为“Dirty Pipe”</div>",
+            "url": "https://github.com/r1is/CVE-2022-0847",
+            "title": "r1is/CVE-2022-0847: CVE-2022-0847-DirtyPipe-Exploit   CVE-2022-0847 是存在于 Linux内核 5.8 及之后版本中的本地提权漏洞。攻击者通过利用此漏洞，可覆盖重写任意可读文件中的数据，从而可将普通权限的用户提升到特权 root。    CVE-2022-0847 的漏洞原理类似于 CVE-2016-5195 脏牛漏洞（Dirty Cow），但它更容易被利用。漏洞作者将此漏洞命名为“Dirty Pipe”",
+            "date_modified": "2023-06-29T03:47:23.000Z",
+            "date_published": "2022-03-07T18:36:50.000Z",
+            "author": {
+                "name": "r1is",
+                "url": "https://github.com/r1is"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/79593994?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>POC for CVE-2022-39952</div>",
             "url": "https://github.com/horizon3ai/CVE-2022-39952",
             "title": "horizon3ai/CVE-2022-39952: POC for CVE-2022-39952",
@@ -201,28 +223,6 @@
             "author": {
                 "name": "AlexisAhmed",
                 "url": "https://github.com/AlexisAhmed"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/3851678?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2022-22963 PoC </div>",
-            "url": "https://github.com/dinosn/CVE-2022-22963",
-            "title": "dinosn/CVE-2022-22963: CVE-2022-22963 PoC ",
-            "date_modified": "2023-07-09T06:39:28.000Z",
-            "date_published": "2022-03-30T05:04:24.000Z",
-            "author": {
-                "name": "dinosn",
-                "url": "https://github.com/dinosn"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/23696484?u=ed3f83bcf5a2bd7b00aed40d04584f3fa162bee2&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Dockerized Spring4Shell (CVE-2022-22965) PoC application and exploit</div>",
-            "url": "https://github.com/reznok/Spring4Shell-POC",
-            "title": "reznok/Spring4Shell-POC: Dockerized Spring4Shell (CVE-2022-22965) PoC application and exploit",
-            "date_modified": "2023-07-21T05:50:47.000Z",
-            "date_published": "2022-03-31T00:24:28.000Z",
-            "author": {
-                "name": "reznok",
-                "url": "https://github.com/reznok"
             }
         }
     ]
