@@ -130,7 +130,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/67718634?u=28e7a6a200de5fda94fde4b1cb9cb0502f1bf51c&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>WSO2 RCE (CVE-2022-29464) exploit and writeup.</div>",
             "url": "https://github.com/hakivvi/CVE-2022-29464",
             "title": "hakivvi/CVE-2022-29464: WSO2 RCE (CVE-2022-29464) exploit and writeup.",
-            "date_modified": "2023-07-28T16:26:28.000Z",
+            "date_modified": "2023-07-29T01:25:33.000Z",
             "date_published": "2022-04-20T21:23:52.000Z",
             "author": {
                 "name": "hakivvi",
@@ -193,17 +193,6 @@
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/79593994?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>POC for CVE-2022-39952</div>",
-            "url": "https://github.com/horizon3ai/CVE-2022-39952",
-            "title": "horizon3ai/CVE-2022-39952: POC for CVE-2022-39952",
-            "date_modified": "2023-06-24T07:29:23.000Z",
-            "date_published": "2023-02-20T15:12:33.000Z",
-            "author": {
-                "name": "horizon3ai",
-                "url": "https://github.com/horizon3ai"
-            }
-        },
-        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/1476421?u=dbf0bb2a669dcb2bcbd04ee640f67740ac6d346d&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>PoC for CVE-2022-21971 \"Windows Runtime Remote Code Execution Vulnerability\"</div>",
             "url": "https://github.com/0vercl0k/CVE-2022-21971",
             "title": "0vercl0k/CVE-2022-21971: PoC for CVE-2022-21971 \"Windows Runtime Remote Code Execution Vulnerability\"",
@@ -212,6 +201,17 @@
             "author": {
                 "name": "0vercl0k",
                 "url": "https://github.com/0vercl0k"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/79593994?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>POC for CVE-2022-39952</div>",
+            "url": "https://github.com/horizon3ai/CVE-2022-39952",
+            "title": "horizon3ai/CVE-2022-39952: POC for CVE-2022-39952",
+            "date_modified": "2023-06-24T07:29:23.000Z",
+            "date_published": "2023-02-20T15:12:33.000Z",
+            "author": {
+                "name": "horizon3ai",
+                "url": "https://github.com/horizon3ai"
             }
         },
         {
