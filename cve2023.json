@@ -182,17 +182,6 @@
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/55592824?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>GitLab CVE-2023-2825 PoC. This PoC leverages a path traversal vulnerability to retrieve the /etc/passwd file from a system running GitLab 16.0.0.</div>",
-            "url": "https://github.com/Occamsec/CVE-2023-2825",
-            "title": "Occamsec/CVE-2023-2825: GitLab CVE-2023-2825 PoC. This PoC leverages a path traversal vulnerability to retrieve the /etc/passwd file from a system running GitLab 16.0.0.",
-            "date_modified": "2023-07-24T07:23:23.000Z",
-            "date_published": "2023-05-25T13:25:10.000Z",
-            "author": {
-                "name": "Occamsec",
-                "url": "https://github.com/Occamsec"
-            }
-        },
-        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/12781459?u=a4d346b749e3bb1d102e8aa990654767aca6a512&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2023-25157 - GeoServer SQL Injection - PoC</div>",
             "url": "https://github.com/win3zz/CVE-2023-25157",
             "title": "win3zz/CVE-2023-25157: CVE-2023-25157 - GeoServer SQL Injection - PoC",
@@ -201,6 +190,17 @@
             "author": {
                 "name": "win3zz",
                 "url": "https://github.com/win3zz"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/55592824?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>GitLab CVE-2023-2825 PoC. This PoC leverages a path traversal vulnerability to retrieve the /etc/passwd file from a system running GitLab 16.0.0.</div>",
+            "url": "https://github.com/Occamsec/CVE-2023-2825",
+            "title": "Occamsec/CVE-2023-2825: GitLab CVE-2023-2825 PoC. This PoC leverages a path traversal vulnerability to retrieve the /etc/passwd file from a system running GitLab 16.0.0.",
+            "date_modified": "2023-07-24T07:23:23.000Z",
+            "date_published": "2023-05-25T13:25:10.000Z",
+            "author": {
+                "name": "Occamsec",
+                "url": "https://github.com/Occamsec"
             }
         },
         {
