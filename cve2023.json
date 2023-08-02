@@ -42,7 +42,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/56364411?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>LPE exploit for CVE-2023-21768</div>",
             "url": "https://github.com/chompie1337/Windows_LPE_AFD_CVE-2023-21768",
             "title": "chompie1337/Windows_LPE_AFD_CVE-2023-21768: LPE exploit for CVE-2023-21768",
-            "date_modified": "2023-07-30T04:43:12.000Z",
+            "date_modified": "2023-08-02T00:12:51.000Z",
             "date_published": "2023-03-07T23:00:27.000Z",
             "author": {
                 "name": "chompie1337",
@@ -72,25 +72,14 @@
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/62884435?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2023-32233: Linux内核中的安全漏洞</div>",
-            "url": "https://github.com/Liuk3r/CVE-2023-32233",
-            "title": "Liuk3r/CVE-2023-32233: CVE-2023-32233: Linux内核中的安全漏洞",
-            "date_modified": "2023-07-29T04:09:23.000Z",
-            "date_published": "2023-05-16T03:06:40.000Z",
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/4098538?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Adobe Acrobat Reader - CVE-2023-21608 - Remote Code Execution Exploit</div>",
+            "url": "https://github.com/hacksysteam/CVE-2023-21608",
+            "title": "hacksysteam/CVE-2023-21608: Adobe Acrobat Reader - CVE-2023-21608 - Remote Code Execution Exploit",
+            "date_modified": "2023-07-30T02:39:26.000Z",
+            "date_published": "2023-01-30T12:57:48.000Z",
             "author": {
-                "name": "Liuk3r",
-                "url": "https://github.com/Liuk3r"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/44291883?u=481f1771eecd4081b187c0f6983094ac5350a41b&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
-            "url": "https://github.com/Wh04m1001/CVE-2023-21752",
-            "title": "Wh04m1001/CVE-2023-21752",
-            "date_modified": "2023-08-01T14:46:21.000Z",
-            "date_published": "2023-01-10T15:59:26.000Z",
-            "author": {
-                "name": "Wh04m1001",
-                "url": "https://github.com/Wh04m1001"
+                "name": "hacksysteam",
+                "url": "https://github.com/hacksysteam"
             }
         },
         {
@@ -102,17 +91,6 @@
             "author": {
                 "name": "api0cradle",
                 "url": "https://github.com/api0cradle"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/4098538?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Adobe Acrobat Reader - CVE-2023-21608 - Remote Code Execution Exploit</div>",
-            "url": "https://github.com/hacksysteam/CVE-2023-21608",
-            "title": "hacksysteam/CVE-2023-21608: Adobe Acrobat Reader - CVE-2023-21608 - Remote Code Execution Exploit",
-            "date_modified": "2023-07-30T02:39:26.000Z",
-            "date_published": "2023-01-30T12:57:48.000Z",
-            "author": {
-                "name": "hacksysteam",
-                "url": "https://github.com/hacksysteam"
             }
         },
         {
@@ -157,17 +135,6 @@
             "author": {
                 "name": "horizon3ai",
                 "url": "https://github.com/horizon3ai"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/3140111?u=7c671995d46f4692816416ec223a7ed93e4100ca&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2023-24055 PoC (KeePass 2.5x)</div>",
-            "url": "https://github.com/alt3kx/CVE-2023-24055_PoC",
-            "title": "alt3kx/CVE-2023-24055_PoC: CVE-2023-24055 PoC (KeePass 2.5x)",
-            "date_modified": "2023-07-07T19:09:47.000Z",
-            "date_published": "2023-01-25T03:21:42.000Z",
-            "author": {
-                "name": "alt3kx",
-                "url": "https://github.com/alt3kx"
             }
         },
         {
@@ -223,6 +190,39 @@
             "author": {
                 "name": "fortra",
                 "url": "https://github.com/fortra"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/30940342?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A script to automate privilege escalation with CVE-2023-22809 vulnerability</div>",
+            "url": "https://github.com/n3m1dotsys/CVE-2023-22809-sudoedit-privesc",
+            "title": "n3m1dotsys/CVE-2023-22809-sudoedit-privesc: A script to automate privilege escalation with CVE-2023-22809 vulnerability",
+            "date_modified": "2023-07-29T04:14:03.000Z",
+            "date_published": "2023-01-21T15:19:23.000Z",
+            "author": {
+                "name": "n3m1dotsys",
+                "url": "https://github.com/n3m1dotsys"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/93457304?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
+            "url": "https://github.com/ohnonoyesyes/CVE-2023-25194",
+            "title": "ohnonoyesyes/CVE-2023-25194",
+            "date_modified": "2023-07-07T19:12:23.000Z",
+            "date_published": "2023-02-09T10:49:46.000Z",
+            "author": {
+                "name": "ohnonoyesyes",
+                "url": "https://github.com/ohnonoyesyes"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/45040001?u=aac3fd767d1108b95b5380f9f71cb3b82fc1975e&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE 2023 25690 Proof of concept - mod_proxy vulnerable configuration on Apache HTTP Server versions 2.4.0 - 2.4.55 leads to HTTP Request Smuggling vulnerability.</div>",
+            "url": "https://github.com/dhmosfunk/CVE-2023-25690-POC",
+            "title": "dhmosfunk/CVE-2023-25690-POC: CVE 2023 25690 Proof of concept - mod_proxy vulnerable configuration on Apache HTTP Server versions 2.4.0 - 2.4.55 leads to HTTP Request Smuggling vulnerability.",
+            "date_modified": "2023-07-31T16:18:50.000Z",
+            "date_published": "2023-05-22T03:06:31.000Z",
+            "author": {
+                "name": "dhmosfunk",
+                "url": "https://github.com/dhmosfunk"
             }
         }
     ]
