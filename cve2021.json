@@ -83,17 +83,6 @@
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/7529189?u=c2d48bc13a65b0be72f2d77a352a0b78847e583d&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Pure PowerShell implementation of CVE-2021-1675 Print Spooler Local Privilege Escalation (PrintNightmare)</div>",
-            "url": "https://github.com/calebstewart/CVE-2021-1675",
-            "title": "calebstewart/CVE-2021-1675: Pure PowerShell implementation of CVE-2021-1675 Print Spooler Local Privilege Escalation (PrintNightmare)",
-            "date_modified": "2023-07-30T11:47:18.000Z",
-            "date_published": "2021-07-01T23:45:58.000Z",
-            "author": {
-                "name": "calebstewart",
-                "url": "https://github.com/calebstewart"
-            }
-        },
-        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/68001644?u=462822ad15461addb74832de164e61a93276da7b&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2021-1732 Exploit</div>",
             "url": "https://github.com/KaLendsi/CVE-2021-1732-Exploit",
             "title": "KaLendsi/CVE-2021-1732-Exploit: CVE-2021-1732 Exploit",
@@ -223,6 +212,17 @@
             "author": {
                 "name": "herwonowr",
                 "url": "https://github.com/herwonowr"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/29953808?u=33ddbaebd50c891b6df86fcf79057777607d85dd&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>[ProxyLogon] CVE-2021-26855 &amp; CVE-2021-27065 Fixed RawIdentity Bug Exploit. [ProxyOracle] CVE-2021-31195 &amp; CVE-2021-31196 Exploit Chains. [ProxyShell] CVE-2021-34473 &amp; CVE-2021-34523 &amp; CVE-2021-31207 Exploit Chains.</div>",
+            "url": "https://github.com/hosch3n/ProxyVulns",
+            "title": "hosch3n/ProxyVulns: [ProxyLogon] CVE-2021-26855 & CVE-2021-27065 Fixed RawIdentity Bug Exploit. [ProxyOracle] CVE-2021-31195 & CVE-2021-31196 Exploit Chains. [ProxyShell] CVE-2021-34473 & CVE-2021-34523 & CVE-2021-31207 Exploit Chains.",
+            "date_modified": "2023-07-18T19:09:06.000Z",
+            "date_published": "2021-04-14T11:12:30.000Z",
+            "author": {
+                "name": "hosch3n",
+                "url": "https://github.com/hosch3n"
             }
         }
     ]
