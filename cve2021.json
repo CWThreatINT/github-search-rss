@@ -20,7 +20,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/37779789?u=86a1aabeb297d18cc15dfef9e29de31d5c82c226&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2021-40444 PoC</div>",
             "url": "https://github.com/lockedbyte/CVE-2021-40444",
             "title": "lockedbyte/CVE-2021-40444: CVE-2021-40444 PoC",
-            "date_modified": "2023-08-01T09:43:10.000Z",
+            "date_modified": "2023-08-03T15:57:06.000Z",
             "date_published": "2021-09-10T16:55:53.000Z",
             "author": {
                 "name": "lockedbyte",
@@ -80,6 +80,17 @@
             "author": {
                 "name": "blasty",
                 "url": "https://github.com/blasty"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/7529189?u=c2d48bc13a65b0be72f2d77a352a0b78847e583d&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Pure PowerShell implementation of CVE-2021-1675 Print Spooler Local Privilege Escalation (PrintNightmare)</div>",
+            "url": "https://github.com/calebstewart/CVE-2021-1675",
+            "title": "calebstewart/CVE-2021-1675: Pure PowerShell implementation of CVE-2021-1675 Print Spooler Local Privilege Escalation (PrintNightmare)",
+            "date_modified": "2023-07-30T11:47:18.000Z",
+            "date_published": "2021-07-01T23:45:58.000Z",
+            "author": {
+                "name": "calebstewart",
+                "url": "https://github.com/calebstewart"
             }
         },
         {
@@ -152,7 +163,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/87979263?u=dd7f23490c7b9d1bd1dca84ccaf723402debf769&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A Proof-Of-Concept for the CVE-2021-44228 vulnerability. </div>",
             "url": "https://github.com/kozmer/log4j-shell-poc",
             "title": "kozmer/log4j-shell-poc: A Proof-Of-Concept for the CVE-2021-44228 vulnerability. ",
-            "date_modified": "2023-08-02T17:44:57.000Z",
+            "date_modified": "2023-08-03T15:46:20.000Z",
             "date_published": "2021-12-10T23:19:28.000Z",
             "author": {
                 "name": "kozmer",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "herwonowr",
                 "url": "https://github.com/herwonowr"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/29953808?u=33ddbaebd50c891b6df86fcf79057777607d85dd&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>[ProxyLogon] CVE-2021-26855 &amp; CVE-2021-27065 Fixed RawIdentity Bug Exploit. [ProxyOracle] CVE-2021-31195 &amp; CVE-2021-31196 Exploit Chains. [ProxyShell] CVE-2021-34473 &amp; CVE-2021-34523 &amp; CVE-2021-31207 Exploit Chains.</div>",
-            "url": "https://github.com/hosch3n/ProxyVulns",
-            "title": "hosch3n/ProxyVulns: [ProxyLogon] CVE-2021-26855 & CVE-2021-27065 Fixed RawIdentity Bug Exploit. [ProxyOracle] CVE-2021-31195 & CVE-2021-31196 Exploit Chains. [ProxyShell] CVE-2021-34473 & CVE-2021-34523 & CVE-2021-31207 Exploit Chains.",
-            "date_modified": "2023-07-18T19:09:06.000Z",
-            "date_published": "2021-04-14T11:12:30.000Z",
-            "author": {
-                "name": "hosch3n",
-                "url": "https://github.com/hosch3n"
             }
         }
     ]
