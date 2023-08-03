@@ -127,17 +127,6 @@
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/67718634?u=28e7a6a200de5fda94fde4b1cb9cb0502f1bf51c&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>WSO2 RCE (CVE-2022-29464) exploit and writeup.</div>",
-            "url": "https://github.com/hakivvi/CVE-2022-29464",
-            "title": "hakivvi/CVE-2022-29464: WSO2 RCE (CVE-2022-29464) exploit and writeup.",
-            "date_modified": "2023-07-29T01:25:33.000Z",
-            "date_published": "2022-04-20T21:23:52.000Z",
-            "author": {
-                "name": "hakivvi",
-                "url": "https://github.com/hakivvi"
-            }
-        },
-        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/79593994?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A proof of concept exploit for CVE-2022-40684 affecting Fortinet FortiOS, FortiProxy, and FortiSwitchManager</div>",
             "url": "https://github.com/horizon3ai/CVE-2022-40684",
             "title": "horizon3ai/CVE-2022-40684: A proof of concept exploit for CVE-2022-40684 affecting Fortinet FortiOS, FortiProxy, and FortiSwitchManager",
@@ -204,25 +193,36 @@
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/1476421?u=dbf0bb2a669dcb2bcbd04ee640f67740ac6d346d&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>PoC for CVE-2022-21971 \"Windows Runtime Remote Code Execution Vulnerability\"</div>",
-            "url": "https://github.com/0vercl0k/CVE-2022-21971",
-            "title": "0vercl0k/CVE-2022-21971: PoC for CVE-2022-21971 \"Windows Runtime Remote Code Execution Vulnerability\"",
-            "date_modified": "2023-07-11T22:38:20.000Z",
-            "date_published": "2022-02-26T20:37:42.000Z",
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/3851678?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2022-22963 PoC </div>",
+            "url": "https://github.com/dinosn/CVE-2022-22963",
+            "title": "dinosn/CVE-2022-22963: CVE-2022-22963 PoC ",
+            "date_modified": "2023-07-09T06:39:28.000Z",
+            "date_published": "2022-03-30T05:04:24.000Z",
             "author": {
-                "name": "0vercl0k",
-                "url": "https://github.com/0vercl0k"
+                "name": "dinosn",
+                "url": "https://github.com/dinosn"
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/13276084?u=a3c1e439a8357f985029adbfa570c329c0296609&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A collection of exploits and documentation that can be used to exploit the Linux Dirty Pipe vulnerability.</div>",
-            "url": "https://github.com/AlexisAhmed/CVE-2022-0847-DirtyPipe-Exploits",
-            "title": "AlexisAhmed/CVE-2022-0847-DirtyPipe-Exploits: A collection of exploits and documentation that can be used to exploit the Linux Dirty Pipe vulnerability.",
-            "date_modified": "2023-08-01T10:17:52.000Z",
-            "date_published": "2022-03-12T20:57:24.000Z",
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/23696484?u=ed3f83bcf5a2bd7b00aed40d04584f3fa162bee2&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Dockerized Spring4Shell (CVE-2022-22965) PoC application and exploit</div>",
+            "url": "https://github.com/reznok/Spring4Shell-POC",
+            "title": "reznok/Spring4Shell-POC: Dockerized Spring4Shell (CVE-2022-22965) PoC application and exploit",
+            "date_modified": "2023-07-28T09:02:32.000Z",
+            "date_published": "2022-03-31T00:24:28.000Z",
             "author": {
-                "name": "AlexisAhmed",
-                "url": "https://github.com/AlexisAhmed"
+                "name": "reznok",
+                "url": "https://github.com/reznok"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/52328067?u=dc9a21e59e5ce7be88974172f3f249d9cd4b0144&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>POC for VMWARE CVE-2022-22954</div>",
+            "url": "https://github.com/sherlocksecurity/VMware-CVE-2022-22954",
+            "title": "sherlocksecurity/VMware-CVE-2022-22954: POC for VMWARE CVE-2022-22954",
+            "date_modified": "2023-07-04T13:10:31.000Z",
+            "date_published": "2022-04-11T13:59:23.000Z",
+            "author": {
+                "name": "sherlocksecurity",
+                "url": "https://github.com/sherlocksecurity"
             }
         }
     ]
