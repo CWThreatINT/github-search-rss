@@ -105,17 +105,6 @@
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/20618414?u=c3aed2b6df2ad19ff650eb051f090e41c1c19f50&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Exploiting CVE-2021-42278 and CVE-2021-42287 to impersonate DA from standard domain user </div>",
-            "url": "https://github.com/WazeHell/sam-the-admin",
-            "title": "WazeHell/sam-the-admin: Exploiting CVE-2021-42278 and CVE-2021-42287 to impersonate DA from standard domain user ",
-            "date_modified": "2023-08-04T12:54:47.000Z",
-            "date_published": "2021-12-11T15:10:30.000Z",
-            "author": {
-                "name": "WazeHell",
-                "url": "https://github.com/WazeHell"
-            }
-        },
-        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/14171714?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Vulnerability scanner and mitigation patch for Log4j2 CVE-2021-44228</div>",
             "url": "https://github.com/logpresso/CVE-2021-44228-Scanner",
             "title": "logpresso/CVE-2021-44228-Scanner: Vulnerability scanner and mitigation patch for Log4j2 CVE-2021-44228",
@@ -135,17 +124,6 @@
             "author": {
                 "name": "klezVirus",
                 "url": "https://github.com/klezVirus"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/1352296?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Sudo Baron Samedit Exploit</div>",
-            "url": "https://github.com/worawit/CVE-2021-3156",
-            "title": "worawit/CVE-2021-3156: Sudo Baron Samedit Exploit",
-            "date_modified": "2023-08-04T14:52:59.000Z",
-            "date_published": "2021-03-15T17:37:02.000Z",
-            "author": {
-                "name": "worawit",
-                "url": "https://github.com/worawit"
             }
         },
         {
@@ -223,6 +201,28 @@
             "author": {
                 "name": "herwonowr",
                 "url": "https://github.com/herwonowr"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/29953808?u=33ddbaebd50c891b6df86fcf79057777607d85dd&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>[ProxyLogon] CVE-2021-26855 &amp; CVE-2021-27065 Fixed RawIdentity Bug Exploit. [ProxyOracle] CVE-2021-31195 &amp; CVE-2021-31196 Exploit Chains. [ProxyShell] CVE-2021-34473 &amp; CVE-2021-34523 &amp; CVE-2021-31207 Exploit Chains.</div>",
+            "url": "https://github.com/hosch3n/ProxyVulns",
+            "title": "hosch3n/ProxyVulns: [ProxyLogon] CVE-2021-26855 & CVE-2021-27065 Fixed RawIdentity Bug Exploit. [ProxyOracle] CVE-2021-31195 & CVE-2021-31196 Exploit Chains. [ProxyShell] CVE-2021-34473 & CVE-2021-34523 & CVE-2021-31207 Exploit Chains.",
+            "date_modified": "2023-07-18T19:09:06.000Z",
+            "date_published": "2021-04-14T11:12:30.000Z",
+            "author": {
+                "name": "hosch3n",
+                "url": "https://github.com/hosch3n"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/37221555?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Scanners for Jar files that may be vulnerable to CVE-2021-44228</div>",
+            "url": "https://github.com/CERTCC/CVE-2021-44228_scanner",
+            "title": "CERTCC/CVE-2021-44228_scanner: Scanners for Jar files that may be vulnerable to CVE-2021-44228",
+            "date_modified": "2023-07-16T23:59:34.000Z",
+            "date_published": "2021-12-14T23:33:51.000Z",
+            "author": {
+                "name": "CERTCC",
+                "url": "https://github.com/CERTCC"
             }
         }
     ]
