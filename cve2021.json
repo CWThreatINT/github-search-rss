@@ -6,10 +6,21 @@
     "description": "CVE-2021 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/51722811?u=a195458fc64bade6e8616d1d5c43883f0abde0c0&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Simple 301 Redirects by BetterLinks - 2.0.0 – 2.0.3 - Subscriber + Arbitrary Plugin Installation</div>",
+            "url": "https://github.com/RandomRobbieBF/CVE-2021-24356",
+            "title": "RandomRobbieBF/CVE-2021-24356: Simple 301 Redirects by BetterLinks - 2.0.0 – 2.0.3 - Subscriber + Arbitrary Plugin Installation",
+            "date_modified": "2023-08-09T18:27:28.000Z",
+            "date_published": "2023-08-09T18:24:19.000Z",
+            "author": {
+                "name": "RandomRobbieBF",
+                "url": "https://github.com/RandomRobbieBF"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/51722811?u=a195458fc64bade6e8616d1d5c43883f0abde0c0&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>ProfilePress 3.0 - 3.1.3 - Unauthenticated Privilege Escalation</div>",
             "url": "https://github.com/RandomRobbieBF/CVE-2021-34621",
             "title": "RandomRobbieBF/CVE-2021-34621: ProfilePress 3.0 - 3.1.3 - Unauthenticated Privilege Escalation",
-            "date_modified": "2023-08-09T11:45:36.000Z",
+            "date_modified": "2023-08-09T18:28:04.000Z",
             "date_published": "2023-08-09T11:41:56.000Z",
             "author": {
                 "name": "RandomRobbieBF",
@@ -209,17 +220,6 @@
             "title": "defensor/CVE-2021-44736: Exploit for CVE-2021-44736",
             "date_modified": "2023-07-23T10:17:33.000Z",
             "date_published": "2023-07-23T10:16:27.000Z",
-            "author": {
-                "name": "defensor",
-                "url": "https://github.com/defensor"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/9089433?u=9647a4d691b1f65a45f13e280edae60354e7d4aa&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Exploit for CVE-2021-44735</div>",
-            "url": "https://github.com/defensor/CVE-2021-44735",
-            "title": "defensor/CVE-2021-44735: Exploit for CVE-2021-44735",
-            "date_modified": "2023-08-06T12:41:15.000Z",
-            "date_published": "2023-07-20T09:20:13.000Z",
             "author": {
                 "name": "defensor",
                 "url": "https://github.com/defensor"
