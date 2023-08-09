@@ -116,17 +116,6 @@
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/98105412?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>HTTP Protocol Stack Remote Code Execution Vulnerability CVE-2022-21907</div>",
-            "url": "https://github.com/ZZ-SOCMAP/CVE-2022-21907",
-            "title": "ZZ-SOCMAP/CVE-2022-21907: HTTP Protocol Stack Remote Code Execution Vulnerability CVE-2022-21907",
-            "date_modified": "2023-07-28T09:02:24.000Z",
-            "date_published": "2022-01-17T02:28:50.000Z",
-            "author": {
-                "name": "ZZ-SOCMAP",
-                "url": "https://github.com/ZZ-SOCMAP"
-            }
-        },
-        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/67718634?u=28e7a6a200de5fda94fde4b1cb9cb0502f1bf51c&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>WSO2 RCE (CVE-2022-29464) exploit and writeup.</div>",
             "url": "https://github.com/hakivvi/CVE-2022-29464",
             "title": "hakivvi/CVE-2022-29464: WSO2 RCE (CVE-2022-29464) exploit and writeup.",
@@ -223,6 +212,17 @@
             "author": {
                 "name": "AlexisAhmed",
                 "url": "https://github.com/AlexisAhmed"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/23696484?u=ed3f83bcf5a2bd7b00aed40d04584f3fa162bee2&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Dockerized Spring4Shell (CVE-2022-22965) PoC application and exploit</div>",
+            "url": "https://github.com/reznok/Spring4Shell-POC",
+            "title": "reznok/Spring4Shell-POC: Dockerized Spring4Shell (CVE-2022-22965) PoC application and exploit",
+            "date_modified": "2023-08-08T14:35:03.000Z",
+            "date_published": "2022-03-31T00:24:28.000Z",
+            "author": {
+                "name": "reznok",
+                "url": "https://github.com/reznok"
             }
         }
     ]
