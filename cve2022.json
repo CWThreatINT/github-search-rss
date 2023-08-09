@@ -6,10 +6,21 @@
     "description": "CVE-2022 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/70909693?u=623cdd16249501e7d4f74b743a81017fc3b4de3a&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A PoC exploit for CVE-2022-0165 - Page Builder KingComposer WordPress Plugin - ID Parameter Validation Bypass</div>",
+            "url": "https://github.com/K3ysTr0K3R/CVE-2022-0165-EXPLOIT",
+            "title": "K3ysTr0K3R/CVE-2022-0165-EXPLOIT: A PoC exploit for CVE-2022-0165 - Page Builder KingComposer WordPress Plugin - ID Parameter Validation Bypass",
+            "date_modified": "2023-08-09T12:01:12.000Z",
+            "date_published": "2023-08-09T11:53:18.000Z",
+            "author": {
+                "name": "K3ysTr0K3R",
+                "url": "https://github.com/K3ysTr0K3R"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/51722811?u=a195458fc64bade6e8616d1d5c43883f0abde0c0&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Sitemap by click5 &lt; 1.0.36 - Unauthenticated Arbitrary Options Update</div>",
             "url": "https://github.com/RandomRobbieBF/CVE-2022-0952",
             "title": "RandomRobbieBF/CVE-2022-0952: Sitemap by click5 < 1.0.36 - Unauthenticated Arbitrary Options Update",
-            "date_modified": "2023-08-07T14:30:29.000Z",
+            "date_modified": "2023-08-09T11:11:56.000Z",
             "date_published": "2023-08-07T14:28:11.000Z",
             "author": {
                 "name": "RandomRobbieBF",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "joaoviictorti",
                 "url": "https://github.com/joaoviictorti"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/92468795?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
-            "url": "https://github.com/convisolabs/CVE-2022-24834",
-            "title": "convisolabs/CVE-2022-24834",
-            "date_modified": "2023-08-05T09:21:39.000Z",
-            "date_published": "2023-07-28T17:42:33.000Z",
-            "author": {
-                "name": "convisolabs",
-                "url": "https://github.com/convisolabs"
             }
         }
     ]

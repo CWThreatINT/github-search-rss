@@ -6,6 +6,17 @@
     "description": "CVE-2021 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/51722811?u=a195458fc64bade6e8616d1d5c43883f0abde0c0&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>ProfilePress 3.0 - 3.1.3 - Unauthenticated Privilege Escalation</div>",
+            "url": "https://github.com/RandomRobbieBF/CVE-2021-34621",
+            "title": "RandomRobbieBF/CVE-2021-34621: ProfilePress 3.0 - 3.1.3 - Unauthenticated Privilege Escalation",
+            "date_modified": "2023-08-09T11:45:36.000Z",
+            "date_published": "2023-08-09T11:41:56.000Z",
+            "author": {
+                "name": "RandomRobbieBF",
+                "url": "https://github.com/RandomRobbieBF"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/70909693?u=623cdd16249501e7d4f74b743a81017fc3b4de3a&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A PoC exploit for CVE-2021-22873 - Revive Adserver Open Redirect Vulnerability.</div>",
             "url": "https://github.com/K3ysTr0K3R/CVE-2021-22873-EXPLOIT",
             "title": "K3ysTr0K3R/CVE-2021-22873-EXPLOIT: A PoC exploit for CVE-2021-22873 - Revive Adserver Open Redirect Vulnerability.",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "defensor",
                 "url": "https://github.com/defensor"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/86119333?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>在21年，SpringBlade框架曾发现一个JWT认证的漏洞。尽管我们搜索了许多基于原理的扫描工具，但没有找到能够支持这个漏洞的工具。可能是因为这个漏洞相对冷门而不被广泛关注。</div>",
-            "url": "https://github.com/Securify-Pro/CVE-2021-44910_SpringBlade",
-            "title": "Securify-Pro/CVE-2021-44910_SpringBlade: 在21年，SpringBlade框架曾发现一个JWT认证的漏洞。尽管我们搜索了许多基于原理的扫描工具，但没有找到能够支持这个漏洞的工具。可能是因为这个漏洞相对冷门而不被广泛关注。",
-            "date_modified": "2023-07-22T16:51:39.000Z",
-            "date_published": "2023-07-22T16:48:24.000Z",
-            "author": {
-                "name": "Securify-Pro",
-                "url": "https://github.com/Securify-Pro"
             }
         }
     ]
