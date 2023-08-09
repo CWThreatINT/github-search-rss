@@ -6,17 +6,6 @@
     "description": "CVE-2023 FEED on GitHub",
     "items": [
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/76034874?u=b6c30adef617e3a1904e428ecead481fe269438b&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>PoC for the recent critical vuln effecting OpenSSH versions &lt; 9.3p2</div>",
-            "url": "https://github.com/kali-mx/CVE-2023-38498",
-            "title": "kali-mx/CVE-2023-38498: PoC for the recent critical vuln effecting OpenSSH versions < 9.3p2",
-            "date_modified": "2023-08-09T20:02:54.000Z",
-            "date_published": "2023-08-09T19:56:07.000Z",
-            "author": {
-                "name": "kali-mx",
-                "url": "https://github.com/kali-mx"
-            }
-        },
-        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/18195825?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023</div>",
             "url": "https://github.com/CVEProject/cvelist",
             "title": "CVEProject/cvelist: Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023",
@@ -25,6 +14,17 @@
             "author": {
                 "name": "CVEProject",
                 "url": "https://github.com/CVEProject"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/76034874?u=b6c30adef617e3a1904e428ecead481fe269438b&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>PoC for the recent critical vuln affecting OpenSSH versions &lt; 9.3p2</div>",
+            "url": "https://github.com/kali-mx/CVE-2023-38408",
+            "title": "kali-mx/CVE-2023-38408: PoC for the recent critical vuln affecting OpenSSH versions < 9.3p2",
+            "date_modified": "2023-08-09T20:58:51.000Z",
+            "date_published": "2023-08-09T19:56:07.000Z",
+            "author": {
+                "name": "kali-mx",
+                "url": "https://github.com/kali-mx"
             }
         },
         {
