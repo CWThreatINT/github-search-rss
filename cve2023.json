@@ -6,10 +6,21 @@
     "description": "CVE-2023 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/82516361?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
+            "url": "https://github.com/Dlux-cyber-projects/cve-search-2023",
+            "title": "Dlux-cyber-projects/cve-search-2023",
+            "date_modified": "2023-08-10T11:38:49.000Z",
+            "date_published": "2023-08-09T13:17:22.000Z",
+            "author": {
+                "name": "Dlux-cyber-projects",
+                "url": "https://github.com/Dlux-cyber-projects"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/18195825?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023</div>",
             "url": "https://github.com/CVEProject/cvelist",
             "title": "CVEProject/cvelist: Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023",
-            "date_modified": "2023-08-10T07:50:33.000Z",
+            "date_modified": "2023-08-10T11:15:31.000Z",
             "date_published": "2020-11-02T19:30:55.000Z",
             "author": {
                 "name": "CVEProject",
@@ -209,17 +220,6 @@
             "title": "TraiLeR2/CVE-2023-36168: An issue in AVG AVG Anti-Spyware v.7.5 allows an attacker to execute arbitrary code via a crafted script to the guard.exe component",
             "date_modified": "2023-08-07T02:03:23.000Z",
             "date_published": "2023-07-08T20:40:05.000Z",
-            "author": {
-                "name": "TraiLeR2",
-                "url": "https://github.com/TraiLeR2"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/81778053?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>An issue in MiniTool Partition Wizard ShadowMaker v.12.7 allows an attacker to execute arbitrary code and gain privileges via the SchedulerService.exe component.</div>",
-            "url": "https://github.com/TraiLeR2/CVE-2023-36165",
-            "title": "TraiLeR2/CVE-2023-36165: An issue in MiniTool Partition Wizard ShadowMaker v.12.7 allows an attacker to execute arbitrary code and gain privileges via the SchedulerService.exe component.",
-            "date_modified": "2023-07-08T20:37:39.000Z",
-            "date_published": "2023-07-08T20:37:38.000Z",
             "author": {
                 "name": "TraiLeR2",
                 "url": "https://github.com/TraiLeR2"
