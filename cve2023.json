@@ -17,6 +17,17 @@
             }
         },
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/76034874?u=b6c30adef617e3a1904e428ecead481fe269438b&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>PoC for the recent critical vuln affecting OpenSSH versions &lt; 9.3p2</div>",
+            "url": "https://github.com/kali-mx/CVE-2023-38408",
+            "title": "kali-mx/CVE-2023-38408: PoC for the recent critical vuln affecting OpenSSH versions < 9.3p2",
+            "date_modified": "2023-08-09T20:58:51.000Z",
+            "date_published": "2023-08-09T19:56:07.000Z",
+            "author": {
+                "name": "kali-mx",
+                "url": "https://github.com/kali-mx"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/18223385?u=5ba29c1a9447ae88a6a0433f44038f47471e11c1&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>TOP All bugbounty pentesting CVE-2023- POC Exp  RCE example payload  Things</div>",
             "url": "https://github.com/hktalent/TOP",
             "title": "hktalent/TOP: TOP All bugbounty pentesting CVE-2023- POC Exp  RCE example payload  Things",
@@ -28,25 +39,14 @@
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/84989569?u=b027e9a8785b58ab40097521d634b7ebf24aa3e7&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/84989569?u=b027e9a8785b58ab40097521d634b7ebf24aa3e7&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2023-27163 - Request Baskets SSRF</div>",
             "url": "https://github.com/rvizx/CVE-2023-27163",
-            "title": "rvizx/CVE-2023-27163",
-            "date_modified": "2023-08-10T00:08:32.000Z",
+            "title": "rvizx/CVE-2023-27163: CVE-2023-27163 - Request Baskets SSRF",
+            "date_modified": "2023-08-10T05:46:57.000Z",
             "date_published": "2023-08-09T10:47:01.000Z",
             "author": {
                 "name": "rvizx",
                 "url": "https://github.com/rvizx"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/76034874?u=b6c30adef617e3a1904e428ecead481fe269438b&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>PoC for the recent critical vuln affecting OpenSSH versions &lt; 9.3p2</div>",
-            "url": "https://github.com/kali-mx/CVE-2023-38408",
-            "title": "kali-mx/CVE-2023-38408: PoC for the recent critical vuln affecting OpenSSH versions < 9.3p2",
-            "date_modified": "2023-08-09T20:58:51.000Z",
-            "date_published": "2023-08-09T19:56:07.000Z",
-            "author": {
-                "name": "kali-mx",
-                "url": "https://github.com/kali-mx"
             }
         },
         {
@@ -174,7 +174,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/110882196?u=00016c5abf3bbf489702c6bd21299acb2912eb92&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>复现CVE-2023-34312所需的两个恶意dll文件</div>",
             "url": "https://github.com/lan1oc/CVE-2023-34312-exp",
             "title": "lan1oc/CVE-2023-34312-exp: 复现CVE-2023-34312所需的两个恶意dll文件",
-            "date_modified": "2023-08-10T02:43:21.000Z",
+            "date_modified": "2023-08-10T05:28:36.000Z",
             "date_published": "2023-08-07T13:09:11.000Z",
             "author": {
                 "name": "lan1oc",
