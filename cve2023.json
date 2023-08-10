@@ -17,6 +17,28 @@
             }
         },
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/35419462?u=acf4e6853d3d45588656236f0f8835cde7d7543b&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Prestashop fix vulnerability CVE-2023-39526 &amp; CVE-2023-39527</div>",
+            "url": "https://github.com/dnkhack/fixcve2023_39526_2023_39527",
+            "title": "dnkhack/fixcve2023_39526_2023_39527: Prestashop fix vulnerability CVE-2023-39526 & CVE-2023-39527",
+            "date_modified": "2023-08-10T16:56:44.000Z",
+            "date_published": "2023-08-10T16:51:56.000Z",
+            "author": {
+                "name": "dnkhack",
+                "url": "https://github.com/dnkhack"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/96077889?u=1633b8f758c59e160db251b1937ec8cfe3c87dc8&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
+            "url": "https://github.com/yosef0x01/CVE-2023-21752",
+            "title": "yosef0x01/CVE-2023-21752",
+            "date_modified": "2023-08-10T16:55:07.000Z",
+            "date_published": "2023-08-10T16:55:06.000Z",
+            "author": {
+                "name": "yosef0x01",
+                "url": "https://github.com/yosef0x01"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/5438659?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
             "url": "https://github.com/rwincey/cve-2023-3519",
             "title": "rwincey/cve-2023-3519",
@@ -201,28 +223,6 @@
             "author": {
                 "name": "cduram",
                 "url": "https://github.com/cduram"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/81353028?u=3114f32847984f2d5c59b808f6872c2599c43bf9&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Running this exploit on a vulnerable system allows a local attacker to gain a root shell on the machine.</div>",
-            "url": "https://github.com/Toothless5143/CVE-2023-22809",
-            "title": "Toothless5143/CVE-2023-22809: Running this exploit on a vulnerable system allows a local attacker to gain a root shell on the machine.",
-            "date_modified": "2023-08-09T06:43:40.000Z",
-            "date_published": "2023-08-06T06:46:40.000Z",
-            "author": {
-                "name": "Toothless5143",
-                "url": "https://github.com/Toothless5143"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/81778053?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>An issue in AVG AVG Anti-Spyware v.7.5 allows an attacker to execute arbitrary code via a crafted script to the guard.exe component</div>",
-            "url": "https://github.com/TraiLeR2/CVE-2023-36168",
-            "title": "TraiLeR2/CVE-2023-36168: An issue in AVG AVG Anti-Spyware v.7.5 allows an attacker to execute arbitrary code via a crafted script to the guard.exe component",
-            "date_modified": "2023-08-07T02:03:23.000Z",
-            "date_published": "2023-07-08T20:40:05.000Z",
-            "author": {
-                "name": "TraiLeR2",
-                "url": "https://github.com/TraiLeR2"
             }
         }
     ]
