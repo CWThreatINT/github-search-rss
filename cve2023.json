@@ -17,6 +17,17 @@
             }
         },
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/10403781?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2023-36899 PoC</div>",
+            "url": "https://github.com/d0rb/CVE-2023-36899",
+            "title": "d0rb/CVE-2023-36899: CVE-2023-36899 PoC",
+            "date_modified": "2023-08-11T14:35:00.000Z",
+            "date_published": "2023-08-11T14:33:19.000Z",
+            "author": {
+                "name": "d0rb",
+                "url": "https://github.com/d0rb"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/82097150?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>The largest hacking program with new tools CVE-2023-PoC for the year 2023 It contains all the attack and exploitation tools for testing websites, as well as a graphical interface to facilitate its use for beginners</div>",
             "url": "https://github.com/abrahim7112/hackers",
             "title": "abrahim7112/hackers: The largest hacking program with new tools CVE-2023-PoC for the year 2023 It contains all the attack and exploitation tools for testing websites, as well as a graphical interface to facilitate its use for beginners",
@@ -31,7 +42,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/45282185?u=e18f90858facf3aae4f8eb35fb3eb8a8b3e0e0cf&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Automatic Tools For Metabase Exploit Known As CVE-2023-38646</div>",
             "url": "https://github.com/robotmikhro/CVE-2023-38646",
             "title": "robotmikhro/CVE-2023-38646: Automatic Tools For Metabase Exploit Known As CVE-2023-38646",
-            "date_modified": "2023-08-11T09:32:15.000Z",
+            "date_modified": "2023-08-11T14:14:18.000Z",
             "date_published": "2023-08-09T14:05:24.000Z",
             "author": {
                 "name": "robotmikhro",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "lotusexpeditor",
                 "url": "https://github.com/lotusexpeditor"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/8308258?u=301d6bae0a5e45e1bc37fd37590f09d5d7326b99&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2023-30533</div>",
-            "url": "https://github.com/BenEdridge/CVE-2023-30533",
-            "title": "BenEdridge/CVE-2023-30533: CVE-2023-30533",
-            "date_modified": "2023-08-11T03:38:49.000Z",
-            "date_published": "2023-08-09T06:48:32.000Z",
-            "author": {
-                "name": "BenEdridge",
-                "url": "https://github.com/BenEdridge"
             }
         }
     ]
