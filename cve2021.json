@@ -6,6 +6,17 @@
     "description": "CVE-2021 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/59132829?u=ac498948a484145c1140a1533e849b6d3c241364&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2021-41773 testing using MSF</div>",
+            "url": "https://github.com/belajarqywok/cve-2021-41773-msf",
+            "title": "belajarqywok/cve-2021-41773-msf: CVE-2021-41773 testing using MSF",
+            "date_modified": "2023-08-11T12:17:07.000Z",
+            "date_published": "2023-08-11T12:12:09.000Z",
+            "author": {
+                "name": "belajarqywok",
+                "url": "https://github.com/belajarqywok"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/51722811?u=a195458fc64bade6e8616d1d5c43883f0abde0c0&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Simple 301 Redirects by BetterLinks - 2.0.0 – 2.0.3 - Subscriber + Arbitrary Plugin Installation</div>",
             "url": "https://github.com/RandomRobbieBF/CVE-2021-24356",
             "title": "RandomRobbieBF/CVE-2021-24356: Simple 301 Redirects by BetterLinks - 2.0.0 – 2.0.3 - Subscriber + Arbitrary Plugin Installation",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "DataSurgeon-ds",
                 "url": "https://github.com/DataSurgeon-ds"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/9089433?u=9647a4d691b1f65a45f13e280edae60354e7d4aa&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Exploit for CVE-2021-44736</div>",
-            "url": "https://github.com/defensor/CVE-2021-44736",
-            "title": "defensor/CVE-2021-44736: Exploit for CVE-2021-44736",
-            "date_modified": "2023-07-23T10:17:33.000Z",
-            "date_published": "2023-07-23T10:16:27.000Z",
-            "author": {
-                "name": "defensor",
-                "url": "https://github.com/defensor"
             }
         }
     ]
