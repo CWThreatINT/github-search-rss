@@ -6,6 +6,17 @@
     "description": "CVE-2023 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/45040001?u=aac3fd767d1108b95b5380f9f71cb3b82fc1975e&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>HTTP3ONSTEROIDS - A research on CVE-2023-25950 where HAProxy's HTTP/3 implementation fails to block a malformed HTTP header field name.</div>",
+            "url": "https://github.com/dhmosfunk/HTTP3ONSTEROIDS",
+            "title": "dhmosfunk/HTTP3ONSTEROIDS: HTTP3ONSTEROIDS - A research on CVE-2023-25950 where HAProxy's HTTP/3 implementation fails to block a malformed HTTP header field name.",
+            "date_modified": "2023-08-12T13:45:42.000Z",
+            "date_published": "2023-07-31T23:57:02.000Z",
+            "author": {
+                "name": "dhmosfunk",
+                "url": "https://github.com/dhmosfunk"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/18195825?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023</div>",
             "url": "https://github.com/CVEProject/cvelist",
             "title": "CVEProject/cvelist: Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "rvizx",
                 "url": "https://github.com/rvizx"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/51518492?u=f43e373248dc8e1f1e7e336e81c1e46113338441&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
-            "url": "https://github.com/lotusexpeditor/CVE-2023-XXX1",
-            "title": "lotusexpeditor/CVE-2023-XXX1",
-            "date_modified": "2023-08-09T16:36:32.000Z",
-            "date_published": "2023-08-09T16:36:32.000Z",
-            "author": {
-                "name": "lotusexpeditor",
-                "url": "https://github.com/lotusexpeditor"
             }
         }
     ]
