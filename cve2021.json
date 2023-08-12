@@ -6,6 +6,17 @@
     "description": "CVE-2021 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/70909693?u=623cdd16249501e7d4f74b743a81017fc3b4de3a&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
+            "url": "https://github.com/K3ysTr0K3R/CVE-2021-34621-EXPLOIT",
+            "title": "K3ysTr0K3R/CVE-2021-34621-EXPLOIT",
+            "date_modified": "2023-08-12T21:51:37.000Z",
+            "date_published": "2023-08-12T21:51:37.000Z",
+            "author": {
+                "name": "K3ysTr0K3R",
+                "url": "https://github.com/K3ysTr0K3R"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/59132829?u=ac498948a484145c1140a1533e849b6d3c241364&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2021-41773 testing using MSF</div>",
             "url": "https://github.com/belajarqywok/cve-2021-41773-msf",
             "title": "belajarqywok/cve-2021-41773-msf: CVE-2021-41773 testing using MSF",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "miko550",
                 "url": "https://github.com/miko550"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/140544249?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A plugin for DataSurgeon that Extracts CVE Numbers From Text (e.g: CVE-2021-56789)</div>",
-            "url": "https://github.com/DataSurgeon-ds/ds-cve-plugin",
-            "title": "DataSurgeon-ds/ds-cve-plugin: A plugin for DataSurgeon that Extracts CVE Numbers From Text (e.g: CVE-2021-56789)",
-            "date_modified": "2023-07-25T17:52:01.000Z",
-            "date_published": "2023-07-25T17:49:53.000Z",
-            "author": {
-                "name": "DataSurgeon-ds",
-                "url": "https://github.com/DataSurgeon-ds"
             }
         }
     ]
