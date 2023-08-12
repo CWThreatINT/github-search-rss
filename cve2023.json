@@ -6,6 +6,17 @@
     "description": "CVE-2023 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/42498816?u=08c4092e757fc2588b734e8e09e355493e9126e9&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Ghostscript command injection vulnerability PoC (CVE-2023-36664)</div>",
+            "url": "https://github.com/jakabakos/CVE-2023-36664-Ghostscript-command-injection",
+            "title": "jakabakos/CVE-2023-36664-Ghostscript-command-injection: Ghostscript command injection vulnerability PoC (CVE-2023-36664)",
+            "date_modified": "2023-08-12T18:33:58.000Z",
+            "date_published": "2023-08-12T18:33:57.000Z",
+            "author": {
+                "name": "jakabakos",
+                "url": "https://github.com/jakabakos"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/45040001?u=aac3fd767d1108b95b5380f9f71cb3b82fc1975e&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>HTTP3ONSTEROIDS - A research on CVE-2023-25950 where HAProxy's HTTP/3 implementation fails to block a malformed HTTP header field name.</div>",
             "url": "https://github.com/dhmosfunk/HTTP3ONSTEROIDS",
             "title": "dhmosfunk/HTTP3ONSTEROIDS: HTTP3ONSTEROIDS - A research on CVE-2023-25950 where HAProxy's HTTP/3 implementation fails to block a malformed HTTP header field name.",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "kali-mx",
                 "url": "https://github.com/kali-mx"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/84989569?u=b027e9a8785b58ab40097521d634b7ebf24aa3e7&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2023-27163 - Request Baskets SSRF</div>",
-            "url": "https://github.com/rvizx/CVE-2023-27163",
-            "title": "rvizx/CVE-2023-27163: CVE-2023-27163 - Request Baskets SSRF",
-            "date_modified": "2023-08-10T05:46:57.000Z",
-            "date_published": "2023-08-09T10:47:01.000Z",
-            "author": {
-                "name": "rvizx",
-                "url": "https://github.com/rvizx"
             }
         }
     ]
