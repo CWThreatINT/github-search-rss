@@ -6,6 +6,17 @@
     "description": "CVE-2022 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/105838328?u=b8a060408db6457033f7fdb56090a0e376f8a4f1&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A quick python script that automates the exploitation of the second deadliest Java based vulnerability CVE-2022-22965.</div>",
+            "url": "https://github.com/h4ck0rman/Spring4Shell-PoC",
+            "title": "h4ck0rman/Spring4Shell-PoC: A quick python script that automates the exploitation of the second deadliest Java based vulnerability CVE-2022-22965.",
+            "date_modified": "2023-08-13T11:42:23.000Z",
+            "date_published": "2023-08-13T11:42:22.000Z",
+            "author": {
+                "name": "h4ck0rman",
+                "url": "https://github.com/h4ck0rman"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/44226708?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2022-44268_By_Kyokito</div>",
             "url": "https://github.com/chairat095/CVE-2022-44268_By_Kyokito",
             "title": "chairat095/CVE-2022-44268_By_Kyokito: CVE-2022-44268_By_Kyokito",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "ixSly",
                 "url": "https://github.com/ixSly"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/56998716?u=b47aef06c1c408f41d0640fb6d027da9a61d0e74&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Proof of concept for CVE-2022-30190 (Follina).</div>",
-            "url": "https://github.com/winstxnhdw/CVE-2022-30190",
-            "title": "winstxnhdw/CVE-2022-30190: Proof of concept for CVE-2022-30190 (Follina).",
-            "date_modified": "2022-10-14T15:09:48.000Z",
-            "date_published": "2022-09-15T16:12:57.000Z",
-            "author": {
-                "name": "winstxnhdw",
-                "url": "https://github.com/winstxnhdw"
             }
         }
     ]
