@@ -6,6 +6,17 @@
     "description": "CVE-2023 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/20747585?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Golang PoC for CVE-2023-27163 Mailtrail Exploit</div>",
+            "url": "https://github.com/thomas-osgood/CVE-2023-27163",
+            "title": "thomas-osgood/CVE-2023-27163: Golang PoC for CVE-2023-27163 Mailtrail Exploit",
+            "date_modified": "2023-08-13T04:23:54.000Z",
+            "date_published": "2023-08-13T04:19:50.000Z",
+            "author": {
+                "name": "thomas-osgood",
+                "url": "https://github.com/thomas-osgood"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/18223385?u=5ba29c1a9447ae88a6a0433f44038f47471e11c1&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>TOP All bugbounty pentesting CVE-2023- POC Exp  RCE example payload  Things</div>",
             "url": "https://github.com/hktalent/TOP",
             "title": "hktalent/TOP: TOP All bugbounty pentesting CVE-2023- POC Exp  RCE example payload  Things",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "lan1oc",
                 "url": "https://github.com/lan1oc"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/76034874?u=b6c30adef617e3a1904e428ecead481fe269438b&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>PoC for the recent critical vuln affecting OpenSSH versions &lt; 9.3p2</div>",
-            "url": "https://github.com/kali-mx/CVE-2023-38408",
-            "title": "kali-mx/CVE-2023-38408: PoC for the recent critical vuln affecting OpenSSH versions < 9.3p2",
-            "date_modified": "2023-08-11T09:00:00.000Z",
-            "date_published": "2023-08-09T19:56:07.000Z",
-            "author": {
-                "name": "kali-mx",
-                "url": "https://github.com/kali-mx"
             }
         }
     ]

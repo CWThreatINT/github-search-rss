@@ -6,6 +6,17 @@
     "description": "CVE-2022 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/44226708?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2022-44268_By_Kyokito</div>",
+            "url": "https://github.com/chairat095/CVE-2022-44268_By_Kyokito",
+            "title": "chairat095/CVE-2022-44268_By_Kyokito: CVE-2022-44268_By_Kyokito",
+            "date_modified": "2023-08-13T04:44:03.000Z",
+            "date_published": "2023-08-13T04:43:12.000Z",
+            "author": {
+                "name": "chairat095",
+                "url": "https://github.com/chairat095"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/12976017?u=6d3d423fda6a56643a0ca1acae5223cdf08a3c28&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>unlock bootloader for theoretically ALL unisoc ud710 and ums512 model</div>",
             "url": "https://github.com/TomKing062/CVE-2022-38694_unlock_bootloader",
             "title": "TomKing062/CVE-2022-38694_unlock_bootloader: unlock bootloader for theoretically ALL unisoc ud710 and ums512 model",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "winstxnhdw",
                 "url": "https://github.com/winstxnhdw"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/85838827?u=b432b5dd8cccc993a1c22081c1a4a280102118e4&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2022-24716 | Arbitrary File Disclosure Icingaweb2</div>",
-            "url": "https://github.com/joaoviictorti/CVE-2022-24716",
-            "title": "joaoviictorti/CVE-2022-24716: CVE-2022-24716 | Arbitrary File Disclosure Icingaweb2",
-            "date_modified": "2023-04-20T19:31:12.000Z",
-            "date_published": "2023-03-20T02:25:55.000Z",
-            "author": {
-                "name": "joaoviictorti",
-                "url": "https://github.com/joaoviictorti"
             }
         }
     ]
