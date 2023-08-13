@@ -6,6 +6,17 @@
     "description": "CVE-2021 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/25801559?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Collection of materials relating to FORCEDENTRY, will eventually delete this repo and migrate the materials to my main exploit repo once finished</div>",
+            "url": "https://github.com/jeffssh/CVE-2021-30860",
+            "title": "jeffssh/CVE-2021-30860: Collection of materials relating to FORCEDENTRY, will eventually delete this repo and migrate the materials to my main exploit repo once finished",
+            "date_modified": "2023-03-19T19:02:34.000Z",
+            "date_published": "2021-12-25T03:00:01.000Z",
+            "author": {
+                "name": "jeffssh",
+                "url": "https://github.com/jeffssh"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/70909693?u=623cdd16249501e7d4f74b743a81017fc3b4de3a&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A PoC exploit for CVE-2021-34621 - WordPress Privilege Escalation</div>",
             "url": "https://github.com/K3ysTr0K3R/CVE-2021-34621-EXPLOIT",
             "title": "K3ysTr0K3R/CVE-2021-34621-EXPLOIT: A PoC exploit for CVE-2021-34621 - WordPress Privilege Escalation",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "K3ysTr0K3R",
                 "url": "https://github.com/K3ysTr0K3R"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/83682793?u=3e71e6cd8d05ed49bbfeee045530a337abc9f822&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Laravel RCE (CVE-2021-3129)</div>",
-            "url": "https://github.com/miko550/CVE-2021-3129",
-            "title": "miko550/CVE-2021-3129: Laravel RCE (CVE-2021-3129)",
-            "date_modified": "2023-07-26T08:26:35.000Z",
-            "date_published": "2023-07-26T08:05:25.000Z",
-            "author": {
-                "name": "miko550",
-                "url": "https://github.com/miko550"
             }
         }
     ]
