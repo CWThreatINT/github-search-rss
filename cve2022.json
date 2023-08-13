@@ -6,6 +6,17 @@
     "description": "CVE-2022 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/142154570?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
+            "url": "https://github.com/Nithisssh/CVE-2022-0379",
+            "title": "Nithisssh/CVE-2022-0379",
+            "date_modified": "2023-08-13T13:34:44.000Z",
+            "date_published": "2023-08-13T13:34:43.000Z",
+            "author": {
+                "name": "Nithisssh",
+                "url": "https://github.com/Nithisssh"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/105838328?u=b8a060408db6457033f7fdb56090a0e376f8a4f1&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A quick python script that automates the exploitation of the second deadliest Java based vulnerability CVE-2022-22965.</div>",
             "url": "https://github.com/h4ck0rman/Spring4Shell-PoC",
             "title": "h4ck0rman/Spring4Shell-PoC: A quick python script that automates the exploitation of the second deadliest Java based vulnerability CVE-2022-22965.",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "4m4Sec",
                 "url": "https://github.com/4m4Sec"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/32583633?u=9a0f8cc22601848bbd7ecb6f08572c6829c4501b&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
-            "url": "https://github.com/ixSly/CVE-2022-41401",
-            "title": "ixSly/CVE-2022-41401",
-            "date_modified": "2023-07-31T18:20:36.000Z",
-            "date_published": "2023-07-31T18:20:35.000Z",
-            "author": {
-                "name": "ixSly",
-                "url": "https://github.com/ixSly"
             }
         }
     ]
