@@ -6,6 +6,17 @@
     "description": "CVE-2023 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/70560051?u=e8857a8d14ec0ae253c9770e127ba90c3dd3737b&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
+            "url": "https://github.com/Mehran-Seifalinia/CVE-2023-37979",
+            "title": "Mehran-Seifalinia/CVE-2023-37979",
+            "date_modified": "2023-08-09T22:24:31.000Z",
+            "date_published": "2023-08-01T11:40:14.000Z",
+            "author": {
+                "name": "Mehran-Seifalinia",
+                "url": "https://github.com/Mehran-Seifalinia"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/20747585?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Golang PoC for CVE-2023-27163 Mailtrail Exploit</div>",
             "url": "https://github.com/thomas-osgood/CVE-2023-27163",
             "title": "thomas-osgood/CVE-2023-27163: Golang PoC for CVE-2023-27163 Mailtrail Exploit",
@@ -64,7 +75,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/58899228?u=d4824477f60b2a99e78dd5e5186a9cf56ee9d62c&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Check for CVE-2023-32629 \"GameOver(lay)\" vulnerability </div>",
             "url": "https://github.com/kaotickj/Check-for-CVE-2023-32629-GameOver-lay",
             "title": "kaotickj/Check-for-CVE-2023-32629-GameOver-lay: Check for CVE-2023-32629 \"GameOver(lay)\" vulnerability ",
-            "date_modified": "2023-08-11T21:10:13.000Z",
+            "date_modified": "2023-08-13T07:50:58.000Z",
             "date_published": "2023-08-11T21:08:38.000Z",
             "author": {
                 "name": "kaotickj",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "Dlux-cyber-projects",
                 "url": "https://github.com/Dlux-cyber-projects"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/110882196?u=00016c5abf3bbf489702c6bd21299acb2912eb92&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>复现CVE-2023-34312所需的两个恶意dll文件</div>",
-            "url": "https://github.com/lan1oc/CVE-2023-34312-exp",
-            "title": "lan1oc/CVE-2023-34312-exp: 复现CVE-2023-34312所需的两个恶意dll文件",
-            "date_modified": "2023-08-10T08:43:49.000Z",
-            "date_published": "2023-08-07T13:09:11.000Z",
-            "author": {
-                "name": "lan1oc",
-                "url": "https://github.com/lan1oc"
             }
         }
     ]
