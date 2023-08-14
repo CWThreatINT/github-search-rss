@@ -6,6 +6,28 @@
     "description": "CVE-2023 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/42498816?u=08c4092e757fc2588b734e8e09e355493e9126e9&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Ghostscript command injection vulnerability PoC (CVE-2023-36664)</div>",
+            "url": "https://github.com/jakabakos/CVE-2023-36664-Ghostscript-command-injection",
+            "title": "jakabakos/CVE-2023-36664-Ghostscript-command-injection: Ghostscript command injection vulnerability PoC (CVE-2023-36664)",
+            "date_modified": "2023-08-12T18:33:58.000Z",
+            "date_published": "2023-08-12T18:33:57.000Z",
+            "author": {
+                "name": "jakabakos",
+                "url": "https://github.com/jakabakos"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/18195825?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023</div>",
+            "url": "https://github.com/CVEProject/cvelist",
+            "title": "CVEProject/cvelist: Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023",
+            "date_modified": "2023-08-13T12:06:30.000Z",
+            "date_published": "2020-11-02T19:30:55.000Z",
+            "author": {
+                "name": "CVEProject",
+                "url": "https://github.com/CVEProject"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/49879157?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div> Stakater Forecastle 1.0.127 allows directory traversal in the website component</div>",
             "url": "https://github.com/sahar042/CVE-2023-40297",
             "title": "sahar042/CVE-2023-40297:  Stakater Forecastle 1.0.127 allows directory traversal in the website component",
@@ -25,17 +47,6 @@
             "author": {
                 "name": "thomas-osgood",
                 "url": "https://github.com/thomas-osgood"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/18195825?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023</div>",
-            "url": "https://github.com/CVEProject/cvelist",
-            "title": "CVEProject/cvelist: Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023",
-            "date_modified": "2023-08-13T12:06:30.000Z",
-            "date_published": "2020-11-02T19:30:55.000Z",
-            "author": {
-                "name": "CVEProject",
-                "url": "https://github.com/CVEProject"
             }
         },
         {
@@ -124,17 +135,6 @@
             "author": {
                 "name": "Mehran-Seifalinia",
                 "url": "https://github.com/Mehran-Seifalinia"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/42498816?u=08c4092e757fc2588b734e8e09e355493e9126e9&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Ghostscript command injection vulnerability PoC (CVE-2023-36664)</div>",
-            "url": "https://github.com/jakabakos/CVE-2023-36664-Ghostscript-command-injection",
-            "title": "jakabakos/CVE-2023-36664-Ghostscript-command-injection: Ghostscript command injection vulnerability PoC (CVE-2023-36664)",
-            "date_modified": "2023-08-12T18:33:58.000Z",
-            "date_published": "2023-08-12T18:33:57.000Z",
-            "author": {
-                "name": "jakabakos",
-                "url": "https://github.com/jakabakos"
             }
         },
         {
