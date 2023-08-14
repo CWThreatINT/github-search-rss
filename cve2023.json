@@ -6,17 +6,6 @@
     "description": "CVE-2023 FEED on GitHub",
     "items": [
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/105329747?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
-            "url": "https://github.com/mistymntncop/CVE-2023-2033",
-            "title": "mistymntncop/CVE-2023-2033",
-            "date_modified": "2023-08-12T18:02:32.000Z",
-            "date_published": "2023-08-02T11:55:30.000Z",
-            "author": {
-                "name": "mistymntncop",
-                "url": "https://github.com/mistymntncop"
-            }
-        },
-        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/18195825?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023</div>",
             "url": "https://github.com/CVEProject/cvelist",
             "title": "CVEProject/cvelist: Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023",
@@ -25,6 +14,39 @@
             "author": {
                 "name": "CVEProject",
                 "url": "https://github.com/CVEProject"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/42481692?u=81c659e9d336f65079578bb7d8b69f05c24915d9&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Proof of Concept for CVE-2023-40296</div>",
+            "url": "https://github.com/Halcy0nic/CVE-2023-40296",
+            "title": "Halcy0nic/CVE-2023-40296: Proof of Concept for CVE-2023-40296",
+            "date_modified": "2023-08-14T05:21:27.000Z",
+            "date_published": "2023-08-14T05:21:27.000Z",
+            "author": {
+                "name": "Halcy0nic",
+                "url": "https://github.com/Halcy0nic"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/42481692?u=81c659e9d336f65079578bb7d8b69f05c24915d9&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Proof of concept for CVE-2023-40294 and CVE-2023-40295</div>",
+            "url": "https://github.com/Halcy0nic/CVE-2023-40294-and-CVE-2023-40295",
+            "title": "Halcy0nic/CVE-2023-40294-and-CVE-2023-40295: Proof of concept for CVE-2023-40294 and CVE-2023-40295",
+            "date_modified": "2023-08-14T05:12:06.000Z",
+            "date_published": "2023-08-14T05:12:05.000Z",
+            "author": {
+                "name": "Halcy0nic",
+                "url": "https://github.com/Halcy0nic"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/105329747?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
+            "url": "https://github.com/mistymntncop/CVE-2023-2033",
+            "title": "mistymntncop/CVE-2023-2033",
+            "date_modified": "2023-08-14T05:52:21.000Z",
+            "date_published": "2023-08-02T11:55:30.000Z",
+            "author": {
+                "name": "mistymntncop",
+                "url": "https://github.com/mistymntncop"
             }
         },
         {
@@ -201,28 +223,6 @@
             "author": {
                 "name": "KingBangQ",
                 "url": "https://github.com/KingBangQ"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/92903333?u=aae9e1be3f5abb18eb689899d7a439f63c542724&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
-            "url": "https://github.com/LazyySec/CVE-2023-38646",
-            "title": "LazyySec/CVE-2023-38646",
-            "date_modified": "2023-07-31T07:24:40.000Z",
-            "date_published": "2023-07-31T05:25:37.000Z",
-            "author": {
-                "name": "LazyySec",
-                "url": "https://github.com/LazyySec"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/92903333?u=aae9e1be3f5abb18eb689899d7a439f63c542724&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>This tool is built in golang language to exploit CVE-2023-35078 vulnerability inspired by similar tool in python language <a href=\"https://github.com/vchan-in/CVE-2023-35078-Exploit-POC\">https://github.com/vchan-in/CVE-2023-35078-Exploit-POC</a></div>",
-            "url": "https://github.com/LazyySec/CVE-2023-35078",
-            "title": "LazyySec/CVE-2023-35078: This tool is built in golang language to exploit CVE-2023-35078 vulnerability inspired by similar tool in python language https://github.com/vchan-in/CVE-2023-35078-Exploit-POC",
-            "date_modified": "2023-08-07T12:55:04.000Z",
-            "date_published": "2023-07-31T02:24:24.000Z",
-            "author": {
-                "name": "LazyySec",
-                "url": "https://github.com/LazyySec"
             }
         }
     ]
