@@ -6,6 +6,28 @@
     "description": "CVE-2023 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/49879157?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div> Stakater Forecastle 1.0.127 allows directory traversal in the website component</div>",
+            "url": "https://github.com/sahar042/CVE-2023-40297",
+            "title": "sahar042/CVE-2023-40297:  Stakater Forecastle 1.0.127 allows directory traversal in the website component",
+            "date_modified": "2023-08-14T06:18:48.000Z",
+            "date_published": "2023-08-14T06:18:48.000Z",
+            "author": {
+                "name": "sahar042",
+                "url": "https://github.com/sahar042"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/20747585?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Golang PoC for CVE-2023-27163 Mailtrail Exploit</div>",
+            "url": "https://github.com/thomas-osgood/CVE-2023-27163",
+            "title": "thomas-osgood/CVE-2023-27163: Golang PoC for CVE-2023-27163 Mailtrail Exploit",
+            "date_modified": "2023-08-14T02:19:34.000Z",
+            "date_published": "2023-08-13T04:19:50.000Z",
+            "author": {
+                "name": "thomas-osgood",
+                "url": "https://github.com/thomas-osgood"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/18195825?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023</div>",
             "url": "https://github.com/CVEProject/cvelist",
             "title": "CVEProject/cvelist: Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023",
@@ -42,7 +64,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/105329747?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
             "url": "https://github.com/mistymntncop/CVE-2023-2033",
             "title": "mistymntncop/CVE-2023-2033",
-            "date_modified": "2023-08-14T05:52:21.000Z",
+            "date_modified": "2023-08-14T06:43:49.000Z",
             "date_published": "2023-08-02T11:55:30.000Z",
             "author": {
                 "name": "mistymntncop",
@@ -102,17 +124,6 @@
             "author": {
                 "name": "Mehran-Seifalinia",
                 "url": "https://github.com/Mehran-Seifalinia"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/20747585?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Golang PoC for CVE-2023-27163 Mailtrail Exploit</div>",
-            "url": "https://github.com/thomas-osgood/CVE-2023-27163",
-            "title": "thomas-osgood/CVE-2023-27163: Golang PoC for CVE-2023-27163 Mailtrail Exploit",
-            "date_modified": "2023-08-14T02:19:34.000Z",
-            "date_published": "2023-08-13T04:19:50.000Z",
-            "author": {
-                "name": "thomas-osgood",
-                "url": "https://github.com/thomas-osgood"
             }
         },
         {
@@ -212,17 +223,6 @@
             "author": {
                 "name": "d0rb",
                 "url": "https://github.com/d0rb"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/38780033?u=f9a65a17e93d9360ece4046d34bdea246e69f8e6&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2023-37847漏洞证明</div>",
-            "url": "https://github.com/KingBangQ/CVE-2023-37847",
-            "title": "KingBangQ/CVE-2023-37847: CVE-2023-37847漏洞证明",
-            "date_modified": "2023-07-31T09:18:56.000Z",
-            "date_published": "2023-07-27T02:12:57.000Z",
-            "author": {
-                "name": "KingBangQ",
-                "url": "https://github.com/KingBangQ"
             }
         }
     ]
