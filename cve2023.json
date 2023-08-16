@@ -6,17 +6,6 @@
     "description": "CVE-2023 FEED on GitHub",
     "items": [
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/10403781?u=c3370c61f020003fff5927dac120ddb90683e079&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2023-37979 PoC and Checker</div>",
-            "url": "https://github.com/d0rb/CVE-2023-37979",
-            "title": "d0rb/CVE-2023-37979: CVE-2023-37979 PoC and Checker",
-            "date_modified": "2023-08-12T19:18:42.000Z",
-            "date_published": "2023-08-04T10:31:53.000Z",
-            "author": {
-                "name": "d0rb",
-                "url": "https://github.com/d0rb"
-            }
-        },
-        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/18195825?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023</div>",
             "url": "https://github.com/CVEProject/cvelist",
             "title": "CVEProject/cvelist: Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023",
@@ -25,6 +14,39 @@
             "author": {
                 "name": "CVEProject",
                 "url": "https://github.com/CVEProject"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/331209?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
+            "url": "https://github.com/mandiant/citrix-ioc-scanner-cve-2023-3519",
+            "title": "mandiant/citrix-ioc-scanner-cve-2023-3519",
+            "date_modified": "2023-08-16T09:09:00.000Z",
+            "date_published": "2023-08-10T18:22:57.000Z",
+            "author": {
+                "name": "mandiant",
+                "url": "https://github.com/mandiant"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/45532566?u=217f4c2635764fc9a5710e81aab14a97ba8cea86&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Exploit for file upload vulnerability in BoidCMS version &lt;=2.0.0</div>",
+            "url": "https://github.com/1337kid/CVE-2023-38836",
+            "title": "1337kid/CVE-2023-38836: Exploit for file upload vulnerability in BoidCMS version <=2.0.0",
+            "date_modified": "2023-08-16T14:36:50.000Z",
+            "date_published": "2023-08-16T14:30:30.000Z",
+            "author": {
+                "name": "1337kid",
+                "url": "https://github.com/1337kid"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/10403781?u=c3370c61f020003fff5927dac120ddb90683e079&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2023-37979 PoC and Checker</div>",
+            "url": "https://github.com/d0rb/CVE-2023-37979",
+            "title": "d0rb/CVE-2023-37979: CVE-2023-37979 PoC and Checker",
+            "date_modified": "2023-08-12T19:18:42.000Z",
+            "date_published": "2023-08-04T10:31:53.000Z",
+            "author": {
+                "name": "d0rb",
+                "url": "https://github.com/d0rb"
             }
         },
         {
@@ -138,21 +160,10 @@
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/331209?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
-            "url": "https://github.com/mandiant/citrix-ioc-scanner-cve-2023-3519",
-            "title": "mandiant/citrix-ioc-scanner-cve-2023-3519",
-            "date_modified": "2023-08-16T09:09:00.000Z",
-            "date_published": "2023-08-10T18:22:57.000Z",
-            "author": {
-                "name": "mandiant",
-                "url": "https://github.com/mandiant"
-            }
-        },
-        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/42498816?u=08c4092e757fc2588b734e8e09e355493e9126e9&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Ghostscript command injection vulnerability PoC (CVE-2023-36664)</div>",
             "url": "https://github.com/jakabakos/CVE-2023-36664-Ghostscript-command-injection",
             "title": "jakabakos/CVE-2023-36664-Ghostscript-command-injection: Ghostscript command injection vulnerability PoC (CVE-2023-36664)",
-            "date_modified": "2023-08-16T12:01:18.000Z",
+            "date_modified": "2023-08-16T14:37:54.000Z",
             "date_published": "2023-08-12T18:33:57.000Z",
             "author": {
                 "name": "jakabakos",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "qwqdanchun",
                 "url": "https://github.com/qwqdanchun"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/36341780?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A collection of resources and information about CVE-2023-2033</div>",
-            "url": "https://github.com/sandumjacob/CVE-2023-2033-Analysis",
-            "title": "sandumjacob/CVE-2023-2033-Analysis: A collection of resources and information about CVE-2023-2033",
-            "date_modified": "2023-08-16T02:46:08.000Z",
-            "date_published": "2023-04-26T15:24:02.000Z",
-            "author": {
-                "name": "sandumjacob",
-                "url": "https://github.com/sandumjacob"
             }
         }
     ]
