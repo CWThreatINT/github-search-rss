@@ -6,6 +6,17 @@
     "description": "CVE-2022 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/81353072?u=dcde435657dde3ae44d418f49fb497739a9e8773&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2022-39986 PoC</div>",
+            "url": "https://github.com/WhiteOwl-Pub/RaspAP-CVE-2022-39986-PoC",
+            "title": "WhiteOwl-Pub/RaspAP-CVE-2022-39986-PoC: CVE-2022-39986 PoC",
+            "date_modified": "2023-08-16T11:34:03.000Z",
+            "date_published": "2023-08-16T11:32:26.000Z",
+            "author": {
+                "name": "WhiteOwl-Pub",
+                "url": "https://github.com/WhiteOwl-Pub"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/12976017?u=6d3d423fda6a56643a0ca1acae5223cdf08a3c28&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>unlock bootloader for theoretically ALL unisoc ud710 and ums512 model</div>",
             "url": "https://github.com/TomKing062/CVE-2022-38694_unlock_bootloader",
             "title": "TomKing062/CVE-2022-38694_unlock_bootloader: unlock bootloader for theoretically ALL unisoc ud710 and ums512 model",
@@ -207,22 +218,11 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/18663141?u=2f4646b4e3f9b108365fcca3eb28adcdea03429d&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Android kernel exploitation for CVE-2022-20409</div>",
             "url": "https://github.com/Markakd/bad_io_uring",
             "title": "Markakd/bad_io_uring: Android kernel exploitation for CVE-2022-20409",
-            "date_modified": "2023-08-16T02:35:22.000Z",
+            "date_modified": "2023-08-16T12:02:33.000Z",
             "date_published": "2022-11-21T22:42:50.000Z",
             "author": {
                 "name": "Markakd",
                 "url": "https://github.com/Markakd"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/64638296?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Confluence Pre-Auth Remote Code Execution via OGNL Injection (CVE-2022-26134)</div>",
-            "url": "https://github.com/Muhammad-Ali007/Atlassian_CVE-2022-26134",
-            "title": "Muhammad-Ali007/Atlassian_CVE-2022-26134: Confluence Pre-Auth Remote Code Execution via OGNL Injection (CVE-2022-26134)",
-            "date_modified": "2023-08-03T21:18:52.000Z",
-            "date_published": "2023-07-30T20:56:13.000Z",
-            "author": {
-                "name": "Muhammad-Ali007",
-                "url": "https://github.com/Muhammad-Ali007"
             }
         }
     ]
