@@ -6,17 +6,6 @@
     "description": "CVE-2023 FEED on GitHub",
     "items": [
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/82097150?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>The largest hacking program with new tools CVE-2023-PoC for the year 2023 It contains all the attack and exploitation tools for testing websites, as well as a graphical interface to facilitate its use for beginners</div>",
-            "url": "https://github.com/abrahim7112/hackers",
-            "title": "abrahim7112/hackers: The largest hacking program with new tools CVE-2023-PoC for the year 2023 It contains all the attack and exploitation tools for testing websites, as well as a graphical interface to facilitate its use for beginners",
-            "date_modified": "2023-08-07T15:53:45.000Z",
-            "date_published": "2023-07-23T20:33:17.000Z",
-            "author": {
-                "name": "abrahim7112",
-                "url": "https://github.com/abrahim7112"
-            }
-        },
-        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/18195825?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023</div>",
             "url": "https://github.com/CVEProject/cvelist",
             "title": "CVEProject/cvelist: Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023",
@@ -25,6 +14,17 @@
             "author": {
                 "name": "CVEProject",
                 "url": "https://github.com/CVEProject"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/82097150?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>The largest hacking program with new tools CVE-2023-PoC for the year 2023 It contains all the attack and exploitation tools for testing websites, as well as a graphical interface to facilitate its use for beginners</div>",
+            "url": "https://github.com/abrahim7112/hackers",
+            "title": "abrahim7112/hackers: The largest hacking program with new tools CVE-2023-PoC for the year 2023 It contains all the attack and exploitation tools for testing websites, as well as a graphical interface to facilitate its use for beginners",
+            "date_modified": "2023-08-07T15:53:45.000Z",
+            "date_published": "2023-07-23T20:33:17.000Z",
+            "author": {
+                "name": "abrahim7112",
+                "url": "https://github.com/abrahim7112"
             }
         },
         {
@@ -174,7 +174,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/42498816?u=08c4092e757fc2588b734e8e09e355493e9126e9&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Ghostscript command injection vulnerability PoC (CVE-2023-36664)</div>",
             "url": "https://github.com/jakabakos/CVE-2023-36664-Ghostscript-command-injection",
             "title": "jakabakos/CVE-2023-36664-Ghostscript-command-injection: Ghostscript command injection vulnerability PoC (CVE-2023-36664)",
-            "date_modified": "2023-08-16T14:37:54.000Z",
+            "date_modified": "2023-08-16T18:24:55.000Z",
             "date_published": "2023-08-12T18:33:57.000Z",
             "author": {
                 "name": "jakabakos",
