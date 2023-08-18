@@ -17,6 +17,28 @@
             }
         },
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/128833419?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
+            "url": "https://github.com/Pandante-Central/CVE-2023-24329-codeql-test",
+            "title": "Pandante-Central/CVE-2023-24329-codeql-test",
+            "date_modified": "2023-08-18T16:55:17.000Z",
+            "date_published": "2023-08-18T16:53:11.000Z",
+            "author": {
+                "name": "Pandante-Central",
+                "url": "https://github.com/Pandante-Central"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/106912619?u=e55e7aa97a149f820d0bf3ce1c75567ac7b164c9&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>poc</div>",
+            "url": "https://github.com/akshadjoshi/CVE-2023-38890",
+            "title": "akshadjoshi/CVE-2023-38890: poc",
+            "date_modified": "2023-08-18T16:37:40.000Z",
+            "date_published": "2023-08-18T16:37:39.000Z",
+            "author": {
+                "name": "akshadjoshi",
+                "url": "https://github.com/akshadjoshi"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/7841214?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Python rewrite of the POC for CVE-2023-34634</div>",
             "url": "https://github.com/radman404/CVE-2023-34634",
             "title": "radman404/CVE-2023-34634: Python rewrite of the POC for CVE-2023-34634",
@@ -201,28 +223,6 @@
             "author": {
                 "name": "GREENHAT7",
                 "url": "https://github.com/GREENHAT7"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/29868622?u=f096e08e1376e30c903531c5ee392a31e1b4da21&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2023-36899漏洞的复现环境和工具，针对ASP.NET框架中的无cookie会话身份验证绕过。</div>",
-            "url": "https://github.com/midisec/CVE-2023-36899",
-            "title": "midisec/CVE-2023-36899: CVE-2023-36899漏洞的复现环境和工具，针对ASP.NET框架中的无cookie会话身份验证绕过。",
-            "date_modified": "2023-08-17T14:00:02.000Z",
-            "date_published": "2023-08-15T23:36:17.000Z",
-            "author": {
-                "name": "midisec",
-                "url": "https://github.com/midisec"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/95946350?u=cec1994d846e328adba5d24922460de3e31aaecb&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2023-2640 CVE-2023-32629</div>",
-            "url": "https://github.com/OllaPapito/gameoverlay",
-            "title": "OllaPapito/gameoverlay: CVE-2023-2640 CVE-2023-32629",
-            "date_modified": "2023-08-15T19:11:00.000Z",
-            "date_published": "2023-08-15T19:07:02.000Z",
-            "author": {
-                "name": "OllaPapito",
-                "url": "https://github.com/OllaPapito"
             }
         }
     ]
