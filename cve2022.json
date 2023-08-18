@@ -6,10 +6,21 @@
     "description": "CVE-2022 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/51722811?u=a195458fc64bade6e8616d1d5c43883f0abde0c0&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>LearnPress Plugin &lt; 4.2.0 - Unauthenticated SQLi</div>",
+            "url": "https://github.com/RandomRobbieBF/CVE-2022-45808",
+            "title": "RandomRobbieBF/CVE-2022-45808: LearnPress Plugin < 4.2.0 - Unauthenticated SQLi",
+            "date_modified": "2023-08-18T15:43:50.000Z",
+            "date_published": "2023-08-18T15:43:50.000Z",
+            "author": {
+                "name": "RandomRobbieBF",
+                "url": "https://github.com/RandomRobbieBF"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/51722811?u=a195458fc64bade6e8616d1d5c43883f0abde0c0&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>LearnPress Plugin &lt; 4.2.0 - Unauthenticated LFI Description </div>",
             "url": "https://github.com/RandomRobbieBF/CVE-2022-47615",
             "title": "RandomRobbieBF/CVE-2022-47615: LearnPress Plugin < 4.2.0 - Unauthenticated LFI Description ",
-            "date_modified": "2023-08-18T15:04:37.000Z",
+            "date_modified": "2023-08-18T15:14:25.000Z",
             "date_published": "2023-08-18T15:04:36.000Z",
             "author": {
                 "name": "RandomRobbieBF",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "SkDevilS",
                 "url": "https://github.com/SkDevilS"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/87258637?u=bbd59052fc7dddb341288834f6a935a496366eda&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
-            "url": "https://github.com/more-kohii/CVE-2022-1015",
-            "title": "more-kohii/CVE-2022-1015",
-            "date_modified": "2023-08-12T15:21:23.000Z",
-            "date_published": "2023-08-06T10:46:49.000Z",
-            "author": {
-                "name": "more-kohii",
-                "url": "https://github.com/more-kohii"
             }
         }
     ]
