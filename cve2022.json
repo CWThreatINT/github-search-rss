@@ -6,6 +6,17 @@
     "description": "CVE-2022 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/51722811?u=a195458fc64bade6e8616d1d5c43883f0abde0c0&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>LearnPress Plugin &lt; 4.2.0 - Unauthenticated LFI Description </div>",
+            "url": "https://github.com/RandomRobbieBF/CVE-2022-47615",
+            "title": "RandomRobbieBF/CVE-2022-47615: LearnPress Plugin < 4.2.0 - Unauthenticated LFI Description ",
+            "date_modified": "2023-08-18T15:04:37.000Z",
+            "date_published": "2023-08-18T15:04:36.000Z",
+            "author": {
+                "name": "RandomRobbieBF",
+                "url": "https://github.com/RandomRobbieBF"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/12976017?u=6d3d423fda6a56643a0ca1acae5223cdf08a3c28&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>unlock bootloader for theoretically ALL unisoc ud710 and ums512 model</div>",
             "url": "https://github.com/TomKing062/CVE-2022-38694_unlock_bootloader",
             "title": "TomKing062/CVE-2022-38694_unlock_bootloader: unlock bootloader for theoretically ALL unisoc ud710 and ums512 model",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "more-kohii",
                 "url": "https://github.com/more-kohii"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/72800859?u=d53be4f09a67af4f8999a7ecc7a73b9c74f45d28&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>I do some tweaking for iOS from 16.0 to 16.1.2 based on MacDirtyCow (CVE-2022-46689) exploit.</div>",
-            "url": "https://github.com/tdquang266/MDC",
-            "title": "tdquang266/MDC: I do some tweaking for iOS from 16.0 to 16.1.2 based on MacDirtyCow (CVE-2022-46689) exploit.",
-            "date_modified": "2023-08-07T08:51:07.000Z",
-            "date_published": "2023-04-16T03:33:38.000Z",
-            "author": {
-                "name": "tdquang266",
-                "url": "https://github.com/tdquang266"
             }
         }
     ]
