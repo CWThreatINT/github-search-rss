@@ -17,6 +17,28 @@
             }
         },
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/122021278?u=c118a444baf5f03596c6966f264b867f583f947f&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
+            "url": "https://github.com/Arajawat007/CVE-2023-39707",
+            "title": "Arajawat007/CVE-2023-39707",
+            "date_modified": "2023-08-19T17:35:39.000Z",
+            "date_published": "2023-08-19T17:35:39.000Z",
+            "author": {
+                "name": "Arajawat007",
+                "url": "https://github.com/Arajawat007"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/46203546?u=cd409fceca20e30854863c76d713dac01e7eea7a&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Cargo exploit from CVE-2023-38497</div>",
+            "url": "https://github.com/lucas-cauhe/cargo-perm",
+            "title": "lucas-cauhe/cargo-perm: Cargo exploit from CVE-2023-38497",
+            "date_modified": "2023-08-19T17:58:15.000Z",
+            "date_published": "2023-08-04T16:36:10.000Z",
+            "author": {
+                "name": "lucas-cauhe",
+                "url": "https://github.com/lucas-cauhe"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/64693844?u=1eda9e9c751d9977eed771a3f8c339701e14b271&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Metabase Pre-auth RCE (CVE-2023-38646)</div>",
             "url": "https://github.com/kh4sh3i/CVE-2023-38646",
             "title": "kh4sh3i/CVE-2023-38646: Metabase Pre-auth RCE (CVE-2023-38646)",
@@ -201,28 +223,6 @@
             "author": {
                 "name": "codeb0ss",
                 "url": "https://github.com/codeb0ss"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/82097150?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>The largest hacking program with new tools CVE-2023-PoC for the year 2023 It contains all the attack and exploitation tools for testing websites, as well as a graphical interface to facilitate its use for beginners</div>",
-            "url": "https://github.com/abrahim7112/hackers",
-            "title": "abrahim7112/hackers: The largest hacking program with new tools CVE-2023-PoC for the year 2023 It contains all the attack and exploitation tools for testing websites, as well as a graphical interface to facilitate its use for beginners",
-            "date_modified": "2023-08-17T16:40:31.000Z",
-            "date_published": "2023-07-23T20:33:17.000Z",
-            "author": {
-                "name": "abrahim7112",
-                "url": "https://github.com/abrahim7112"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/45532566?u=217f4c2635764fc9a5710e81aab14a97ba8cea86&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Exploit for file upload vulnerability in BoidCMS version &lt;=2.0.0</div>",
-            "url": "https://github.com/1337kid/CVE-2023-38836",
-            "title": "1337kid/CVE-2023-38836: Exploit for file upload vulnerability in BoidCMS version <=2.0.0",
-            "date_modified": "2023-08-17T06:43:52.000Z",
-            "date_published": "2023-08-16T14:30:30.000Z",
-            "author": {
-                "name": "1337kid",
-                "url": "https://github.com/1337kid"
             }
         }
     ]
