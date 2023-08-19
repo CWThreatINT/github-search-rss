@@ -6,6 +6,17 @@
     "description": "CVE-2022 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/72358603?u=cd563dfb5041405499469b04abfa1d6be8ede398&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Atlassian Confluence (CVE-2022-26134) - Unauthenticated Remote code execution (RCE)</div>",
+            "url": "https://github.com/nxtexploit/CVE-2022-26134",
+            "title": "nxtexploit/CVE-2022-26134: Atlassian Confluence (CVE-2022-26134) - Unauthenticated Remote code execution (RCE)",
+            "date_modified": "2023-08-06T23:17:06.000Z",
+            "date_published": "2022-07-05T04:30:42.000Z",
+            "author": {
+                "name": "nxtexploit",
+                "url": "https://github.com/nxtexploit"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/51722811?u=a195458fc64bade6e8616d1d5c43883f0abde0c0&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>LearnPress Plugin &lt; 4.2.0 - Unauthenticated SQLi</div>",
             "url": "https://github.com/RandomRobbieBF/CVE-2022-45808",
             "title": "RandomRobbieBF/CVE-2022-45808: LearnPress Plugin < 4.2.0 - Unauthenticated SQLi",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "NyaMeeEain",
                 "url": "https://github.com/NyaMeeEain"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/112902431?u=6e440c4bd1acd24af01479bdebd06288fc90209b&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div># Exploit Title: Pluck CMS 4.7.16 - Remote Code Execution (RCE) (Authenticated) # Date: 13.03.2022 # Exploit Author: Ashish Koli (Shikari) # Vendor Homepage: <a href=\"https://github.com/pluck-cms/pluck\">https://github.com/pluck-cms/pluck</a> # Version: 4.7.16 # Tested on Ubuntu 20.04.3 LTS # CVE: CVE-2022-26965 </div>",
-            "url": "https://github.com/SkDevilS/Pluck-Exploitation-by-skdevils",
-            "title": "SkDevilS/Pluck-Exploitation-by-skdevils: # Exploit Title: Pluck CMS 4.7.16 - Remote Code Execution (RCE) (Authenticated) # Date: 13.03.2022 # Exploit Author: Ashish Koli (Shikari) # Vendor Homepage: https://github.com/pluck-cms/pluck # Version: 4.7.16 # Tested on Ubuntu 20.04.3 LTS # CVE: CVE-2022-26965 ",
-            "date_modified": "2023-08-08T16:30:42.000Z",
-            "date_published": "2023-08-04T20:32:08.000Z",
-            "author": {
-                "name": "SkDevilS",
-                "url": "https://github.com/SkDevilS"
             }
         }
     ]
