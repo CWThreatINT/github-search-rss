@@ -6,6 +6,17 @@
     "description": "CVE-2023 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/64693844?u=1eda9e9c751d9977eed771a3f8c339701e14b271&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Metabase Pre-auth RCE (CVE-2023-38646)</div>",
+            "url": "https://github.com/kh4sh3i/CVE-2023-38646",
+            "title": "kh4sh3i/CVE-2023-38646: Metabase Pre-auth RCE (CVE-2023-38646)",
+            "date_modified": "2023-08-19T11:47:09.000Z",
+            "date_published": "2023-08-19T11:47:08.000Z",
+            "author": {
+                "name": "kh4sh3i",
+                "url": "https://github.com/kh4sh3i"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/110206125?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>MOC3ingbird Exploit for Live2D (CVE-2023-27566)</div>",
             "url": "https://github.com/OpenL2D/moc3ingbird",
             "title": "OpenL2D/moc3ingbird: MOC3ingbird Exploit for Live2D (CVE-2023-27566)",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "1337kid",
                 "url": "https://github.com/1337kid"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/10403781?u=c3370c61f020003fff5927dac120ddb90683e079&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2023-37979 PoC and Checker</div>",
-            "url": "https://github.com/d0rb/CVE-2023-37979",
-            "title": "d0rb/CVE-2023-37979: CVE-2023-37979 PoC and Checker",
-            "date_modified": "2023-08-12T19:18:42.000Z",
-            "date_published": "2023-08-04T10:31:53.000Z",
-            "author": {
-                "name": "d0rb",
-                "url": "https://github.com/d0rb"
             }
         }
     ]
