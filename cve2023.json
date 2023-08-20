@@ -6,6 +6,17 @@
     "description": "CVE-2023 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/10403781?u=c3370c61f020003fff5927dac120ddb90683e079&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2023-36874 PoC</div>",
+            "url": "https://github.com/d0rb/CVE-2023-36874",
+            "title": "d0rb/CVE-2023-36874: CVE-2023-36874 PoC",
+            "date_modified": "2023-08-20T13:51:47.000Z",
+            "date_published": "2023-08-20T13:50:42.000Z",
+            "author": {
+                "name": "d0rb",
+                "url": "https://github.com/d0rb"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/10403781?u=c3370c61f020003fff5927dac120ddb90683e079&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2023-37979 PoC and Checker</div>",
             "url": "https://github.com/d0rb/CVE-2023-37979",
             "title": "d0rb/CVE-2023-37979: CVE-2023-37979 PoC and Checker",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "jakabakos",
                 "url": "https://github.com/jakabakos"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/30820879?u=d21bd13a9d365d007945877d65229f127140c0d5&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>PoC based on https://unsafe[.]sh/go-173464.html research</div>",
-            "url": "https://github.com/RegularITCat/CVE-2023-20073",
-            "title": "RegularITCat/CVE-2023-20073: PoC based on https://unsafe[.]sh/go-173464.html research",
-            "date_modified": "2023-08-19T21:11:24.000Z",
-            "date_published": "2023-08-18T02:42:50.000Z",
-            "author": {
-                "name": "RegularITCat",
-                "url": "https://github.com/RegularITCat"
             }
         }
     ]
