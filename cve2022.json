@@ -6,6 +6,17 @@
     "description": "CVE-2022 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/132866139?u=1c979224156b600307ff7b92e5f8859fb5846f78&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Dockerized POC for CVE-2022-42889 Text4Shell</div>",
+            "url": "https://github.com/aaronm-sysdig/text4shell-docker",
+            "title": "aaronm-sysdig/text4shell-docker: Dockerized POC for CVE-2022-42889 Text4Shell",
+            "date_modified": "2023-05-23T07:32:45.000Z",
+            "date_published": "2023-05-22T06:57:55.000Z",
+            "author": {
+                "name": "aaronm-sysdig",
+                "url": "https://github.com/aaronm-sysdig"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/72358603?u=cd563dfb5041405499469b04abfa1d6be8ede398&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Atlassian Confluence (CVE-2022-26134) - Unauthenticated Remote code execution (RCE)</div>",
             "url": "https://github.com/nxtexploit/CVE-2022-26134",
             "title": "nxtexploit/CVE-2022-26134: Atlassian Confluence (CVE-2022-26134) - Unauthenticated Remote code execution (RCE)",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "RandomRobbieBF",
                 "url": "https://github.com/RandomRobbieBF"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/28331671?u=91cc72c4d96da9a7b697799bf7dbbf5f132bd1d8&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
-            "url": "https://github.com/NyaMeeEain/CVE-2022-28171-POC",
-            "title": "NyaMeeEain/CVE-2022-28171-POC",
-            "date_modified": "2023-07-16T07:30:23.000Z",
-            "date_published": "2023-07-16T07:30:22.000Z",
-            "author": {
-                "name": "NyaMeeEain",
-                "url": "https://github.com/NyaMeeEain"
             }
         }
     ]
