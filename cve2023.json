@@ -6,6 +6,17 @@
     "description": "CVE-2023 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/77956516?u=6ae24374756ed2d4bc3e7bae2ec1cea98accfda7&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2023-28432检测工具</div>",
+            "url": "https://github.com/bingtangbanli/CVE-2023-28432",
+            "title": "bingtangbanli/CVE-2023-28432: CVE-2023-28432检测工具",
+            "date_modified": "2023-08-21T06:03:25.000Z",
+            "date_published": "2023-08-21T06:03:25.000Z",
+            "author": {
+                "name": "bingtangbanli",
+                "url": "https://github.com/bingtangbanli"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/18195825?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023</div>",
             "url": "https://github.com/CVEProject/cvelist",
             "title": "CVEProject/cvelist: Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "akshadjoshi",
                 "url": "https://github.com/akshadjoshi"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/7841214?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Python rewrite of the POC for CVE-2023-34634</div>",
-            "url": "https://github.com/radman404/CVE-2023-34634",
-            "title": "radman404/CVE-2023-34634: Python rewrite of the POC for CVE-2023-34634",
-            "date_modified": "2023-08-19T15:12:50.000Z",
-            "date_published": "2023-08-18T09:00:44.000Z",
-            "author": {
-                "name": "radman404",
-                "url": "https://github.com/radman404"
             }
         }
     ]
