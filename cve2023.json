@@ -6,17 +6,6 @@
     "description": "CVE-2023 FEED on GitHub",
     "items": [
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/82713832?u=6861a9d3420bccf8133cdfd1de8c29ece0b7d6c9&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>test</div>",
-            "url": "https://github.com/obelia01/CVE-2023-9999",
-            "title": "obelia01/CVE-2023-9999: test",
-            "date_modified": "2023-08-21T12:02:45.000Z",
-            "date_published": "2023-08-21T12:02:45.000Z",
-            "author": {
-                "name": "obelia01",
-                "url": "https://github.com/obelia01"
-            }
-        },
-        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/18195825?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023</div>",
             "url": "https://github.com/CVEProject/cvelist",
             "title": "CVEProject/cvelist: Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023",
@@ -25,6 +14,17 @@
             "author": {
                 "name": "CVEProject",
                 "url": "https://github.com/CVEProject"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/82713832?u=6861a9d3420bccf8133cdfd1de8c29ece0b7d6c9&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>test</div>",
+            "url": "https://github.com/obelia01/CVE-2023-9999",
+            "title": "obelia01/CVE-2023-9999: test",
+            "date_modified": "2023-08-21T12:02:45.000Z",
+            "date_published": "2023-08-21T12:02:45.000Z",
+            "author": {
+                "name": "obelia01",
+                "url": "https://github.com/obelia01"
             }
         },
         {
@@ -86,7 +86,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/10403781?u=c3370c61f020003fff5927dac120ddb90683e079&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2023-36874 PoC</div>",
             "url": "https://github.com/d0rb/CVE-2023-36874",
             "title": "d0rb/CVE-2023-36874: CVE-2023-36874 PoC",
-            "date_modified": "2023-08-21T11:23:16.000Z",
+            "date_modified": "2023-08-21T12:52:58.000Z",
             "date_published": "2023-08-20T13:50:42.000Z",
             "author": {
                 "name": "d0rb",
@@ -119,7 +119,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/135759201?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Mass Exploit - CVE-2023-20073  - Cisco  VPN Routers - [Unauthenticated Arbitrary File Upload and Stored XSS]</div>",
             "url": "https://github.com/codeb0ss/CVE-2023-20073-",
             "title": "codeb0ss/CVE-2023-20073-: Mass Exploit - CVE-2023-20073  - Cisco  VPN Routers - [Unauthenticated Arbitrary File Upload and Stored XSS]",
-            "date_modified": "2023-08-20T02:50:23.000Z",
+            "date_modified": "2023-08-21T12:38:14.000Z",
             "date_published": "2023-08-20T02:45:50.000Z",
             "author": {
                 "name": "codeb0ss",
