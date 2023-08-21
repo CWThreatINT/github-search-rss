@@ -6,6 +6,17 @@
     "description": "CVE-2023 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/82713832?u=6861a9d3420bccf8133cdfd1de8c29ece0b7d6c9&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>test</div>",
+            "url": "https://github.com/obelia01/CVE-2023-9999",
+            "title": "obelia01/CVE-2023-9999: test",
+            "date_modified": "2023-08-21T12:02:45.000Z",
+            "date_published": "2023-08-21T12:02:45.000Z",
+            "author": {
+                "name": "obelia01",
+                "url": "https://github.com/obelia01"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/18195825?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023</div>",
             "url": "https://github.com/CVEProject/cvelist",
             "title": "CVEProject/cvelist: Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023",
@@ -14,6 +25,17 @@
             "author": {
                 "name": "CVEProject",
                 "url": "https://github.com/CVEProject"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/82713832?u=6861a9d3420bccf8133cdfd1de8c29ece0b7d6c9&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
+            "url": "https://github.com/obelia01/CVE-2023-5546",
+            "title": "obelia01/CVE-2023-5546",
+            "date_modified": "2023-08-21T11:50:02.000Z",
+            "date_published": "2023-08-21T11:50:01.000Z",
+            "author": {
+                "name": "obelia01",
+                "url": "https://github.com/obelia01"
             }
         },
         {
@@ -64,7 +86,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/10403781?u=c3370c61f020003fff5927dac120ddb90683e079&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2023-36874 PoC</div>",
             "url": "https://github.com/d0rb/CVE-2023-36874",
             "title": "d0rb/CVE-2023-36874: CVE-2023-36874 PoC",
-            "date_modified": "2023-08-21T10:24:12.000Z",
+            "date_modified": "2023-08-21T11:23:16.000Z",
             "date_published": "2023-08-20T13:50:42.000Z",
             "author": {
                 "name": "d0rb",
@@ -201,28 +223,6 @@
             "author": {
                 "name": "lucas-cauhe",
                 "url": "https://github.com/lucas-cauhe"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/64693844?u=1eda9e9c751d9977eed771a3f8c339701e14b271&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Metabase Pre-auth RCE (CVE-2023-38646)</div>",
-            "url": "https://github.com/kh4sh3i/CVE-2023-38646",
-            "title": "kh4sh3i/CVE-2023-38646: Metabase Pre-auth RCE (CVE-2023-38646)",
-            "date_modified": "2023-08-21T09:55:59.000Z",
-            "date_published": "2023-08-19T11:47:08.000Z",
-            "author": {
-                "name": "kh4sh3i",
-                "url": "https://github.com/kh4sh3i"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/128833419?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
-            "url": "https://github.com/Pandante-Central/CVE-2023-24329-codeql-test",
-            "title": "Pandante-Central/CVE-2023-24329-codeql-test",
-            "date_modified": "2023-08-18T16:55:17.000Z",
-            "date_published": "2023-08-18T16:53:11.000Z",
-            "author": {
-                "name": "Pandante-Central",
-                "url": "https://github.com/Pandante-Central"
             }
         }
     ]
