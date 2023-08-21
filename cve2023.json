@@ -6,6 +6,28 @@
     "description": "CVE-2023 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/121168405?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2023-36874 Proof of Concept</div>",
+            "url": "https://github.com/c4m3l-security/CVE-2023-36874",
+            "title": "c4m3l-security/CVE-2023-36874: CVE-2023-36874 Proof of Concept",
+            "date_modified": "2023-08-21T22:04:29.000Z",
+            "date_published": "2023-08-21T22:04:28.000Z",
+            "author": {
+                "name": "c4m3l-security",
+                "url": "https://github.com/c4m3l-security"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/26215963?u=65d5810cd399acdfb62aa2bb6e6cbf44e1190daa&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
+            "url": "https://github.com/3tternp/CVE-2023-21554",
+            "title": "3tternp/CVE-2023-21554",
+            "date_modified": "2023-08-21T21:20:38.000Z",
+            "date_published": "2023-08-17T17:16:46.000Z",
+            "author": {
+                "name": "3tternp",
+                "url": "https://github.com/3tternp"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/18195825?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023</div>",
             "url": "https://github.com/CVEProject/cvelist",
             "title": "CVEProject/cvelist: Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023",
@@ -108,7 +130,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/18223385?u=5ba29c1a9447ae88a6a0433f44038f47471e11c1&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>TOP All bugbounty pentesting CVE-2023- POC Exp  RCE example payload  Things</div>",
             "url": "https://github.com/hktalent/TOP",
             "title": "hktalent/TOP: TOP All bugbounty pentesting CVE-2023- POC Exp  RCE example payload  Things",
-            "date_modified": "2023-08-20T11:54:42.000Z",
+            "date_modified": "2023-08-21T21:11:52.000Z",
             "date_published": "2022-03-19T01:54:15.000Z",
             "author": {
                 "name": "hktalent",
@@ -119,7 +141,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/10403781?u=c3370c61f020003fff5927dac120ddb90683e079&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2023-36874 PoC</div>",
             "url": "https://github.com/d0rb/CVE-2023-36874",
             "title": "d0rb/CVE-2023-36874: CVE-2023-36874 PoC",
-            "date_modified": "2023-08-21T20:49:05.000Z",
+            "date_modified": "2023-08-21T21:44:41.000Z",
             "date_published": "2023-08-20T13:50:42.000Z",
             "author": {
                 "name": "d0rb",
@@ -198,28 +220,6 @@
             "title": "Arajawat007/CVE-2023-39714",
             "date_modified": "2023-08-19T18:47:27.000Z",
             "date_published": "2023-08-19T18:47:27.000Z",
-            "author": {
-                "name": "Arajawat007",
-                "url": "https://github.com/Arajawat007"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/122021278?u=c118a444baf5f03596c6966f264b867f583f947f&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
-            "url": "https://github.com/Arajawat007/CVE-2023-39712",
-            "title": "Arajawat007/CVE-2023-39712",
-            "date_modified": "2023-08-19T18:42:28.000Z",
-            "date_published": "2023-08-19T18:42:28.000Z",
-            "author": {
-                "name": "Arajawat007",
-                "url": "https://github.com/Arajawat007"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/122021278?u=c118a444baf5f03596c6966f264b867f583f947f&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
-            "url": "https://github.com/Arajawat007/CVE-2023-39709",
-            "title": "Arajawat007/CVE-2023-39709",
-            "date_modified": "2023-08-19T18:35:44.000Z",
-            "date_published": "2023-08-19T18:35:44.000Z",
             "author": {
                 "name": "Arajawat007",
                 "url": "https://github.com/Arajawat007"
