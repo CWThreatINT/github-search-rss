@@ -6,14 +6,25 @@
     "description": "CVE-2023 FEED on GitHub",
     "items": [
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/18223385?u=5ba29c1a9447ae88a6a0433f44038f47471e11c1&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>TOP All bugbounty pentesting CVE-2023- POC Exp  RCE example payload  Things</div>",
-            "url": "https://github.com/hktalent/TOP",
-            "title": "hktalent/TOP: TOP All bugbounty pentesting CVE-2023- POC Exp  RCE example payload  Things",
-            "date_modified": "2023-08-21T21:11:52.000Z",
-            "date_published": "2022-03-19T01:54:15.000Z",
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/142856918?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>POC Citrix vulnerability scanner. Auto Exploit</div>",
+            "url": "https://github.com/knitteruntil0s/CVE-2023-3519",
+            "title": "knitteruntil0s/CVE-2023-3519: POC Citrix vulnerability scanner. Auto Exploit",
+            "date_modified": "2023-08-22T01:36:06.000Z",
+            "date_published": "2023-08-22T01:33:01.000Z",
             "author": {
-                "name": "hktalent",
-                "url": "https://github.com/hktalent"
+                "name": "knitteruntil0s",
+                "url": "https://github.com/knitteruntil0s"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/142855900?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>POC WinRAR vulnerable to remote code execution,</div>",
+            "url": "https://github.com/whalersplonk/CVE-2023-40477",
+            "title": "whalersplonk/CVE-2023-40477: POC WinRAR vulnerable to remote code execution,",
+            "date_modified": "2023-08-22T01:11:05.000Z",
+            "date_published": "2023-08-22T01:10:53.000Z",
+            "author": {
+                "name": "whalersplonk",
+                "url": "https://github.com/whalersplonk"
             }
         },
         {
@@ -25,6 +36,17 @@
             "author": {
                 "name": "CVEProject",
                 "url": "https://github.com/CVEProject"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/18223385?u=5ba29c1a9447ae88a6a0433f44038f47471e11c1&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>TOP All bugbounty pentesting CVE-2023- POC Exp  RCE example payload  Things</div>",
+            "url": "https://github.com/hktalent/TOP",
+            "title": "hktalent/TOP: TOP All bugbounty pentesting CVE-2023- POC Exp  RCE example payload  Things",
+            "date_modified": "2023-08-21T21:11:52.000Z",
+            "date_published": "2022-03-19T01:54:15.000Z",
+            "author": {
+                "name": "hktalent",
+                "url": "https://github.com/hktalent"
             }
         },
         {
@@ -108,7 +130,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/112363374?u=70ea8282709585c39f78be76f2b11882eb06197c&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
             "url": "https://github.com/passwa11/HITCON-2023-Demo-CVE-2023-20562",
             "title": "passwa11/HITCON-2023-Demo-CVE-2023-20562",
-            "date_modified": "2023-08-21T15:20:24.000Z",
+            "date_modified": "2023-08-22T00:59:28.000Z",
             "date_published": "2023-08-21T06:25:09.000Z",
             "author": {
                 "name": "passwa11",
@@ -141,7 +163,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/10403781?u=c3370c61f020003fff5927dac120ddb90683e079&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2023-36874 PoC</div>",
             "url": "https://github.com/d0rb/CVE-2023-36874",
             "title": "d0rb/CVE-2023-36874: CVE-2023-36874 PoC",
-            "date_modified": "2023-08-21T23:20:53.000Z",
+            "date_modified": "2023-08-22T01:33:01.000Z",
             "date_published": "2023-08-20T13:50:42.000Z",
             "author": {
                 "name": "d0rb",
@@ -198,28 +220,6 @@
             "title": "Arajawat007/CVE-2023-39708",
             "date_modified": "2023-08-19T19:02:24.000Z",
             "date_published": "2023-08-19T19:02:23.000Z",
-            "author": {
-                "name": "Arajawat007",
-                "url": "https://github.com/Arajawat007"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/122021278?u=c118a444baf5f03596c6966f264b867f583f947f&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
-            "url": "https://github.com/Arajawat007/CVE-2023-39707",
-            "title": "Arajawat007/CVE-2023-39707",
-            "date_modified": "2023-08-19T17:35:39.000Z",
-            "date_published": "2023-08-19T17:35:39.000Z",
-            "author": {
-                "name": "Arajawat007",
-                "url": "https://github.com/Arajawat007"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/122021278?u=c118a444baf5f03596c6966f264b867f583f947f&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
-            "url": "https://github.com/Arajawat007/CVE-2023-39714",
-            "title": "Arajawat007/CVE-2023-39714",
-            "date_modified": "2023-08-19T18:47:27.000Z",
-            "date_published": "2023-08-19T18:47:27.000Z",
             "author": {
                 "name": "Arajawat007",
                 "url": "https://github.com/Arajawat007"
