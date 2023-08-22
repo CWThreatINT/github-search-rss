@@ -6,6 +6,17 @@
     "description": "CVE-2023 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/331209?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
+            "url": "https://github.com/mandiant/citrix-ioc-scanner-cve-2023-3519",
+            "title": "mandiant/citrix-ioc-scanner-cve-2023-3519",
+            "date_modified": "2023-08-21T17:20:43.000Z",
+            "date_published": "2023-08-10T18:22:57.000Z",
+            "author": {
+                "name": "mandiant",
+                "url": "https://github.com/mandiant"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/121168405?u=9e6775b04cdb3247a9fcb16c1d06a187462e97e4&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2023-36874 Proof of Concept</div>",
             "url": "https://github.com/c4m3l-security/CVE-2023-36874",
             "title": "c4m3l-security/CVE-2023-36874: CVE-2023-36874 Proof of Concept",
@@ -174,7 +185,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/10403781?u=c3370c61f020003fff5927dac120ddb90683e079&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2023-36874 PoC</div>",
             "url": "https://github.com/d0rb/CVE-2023-36874",
             "title": "d0rb/CVE-2023-36874: CVE-2023-36874 PoC",
-            "date_modified": "2023-08-22T07:49:15.000Z",
+            "date_modified": "2023-08-22T12:18:01.000Z",
             "date_published": "2023-08-20T13:50:42.000Z",
             "author": {
                 "name": "d0rb",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "codeb0ss",
                 "url": "https://github.com/codeb0ss"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/110206125?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>MOC3ingbird Exploit for Live2D (CVE-2023-27566)</div>",
-            "url": "https://github.com/OpenL2D/moc3ingbird",
-            "title": "OpenL2D/moc3ingbird: MOC3ingbird Exploit for Live2D (CVE-2023-27566)",
-            "date_modified": "2023-06-07T10:55:21.000Z",
-            "date_published": "2023-03-03T01:57:28.000Z",
-            "author": {
-                "name": "OpenL2D",
-                "url": "https://github.com/OpenL2D"
             }
         }
     ]
