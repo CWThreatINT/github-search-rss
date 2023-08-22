@@ -6,6 +6,17 @@
     "description": "CVE-2023 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/121168405?u=9e6775b04cdb3247a9fcb16c1d06a187462e97e4&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2023-36874 Proof of Concept</div>",
+            "url": "https://github.com/c4m3l-security/CVE-2023-36874",
+            "title": "c4m3l-security/CVE-2023-36874: CVE-2023-36874 Proof of Concept",
+            "date_modified": "2023-08-21T22:12:22.000Z",
+            "date_published": "2023-08-21T22:04:28.000Z",
+            "author": {
+                "name": "c4m3l-security",
+                "url": "https://github.com/c4m3l-security"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/142857480?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>POC Microsoft SharePoint Remote Code Execution Vulnerability</div>",
             "url": "https://github.com/hipnesspatten/CVE-2023-33157",
             "title": "hipnesspatten/CVE-2023-33157: POC Microsoft SharePoint Remote Code Execution Vulnerability",
@@ -58,17 +69,6 @@
             "author": {
                 "name": "hktalent",
                 "url": "https://github.com/hktalent"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/121168405?u=9e6775b04cdb3247a9fcb16c1d06a187462e97e4&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2023-36874 Proof of Concept</div>",
-            "url": "https://github.com/c4m3l-security/CVE-2023-36874",
-            "title": "c4m3l-security/CVE-2023-36874: CVE-2023-36874 Proof of Concept",
-            "date_modified": "2023-08-21T22:12:22.000Z",
-            "date_published": "2023-08-21T22:04:28.000Z",
-            "author": {
-                "name": "c4m3l-security",
-                "url": "https://github.com/c4m3l-security"
             }
         },
         {
