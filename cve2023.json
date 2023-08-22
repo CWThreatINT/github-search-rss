@@ -6,6 +6,28 @@
     "description": "CVE-2023 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/142857480?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>POC Microsoft SharePoint Remote Code Execution Vulnerability</div>",
+            "url": "https://github.com/hipnesspatten/CVE-2023-33157",
+            "title": "hipnesspatten/CVE-2023-33157: POC Microsoft SharePoint Remote Code Execution Vulnerability",
+            "date_modified": "2023-08-22T02:01:25.000Z",
+            "date_published": "2023-08-22T02:01:04.000Z",
+            "author": {
+                "name": "hipnesspatten",
+                "url": "https://github.com/hipnesspatten"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/142857480?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>POC Microsoft SharePoint Server Remote Code Execution Vulnerability</div>",
+            "url": "https://github.com/hipnesspatten/CVE-2023-33160",
+            "title": "hipnesspatten/CVE-2023-33160: POC Microsoft SharePoint Server Remote Code Execution Vulnerability",
+            "date_modified": "2023-08-22T02:00:42.000Z",
+            "date_published": "2023-08-22T02:00:13.000Z",
+            "author": {
+                "name": "hipnesspatten",
+                "url": "https://github.com/hipnesspatten"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/142856918?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>POC Citrix vulnerability scanner. Auto Exploit</div>",
             "url": "https://github.com/knitteruntil0s/CVE-2023-3519",
             "title": "knitteruntil0s/CVE-2023-3519: POC Citrix vulnerability scanner. Auto Exploit",
@@ -163,7 +185,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/10403781?u=c3370c61f020003fff5927dac120ddb90683e079&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2023-36874 PoC</div>",
             "url": "https://github.com/d0rb/CVE-2023-36874",
             "title": "d0rb/CVE-2023-36874: CVE-2023-36874 PoC",
-            "date_modified": "2023-08-22T01:33:01.000Z",
+            "date_modified": "2023-08-22T02:10:37.000Z",
             "date_published": "2023-08-20T13:50:42.000Z",
             "author": {
                 "name": "d0rb",
@@ -201,28 +223,6 @@
             "author": {
                 "name": "codeb0ss",
                 "url": "https://github.com/codeb0ss"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/110206125?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>MOC3ingbird Exploit for Live2D (CVE-2023-27566)</div>",
-            "url": "https://github.com/OpenL2D/moc3ingbird",
-            "title": "OpenL2D/moc3ingbird: MOC3ingbird Exploit for Live2D (CVE-2023-27566)",
-            "date_modified": "2023-06-07T10:55:21.000Z",
-            "date_published": "2023-03-03T01:57:28.000Z",
-            "author": {
-                "name": "OpenL2D",
-                "url": "https://github.com/OpenL2D"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/122021278?u=c118a444baf5f03596c6966f264b867f583f947f&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
-            "url": "https://github.com/Arajawat007/CVE-2023-39708",
-            "title": "Arajawat007/CVE-2023-39708",
-            "date_modified": "2023-08-19T19:02:24.000Z",
-            "date_published": "2023-08-19T19:02:23.000Z",
-            "author": {
-                "name": "Arajawat007",
-                "url": "https://github.com/Arajawat007"
             }
         }
     ]
