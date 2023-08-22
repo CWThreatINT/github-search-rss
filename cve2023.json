@@ -39,17 +39,6 @@
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/142855900?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>POC WinRAR vulnerable to remote code execution,</div>",
-            "url": "https://github.com/whalersplonk/CVE-2023-40477",
-            "title": "whalersplonk/CVE-2023-40477: POC WinRAR vulnerable to remote code execution,",
-            "date_modified": "2023-08-22T05:10:05.000Z",
-            "date_published": "2023-08-22T01:10:53.000Z",
-            "author": {
-                "name": "whalersplonk",
-                "url": "https://github.com/whalersplonk"
-            }
-        },
-        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/18195825?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023</div>",
             "url": "https://github.com/CVEProject/cvelist",
             "title": "CVEProject/cvelist: Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023",
@@ -174,7 +163,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/33378686?u=3a21efbd8687b0ab923bc014010287ba19641d9d&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
             "url": "https://github.com/zeze-zeze/HITCON-2023-Demo-CVE-2023-20562",
             "title": "zeze-zeze/HITCON-2023-Demo-CVE-2023-20562",
-            "date_modified": "2023-08-22T06:01:30.000Z",
+            "date_modified": "2023-08-22T06:50:48.000Z",
             "date_published": "2023-08-21T00:31:50.000Z",
             "author": {
                 "name": "zeze-zeze",
@@ -185,7 +174,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/10403781?u=c3370c61f020003fff5927dac120ddb90683e079&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2023-36874 PoC</div>",
             "url": "https://github.com/d0rb/CVE-2023-36874",
             "title": "d0rb/CVE-2023-36874: CVE-2023-36874 PoC",
-            "date_modified": "2023-08-22T05:40:04.000Z",
+            "date_modified": "2023-08-22T06:36:21.000Z",
             "date_published": "2023-08-20T13:50:42.000Z",
             "author": {
                 "name": "d0rb",
@@ -223,6 +212,17 @@
             "author": {
                 "name": "codeb0ss",
                 "url": "https://github.com/codeb0ss"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/110206125?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>MOC3ingbird Exploit for Live2D (CVE-2023-27566)</div>",
+            "url": "https://github.com/OpenL2D/moc3ingbird",
+            "title": "OpenL2D/moc3ingbird: MOC3ingbird Exploit for Live2D (CVE-2023-27566)",
+            "date_modified": "2023-06-07T10:55:21.000Z",
+            "date_published": "2023-03-03T01:57:28.000Z",
+            "author": {
+                "name": "OpenL2D",
+                "url": "https://github.com/OpenL2D"
             }
         }
     ]
