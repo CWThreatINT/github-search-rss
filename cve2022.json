@@ -6,6 +6,17 @@
     "description": "CVE-2022 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/25763545?u=d8e38eba3b246799d65e4da3a51451c295b79a2c&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2022-2588</div>",
+            "url": "https://github.com/veritas501/CVE-2022-2588",
+            "title": "veritas501/CVE-2022-2588: CVE-2022-2588",
+            "date_modified": "2023-08-19T10:29:25.000Z",
+            "date_published": "2023-03-02T07:45:22.000Z",
+            "author": {
+                "name": "veritas501",
+                "url": "https://github.com/veritas501"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/132866139?u=1c979224156b600307ff7b92e5f8859fb5846f78&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Dockerized POC for CVE-2022-42889 Text4Shell</div>",
             "url": "https://github.com/aaronm-sysdig/text4shell-docker",
             "title": "aaronm-sysdig/text4shell-docker: Dockerized POC for CVE-2022-42889 Text4Shell",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "K3ysTr0K3R",
                 "url": "https://github.com/K3ysTr0K3R"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/51722811?u=a195458fc64bade6e8616d1d5c43883f0abde0c0&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Sitemap by click5 &lt; 1.0.36 - Unauthenticated Arbitrary Options Update</div>",
-            "url": "https://github.com/RandomRobbieBF/CVE-2022-0952",
-            "title": "RandomRobbieBF/CVE-2022-0952: Sitemap by click5 < 1.0.36 - Unauthenticated Arbitrary Options Update",
-            "date_modified": "2023-08-11T13:25:45.000Z",
-            "date_published": "2023-08-07T14:28:11.000Z",
-            "author": {
-                "name": "RandomRobbieBF",
-                "url": "https://github.com/RandomRobbieBF"
             }
         }
     ]
