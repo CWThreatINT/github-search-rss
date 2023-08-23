@@ -17,6 +17,17 @@
             }
         },
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/105647610?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Spipu Html2Pdf &lt; 5.2.8 - XSS vulnerabilities in example files</div>",
+            "url": "https://github.com/afine-com/CVE-2023-39062",
+            "title": "afine-com/CVE-2023-39062: Spipu Html2Pdf < 5.2.8 - XSS vulnerabilities in example files",
+            "date_modified": "2023-08-23T21:07:24.000Z",
+            "date_published": "2023-08-23T21:07:24.000Z",
+            "author": {
+                "name": "afine-com",
+                "url": "https://github.com/afine-com"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/46203546?u=cd409fceca20e30854863c76d713dac01e7eea7a&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Cargo exploit from CVE-2023-38497</div>",
             "url": "https://github.com/lucas-cauhe/cargo-perm",
             "title": "lucas-cauhe/cargo-perm: Cargo exploit from CVE-2023-38497",
@@ -42,7 +53,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/44291883?u=481f1771eecd4081b187c0f6983094ac5350a41b&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
             "url": "https://github.com/Wh04m1001/CVE-2023-36874",
             "title": "Wh04m1001/CVE-2023-36874",
-            "date_modified": "2023-08-23T20:43:27.000Z",
+            "date_modified": "2023-08-23T21:44:19.000Z",
             "date_published": "2023-08-23T12:07:40.000Z",
             "author": {
                 "name": "Wh04m1001",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "zeze-zeze",
                 "url": "https://github.com/zeze-zeze"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/10403781?u=c3370c61f020003fff5927dac120ddb90683e079&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2023-36874 PoC</div>",
-            "url": "https://github.com/d0rb/CVE-2023-36874",
-            "title": "d0rb/CVE-2023-36874: CVE-2023-36874 PoC",
-            "date_modified": "2023-08-23T18:28:27.000Z",
-            "date_published": "2023-08-20T13:50:42.000Z",
-            "author": {
-                "name": "d0rb",
-                "url": "https://github.com/d0rb"
             }
         }
     ]
