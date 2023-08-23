@@ -6,6 +6,17 @@
     "description": "CVE-2022 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/88584206?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Turning Your Computer Into a GPS Tracker With Apple Maps</div>",
+            "url": "https://github.com/breakpointHQ/CVE-2022-32883",
+            "title": "breakpointHQ/CVE-2022-32883: Turning Your Computer Into a GPS Tracker With Apple Maps",
+            "date_modified": "2023-06-12T22:39:24.000Z",
+            "date_published": "2022-09-18T15:51:52.000Z",
+            "author": {
+                "name": "breakpointHQ",
+                "url": "https://github.com/breakpointHQ"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/12976017?u=6d3d423fda6a56643a0ca1acae5223cdf08a3c28&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>User can execute unsigned binaries with BootROM privileges, which can be used to unlock bootloader</div>",
             "url": "https://github.com/TomKing062/CVE-2022-38694_unlock_bootloader",
             "title": "TomKing062/CVE-2022-38694_unlock_bootloader: User can execute unsigned binaries with BootROM privileges, which can be used to unlock bootloader",
@@ -25,17 +36,6 @@
             "author": {
                 "name": "0xRyuk",
                 "url": "https://github.com/0xRyuk"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/88584206?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Turning Your Computer Into a GPS Tracker With Apple Maps</div>",
-            "url": "https://github.com/breakpointHQ/CVE-2022-32883",
-            "title": "breakpointHQ/CVE-2022-32883: Turning Your Computer Into a GPS Tracker With Apple Maps",
-            "date_modified": "2023-06-12T22:39:24.000Z",
-            "date_published": "2022-09-18T15:51:52.000Z",
-            "author": {
-                "name": "breakpointHQ",
-                "url": "https://github.com/breakpointHQ"
             }
         },
         {
