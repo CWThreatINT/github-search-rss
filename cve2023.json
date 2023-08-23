@@ -9,11 +9,22 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/18195825?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023</div>",
             "url": "https://github.com/CVEProject/cvelist",
             "title": "CVEProject/cvelist: Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023",
-            "date_modified": "2023-08-23T01:45:47.000Z",
+            "date_modified": "2023-08-23T06:04:37.000Z",
             "date_published": "2020-11-02T19:30:55.000Z",
             "author": {
                 "name": "CVEProject",
                 "url": "https://github.com/CVEProject"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/43614862?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Lab environment to test CVE-2023-25725</div>",
+            "url": "https://github.com/sgwgsw/LAB-CVE-2023-25725",
+            "title": "sgwgsw/LAB-CVE-2023-25725: Lab environment to test CVE-2023-25725",
+            "date_modified": "2023-08-23T05:19:20.000Z",
+            "date_published": "2023-08-23T04:32:54.000Z",
+            "author": {
+                "name": "sgwgsw",
+                "url": "https://github.com/sgwgsw"
             }
         },
         {
@@ -209,17 +220,6 @@
             "title": "d0rb/CVE-2023-36874: CVE-2023-36874 PoC",
             "date_modified": "2023-08-23T01:33:52.000Z",
             "date_published": "2023-08-20T13:50:42.000Z",
-            "author": {
-                "name": "d0rb",
-                "url": "https://github.com/d0rb"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/10403781?u=c3370c61f020003fff5927dac120ddb90683e079&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2023-37979 PoC and Checker</div>",
-            "url": "https://github.com/d0rb/CVE-2023-37979",
-            "title": "d0rb/CVE-2023-37979: CVE-2023-37979 PoC and Checker",
-            "date_modified": "2023-08-21T08:56:47.000Z",
-            "date_published": "2023-08-04T10:31:53.000Z",
             "author": {
                 "name": "d0rb",
                 "url": "https://github.com/d0rb"
