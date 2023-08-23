@@ -28,6 +28,17 @@
             }
         },
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/25763545?u=d8e38eba3b246799d65e4da3a51451c295b79a2c&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2022-2588</div>",
+            "url": "https://github.com/veritas501/CVE-2022-2588",
+            "title": "veritas501/CVE-2022-2588: CVE-2022-2588",
+            "date_modified": "2023-08-23T02:49:28.000Z",
+            "date_published": "2023-03-02T07:45:22.000Z",
+            "author": {
+                "name": "veritas501",
+                "url": "https://github.com/veritas501"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/132866139?u=1c979224156b600307ff7b92e5f8859fb5846f78&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Dockerized POC for CVE-2022-42889 Text4Shell</div>",
             "url": "https://github.com/aaronm-sysdig/text4shell-docker",
             "title": "aaronm-sysdig/text4shell-docker: Dockerized POC for CVE-2022-42889 Text4Shell",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "chairat095",
                 "url": "https://github.com/chairat095"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/70909693?u=623cdd16249501e7d4f74b743a81017fc3b4de3a&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A PoC exploit for CVE-2022-0165 - Page Builder KingComposer WordPress Plugin - ID Parameter Validation Bypass</div>",
-            "url": "https://github.com/K3ysTr0K3R/CVE-2022-0165-EXPLOIT",
-            "title": "K3ysTr0K3R/CVE-2022-0165-EXPLOIT: A PoC exploit for CVE-2022-0165 - Page Builder KingComposer WordPress Plugin - ID Parameter Validation Bypass",
-            "date_modified": "2023-08-09T12:01:12.000Z",
-            "date_published": "2023-08-09T11:53:18.000Z",
-            "author": {
-                "name": "K3ysTr0K3R",
-                "url": "https://github.com/K3ysTr0K3R"
             }
         }
     ]
