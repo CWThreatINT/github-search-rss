@@ -6,6 +6,17 @@
     "description": "CVE-2022 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/51345640?u=ac76ed6d5a99dc3a44d9eb88e997f98052cfba3d&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>bash script for automated discovery and exploitation of machines with the CVE-2022-39986 vulnerability</div>",
+            "url": "https://github.com/mind2hex/RaspAP_Hunter",
+            "title": "mind2hex/RaspAP_Hunter: bash script for automated discovery and exploitation of machines with the CVE-2022-39986 vulnerability",
+            "date_modified": "2023-08-24T17:00:19.000Z",
+            "date_published": "2023-08-24T16:48:27.000Z",
+            "author": {
+                "name": "mind2hex",
+                "url": "https://github.com/mind2hex"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/76675355?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>This is to create ruby version to python of ruby exploit</div>",
             "url": "https://github.com/0nyx-hkr/cve_2022_26904",
             "title": "0nyx-hkr/cve_2022_26904: This is to create ruby version to python of ruby exploit",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "Nithisssh",
                 "url": "https://github.com/Nithisssh"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/105838328?u=b8a060408db6457033f7fdb56090a0e376f8a4f1&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A quick python script that automates the exploitation of the second deadliest Java based vulnerability CVE-2022-22965.</div>",
-            "url": "https://github.com/h4ck0rman/Spring4Shell-PoC",
-            "title": "h4ck0rman/Spring4Shell-PoC: A quick python script that automates the exploitation of the second deadliest Java based vulnerability CVE-2022-22965.",
-            "date_modified": "2023-08-13T11:42:23.000Z",
-            "date_published": "2023-08-13T11:42:22.000Z",
-            "author": {
-                "name": "h4ck0rman",
-                "url": "https://github.com/h4ck0rman"
             }
         }
     ]
