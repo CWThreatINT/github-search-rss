@@ -17,6 +17,17 @@
             }
         },
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/36996899?u=c4d98d8b801afd1c93e4635631397fcd996aab4a&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>POC of the CVE-2023-39063</div>",
+            "url": "https://github.com/AndreGNogueira/CVE-2023-39063",
+            "title": "AndreGNogueira/CVE-2023-39063: POC of the CVE-2023-39063",
+            "date_modified": "2023-08-25T08:39:21.000Z",
+            "date_published": "2023-08-24T20:57:27.000Z",
+            "author": {
+                "name": "AndreGNogueira",
+                "url": "https://github.com/AndreGNogueira"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/45532566?u=217f4c2635764fc9a5710e81aab14a97ba8cea86&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Exploit for file upload vulnerability in BoidCMS version &lt;=2.0.0</div>",
             "url": "https://github.com/1337kid/CVE-2023-38836",
             "title": "1337kid/CVE-2023-38836: Exploit for file upload vulnerability in BoidCMS version <=2.0.0",
@@ -42,7 +53,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/91164728?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Weaponized CobaltStrike BOF for CVE-2023-36874 Windows Error Reporting LPE</div>",
             "url": "https://github.com/Octoberfest7/CVE-2023-36874_BOF",
             "title": "Octoberfest7/CVE-2023-36874_BOF: Weaponized CobaltStrike BOF for CVE-2023-36874 Windows Error Reporting LPE",
-            "date_modified": "2023-08-25T07:58:00.000Z",
+            "date_modified": "2023-08-25T08:55:30.000Z",
             "date_published": "2023-08-24T22:24:34.000Z",
             "author": {
                 "name": "Octoberfest7",
@@ -86,7 +97,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/38662926?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>lazy way to create CVE-2023-38831 winrar file for testing</div>",
             "url": "https://github.com/BoredHackerBlog/winrar_CVE-2023-38831_lazy_poc",
             "title": "BoredHackerBlog/winrar_CVE-2023-38831_lazy_poc: lazy way to create CVE-2023-38831 winrar file for testing",
-            "date_modified": "2023-08-25T08:05:14.000Z",
+            "date_modified": "2023-08-25T08:54:01.000Z",
             "date_published": "2023-08-24T16:03:07.000Z",
             "author": {
                 "name": "BoredHackerBlog",
@@ -174,7 +185,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/44291883?u=481f1771eecd4081b187c0f6983094ac5350a41b&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
             "url": "https://github.com/Wh04m1001/CVE-2023-36874",
             "title": "Wh04m1001/CVE-2023-36874",
-            "date_modified": "2023-08-25T07:17:01.000Z",
+            "date_modified": "2023-08-25T08:51:10.000Z",
             "date_published": "2023-08-23T12:07:40.000Z",
             "author": {
                 "name": "Wh04m1001",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "crisprss",
                 "url": "https://github.com/crisprss"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/142856918?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>POC Citrix vulnerability scanner. Auto Exploit</div>",
-            "url": "https://github.com/knitteruntil0s/CVE-2023-3519",
-            "title": "knitteruntil0s/CVE-2023-3519: POC Citrix vulnerability scanner. Auto Exploit",
-            "date_modified": "2023-08-22T20:47:39.000Z",
-            "date_published": "2023-08-22T01:33:01.000Z",
-            "author": {
-                "name": "knitteruntil0s",
-                "url": "https://github.com/knitteruntil0s"
             }
         }
     ]
