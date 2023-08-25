@@ -17,10 +17,32 @@
             }
         },
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/45532566?u=217f4c2635764fc9a5710e81aab14a97ba8cea86&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Exploit for file upload vulnerability in BoidCMS version &lt;=2.0.0</div>",
+            "url": "https://github.com/1337kid/CVE-2023-38836",
+            "title": "1337kid/CVE-2023-38836: Exploit for file upload vulnerability in BoidCMS version <=2.0.0",
+            "date_modified": "2023-08-17T06:43:52.000Z",
+            "date_published": "2023-08-16T14:30:30.000Z",
+            "author": {
+                "name": "1337kid",
+                "url": "https://github.com/1337kid"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/68693571?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2023-38035 Recon oriented exploit, extract company name contact information</div>",
+            "url": "https://github.com/LeakIX/sentryexploit",
+            "title": "LeakIX/sentryexploit: CVE-2023-38035 Recon oriented exploit, extract company name contact information",
+            "date_modified": "2023-08-25T04:26:16.000Z",
+            "date_published": "2023-08-24T19:26:57.000Z",
+            "author": {
+                "name": "LeakIX",
+                "url": "https://github.com/LeakIX"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/91164728?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Weaponized CobaltStrike BOF for CVE-2023-36874 Windows Error Reporting LPE</div>",
             "url": "https://github.com/Octoberfest7/CVE-2023-36874_BOF",
             "title": "Octoberfest7/CVE-2023-36874_BOF: Weaponized CobaltStrike BOF for CVE-2023-36874 Windows Error Reporting LPE",
-            "date_modified": "2023-08-25T03:27:17.000Z",
+            "date_modified": "2023-08-25T05:00:43.000Z",
             "date_published": "2023-08-24T22:24:34.000Z",
             "author": {
                 "name": "Octoberfest7",
@@ -36,17 +58,6 @@
             "author": {
                 "name": "hktalent",
                 "url": "https://github.com/hktalent"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/68693571?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2023-38035 Recon oriented exploit, extract company name contact information</div>",
-            "url": "https://github.com/LeakIX/sentryexploit",
-            "title": "LeakIX/sentryexploit: CVE-2023-38035 Recon oriented exploit, extract company name contact information",
-            "date_modified": "2023-08-25T00:48:12.000Z",
-            "date_published": "2023-08-24T19:26:57.000Z",
-            "author": {
-                "name": "LeakIX",
-                "url": "https://github.com/LeakIX"
             }
         },
         {
@@ -212,17 +223,6 @@
             "author": {
                 "name": "knitteruntil0s",
                 "url": "https://github.com/knitteruntil0s"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/26215963?u=65d5810cd399acdfb62aa2bb6e6cbf44e1190daa&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
-            "url": "https://github.com/3tternp/CVE-2023-21554",
-            "title": "3tternp/CVE-2023-21554",
-            "date_modified": "2023-08-23T06:36:24.000Z",
-            "date_published": "2023-08-17T17:16:46.000Z",
-            "author": {
-                "name": "3tternp",
-                "url": "https://github.com/3tternp"
             }
         }
     ]
