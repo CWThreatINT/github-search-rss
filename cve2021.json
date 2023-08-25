@@ -6,6 +6,17 @@
     "description": "CVE-2021 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/70909693?u=623cdd16249501e7d4f74b743a81017fc3b4de3a&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A PoC exploit for CVE-2021-42013 - Apache 2.4.49 &amp; 2.4.50 Remote Code Execution</div>",
+            "url": "https://github.com/K3ysTr0K3R/CVE-2021-42013-EXPLOIT",
+            "title": "K3ysTr0K3R/CVE-2021-42013-EXPLOIT: A PoC exploit for CVE-2021-42013 - Apache 2.4.49 & 2.4.50 Remote Code Execution",
+            "date_modified": "2023-08-25T20:00:43.000Z",
+            "date_published": "2023-08-25T19:51:01.000Z",
+            "author": {
+                "name": "K3ysTr0K3R",
+                "url": "https://github.com/K3ysTr0K3R"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/46397588?u=05f60a95e0a18edbe517106f6a8f3c8259e2d3a4&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
             "url": "https://github.com/jaysharma786/CVE-2021-29003",
             "title": "jaysharma786/CVE-2021-29003",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "mklinkj",
                 "url": "https://github.com/mklinkj"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/20441996?u=3158fb9cb09574ff2fe2358ea7124113adb3a1ab&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Vulnerable environment of CVE-2021-31805 (S2-062) for testing</div>",
-            "url": "https://github.com/nth347/CVE-2021-31805",
-            "title": "nth347/CVE-2021-31805: Vulnerable environment of CVE-2021-31805 (S2-062) for testing",
-            "date_modified": "2023-08-04T03:46:31.000Z",
-            "date_published": "2023-08-04T03:42:37.000Z",
-            "author": {
-                "name": "nth347",
-                "url": "https://github.com/nth347"
             }
         }
     ]
