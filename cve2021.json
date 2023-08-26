@@ -72,17 +72,6 @@
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/10403781?u=c3370c61f020003fff5927dac120ddb90683e079&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2021-34527 PrintNightmare PoC</div>",
-            "url": "https://github.com/d0rb/CVE-2021-34527",
-            "title": "d0rb/CVE-2021-34527: CVE-2021-34527 PrintNightmare PoC",
-            "date_modified": "2023-08-20T12:06:06.000Z",
-            "date_published": "2023-08-20T12:04:18.000Z",
-            "author": {
-                "name": "d0rb",
-                "url": "https://github.com/d0rb"
-            }
-        },
-        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/5151193?u=a12ac173ce1fac8931cb4d2c9a5e527ac3618e57&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A PrintNightmare (CVE-2021-34527) Python Scanner. Scan entire subnets for hosts vulnerable to the PrintNightmare RCE</div>",
             "url": "https://github.com/byt3bl33d3r/ItWasAllADream",
             "title": "byt3bl33d3r/ItWasAllADream: A PrintNightmare (CVE-2021-34527) Python Scanner. Scan entire subnets for hosts vulnerable to the PrintNightmare RCE",
@@ -215,14 +204,25 @@
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/96992046?u=10ff657463449006c9ad8d00672aeff375f7d18c&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Log4j2 LDAP 취약점 테스트 (CVE-2021-44228)</div>",
-            "url": "https://github.com/mklinkj/log4j2-test",
-            "title": "mklinkj/log4j2-test: Log4j2 LDAP 취약점 테스트 (CVE-2021-44228)",
-            "date_modified": "2022-01-09T19:59:25.000Z",
-            "date_published": "2022-01-03T04:36:41.000Z",
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/3830775?u=ae6685722687541cd30b0f7f3357fe3eccb58af0&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Check and report for cve_2021_44228 (log4shell) on your system.</div>",
+            "url": "https://github.com/robertdebock/ansible-role-cve_2021_44228",
+            "title": "robertdebock/ansible-role-cve_2021_44228: Check and report for cve_2021_44228 (log4shell) on your system.",
+            "date_modified": "2023-06-13T06:13:27.000Z",
+            "date_published": "2021-12-15T14:53:17.000Z",
             "author": {
-                "name": "mklinkj",
-                "url": "https://github.com/mklinkj"
+                "name": "robertdebock",
+                "url": "https://github.com/robertdebock"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/104366208?u=6a1e0749a7a11e433d3db853344a7106057fed52&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Exploit CVE-2021-41773 and CVE-2021-42013</div>",
+            "url": "https://github.com/OfriOuzan/CVE-2021-41773_CVE-2021-42013_Exploits",
+            "title": "OfriOuzan/CVE-2021-41773_CVE-2021-42013_Exploits: Exploit CVE-2021-41773 and CVE-2021-42013",
+            "date_modified": "2023-08-08T11:46:05.000Z",
+            "date_published": "2023-08-02T09:50:10.000Z",
+            "author": {
+                "name": "OfriOuzan",
+                "url": "https://github.com/OfriOuzan"
             }
         }
     ]
