@@ -6,6 +6,17 @@
     "description": "CVE-2023 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/105647610?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Spipu Html2Pdf &lt; 5.2.8 - XSS vulnerabilities in example files</div>",
+            "url": "https://github.com/afine-com/CVE-2023-39062",
+            "title": "afine-com/CVE-2023-39062: Spipu Html2Pdf < 5.2.8 - XSS vulnerabilities in example files",
+            "date_modified": "2023-08-23T21:07:24.000Z",
+            "date_published": "2023-08-23T21:07:24.000Z",
+            "author": {
+                "name": "afine-com",
+                "url": "https://github.com/afine-com"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/18195825?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023</div>",
             "url": "https://github.com/CVEProject/cvelist",
             "title": "CVEProject/cvelist: Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023",
@@ -174,7 +185,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/91164728?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Weaponized CobaltStrike BOF for CVE-2023-36874 Windows Error Reporting LPE</div>",
             "url": "https://github.com/Octoberfest7/CVE-2023-36874_BOF",
             "title": "Octoberfest7/CVE-2023-36874_BOF: Weaponized CobaltStrike BOF for CVE-2023-36874 Windows Error Reporting LPE",
-            "date_modified": "2023-08-26T18:06:16.000Z",
+            "date_modified": "2023-08-26T19:30:42.000Z",
             "date_published": "2023-08-24T22:24:34.000Z",
             "author": {
                 "name": "Octoberfest7",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "BoredHackerBlog",
                 "url": "https://github.com/BoredHackerBlog"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/82097150?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>The largest hacking program with new tools CVE-2023-PoC for the year 2023 It contains all the attack and exploitation tools for testing websites, as well as a graphical interface to facilitate its use for beginners</div>",
-            "url": "https://github.com/abrahim7112/hackers_CVE_2023_poc",
-            "title": "abrahim7112/hackers_CVE_2023_poc: The largest hacking program with new tools CVE-2023-PoC for the year 2023 It contains all the attack and exploitation tools for testing websites, as well as a graphical interface to facilitate its use for beginners",
-            "date_modified": "2023-08-24T05:40:16.000Z",
-            "date_published": "2023-07-23T20:33:17.000Z",
-            "author": {
-                "name": "abrahim7112",
-                "url": "https://github.com/abrahim7112"
             }
         }
     ]
