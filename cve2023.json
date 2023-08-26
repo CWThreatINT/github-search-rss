@@ -6,17 +6,6 @@
     "description": "CVE-2023 FEED on GitHub",
     "items": [
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/135759201?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Mass Exploit - CVE-2023-38388 &lt; Unauthenticated &lt; Arbitrary File Upload</div>",
-            "url": "https://github.com/codeb0ss/CVE-2023-38388",
-            "title": "codeb0ss/CVE-2023-38388: Mass Exploit - CVE-2023-38388 < Unauthenticated < Arbitrary File Upload",
-            "date_modified": "2023-08-26T05:59:58.000Z",
-            "date_published": "2023-08-26T05:51:06.000Z",
-            "author": {
-                "name": "codeb0ss",
-                "url": "https://github.com/codeb0ss"
-            }
-        },
-        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/18195825?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023</div>",
             "url": "https://github.com/CVEProject/cvelist",
             "title": "CVEProject/cvelist: Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023",
@@ -25,6 +14,28 @@
             "author": {
                 "name": "CVEProject",
                 "url": "https://github.com/CVEProject"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/141109859?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>JDK CVE-2023-21939</div>",
+            "url": "https://github.com/Y4Sec-Team/CVE-2023-21939",
+            "title": "Y4Sec-Team/CVE-2023-21939: JDK CVE-2023-21939",
+            "date_modified": "2023-08-26T06:58:41.000Z",
+            "date_published": "2023-08-26T06:45:26.000Z",
+            "author": {
+                "name": "Y4Sec-Team",
+                "url": "https://github.com/Y4Sec-Team"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/135759201?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Mass Exploit - CVE-2023-38388 &lt; Unauthenticated &lt; Arbitrary File Upload</div>",
+            "url": "https://github.com/codeb0ss/CVE-2023-38388",
+            "title": "codeb0ss/CVE-2023-38388: Mass Exploit - CVE-2023-38388 < Unauthenticated < Arbitrary File Upload",
+            "date_modified": "2023-08-26T05:59:58.000Z",
+            "date_published": "2023-08-26T05:51:06.000Z",
+            "author": {
+                "name": "codeb0ss",
+                "url": "https://github.com/codeb0ss"
             }
         },
         {
@@ -152,7 +163,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/38662926?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>lazy way to create CVE-2023-38831 winrar file for testing</div>",
             "url": "https://github.com/BoredHackerBlog/winrar_CVE-2023-38831_lazy_poc",
             "title": "BoredHackerBlog/winrar_CVE-2023-38831_lazy_poc: lazy way to create CVE-2023-38831 winrar file for testing",
-            "date_modified": "2023-08-26T05:41:19.000Z",
+            "date_modified": "2023-08-26T06:15:22.000Z",
             "date_published": "2023-08-24T16:03:07.000Z",
             "author": {
                 "name": "BoredHackerBlog",
@@ -185,7 +196,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/96908273?u=60b360243ce976b9e178c131aa9a818fd5df74ad&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2023-26255_POC,CVE-2023-26256_POC</div>",
             "url": "https://github.com/aodsec/CVE-2023-26256",
             "title": "aodsec/CVE-2023-26256: CVE-2023-26255_POC,CVE-2023-26256_POC",
-            "date_modified": "2023-08-26T03:00:51.000Z",
+            "date_modified": "2023-08-26T06:33:21.000Z",
             "date_published": "2023-08-24T01:57:00.000Z",
             "author": {
                 "name": "aodsec",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "horizon3ai",
                 "url": "https://github.com/horizon3ai"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/46203546?u=cd409fceca20e30854863c76d713dac01e7eea7a&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Cargo exploit from CVE-2023-38497</div>",
-            "url": "https://github.com/lucas-cauhe/cargo-perm",
-            "title": "lucas-cauhe/cargo-perm: Cargo exploit from CVE-2023-38497",
-            "date_modified": "2023-08-23T18:15:24.000Z",
-            "date_published": "2023-08-04T16:36:10.000Z",
-            "author": {
-                "name": "lucas-cauhe",
-                "url": "https://github.com/lucas-cauhe"
             }
         }
     ]
