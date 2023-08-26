@@ -6,17 +6,6 @@
     "description": "CVE-2023 FEED on GitHub",
     "items": [
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/105647610?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Spipu Html2Pdf &lt; 5.2.8 - XSS vulnerabilities in example files</div>",
-            "url": "https://github.com/afine-com/CVE-2023-39062",
-            "title": "afine-com/CVE-2023-39062: Spipu Html2Pdf < 5.2.8 - XSS vulnerabilities in example files",
-            "date_modified": "2023-08-23T21:07:24.000Z",
-            "date_published": "2023-08-23T21:07:24.000Z",
-            "author": {
-                "name": "afine-com",
-                "url": "https://github.com/afine-com"
-            }
-        },
-        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/18195825?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023</div>",
             "url": "https://github.com/CVEProject/cvelist",
             "title": "CVEProject/cvelist: Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023",
@@ -25,6 +14,17 @@
             "author": {
                 "name": "CVEProject",
                 "url": "https://github.com/CVEProject"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/105647610?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Spipu Html2Pdf &lt; 5.2.8 - XSS vulnerabilities in example files</div>",
+            "url": "https://github.com/afine-com/CVE-2023-39062",
+            "title": "afine-com/CVE-2023-39062: Spipu Html2Pdf < 5.2.8 - XSS vulnerabilities in example files",
+            "date_modified": "2023-08-23T21:07:24.000Z",
+            "date_published": "2023-08-23T21:07:24.000Z",
+            "author": {
+                "name": "afine-com",
+                "url": "https://github.com/afine-com"
             }
         },
         {
@@ -130,7 +130,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/33436708?u=55beb087dc8738fb7c2ca7cf1f1be8a7fea0bb55&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2023-38831 winrar exploit generator</div>",
             "url": "https://github.com/b1tg/CVE-2023-38831-winrar-exploit",
             "title": "b1tg/CVE-2023-38831-winrar-exploit: CVE-2023-38831 winrar exploit generator",
-            "date_modified": "2023-08-26T18:43:42.000Z",
+            "date_modified": "2023-08-26T20:51:15.000Z",
             "date_published": "2023-08-25T09:44:08.000Z",
             "author": {
                 "name": "b1tg",
@@ -152,7 +152,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/99977116?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
             "url": "https://github.com/watchtowrlabs/juniper-rce_cve-2023-36844",
             "title": "watchtowrlabs/juniper-rce_cve-2023-36844",
-            "date_modified": "2023-08-26T16:59:45.000Z",
+            "date_modified": "2023-08-26T21:01:15.000Z",
             "date_published": "2023-08-25T07:28:06.000Z",
             "author": {
                 "name": "watchtowrlabs",
@@ -185,7 +185,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/91164728?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Weaponized CobaltStrike BOF for CVE-2023-36874 Windows Error Reporting LPE</div>",
             "url": "https://github.com/Octoberfest7/CVE-2023-36874_BOF",
             "title": "Octoberfest7/CVE-2023-36874_BOF: Weaponized CobaltStrike BOF for CVE-2023-36874 Windows Error Reporting LPE",
-            "date_modified": "2023-08-26T19:30:42.000Z",
+            "date_modified": "2023-08-26T20:19:56.000Z",
             "date_published": "2023-08-24T22:24:34.000Z",
             "author": {
                 "name": "Octoberfest7",
