@@ -6,6 +6,17 @@
     "description": "CVE-2023 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/135759201?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Mass Exploit - CVE-2023-38388 &lt; Unauthenticated &lt; Arbitrary File Upload</div>",
+            "url": "https://github.com/codeb0ss/CVE-2023-38388",
+            "title": "codeb0ss/CVE-2023-38388: Mass Exploit - CVE-2023-38388 < Unauthenticated < Arbitrary File Upload",
+            "date_modified": "2023-08-26T05:59:58.000Z",
+            "date_published": "2023-08-26T05:51:06.000Z",
+            "author": {
+                "name": "codeb0ss",
+                "url": "https://github.com/codeb0ss"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/18195825?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023</div>",
             "url": "https://github.com/CVEProject/cvelist",
             "title": "CVEProject/cvelist: Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023",
@@ -108,7 +119,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/91164728?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Weaponized CobaltStrike BOF for CVE-2023-36874 Windows Error Reporting LPE</div>",
             "url": "https://github.com/Octoberfest7/CVE-2023-36874_BOF",
             "title": "Octoberfest7/CVE-2023-36874_BOF: Weaponized CobaltStrike BOF for CVE-2023-36874 Windows Error Reporting LPE",
-            "date_modified": "2023-08-26T03:40:20.000Z",
+            "date_modified": "2023-08-26T05:49:23.000Z",
             "date_published": "2023-08-24T22:24:34.000Z",
             "author": {
                 "name": "Octoberfest7",
@@ -141,7 +152,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/38662926?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>lazy way to create CVE-2023-38831 winrar file for testing</div>",
             "url": "https://github.com/BoredHackerBlog/winrar_CVE-2023-38831_lazy_poc",
             "title": "BoredHackerBlog/winrar_CVE-2023-38831_lazy_poc: lazy way to create CVE-2023-38831 winrar file for testing",
-            "date_modified": "2023-08-26T03:26:12.000Z",
+            "date_modified": "2023-08-26T05:41:19.000Z",
             "date_published": "2023-08-24T16:03:07.000Z",
             "author": {
                 "name": "BoredHackerBlog",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "lucas-cauhe",
                 "url": "https://github.com/lucas-cauhe"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/43614862?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Lab environment to test CVE-2023-25725</div>",
-            "url": "https://github.com/sgwgsw/LAB-CVE-2023-25725",
-            "title": "sgwgsw/LAB-CVE-2023-25725: Lab environment to test CVE-2023-25725",
-            "date_modified": "2023-08-23T16:53:12.000Z",
-            "date_published": "2023-08-23T04:32:54.000Z",
-            "author": {
-                "name": "sgwgsw",
-                "url": "https://github.com/sgwgsw"
             }
         }
     ]
