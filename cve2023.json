@@ -6,6 +6,17 @@
     "description": "CVE-2023 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/104743791?u=76a6f1e5a08b4173a03b59f2b02c4d22237b9518&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>一款用于生成winrar程序RCE（即cve-2023-38831）的POC的工具。</div>",
+            "url": "https://github.com/Garck3h/cve-2023-38831",
+            "title": "Garck3h/cve-2023-38831: 一款用于生成winrar程序RCE（即cve-2023-38831）的POC的工具。",
+            "date_modified": "2023-08-27T14:27:09.000Z",
+            "date_published": "2023-08-27T14:08:36.000Z",
+            "author": {
+                "name": "Garck3h",
+                "url": "https://github.com/Garck3h"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/125891350?u=813bbe70eeae02b94de027511805b731dac7fea4&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>POC for CVE-2023-24489 with bash. </div>",
             "url": "https://github.com/whalebone7/CVE-2023-24489-poc",
             "title": "whalebone7/CVE-2023-24489-poc: POC for CVE-2023-24489 with bash. ",
@@ -53,7 +64,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/33436708?u=55beb087dc8738fb7c2ca7cf1f1be8a7fea0bb55&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2023-38831 winrar exploit generator</div>",
             "url": "https://github.com/b1tg/CVE-2023-38831-winrar-exploit",
             "title": "b1tg/CVE-2023-38831-winrar-exploit: CVE-2023-38831 winrar exploit generator",
-            "date_modified": "2023-08-27T13:23:57.000Z",
+            "date_modified": "2023-08-27T14:55:44.000Z",
             "date_published": "2023-08-25T09:44:08.000Z",
             "author": {
                 "name": "b1tg",
@@ -64,7 +75,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/135759201?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Mass Exploit - CVE-2023-38388 &lt; Unauthenticated &lt; Arbitrary File Upload</div>",
             "url": "https://github.com/codeb0ss/CVE-2023-38388",
             "title": "codeb0ss/CVE-2023-38388: Mass Exploit - CVE-2023-38388 < Unauthenticated < Arbitrary File Upload",
-            "date_modified": "2023-08-26T05:59:58.000Z",
+            "date_modified": "2023-08-27T14:09:10.000Z",
             "date_published": "2023-08-26T05:51:06.000Z",
             "author": {
                 "name": "codeb0ss",
@@ -130,7 +141,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/35842766?u=f385df6b9e6a06531ed56f0a335e6cf7c2995ffd&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
             "url": "https://github.com/shiomiyan/CVE-2023-41080",
             "title": "shiomiyan/CVE-2023-41080",
-            "date_modified": "2023-08-27T11:09:13.000Z",
+            "date_modified": "2023-08-27T14:08:42.000Z",
             "date_published": "2023-08-26T15:11:31.000Z",
             "author": {
                 "name": "shiomiyan",
@@ -152,7 +163,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/141109859?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>JDK CVE-2023-21939</div>",
             "url": "https://github.com/Y4Sec-Team/CVE-2023-21939",
             "title": "Y4Sec-Team/CVE-2023-21939: JDK CVE-2023-21939",
-            "date_modified": "2023-08-27T13:34:39.000Z",
+            "date_modified": "2023-08-27T14:47:24.000Z",
             "date_published": "2023-08-26T06:45:26.000Z",
             "author": {
                 "name": "Y4Sec-Team",
@@ -196,7 +207,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/99977116?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
             "url": "https://github.com/watchtowrlabs/juniper-rce_cve-2023-36844",
             "title": "watchtowrlabs/juniper-rce_cve-2023-36844",
-            "date_modified": "2023-08-27T11:09:25.000Z",
+            "date_modified": "2023-08-27T14:38:07.000Z",
             "date_published": "2023-08-25T07:28:06.000Z",
             "author": {
                 "name": "watchtowrlabs",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "1337kid",
                 "url": "https://github.com/1337kid"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/68693571?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2023-38035 Recon oriented exploit, extract company name contact information</div>",
-            "url": "https://github.com/LeakIX/sentryexploit",
-            "title": "LeakIX/sentryexploit: CVE-2023-38035 Recon oriented exploit, extract company name contact information",
-            "date_modified": "2023-08-25T04:26:16.000Z",
-            "date_published": "2023-08-24T19:26:57.000Z",
-            "author": {
-                "name": "LeakIX",
-                "url": "https://github.com/LeakIX"
             }
         }
     ]

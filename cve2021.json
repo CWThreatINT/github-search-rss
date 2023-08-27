@@ -6,6 +6,17 @@
     "description": "CVE-2021 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/79593994?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Proof of Concept for CVE-2021-34473, CVE-2021-34523, and CVE-2021-31207</div>",
+            "url": "https://github.com/horizon3ai/proxyshell",
+            "title": "horizon3ai/proxyshell: Proof of Concept for CVE-2021-34473, CVE-2021-34523, and CVE-2021-31207",
+            "date_modified": "2023-08-27T14:54:21.000Z",
+            "date_published": "2021-09-04T15:34:03.000Z",
+            "author": {
+                "name": "horizon3ai",
+                "url": "https://github.com/horizon3ai"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/70909693?u=623cdd16249501e7d4f74b743a81017fc3b4de3a&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A PoC exploit for CVE-2021-42013 - Apache 2.4.49 &amp; 2.4.50 Remote Code Execution</div>",
             "url": "https://github.com/K3ysTr0K3R/CVE-2021-42013-EXPLOIT",
             "title": "K3ysTr0K3R/CVE-2021-42013-EXPLOIT: A PoC exploit for CVE-2021-42013 - Apache 2.4.49 & 2.4.50 Remote Code Execution",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "tukru",
                 "url": "https://github.com/tukru"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/96992046?u=10ff657463449006c9ad8d00672aeff375f7d18c&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Log4j2 LDAP 취약점 테스트 (CVE-2021-44228)</div>",
-            "url": "https://github.com/mklinkj/log4j2-test",
-            "title": "mklinkj/log4j2-test: Log4j2 LDAP 취약점 테스트 (CVE-2021-44228)",
-            "date_modified": "2022-01-09T19:59:25.000Z",
-            "date_published": "2022-01-03T04:36:41.000Z",
-            "author": {
-                "name": "mklinkj",
-                "url": "https://github.com/mklinkj"
             }
         }
     ]
