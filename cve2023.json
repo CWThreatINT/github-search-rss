@@ -6,6 +6,17 @@
     "description": "CVE-2023 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/125891350?u=813bbe70eeae02b94de027511805b731dac7fea4&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>POC for CVE-2023-24489 with bash. </div>",
+            "url": "https://github.com/whalebone7/CVE-2023-24489-poc",
+            "title": "whalebone7/CVE-2023-24489-poc: POC for CVE-2023-24489 with bash. ",
+            "date_modified": "2023-08-27T11:55:20.000Z",
+            "date_published": "2023-08-27T11:53:59.000Z",
+            "author": {
+                "name": "whalebone7",
+                "url": "https://github.com/whalebone7"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/86009160?u=b774578387fb2e4255f321f4d09dded1f7521846&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Windows_AFD_LPE_CVE-2023-21768</div>",
             "url": "https://github.com/Malwareman007/CVE-2023-21768",
             "title": "Malwareman007/CVE-2023-21768: Windows_AFD_LPE_CVE-2023-21768",
@@ -42,7 +53,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/33436708?u=55beb087dc8738fb7c2ca7cf1f1be8a7fea0bb55&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2023-38831 winrar exploit generator</div>",
             "url": "https://github.com/b1tg/CVE-2023-38831-winrar-exploit",
             "title": "b1tg/CVE-2023-38831-winrar-exploit: CVE-2023-38831 winrar exploit generator",
-            "date_modified": "2023-08-27T10:58:10.000Z",
+            "date_modified": "2023-08-27T12:06:57.000Z",
             "date_published": "2023-08-25T09:44:08.000Z",
             "author": {
                 "name": "b1tg",
@@ -119,7 +130,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/35842766?u=f385df6b9e6a06531ed56f0a335e6cf7c2995ffd&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
             "url": "https://github.com/shiomiyan/CVE-2023-41080",
             "title": "shiomiyan/CVE-2023-41080",
-            "date_modified": "2023-08-27T10:23:48.000Z",
+            "date_modified": "2023-08-27T11:09:13.000Z",
             "date_published": "2023-08-26T15:11:31.000Z",
             "author": {
                 "name": "shiomiyan",
@@ -141,7 +152,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/141109859?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>JDK CVE-2023-21939</div>",
             "url": "https://github.com/Y4Sec-Team/CVE-2023-21939",
             "title": "Y4Sec-Team/CVE-2023-21939: JDK CVE-2023-21939",
-            "date_modified": "2023-08-27T10:01:30.000Z",
+            "date_modified": "2023-08-27T11:17:31.000Z",
             "date_published": "2023-08-26T06:45:26.000Z",
             "author": {
                 "name": "Y4Sec-Team",
@@ -185,7 +196,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/99977116?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
             "url": "https://github.com/watchtowrlabs/juniper-rce_cve-2023-36844",
             "title": "watchtowrlabs/juniper-rce_cve-2023-36844",
-            "date_modified": "2023-08-27T09:10:11.000Z",
+            "date_modified": "2023-08-27T11:09:25.000Z",
             "date_published": "2023-08-25T07:28:06.000Z",
             "author": {
                 "name": "watchtowrlabs",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "LeakIX",
                 "url": "https://github.com/LeakIX"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/91164728?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Weaponized CobaltStrike BOF for CVE-2023-36874 Windows Error Reporting LPE</div>",
-            "url": "https://github.com/Octoberfest7/CVE-2023-36874_BOF",
-            "title": "Octoberfest7/CVE-2023-36874_BOF: Weaponized CobaltStrike BOF for CVE-2023-36874 Windows Error Reporting LPE",
-            "date_modified": "2023-08-27T09:39:07.000Z",
-            "date_published": "2023-08-24T22:24:34.000Z",
-            "author": {
-                "name": "Octoberfest7",
-                "url": "https://github.com/Octoberfest7"
             }
         }
     ]
