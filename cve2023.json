@@ -6,6 +6,17 @@
     "description": "CVE-2023 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/92903333?u=aae9e1be3f5abb18eb689899d7a439f63c542724&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Tools to scanner &amp; exploit cve-2023-35078</div>",
+            "url": "https://github.com/LazyySec/CVE-2023-35078",
+            "title": "LazyySec/CVE-2023-35078: Tools to scanner & exploit cve-2023-35078",
+            "date_modified": "2023-08-27T15:13:39.000Z",
+            "date_published": "2023-07-31T02:24:24.000Z",
+            "author": {
+                "name": "LazyySec",
+                "url": "https://github.com/LazyySec"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/104743791?u=76a6f1e5a08b4173a03b59f2b02c4d22237b9518&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>一款用于生成winrar程序RCE（即cve-2023-38831）的POC的工具。</div>",
             "url": "https://github.com/Garck3h/cve-2023-38831",
             "title": "Garck3h/cve-2023-38831: 一款用于生成winrar程序RCE（即cve-2023-38831）的POC的工具。",
@@ -64,7 +75,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/33436708?u=55beb087dc8738fb7c2ca7cf1f1be8a7fea0bb55&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2023-38831 winrar exploit generator</div>",
             "url": "https://github.com/b1tg/CVE-2023-38831-winrar-exploit",
             "title": "b1tg/CVE-2023-38831-winrar-exploit: CVE-2023-38831 winrar exploit generator",
-            "date_modified": "2023-08-27T14:55:44.000Z",
+            "date_modified": "2023-08-27T16:03:24.000Z",
             "date_published": "2023-08-25T09:44:08.000Z",
             "author": {
                 "name": "b1tg",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "watchtowrlabs",
                 "url": "https://github.com/watchtowrlabs"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/45532566?u=217f4c2635764fc9a5710e81aab14a97ba8cea86&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Exploit for file upload vulnerability in BoidCMS version &lt;=2.0.0</div>",
-            "url": "https://github.com/1337kid/CVE-2023-38836",
-            "title": "1337kid/CVE-2023-38836: Exploit for file upload vulnerability in BoidCMS version <=2.0.0",
-            "date_modified": "2023-08-17T06:43:52.000Z",
-            "date_published": "2023-08-16T14:30:30.000Z",
-            "author": {
-                "name": "1337kid",
-                "url": "https://github.com/1337kid"
             }
         }
     ]
