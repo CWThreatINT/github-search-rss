@@ -6,17 +6,6 @@
     "description": "CVE-2023 FEED on GitHub",
     "items": [
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/96432001?u=96ae96621e52760886c3a02efef816a870b5e264&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Pasos necesarios para obtener una reverse shell explotando la vulnerabilidad de winrar CVE-2023-38831 en versiones anteriores a 6.23.</div>",
-            "url": "https://github.com/Maalfer/CVE-2023-38831_ReverseShell",
-            "title": "Maalfer/CVE-2023-38831_ReverseShell: Pasos necesarios para obtener una reverse shell explotando la vulnerabilidad de winrar CVE-2023-38831 en versiones anteriores a 6.23.",
-            "date_modified": "2023-08-28T08:56:43.000Z",
-            "date_published": "2023-08-28T08:56:16.000Z",
-            "author": {
-                "name": "Maalfer",
-                "url": "https://github.com/Maalfer"
-            }
-        },
-        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/18195825?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023</div>",
             "url": "https://github.com/CVEProject/cvelist",
             "title": "CVEProject/cvelist: Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023",
@@ -25,6 +14,17 @@
             "author": {
                 "name": "CVEProject",
                 "url": "https://github.com/CVEProject"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/96432001?u=96ae96621e52760886c3a02efef816a870b5e264&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Pasos necesarios para obtener una reverse shell explotando la vulnerabilidad de winrar CVE-2023-38831 en versiones anteriores a 6.23.</div>",
+            "url": "https://github.com/Maalfer/CVE-2023-38831_ReverseShell_Winrar-RCE",
+            "title": "Maalfer/CVE-2023-38831_ReverseShell_Winrar-RCE: Pasos necesarios para obtener una reverse shell explotando la vulnerabilidad de winrar CVE-2023-38831 en versiones anteriores a 6.23.",
+            "date_modified": "2023-08-28T09:26:37.000Z",
+            "date_published": "2023-08-28T08:56:16.000Z",
+            "author": {
+                "name": "Maalfer",
+                "url": "https://github.com/Maalfer"
             }
         },
         {
@@ -130,7 +130,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/33436708?u=55beb087dc8738fb7c2ca7cf1f1be8a7fea0bb55&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2023-38831 winrar exploit generator</div>",
             "url": "https://github.com/b1tg/CVE-2023-38831-winrar-exploit",
             "title": "b1tg/CVE-2023-38831-winrar-exploit: CVE-2023-38831 winrar exploit generator",
-            "date_modified": "2023-08-28T09:04:24.000Z",
+            "date_modified": "2023-08-28T10:05:21.000Z",
             "date_published": "2023-08-25T09:44:08.000Z",
             "author": {
                 "name": "b1tg",
@@ -218,7 +218,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/141109859?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>JDK CVE-2023-21939</div>",
             "url": "https://github.com/Y4Sec-Team/CVE-2023-21939",
             "title": "Y4Sec-Team/CVE-2023-21939: JDK CVE-2023-21939",
-            "date_modified": "2023-08-28T08:54:36.000Z",
+            "date_modified": "2023-08-28T09:13:52.000Z",
             "date_published": "2023-08-26T06:45:26.000Z",
             "author": {
                 "name": "Y4Sec-Team",
