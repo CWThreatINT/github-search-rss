@@ -6,6 +6,39 @@
     "description": "CVE-2023 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/82097150?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>The largest hacking program with new tools CVE-2023-PoC for the year 2023 It contains all the attack and exploitation tools for testing websites, as well as a graphical interface to facilitate its use for beginners</div>",
+            "url": "https://github.com/abrahim7112/hackers_CVE_2023_poc",
+            "title": "abrahim7112/hackers_CVE_2023_poc: The largest hacking program with new tools CVE-2023-PoC for the year 2023 It contains all the attack and exploitation tools for testing websites, as well as a graphical interface to facilitate its use for beginners",
+            "date_modified": "2023-08-24T05:40:16.000Z",
+            "date_published": "2023-07-23T20:33:17.000Z",
+            "author": {
+                "name": "abrahim7112",
+                "url": "https://github.com/abrahim7112"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/26635022?u=3bd414941d62d450b05921cffcbf6b4b53483df0&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2023-38831 WinRAR</div>",
+            "url": "https://github.com/akhomlyuk/cve-2023-38831",
+            "title": "akhomlyuk/cve-2023-38831: CVE-2023-38831 WinRAR",
+            "date_modified": "2023-08-28T14:49:17.000Z",
+            "date_published": "2023-08-28T14:48:35.000Z",
+            "author": {
+                "name": "akhomlyuk",
+                "url": "https://github.com/akhomlyuk"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/60843949?u=7320565057e3d6467bbaf0ead7698d5a935536ad&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Understanding WinRAR Code Execution Vulnerability (CVE-2023-38831) </div>",
+            "url": "https://github.com/knight0x07/WinRAR-Code-Execution-Vulnerability-CVE-2023-38831",
+            "title": "knight0x07/WinRAR-Code-Execution-Vulnerability-CVE-2023-38831: Understanding WinRAR Code Execution Vulnerability (CVE-2023-38831) ",
+            "date_modified": "2023-08-28T14:49:21.000Z",
+            "date_published": "2023-08-28T14:48:22.000Z",
+            "author": {
+                "name": "knight0x07",
+                "url": "https://github.com/knight0x07"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/18195825?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023</div>",
             "url": "https://github.com/CVEProject/cvelist",
             "title": "CVEProject/cvelist: Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023",
@@ -31,7 +64,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/96432001?u=96ae96621e52760886c3a02efef816a870b5e264&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Pasos necesarios para obtener una reverse shell explotando la vulnerabilidad de winrar CVE-2023-38831 en versiones anteriores a 6.23.</div>",
             "url": "https://github.com/Maalfer/CVE-2023-38831_ReverseShell_Winrar-RCE",
             "title": "Maalfer/CVE-2023-38831_ReverseShell_Winrar-RCE: Pasos necesarios para obtener una reverse shell explotando la vulnerabilidad de winrar CVE-2023-38831 en versiones anteriores a 6.23.",
-            "date_modified": "2023-08-28T09:26:37.000Z",
+            "date_modified": "2023-08-28T15:00:08.000Z",
             "date_published": "2023-08-28T08:56:16.000Z",
             "author": {
                 "name": "Maalfer",
@@ -75,7 +108,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/16636092?u=36b128b0986769032458cdfe273b6df7c4d7b4a0&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>An easy to install and easy to run tool for generating exploit payloads for CVE-2023-38831, WinRAR RCE before versions 6.23</div>",
             "url": "https://github.com/ignis-sec/CVE-2023-38831-RaRCE",
             "title": "ignis-sec/CVE-2023-38831-RaRCE: An easy to install and easy to run tool for generating exploit payloads for CVE-2023-38831, WinRAR RCE before versions 6.23",
-            "date_modified": "2023-08-28T13:57:04.000Z",
+            "date_modified": "2023-08-28T14:47:37.000Z",
             "date_published": "2023-08-27T21:49:37.000Z",
             "author": {
                 "name": "ignis-sec",
@@ -141,7 +174,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/33436708?u=55beb087dc8738fb7c2ca7cf1f1be8a7fea0bb55&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2023-38831 winrar exploit generator</div>",
             "url": "https://github.com/b1tg/CVE-2023-38831-winrar-exploit",
             "title": "b1tg/CVE-2023-38831-winrar-exploit: CVE-2023-38831 winrar exploit generator",
-            "date_modified": "2023-08-28T13:56:36.000Z",
+            "date_modified": "2023-08-28T14:54:54.000Z",
             "date_published": "2023-08-25T09:44:08.000Z",
             "author": {
                 "name": "b1tg",
@@ -163,7 +196,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/135759201?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2023-38389 &lt; Wordpress &lt; JupiterX Core &lt; Unauthenticated Account Takeover</div>",
             "url": "https://github.com/codeb0ss/CVE-2023-38389-PoC",
             "title": "codeb0ss/CVE-2023-38389-PoC: CVE-2023-38389 < Wordpress < JupiterX Core < Unauthenticated Account Takeover",
-            "date_modified": "2023-08-28T13:50:57.000Z",
+            "date_modified": "2023-08-28T14:53:35.000Z",
             "date_published": "2023-08-27T00:30:16.000Z",
             "author": {
                 "name": "codeb0ss",
@@ -190,39 +223,6 @@
             "author": {
                 "name": "bingtangbanli",
                 "url": "https://github.com/bingtangbanli"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/77956516?u=6ae24374756ed2d4bc3e7bae2ec1cea98accfda7&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2023-28432检测工具</div>",
-            "url": "https://github.com/bingtangbanli/CVE-2023-28432",
-            "title": "bingtangbanli/CVE-2023-28432: CVE-2023-28432检测工具",
-            "date_modified": "2023-08-28T03:20:30.000Z",
-            "date_published": "2023-08-21T06:03:25.000Z",
-            "author": {
-                "name": "bingtangbanli",
-                "url": "https://github.com/bingtangbanli"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/46203546?u=cd409fceca20e30854863c76d713dac01e7eea7a&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Cargo exploit from CVE-2023-38497</div>",
-            "url": "https://github.com/lucas-cauhe/cargo-perm",
-            "title": "lucas-cauhe/cargo-perm: Cargo exploit from CVE-2023-38497",
-            "date_modified": "2023-08-23T18:15:24.000Z",
-            "date_published": "2023-08-04T16:36:10.000Z",
-            "author": {
-                "name": "lucas-cauhe",
-                "url": "https://github.com/lucas-cauhe"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/141109859?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>JDK CVE-2023-21939</div>",
-            "url": "https://github.com/Y4Sec-Team/CVE-2023-21939",
-            "title": "Y4Sec-Team/CVE-2023-21939: JDK CVE-2023-21939",
-            "date_modified": "2023-08-28T13:43:50.000Z",
-            "date_published": "2023-08-26T06:45:26.000Z",
-            "author": {
-                "name": "Y4Sec-Team",
-                "url": "https://github.com/Y4Sec-Team"
             }
         }
     ]
