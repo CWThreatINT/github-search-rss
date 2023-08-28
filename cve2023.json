@@ -6,17 +6,6 @@
     "description": "CVE-2023 FEED on GitHub",
     "items": [
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/20398716?u=57c0f6e3acf55ecc08c7b05aab4a42da36012db6&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
-            "url": "https://github.com/PascalAsch/CVE-2023-38831-KQL",
-            "title": "PascalAsch/CVE-2023-38831-KQL",
-            "date_modified": "2023-08-28T15:26:15.000Z",
-            "date_published": "2023-08-28T15:26:14.000Z",
-            "author": {
-                "name": "PascalAsch",
-                "url": "https://github.com/PascalAsch"
-            }
-        },
-        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/18195825?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023</div>",
             "url": "https://github.com/CVEProject/cvelist",
             "title": "CVEProject/cvelist: Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023",
@@ -25,6 +14,28 @@
             "author": {
                 "name": "CVEProject",
                 "url": "https://github.com/CVEProject"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/63656641?u=4c8269b8bcb7593f39b59a80e5dd3177bd49ba5c&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A tool to perform port scanning using vulnerable Request-Baskets</div>",
+            "url": "https://github.com/samh4cks/CVE-2023-27163-InternalProber",
+            "title": "samh4cks/CVE-2023-27163-InternalProber: A tool to perform port scanning using vulnerable Request-Baskets",
+            "date_modified": "2023-08-28T16:59:09.000Z",
+            "date_published": "2023-08-28T16:19:21.000Z",
+            "author": {
+                "name": "samh4cks",
+                "url": "https://github.com/samh4cks"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/20398716?u=57c0f6e3acf55ecc08c7b05aab4a42da36012db6&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
+            "url": "https://github.com/PascalAsch/CVE-2023-38831-KQL",
+            "title": "PascalAsch/CVE-2023-38831-KQL",
+            "date_modified": "2023-08-28T15:26:15.000Z",
+            "date_published": "2023-08-28T15:26:14.000Z",
+            "author": {
+                "name": "PascalAsch",
+                "url": "https://github.com/PascalAsch"
             }
         },
         {
@@ -42,7 +53,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/60843949?u=7320565057e3d6467bbaf0ead7698d5a935536ad&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Understanding WinRAR Code Execution Vulnerability (CVE-2023-38831) </div>",
             "url": "https://github.com/knight0x07/WinRAR-Code-Execution-Vulnerability-CVE-2023-38831",
             "title": "knight0x07/WinRAR-Code-Execution-Vulnerability-CVE-2023-38831: Understanding WinRAR Code Execution Vulnerability (CVE-2023-38831) ",
-            "date_modified": "2023-08-28T14:49:21.000Z",
+            "date_modified": "2023-08-28T16:38:41.000Z",
             "date_published": "2023-08-28T14:48:22.000Z",
             "author": {
                 "name": "knight0x07",
@@ -119,7 +130,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/16636092?u=36b128b0986769032458cdfe273b6df7c4d7b4a0&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>An easy to install and easy to run tool for generating exploit payloads for CVE-2023-38831, WinRAR RCE before versions 6.23</div>",
             "url": "https://github.com/ignis-sec/CVE-2023-38831-RaRCE",
             "title": "ignis-sec/CVE-2023-38831-RaRCE: An easy to install and easy to run tool for generating exploit payloads for CVE-2023-38831, WinRAR RCE before versions 6.23",
-            "date_modified": "2023-08-28T15:43:16.000Z",
+            "date_modified": "2023-08-28T16:50:24.000Z",
             "date_published": "2023-08-27T21:49:37.000Z",
             "author": {
                 "name": "ignis-sec",
@@ -185,7 +196,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/33436708?u=55beb087dc8738fb7c2ca7cf1f1be8a7fea0bb55&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2023-38831 winrar exploit generator</div>",
             "url": "https://github.com/b1tg/CVE-2023-38831-winrar-exploit",
             "title": "b1tg/CVE-2023-38831-winrar-exploit: CVE-2023-38831 winrar exploit generator",
-            "date_modified": "2023-08-28T15:17:19.000Z",
+            "date_modified": "2023-08-28T16:58:48.000Z",
             "date_published": "2023-08-25T09:44:08.000Z",
             "author": {
                 "name": "b1tg",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "codeb0ss",
                 "url": "https://github.com/codeb0ss"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/105647610?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Spipu Html2Pdf &lt; 5.2.8 - XSS vulnerabilities in example files</div>",
-            "url": "https://github.com/afine-com/CVE-2023-39062",
-            "title": "afine-com/CVE-2023-39062: Spipu Html2Pdf < 5.2.8 - XSS vulnerabilities in example files",
-            "date_modified": "2023-08-23T21:07:24.000Z",
-            "date_published": "2023-08-23T21:07:24.000Z",
-            "author": {
-                "name": "afine-com",
-                "url": "https://github.com/afine-com"
             }
         }
     ]
