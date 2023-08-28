@@ -6,10 +6,21 @@
     "description": "CVE-2023 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/87455689?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2023-26256_POC</div>",
+            "url": "https://github.com/csdcsdcsdcsdcsd/CVE-2023-26256",
+            "title": "csdcsdcsdcsdcsd/CVE-2023-26256: CVE-2023-26256_POC",
+            "date_modified": "2023-08-28T08:04:58.000Z",
+            "date_published": "2023-08-28T08:00:16.000Z",
+            "author": {
+                "name": "csdcsdcsdcsdcsd",
+                "url": "https://github.com/csdcsdcsdcsdcsd"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/18195825?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023</div>",
             "url": "https://github.com/CVEProject/cvelist",
             "title": "CVEProject/cvelist: Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023",
-            "date_modified": "2023-08-28T06:23:51.000Z",
+            "date_modified": "2023-08-28T07:50:49.000Z",
             "date_published": "2020-11-02T19:30:55.000Z",
             "author": {
                 "name": "CVEProject",
@@ -42,7 +53,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/16636092?u=36b128b0986769032458cdfe273b6df7c4d7b4a0&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>An easy to install and easy to run tool for generating exploit payloads for CVE-2023-38831, WinRAR RCE before versions 6.23</div>",
             "url": "https://github.com/ignis-sec/CVE-2023-38831-RaRCE",
             "title": "ignis-sec/CVE-2023-38831-RaRCE: An easy to install and easy to run tool for generating exploit payloads for CVE-2023-38831, WinRAR RCE before versions 6.23",
-            "date_modified": "2023-08-28T01:59:09.000Z",
+            "date_modified": "2023-08-28T07:52:44.000Z",
             "date_published": "2023-08-27T21:49:37.000Z",
             "author": {
                 "name": "ignis-sec",
@@ -97,7 +108,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/98984117?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
             "url": "https://github.com/IR-HuntGuardians/CVE-2023-38831-HUNT",
             "title": "IR-HuntGuardians/CVE-2023-38831-HUNT",
-            "date_modified": "2023-08-27T08:45:41.000Z",
+            "date_modified": "2023-08-28T08:06:21.000Z",
             "date_published": "2023-08-27T08:42:24.000Z",
             "author": {
                 "name": "IR-HuntGuardians",
@@ -108,7 +119,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/33436708?u=55beb087dc8738fb7c2ca7cf1f1be8a7fea0bb55&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2023-38831 winrar exploit generator</div>",
             "url": "https://github.com/b1tg/CVE-2023-38831-winrar-exploit",
             "title": "b1tg/CVE-2023-38831-winrar-exploit: CVE-2023-38831 winrar exploit generator",
-            "date_modified": "2023-08-28T06:46:21.000Z",
+            "date_modified": "2023-08-28T08:02:20.000Z",
             "date_published": "2023-08-25T09:44:08.000Z",
             "author": {
                 "name": "b1tg",
@@ -130,7 +141,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/135759201?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2023-38389 &lt; Wordpress &lt; JupiterX Core &lt; Unauthenticated Account Takeover</div>",
             "url": "https://github.com/codeb0ss/CVE-2023-38389-PoC",
             "title": "codeb0ss/CVE-2023-38389-PoC: CVE-2023-38389 < Wordpress < JupiterX Core < Unauthenticated Account Takeover",
-            "date_modified": "2023-08-27T06:11:22.000Z",
+            "date_modified": "2023-08-28T07:39:59.000Z",
             "date_published": "2023-08-27T00:30:16.000Z",
             "author": {
                 "name": "codeb0ss",
@@ -196,7 +207,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/141109859?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>JDK CVE-2023-21939</div>",
             "url": "https://github.com/Y4Sec-Team/CVE-2023-21939",
             "title": "Y4Sec-Team/CVE-2023-21939: JDK CVE-2023-21939",
-            "date_modified": "2023-08-28T07:01:02.000Z",
+            "date_modified": "2023-08-28T08:05:26.000Z",
             "date_published": "2023-08-26T06:45:26.000Z",
             "author": {
                 "name": "Y4Sec-Team",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "tucommenceapousser",
                 "url": "https://github.com/tucommenceapousser"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/48358384?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
-            "url": "https://github.com/krmxd/CVE-2023-2868",
-            "title": "krmxd/CVE-2023-2868",
-            "date_modified": "2023-08-25T13:07:51.000Z",
-            "date_published": "2023-08-25T13:07:51.000Z",
-            "author": {
-                "name": "krmxd",
-                "url": "https://github.com/krmxd"
             }
         }
     ]
