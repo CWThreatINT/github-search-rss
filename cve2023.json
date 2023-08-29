@@ -83,6 +83,17 @@
             }
         },
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/82941858?u=9d5432916a1645e12dea93d1114a7e3391e28bf2&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2023</div>",
+            "url": "https://github.com/ayhan-dev/CVE",
+            "title": "ayhan-dev/CVE: CVE-2023",
+            "date_modified": "2023-08-29T12:54:46.000Z",
+            "date_published": "2023-08-28T15:53:25.000Z",
+            "author": {
+                "name": "ayhan-dev",
+                "url": "https://github.com/ayhan-dev"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/26635022?u=3bd414941d62d450b05921cffcbf6b4b53483df0&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2023-38831 WinRAR</div>",
             "url": "https://github.com/akhomlyuk/cve-2023-38831",
             "title": "akhomlyuk/cve-2023-38831: CVE-2023-38831 WinRAR",
@@ -97,7 +108,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/60843949?u=7320565057e3d6467bbaf0ead7698d5a935536ad&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Understanding WinRAR Code Execution Vulnerability (CVE-2023-38831) </div>",
             "url": "https://github.com/knight0x07/WinRAR-Code-Execution-Vulnerability-CVE-2023-38831",
             "title": "knight0x07/WinRAR-Code-Execution-Vulnerability-CVE-2023-38831: Understanding WinRAR Code Execution Vulnerability (CVE-2023-38831) ",
-            "date_modified": "2023-08-29T07:25:55.000Z",
+            "date_modified": "2023-08-29T12:12:04.000Z",
             "date_published": "2023-08-28T14:48:22.000Z",
             "author": {
                 "name": "knight0x07",
@@ -152,7 +163,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/16636092?u=36b128b0986769032458cdfe273b6df7c4d7b4a0&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>An easy to install and easy to run tool for generating exploit payloads for CVE-2023-38831, WinRAR RCE before versions 6.23</div>",
             "url": "https://github.com/ignis-sec/CVE-2023-38831-RaRCE",
             "title": "ignis-sec/CVE-2023-38831-RaRCE: An easy to install and easy to run tool for generating exploit payloads for CVE-2023-38831, WinRAR RCE before versions 6.23",
-            "date_modified": "2023-08-29T11:49:25.000Z",
+            "date_modified": "2023-08-29T12:32:25.000Z",
             "date_published": "2023-08-27T21:49:37.000Z",
             "author": {
                 "name": "ignis-sec",
@@ -174,7 +185,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/104743791?u=76a6f1e5a08b4173a03b59f2b02c4d22237b9518&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>一款用于生成winrar程序RCE（即cve-2023-38831）的POC的工具。</div>",
             "url": "https://github.com/Garck3h/cve-2023-38831",
             "title": "Garck3h/cve-2023-38831: 一款用于生成winrar程序RCE（即cve-2023-38831）的POC的工具。",
-            "date_modified": "2023-08-29T08:11:57.000Z",
+            "date_modified": "2023-08-29T12:51:40.000Z",
             "date_published": "2023-08-27T14:08:36.000Z",
             "author": {
                 "name": "Garck3h",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "IR-HuntGuardians",
                 "url": "https://github.com/IR-HuntGuardians"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/33436708?u=55beb087dc8738fb7c2ca7cf1f1be8a7fea0bb55&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2023-38831 winrar exploit generator</div>",
-            "url": "https://github.com/b1tg/CVE-2023-38831-winrar-exploit",
-            "title": "b1tg/CVE-2023-38831-winrar-exploit: CVE-2023-38831 winrar exploit generator",
-            "date_modified": "2023-08-29T12:01:08.000Z",
-            "date_published": "2023-08-25T09:44:08.000Z",
-            "author": {
-                "name": "b1tg",
-                "url": "https://github.com/b1tg"
             }
         }
     ]
