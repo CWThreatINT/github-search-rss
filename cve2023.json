@@ -6,6 +6,39 @@
     "description": "CVE-2023 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/18195825?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023</div>",
+            "url": "https://github.com/CVEProject/cvelist",
+            "title": "CVEProject/cvelist: Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023",
+            "date_modified": "2023-08-28T08:52:25.000Z",
+            "date_published": "2020-11-02T19:30:55.000Z",
+            "author": {
+                "name": "CVEProject",
+                "url": "https://github.com/CVEProject"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/43114182?u=316467227e7bd26911a725418a764cff32c12551&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Scan for WinRAR files affected to CVE-2023-40477</div>",
+            "url": "https://github.com/winkler-winsen/Scan_WinRAR",
+            "title": "winkler-winsen/Scan_WinRAR: Scan for WinRAR files affected to CVE-2023-40477",
+            "date_modified": "2023-08-29T14:44:09.000Z",
+            "date_published": "2023-08-29T14:41:58.000Z",
+            "author": {
+                "name": "winkler-winsen",
+                "url": "https://github.com/winkler-winsen"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/87455689?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2023-26256_POC</div>",
+            "url": "https://github.com/csdcsdcsdcsdcsd/CVE-2023-26256",
+            "title": "csdcsdcsdcsdcsd/CVE-2023-26256: CVE-2023-26256_POC",
+            "date_modified": "2023-08-28T08:04:58.000Z",
+            "date_published": "2023-08-28T08:00:16.000Z",
+            "author": {
+                "name": "csdcsdcsdcsdcsd",
+                "url": "https://github.com/csdcsdcsdcsdcsd"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/38740973?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>PoC for 2023-27163 Maltrail v0.53</div>",
             "url": "https://github.com/josephberger/CVE-2023-27163",
             "title": "josephberger/CVE-2023-27163: PoC for 2023-27163 Maltrail v0.53",
@@ -20,22 +53,11 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/43114182?u=316467227e7bd26911a725418a764cff32c12551&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Scan for GhostScript files affected to CVE-2023-36664</div>",
             "url": "https://github.com/winkler-winsen/Scan_GhostScript",
             "title": "winkler-winsen/Scan_GhostScript: Scan for GhostScript files affected to CVE-2023-36664",
-            "date_modified": "2023-08-29T14:01:50.000Z",
+            "date_modified": "2023-08-29T14:06:12.000Z",
             "date_published": "2023-08-29T14:01:49.000Z",
             "author": {
                 "name": "winkler-winsen",
                 "url": "https://github.com/winkler-winsen"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/18195825?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023</div>",
-            "url": "https://github.com/CVEProject/cvelist",
-            "title": "CVEProject/cvelist: Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023",
-            "date_modified": "2023-08-28T08:52:25.000Z",
-            "date_published": "2020-11-02T19:30:55.000Z",
-            "author": {
-                "name": "CVEProject",
-                "url": "https://github.com/CVEProject"
             }
         },
         {
@@ -163,7 +185,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/96432001?u=96ae96621e52760886c3a02efef816a870b5e264&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Pasos necesarios para obtener una reverse shell explotando la vulnerabilidad de winrar CVE-2023-38831 en versiones anteriores a 6.23.</div>",
             "url": "https://github.com/Maalfer/CVE-2023-38831_ReverseShell_Winrar-RCE",
             "title": "Maalfer/CVE-2023-38831_ReverseShell_Winrar-RCE: Pasos necesarios para obtener una reverse shell explotando la vulnerabilidad de winrar CVE-2023-38831 en versiones anteriores a 6.23.",
-            "date_modified": "2023-08-29T13:15:41.000Z",
+            "date_modified": "2023-08-29T14:18:42.000Z",
             "date_published": "2023-08-28T08:56:16.000Z",
             "author": {
                 "name": "Maalfer",
@@ -171,21 +193,10 @@
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/87455689?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2023-26256_POC</div>",
-            "url": "https://github.com/csdcsdcsdcsdcsd/CVE-2023-26256",
-            "title": "csdcsdcsdcsdcsd/CVE-2023-26256: CVE-2023-26256_POC",
-            "date_modified": "2023-08-28T08:04:58.000Z",
-            "date_published": "2023-08-28T08:00:16.000Z",
-            "author": {
-                "name": "csdcsdcsdcsdcsd",
-                "url": "https://github.com/csdcsdcsdcsdcsd"
-            }
-        },
-        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/16636092?u=36b128b0986769032458cdfe273b6df7c4d7b4a0&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>An easy to install and easy to run tool for generating exploit payloads for CVE-2023-38831, WinRAR RCE before versions 6.23</div>",
             "url": "https://github.com/ignis-sec/CVE-2023-38831-RaRCE",
             "title": "ignis-sec/CVE-2023-38831-RaRCE: An easy to install and easy to run tool for generating exploit payloads for CVE-2023-38831, WinRAR RCE before versions 6.23",
-            "date_modified": "2023-08-29T13:14:54.000Z",
+            "date_modified": "2023-08-29T14:33:54.000Z",
             "date_published": "2023-08-27T21:49:37.000Z",
             "author": {
                 "name": "ignis-sec",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "Garck3h",
                 "url": "https://github.com/Garck3h"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/125891350?u=813bbe70eeae02b94de027511805b731dac7fea4&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>POC for CVE-2023-24489 with bash. </div>",
-            "url": "https://github.com/whalebone7/CVE-2023-24489-poc",
-            "title": "whalebone7/CVE-2023-24489-poc: POC for CVE-2023-24489 with bash. ",
-            "date_modified": "2023-08-27T11:55:20.000Z",
-            "date_published": "2023-08-27T11:53:59.000Z",
-            "author": {
-                "name": "whalebone7",
-                "url": "https://github.com/whalebone7"
             }
         }
     ]
