@@ -6,14 +6,14 @@
     "description": "CVE-2023 FEED on GitHub",
     "items": [
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/5577345?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>POC for Spring Kafka Deserialization Vulnerability CVE-2023-34040</div>",
-            "url": "https://github.com/Contrast-Security-OSS/Spring-Kafka-POC-CVE-2023-34040",
-            "title": "Contrast-Security-OSS/Spring-Kafka-POC-CVE-2023-34040: POC for Spring Kafka Deserialization Vulnerability CVE-2023-34040",
-            "date_modified": "2023-08-30T12:09:16.000Z",
-            "date_published": "2023-08-30T12:09:15.000Z",
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/130668432?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2023-40477 PoC by Wild-Pointer</div>",
+            "url": "https://github.com/wildptr-io/Winrar-CVE-2023-40477-POC",
+            "title": "wildptr-io/Winrar-CVE-2023-40477-POC: CVE-2023-40477 PoC by Wild-Pointer",
+            "date_modified": "2023-08-30T12:55:34.000Z",
+            "date_published": "2023-08-29T16:29:48.000Z",
             "author": {
-                "name": "Contrast-Security-OSS",
-                "url": "https://github.com/Contrast-Security-OSS"
+                "name": "wildptr-io",
+                "url": "https://github.com/wildptr-io"
             }
         },
         {
@@ -36,6 +36,39 @@
             "author": {
                 "name": "SugiB3o",
                 "url": "https://github.com/SugiB3o"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/62406753?u=dbe6e3b2f9570064240f700ed08eef5443c9cc5a&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2023-26818 Exploit MacOS TCC Bypass W/ Telegram</div>",
+            "url": "https://github.com/Zeyad-Azima/CVE-2023-26818",
+            "title": "Zeyad-Azima/CVE-2023-26818: CVE-2023-26818 Exploit MacOS TCC Bypass W/ Telegram",
+            "date_modified": "2023-08-30T12:44:14.000Z",
+            "date_published": "2023-08-30T12:40:50.000Z",
+            "author": {
+                "name": "Zeyad-Azima",
+                "url": "https://github.com/Zeyad-Azima"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/81899489?u=172cd1696d63da448631f10408c33771a48d5024&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>大华智慧园区综合管理平台publishing文件上传</div>",
+            "url": "https://github.com/zh-byte/CVE-2023-3836",
+            "title": "zh-byte/CVE-2023-3836: 大华智慧园区综合管理平台publishing文件上传",
+            "date_modified": "2023-08-30T12:21:50.000Z",
+            "date_published": "2023-08-30T12:11:42.000Z",
+            "author": {
+                "name": "zh-byte",
+                "url": "https://github.com/zh-byte"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/5577345?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>POC for Spring Kafka Deserialization Vulnerability CVE-2023-34040</div>",
+            "url": "https://github.com/Contrast-Security-OSS/Spring-Kafka-POC-CVE-2023-34040",
+            "title": "Contrast-Security-OSS/Spring-Kafka-POC-CVE-2023-34040: POC for Spring Kafka Deserialization Vulnerability CVE-2023-34040",
+            "date_modified": "2023-08-30T12:18:38.000Z",
+            "date_published": "2023-08-30T12:09:15.000Z",
+            "author": {
+                "name": "Contrast-Security-OSS",
+                "url": "https://github.com/Contrast-Security-OSS"
             }
         },
         {
@@ -75,7 +108,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/33436708?u=55beb087dc8738fb7c2ca7cf1f1be8a7fea0bb55&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2023-38831 winrar exploit generator</div>",
             "url": "https://github.com/b1tg/CVE-2023-38831-winrar-exploit",
             "title": "b1tg/CVE-2023-38831-winrar-exploit: CVE-2023-38831 winrar exploit generator",
-            "date_modified": "2023-08-30T12:09:28.000Z",
+            "date_modified": "2023-08-30T12:57:40.000Z",
             "date_published": "2023-08-25T09:44:08.000Z",
             "author": {
                 "name": "b1tg",
@@ -113,17 +146,6 @@
             "author": {
                 "name": "hktalent",
                 "url": "https://github.com/hktalent"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/130668432?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2023-40477 PoC by Wild-Pointer</div>",
-            "url": "https://github.com/wildptr-io/Winrar-CVE-2023-40477-POC",
-            "title": "wildptr-io/Winrar-CVE-2023-40477-POC: CVE-2023-40477 PoC by Wild-Pointer",
-            "date_modified": "2023-08-29T16:30:00.000Z",
-            "date_published": "2023-08-29T16:29:48.000Z",
-            "author": {
-                "name": "wildptr-io",
-                "url": "https://github.com/wildptr-io"
             }
         },
         {
@@ -201,28 +223,6 @@
             "author": {
                 "name": "HDCE-inc",
                 "url": "https://github.com/HDCE-inc"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/63656641?u=4c8269b8bcb7593f39b59a80e5dd3177bd49ba5c&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A tool to perform port scanning using vulnerable Request-Baskets</div>",
-            "url": "https://github.com/samh4cks/CVE-2023-27163-InternalProber",
-            "title": "samh4cks/CVE-2023-27163-InternalProber: A tool to perform port scanning using vulnerable Request-Baskets",
-            "date_modified": "2023-08-28T16:59:09.000Z",
-            "date_published": "2023-08-28T16:19:21.000Z",
-            "author": {
-                "name": "samh4cks",
-                "url": "https://github.com/samh4cks"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/20398716?u=57c0f6e3acf55ecc08c7b05aab4a42da36012db6&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>KQL Hunting for WinRAR CVE-2023-38831</div>",
-            "url": "https://github.com/PascalAsch/CVE-2023-38831-KQL",
-            "title": "PascalAsch/CVE-2023-38831-KQL: KQL Hunting for WinRAR CVE-2023-38831",
-            "date_modified": "2023-08-29T13:56:11.000Z",
-            "date_published": "2023-08-28T15:26:14.000Z",
-            "author": {
-                "name": "PascalAsch",
-                "url": "https://github.com/PascalAsch"
             }
         }
     ]
