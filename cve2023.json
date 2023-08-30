@@ -6,17 +6,6 @@
     "description": "CVE-2023 FEED on GitHub",
     "items": [
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/130668432?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2023-40477 PoC by Wild-Pointer</div>",
-            "url": "https://github.com/wildptr-io/Winrar-CVE-2023-40477-POC",
-            "title": "wildptr-io/Winrar-CVE-2023-40477-POC: CVE-2023-40477 PoC by Wild-Pointer",
-            "date_modified": "2023-08-30T12:55:34.000Z",
-            "date_published": "2023-08-29T16:29:48.000Z",
-            "author": {
-                "name": "wildptr-io",
-                "url": "https://github.com/wildptr-io"
-            }
-        },
-        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/18195825?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023</div>",
             "url": "https://github.com/CVEProject/cvelist",
             "title": "CVEProject/cvelist: Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023",
@@ -25,6 +14,50 @@
             "author": {
                 "name": "CVEProject",
                 "url": "https://github.com/CVEProject"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/82097150?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>The largest hacking program with new tools CVE-2023-PoC for the year 2023 It contains all the attack and exploitation tools for testing websites, as well as a graphical interface to facilitate its use for beginners</div>",
+            "url": "https://github.com/abrahim7112/hackers_CVE_2023_poc",
+            "title": "abrahim7112/hackers_CVE_2023_poc: The largest hacking program with new tools CVE-2023-PoC for the year 2023 It contains all the attack and exploitation tools for testing websites, as well as a graphical interface to facilitate its use for beginners",
+            "date_modified": "2023-08-30T08:59:05.000Z",
+            "date_published": "2023-07-23T20:33:17.000Z",
+            "author": {
+                "name": "abrahim7112",
+                "url": "https://github.com/abrahim7112"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/130668432?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2023-40477 PoC by Wild-Pointer</div>",
+            "url": "https://github.com/wildptr-io/Winrar-CVE-2023-40477-POC",
+            "title": "wildptr-io/Winrar-CVE-2023-40477-POC: CVE-2023-40477 PoC by Wild-Pointer",
+            "date_modified": "2023-08-30T15:04:05.000Z",
+            "date_published": "2023-08-29T16:29:48.000Z",
+            "author": {
+                "name": "wildptr-io",
+                "url": "https://github.com/wildptr-io"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/33436708?u=55beb087dc8738fb7c2ca7cf1f1be8a7fea0bb55&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2023-38831 winrar exploit generator</div>",
+            "url": "https://github.com/b1tg/CVE-2023-38831-winrar-exploit",
+            "title": "b1tg/CVE-2023-38831-winrar-exploit: CVE-2023-38831 winrar exploit generator",
+            "date_modified": "2023-08-30T14:26:07.000Z",
+            "date_published": "2023-08-25T09:44:08.000Z",
+            "author": {
+                "name": "b1tg",
+                "url": "https://github.com/b1tg"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/18899200?u=6b66cd3db1b0113b1303d2ecfee548ad78edf57c&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Proof-of-Concept for CVE-2023-38831 Zero-Day vulnerability in WinRAR</div>",
+            "url": "https://github.com/z3r0sw0rd/CVE-2023-38831-PoC",
+            "title": "z3r0sw0rd/CVE-2023-38831-PoC: Proof-of-Concept for CVE-2023-38831 Zero-Day vulnerability in WinRAR",
+            "date_modified": "2023-08-30T14:09:43.000Z",
+            "date_published": "2023-08-30T11:52:23.000Z",
+            "author": {
+                "name": "z3r0sw0rd",
+                "url": "https://github.com/z3r0sw0rd"
             }
         },
         {
@@ -42,7 +75,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/62406753?u=dbe6e3b2f9570064240f700ed08eef5443c9cc5a&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2023-26818 Exploit MacOS TCC Bypass W/ Telegram</div>",
             "url": "https://github.com/Zeyad-Azima/CVE-2023-26818",
             "title": "Zeyad-Azima/CVE-2023-26818: CVE-2023-26818 Exploit MacOS TCC Bypass W/ Telegram",
-            "date_modified": "2023-08-30T12:44:14.000Z",
+            "date_modified": "2023-08-30T14:25:35.000Z",
             "date_published": "2023-08-30T12:40:50.000Z",
             "author": {
                 "name": "Zeyad-Azima",
@@ -102,17 +135,6 @@
             "author": {
                 "name": "nhman-python",
                 "url": "https://github.com/nhman-python"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/33436708?u=55beb087dc8738fb7c2ca7cf1f1be8a7fea0bb55&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2023-38831 winrar exploit generator</div>",
-            "url": "https://github.com/b1tg/CVE-2023-38831-winrar-exploit",
-            "title": "b1tg/CVE-2023-38831-winrar-exploit: CVE-2023-38831 winrar exploit generator",
-            "date_modified": "2023-08-30T13:59:42.000Z",
-            "date_published": "2023-08-25T09:44:08.000Z",
-            "author": {
-                "name": "b1tg",
-                "url": "https://github.com/b1tg"
             }
         },
         {
@@ -201,28 +223,6 @@
             "author": {
                 "name": "thegr1ffyn",
                 "url": "https://github.com/thegr1ffyn"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/64432235?u=62d581d3ae81348f60f8bcb2895ca043a20fc96c&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2023-38831 winrar exploit generator and get reverse shell</div>",
-            "url": "https://github.com/my-elliot/CVE-2023-38831-winrar-expoit-simple-Poc",
-            "title": "my-elliot/CVE-2023-38831-winrar-expoit-simple-Poc: CVE-2023-38831 winrar exploit generator and get reverse shell",
-            "date_modified": "2023-08-30T00:03:38.000Z",
-            "date_published": "2023-08-28T22:08:31.000Z",
-            "author": {
-                "name": "my-elliot",
-                "url": "https://github.com/my-elliot"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/141088081?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2023-38831 PoC (Proof Of Concept)</div>",
-            "url": "https://github.com/HDCE-inc/CVE-2023-38831",
-            "title": "HDCE-inc/CVE-2023-38831: CVE-2023-38831 PoC (Proof Of Concept)",
-            "date_modified": "2023-08-29T13:56:05.000Z",
-            "date_published": "2023-08-28T04:56:10.000Z",
-            "author": {
-                "name": "HDCE-inc",
-                "url": "https://github.com/HDCE-inc"
             }
         }
     ]
