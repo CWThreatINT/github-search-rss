@@ -6,6 +6,17 @@
     "description": "CVE-2021 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/209987?u=94c7ee13178645b8bfd1f84e2dc572be81eb4601&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
+            "url": "https://github.com/darkpills/CVE-2021-25094-tatsu-preauth-rce",
+            "title": "darkpills/CVE-2021-25094-tatsu-preauth-rce",
+            "date_modified": "2023-04-14T16:51:32.000Z",
+            "date_published": "2022-01-03T21:19:42.000Z",
+            "author": {
+                "name": "darkpills",
+                "url": "https://github.com/darkpills"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/64579294?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
             "url": "https://github.com/racoon-rac/CVE-2021-44228",
             "title": "racoon-rac/CVE-2021-44228",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "RandomRobbieBF",
                 "url": "https://github.com/RandomRobbieBF"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/70909693?u=623cdd16249501e7d4f74b743a81017fc3b4de3a&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A PoC exploit for CVE-2021-4191 - GitLab User Enumeration.</div>",
-            "url": "https://github.com/K3ysTr0K3R/CVE-2021-4191-EXPLOIT",
-            "title": "K3ysTr0K3R/CVE-2021-4191-EXPLOIT: A PoC exploit for CVE-2021-4191 - GitLab User Enumeration.",
-            "date_modified": "2023-07-26T15:07:47.000Z",
-            "date_published": "2023-07-22T21:06:51.000Z",
-            "author": {
-                "name": "K3ysTr0K3R",
-                "url": "https://github.com/K3ysTr0K3R"
             }
         }
     ]
