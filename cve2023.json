@@ -17,6 +17,28 @@
             }
         },
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/67722627?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div> Ivanti Endpoint Manager Mobile (EPMM)   POC</div>",
+            "url": "https://github.com/Blue-number/CVE-2023-35078",
+            "title": "Blue-number/CVE-2023-35078:  Ivanti Endpoint Manager Mobile (EPMM)   POC",
+            "date_modified": "2023-08-30T02:36:28.000Z",
+            "date_published": "2023-08-30T02:36:20.000Z",
+            "author": {
+                "name": "Blue-number",
+                "url": "https://github.com/Blue-number"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/135759201?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Mass Exploit - CVE-2023-39141 &lt; Aria2 WebUI &lt; Path traversal</div>",
+            "url": "https://github.com/codeb0ss/CVE-2023-39141-PoC",
+            "title": "codeb0ss/CVE-2023-39141-PoC: Mass Exploit - CVE-2023-39141 < Aria2 WebUI < Path traversal",
+            "date_modified": "2023-08-30T02:40:05.000Z",
+            "date_published": "2023-08-30T02:35:14.000Z",
+            "author": {
+                "name": "codeb0ss",
+                "url": "https://github.com/codeb0ss"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/18223385?u=5ba29c1a9447ae88a6a0433f44038f47471e11c1&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>TOP All bugbounty pentesting CVE-2023- POC Exp  RCE example payload  Things</div>",
             "url": "https://github.com/hktalent/TOP",
             "title": "hktalent/TOP: TOP All bugbounty pentesting CVE-2023- POC Exp  RCE example payload  Things",
@@ -201,28 +223,6 @@
             "author": {
                 "name": "Maalfer",
                 "url": "https://github.com/Maalfer"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/16636092?u=36b128b0986769032458cdfe273b6df7c4d7b4a0&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>An easy to install and easy to run tool for generating exploit payloads for CVE-2023-38831, WinRAR RCE before versions 6.23</div>",
-            "url": "https://github.com/ignis-sec/CVE-2023-38831-RaRCE",
-            "title": "ignis-sec/CVE-2023-38831-RaRCE: An easy to install and easy to run tool for generating exploit payloads for CVE-2023-38831, WinRAR RCE before versions 6.23",
-            "date_modified": "2023-08-30T01:38:21.000Z",
-            "date_published": "2023-08-27T21:49:37.000Z",
-            "author": {
-                "name": "ignis-sec",
-                "url": "https://github.com/ignis-sec"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/92903333?u=aae9e1be3f5abb18eb689899d7a439f63c542724&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Tools to scanner &amp; exploit cve-2023-35078</div>",
-            "url": "https://github.com/LazyySec/CVE-2023-35078",
-            "title": "LazyySec/CVE-2023-35078: Tools to scanner & exploit cve-2023-35078",
-            "date_modified": "2023-08-27T15:13:39.000Z",
-            "date_published": "2023-07-31T02:24:24.000Z",
-            "author": {
-                "name": "LazyySec",
-                "url": "https://github.com/LazyySec"
             }
         }
     ]
