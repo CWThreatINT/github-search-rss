@@ -17,6 +17,28 @@
             }
         },
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/24622066?u=8558361b80dd82989c73029ae061e73f78777fbd&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>This is a basic proof of concept for the CVE-2023-3883 exploit targeting WinRAR up to 6.22. Modified some existing internet-sourced POCs by introducing greater dynamism and incorporated additional try-except blocks within the code.</div>",
+            "url": "https://github.com/MorDavid/CVE-2023-38831-Winrar-Exploit-Generator-POC",
+            "title": "MorDavid/CVE-2023-38831-Winrar-Exploit-Generator-POC: This is a basic proof of concept for the CVE-2023-3883 exploit targeting WinRAR up to 6.22. Modified some existing internet-sourced POCs by introducing greater dynamism and incorporated additional try-except blocks within the code.",
+            "date_modified": "2023-08-30T19:59:03.000Z",
+            "date_published": "2023-08-30T19:55:11.000Z",
+            "author": {
+                "name": "MorDavid",
+                "url": "https://github.com/MorDavid"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/139050304?u=0072a10978e2ecc80c16d7262b36b3b59263bd10&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
+            "url": "https://github.com/BeniBeastt/CVE-2023-38831_ReverseShell_Winrar",
+            "title": "BeniBeastt/CVE-2023-38831_ReverseShell_Winrar",
+            "date_modified": "2023-08-30T20:05:54.000Z",
+            "date_published": "2023-08-30T15:49:01.000Z",
+            "author": {
+                "name": "BeniBeastt",
+                "url": "https://github.com/BeniBeastt"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/52249849?u=692d616a3c6d9acbf7109603d63eaa3b65c609c6&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Retrieve the master password of a keepass database &lt;= 2.53.1</div>",
             "url": "https://github.com/4m4Sec/CVE-2023-32784",
             "title": "4m4Sec/CVE-2023-32784: Retrieve the master password of a keepass database <= 2.53.1",
@@ -75,7 +97,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/33436708?u=55beb087dc8738fb7c2ca7cf1f1be8a7fea0bb55&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2023-38831 winrar exploit generator</div>",
             "url": "https://github.com/b1tg/CVE-2023-38831-winrar-exploit",
             "title": "b1tg/CVE-2023-38831-winrar-exploit: CVE-2023-38831 winrar exploit generator",
-            "date_modified": "2023-08-30T18:25:36.000Z",
+            "date_modified": "2023-08-30T19:25:34.000Z",
             "date_published": "2023-08-25T09:44:08.000Z",
             "author": {
                 "name": "b1tg",
@@ -201,28 +223,6 @@
             "author": {
                 "name": "hktalent",
                 "url": "https://github.com/hktalent"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/6032062?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>This repository has both an attack detection tool and a Proof-of-Concept (PoC) Python script for the WinRAR CVE-2023-38831 vulnerability. </div>",
-            "url": "https://github.com/MortySecurity/CVE-2023-38831-Exploit-and-Detection",
-            "title": "MortySecurity/CVE-2023-38831-Exploit-and-Detection: This repository has both an attack detection tool and a Proof-of-Concept (PoC) Python script for the WinRAR CVE-2023-38831 vulnerability. ",
-            "date_modified": "2023-08-29T16:16:01.000Z",
-            "date_published": "2023-08-29T16:12:20.000Z",
-            "author": {
-                "name": "MortySecurity",
-                "url": "https://github.com/MortySecurity"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/43114182?u=316467227e7bd26911a725418a764cff32c12551&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Scan for WinRAR files affected to CVE-2023-40477</div>",
-            "url": "https://github.com/winkler-winsen/Scan_WinRAR",
-            "title": "winkler-winsen/Scan_WinRAR: Scan for WinRAR files affected to CVE-2023-40477",
-            "date_modified": "2023-08-29T14:44:09.000Z",
-            "date_published": "2023-08-29T14:41:58.000Z",
-            "author": {
-                "name": "winkler-winsen",
-                "url": "https://github.com/winkler-winsen"
             }
         }
     ]
