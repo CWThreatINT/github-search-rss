@@ -6,6 +6,17 @@
     "description": "CVE-2023 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/5577345?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>POC for Spring Kafka Deserialization Vulnerability CVE-2023-34040</div>",
+            "url": "https://github.com/Contrast-Security-OSS/Spring-Kafka-POC-CVE-2023-34040",
+            "title": "Contrast-Security-OSS/Spring-Kafka-POC-CVE-2023-34040: POC for Spring Kafka Deserialization Vulnerability CVE-2023-34040",
+            "date_modified": "2023-08-30T12:09:16.000Z",
+            "date_published": "2023-08-30T12:09:15.000Z",
+            "author": {
+                "name": "Contrast-Security-OSS",
+                "url": "https://github.com/Contrast-Security-OSS"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/18195825?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023</div>",
             "url": "https://github.com/CVEProject/cvelist",
             "title": "CVEProject/cvelist: Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023",
@@ -64,7 +75,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/33436708?u=55beb087dc8738fb7c2ca7cf1f1be8a7fea0bb55&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2023-38831 winrar exploit generator</div>",
             "url": "https://github.com/b1tg/CVE-2023-38831-winrar-exploit",
             "title": "b1tg/CVE-2023-38831-winrar-exploit: CVE-2023-38831 winrar exploit generator",
-            "date_modified": "2023-08-30T10:28:32.000Z",
+            "date_modified": "2023-08-30T12:09:28.000Z",
             "date_published": "2023-08-25T09:44:08.000Z",
             "author": {
                 "name": "b1tg",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "PascalAsch",
                 "url": "https://github.com/PascalAsch"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/26635022?u=3bd414941d62d450b05921cffcbf6b4b53483df0&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2023-38831 WinRAR</div>",
-            "url": "https://github.com/akhomlyuk/cve-2023-38831",
-            "title": "akhomlyuk/cve-2023-38831: CVE-2023-38831 WinRAR",
-            "date_modified": "2023-08-28T15:26:48.000Z",
-            "date_published": "2023-08-28T14:48:35.000Z",
-            "author": {
-                "name": "akhomlyuk",
-                "url": "https://github.com/akhomlyuk"
             }
         }
     ]
