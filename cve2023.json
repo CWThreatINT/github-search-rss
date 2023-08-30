@@ -6,14 +6,14 @@
     "description": "CVE-2023 FEED on GitHub",
     "items": [
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/18195825?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023</div>",
-            "url": "https://github.com/CVEProject/cvelist",
-            "title": "CVEProject/cvelist: Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023",
-            "date_modified": "2023-08-28T08:52:25.000Z",
-            "date_published": "2020-11-02T19:30:55.000Z",
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/52249849?u=692d616a3c6d9acbf7109603d63eaa3b65c609c6&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Retrieve the master password of a keepass database &lt;= 2.53.1</div>",
+            "url": "https://github.com/4m4Sec/CVE-2023-32784",
+            "title": "4m4Sec/CVE-2023-32784: Retrieve the master password of a keepass database <= 2.53.1",
+            "date_modified": "2023-08-30T16:43:25.000Z",
+            "date_published": "2023-08-30T16:42:19.000Z",
             "author": {
-                "name": "CVEProject",
-                "url": "https://github.com/CVEProject"
+                "name": "4m4Sec",
+                "url": "https://github.com/4m4Sec"
             }
         },
         {
@@ -39,21 +39,10 @@
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/82097150?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>The largest hacking program with new tools CVE-2023-PoC for the year 2023 It contains all the attack and exploitation tools for testing websites, as well as a graphical interface to facilitate its use for beginners</div>",
-            "url": "https://github.com/abrahim7112/hackers_CVE_2023_poc",
-            "title": "abrahim7112/hackers_CVE_2023_poc: The largest hacking program with new tools CVE-2023-PoC for the year 2023 It contains all the attack and exploitation tools for testing websites, as well as a graphical interface to facilitate its use for beginners",
-            "date_modified": "2023-08-30T08:59:05.000Z",
-            "date_published": "2023-07-23T20:33:17.000Z",
-            "author": {
-                "name": "abrahim7112",
-                "url": "https://github.com/abrahim7112"
-            }
-        },
-        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/130668432?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2023-40477 PoC by Wild-Pointer</div>",
             "url": "https://github.com/wildptr-io/Winrar-CVE-2023-40477-POC",
             "title": "wildptr-io/Winrar-CVE-2023-40477-POC: CVE-2023-40477 PoC by Wild-Pointer",
-            "date_modified": "2023-08-30T15:04:05.000Z",
+            "date_modified": "2023-08-30T16:29:36.000Z",
             "date_published": "2023-08-29T16:29:48.000Z",
             "author": {
                 "name": "wildptr-io",
@@ -64,7 +53,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/33436708?u=55beb087dc8738fb7c2ca7cf1f1be8a7fea0bb55&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2023-38831 winrar exploit generator</div>",
             "url": "https://github.com/b1tg/CVE-2023-38831-winrar-exploit",
             "title": "b1tg/CVE-2023-38831-winrar-exploit: CVE-2023-38831 winrar exploit generator",
-            "date_modified": "2023-08-30T15:12:18.000Z",
+            "date_modified": "2023-08-30T16:54:30.000Z",
             "date_published": "2023-08-25T09:44:08.000Z",
             "author": {
                 "name": "b1tg",
@@ -182,17 +171,6 @@
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/18223385?u=5ba29c1a9447ae88a6a0433f44038f47471e11c1&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>TOP All bugbounty pentesting CVE-2023- POC Exp  RCE example payload  Things</div>",
-            "url": "https://github.com/hktalent/TOP",
-            "title": "hktalent/TOP: TOP All bugbounty pentesting CVE-2023- POC Exp  RCE example payload  Things",
-            "date_modified": "2023-08-29T07:53:02.000Z",
-            "date_published": "2022-03-19T01:54:15.000Z",
-            "author": {
-                "name": "hktalent",
-                "url": "https://github.com/hktalent"
-            }
-        },
-        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/6032062?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>This repository has both an attack detection tool and a Proof-of-Concept (PoC) Python script for the WinRAR CVE-2023-38831 vulnerability. </div>",
             "url": "https://github.com/MortySecurity/CVE-2023-38831-Exploit-and-Detection",
             "title": "MortySecurity/CVE-2023-38831-Exploit-and-Detection: This repository has both an attack detection tool and a Proof-of-Concept (PoC) Python script for the WinRAR CVE-2023-38831 vulnerability. ",
@@ -223,6 +201,28 @@
             "author": {
                 "name": "xhs-d",
                 "url": "https://github.com/xhs-d"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/43114182?u=316467227e7bd26911a725418a764cff32c12551&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Scan for GhostScript files affected to CVE-2023-36664</div>",
+            "url": "https://github.com/winkler-winsen/Scan_GhostScript",
+            "title": "winkler-winsen/Scan_GhostScript: Scan for GhostScript files affected to CVE-2023-36664",
+            "date_modified": "2023-08-29T14:06:12.000Z",
+            "date_published": "2023-08-29T14:01:49.000Z",
+            "author": {
+                "name": "winkler-winsen",
+                "url": "https://github.com/winkler-winsen"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/95119705?u=955f8547a4297b58c89af1da8b9290106882ca75&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Proof of Concept (POC) for CVE-2023-38831 WinRAR</div>",
+            "url": "https://github.com/thegr1ffyn/CVE-2023-38831",
+            "title": "thegr1ffyn/CVE-2023-38831: Proof of Concept (POC) for CVE-2023-38831 WinRAR",
+            "date_modified": "2023-08-29T06:12:57.000Z",
+            "date_published": "2023-08-29T06:11:42.000Z",
+            "author": {
+                "name": "thegr1ffyn",
+                "url": "https://github.com/thegr1ffyn"
             }
         }
     ]
