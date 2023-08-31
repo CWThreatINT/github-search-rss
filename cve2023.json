@@ -6,17 +6,6 @@
     "description": "CVE-2023 FEED on GitHub",
     "items": [
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/104791322?u=645e864213b1df64a36504df515c19fb3e6ce9d5&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>winrar exploit 6.22 &lt;=</div>",
-            "url": "https://github.com/nhman-python/CVE-2023-38831",
-            "title": "nhman-python/CVE-2023-38831: winrar exploit 6.22 <=",
-            "date_modified": "2023-08-30T10:15:43.000Z",
-            "date_published": "2023-08-30T10:11:16.000Z",
-            "author": {
-                "name": "nhman-python",
-                "url": "https://github.com/nhman-python"
-            }
-        },
-        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/18195825?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023</div>",
             "url": "https://github.com/CVEProject/cvelist",
             "title": "CVEProject/cvelist: Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023",
@@ -25,6 +14,28 @@
             "author": {
                 "name": "CVEProject",
                 "url": "https://github.com/CVEProject"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/96432001?u=96ae96621e52760886c3a02efef816a870b5e264&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Pasos necesarios para obtener una reverse shell explotando la vulnerabilidad de winrar CVE-2023-38831 en versiones anteriores a 6.23.</div>",
+            "url": "https://github.com/Maalfer/CVE-2023-38831_ReverseShell_Winrar-RCE",
+            "title": "Maalfer/CVE-2023-38831_ReverseShell_Winrar-RCE: Pasos necesarios para obtener una reverse shell explotando la vulnerabilidad de winrar CVE-2023-38831 en versiones anteriores a 6.23.",
+            "date_modified": "2023-08-30T01:27:38.000Z",
+            "date_published": "2023-08-28T08:56:16.000Z",
+            "author": {
+                "name": "Maalfer",
+                "url": "https://github.com/Maalfer"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/104791322?u=645e864213b1df64a36504df515c19fb3e6ce9d5&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>winrar exploit 6.22 &lt;=</div>",
+            "url": "https://github.com/nhman-python/CVE-2023-38831",
+            "title": "nhman-python/CVE-2023-38831: winrar exploit 6.22 <=",
+            "date_modified": "2023-08-30T10:15:43.000Z",
+            "date_published": "2023-08-30T10:11:16.000Z",
+            "author": {
+                "name": "nhman-python",
+                "url": "https://github.com/nhman-python"
             }
         },
         {
@@ -212,17 +223,6 @@
             "author": {
                 "name": "zh-byte",
                 "url": "https://github.com/zh-byte"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/5577345?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>POC for Spring Kafka Deserialization Vulnerability CVE-2023-34040</div>",
-            "url": "https://github.com/Contrast-Security-OSS/Spring-Kafka-POC-CVE-2023-34040",
-            "title": "Contrast-Security-OSS/Spring-Kafka-POC-CVE-2023-34040: POC for Spring Kafka Deserialization Vulnerability CVE-2023-34040",
-            "date_modified": "2023-08-30T12:18:38.000Z",
-            "date_published": "2023-08-30T12:09:15.000Z",
-            "author": {
-                "name": "Contrast-Security-OSS",
-                "url": "https://github.com/Contrast-Security-OSS"
             }
         }
     ]
