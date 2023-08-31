@@ -6,6 +6,28 @@
     "description": "CVE-2023 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/70421698?u=ef29748fae15182b6499d1c1c3a9d9052305ab7c&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Tool for CVE-2023-32315 exploitation</div>",
+            "url": "https://github.com/gibran-abdillah/CVE-2023-32315",
+            "title": "gibran-abdillah/CVE-2023-32315: Tool for CVE-2023-32315 exploitation",
+            "date_modified": "2023-08-31T08:52:23.000Z",
+            "date_published": "2023-08-31T08:43:44.000Z",
+            "author": {
+                "name": "gibran-abdillah",
+                "url": "https://github.com/gibran-abdillah"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/10403781?u=c3370c61f020003fff5927dac120ddb90683e079&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2023-30943  RCE PoC</div>",
+            "url": "https://github.com/d0rb/CVE-2023-30943",
+            "title": "d0rb/CVE-2023-30943: CVE-2023-30943  RCE PoC",
+            "date_modified": "2023-08-31T08:59:48.000Z",
+            "date_published": "2023-08-31T08:18:17.000Z",
+            "author": {
+                "name": "d0rb",
+                "url": "https://github.com/d0rb"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/18195825?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023</div>",
             "url": "https://github.com/CVEProject/cvelist",
             "title": "CVEProject/cvelist: Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023",
@@ -86,7 +108,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/24622066?u=8558361b80dd82989c73029ae061e73f78777fbd&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>This is a basic proof of concept for the CVE-2023-3883 exploit targeting WinRAR up to 6.22. Modified some existing internet-sourced POCs by introducing greater dynamism and incorporated additional try-except blocks within the code.</div>",
             "url": "https://github.com/MorDavid/CVE-2023-38831-Winrar-Exploit-Generator-POC",
             "title": "MorDavid/CVE-2023-38831-Winrar-Exploit-Generator-POC: This is a basic proof of concept for the CVE-2023-3883 exploit targeting WinRAR up to 6.22. Modified some existing internet-sourced POCs by introducing greater dynamism and incorporated additional try-except blocks within the code.",
-            "date_modified": "2023-08-30T23:37:52.000Z",
+            "date_modified": "2023-08-31T08:36:33.000Z",
             "date_published": "2023-08-30T19:55:11.000Z",
             "author": {
                 "name": "MorDavid",
@@ -174,7 +196,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/33436708?u=55beb087dc8738fb7c2ca7cf1f1be8a7fea0bb55&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2023-38831 winrar exploit generator</div>",
             "url": "https://github.com/b1tg/CVE-2023-38831-winrar-exploit",
             "title": "b1tg/CVE-2023-38831-winrar-exploit: CVE-2023-38831 winrar exploit generator",
-            "date_modified": "2023-08-31T07:03:28.000Z",
+            "date_modified": "2023-08-31T08:58:31.000Z",
             "date_published": "2023-08-25T09:44:08.000Z",
             "author": {
                 "name": "b1tg",
@@ -201,28 +223,6 @@
             "author": {
                 "name": "SugiB3o",
                 "url": "https://github.com/SugiB3o"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/62406753?u=dbe6e3b2f9570064240f700ed08eef5443c9cc5a&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2023-26818 Exploit MacOS TCC Bypass W/ Telegram</div>",
-            "url": "https://github.com/Zeyad-Azima/CVE-2023-26818",
-            "title": "Zeyad-Azima/CVE-2023-26818: CVE-2023-26818 Exploit MacOS TCC Bypass W/ Telegram",
-            "date_modified": "2023-08-31T04:14:54.000Z",
-            "date_published": "2023-08-30T12:40:50.000Z",
-            "author": {
-                "name": "Zeyad-Azima",
-                "url": "https://github.com/Zeyad-Azima"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/81899489?u=172cd1696d63da448631f10408c33771a48d5024&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>大华智慧园区综合管理平台publishing文件上传</div>",
-            "url": "https://github.com/zh-byte/CVE-2023-3836",
-            "title": "zh-byte/CVE-2023-3836: 大华智慧园区综合管理平台publishing文件上传",
-            "date_modified": "2023-08-30T12:21:50.000Z",
-            "date_published": "2023-08-30T12:11:42.000Z",
-            "author": {
-                "name": "zh-byte",
-                "url": "https://github.com/zh-byte"
             }
         }
     ]
