@@ -17,6 +17,17 @@
             }
         },
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/110461609?u=f0e3a6d2dbe185d276e09717d55b21a6250ca818&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>an exploit of POC for CVE-2023-34362 affecting MOVEit Transfer</div>",
+            "url": "https://github.com/errorfiathck/MOVEit-Exploit",
+            "title": "errorfiathck/MOVEit-Exploit: an exploit of POC for CVE-2023-34362 affecting MOVEit Transfer",
+            "date_modified": "2023-08-31T13:33:03.000Z",
+            "date_published": "2023-08-31T13:25:53.000Z",
+            "author": {
+                "name": "errorfiathck",
+                "url": "https://github.com/errorfiathck"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/57531297?u=4c8e43476a853d5e0a613c6154e3b96e098d21a5&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>PoC Script for CVE-2023-4596, unauthenticated Remote Command Execution through arbitrary file uploads.</div>",
             "url": "https://github.com/E1A/CVE-2023-4596",
             "title": "E1A/CVE-2023-4596: PoC Script for CVE-2023-4596, unauthenticated Remote Command Execution through arbitrary file uploads.",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "wildptr-io",
                 "url": "https://github.com/wildptr-io"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/33436708?u=55beb087dc8738fb7c2ca7cf1f1be8a7fea0bb55&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2023-38831 winrar exploit generator</div>",
-            "url": "https://github.com/b1tg/CVE-2023-38831-winrar-exploit",
-            "title": "b1tg/CVE-2023-38831-winrar-exploit: CVE-2023-38831 winrar exploit generator",
-            "date_modified": "2023-08-31T12:44:08.000Z",
-            "date_published": "2023-08-25T09:44:08.000Z",
-            "author": {
-                "name": "b1tg",
-                "url": "https://github.com/b1tg"
             }
         }
     ]
