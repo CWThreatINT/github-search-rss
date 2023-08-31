@@ -6,14 +6,25 @@
     "description": "CVE-2023 FEED on GitHub",
     "items": [
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/57531297?u=4c8e43476a853d5e0a613c6154e3b96e098d21a5&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>PoC Script for CVE-2023-4596, unauthenticated Remote Command Execution through arbitrary file uploads.</div>",
-            "url": "https://github.com/E1A/CVE-2023-4596",
-            "title": "E1A/CVE-2023-4596: PoC Script for CVE-2023-4596, unauthenticated Remote Command Execution through arbitrary file uploads.",
-            "date_modified": "2023-08-30T23:04:02.000Z",
-            "date_published": "2023-08-30T22:40:10.000Z",
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/87457806?u=b1590a26f43707635e3da7a74824966ad3e86594&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Jira plugin STAGIL Navigation FileName的参数任意文件读取漏洞</div>",
+            "url": "https://github.com/Nian-Stars/CVE-2023-26255-6",
+            "title": "Nian-Stars/CVE-2023-26255-6: Jira plugin STAGIL Navigation FileName的参数任意文件读取漏洞",
+            "date_modified": "2023-08-31T00:03:30.000Z",
+            "date_published": "2023-08-30T23:57:10.000Z",
             "author": {
-                "name": "E1A",
-                "url": "https://github.com/E1A"
+                "name": "Nian-Stars",
+                "url": "https://github.com/Nian-Stars"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/18223385?u=5ba29c1a9447ae88a6a0433f44038f47471e11c1&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>TOP All bugbounty pentesting CVE-2023- POC Exp  RCE example payload  Things</div>",
+            "url": "https://github.com/hktalent/TOP",
+            "title": "hktalent/TOP: TOP All bugbounty pentesting CVE-2023- POC Exp  RCE example payload  Things",
+            "date_modified": "2023-08-29T07:53:02.000Z",
+            "date_published": "2022-03-19T01:54:15.000Z",
+            "author": {
+                "name": "hktalent",
+                "url": "https://github.com/hktalent"
             }
         },
         {
@@ -28,6 +39,28 @@
             }
         },
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/57531297?u=4c8e43476a853d5e0a613c6154e3b96e098d21a5&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>PoC Script for CVE-2023-4596, unauthenticated Remote Command Execution through arbitrary file uploads.</div>",
+            "url": "https://github.com/E1A/CVE-2023-4596",
+            "title": "E1A/CVE-2023-4596: PoC Script for CVE-2023-4596, unauthenticated Remote Command Execution through arbitrary file uploads.",
+            "date_modified": "2023-08-30T23:06:20.000Z",
+            "date_published": "2023-08-30T22:40:10.000Z",
+            "author": {
+                "name": "E1A",
+                "url": "https://github.com/E1A"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/24622066?u=8558361b80dd82989c73029ae061e73f78777fbd&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>This is a basic proof of concept for the CVE-2023-3883 exploit targeting WinRAR up to 6.22. Modified some existing internet-sourced POCs by introducing greater dynamism and incorporated additional try-except blocks within the code.</div>",
+            "url": "https://github.com/MorDavid/CVE-2023-38831-Winrar-Exploit-Generator-POC",
+            "title": "MorDavid/CVE-2023-38831-Winrar-Exploit-Generator-POC: This is a basic proof of concept for the CVE-2023-3883 exploit targeting WinRAR up to 6.22. Modified some existing internet-sourced POCs by introducing greater dynamism and incorporated additional try-except blocks within the code.",
+            "date_modified": "2023-08-30T23:37:52.000Z",
+            "date_published": "2023-08-30T19:55:11.000Z",
+            "author": {
+                "name": "MorDavid",
+                "url": "https://github.com/MorDavid"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/37003131?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2023-27524</div>",
             "url": "https://github.com/necroteddy/CVE-2023-27524",
             "title": "necroteddy/CVE-2023-27524: CVE-2023-27524",
@@ -36,17 +69,6 @@
             "author": {
                 "name": "necroteddy",
                 "url": "https://github.com/necroteddy"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/24622066?u=8558361b80dd82989c73029ae061e73f78777fbd&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>This is a basic proof of concept for the CVE-2023-3883 exploit targeting WinRAR up to 6.22. Modified some existing internet-sourced POCs by introducing greater dynamism and incorporated additional try-except blocks within the code.</div>",
-            "url": "https://github.com/MorDavid/CVE-2023-38831-Winrar-Exploit-Generator-POC",
-            "title": "MorDavid/CVE-2023-38831-Winrar-Exploit-Generator-POC: This is a basic proof of concept for the CVE-2023-3883 exploit targeting WinRAR up to 6.22. Modified some existing internet-sourced POCs by introducing greater dynamism and incorporated additional try-except blocks within the code.",
-            "date_modified": "2023-08-30T20:34:06.000Z",
-            "date_published": "2023-08-30T19:55:11.000Z",
-            "author": {
-                "name": "MorDavid",
-                "url": "https://github.com/MorDavid"
             }
         },
         {
@@ -201,28 +223,6 @@
             "author": {
                 "name": "Ahmed1Al",
                 "url": "https://github.com/Ahmed1Al"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/104791322?u=645e864213b1df64a36504df515c19fb3e6ce9d5&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>winrar exploit 6.22 &lt;=</div>",
-            "url": "https://github.com/nhman-python/CVE-2023-38831",
-            "title": "nhman-python/CVE-2023-38831: winrar exploit 6.22 <=",
-            "date_modified": "2023-08-30T10:15:43.000Z",
-            "date_published": "2023-08-30T10:11:16.000Z",
-            "author": {
-                "name": "nhman-python",
-                "url": "https://github.com/nhman-python"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/67722627?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div> Ivanti Endpoint Manager Mobile (EPMM)   POC</div>",
-            "url": "https://github.com/Blue-number/CVE-2023-35078",
-            "title": "Blue-number/CVE-2023-35078:  Ivanti Endpoint Manager Mobile (EPMM)   POC",
-            "date_modified": "2023-08-30T02:36:28.000Z",
-            "date_published": "2023-08-30T02:36:20.000Z",
-            "author": {
-                "name": "Blue-number",
-                "url": "https://github.com/Blue-number"
             }
         }
     ]
