@@ -17,17 +17,6 @@
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/87472327?u=e4774e771bacb82de7031364eb733bfe1d8bba80&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
-            "url": "https://github.com/yuanjinyuyuyu/CVE-2023-3450",
-            "title": "yuanjinyuyuyu/CVE-2023-3450",
-            "date_modified": "2023-08-31T17:54:36.000Z",
-            "date_published": "2023-08-31T17:32:27.000Z",
-            "author": {
-                "name": "yuanjinyuyuyu",
-                "url": "https://github.com/yuanjinyuyuyu"
-            }
-        },
-        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/57531297?u=4c8e43476a853d5e0a613c6154e3b96e098d21a5&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>PoC Script for CVE-2023-4596, unauthenticated Remote Command Execution through arbitrary file uploads.</div>",
             "url": "https://github.com/E1A/CVE-2023-4596",
             "title": "E1A/CVE-2023-4596: PoC Script for CVE-2023-4596, unauthenticated Remote Command Execution through arbitrary file uploads.",
@@ -36,6 +25,28 @@
             "author": {
                 "name": "E1A",
                 "url": "https://github.com/E1A"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/46203546?u=cd409fceca20e30854863c76d713dac01e7eea7a&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Cargo exploit from CVE-2023-38497</div>",
+            "url": "https://github.com/lucas-cauhe/cargo-perm",
+            "title": "lucas-cauhe/cargo-perm: Cargo exploit from CVE-2023-38497",
+            "date_modified": "2023-08-23T18:15:24.000Z",
+            "date_published": "2023-08-04T16:36:10.000Z",
+            "author": {
+                "name": "lucas-cauhe",
+                "url": "https://github.com/lucas-cauhe"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/87472327?u=e4774e771bacb82de7031364eb733bfe1d8bba80&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
+            "url": "https://github.com/yuanjinyuyuyu/CVE-2023-3450",
+            "title": "yuanjinyuyuyu/CVE-2023-3450",
+            "date_modified": "2023-08-31T17:54:36.000Z",
+            "date_published": "2023-08-31T17:32:27.000Z",
+            "author": {
+                "name": "yuanjinyuyuyu",
+                "url": "https://github.com/yuanjinyuyuyu"
             }
         },
         {
@@ -212,17 +223,6 @@
             "author": {
                 "name": "4m4Sec",
                 "url": "https://github.com/4m4Sec"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/143074431?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
-            "url": "https://github.com/qs119/CVE-2023-26256",
-            "title": "qs119/CVE-2023-26256",
-            "date_modified": "2023-08-30T15:29:48.000Z",
-            "date_published": "2023-08-30T15:21:00.000Z",
-            "author": {
-                "name": "qs119",
-                "url": "https://github.com/qs119"
             }
         }
     ]
