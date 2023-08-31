@@ -6,6 +6,17 @@
     "description": "CVE-2023 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/104791322?u=645e864213b1df64a36504df515c19fb3e6ce9d5&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>winrar exploit 6.22 &lt;=</div>",
+            "url": "https://github.com/nhman-python/CVE-2023-38831",
+            "title": "nhman-python/CVE-2023-38831: winrar exploit 6.22 <=",
+            "date_modified": "2023-08-30T10:15:43.000Z",
+            "date_published": "2023-08-30T10:11:16.000Z",
+            "author": {
+                "name": "nhman-python",
+                "url": "https://github.com/nhman-python"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/18195825?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023</div>",
             "url": "https://github.com/CVEProject/cvelist",
             "title": "CVEProject/cvelist: Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023",
@@ -14,6 +25,17 @@
             "author": {
                 "name": "CVEProject",
                 "url": "https://github.com/CVEProject"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/77956516?u=6ae24374756ed2d4bc3e7bae2ec1cea98accfda7&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>[CVE_2023_28432漏洞 、CVE_2023_32315漏洞、 ThinkPHP 2.x 任意代码执行漏洞 、ThinkPHP5 5.0.22/5.1.29 远程代码执行漏洞、 ThinkPHP5 5.0.23 远程代码执行漏洞 ThinkPHP 多语言本地文件包含漏洞]</div>",
+            "url": "https://github.com/bingtangbanli/VulnerabilityTools",
+            "title": "bingtangbanli/VulnerabilityTools: [CVE_2023_28432漏洞 、CVE_2023_32315漏洞、 ThinkPHP 2.x 任意代码执行漏洞 、ThinkPHP5 5.0.22/5.1.29 远程代码执行漏洞、 ThinkPHP5 5.0.23 远程代码执行漏洞 ThinkPHP 多语言本地文件包含漏洞]",
+            "date_modified": "2023-08-31T06:47:46.000Z",
+            "date_published": "2023-08-31T03:22:09.000Z",
+            "author": {
+                "name": "bingtangbanli",
+                "url": "https://github.com/bingtangbanli"
             }
         },
         {
@@ -141,7 +163,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/33436708?u=55beb087dc8738fb7c2ca7cf1f1be8a7fea0bb55&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2023-38831 winrar exploit generator</div>",
             "url": "https://github.com/b1tg/CVE-2023-38831-winrar-exploit",
             "title": "b1tg/CVE-2023-38831-winrar-exploit: CVE-2023-38831 winrar exploit generator",
-            "date_modified": "2023-08-31T05:39:13.000Z",
+            "date_modified": "2023-08-31T07:03:28.000Z",
             "date_published": "2023-08-25T09:44:08.000Z",
             "author": {
                 "name": "b1tg",
@@ -201,28 +223,6 @@
             "author": {
                 "name": "Contrast-Security-OSS",
                 "url": "https://github.com/Contrast-Security-OSS"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/82941858?u=6af58ff55af168b10475f5babc61d9f10a81e54c&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2023</div>",
-            "url": "https://github.com/ayhan-dev/CVE",
-            "title": "ayhan-dev/CVE: CVE-2023",
-            "date_modified": "2023-08-29T12:54:46.000Z",
-            "date_published": "2023-08-28T15:53:25.000Z",
-            "author": {
-                "name": "ayhan-dev",
-                "url": "https://github.com/ayhan-dev"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/139757216?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
-            "url": "https://github.com/Ahmed1Al/CVE-2023-38831-winrar-exploit",
-            "title": "Ahmed1Al/CVE-2023-38831-winrar-exploit",
-            "date_modified": "2023-08-30T10:34:25.000Z",
-            "date_published": "2023-08-30T10:34:03.000Z",
-            "author": {
-                "name": "Ahmed1Al",
-                "url": "https://github.com/Ahmed1Al"
             }
         }
     ]
