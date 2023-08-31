@@ -6,6 +6,17 @@
     "description": "CVE-2023 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/18195825?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023</div>",
+            "url": "https://github.com/CVEProject/cvelist",
+            "title": "CVEProject/cvelist: Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023",
+            "date_modified": "2023-08-31T00:44:10.000Z",
+            "date_published": "2020-11-02T19:30:55.000Z",
+            "author": {
+                "name": "CVEProject",
+                "url": "https://github.com/CVEProject"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/87457806?u=b1590a26f43707635e3da7a74824966ad3e86594&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Jira plugin STAGIL Navigation FileName的参数任意文件读取漏洞</div>",
             "url": "https://github.com/Nian-Stars/CVE-2023-26255-6",
             "title": "Nian-Stars/CVE-2023-26255-6: Jira plugin STAGIL Navigation FileName的参数任意文件读取漏洞",
@@ -25,17 +36,6 @@
             "author": {
                 "name": "hktalent",
                 "url": "https://github.com/hktalent"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/18195825?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023</div>",
-            "url": "https://github.com/CVEProject/cvelist",
-            "title": "CVEProject/cvelist: Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023",
-            "date_modified": "2023-08-28T08:52:25.000Z",
-            "date_published": "2020-11-02T19:30:55.000Z",
-            "author": {
-                "name": "CVEProject",
-                "url": "https://github.com/CVEProject"
             }
         },
         {
@@ -130,7 +130,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/130668432?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2023-40477 PoC by Wild-Pointer</div>",
             "url": "https://github.com/wildptr-io/Winrar-CVE-2023-40477-POC",
             "title": "wildptr-io/Winrar-CVE-2023-40477-POC: CVE-2023-40477 PoC by Wild-Pointer",
-            "date_modified": "2023-08-30T22:46:16.000Z",
+            "date_modified": "2023-08-31T01:36:46.000Z",
             "date_published": "2023-08-29T16:29:48.000Z",
             "author": {
                 "name": "wildptr-io",
@@ -141,7 +141,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/33436708?u=55beb087dc8738fb7c2ca7cf1f1be8a7fea0bb55&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2023-38831 winrar exploit generator</div>",
             "url": "https://github.com/b1tg/CVE-2023-38831-winrar-exploit",
             "title": "b1tg/CVE-2023-38831-winrar-exploit: CVE-2023-38831 winrar exploit generator",
-            "date_modified": "2023-08-30T22:50:20.000Z",
+            "date_modified": "2023-08-31T00:58:04.000Z",
             "date_published": "2023-08-25T09:44:08.000Z",
             "author": {
                 "name": "b1tg",
