@@ -6,6 +6,28 @@
     "description": "CVE-2023 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/18195825?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023</div>",
+            "url": "https://github.com/CVEProject/cvelist",
+            "title": "CVEProject/cvelist: Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023",
+            "date_modified": "2023-08-31T00:44:10.000Z",
+            "date_published": "2020-11-02T19:30:55.000Z",
+            "author": {
+                "name": "CVEProject",
+                "url": "https://github.com/CVEProject"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/87457452?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
+            "url": "https://github.com/mvpyyds/CVE-2023-4165",
+            "title": "mvpyyds/CVE-2023-4165",
+            "date_modified": "2023-09-01T03:56:08.000Z",
+            "date_published": "2023-09-01T03:55:23.000Z",
+            "author": {
+                "name": "mvpyyds",
+                "url": "https://github.com/mvpyyds"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/17696068?u=de74c25d281a138c374675b5e02dd7889d257121&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>PoC of CVE-2023-36281</div>",
             "url": "https://github.com/tagomaru/CVE-2023-36281",
             "title": "tagomaru/CVE-2023-36281: PoC of CVE-2023-36281",
@@ -25,17 +47,6 @@
             "author": {
                 "name": "zh-byte",
                 "url": "https://github.com/zh-byte"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/18195825?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023</div>",
-            "url": "https://github.com/CVEProject/cvelist",
-            "title": "CVEProject/cvelist: Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023",
-            "date_modified": "2023-08-31T00:44:10.000Z",
-            "date_published": "2020-11-02T19:30:55.000Z",
-            "author": {
-                "name": "CVEProject",
-                "url": "https://github.com/CVEProject"
             }
         },
         {
@@ -212,17 +223,6 @@
             "author": {
                 "name": "Nian-Stars",
                 "url": "https://github.com/Nian-Stars"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/37003131?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2023-27524</div>",
-            "url": "https://github.com/necroteddy/CVE-2023-27524",
-            "title": "necroteddy/CVE-2023-27524: CVE-2023-27524",
-            "date_modified": "2023-08-30T21:00:37.000Z",
-            "date_published": "2023-08-30T20:59:28.000Z",
-            "author": {
-                "name": "necroteddy",
-                "url": "https://github.com/necroteddy"
             }
         }
     ]
