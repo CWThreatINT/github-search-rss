@@ -6,17 +6,6 @@
     "description": "CVE-2023 FEED on GitHub",
     "items": [
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/32686360?u=5d9be61f792f41f7f7c5e08e64006d4f148e0842&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div><a href=\"https://medium.com/@mnqazi/cve-2023-4696-account-takeover-due-to-improper-handling-of-jwt-tokens-in-memos-v0-13-2-13104e1412f3\" rel=\"nofollow\">https://medium.com/@mnqazi/cve-2023-4696-account-takeover-due-to-improper-handling-of-jwt-tokens-in-memos-v0-13-2-13104e1412f3</a></div>",
-            "url": "https://github.com/mnqazi/CVE-2023-4696",
-            "title": "mnqazi/CVE-2023-4696: https://medium.com/@mnqazi/cve-2023-4696-account-takeover-due-to-improper-handling-of-jwt-tokens-in-memos-v0-13-2-13104e1412f3",
-            "date_modified": "2023-09-01T09:02:04.000Z",
-            "date_published": "2023-09-01T09:02:03.000Z",
-            "author": {
-                "name": "mnqazi",
-                "url": "https://github.com/mnqazi"
-            }
-        },
-        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/18195825?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023</div>",
             "url": "https://github.com/CVEProject/cvelist",
             "title": "CVEProject/cvelist: Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023",
@@ -25,6 +14,28 @@
             "author": {
                 "name": "CVEProject",
                 "url": "https://github.com/CVEProject"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/10403781?u=c3370c61f020003fff5927dac120ddb90683e079&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2023-26469 REC PoC</div>",
+            "url": "https://github.com/d0rb/CVE-2023-26469",
+            "title": "d0rb/CVE-2023-26469: CVE-2023-26469 REC PoC",
+            "date_modified": "2023-09-01T09:43:05.000Z",
+            "date_published": "2023-09-01T09:41:32.000Z",
+            "author": {
+                "name": "d0rb",
+                "url": "https://github.com/d0rb"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/32686360?u=5d9be61f792f41f7f7c5e08e64006d4f148e0842&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div><a href=\"https://medium.com/@mnqazi/cve-2023-4696-account-takeover-due-to-improper-handling-of-jwt-tokens-in-memos-v0-13-2-13104e1412f3\" rel=\"nofollow\">https://medium.com/@mnqazi/cve-2023-4696-account-takeover-due-to-improper-handling-of-jwt-tokens-in-memos-v0-13-2-13104e1412f3</a></div>",
+            "url": "https://github.com/mnqazi/CVE-2023-4696",
+            "title": "mnqazi/CVE-2023-4696: https://medium.com/@mnqazi/cve-2023-4696-account-takeover-due-to-improper-handling-of-jwt-tokens-in-memos-v0-13-2-13104e1412f3",
+            "date_modified": "2023-09-01T09:02:04.000Z",
+            "date_published": "2023-09-01T09:02:03.000Z",
+            "author": {
+                "name": "mnqazi",
+                "url": "https://github.com/mnqazi"
             }
         },
         {
@@ -196,7 +207,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/38486839?u=9b8414ea62d78f66d2b21c5f731e44f0c0fa9acd&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>This repository is to provide a write-up and PoC for CVE-2023-41717.</div>",
             "url": "https://github.com/federella/CVE-2023-41717",
             "title": "federella/CVE-2023-41717: This repository is to provide a write-up and PoC for CVE-2023-41717.",
-            "date_modified": "2023-09-01T07:41:17.000Z",
+            "date_modified": "2023-09-01T09:58:43.000Z",
             "date_published": "2023-08-31T08:10:22.000Z",
             "author": {
                 "name": "federella",
@@ -207,22 +218,11 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/10403781?u=c3370c61f020003fff5927dac120ddb90683e079&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2023-30943  RCE PoC</div>",
             "url": "https://github.com/d0rb/CVE-2023-30943",
             "title": "d0rb/CVE-2023-30943: CVE-2023-30943  RCE PoC",
-            "date_modified": "2023-09-01T08:18:48.000Z",
+            "date_modified": "2023-09-01T09:56:53.000Z",
             "date_published": "2023-08-31T08:18:17.000Z",
             "author": {
                 "name": "d0rb",
                 "url": "https://github.com/d0rb"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/143702445?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Script for checking CVE-2023-3519 for Backdoors</div>",
-            "url": "https://github.com/JonaNeidhart/CVE-2023-3519-BackdoorCheck",
-            "title": "JonaNeidhart/CVE-2023-3519-BackdoorCheck: Script for checking CVE-2023-3519 for Backdoors",
-            "date_modified": "2023-08-31T09:14:30.000Z",
-            "date_published": "2023-08-31T09:10:30.000Z",
-            "author": {
-                "name": "JonaNeidhart",
-                "url": "https://github.com/JonaNeidhart"
             }
         }
     ]
