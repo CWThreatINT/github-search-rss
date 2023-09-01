@@ -17,6 +17,17 @@
             }
         },
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/57531297?u=4c8e43476a853d5e0a613c6154e3b96e098d21a5&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>PoC Script for CVE-2023-4596, unauthenticated Remote Command Execution through arbitrary file uploads.</div>",
+            "url": "https://github.com/E1A/CVE-2023-4596",
+            "title": "E1A/CVE-2023-4596: PoC Script for CVE-2023-4596, unauthenticated Remote Command Execution through arbitrary file uploads.",
+            "date_modified": "2023-09-01T05:35:28.000Z",
+            "date_published": "2023-08-30T22:40:10.000Z",
+            "author": {
+                "name": "E1A",
+                "url": "https://github.com/E1A"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/30556763?u=60cb550f65b8ce7818c04a23640d2c05934cb544&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2023-38831 winrar exploit builder</div>",
             "url": "https://github.com/Mich-ele/CVE-2023-38831-winrar",
             "title": "Mich-ele/CVE-2023-38831-winrar: CVE-2023-38831 winrar exploit builder",
@@ -42,7 +53,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/77316200?u=9dc7c431ad186055ec04ac9d298c4bf116164365&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>VMWare Aria Operations for Networks (vRealize Network Insight) Static SSH key RCE (CVE-2023-34039)</div>",
             "url": "https://github.com/sinsinology/CVE-2023-34039",
             "title": "sinsinology/CVE-2023-34039: VMWare Aria Operations for Networks (vRealize Network Insight) Static SSH key RCE (CVE-2023-34039)",
-            "date_modified": "2023-09-01T16:44:44.000Z",
+            "date_modified": "2023-09-01T18:23:21.000Z",
             "date_published": "2023-09-01T16:17:10.000Z",
             "author": {
                 "name": "sinsinology",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "hktalent",
                 "url": "https://github.com/hktalent"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/57531297?u=4c8e43476a853d5e0a613c6154e3b96e098d21a5&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>PoC Script for CVE-2023-4596, unauthenticated Remote Command Execution through arbitrary file uploads.</div>",
-            "url": "https://github.com/E1A/CVE-2023-4596",
-            "title": "E1A/CVE-2023-4596: PoC Script for CVE-2023-4596, unauthenticated Remote Command Execution through arbitrary file uploads.",
-            "date_modified": "2023-09-01T05:35:28.000Z",
-            "date_published": "2023-08-30T22:40:10.000Z",
-            "author": {
-                "name": "E1A",
-                "url": "https://github.com/E1A"
             }
         }
     ]
