@@ -6,6 +6,17 @@
     "description": "CVE-2022 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/50972716?u=e55eb23d9ab6f7a723a9dded438d4397b14566e0&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Example payload for CVE-2022-21894</div>",
+            "url": "https://github.com/ASkyeye/CVE-2022-21894-Payload",
+            "title": "ASkyeye/CVE-2022-21894-Payload: Example payload for CVE-2022-21894",
+            "date_modified": "2023-09-01T11:35:14.000Z",
+            "date_published": "2022-08-18T23:45:47.000Z",
+            "author": {
+                "name": "ASkyeye",
+                "url": "https://github.com/ASkyeye"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/143511005?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2022-46169</div>",
             "url": "https://github.com/a1665454764/CVE-2022-46169",
             "title": "a1665454764/CVE-2022-46169: CVE-2022-46169",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "Halcy0nic",
                 "url": "https://github.com/Halcy0nic"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/142154570?u=90a88deed0e45772b73c4abf5bf46bb3f39e9b13&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
-            "url": "https://github.com/Nithisssh/CVE-2022-3457",
-            "title": "Nithisssh/CVE-2022-3457",
-            "date_modified": "2023-08-13T18:28:34.000Z",
-            "date_published": "2023-08-13T18:28:33.000Z",
-            "author": {
-                "name": "Nithisssh",
-                "url": "https://github.com/Nithisssh"
             }
         }
     ]
