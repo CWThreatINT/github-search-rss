@@ -17,6 +17,17 @@
             }
         },
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/106973537?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
+            "url": "https://github.com/nidhi7598/linux-4.19.72_CVE-2023-3609",
+            "title": "nidhi7598/linux-4.19.72_CVE-2023-3609",
+            "date_modified": "2023-09-01T10:51:08.000Z",
+            "date_published": "2023-09-01T10:44:56.000Z",
+            "author": {
+                "name": "nidhi7598",
+                "url": "https://github.com/nidhi7598"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/10403781?u=c3370c61f020003fff5927dac120ddb90683e079&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2023-26469 REC PoC</div>",
             "url": "https://github.com/d0rb/CVE-2023-26469",
             "title": "d0rb/CVE-2023-26469: CVE-2023-26469 REC PoC",
@@ -42,7 +53,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/50145679?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Pwn2Own Vancouver 2023 Ubuntu LPE exploit</div>",
             "url": "https://github.com/synacktiv/CVE-2023-35001",
             "title": "synacktiv/CVE-2023-35001: Pwn2Own Vancouver 2023 Ubuntu LPE exploit",
-            "date_modified": "2023-09-01T08:47:48.000Z",
+            "date_modified": "2023-09-01T10:36:46.000Z",
             "date_published": "2023-09-01T07:41:23.000Z",
             "author": {
                 "name": "synacktiv",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "federella",
                 "url": "https://github.com/federella"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/10403781?u=c3370c61f020003fff5927dac120ddb90683e079&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2023-30943  RCE PoC</div>",
-            "url": "https://github.com/d0rb/CVE-2023-30943",
-            "title": "d0rb/CVE-2023-30943: CVE-2023-30943  RCE PoC",
-            "date_modified": "2023-09-01T09:56:53.000Z",
-            "date_published": "2023-08-31T08:18:17.000Z",
-            "author": {
-                "name": "d0rb",
-                "url": "https://github.com/d0rb"
             }
         }
     ]
