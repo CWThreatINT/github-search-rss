@@ -17,6 +17,17 @@
             }
         },
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/110767603?u=9f9a8688ed3a4a8ca1ae50d9ded2906919bb5953&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
+            "url": "https://github.com/iceberg-N/cve-2023-test1",
+            "title": "iceberg-N/cve-2023-test1",
+            "date_modified": "2023-09-01T14:57:43.000Z",
+            "date_published": "2023-09-01T14:57:43.000Z",
+            "author": {
+                "name": "iceberg-N",
+                "url": "https://github.com/iceberg-N"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/82941858?u=6af58ff55af168b10475f5babc61d9f10a81e54c&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2023</div>",
             "url": "https://github.com/ayhan-dev/CVE",
             "title": "ayhan-dev/CVE: CVE-2023",
@@ -25,6 +36,17 @@
             "author": {
                 "name": "ayhan-dev",
                 "url": "https://github.com/ayhan-dev"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/110767603?u=9f9a8688ed3a4a8ca1ae50d9ded2906919bb5953&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
+            "url": "https://github.com/iceberg-N/cve-2023-test",
+            "title": "iceberg-N/cve-2023-test",
+            "date_modified": "2023-09-01T14:20:35.000Z",
+            "date_published": "2023-09-01T14:20:34.000Z",
+            "author": {
+                "name": "iceberg-N",
+                "url": "https://github.com/iceberg-N"
             }
         },
         {
@@ -64,7 +86,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/50145679?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Pwn2Own Vancouver 2023 Ubuntu LPE exploit</div>",
             "url": "https://github.com/synacktiv/CVE-2023-35001",
             "title": "synacktiv/CVE-2023-35001: Pwn2Own Vancouver 2023 Ubuntu LPE exploit",
-            "date_modified": "2023-09-01T13:22:43.000Z",
+            "date_modified": "2023-09-01T14:17:58.000Z",
             "date_published": "2023-09-01T07:41:23.000Z",
             "author": {
                 "name": "synacktiv",
@@ -201,28 +223,6 @@
             "author": {
                 "name": "MorDavid",
                 "url": "https://github.com/MorDavid"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/35842766?u=f385df6b9e6a06531ed56f0a335e6cf7c2995ffd&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
-            "url": "https://github.com/shiomiyan/CVE-2023-41080",
-            "title": "shiomiyan/CVE-2023-41080",
-            "date_modified": "2023-08-30T11:04:56.000Z",
-            "date_published": "2023-08-26T15:11:31.000Z",
-            "author": {
-                "name": "shiomiyan",
-                "url": "https://github.com/shiomiyan"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/110461609?u=f0e3a6d2dbe185d276e09717d55b21a6250ca818&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>an exploit of POC for CVE-2023-34362 affecting MOVEit Transfer</div>",
-            "url": "https://github.com/errorfiathck/MOVEit-Exploit",
-            "title": "errorfiathck/MOVEit-Exploit: an exploit of POC for CVE-2023-34362 affecting MOVEit Transfer",
-            "date_modified": "2023-08-31T13:33:03.000Z",
-            "date_published": "2023-08-31T13:25:53.000Z",
-            "author": {
-                "name": "errorfiathck",
-                "url": "https://github.com/errorfiathck"
             }
         }
     ]
