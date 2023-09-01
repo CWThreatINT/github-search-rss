@@ -6,6 +6,39 @@
     "description": "CVE-2023 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/32686360?u=5d9be61f792f41f7f7c5e08e64006d4f148e0842&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div><a href=\"https://medium.com/@mnqazi/cve-2023-4696-account-takeover-due-to-improper-handling-of-jwt-tokens-in-memos-v0-13-2-13104e1412f3\" rel=\"nofollow\">https://medium.com/@mnqazi/cve-2023-4696-account-takeover-due-to-improper-handling-of-jwt-tokens-in-memos-v0-13-2-13104e1412f3</a></div>",
+            "url": "https://github.com/mnqazi/CVE-2023-4696",
+            "title": "mnqazi/CVE-2023-4696: https://medium.com/@mnqazi/cve-2023-4696-account-takeover-due-to-improper-handling-of-jwt-tokens-in-memos-v0-13-2-13104e1412f3",
+            "date_modified": "2023-09-01T09:02:04.000Z",
+            "date_published": "2023-09-01T09:02:03.000Z",
+            "author": {
+                "name": "mnqazi",
+                "url": "https://github.com/mnqazi"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/18195825?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023</div>",
+            "url": "https://github.com/CVEProject/cvelist",
+            "title": "CVEProject/cvelist: Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023",
+            "date_modified": "2023-08-31T00:44:10.000Z",
+            "date_published": "2020-11-02T19:30:55.000Z",
+            "author": {
+                "name": "CVEProject",
+                "url": "https://github.com/CVEProject"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/50145679?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Pwn2Own Vancouver 2023 Ubuntu LPE exploit</div>",
+            "url": "https://github.com/synacktiv/CVE-2023-35001",
+            "title": "synacktiv/CVE-2023-35001: Pwn2Own Vancouver 2023 Ubuntu LPE exploit",
+            "date_modified": "2023-09-01T08:47:48.000Z",
+            "date_published": "2023-09-01T07:41:23.000Z",
+            "author": {
+                "name": "synacktiv",
+                "url": "https://github.com/synacktiv"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/18899200?u=6b66cd3db1b0113b1303d2ecfee548ad78edf57c&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Proof-of-Concept for CVE-2023-38831 Zero-Day vulnerability in WinRAR</div>",
             "url": "https://github.com/z3r0sw0rd/CVE-2023-38831-PoC",
             "title": "z3r0sw0rd/CVE-2023-38831-PoC: Proof-of-Concept for CVE-2023-38831 Zero-Day vulnerability in WinRAR",
@@ -25,17 +58,6 @@
             "author": {
                 "name": "nidhi7598",
                 "url": "https://github.com/nidhi7598"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/18195825?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023</div>",
-            "url": "https://github.com/CVEProject/cvelist",
-            "title": "CVEProject/cvelist: Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023",
-            "date_modified": "2023-08-31T00:44:10.000Z",
-            "date_published": "2020-11-02T19:30:55.000Z",
-            "author": {
-                "name": "CVEProject",
-                "url": "https://github.com/CVEProject"
             }
         },
         {
@@ -185,7 +207,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/10403781?u=c3370c61f020003fff5927dac120ddb90683e079&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2023-30943  RCE PoC</div>",
             "url": "https://github.com/d0rb/CVE-2023-30943",
             "title": "d0rb/CVE-2023-30943: CVE-2023-30943  RCE PoC",
-            "date_modified": "2023-09-01T07:48:23.000Z",
+            "date_modified": "2023-09-01T08:18:48.000Z",
             "date_published": "2023-08-31T08:18:17.000Z",
             "author": {
                 "name": "d0rb",
@@ -201,28 +223,6 @@
             "author": {
                 "name": "JonaNeidhart",
                 "url": "https://github.com/JonaNeidhart"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/70421698?u=ef29748fae15182b6499d1c1c3a9d9052305ab7c&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Tool for CVE-2023-32315 exploitation</div>",
-            "url": "https://github.com/gibran-abdillah/CVE-2023-32315",
-            "title": "gibran-abdillah/CVE-2023-32315: Tool for CVE-2023-32315 exploitation",
-            "date_modified": "2023-09-01T05:31:38.000Z",
-            "date_published": "2023-08-31T08:43:44.000Z",
-            "author": {
-                "name": "gibran-abdillah",
-                "url": "https://github.com/gibran-abdillah"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/96432001?u=96ae96621e52760886c3a02efef816a870b5e264&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Pasos necesarios para obtener una reverse shell explotando la vulnerabilidad de winrar CVE-2023-38831 en versiones anteriores a 6.23.</div>",
-            "url": "https://github.com/Maalfer/CVE-2023-38831_ReverseShell_Winrar-RCE",
-            "title": "Maalfer/CVE-2023-38831_ReverseShell_Winrar-RCE: Pasos necesarios para obtener una reverse shell explotando la vulnerabilidad de winrar CVE-2023-38831 en versiones anteriores a 6.23.",
-            "date_modified": "2023-08-30T01:27:38.000Z",
-            "date_published": "2023-08-28T08:56:16.000Z",
-            "author": {
-                "name": "Maalfer",
-                "url": "https://github.com/Maalfer"
             }
         }
     ]
