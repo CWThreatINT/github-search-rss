@@ -17,6 +17,17 @@
             }
         },
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/30556763?u=60cb550f65b8ce7818c04a23640d2c05934cb544&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2023-38831 winrar exploit builder</div>",
+            "url": "https://github.com/Mich-ele/CVE-2023-38831-winrar",
+            "title": "Mich-ele/CVE-2023-38831-winrar: CVE-2023-38831 winrar exploit builder",
+            "date_modified": "2023-09-01T15:58:38.000Z",
+            "date_published": "2023-09-01T15:58:38.000Z",
+            "author": {
+                "name": "Mich-ele",
+                "url": "https://github.com/Mich-ele"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/110767603?u=9f9a8688ed3a4a8ca1ae50d9ded2906919bb5953&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
             "url": "https://github.com/iceberg-N/cve-2023-test1",
             "title": "iceberg-N/cve-2023-test1",
@@ -86,7 +97,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/50145679?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Pwn2Own Vancouver 2023 Ubuntu LPE exploit</div>",
             "url": "https://github.com/synacktiv/CVE-2023-35001",
             "title": "synacktiv/CVE-2023-35001: Pwn2Own Vancouver 2023 Ubuntu LPE exploit",
-            "date_modified": "2023-09-01T14:17:58.000Z",
+            "date_modified": "2023-09-01T15:35:07.000Z",
             "date_published": "2023-09-01T07:41:23.000Z",
             "author": {
                 "name": "synacktiv",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "yuanjinyuyuyu",
                 "url": "https://github.com/yuanjinyuyuyu"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/24622066?u=8558361b80dd82989c73029ae061e73f78777fbd&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>This is a basic proof of concept for the CVE-2023-3883 exploit targeting WinRAR up to 6.22. Modified some existing internet-sourced POCs by introducing greater dynamism and incorporated additional try-except blocks within the code.</div>",
-            "url": "https://github.com/MorDavid/CVE-2023-38831-Winrar-Exploit-Generator-POC",
-            "title": "MorDavid/CVE-2023-38831-Winrar-Exploit-Generator-POC: This is a basic proof of concept for the CVE-2023-3883 exploit targeting WinRAR up to 6.22. Modified some existing internet-sourced POCs by introducing greater dynamism and incorporated additional try-except blocks within the code.",
-            "date_modified": "2023-08-31T08:36:33.000Z",
-            "date_published": "2023-08-30T19:55:11.000Z",
-            "author": {
-                "name": "MorDavid",
-                "url": "https://github.com/MorDavid"
             }
         }
     ]
