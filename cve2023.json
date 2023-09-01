@@ -6,6 +6,17 @@
     "description": "CVE-2023 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/18899200?u=6b66cd3db1b0113b1303d2ecfee548ad78edf57c&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Proof-of-Concept for CVE-2023-38831 Zero-Day vulnerability in WinRAR</div>",
+            "url": "https://github.com/z3r0sw0rd/CVE-2023-38831-PoC",
+            "title": "z3r0sw0rd/CVE-2023-38831-PoC: Proof-of-Concept for CVE-2023-38831 Zero-Day vulnerability in WinRAR",
+            "date_modified": "2023-08-31T02:12:56.000Z",
+            "date_published": "2023-08-30T11:52:23.000Z",
+            "author": {
+                "name": "z3r0sw0rd",
+                "url": "https://github.com/z3r0sw0rd"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/106973537?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
             "url": "https://github.com/nidhi7598/linux-4.1.15_CVE-2023-3567",
             "title": "nidhi7598/linux-4.1.15_CVE-2023-3567",
@@ -163,7 +174,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/38486839?u=9b8414ea62d78f66d2b21c5f731e44f0c0fa9acd&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>This repository is to provide a write-up and PoC for CVE-2023-41717.</div>",
             "url": "https://github.com/federella/CVE-2023-41717",
             "title": "federella/CVE-2023-41717: This repository is to provide a write-up and PoC for CVE-2023-41717.",
-            "date_modified": "2023-08-31T09:19:18.000Z",
+            "date_modified": "2023-09-01T07:41:17.000Z",
             "date_published": "2023-08-31T08:10:22.000Z",
             "author": {
                 "name": "federella",
@@ -174,7 +185,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/10403781?u=c3370c61f020003fff5927dac120ddb90683e079&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2023-30943  RCE PoC</div>",
             "url": "https://github.com/d0rb/CVE-2023-30943",
             "title": "d0rb/CVE-2023-30943: CVE-2023-30943  RCE PoC",
-            "date_modified": "2023-08-31T09:39:21.000Z",
+            "date_modified": "2023-09-01T07:48:23.000Z",
             "date_published": "2023-08-31T08:18:17.000Z",
             "author": {
                 "name": "d0rb",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "Maalfer",
                 "url": "https://github.com/Maalfer"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/104791322?u=645e864213b1df64a36504df515c19fb3e6ce9d5&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>winrar exploit 6.22 &lt;=</div>",
-            "url": "https://github.com/nhman-python/CVE-2023-38831",
-            "title": "nhman-python/CVE-2023-38831: winrar exploit 6.22 <=",
-            "date_modified": "2023-08-30T10:15:43.000Z",
-            "date_published": "2023-08-30T10:11:16.000Z",
-            "author": {
-                "name": "nhman-python",
-                "url": "https://github.com/nhman-python"
             }
         }
     ]
