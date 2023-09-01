@@ -6,6 +6,17 @@
     "description": "CVE-2023 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/30556763?u=60cb550f65b8ce7818c04a23640d2c05934cb544&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2023-38831 winrar exploit builder</div>",
+            "url": "https://github.com/Mich-ele/CVE-2023-38831-winrar",
+            "title": "Mich-ele/CVE-2023-38831-winrar: CVE-2023-38831 winrar exploit builder",
+            "date_modified": "2023-09-01T16:56:50.000Z",
+            "date_published": "2023-09-01T16:45:42.000Z",
+            "author": {
+                "name": "Mich-ele",
+                "url": "https://github.com/Mich-ele"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/18195825?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023</div>",
             "url": "https://github.com/CVEProject/cvelist",
             "title": "CVEProject/cvelist: Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023",
@@ -17,14 +28,25 @@
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/30556763?u=60cb550f65b8ce7818c04a23640d2c05934cb544&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2023-38831 winrar exploit builder</div>",
-            "url": "https://github.com/Mich-ele/CVE-2023-38831-winrar",
-            "title": "Mich-ele/CVE-2023-38831-winrar: CVE-2023-38831 winrar exploit builder",
-            "date_modified": "2023-09-01T15:58:38.000Z",
-            "date_published": "2023-09-01T15:58:38.000Z",
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/101610912?u=873360bea259a3be95f35f6b9e788ce91e28ffe4&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
+            "url": "https://github.com/tristao-marinho/CVE-2023-41646",
+            "title": "tristao-marinho/CVE-2023-41646",
+            "date_modified": "2023-09-01T16:46:07.000Z",
+            "date_published": "2023-09-01T16:46:07.000Z",
             "author": {
-                "name": "Mich-ele",
-                "url": "https://github.com/Mich-ele"
+                "name": "tristao-marinho",
+                "url": "https://github.com/tristao-marinho"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/77316200?u=9dc7c431ad186055ec04ac9d298c4bf116164365&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>VMWare Aria Operations for Networks (vRealize Network Insight) Static SSH key RCE (CVE-2023-34039)</div>",
+            "url": "https://github.com/sinsinology/CVE-2023-34039",
+            "title": "sinsinology/CVE-2023-34039: VMWare Aria Operations for Networks (vRealize Network Insight) Static SSH key RCE (CVE-2023-34039)",
+            "date_modified": "2023-09-01T16:44:44.000Z",
+            "date_published": "2023-09-01T16:17:10.000Z",
+            "author": {
+                "name": "sinsinology",
+                "url": "https://github.com/sinsinology"
             }
         },
         {
@@ -97,7 +119,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/50145679?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Pwn2Own Vancouver 2023 Ubuntu LPE exploit</div>",
             "url": "https://github.com/synacktiv/CVE-2023-35001",
             "title": "synacktiv/CVE-2023-35001: Pwn2Own Vancouver 2023 Ubuntu LPE exploit",
-            "date_modified": "2023-09-01T15:35:07.000Z",
+            "date_modified": "2023-09-01T17:01:46.000Z",
             "date_published": "2023-09-01T07:41:23.000Z",
             "author": {
                 "name": "synacktiv",
@@ -201,28 +223,6 @@
             "author": {
                 "name": "E1A",
                 "url": "https://github.com/E1A"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/46203546?u=cd409fceca20e30854863c76d713dac01e7eea7a&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Cargo exploit from CVE-2023-38497</div>",
-            "url": "https://github.com/lucas-cauhe/cargo-perm",
-            "title": "lucas-cauhe/cargo-perm: Cargo exploit from CVE-2023-38497",
-            "date_modified": "2023-08-23T18:15:24.000Z",
-            "date_published": "2023-08-04T16:36:10.000Z",
-            "author": {
-                "name": "lucas-cauhe",
-                "url": "https://github.com/lucas-cauhe"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/87472327?u=e4774e771bacb82de7031364eb733bfe1d8bba80&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
-            "url": "https://github.com/yuanjinyuyuyu/CVE-2023-3450",
-            "title": "yuanjinyuyuyu/CVE-2023-3450",
-            "date_modified": "2023-08-31T17:54:36.000Z",
-            "date_published": "2023-08-31T17:32:27.000Z",
-            "author": {
-                "name": "yuanjinyuyuyu",
-                "url": "https://github.com/yuanjinyuyuyu"
             }
         }
     ]
