@@ -6,6 +6,17 @@
     "description": "CVE-2023 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/110767603?u=9f9a8688ed3a4a8ca1ae50d9ded2906919bb5953&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
+            "url": "https://github.com/iceberg-N/cve-2023-test",
+            "title": "iceberg-N/cve-2023-test",
+            "date_modified": "2023-09-02T06:41:12.000Z",
+            "date_published": "2023-09-02T06:41:12.000Z",
+            "author": {
+                "name": "iceberg-N",
+                "url": "https://github.com/iceberg-N"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/18195825?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023</div>",
             "url": "https://github.com/CVEProject/cvelist",
             "title": "CVEProject/cvelist: Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023",
@@ -108,7 +119,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/77316200?u=9dc7c431ad186055ec04ac9d298c4bf116164365&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>VMWare Aria Operations for Networks (vRealize Network Insight) Static SSH key RCE (CVE-2023-34039)</div>",
             "url": "https://github.com/sinsinology/CVE-2023-34039",
             "title": "sinsinology/CVE-2023-34039: VMWare Aria Operations for Networks (vRealize Network Insight) Static SSH key RCE (CVE-2023-34039)",
-            "date_modified": "2023-09-02T04:28:44.000Z",
+            "date_modified": "2023-09-02T06:28:11.000Z",
             "date_published": "2023-09-01T16:17:10.000Z",
             "author": {
                 "name": "sinsinology",
@@ -163,7 +174,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/50145679?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Pwn2Own Vancouver 2023 Ubuntu LPE exploit</div>",
             "url": "https://github.com/synacktiv/CVE-2023-35001",
             "title": "synacktiv/CVE-2023-35001: Pwn2Own Vancouver 2023 Ubuntu LPE exploit",
-            "date_modified": "2023-09-02T03:27:59.000Z",
+            "date_modified": "2023-09-02T06:37:25.000Z",
             "date_published": "2023-09-01T07:41:23.000Z",
             "author": {
                 "name": "synacktiv",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "mvpyyds",
                 "url": "https://github.com/mvpyyds"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/17696068?u=de74c25d281a138c374675b5e02dd7889d257121&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>PoC of CVE-2023-36281</div>",
-            "url": "https://github.com/tagomaru/CVE-2023-36281",
-            "title": "tagomaru/CVE-2023-36281: PoC of CVE-2023-36281",
-            "date_modified": "2023-08-31T21:46:34.000Z",
-            "date_published": "2023-08-31T21:31:43.000Z",
-            "author": {
-                "name": "tagomaru",
-                "url": "https://github.com/tagomaru"
             }
         }
     ]
