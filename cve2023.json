@@ -6,6 +6,17 @@
     "description": "CVE-2023 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/57531297?u=4c8e43476a853d5e0a613c6154e3b96e098d21a5&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>PoC Script for CVE-2023-4596, unauthenticated Remote Command Execution through arbitrary file uploads.</div>",
+            "url": "https://github.com/E1A/CVE-2023-4596",
+            "title": "E1A/CVE-2023-4596: PoC Script for CVE-2023-4596, unauthenticated Remote Command Execution through arbitrary file uploads.",
+            "date_modified": "2023-09-01T05:35:28.000Z",
+            "date_published": "2023-08-30T22:40:10.000Z",
+            "author": {
+                "name": "E1A",
+                "url": "https://github.com/E1A"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/18195825?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023</div>",
             "url": "https://github.com/CVEProject/cvelist",
             "title": "CVEProject/cvelist: Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023",
@@ -97,7 +108,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/12052283?u=138832daf1f73d5c23ebb83d6d4893344924e7f7&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
             "url": "https://github.com/BrunoTeixeira1996/CVE-2023-36250",
             "title": "BrunoTeixeira1996/CVE-2023-36250",
-            "date_modified": "2023-09-02T14:02:44.000Z",
+            "date_modified": "2023-09-02T17:11:48.000Z",
             "date_published": "2023-09-01T23:06:33.000Z",
             "author": {
                 "name": "BrunoTeixeira1996",
@@ -113,17 +124,6 @@
             "author": {
                 "name": "mandiant",
                 "url": "https://github.com/mandiant"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/57531297?u=4c8e43476a853d5e0a613c6154e3b96e098d21a5&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>PoC Script for CVE-2023-4596, unauthenticated Remote Command Execution through arbitrary file uploads.</div>",
-            "url": "https://github.com/E1A/CVE-2023-4596",
-            "title": "E1A/CVE-2023-4596: PoC Script for CVE-2023-4596, unauthenticated Remote Command Execution through arbitrary file uploads.",
-            "date_modified": "2023-09-01T05:35:28.000Z",
-            "date_published": "2023-08-30T22:40:10.000Z",
-            "author": {
-                "name": "E1A",
-                "url": "https://github.com/E1A"
             }
         },
         {
