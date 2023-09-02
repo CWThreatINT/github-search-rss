@@ -6,6 +6,17 @@
     "description": "CVE-2021 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/128395905?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>test-yaml</div>",
+            "url": "https://github.com/SUPRAAA-1337/CVE-2021-34523",
+            "title": "SUPRAAA-1337/CVE-2021-34523: test-yaml",
+            "date_modified": "2023-09-02T12:30:16.000Z",
+            "date_published": "2023-09-02T12:26:18.000Z",
+            "author": {
+                "name": "SUPRAAA-1337",
+                "url": "https://github.com/SUPRAAA-1337"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/12052283?u=138832daf1f73d5c23ebb83d6d4893344924e7f7&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
             "url": "https://github.com/BrunoTeixeira1996/CVE-2021-39473",
             "title": "BrunoTeixeira1996/CVE-2021-39473",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "K3ysTr0K3R",
                 "url": "https://github.com/K3ysTr0K3R"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/59132829?u=ac498948a484145c1140a1533e849b6d3c241364&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2021-41773 testing using MSF</div>",
-            "url": "https://github.com/belajarqywok/cve-2021-41773-msf",
-            "title": "belajarqywok/cve-2021-41773-msf: CVE-2021-41773 testing using MSF",
-            "date_modified": "2023-08-13T11:10:13.000Z",
-            "date_published": "2023-08-11T12:12:09.000Z",
-            "author": {
-                "name": "belajarqywok",
-                "url": "https://github.com/belajarqywok"
             }
         }
     ]
