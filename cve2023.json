@@ -6,6 +6,17 @@
     "description": "CVE-2023 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/65294596?u=7f13fa80b0297851c7a530ff16d7099a15348853&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div> Cross Site Scripting vulnerability in mooSocial mooSocial Software v.3.1.6 allows a remote attacker to execute arbitrary code via a crafted script to the edit_menu, copuon, and group_categorias functions</div>",
+            "url": "https://github.com/MinoTauro2020/CVE-2023-40869",
+            "title": "MinoTauro2020/CVE-2023-40869:  Cross Site Scripting vulnerability in mooSocial mooSocial Software v.3.1.6 allows a remote attacker to execute arbitrary code via a crafted script to the edit_menu, copuon, and group_categorias functions",
+            "date_modified": "2023-09-02T00:47:37.000Z",
+            "date_published": "2023-09-02T00:47:37.000Z",
+            "author": {
+                "name": "MinoTauro2020",
+                "url": "https://github.com/MinoTauro2020"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/65294596?u=7f13fa80b0297851c7a530ff16d7099a15348853&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div> Cross Site Request Forgery vulnerability in mooSocial MooSocial Software v.Demo allows a remote attacker to execute arbitrary code via the Delete Account and Deactivate functions.</div>",
             "url": "https://github.com/MinoTauro2020/CVE-2023-40868",
             "title": "MinoTauro2020/CVE-2023-40868:  Cross Site Request Forgery vulnerability in mooSocial MooSocial Software v.Demo allows a remote attacker to execute arbitrary code via the Delete Account and Deactivate functions.",
@@ -97,22 +108,11 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/77316200?u=9dc7c431ad186055ec04ac9d298c4bf116164365&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>VMWare Aria Operations for Networks (vRealize Network Insight) Static SSH key RCE (CVE-2023-34039)</div>",
             "url": "https://github.com/sinsinology/CVE-2023-34039",
             "title": "sinsinology/CVE-2023-34039: VMWare Aria Operations for Networks (vRealize Network Insight) Static SSH key RCE (CVE-2023-34039)",
-            "date_modified": "2023-09-01T18:23:21.000Z",
+            "date_modified": "2023-09-02T00:49:34.000Z",
             "date_published": "2023-09-01T16:17:10.000Z",
             "author": {
                 "name": "sinsinology",
                 "url": "https://github.com/sinsinology"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/110767603?u=9f9a8688ed3a4a8ca1ae50d9ded2906919bb5953&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
-            "url": "https://github.com/iceberg-N/cve-2023-test1",
-            "title": "iceberg-N/cve-2023-test1",
-            "date_modified": "2023-09-01T14:57:43.000Z",
-            "date_published": "2023-09-01T14:57:43.000Z",
-            "author": {
-                "name": "iceberg-N",
-                "url": "https://github.com/iceberg-N"
             }
         },
         {
@@ -124,17 +124,6 @@
             "author": {
                 "name": "ayhan-dev",
                 "url": "https://github.com/ayhan-dev"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/110767603?u=9f9a8688ed3a4a8ca1ae50d9ded2906919bb5953&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
-            "url": "https://github.com/iceberg-N/cve-2023-test",
-            "title": "iceberg-N/cve-2023-test",
-            "date_modified": "2023-09-01T14:20:35.000Z",
-            "date_published": "2023-09-01T14:20:34.000Z",
-            "author": {
-                "name": "iceberg-N",
-                "url": "https://github.com/iceberg-N"
             }
         },
         {
@@ -223,6 +212,17 @@
             "author": {
                 "name": "mvpyyds",
                 "url": "https://github.com/mvpyyds"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/17696068?u=de74c25d281a138c374675b5e02dd7889d257121&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>PoC of CVE-2023-36281</div>",
+            "url": "https://github.com/tagomaru/CVE-2023-36281",
+            "title": "tagomaru/CVE-2023-36281: PoC of CVE-2023-36281",
+            "date_modified": "2023-08-31T21:46:34.000Z",
+            "date_published": "2023-08-31T21:31:43.000Z",
+            "author": {
+                "name": "tagomaru",
+                "url": "https://github.com/tagomaru"
             }
         }
     ]
