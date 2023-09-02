@@ -17,6 +17,17 @@
             }
         },
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/82941858?u=6af58ff55af168b10475f5babc61d9f10a81e54c&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2023-29336</div>",
+            "url": "https://github.com/ayhan-dev/p0ropc",
+            "title": "ayhan-dev/p0ropc: CVE-2023-29336",
+            "date_modified": "2023-09-02T20:04:01.000Z",
+            "date_published": "2023-07-27T17:28:41.000Z",
+            "author": {
+                "name": "ayhan-dev",
+                "url": "https://github.com/ayhan-dev"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/57531297?u=4c8e43476a853d5e0a613c6154e3b96e098d21a5&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>PoC Script for CVE-2023-4596, unauthenticated Remote Command Execution through arbitrary file uploads.</div>",
             "url": "https://github.com/E1A/CVE-2023-4596",
             "title": "E1A/CVE-2023-4596: PoC Script for CVE-2023-4596, unauthenticated Remote Command Execution through arbitrary file uploads.",
@@ -163,7 +174,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/82941858?u=6af58ff55af168b10475f5babc61d9f10a81e54c&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2023</div>",
             "url": "https://github.com/ayhan-dev/CVE",
             "title": "ayhan-dev/CVE: CVE-2023",
-            "date_modified": "2023-08-29T12:54:46.000Z",
+            "date_modified": "2023-09-02T20:03:45.000Z",
             "date_published": "2023-08-28T15:53:25.000Z",
             "author": {
                 "name": "ayhan-dev",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "synacktiv",
                 "url": "https://github.com/synacktiv"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/18899200?u=6b66cd3db1b0113b1303d2ecfee548ad78edf57c&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Proof-of-Concept for CVE-2023-38831 Zero-Day vulnerability in WinRAR</div>",
-            "url": "https://github.com/z3r0sw0rd/CVE-2023-38831-PoC",
-            "title": "z3r0sw0rd/CVE-2023-38831-PoC: Proof-of-Concept for CVE-2023-38831 Zero-Day vulnerability in WinRAR",
-            "date_modified": "2023-08-31T02:12:56.000Z",
-            "date_published": "2023-08-30T11:52:23.000Z",
-            "author": {
-                "name": "z3r0sw0rd",
-                "url": "https://github.com/z3r0sw0rd"
             }
         }
     ]
