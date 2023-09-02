@@ -6,6 +6,17 @@
     "description": "CVE-2023 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/18195825?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023</div>",
+            "url": "https://github.com/CVEProject/cvelist",
+            "title": "CVEProject/cvelist: Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023",
+            "date_modified": "2023-09-01T17:25:06.000Z",
+            "date_published": "2020-11-02T19:30:55.000Z",
+            "author": {
+                "name": "CVEProject",
+                "url": "https://github.com/CVEProject"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/65294596?u=7f13fa80b0297851c7a530ff16d7099a15348853&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div> Cross Site Scripting vulnerability in mooSocial mooSocial Software v.3.1.6 allows a remote attacker to execute arbitrary code via a crafted script to the edit_menu, copuon, and group_categorias functions</div>",
             "url": "https://github.com/MinoTauro2020/CVE-2023-40869",
             "title": "MinoTauro2020/CVE-2023-40869:  Cross Site Scripting vulnerability in mooSocial mooSocial Software v.3.1.6 allows a remote attacker to execute arbitrary code via a crafted script to the edit_menu, copuon, and group_categorias functions",
@@ -47,17 +58,6 @@
             "author": {
                 "name": "BrunoTeixeira1996",
                 "url": "https://github.com/BrunoTeixeira1996"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/18195825?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023</div>",
-            "url": "https://github.com/CVEProject/cvelist",
-            "title": "CVEProject/cvelist: Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023",
-            "date_modified": "2023-09-01T17:25:06.000Z",
-            "date_published": "2020-11-02T19:30:55.000Z",
-            "author": {
-                "name": "CVEProject",
-                "url": "https://github.com/CVEProject"
             }
         },
         {
