@@ -6,6 +6,17 @@
     "description": "CVE-2022 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/72800859?u=d53be4f09a67af4f8999a7ecc7a73b9c74f45d28&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>I do some tweaking for iOS from 16.0 to 16.1.2 based on MacDirtyCow (CVE-2022-46689) exploit.</div>",
+            "url": "https://github.com/tdquang266/MDC",
+            "title": "tdquang266/MDC: I do some tweaking for iOS from 16.0 to 16.1.2 based on MacDirtyCow (CVE-2022-46689) exploit.",
+            "date_modified": "2023-09-03T08:43:36.000Z",
+            "date_published": "2023-04-16T03:33:38.000Z",
+            "author": {
+                "name": "tdquang266",
+                "url": "https://github.com/tdquang266"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/72042665?u=9e6c29e3de67698a027e7e97bdd223c745888804&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
             "url": "https://github.com/sohamsharma966/Spring4Shell-CVE-2022-22965",
             "title": "sohamsharma966/Spring4Shell-CVE-2022-22965",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "WhiteOwl-Pub",
                 "url": "https://github.com/WhiteOwl-Pub"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/81157360?u=a56d02d85cfa8a4a786f1a965bc618c038eadc1b&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>cve_2022_24124 exploit</div>",
-            "url": "https://github.com/b1gdog/cve_2022_24124",
-            "title": "b1gdog/cve_2022_24124: cve_2022_24124 exploit",
-            "date_modified": "2023-08-15T23:00:16.000Z",
-            "date_published": "2022-08-31T16:23:16.000Z",
-            "author": {
-                "name": "b1gdog",
-                "url": "https://github.com/b1gdog"
             }
         }
     ]
