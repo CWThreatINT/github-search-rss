@@ -6,6 +6,17 @@
     "description": "CVE-2022 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/143934696?u=4540a8e244db874f805233f8b00ef23018f3a016&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>How to get access via CVE-2022-27997</div>",
+            "url": "https://github.com/Cyb3rEnthusiast/CVE-2022-27997",
+            "title": "Cyb3rEnthusiast/CVE-2022-27997: How to get access via CVE-2022-27997",
+            "date_modified": "2023-09-03T10:01:24.000Z",
+            "date_published": "2023-09-03T10:01:24.000Z",
+            "author": {
+                "name": "Cyb3rEnthusiast",
+                "url": "https://github.com/Cyb3rEnthusiast"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/72800859?u=d53be4f09a67af4f8999a7ecc7a73b9c74f45d28&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>I do some tweaking for iOS from 16.0 to 16.1.2 based on MacDirtyCow (CVE-2022-46689) exploit.</div>",
             "url": "https://github.com/tdquang266/MDC",
             "title": "tdquang266/MDC: I do some tweaking for iOS from 16.0 to 16.1.2 based on MacDirtyCow (CVE-2022-46689) exploit.",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "Sybil-Scan",
                 "url": "https://github.com/Sybil-Scan"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/81353072?u=dcde435657dde3ae44d418f49fb497739a9e8773&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2022-39986 PoC</div>",
-            "url": "https://github.com/WhiteOwl-Pub/RaspAP-CVE-2022-39986-PoC",
-            "title": "WhiteOwl-Pub/RaspAP-CVE-2022-39986-PoC: CVE-2022-39986 PoC",
-            "date_modified": "2023-08-28T03:27:47.000Z",
-            "date_published": "2023-08-16T11:32:26.000Z",
-            "author": {
-                "name": "WhiteOwl-Pub",
-                "url": "https://github.com/WhiteOwl-Pub"
             }
         }
     ]
