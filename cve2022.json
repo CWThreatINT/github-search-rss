@@ -6,6 +6,17 @@
     "description": "CVE-2022 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/54332012?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2022-24086 POC example</div>",
+            "url": "https://github.com/BurpRoot/CVE-2022-24086",
+            "title": "BurpRoot/CVE-2022-24086: CVE-2022-24086 POC example",
+            "date_modified": "2023-09-03T17:27:58.000Z",
+            "date_published": "2023-09-03T17:27:58.000Z",
+            "author": {
+                "name": "BurpRoot",
+                "url": "https://github.com/BurpRoot"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/122620685?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
             "url": "https://github.com/asepsaepdin/CVE-2022-21907",
             "title": "asepsaepdin/CVE-2022-21907",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "RandomRobbieBF",
                 "url": "https://github.com/RandomRobbieBF"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/121743489?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>ImageMagick LFI PoC [CVE-2022-44268]</div>",
-            "url": "https://github.com/Sybil-Scan/imagemagick-lfi-poc",
-            "title": "Sybil-Scan/imagemagick-lfi-poc: ImageMagick LFI PoC [CVE-2022-44268]",
-            "date_modified": "2023-07-27T17:45:14.000Z",
-            "date_published": "2023-02-06T10:44:43.000Z",
-            "author": {
-                "name": "Sybil-Scan",
-                "url": "https://github.com/Sybil-Scan"
             }
         }
     ]
