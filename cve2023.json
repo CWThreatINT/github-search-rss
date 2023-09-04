@@ -17,6 +17,17 @@
             }
         },
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/112768445?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Looking into the memory when sshd 9.1p1 aborts due to a double free bug.</div>",
+            "url": "https://github.com/Business1sg00d/CVE-2023-25136",
+            "title": "Business1sg00d/CVE-2023-25136: Looking into the memory when sshd 9.1p1 aborts due to a double free bug.",
+            "date_modified": "2023-09-04T19:31:08.000Z",
+            "date_published": "2023-09-04T19:28:43.000Z",
+            "author": {
+                "name": "Business1sg00d",
+                "url": "https://github.com/Business1sg00d"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/57531297?u=4c8e43476a853d5e0a613c6154e3b96e098d21a5&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>PoC Script for CVE-2023-4596, unauthenticated Remote Command Execution through arbitrary file uploads.</div>",
             "url": "https://github.com/E1A/CVE-2023-4596",
             "title": "E1A/CVE-2023-4596: PoC Script for CVE-2023-4596, unauthenticated Remote Command Execution through arbitrary file uploads.",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "Cyb3rEnthusiast",
                 "url": "https://github.com/Cyb3rEnthusiast"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/81353028?u=3114f32847984f2d5c59b808f6872c2599c43bf9&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Running this exploit on a vulnerable system allows a local attacker to gain a root shell on the machine.</div>",
-            "url": "https://github.com/Toothless5143/CVE-2023-22809",
-            "title": "Toothless5143/CVE-2023-22809: Running this exploit on a vulnerable system allows a local attacker to gain a root shell on the machine.",
-            "date_modified": "2023-09-03T07:23:58.000Z",
-            "date_published": "2023-08-06T06:46:40.000Z",
-            "author": {
-                "name": "Toothless5143",
-                "url": "https://github.com/Toothless5143"
             }
         }
     ]
