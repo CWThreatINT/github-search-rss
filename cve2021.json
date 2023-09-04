@@ -94,17 +94,6 @@
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/106973537?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
-            "url": "https://github.com/nidhi7598/frameworks_base_AOSP_10_r33_CVE-2021-0443",
-            "title": "nidhi7598/frameworks_base_AOSP_10_r33_CVE-2021-0443",
-            "date_modified": "2023-08-29T12:34:57.000Z",
-            "date_published": "2023-08-29T12:29:57.000Z",
-            "author": {
-                "name": "nidhi7598",
-                "url": "https://github.com/nidhi7598"
-            }
-        },
-        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/79593994?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Proof of Concept for CVE-2021-34473, CVE-2021-34523, and CVE-2021-31207</div>",
             "url": "https://github.com/horizon3ai/proxyshell",
             "title": "horizon3ai/proxyshell: Proof of Concept for CVE-2021-34473, CVE-2021-34523, and CVE-2021-31207",
@@ -146,17 +135,6 @@
             "author": {
                 "name": "jaysharma786",
                 "url": "https://github.com/jaysharma786"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/94296191?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
-            "url": "https://github.com/ptkhai15/OverlayFS---CVE-2021-3493",
-            "title": "ptkhai15/OverlayFS---CVE-2021-3493",
-            "date_modified": "2023-08-25T07:41:07.000Z",
-            "date_published": "2023-08-25T07:26:35.000Z",
-            "author": {
-                "name": "ptkhai15",
-                "url": "https://github.com/ptkhai15"
             }
         },
         {
@@ -223,6 +201,28 @@
             "author": {
                 "name": "jeffssh",
                 "url": "https://github.com/jeffssh"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/70909693?u=623cdd16249501e7d4f74b743a81017fc3b4de3a&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A PoC exploit for CVE-2021-34621 - WordPress Privilege Escalation</div>",
+            "url": "https://github.com/K3ysTr0K3R/CVE-2021-34621-EXPLOIT",
+            "title": "K3ysTr0K3R/CVE-2021-34621-EXPLOIT: A PoC exploit for CVE-2021-34621 - WordPress Privilege Escalation",
+            "date_modified": "2023-08-13T13:21:46.000Z",
+            "date_published": "2023-08-12T21:51:37.000Z",
+            "author": {
+                "name": "K3ysTr0K3R",
+                "url": "https://github.com/K3ysTr0K3R"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/59132829?u=ac498948a484145c1140a1533e849b6d3c241364&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2021-41773 testing using MSF</div>",
+            "url": "https://github.com/belajarqywok/cve-2021-41773-msf",
+            "title": "belajarqywok/cve-2021-41773-msf: CVE-2021-41773 testing using MSF",
+            "date_modified": "2023-09-03T17:08:59.000Z",
+            "date_published": "2023-08-11T12:12:09.000Z",
+            "author": {
+                "name": "belajarqywok",
+                "url": "https://github.com/belajarqywok"
             }
         }
     ]

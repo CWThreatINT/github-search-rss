@@ -6,6 +6,28 @@
     "description": "CVE-2023 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/115907821?u=592eebfd7b013b10c7519997c94af2a7455ca0cd&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2023-34039</div>",
+            "url": "https://github.com/syedhafiz1234/CVE-2023-34039",
+            "title": "syedhafiz1234/CVE-2023-34039: CVE-2023-34039",
+            "date_modified": "2023-09-04T03:29:33.000Z",
+            "date_published": "2023-09-04T03:27:56.000Z",
+            "author": {
+                "name": "syedhafiz1234",
+                "url": "https://github.com/syedhafiz1234"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/115907821?u=592eebfd7b013b10c7519997c94af2a7455ca0cd&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>nftables oob read/write exploit (CVE-2023-35001)</div>",
+            "url": "https://github.com/syedhafiz1234/nftables-oob-read-write-exploit-CVE-2023-35001-",
+            "title": "syedhafiz1234/nftables-oob-read-write-exploit-CVE-2023-35001-: nftables oob read/write exploit (CVE-2023-35001)",
+            "date_modified": "2023-09-04T03:26:03.000Z",
+            "date_published": "2023-09-04T03:25:01.000Z",
+            "author": {
+                "name": "syedhafiz1234",
+                "url": "https://github.com/syedhafiz1234"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/18195825?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023</div>",
             "url": "https://github.com/CVEProject/cvelist",
             "title": "CVEProject/cvelist: Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023",
@@ -201,28 +223,6 @@
             "author": {
                 "name": "MinoTauro2020",
                 "url": "https://github.com/MinoTauro2020"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/65294596?u=7f13fa80b0297851c7a530ff16d7099a15348853&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div> Cross Site Request Forgery vulnerability in mooSocial MooSocial Software v.Demo allows a remote attacker to execute arbitrary code via the Delete Account and Deactivate functions.</div>",
-            "url": "https://github.com/MinoTauro2020/CVE-2023-40868",
-            "title": "MinoTauro2020/CVE-2023-40868:  Cross Site Request Forgery vulnerability in mooSocial MooSocial Software v.Demo allows a remote attacker to execute arbitrary code via the Delete Account and Deactivate functions.",
-            "date_modified": "2023-09-02T00:24:23.000Z",
-            "date_published": "2023-09-02T00:24:22.000Z",
-            "author": {
-                "name": "MinoTauro2020",
-                "url": "https://github.com/MinoTauro2020"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/12052283?u=138832daf1f73d5c23ebb83d6d4893344924e7f7&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
-            "url": "https://github.com/BrunoTeixeira1996/CVE-2023-36250",
-            "title": "BrunoTeixeira1996/CVE-2023-36250",
-            "date_modified": "2023-09-02T17:11:48.000Z",
-            "date_published": "2023-09-01T23:06:33.000Z",
-            "author": {
-                "name": "BrunoTeixeira1996",
-                "url": "https://github.com/BrunoTeixeira1996"
             }
         }
     ]
