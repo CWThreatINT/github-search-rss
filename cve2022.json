@@ -6,6 +6,17 @@
     "description": "CVE-2022 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/108862394?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2022-39227 : Proof of Concept </div>",
+            "url": "https://github.com/user0x1337/CVE-2022-39227",
+            "title": "user0x1337/CVE-2022-39227: CVE-2022-39227 : Proof of Concept ",
+            "date_modified": "2023-09-04T10:47:12.000Z",
+            "date_published": "2023-06-07T11:11:12.000Z",
+            "author": {
+                "name": "user0x1337",
+                "url": "https://github.com/user0x1337"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/74171727?u=f103f86a013cb091fa8d27bb63500fd657751b5e&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
             "url": "https://github.com/MY0723/CNVD-2022-27366__CVE-2023-37621",
             "title": "MY0723/CNVD-2022-27366__CVE-2023-37621",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "aaronm-sysdig",
                 "url": "https://github.com/aaronm-sysdig"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/72358603?u=cd563dfb5041405499469b04abfa1d6be8ede398&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Atlassian Confluence (CVE-2022-26134) - Unauthenticated Remote code execution (RCE)</div>",
-            "url": "https://github.com/nxtexploit/CVE-2022-26134",
-            "title": "nxtexploit/CVE-2022-26134: Atlassian Confluence (CVE-2022-26134) - Unauthenticated Remote code execution (RCE)",
-            "date_modified": "2023-08-06T23:17:06.000Z",
-            "date_published": "2022-07-05T04:30:42.000Z",
-            "author": {
-                "name": "nxtexploit",
-                "url": "https://github.com/nxtexploit"
             }
         }
     ]
