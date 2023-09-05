@@ -17,6 +17,39 @@
             }
         },
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/16310412?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2023-3124 PoC</div>",
+            "url": "https://github.com/AmirWhiteHat/CVE-2023-3124",
+            "title": "AmirWhiteHat/CVE-2023-3124: CVE-2023-3124 PoC",
+            "date_modified": "2023-09-05T12:41:27.000Z",
+            "date_published": "2023-09-05T12:32:50.000Z",
+            "author": {
+                "name": "AmirWhiteHat",
+                "url": "https://github.com/AmirWhiteHat"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/48556345?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2023-34600</div>",
+            "url": "https://github.com/costacoco/Adiscon",
+            "title": "costacoco/Adiscon: CVE-2023-34600",
+            "date_modified": "2023-06-16T08:30:10.000Z",
+            "date_published": "2023-06-16T08:30:10.000Z",
+            "author": {
+                "name": "costacoco",
+                "url": "https://github.com/costacoco"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/114888381?u=2cc6e87ab5dfbe6ca02f11678326355449b01fdd&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
+            "url": "https://github.com/Mantodkaz/CVE-2023-34960",
+            "title": "Mantodkaz/CVE-2023-34960",
+            "date_modified": "2023-08-11T07:39:32.000Z",
+            "date_published": "2023-07-24T20:51:15.000Z",
+            "author": {
+                "name": "Mantodkaz",
+                "url": "https://github.com/Mantodkaz"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/25300771?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
             "url": "https://github.com/thperchi/CVE-2023-41080",
             "title": "thperchi/CVE-2023-41080",
@@ -31,7 +64,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/134310220?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A tool to fetch the RocketMQ broker configuration in order to discover indicators of compromise for CVE-2023-33246</div>",
             "url": "https://github.com/vulncheck-oss/fetch-broker-conf",
             "title": "vulncheck-oss/fetch-broker-conf: A tool to fetch the RocketMQ broker configuration in order to discover indicators of compromise for CVE-2023-33246",
-            "date_modified": "2023-09-05T09:38:55.000Z",
+            "date_modified": "2023-09-05T12:45:14.000Z",
             "date_published": "2023-09-04T11:18:28.000Z",
             "author": {
                 "name": "vulncheck-oss",
@@ -53,7 +86,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/28858120?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2023-4634</div>",
             "url": "https://github.com/Patrowl/CVE-2023-4634",
             "title": "Patrowl/CVE-2023-4634: CVE-2023-4634",
-            "date_modified": "2023-09-05T12:07:44.000Z",
+            "date_modified": "2023-09-05T12:39:31.000Z",
             "date_published": "2023-09-05T07:44:15.000Z",
             "author": {
                 "name": "Patrowl",
@@ -190,39 +223,6 @@
             "author": {
                 "name": "Y3A",
                 "url": "https://github.com/Y3A"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/5014849?u=557a8de4a67ae4633c110761639e515df35f1b8a&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>This module exploits a vulnerability in WinRAR (CVE-2023-38831). When a user opens a crafted RAR file and its embedded document, a script is executed, leading to code execution.</div>",
-            "url": "https://github.com/xaitax/WinRAR-CVE-2023-38831",
-            "title": "xaitax/WinRAR-CVE-2023-38831: This module exploits a vulnerability in WinRAR (CVE-2023-38831). When a user opens a crafted RAR file and its embedded document, a script is executed, leading to code execution.",
-            "date_modified": "2023-09-03T21:40:28.000Z",
-            "date_published": "2023-09-03T21:14:05.000Z",
-            "author": {
-                "name": "xaitax",
-                "url": "https://github.com/xaitax"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/106973537?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
-            "url": "https://github.com/nidhi7598/linux-4.19.72_CVE-2023-3567",
-            "title": "nidhi7598/linux-4.19.72_CVE-2023-3567",
-            "date_modified": "2023-09-04T06:38:22.000Z",
-            "date_published": "2023-09-04T06:31:48.000Z",
-            "author": {
-                "name": "nidhi7598",
-                "url": "https://github.com/nidhi7598"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/32686360?u=5d9be61f792f41f7f7c5e08e64006d4f148e0842&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
-            "url": "https://github.com/mnqazi/CVE-2023-4698",
-            "title": "mnqazi/CVE-2023-4698",
-            "date_modified": "2023-09-04T06:18:55.000Z",
-            "date_published": "2023-09-01T09:24:08.000Z",
-            "author": {
-                "name": "mnqazi",
-                "url": "https://github.com/mnqazi"
             }
         }
     ]
