@@ -17,6 +17,17 @@
             }
         },
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/25300771?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
+            "url": "https://github.com/thperchi/CVE-2023-41080",
+            "title": "thperchi/CVE-2023-41080",
+            "date_modified": "2023-09-05T11:51:55.000Z",
+            "date_published": "2023-09-05T11:51:55.000Z",
+            "author": {
+                "name": "thperchi",
+                "url": "https://github.com/thperchi"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/134310220?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A tool to fetch the RocketMQ broker configuration in order to discover indicators of compromise for CVE-2023-33246</div>",
             "url": "https://github.com/vulncheck-oss/fetch-broker-conf",
             "title": "vulncheck-oss/fetch-broker-conf: A tool to fetch the RocketMQ broker configuration in order to discover indicators of compromise for CVE-2023-33246",
@@ -31,7 +42,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/127761067?u=356055e6a25d0439d7e73e372b97eafc38143437&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2023-33733 reportlab RCE</div>",
             "url": "https://github.com/c53elyas/CVE-2023-33733",
             "title": "c53elyas/CVE-2023-33733: CVE-2023-33733 reportlab RCE",
-            "date_modified": "2023-08-25T03:00:14.000Z",
+            "date_modified": "2023-09-05T12:02:02.000Z",
             "date_published": "2023-05-30T22:22:50.000Z",
             "author": {
                 "name": "c53elyas",
@@ -42,7 +53,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/28858120?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2023-4634</div>",
             "url": "https://github.com/Patrowl/CVE-2023-4634",
             "title": "Patrowl/CVE-2023-4634: CVE-2023-4634",
-            "date_modified": "2023-09-05T09:24:53.000Z",
+            "date_modified": "2023-09-05T12:07:44.000Z",
             "date_published": "2023-09-05T07:44:15.000Z",
             "author": {
                 "name": "Patrowl",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "mnqazi",
                 "url": "https://github.com/mnqazi"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/86462148?u=192389d6c2561431272bcb483fc2afa27e96a16f&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Maxprint Maxlink 1200G v3.4.11E has an OS command injection vulnerability in the \"Diagnostic tool\" functionality of the device.</div>",
-            "url": "https://github.com/RobinTrigon/CVE-2023-36143",
-            "title": "RobinTrigon/CVE-2023-36143: Maxprint Maxlink 1200G v3.4.11E has an OS command injection vulnerability in the \"Diagnostic tool\" functionality of the device.",
-            "date_modified": "2023-09-04T05:08:29.000Z",
-            "date_published": "2023-09-04T05:08:28.000Z",
-            "author": {
-                "name": "RobinTrigon",
-                "url": "https://github.com/RobinTrigon"
             }
         }
     ]
