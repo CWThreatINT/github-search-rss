@@ -6,6 +6,17 @@
     "description": "CVE-2023 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/106973537?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
+            "url": "https://github.com/nidhi7598/linux-4.19.72_CVE-2023-3812",
+            "title": "nidhi7598/linux-4.19.72_CVE-2023-3812",
+            "date_modified": "2023-09-06T06:03:41.000Z",
+            "date_published": "2023-09-06T06:03:40.000Z",
+            "author": {
+                "name": "nidhi7598",
+                "url": "https://github.com/nidhi7598"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/18195825?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023</div>",
             "url": "https://github.com/CVEProject/cvelist",
             "title": "CVEProject/cvelist: Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023",
@@ -14,6 +25,17 @@
             "author": {
                 "name": "CVEProject",
                 "url": "https://github.com/CVEProject"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/45532566?u=217f4c2635764fc9a5710e81aab14a97ba8cea86&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Exploit for file upload vulnerability in BoidCMS version &lt;=2.0.0</div>",
+            "url": "https://github.com/1337kid/CVE-2023-38836",
+            "title": "1337kid/CVE-2023-38836: Exploit for file upload vulnerability in BoidCMS version <=2.0.0",
+            "date_modified": "2023-08-17T06:43:52.000Z",
+            "date_published": "2023-08-16T14:30:30.000Z",
+            "author": {
+                "name": "1337kid",
+                "url": "https://github.com/1337kid"
             }
         },
         {
@@ -141,7 +163,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/28858120?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2023-4634</div>",
             "url": "https://github.com/Patrowl/CVE-2023-4634",
             "title": "Patrowl/CVE-2023-4634: CVE-2023-4634",
-            "date_modified": "2023-09-06T03:49:59.000Z",
+            "date_modified": "2023-09-06T05:45:19.000Z",
             "date_published": "2023-09-05T07:44:15.000Z",
             "author": {
                 "name": "Patrowl",
@@ -201,28 +223,6 @@
             "author": {
                 "name": "codeb0ss",
                 "url": "https://github.com/codeb0ss"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/76437404?u=e14f5e1b7a57ec0305f2f3f969cc241991360eb0&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
-            "url": "https://github.com/wudidike/CVE-2023-4741",
-            "title": "wudidike/CVE-2023-4741",
-            "date_modified": "2023-09-05T03:34:39.000Z",
-            "date_published": "2023-08-22T06:00:57.000Z",
-            "author": {
-                "name": "wudidike",
-                "url": "https://github.com/wudidike"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/57531297?u=4c8e43476a853d5e0a613c6154e3b96e098d21a5&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>PoC Script for CVE-2023-4596, unauthenticated Remote Command Execution through arbitrary file uploads.</div>",
-            "url": "https://github.com/E1A/CVE-2023-4596",
-            "title": "E1A/CVE-2023-4596: PoC Script for CVE-2023-4596, unauthenticated Remote Command Execution through arbitrary file uploads.",
-            "date_modified": "2023-09-05T07:14:53.000Z",
-            "date_published": "2023-08-30T22:40:10.000Z",
-            "author": {
-                "name": "E1A",
-                "url": "https://github.com/E1A"
             }
         }
     ]
