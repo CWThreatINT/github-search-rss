@@ -17,6 +17,17 @@
             }
         },
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/140469824?u=3e9537d19826d79d7e6297f8df3d65bf64ea228e&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>The PoC of CVE-2023-36123</div>",
+            "url": "https://github.com/9Bakabaka/CVE-2023-36123",
+            "title": "9Bakabaka/CVE-2023-36123: The PoC of CVE-2023-36123",
+            "date_modified": "2023-09-06T14:58:04.000Z",
+            "date_published": "2023-09-06T14:29:18.000Z",
+            "author": {
+                "name": "9Bakabaka",
+                "url": "https://github.com/9Bakabaka"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/106973537?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
             "url": "https://github.com/nidhi7598/linux-4.19.72_CVE-2023-3567",
             "title": "nidhi7598/linux-4.19.72_CVE-2023-3567",
@@ -174,7 +185,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/28858120?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2023-4634</div>",
             "url": "https://github.com/Patrowl/CVE-2023-4634",
             "title": "Patrowl/CVE-2023-4634: CVE-2023-4634",
-            "date_modified": "2023-09-06T07:23:32.000Z",
+            "date_modified": "2023-09-06T14:52:32.000Z",
             "date_published": "2023-09-05T07:44:15.000Z",
             "author": {
                 "name": "Patrowl",
@@ -209,17 +220,6 @@
             "title": "codeb0ss/CVE-2023-27034-Exploit: Mass Exploit - CVE-2023-27034",
             "date_modified": "2023-09-05T04:46:58.000Z",
             "date_published": "2023-09-05T04:43:06.000Z",
-            "author": {
-                "name": "codeb0ss",
-                "url": "https://github.com/codeb0ss"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/135759201?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Mass Exploit - CVE-2023-34747 - Ujcms - Arbitrary File Upload</div>",
-            "url": "https://github.com/codeb0ss/CVE-2023-34747-PoC",
-            "title": "codeb0ss/CVE-2023-34747-PoC: Mass Exploit - CVE-2023-34747 - Ujcms - Arbitrary File Upload",
-            "date_modified": "2023-09-05T04:40:57.000Z",
-            "date_published": "2023-09-05T04:36:42.000Z",
             "author": {
                 "name": "codeb0ss",
                 "url": "https://github.com/codeb0ss"
