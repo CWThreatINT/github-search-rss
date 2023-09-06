@@ -6,6 +6,17 @@
     "description": "CVE-2021 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/68333318?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Log4j vulner testing environment based on CVE-2021-44228. It provide guidance to build the sample infrastructure and the exploit scripts. Supporting cooki3 script as the main exploit tools &amp; integration</div>",
+            "url": "https://github.com/hotpotcookie/CVE-2021-44228-white-box",
+            "title": "hotpotcookie/CVE-2021-44228-white-box: Log4j vulner testing environment based on CVE-2021-44228. It provide guidance to build the sample infrastructure and the exploit scripts. Supporting cooki3 script as the main exploit tools & integration",
+            "date_modified": "2023-04-24T13:24:14.000Z",
+            "date_published": "2022-02-12T11:19:41.000Z",
+            "author": {
+                "name": "hotpotcookie",
+                "url": "https://github.com/hotpotcookie"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/122620685?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
             "url": "https://github.com/asepsaepdin/CVE-2021-3560",
             "title": "asepsaepdin/CVE-2021-3560",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "pashayogi",
                 "url": "https://github.com/pashayogi"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/10403781?u=c3370c61f020003fff5927dac120ddb90683e079&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2021-34527 PrintNightmare PoC</div>",
-            "url": "https://github.com/d0rb/CVE-2021-34527",
-            "title": "d0rb/CVE-2021-34527: CVE-2021-34527 PrintNightmare PoC",
-            "date_modified": "2023-08-20T12:06:06.000Z",
-            "date_published": "2023-08-20T12:04:18.000Z",
-            "author": {
-                "name": "d0rb",
-                "url": "https://github.com/d0rb"
             }
         }
     ]

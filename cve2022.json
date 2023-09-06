@@ -6,6 +6,17 @@
     "description": "CVE-2022 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/68333318?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Red Team utilities for setting up CWP CentOS 7 payload &amp; reverse shell (Red Team 9 - CW2023)</div>",
+            "url": "https://github.com/hotpotcookie/CVE-2022-44877-white-box",
+            "title": "hotpotcookie/CVE-2022-44877-white-box: Red Team utilities for setting up CWP CentOS 7 payload & reverse shell (Red Team 9 - CW2023)",
+            "date_modified": "2023-07-17T01:09:09.000Z",
+            "date_published": "2023-02-15T15:22:48.000Z",
+            "author": {
+                "name": "hotpotcookie",
+                "url": "https://github.com/hotpotcookie"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/75425513?u=64edd56aefb8bebc03dbae4fbc613932b6c3b02f&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Text4Shell</div>",
             "url": "https://github.com/Sic4rio/CVE-2022-42889",
             "title": "Sic4rio/CVE-2022-42889: Text4Shell",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "0nyx-hkr",
                 "url": "https://github.com/0nyx-hkr"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/64897374?u=faac1be2ea0e5124a8cbb34941d414e26aec8eb9&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Open Web Analytics 1.7.3 - Remote Code Execution Exploit v2</div>",
-            "url": "https://github.com/0xRyuk/CVE-2022-24637",
-            "title": "0xRyuk/CVE-2022-24637: Open Web Analytics 1.7.3 - Remote Code Execution Exploit v2",
-            "date_modified": "2023-08-22T16:40:19.000Z",
-            "date_published": "2023-08-22T16:25:52.000Z",
-            "author": {
-                "name": "0xRyuk",
-                "url": "https://github.com/0xRyuk"
             }
         }
     ]
