@@ -17,6 +17,28 @@
             }
         },
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/42498816?u=08c4092e757fc2588b734e8e09e355493e9126e9&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Ghostscript command injection vulnerability PoC (CVE-2023-36664)</div>",
+            "url": "https://github.com/jakabakos/CVE-2023-36664-Ghostscript-command-injection",
+            "title": "jakabakos/CVE-2023-36664-Ghostscript-command-injection: Ghostscript command injection vulnerability PoC (CVE-2023-36664)",
+            "date_modified": "2023-08-31T06:00:47.000Z",
+            "date_published": "2023-08-12T18:33:57.000Z",
+            "author": {
+                "name": "jakabakos",
+                "url": "https://github.com/jakabakos"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/42498816?u=08c4092e757fc2588b734e8e09e355493e9126e9&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2023-22884 PoC</div>",
+            "url": "https://github.com/jakabakos/CVE-2023-22884-Airflow-SQLi",
+            "title": "jakabakos/CVE-2023-22884-Airflow-SQLi: CVE-2023-22884 PoC",
+            "date_modified": "2023-08-28T11:06:34.000Z",
+            "date_published": "2023-07-29T09:26:36.000Z",
+            "author": {
+                "name": "jakabakos",
+                "url": "https://github.com/jakabakos"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/92071491?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2023-41593</div>",
             "url": "https://github.com/MATRIXDEVIL/CVE",
             "title": "MATRIXDEVIL/CVE: CVE-2023-41593",
@@ -42,7 +64,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/28858120?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2023-4634</div>",
             "url": "https://github.com/Patrowl/CVE-2023-4634",
             "title": "Patrowl/CVE-2023-4634: CVE-2023-4634",
-            "date_modified": "2023-09-07T06:27:29.000Z",
+            "date_modified": "2023-09-07T08:33:22.000Z",
             "date_published": "2023-09-05T07:44:15.000Z",
             "author": {
                 "name": "Patrowl",
@@ -201,28 +223,6 @@
             "author": {
                 "name": "thperchi",
                 "url": "https://github.com/thperchi"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/134310220?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A tool to fetch the RocketMQ broker configuration in order to discover indicators of compromise for CVE-2023-33246</div>",
-            "url": "https://github.com/vulncheck-oss/fetch-broker-conf",
-            "title": "vulncheck-oss/fetch-broker-conf: A tool to fetch the RocketMQ broker configuration in order to discover indicators of compromise for CVE-2023-33246",
-            "date_modified": "2023-09-07T08:02:09.000Z",
-            "date_published": "2023-09-04T11:18:28.000Z",
-            "author": {
-                "name": "vulncheck-oss",
-                "url": "https://github.com/vulncheck-oss"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/29709246?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2023-41508 - A hard-coded password in Super Store Finder v3.6 allows attackers to access the administration panel.</div>",
-            "url": "https://github.com/redblueteam/CVE-2023-41508",
-            "title": "redblueteam/CVE-2023-41508: CVE-2023-41508 - A hard-coded password in Super Store Finder v3.6 allows attackers to access the administration panel.",
-            "date_modified": "2023-09-05T03:29:38.000Z",
-            "date_published": "2023-09-05T03:29:37.000Z",
-            "author": {
-                "name": "redblueteam",
-                "url": "https://github.com/redblueteam"
             }
         }
     ]
