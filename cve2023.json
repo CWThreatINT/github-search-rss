@@ -17,10 +17,21 @@
             }
         },
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/55885619?u=e6852387fd561b7594bfdb869d952906e0c1e472&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>An exploit for OpenTSDB &lt;= 2.4.1 cmd injection (CVE-2023-36812/CVE-2023-25826) written in Fortran</div>",
+            "url": "https://github.com/ErikWynter/opentsdb_key_cmd_injection",
+            "title": "ErikWynter/opentsdb_key_cmd_injection: An exploit for OpenTSDB <= 2.4.1 cmd injection (CVE-2023-36812/CVE-2023-25826) written in Fortran",
+            "date_modified": "2023-09-07T14:51:23.000Z",
+            "date_published": "2023-09-07T13:47:13.000Z",
+            "author": {
+                "name": "ErikWynter",
+                "url": "https://github.com/ErikWynter"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/88535377?u=8282f1d8139691249d08a567a0a9ec513541ab09&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A Python-based tool to detect the CVE-2023-30943 vulnerability in Moodle, which allows unauthorized folder creation via specially crafted requests in TinyMCE loaders.</div>",
             "url": "https://github.com/Chocapikk/CVE-2023-30943",
             "title": "Chocapikk/CVE-2023-30943: A Python-based tool to detect the CVE-2023-30943 vulnerability in Moodle, which allows unauthorized folder creation via specially crafted requests in TinyMCE loaders.",
-            "date_modified": "2023-09-07T13:26:17.000Z",
+            "date_modified": "2023-09-07T14:48:58.000Z",
             "date_published": "2023-09-07T13:25:55.000Z",
             "author": {
                 "name": "Chocapikk",
@@ -130,7 +141,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/28858120?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2023-4634</div>",
             "url": "https://github.com/Patrowl/CVE-2023-4634",
             "title": "Patrowl/CVE-2023-4634: CVE-2023-4634",
-            "date_modified": "2023-09-07T13:20:17.000Z",
+            "date_modified": "2023-09-07T14:09:50.000Z",
             "date_published": "2023-09-05T07:44:15.000Z",
             "author": {
                 "name": "Patrowl",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "mind2hex",
                 "url": "https://github.com/mind2hex"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/705120?u=dc6ccaa0b34cc511a6eec8e56e4d2e27fbe649f3&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>WARNING: This is a vulnerable application to test the exploit for the Cacti command injection (CVE-2023-39362). Run it at your own risk!</div>",
-            "url": "https://github.com/m3ssap0/cacti-rce-snmp-options-vulnerable-application",
-            "title": "m3ssap0/cacti-rce-snmp-options-vulnerable-application: WARNING: This is a vulnerable application to test the exploit for the Cacti command injection (CVE-2023-39362). Run it at your own risk!",
-            "date_modified": "2023-09-05T18:29:01.000Z",
-            "date_published": "2023-07-03T09:43:21.000Z",
-            "author": {
-                "name": "m3ssap0",
-                "url": "https://github.com/m3ssap0"
             }
         }
     ]
