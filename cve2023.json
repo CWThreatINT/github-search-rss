@@ -17,6 +17,39 @@
             }
         },
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/92071491?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2023-41593</div>",
+            "url": "https://github.com/MATRIXDEVIL/CVE",
+            "title": "MATRIXDEVIL/CVE: CVE-2023-41593",
+            "date_modified": "2023-09-07T06:59:10.000Z",
+            "date_published": "2023-09-07T06:59:09.000Z",
+            "author": {
+                "name": "MATRIXDEVIL",
+                "url": "https://github.com/MATRIXDEVIL"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/107836621?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Quick exploit builder for CVE-2023-38831, a vulnerability that affects WinRAR versions before 6.23.</div>",
+            "url": "https://github.com/GOTonyGO/CVE-2023-38831-winrar",
+            "title": "GOTonyGO/CVE-2023-38831-winrar: Quick exploit builder for CVE-2023-38831, a vulnerability that affects WinRAR versions before 6.23.",
+            "date_modified": "2023-09-07T06:44:20.000Z",
+            "date_published": "2023-09-07T06:42:36.000Z",
+            "author": {
+                "name": "GOTonyGO",
+                "url": "https://github.com/GOTonyGO"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/28858120?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2023-4634</div>",
+            "url": "https://github.com/Patrowl/CVE-2023-4634",
+            "title": "Patrowl/CVE-2023-4634: CVE-2023-4634",
+            "date_modified": "2023-09-07T06:27:29.000Z",
+            "date_published": "2023-09-05T07:44:15.000Z",
+            "author": {
+                "name": "Patrowl",
+                "url": "https://github.com/Patrowl"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/18223385?u=5ba29c1a9447ae88a6a0433f44038f47471e11c1&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>TOP All bugbounty pentesting CVE-2023- POC Exp  RCE example payload  Things</div>",
             "url": "https://github.com/hktalent/TOP",
             "title": "hktalent/TOP: TOP All bugbounty pentesting CVE-2023- POC Exp  RCE example payload  Things",
@@ -182,17 +215,6 @@
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/28858120?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2023-4634</div>",
-            "url": "https://github.com/Patrowl/CVE-2023-4634",
-            "title": "Patrowl/CVE-2023-4634: CVE-2023-4634",
-            "date_modified": "2023-09-07T02:07:15.000Z",
-            "date_published": "2023-09-05T07:44:15.000Z",
-            "author": {
-                "name": "Patrowl",
-                "url": "https://github.com/Patrowl"
-            }
-        },
-        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/29709246?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2023-41508 - A hard-coded password in Super Store Finder v3.6 allows attackers to access the administration panel.</div>",
             "url": "https://github.com/redblueteam/CVE-2023-41508",
             "title": "redblueteam/CVE-2023-41508: CVE-2023-41508 - A hard-coded password in Super Store Finder v3.6 allows attackers to access the administration panel.",
@@ -201,28 +223,6 @@
             "author": {
                 "name": "redblueteam",
                 "url": "https://github.com/redblueteam"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/29709246?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2023-41507 A hard coded password in Super Store Finder v3.6 allows attackers to access the administration panel.</div>",
-            "url": "https://github.com/redblueteam/CVE-2023-41507",
-            "title": "redblueteam/CVE-2023-41507: CVE-2023-41507 A hard coded password in Super Store Finder v3.6 allows attackers to access the administration panel.",
-            "date_modified": "2023-09-05T03:26:16.000Z",
-            "date_published": "2023-09-05T03:26:15.000Z",
-            "author": {
-                "name": "redblueteam",
-                "url": "https://github.com/redblueteam"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/135759201?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Mass Exploit - CVE-2023-27034</div>",
-            "url": "https://github.com/codeb0ss/CVE-2023-27034-Exploit",
-            "title": "codeb0ss/CVE-2023-27034-Exploit: Mass Exploit - CVE-2023-27034",
-            "date_modified": "2023-09-05T04:46:58.000Z",
-            "date_published": "2023-09-05T04:43:06.000Z",
-            "author": {
-                "name": "codeb0ss",
-                "url": "https://github.com/codeb0ss"
             }
         }
     ]
