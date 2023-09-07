@@ -6,17 +6,6 @@
     "description": "CVE-2023 FEED on GitHub",
     "items": [
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/55885619?u=e6852387fd561b7594bfdb869d952906e0c1e472&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>An exploit for OpenTSDB &lt;= 2.4.1 cmd injection (CVE-2023-36812/CVE-2023-25826) written in Fortran</div>",
-            "url": "https://github.com/ErikWynter/opentsdb_key_cmd_injection",
-            "title": "ErikWynter/opentsdb_key_cmd_injection: An exploit for OpenTSDB <= 2.4.1 cmd injection (CVE-2023-36812/CVE-2023-25826) written in Fortran",
-            "date_modified": "2023-09-07T14:51:23.000Z",
-            "date_published": "2023-09-07T13:47:13.000Z",
-            "author": {
-                "name": "ErikWynter",
-                "url": "https://github.com/ErikWynter"
-            }
-        },
-        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/18195825?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023</div>",
             "url": "https://github.com/CVEProject/cvelist",
             "title": "CVEProject/cvelist: Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023",
@@ -25,6 +14,39 @@
             "author": {
                 "name": "CVEProject",
                 "url": "https://github.com/CVEProject"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/88715174?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div> CVE-2023-40930 Repetition Enviroment</div>",
+            "url": "https://github.com/NSnidie/-CVE-2023-40930",
+            "title": "NSnidie/-CVE-2023-40930:  CVE-2023-40930 Repetition Enviroment",
+            "date_modified": "2023-09-07T16:50:02.000Z",
+            "date_published": "2023-09-07T16:50:02.000Z",
+            "author": {
+                "name": "NSnidie",
+                "url": "https://github.com/NSnidie"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/144297535?u=2efa954103958b80ec280927d52db234aad9a735&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>This is a PoC for CVE-2023-27372 and spawns a fully interactive shell.</div>",
+            "url": "https://github.com/redboltsec/CVE-2023-27372-PoC",
+            "title": "redboltsec/CVE-2023-27372-PoC: This is a PoC for CVE-2023-27372 and spawns a fully interactive shell.",
+            "date_modified": "2023-09-07T16:20:50.000Z",
+            "date_published": "2023-09-07T16:17:03.000Z",
+            "author": {
+                "name": "redboltsec",
+                "url": "https://github.com/redboltsec"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/55885619?u=e6852387fd561b7594bfdb869d952906e0c1e472&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>An exploit for OpenTSDB &lt;= 2.4.1 cmd injection (CVE-2023-36812/CVE-2023-25826) written in Fortran</div>",
+            "url": "https://github.com/ErikWynter/opentsdb_key_cmd_injection",
+            "title": "ErikWynter/opentsdb_key_cmd_injection: An exploit for OpenTSDB <= 2.4.1 cmd injection (CVE-2023-36812/CVE-2023-25826) written in Fortran",
+            "date_modified": "2023-09-07T16:36:00.000Z",
+            "date_published": "2023-09-07T13:47:13.000Z",
+            "author": {
+                "name": "ErikWynter",
+                "url": "https://github.com/ErikWynter"
             }
         },
         {
@@ -201,28 +223,6 @@
             "author": {
                 "name": "1337kid",
                 "url": "https://github.com/1337kid"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/77897800?u=c4d3bad7f20434f8666cbc2f06006aaed5303a18&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
-            "url": "https://github.com/TuanLeDevelopment/CVE-2023-MDM0001-Vulnerability-Forced-MDM-Profiles-Removal-Exploit",
-            "title": "TuanLeDevelopment/CVE-2023-MDM0001-Vulnerability-Forced-MDM-Profiles-Removal-Exploit",
-            "date_modified": "2023-09-05T21:30:27.000Z",
-            "date_published": "2023-09-05T20:39:32.000Z",
-            "author": {
-                "name": "TuanLeDevelopment",
-                "url": "https://github.com/TuanLeDevelopment"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/51345640?u=ac76ed6d5a99dc3a44d9eb88e997f98052cfba3d&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Script to exploit CVE-2023-38035</div>",
-            "url": "https://github.com/mind2hex/MICS_Hunter",
-            "title": "mind2hex/MICS_Hunter: Script to exploit CVE-2023-38035",
-            "date_modified": "2023-09-05T02:16:41.000Z",
-            "date_published": "2023-09-05T01:58:39.000Z",
-            "author": {
-                "name": "mind2hex",
-                "url": "https://github.com/mind2hex"
             }
         }
     ]
