@@ -6,6 +6,17 @@
     "description": "CVE-2022 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/61415393?u=6d30d42d56d066e99acf1d4d1e7439b2fadc7228&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Automatic Mass Tool for checking vulnerability in CVE-2022-0591 - Formcraft3 &lt; 3.8.28 - Unauthenticated SSRF</div>",
+            "url": "https://github.com/im-hanzou/FC3er",
+            "title": "im-hanzou/FC3er: Automatic Mass Tool for checking vulnerability in CVE-2022-0591 - Formcraft3 < 3.8.28 - Unauthenticated SSRF",
+            "date_modified": "2023-09-07T18:41:44.000Z",
+            "date_published": "2023-09-07T18:41:43.000Z",
+            "author": {
+                "name": "im-hanzou",
+                "url": "https://github.com/im-hanzou"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/107208935?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2022-36946 linux kernel panic in netfilter_queue</div>",
             "url": "https://github.com/Pwnzer0tt1/CVE-2022-36946",
             "title": "Pwnzer0tt1/CVE-2022-36946: CVE-2022-36946 linux kernel panic in netfilter_queue",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "ToxicEnvelope",
                 "url": "https://github.com/ToxicEnvelope"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/108927927?u=0a00358772724d054be0c5bb543e626ca8c45178&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>I'm write a exploit&amp;scan for exploitation SQl Injection in WP from CVE-2022-0412</div>",
-            "url": "https://github.com/TcherB31/CVE-2022-0412_Exploit",
-            "title": "TcherB31/CVE-2022-0412_Exploit: I'm write a exploit&scan for exploitation SQl Injection in WP from CVE-2022-0412",
-            "date_modified": "2023-08-25T16:58:19.000Z",
-            "date_published": "2023-08-25T16:54:28.000Z",
-            "author": {
-                "name": "TcherB31",
-                "url": "https://github.com/TcherB31"
             }
         }
     ]
