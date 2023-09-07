@@ -6,6 +6,17 @@
     "description": "CVE-2021 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/35977703?u=8f50b78e5a5d47abc50935bb0f9d04359ee6df47&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Vulnerability details and exploit for CVE-2021-3754</div>",
+            "url": "https://github.com/7Ragnarok7/CVE-2021-3754",
+            "title": "7Ragnarok7/CVE-2021-3754: Vulnerability details and exploit for CVE-2021-3754",
+            "date_modified": "2023-09-07T10:34:22.000Z",
+            "date_published": "2023-09-07T07:49:21.000Z",
+            "author": {
+                "name": "7Ragnarok7",
+                "url": "https://github.com/7Ragnarok7"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/17105451?u=6a03c16abeaa94d2177153b93e681fa837b90e2b&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>This repo hosts TUKRU's Linux Privilege Escalation exploit (CVE-2021-22555). It demonstrates gaining root privileges via a vulnerability. Tested on Ubuntu 5.8.0-48-generic and COS 5.4.89+. Use responsibly and ethically.</div>",
             "url": "https://github.com/tukru/CVE-2021-22555",
             "title": "tukru/CVE-2021-22555: This repo hosts TUKRU's Linux Privilege Escalation exploit (CVE-2021-22555). It demonstrates gaining root privileges via a vulnerability. Tested on Ubuntu 5.8.0-48-generic and COS 5.4.89+. Use responsibly and ethically.",
@@ -14,17 +25,6 @@
             "author": {
                 "name": "tukru",
                 "url": "https://github.com/tukru"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/35977703?u=8f50b78e5a5d47abc50935bb0f9d04359ee6df47&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Vulnerability details and exploit for CVE-2021-3754</div>",
-            "url": "https://github.com/7Ragnarok7/CVE-2021-3754",
-            "title": "7Ragnarok7/CVE-2021-3754: Vulnerability details and exploit for CVE-2021-3754",
-            "date_modified": "2023-09-07T07:51:32.000Z",
-            "date_published": "2023-09-07T07:49:21.000Z",
-            "author": {
-                "name": "7Ragnarok7",
-                "url": "https://github.com/7Ragnarok7"
             }
         },
         {
