@@ -17,6 +17,17 @@
             }
         },
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/71904759?u=e0d25c9ace3e591f834d5f1fbb0c2918c9753993&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Explanation and POC of the CVE-2023-23946</div>",
+            "url": "https://github.com/bruno-1337/CVE-2023-23946-POC",
+            "title": "bruno-1337/CVE-2023-23946-POC: Explanation and POC of the CVE-2023-23946",
+            "date_modified": "2023-09-07T10:07:26.000Z",
+            "date_published": "2023-09-07T10:07:25.000Z",
+            "author": {
+                "name": "bruno-1337",
+                "url": "https://github.com/bruno-1337"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/5014849?u=557a8de4a67ae4633c110761639e515df35f1b8a&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>This module exploits a vulnerability in WinRAR (CVE-2023-38831). When a user opens a crafted RAR file and its embedded document, a script is executed, leading to code execution.</div>",
             "url": "https://github.com/xaitax/WinRAR-CVE-2023-38831",
             "title": "xaitax/WinRAR-CVE-2023-38831: This module exploits a vulnerability in WinRAR (CVE-2023-38831). When a user opens a crafted RAR file and its embedded document, a script is executed, leading to code execution.",
@@ -80,17 +91,6 @@
             "author": {
                 "name": "redblueteam",
                 "url": "https://github.com/redblueteam"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/71904759?u=e0d25c9ace3e591f834d5f1fbb0c2918c9753993&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Explanation and POC of the CVE-2023-23946</div>",
-            "url": "https://github.com/bruno-1337/CVE-2023-23946-POC",
-            "title": "bruno-1337/CVE-2023-23946-POC: Explanation and POC of the CVE-2023-23946",
-            "date_modified": "2023-09-07T10:07:26.000Z",
-            "date_published": "2023-09-07T10:07:25.000Z",
-            "author": {
-                "name": "bruno-1337",
-                "url": "https://github.com/bruno-1337"
             }
         },
         {
@@ -196,7 +196,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/42498816?u=08c4092e757fc2588b734e8e09e355493e9126e9&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Ghostscript command injection vulnerability PoC (CVE-2023-36664)</div>",
             "url": "https://github.com/jakabakos/CVE-2023-36664-Ghostscript-command-injection",
             "title": "jakabakos/CVE-2023-36664-Ghostscript-command-injection: Ghostscript command injection vulnerability PoC (CVE-2023-36664)",
-            "date_modified": "2023-08-31T06:00:47.000Z",
+            "date_modified": "2023-09-08T07:49:42.000Z",
             "date_published": "2023-08-12T18:33:57.000Z",
             "author": {
                 "name": "jakabakos",
