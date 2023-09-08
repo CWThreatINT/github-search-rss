@@ -6,14 +6,14 @@
     "description": "CVE-2023 FEED on GitHub",
     "items": [
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/71904759?u=e0d25c9ace3e591f834d5f1fbb0c2918c9753993&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Explanation and POC of the CVE-2023-23946</div>",
-            "url": "https://github.com/bruno-1337/CVE-2023-23946-POC",
-            "title": "bruno-1337/CVE-2023-23946-POC: Explanation and POC of the CVE-2023-23946",
-            "date_modified": "2023-09-07T10:07:26.000Z",
-            "date_published": "2023-09-07T10:07:25.000Z",
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/18223385?u=5ba29c1a9447ae88a6a0433f44038f47471e11c1&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>TOP All bugbounty pentesting CVE-2023- POC Exp  RCE example payload  Things</div>",
+            "url": "https://github.com/hktalent/TOP",
+            "title": "hktalent/TOP: TOP All bugbounty pentesting CVE-2023- POC Exp  RCE example payload  Things",
+            "date_modified": "2023-09-02T10:38:03.000Z",
+            "date_published": "2022-03-19T01:54:15.000Z",
             "author": {
-                "name": "bruno-1337",
-                "url": "https://github.com/bruno-1337"
+                "name": "hktalent",
+                "url": "https://github.com/hktalent"
             }
         },
         {
@@ -25,6 +25,39 @@
             "author": {
                 "name": "CVEProject",
                 "url": "https://github.com/CVEProject"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/29709246?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2023-41508 - A hard-coded password in Super Store Finder v3.6 allows attackers to access the administration panel.</div>",
+            "url": "https://github.com/redblueteam/CVE-2023-41508",
+            "title": "redblueteam/CVE-2023-41508: CVE-2023-41508 - A hard-coded password in Super Store Finder v3.6 allows attackers to access the administration panel.",
+            "date_modified": "2023-09-05T03:29:38.000Z",
+            "date_published": "2023-09-05T03:29:37.000Z",
+            "author": {
+                "name": "redblueteam",
+                "url": "https://github.com/redblueteam"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/29709246?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2023-41507 A hard coded password in Super Store Finder v3.6 allows attackers to access the administration panel.</div>",
+            "url": "https://github.com/redblueteam/CVE-2023-41507",
+            "title": "redblueteam/CVE-2023-41507: CVE-2023-41507 A hard coded password in Super Store Finder v3.6 allows attackers to access the administration panel.",
+            "date_modified": "2023-09-05T03:26:16.000Z",
+            "date_published": "2023-09-05T03:26:15.000Z",
+            "author": {
+                "name": "redblueteam",
+                "url": "https://github.com/redblueteam"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/71904759?u=e0d25c9ace3e591f834d5f1fbb0c2918c9753993&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Explanation and POC of the CVE-2023-23946</div>",
+            "url": "https://github.com/bruno-1337/CVE-2023-23946-POC",
+            "title": "bruno-1337/CVE-2023-23946-POC: Explanation and POC of the CVE-2023-23946",
+            "date_modified": "2023-09-07T10:07:26.000Z",
+            "date_published": "2023-09-07T10:07:25.000Z",
+            "author": {
+                "name": "bruno-1337",
+                "url": "https://github.com/bruno-1337"
             }
         },
         {
@@ -171,17 +204,6 @@
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/18223385?u=5ba29c1a9447ae88a6a0433f44038f47471e11c1&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>TOP All bugbounty pentesting CVE-2023- POC Exp  RCE example payload  Things</div>",
-            "url": "https://github.com/hktalent/TOP",
-            "title": "hktalent/TOP: TOP All bugbounty pentesting CVE-2023- POC Exp  RCE example payload  Things",
-            "date_modified": "2023-09-02T10:38:03.000Z",
-            "date_published": "2022-03-19T01:54:15.000Z",
-            "author": {
-                "name": "hktalent",
-                "url": "https://github.com/hktalent"
-            }
-        },
-        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/140469824?u=3e9537d19826d79d7e6297f8df3d65bf64ea228e&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>The PoC of CVE-2023-36123</div>",
             "url": "https://github.com/9Bakabaka/CVE-2023-36123",
             "title": "9Bakabaka/CVE-2023-36123: The PoC of CVE-2023-36123",
@@ -201,28 +223,6 @@
             "author": {
                 "name": "nidhi7598",
                 "url": "https://github.com/nidhi7598"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/106973537?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
-            "url": "https://github.com/nidhi7598/linux-4.19.72_CVE-2023-3812",
-            "title": "nidhi7598/linux-4.19.72_CVE-2023-3812",
-            "date_modified": "2023-09-06T06:18:14.000Z",
-            "date_published": "2023-09-06T06:03:40.000Z",
-            "author": {
-                "name": "nidhi7598",
-                "url": "https://github.com/nidhi7598"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/45532566?u=217f4c2635764fc9a5710e81aab14a97ba8cea86&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Exploit for file upload vulnerability in BoidCMS version &lt;=2.0.0</div>",
-            "url": "https://github.com/1337kid/CVE-2023-38836",
-            "title": "1337kid/CVE-2023-38836: Exploit for file upload vulnerability in BoidCMS version <=2.0.0",
-            "date_modified": "2023-08-17T06:43:52.000Z",
-            "date_published": "2023-08-16T14:30:30.000Z",
-            "author": {
-                "name": "1337kid",
-                "url": "https://github.com/1337kid"
             }
         }
     ]
