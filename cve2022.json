@@ -6,6 +6,17 @@
     "description": "CVE-2022 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/107208935?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2022-36946 linux kernel panic in netfilter_queue</div>",
+            "url": "https://github.com/Pwnzer0tt1/CVE-2022-36946",
+            "title": "Pwnzer0tt1/CVE-2022-36946: CVE-2022-36946 linux kernel panic in netfilter_queue",
+            "date_modified": "2023-09-07T13:09:51.000Z",
+            "date_published": "2022-07-28T11:22:13.000Z",
+            "author": {
+                "name": "Pwnzer0tt1",
+                "url": "https://github.com/Pwnzer0tt1"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/95903558?u=d17ea17c4debeb042762e9c37e7257cbca94d30a&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
             "url": "https://github.com/webraybtl/CVE-2022-24934",
             "title": "webraybtl/CVE-2022-24934",
@@ -25,17 +36,6 @@
             "author": {
                 "name": "im-hanzou",
                 "url": "https://github.com/im-hanzou"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/107208935?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2022-36946 linux kernel panic in netfilter_queue</div>",
-            "url": "https://github.com/Pwnzer0tt1/CVE-2022-36946",
-            "title": "Pwnzer0tt1/CVE-2022-36946: CVE-2022-36946 linux kernel panic in netfilter_queue",
-            "date_modified": "2023-09-07T13:09:51.000Z",
-            "date_published": "2022-07-28T11:22:13.000Z",
-            "author": {
-                "name": "Pwnzer0tt1",
-                "url": "https://github.com/Pwnzer0tt1"
             }
         },
         {

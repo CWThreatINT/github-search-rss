@@ -17,6 +17,17 @@
             }
         },
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/112768445?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Looking into the memory when sshd 9.1p1 aborts due to a double free bug.</div>",
+            "url": "https://github.com/Business1sg00d/CVE-2023-25136",
+            "title": "Business1sg00d/CVE-2023-25136: Looking into the memory when sshd 9.1p1 aborts due to a double free bug.",
+            "date_modified": "2023-09-04T19:31:08.000Z",
+            "date_published": "2023-09-04T19:28:43.000Z",
+            "author": {
+                "name": "Business1sg00d",
+                "url": "https://github.com/Business1sg00d"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/42498816?u=08c4092e757fc2588b734e8e09e355493e9126e9&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
             "url": "https://github.com/jakabakos/CVE-2023-27524-Apache-Superset-Auth-Bypass-and-RCE",
             "title": "jakabakos/CVE-2023-27524-Apache-Superset-Auth-Bypass-and-RCE",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "jakabakos",
                 "url": "https://github.com/jakabakos"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/92071491?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2023-41593</div>",
-            "url": "https://github.com/MATRIXDEVIL/CVE",
-            "title": "MATRIXDEVIL/CVE: CVE-2023-41593",
-            "date_modified": "2023-09-07T06:59:10.000Z",
-            "date_published": "2023-09-07T06:59:09.000Z",
-            "author": {
-                "name": "MATRIXDEVIL",
-                "url": "https://github.com/MATRIXDEVIL"
             }
         }
     ]
