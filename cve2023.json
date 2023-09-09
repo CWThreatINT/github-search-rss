@@ -17,6 +17,17 @@
             }
         },
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/134310220?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A tool to fetch the RocketMQ broker configuration in order to discover indicators of compromise for CVE-2023-33246</div>",
+            "url": "https://github.com/vulncheck-oss/fetch-broker-conf",
+            "title": "vulncheck-oss/fetch-broker-conf: A tool to fetch the RocketMQ broker configuration in order to discover indicators of compromise for CVE-2023-33246",
+            "date_modified": "2023-09-07T08:02:09.000Z",
+            "date_published": "2023-09-04T11:18:28.000Z",
+            "author": {
+                "name": "vulncheck-oss",
+                "url": "https://github.com/vulncheck-oss"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/135513064?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>SolarView vuln</div>",
             "url": "https://github.com/Yobing1/CVE-2023-40924",
             "title": "Yobing1/CVE-2023-40924: SolarView vuln",
@@ -135,17 +146,6 @@
             "author": {
                 "name": "dhmosfunk",
                 "url": "https://github.com/dhmosfunk"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/88715174?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div> CVE-2023-40930 Repetition Enviroment</div>",
-            "url": "https://github.com/NSnidie/-CVE-2023-40930",
-            "title": "NSnidie/-CVE-2023-40930:  CVE-2023-40930 Repetition Enviroment",
-            "date_modified": "2023-09-07T16:50:02.000Z",
-            "date_published": "2023-09-07T16:50:02.000Z",
-            "author": {
-                "name": "NSnidie",
-                "url": "https://github.com/NSnidie"
             }
         },
         {
