@@ -6,6 +6,17 @@
     "description": "CVE-2023 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/79593994?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Basic PoC for CVE-2023-27524: Insecure Default Configuration in Apache Superset</div>",
+            "url": "https://github.com/horizon3ai/CVE-2023-27524",
+            "title": "horizon3ai/CVE-2023-27524: Basic PoC for CVE-2023-27524: Insecure Default Configuration in Apache Superset",
+            "date_modified": "2023-09-08T01:54:04.000Z",
+            "date_published": "2023-04-25T04:59:05.000Z",
+            "author": {
+                "name": "horizon3ai",
+                "url": "https://github.com/horizon3ai"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/18223385?u=5ba29c1a9447ae88a6a0433f44038f47471e11c1&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>TOP All bugbounty pentesting CVE-2023- POC Exp  RCE example payload  Things</div>",
             "url": "https://github.com/hktalent/TOP",
             "title": "hktalent/TOP: TOP All bugbounty pentesting CVE-2023- POC Exp  RCE example payload  Things",
@@ -75,7 +86,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/95903558?u=d17ea17c4debeb042762e9c37e7257cbca94d30a&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>notepad++堆缓冲区溢出漏洞CVE-2023-40031 分析与复现</div>",
             "url": "https://github.com/webraybtl/CVE-2023-40031",
             "title": "webraybtl/CVE-2023-40031: notepad++堆缓冲区溢出漏洞CVE-2023-40031 分析与复现",
-            "date_modified": "2023-09-08T11:03:04.000Z",
+            "date_modified": "2023-09-09T01:13:48.000Z",
             "date_published": "2023-09-08T05:43:12.000Z",
             "author": {
                 "name": "webraybtl",
@@ -209,17 +220,6 @@
             "title": "jakabakos/CVE-2023-36664-Ghostscript-command-injection: Ghostscript command injection vulnerability PoC (CVE-2023-36664)",
             "date_modified": "2023-09-08T07:49:42.000Z",
             "date_published": "2023-08-12T18:33:57.000Z",
-            "author": {
-                "name": "jakabakos",
-                "url": "https://github.com/jakabakos"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/42498816?u=08c4092e757fc2588b734e8e09e355493e9126e9&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2023-22884 PoC</div>",
-            "url": "https://github.com/jakabakos/CVE-2023-22884-Airflow-SQLi",
-            "title": "jakabakos/CVE-2023-22884-Airflow-SQLi: CVE-2023-22884 PoC",
-            "date_modified": "2023-08-28T11:06:34.000Z",
-            "date_published": "2023-07-29T09:26:36.000Z",
             "author": {
                 "name": "jakabakos",
                 "url": "https://github.com/jakabakos"
