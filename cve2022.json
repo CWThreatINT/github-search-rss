@@ -6,6 +6,17 @@
     "description": "CVE-2022 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/143711860?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>RCE PoC in Apache Commons Text</div>",
+            "url": "https://github.com/0xxis/CVE-2022-42889",
+            "title": "0xxis/CVE-2022-42889: RCE PoC in Apache Commons Text",
+            "date_modified": "2023-09-09T12:35:53.000Z",
+            "date_published": "2023-09-09T12:11:36.000Z",
+            "author": {
+                "name": "0xxis",
+                "url": "https://github.com/0xxis"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/143934696?u=4540a8e244db874f805233f8b00ef23018f3a016&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>How to get access via CVE-2022-27997</div>",
             "url": "https://github.com/Cyb3rEnthusiast/CVE-2022-27997",
             "title": "Cyb3rEnthusiast/CVE-2022-27997: How to get access via CVE-2022-27997",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "winstxnhdw",
                 "url": "https://github.com/winstxnhdw"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/88584206?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Turning Your Computer Into a GPS Tracker With Apple Maps</div>",
-            "url": "https://github.com/breakpointHQ/CVE-2022-32883",
-            "title": "breakpointHQ/CVE-2022-32883: Turning Your Computer Into a GPS Tracker With Apple Maps",
-            "date_modified": "2023-06-12T22:39:24.000Z",
-            "date_published": "2022-09-18T15:51:52.000Z",
-            "author": {
-                "name": "breakpointHQ",
-                "url": "https://github.com/breakpointHQ"
             }
         }
     ]
