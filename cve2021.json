@@ -6,6 +6,28 @@
     "description": "CVE-2021 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/83229713?u=cb09c16d67190114cb9230b0a9dc1f75120ff9ec&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A Proof of Concept for the CVE-2021-46398 flaw exploitation </div>",
+            "url": "https://github.com/LalieA/CVE-2021-46398",
+            "title": "LalieA/CVE-2021-46398: A Proof of Concept for the CVE-2021-46398 flaw exploitation ",
+            "date_modified": "2023-09-10T23:04:58.000Z",
+            "date_published": "2023-01-03T09:49:22.000Z",
+            "author": {
+                "name": "LalieA",
+                "url": "https://github.com/LalieA"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/83229713?u=cb09c16d67190114cb9230b0a9dc1f75120ff9ec&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A Proof of Concept for the CVE-2021-27928 flaw exploitation</div>",
+            "url": "https://github.com/LalieA/CVE-2021-27928",
+            "title": "LalieA/CVE-2021-27928: A Proof of Concept for the CVE-2021-27928 flaw exploitation",
+            "date_modified": "2023-09-10T22:57:40.000Z",
+            "date_published": "2022-12-14T17:36:38.000Z",
+            "author": {
+                "name": "LalieA",
+                "url": "https://github.com/LalieA"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/74212724?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
             "url": "https://github.com/Hikikan/CVE-2021-22205",
             "title": "Hikikan/CVE-2021-22205",
@@ -201,28 +223,6 @@
             "author": {
                 "name": "darkpills",
                 "url": "https://github.com/darkpills"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/64579294?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
-            "url": "https://github.com/racoon-rac/CVE-2021-44228",
-            "title": "racoon-rac/CVE-2021-44228",
-            "date_modified": "2021-12-11T01:11:19.000Z",
-            "date_published": "2021-12-10T23:37:55.000Z",
-            "author": {
-                "name": "racoon-rac",
-                "url": "https://github.com/racoon-rac"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/106973537?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
-            "url": "https://github.com/nidhi7598/frameworks_base_AOSP_10_r33_CVE-2021-0443",
-            "title": "nidhi7598/frameworks_base_AOSP_10_r33_CVE-2021-0443",
-            "date_modified": "2023-08-29T12:34:57.000Z",
-            "date_published": "2023-08-29T12:29:57.000Z",
-            "author": {
-                "name": "nidhi7598",
-                "url": "https://github.com/nidhi7598"
             }
         }
     ]
