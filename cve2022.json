@@ -6,6 +6,17 @@
     "description": "CVE-2022 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/11798?u=904c3fea684f15f7f6eff8ec9016383aaaa0e179&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>An advanced RCE tool tailored for exploiting a vulnerability in Cacti v1.2.22. Crafted with precision, this utility aids security researchers in analyzing and understanding the depth of the CVE-2022-46169 flaw. Use responsibly and ethically.</div>",
+            "url": "https://github.com/copyleftdev/PricklyPwn",
+            "title": "copyleftdev/PricklyPwn: An advanced RCE tool tailored for exploiting a vulnerability in Cacti v1.2.22. Crafted with precision, this utility aids security researchers in analyzing and understanding the depth of the CVE-2022-46169 flaw. Use responsibly and ethically.",
+            "date_modified": "2023-09-10T17:00:50.000Z",
+            "date_published": "2023-09-10T17:00:50.000Z",
+            "author": {
+                "name": "copyleftdev",
+                "url": "https://github.com/copyleftdev"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/143711860?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>RCE PoC for Apache Commons Text vuln</div>",
             "url": "https://github.com/34006133/CVE-2022-42889",
             "title": "34006133/CVE-2022-42889: RCE PoC for Apache Commons Text vuln",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "a1665454764",
                 "url": "https://github.com/a1665454764"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/12976017?u=6d3d423fda6a56643a0ca1acae5223cdf08a3c28&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>User can execute unsigned binaries with BootROM privileges, which can be used to unlock bootloader</div>",
-            "url": "https://github.com/TomKing062/CVE-2022-38694_unlock_bootloader",
-            "title": "TomKing062/CVE-2022-38694_unlock_bootloader: User can execute unsigned binaries with BootROM privileges, which can be used to unlock bootloader",
-            "date_modified": "2023-09-10T14:45:43.000Z",
-            "date_published": "2023-06-10T08:31:26.000Z",
-            "author": {
-                "name": "TomKing062",
-                "url": "https://github.com/TomKing062"
             }
         }
     ]
