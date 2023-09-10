@@ -7,6 +7,17 @@
     "items": [
         {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/45155253?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
+            "url": "https://github.com/leekenghwa/CVE-2023-37756-CWE-521-lead-to-malicious-plugin-upload-in-the-i-doit-Pro-25-and-below",
+            "title": "leekenghwa/CVE-2023-37756-CWE-521-lead-to-malicious-plugin-upload-in-the-i-doit-Pro-25-and-below",
+            "date_modified": "2023-09-10T07:19:58.000Z",
+            "date_published": "2023-07-24T03:11:05.000Z",
+            "author": {
+                "name": "leekenghwa",
+                "url": "https://github.com/leekenghwa"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/45155253?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
             "url": "https://github.com/leekenghwa/CVE-2023-37755---Hardcoded-Admin-Credential-in-i-doit-Pro-25-and-below",
             "title": "leekenghwa/CVE-2023-37755---Hardcoded-Admin-Credential-in-i-doit-Pro-25-and-below",
             "date_modified": "2023-09-10T06:21:43.000Z",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "redboltsec",
                 "url": "https://github.com/redboltsec"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/55885619?u=e6852387fd561b7594bfdb869d952906e0c1e472&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>An exploit for OpenTSDB &lt;= 2.4.1 cmd injection (CVE-2023-36812/CVE-2023-25826) written in Fortran</div>",
-            "url": "https://github.com/ErikWynter/opentsdb_key_cmd_injection",
-            "title": "ErikWynter/opentsdb_key_cmd_injection: An exploit for OpenTSDB <= 2.4.1 cmd injection (CVE-2023-36812/CVE-2023-25826) written in Fortran",
-            "date_modified": "2023-09-10T06:59:43.000Z",
-            "date_published": "2023-09-07T13:47:13.000Z",
-            "author": {
-                "name": "ErikWynter",
-                "url": "https://github.com/ErikWynter"
             }
         }
     ]
