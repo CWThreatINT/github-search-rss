@@ -6,14 +6,14 @@
     "description": "CVE-2023 FEED on GitHub",
     "items": [
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/18223385?u=5ba29c1a9447ae88a6a0433f44038f47471e11c1&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>TOP All bugbounty pentesting CVE-2023- POC Exp  RCE example payload  Things</div>",
-            "url": "https://github.com/hktalent/TOP",
-            "title": "hktalent/TOP: TOP All bugbounty pentesting CVE-2023- POC Exp  RCE example payload  Things",
-            "date_modified": "2023-09-02T10:38:03.000Z",
-            "date_published": "2022-03-19T01:54:15.000Z",
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/135759201?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Mass Exploit - CVE-2023-1698 &lt;  Unauthenticated Remote Command Execution</div>",
+            "url": "https://github.com/codeb0ss/CVE-2023-1698-PoC",
+            "title": "codeb0ss/CVE-2023-1698-PoC: Mass Exploit - CVE-2023-1698 <  Unauthenticated Remote Command Execution",
+            "date_modified": "2023-09-10T01:37:48.000Z",
+            "date_published": "2023-09-10T01:29:48.000Z",
             "author": {
-                "name": "hktalent",
-                "url": "https://github.com/hktalent"
+                "name": "codeb0ss",
+                "url": "https://github.com/codeb0ss"
             }
         },
         {
@@ -25,6 +25,17 @@
             "author": {
                 "name": "CVEProject",
                 "url": "https://github.com/CVEProject"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/18223385?u=5ba29c1a9447ae88a6a0433f44038f47471e11c1&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>TOP All bugbounty pentesting CVE-2023- POC Exp  RCE example payload  Things</div>",
+            "url": "https://github.com/hktalent/TOP",
+            "title": "hktalent/TOP: TOP All bugbounty pentesting CVE-2023- POC Exp  RCE example payload  Things",
+            "date_modified": "2023-09-02T10:38:03.000Z",
+            "date_published": "2022-03-19T01:54:15.000Z",
+            "author": {
+                "name": "hktalent",
+                "url": "https://github.com/hktalent"
             }
         },
         {
@@ -212,17 +223,6 @@
             "author": {
                 "name": "lucas-cauhe",
                 "url": "https://github.com/lucas-cauhe"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/144338561?u=f18c3671c964b0a10324e3b7c9dec2af1ac64dd1&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
-            "url": "https://github.com/Sh33talUmath/CVE-2023-41535",
-            "title": "Sh33talUmath/CVE-2023-41535",
-            "date_modified": "2023-09-07T11:01:05.000Z",
-            "date_published": "2023-09-07T11:01:04.000Z",
-            "author": {
-                "name": "Sh33talUmath",
-                "url": "https://github.com/Sh33talUmath"
             }
         }
     ]
