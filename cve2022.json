@@ -6,17 +6,6 @@
     "description": "CVE-2022 FEED on GitHub",
     "items": [
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/52760493?u=9707d9f65dfc26ac6d7a30479808fe1b88e48ed5&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
-            "url": "https://github.com/0xZon/CVE-2022-46169-Exploit",
-            "title": "0xZon/CVE-2022-46169-Exploit",
-            "date_modified": "2023-09-10T06:03:53.000Z",
-            "date_published": "2023-09-10T06:03:22.000Z",
-            "author": {
-                "name": "0xZon",
-                "url": "https://github.com/0xZon"
-            }
-        },
-        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/143711860?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>RCE PoC for Apache Commons Text vuln</div>",
             "url": "https://github.com/34006133/CVE-2022-42889",
             "title": "34006133/CVE-2022-42889: RCE PoC for Apache Commons Text vuln",
@@ -25,6 +14,17 @@
             "author": {
                 "name": "34006133",
                 "url": "https://github.com/34006133"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/52760493?u=9707d9f65dfc26ac6d7a30479808fe1b88e48ed5&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
+            "url": "https://github.com/0xZon/CVE-2022-46169-Exploit",
+            "title": "0xZon/CVE-2022-46169-Exploit",
+            "date_modified": "2023-09-10T06:03:53.000Z",
+            "date_published": "2023-09-10T06:03:22.000Z",
+            "author": {
+                "name": "0xZon",
+                "url": "https://github.com/0xZon"
             }
         },
         {
