@@ -6,6 +6,17 @@
     "description": "CVE-2022 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/61415393?u=6d30d42d56d066e99acf1d4d1e7439b2fadc7228&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Automatic Mass Tool for checking vulnerability in CVE-2022-4063 - InPost Gallery &lt; 2.1.4.1 - Unauthenticated LFI to RCE</div>",
+            "url": "https://github.com/im-hanzou/INPGer",
+            "title": "im-hanzou/INPGer: Automatic Mass Tool for checking vulnerability in CVE-2022-4063 - InPost Gallery < 2.1.4.1 - Unauthenticated LFI to RCE",
+            "date_modified": "2023-09-11T20:01:05.000Z",
+            "date_published": "2023-09-11T20:01:04.000Z",
+            "author": {
+                "name": "im-hanzou",
+                "url": "https://github.com/im-hanzou"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/114189847?u=6210e0800e863af244c52fdfeab27b3b36a05dce&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>This is a exploit of CVE-2022-46169 to cacti 1.2.22. This exploit allows through an RCE to obtain a reverse shell on your computer.</div>",
             "url": "https://github.com/FredBrave/CVE-2022-46169-CACTI-1.2.22",
             "title": "FredBrave/CVE-2022-46169-CACTI-1.2.22: This is a exploit of CVE-2022-46169 to cacti 1.2.22. This exploit allows through an RCE to obtain a reverse shell on your computer.",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "asepsaepdin",
                 "url": "https://github.com/asepsaepdin"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/72800859?u=d53be4f09a67af4f8999a7ecc7a73b9c74f45d28&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>I do some tweaking for iOS from 16.0 to 16.1.2 based on MacDirtyCow (CVE-2022-46689) exploit.</div>",
-            "url": "https://github.com/tdquang266/MDC",
-            "title": "tdquang266/MDC: I do some tweaking for iOS from 16.0 to 16.1.2 based on MacDirtyCow (CVE-2022-46689) exploit.",
-            "date_modified": "2023-09-03T08:43:36.000Z",
-            "date_published": "2023-04-16T03:33:38.000Z",
-            "author": {
-                "name": "tdquang266",
-                "url": "https://github.com/tdquang266"
             }
         }
     ]
