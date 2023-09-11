@@ -6,17 +6,6 @@
     "description": "CVE-2023 FEED on GitHub",
     "items": [
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/74211927?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
-            "url": "https://github.com/SorceryIE/CVE-2023-41362_MyBB_ACP_RCE",
-            "title": "SorceryIE/CVE-2023-41362_MyBB_ACP_RCE",
-            "date_modified": "2023-09-11T10:19:51.000Z",
-            "date_published": "2023-09-11T07:49:38.000Z",
-            "author": {
-                "name": "SorceryIE",
-                "url": "https://github.com/SorceryIE"
-            }
-        },
-        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/18195825?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023</div>",
             "url": "https://github.com/CVEProject/cvelist",
             "title": "CVEProject/cvelist: Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023",
@@ -25,6 +14,28 @@
             "author": {
                 "name": "CVEProject",
                 "url": "https://github.com/CVEProject"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/61415393?u=6d30d42d56d066e99acf1d4d1e7439b2fadc7228&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Automatic Mass Tool for checking vulnerability in CVE-2023-0159 - Extensive VC Addons for WPBakery page builder &lt; 1.9.1 - Unauthenticated LFI</div>",
+            "url": "https://github.com/im-hanzou/EVCer",
+            "title": "im-hanzou/EVCer: Automatic Mass Tool for checking vulnerability in CVE-2023-0159 - Extensive VC Addons for WPBakery page builder < 1.9.1 - Unauthenticated LFI",
+            "date_modified": "2023-09-11T11:44:35.000Z",
+            "date_published": "2023-09-11T11:36:35.000Z",
+            "author": {
+                "name": "im-hanzou",
+                "url": "https://github.com/im-hanzou"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/74211927?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
+            "url": "https://github.com/SorceryIE/CVE-2023-41362_MyBB_ACP_RCE",
+            "title": "SorceryIE/CVE-2023-41362_MyBB_ACP_RCE",
+            "date_modified": "2023-09-11T10:19:51.000Z",
+            "date_published": "2023-09-11T07:49:38.000Z",
+            "author": {
+                "name": "SorceryIE",
+                "url": "https://github.com/SorceryIE"
             }
         },
         {
@@ -212,17 +223,6 @@
             "author": {
                 "name": "vulncheck-oss",
                 "url": "https://github.com/vulncheck-oss"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/135513064?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>SolarView vuln</div>",
-            "url": "https://github.com/Yobing1/CVE-2023-40924",
-            "title": "Yobing1/CVE-2023-40924: SolarView vuln",
-            "date_modified": "2023-09-01T18:10:52.000Z",
-            "date_published": "2023-08-15T15:44:58.000Z",
-            "author": {
-                "name": "Yobing1",
-                "url": "https://github.com/Yobing1"
             }
         }
     ]
