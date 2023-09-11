@@ -17,10 +17,21 @@
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/119696243?u=6c32a87514e4297ed3a59c9932f92102f3cefbb8&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>จำลอง 0DAY ของ CVE-2023-35674 *สถานะ: ยังไม่เสร็จ*</div>",
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/42498816?u=08c4092e757fc2588b734e8e09e355493e9126e9&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
+            "url": "https://github.com/jakabakos/CVE-2023-27524-Apache-Superset-Auth-Bypass-and-RCE",
+            "title": "jakabakos/CVE-2023-27524-Apache-Superset-Auth-Bypass-and-RCE",
+            "date_modified": "2023-09-08T12:31:14.000Z",
+            "date_published": "2023-09-08T06:15:00.000Z",
+            "author": {
+                "name": "jakabakos",
+                "url": "https://github.com/jakabakos"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/119696243?u=6c32a87514e4297ed3a59c9932f92102f3cefbb8&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>ช่องโหว่ CVE-2023-35674 *สถานะ: ยังไม่เสร็จ*</div>",
             "url": "https://github.com/Thampakon/CVE-2023-35674",
-            "title": "Thampakon/CVE-2023-35674: จำลอง 0DAY ของ CVE-2023-35674 *สถานะ: ยังไม่เสร็จ*",
-            "date_modified": "2023-09-11T05:50:48.000Z",
+            "title": "Thampakon/CVE-2023-35674: ช่องโหว่ CVE-2023-35674 *สถานะ: ยังไม่เสร็จ*",
+            "date_modified": "2023-09-11T06:18:49.000Z",
             "date_published": "2023-09-11T05:34:43.000Z",
             "author": {
                 "name": "Thampakon",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "Business1sg00d",
                 "url": "https://github.com/Business1sg00d"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/42498816?u=08c4092e757fc2588b734e8e09e355493e9126e9&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
-            "url": "https://github.com/jakabakos/CVE-2023-27524-Apache-Superset-Auth-Bypass-and-RCE",
-            "title": "jakabakos/CVE-2023-27524-Apache-Superset-Auth-Bypass-and-RCE",
-            "date_modified": "2023-09-08T12:31:14.000Z",
-            "date_published": "2023-09-08T06:15:00.000Z",
-            "author": {
-                "name": "jakabakos",
-                "url": "https://github.com/jakabakos"
             }
         }
     ]
