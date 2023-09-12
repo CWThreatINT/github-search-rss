@@ -6,6 +6,17 @@
     "description": "CVE-2023 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/44928938?u=1c777d0856e808c2db122f9c4b636f783798410d&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Proof of concept (PoC) exploit for WinRAR vulnerability (CVE-2023-38831) vulnerability</div>",
+            "url": "https://github.com/ameerpornillos/CVE-2023-38831-WinRAR-Exploit",
+            "title": "ameerpornillos/CVE-2023-38831-WinRAR-Exploit: Proof of concept (PoC) exploit for WinRAR vulnerability (CVE-2023-38831) vulnerability",
+            "date_modified": "2023-09-12T16:01:18.000Z",
+            "date_published": "2023-09-12T16:01:17.000Z",
+            "author": {
+                "name": "ameerpornillos",
+                "url": "https://github.com/ameerpornillos"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/18195825?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023</div>",
             "url": "https://github.com/CVEProject/cvelist",
             "title": "CVEProject/cvelist: Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023",
@@ -209,17 +220,6 @@
             "title": "bestjectr/Jpg-Png-Exploit-Downloader-Fud-Cryter-Malware-Builder-Cve-2023: Vulnerability Disclosure Timeline Closer inspection of the Exploit JPG content reveals the malicious link as well as the URL Download and Execute of the tool used to generate the Exploit JPG from Python encrypted code content which we also implement in couple of our builders.",
             "date_modified": "2023-09-10T09:48:07.000Z",
             "date_published": "2023-09-10T09:36:50.000Z",
-            "author": {
-                "name": "bestjectr",
-                "url": "https://github.com/bestjectr"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/144591424?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Get system info (Version, CPU, GPU, RAM, IPs, BSSID, Location, Screen metrics, Installed apps)</div>",
-            "url": "https://github.com/bestjectr/Discord-Image-Token-Password-Grabber-Exploit-Cve-2023",
-            "title": "bestjectr/Discord-Image-Token-Password-Grabber-Exploit-Cve-2023: Get system info (Version, CPU, GPU, RAM, IPs, BSSID, Location, Screen metrics, Installed apps)",
-            "date_modified": "2023-09-10T10:42:36.000Z",
-            "date_published": "2023-09-10T09:36:13.000Z",
             "author": {
                 "name": "bestjectr",
                 "url": "https://github.com/bestjectr"
