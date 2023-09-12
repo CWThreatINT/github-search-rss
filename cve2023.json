@@ -17,10 +17,21 @@
             }
         },
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/86009160?u=b774578387fb2e4255f321f4d09dded1f7521846&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2023-38831 WinRaR Exploit Generator</div>",
+            "url": "https://github.com/Malwareman007/CVE-2023-38831",
+            "title": "Malwareman007/CVE-2023-38831: CVE-2023-38831 WinRaR Exploit Generator",
+            "date_modified": "2023-09-12T14:24:58.000Z",
+            "date_published": "2023-09-12T14:07:00.000Z",
+            "author": {
+                "name": "Malwareman007",
+                "url": "https://github.com/Malwareman007"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/29025198?u=8f075442f5853a0f87364f52d9138fe1d2bd9af7&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Android App Pin Security Issue Allowing Unauthorized Payments via Google Wallet</div>",
             "url": "https://github.com/MrTiz/CVE-2023-35671",
             "title": "MrTiz/CVE-2023-35671: Android App Pin Security Issue Allowing Unauthorized Payments via Google Wallet",
-            "date_modified": "2023-09-12T10:40:45.000Z",
+            "date_modified": "2023-09-12T14:32:09.000Z",
             "date_published": "2023-09-01T20:16:28.000Z",
             "author": {
                 "name": "MrTiz",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "bestjectr",
                 "url": "https://github.com/bestjectr"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/45155253?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
-            "url": "https://github.com/leekenghwa/CVE-2023-37756-CWE-521-lead-to-malicious-plugin-upload-in-the-i-doit-Pro-25-and-below",
-            "title": "leekenghwa/CVE-2023-37756-CWE-521-lead-to-malicious-plugin-upload-in-the-i-doit-Pro-25-and-below",
-            "date_modified": "2023-09-10T07:19:58.000Z",
-            "date_published": "2023-07-24T03:11:05.000Z",
-            "author": {
-                "name": "leekenghwa",
-                "url": "https://github.com/leekenghwa"
             }
         }
     ]
