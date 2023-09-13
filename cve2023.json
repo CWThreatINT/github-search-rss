@@ -6,6 +6,17 @@
     "description": "CVE-2023 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/18223385?u=5ba29c1a9447ae88a6a0433f44038f47471e11c1&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>TOP All bugbounty pentesting CVE-2023- POC Exp  RCE example payload  Things</div>",
+            "url": "https://github.com/hktalent/TOP",
+            "title": "hktalent/TOP: TOP All bugbounty pentesting CVE-2023- POC Exp  RCE example payload  Things",
+            "date_modified": "2023-09-11T19:33:03.000Z",
+            "date_published": "2022-03-19T01:54:15.000Z",
+            "author": {
+                "name": "hktalent",
+                "url": "https://github.com/hktalent"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/18195825?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023</div>",
             "url": "https://github.com/CVEProject/cvelist",
             "title": "CVEProject/cvelist: Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023",
@@ -14,6 +25,17 @@
             "author": {
                 "name": "CVEProject",
                 "url": "https://github.com/CVEProject"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/13350778?u=72f5d16fbc09f9fc2e282bcabda331768a7c8175&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Authenticated SQL Injection Vulnerability in VTiger Open Source CRM v7.5</div>",
+            "url": "https://github.com/jselliott/CVE-2023-38891",
+            "title": "jselliott/CVE-2023-38891: Authenticated SQL Injection Vulnerability in VTiger Open Source CRM v7.5",
+            "date_modified": "2023-09-12T23:38:17.000Z",
+            "date_published": "2023-09-12T22:58:41.000Z",
+            "author": {
+                "name": "jselliott",
+                "url": "https://github.com/jselliott"
             }
         },
         {
@@ -42,7 +64,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/29025198?u=8f075442f5853a0f87364f52d9138fe1d2bd9af7&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Android App Pin Security Issue Allowing Unauthorized Payments via Google Wallet</div>",
             "url": "https://github.com/MrTiz/CVE-2023-35671",
             "title": "MrTiz/CVE-2023-35671: Android App Pin Security Issue Allowing Unauthorized Payments via Google Wallet",
-            "date_modified": "2023-09-12T14:32:09.000Z",
+            "date_modified": "2023-09-12T23:58:09.000Z",
             "date_published": "2023-09-01T20:16:28.000Z",
             "author": {
                 "name": "MrTiz",
@@ -58,17 +80,6 @@
             "author": {
                 "name": "codeb0ss",
                 "url": "https://github.com/codeb0ss"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/18223385?u=5ba29c1a9447ae88a6a0433f44038f47471e11c1&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>TOP All bugbounty pentesting CVE-2023- POC Exp  RCE example payload  Things</div>",
-            "url": "https://github.com/hktalent/TOP",
-            "title": "hktalent/TOP: TOP All bugbounty pentesting CVE-2023- POC Exp  RCE example payload  Things",
-            "date_modified": "2023-09-11T19:33:03.000Z",
-            "date_published": "2022-03-19T01:54:15.000Z",
-            "author": {
-                "name": "hktalent",
-                "url": "https://github.com/hktalent"
             }
         },
         {
@@ -212,17 +223,6 @@
             "author": {
                 "name": "cY83rR0H1t",
                 "url": "https://github.com/cY83rR0H1t"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/144591424?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Vulnerability Disclosure Timeline Closer inspection of the Exploit JPG content reveals the malicious link as well as the URL Download and Execute of the tool used to generate the Exploit JPG from Python encrypted code content which we also implement in couple of our builders.</div>",
-            "url": "https://github.com/bestjectr/Jpg-Png-Exploit-Downloader-Fud-Cryter-Malware-Builder-Cve-2023",
-            "title": "bestjectr/Jpg-Png-Exploit-Downloader-Fud-Cryter-Malware-Builder-Cve-2023: Vulnerability Disclosure Timeline Closer inspection of the Exploit JPG content reveals the malicious link as well as the URL Download and Execute of the tool used to generate the Exploit JPG from Python encrypted code content which we also implement in couple of our builders.",
-            "date_modified": "2023-09-10T09:48:07.000Z",
-            "date_published": "2023-09-10T09:36:50.000Z",
-            "author": {
-                "name": "bestjectr",
-                "url": "https://github.com/bestjectr"
             }
         }
     ]
