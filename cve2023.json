@@ -6,14 +6,14 @@
     "description": "CVE-2023 FEED on GitHub",
     "items": [
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/18223385?u=5ba29c1a9447ae88a6a0433f44038f47471e11c1&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>TOP All bugbounty pentesting CVE-2023- POC Exp  RCE example payload  Things</div>",
-            "url": "https://github.com/hktalent/TOP",
-            "title": "hktalent/TOP: TOP All bugbounty pentesting CVE-2023- POC Exp  RCE example payload  Things",
-            "date_modified": "2023-09-11T19:33:03.000Z",
-            "date_published": "2022-03-19T01:54:15.000Z",
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/113202091?u=63f9638d0154c93fd0cd3d35e8c58cfcc36cfd89&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2023-38831 zero-Day vulnerability in WinRAR exploited by cybercriminals to target traders</div>",
+            "url": "https://github.com/Rezaguii/winrar-exploit-CVE-2023-38831-tool",
+            "title": "Rezaguii/winrar-exploit-CVE-2023-38831-tool: CVE-2023-38831 zero-Day vulnerability in WinRAR exploited by cybercriminals to target traders",
+            "date_modified": "2023-09-13T01:27:32.000Z",
+            "date_published": "2023-09-13T01:18:30.000Z",
             "author": {
-                "name": "hktalent",
-                "url": "https://github.com/hktalent"
+                "name": "Rezaguii",
+                "url": "https://github.com/Rezaguii"
             }
         },
         {
@@ -25,6 +25,17 @@
             "author": {
                 "name": "CVEProject",
                 "url": "https://github.com/CVEProject"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/18223385?u=5ba29c1a9447ae88a6a0433f44038f47471e11c1&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>TOP All bugbounty pentesting CVE-2023- POC Exp  RCE example payload  Things</div>",
+            "url": "https://github.com/hktalent/TOP",
+            "title": "hktalent/TOP: TOP All bugbounty pentesting CVE-2023- POC Exp  RCE example payload  Things",
+            "date_modified": "2023-09-11T19:33:03.000Z",
+            "date_published": "2022-03-19T01:54:15.000Z",
+            "author": {
+                "name": "hktalent",
+                "url": "https://github.com/hktalent"
             }
         },
         {
@@ -64,7 +75,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/29025198?u=8f075442f5853a0f87364f52d9138fe1d2bd9af7&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Android App Pin Security Issue Allowing Unauthorized Payments via Google Wallet</div>",
             "url": "https://github.com/MrTiz/CVE-2023-35671",
             "title": "MrTiz/CVE-2023-35671: Android App Pin Security Issue Allowing Unauthorized Payments via Google Wallet",
-            "date_modified": "2023-09-12T23:58:09.000Z",
+            "date_modified": "2023-09-13T01:11:25.000Z",
             "date_published": "2023-09-01T20:16:28.000Z",
             "author": {
                 "name": "MrTiz",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "caopengyan",
                 "url": "https://github.com/caopengyan"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/48300212?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2023-20052 information leak vulnerability in the DMG file parser of ClamAV</div>",
-            "url": "https://github.com/cY83rR0H1t/CVE-2023-20052",
-            "title": "cY83rR0H1t/CVE-2023-20052: CVE-2023-20052 information leak vulnerability in the DMG file parser of ClamAV",
-            "date_modified": "2023-09-10T09:29:38.000Z",
-            "date_published": "2023-07-19T07:39:20.000Z",
-            "author": {
-                "name": "cY83rR0H1t",
-                "url": "https://github.com/cY83rR0H1t"
             }
         }
     ]
