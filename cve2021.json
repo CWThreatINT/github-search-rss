@@ -61,17 +61,6 @@
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/83229713?u=cb09c16d67190114cb9230b0a9dc1f75120ff9ec&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A Proof of Concept for the CVE-2021-27928 flaw exploitation</div>",
-            "url": "https://github.com/LalieA/CVE-2021-27928",
-            "title": "LalieA/CVE-2021-27928: A Proof of Concept for the CVE-2021-27928 flaw exploitation",
-            "date_modified": "2023-09-10T22:57:40.000Z",
-            "date_published": "2022-12-14T17:36:38.000Z",
-            "author": {
-                "name": "LalieA",
-                "url": "https://github.com/LalieA"
-            }
-        },
-        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/74212724?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
             "url": "https://github.com/Hikikan/CVE-2021-22205",
             "title": "Hikikan/CVE-2021-22205",
@@ -149,17 +138,6 @@
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/68333318?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Log4j vulner testing environment based on CVE-2021-44228. It provide guidance to build the sample infrastructure and the exploit scripts. Supporting cooki3 script as the main exploit tools &amp; integration</div>",
-            "url": "https://github.com/hotpotcookie/CVE-2021-44228-white-box",
-            "title": "hotpotcookie/CVE-2021-44228-white-box: Log4j vulner testing environment based on CVE-2021-44228. It provide guidance to build the sample infrastructure and the exploit scripts. Supporting cooki3 script as the main exploit tools & integration",
-            "date_modified": "2023-04-24T13:24:14.000Z",
-            "date_published": "2022-02-12T11:19:41.000Z",
-            "author": {
-                "name": "hotpotcookie",
-                "url": "https://github.com/hotpotcookie"
-            }
-        },
-        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/122620685?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
             "url": "https://github.com/asepsaepdin/CVE-2021-3560",
             "title": "asepsaepdin/CVE-2021-3560",
@@ -179,17 +157,6 @@
             "author": {
                 "name": "asepsaepdin",
                 "url": "https://github.com/asepsaepdin"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/110938606?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
-            "url": "https://github.com/victorhorowitz/grafana-exploit-CVE-2021-43798",
-            "title": "victorhorowitz/grafana-exploit-CVE-2021-43798",
-            "date_modified": "2023-09-03T04:56:01.000Z",
-            "date_published": "2023-09-03T04:11:39.000Z",
-            "author": {
-                "name": "victorhorowitz",
-                "url": "https://github.com/victorhorowitz"
             }
         },
         {
@@ -223,6 +190,39 @@
             "author": {
                 "name": "niceeeeeeee",
                 "url": "https://github.com/niceeeeeeee"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/102574296?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
+            "url": "https://github.com/Trinadh465/platform_art_CVE-2021-0394",
+            "title": "Trinadh465/platform_art_CVE-2021-0394",
+            "date_modified": "2023-08-31T07:02:47.000Z",
+            "date_published": "2023-08-31T07:00:49.000Z",
+            "author": {
+                "name": "Trinadh465",
+                "url": "https://github.com/Trinadh465"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/143511005?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2021-3019</div>",
+            "url": "https://github.com/a1665454764/CVE-2021-3019",
+            "title": "a1665454764/CVE-2021-3019: CVE-2021-3019",
+            "date_modified": "2023-08-30T09:42:19.000Z",
+            "date_published": "2023-08-30T09:41:09.000Z",
+            "author": {
+                "name": "a1665454764",
+                "url": "https://github.com/a1665454764"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/209987?u=94c7ee13178645b8bfd1f84e2dc572be81eb4601&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
+            "url": "https://github.com/darkpills/CVE-2021-25094-tatsu-preauth-rce",
+            "title": "darkpills/CVE-2021-25094-tatsu-preauth-rce",
+            "date_modified": "2023-04-14T16:51:32.000Z",
+            "date_published": "2022-01-03T21:19:42.000Z",
+            "author": {
+                "name": "darkpills",
+                "url": "https://github.com/darkpills"
             }
         }
     ]
