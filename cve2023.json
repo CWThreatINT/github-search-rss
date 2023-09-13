@@ -6,17 +6,6 @@
     "description": "CVE-2023 FEED on GitHub",
     "items": [
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/113202091?u=63f9638d0154c93fd0cd3d35e8c58cfcc36cfd89&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2023-38831 zero-Day vulnerability in WinRAR exploited by cybercriminals to target traders</div>",
-            "url": "https://github.com/Rezaguii/winrar-exploit-CVE-2023-38831-tool",
-            "title": "Rezaguii/winrar-exploit-CVE-2023-38831-tool: CVE-2023-38831 zero-Day vulnerability in WinRAR exploited by cybercriminals to target traders",
-            "date_modified": "2023-09-13T01:27:32.000Z",
-            "date_published": "2023-09-13T01:18:30.000Z",
-            "author": {
-                "name": "Rezaguii",
-                "url": "https://github.com/Rezaguii"
-            }
-        },
-        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/18195825?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023</div>",
             "url": "https://github.com/CVEProject/cvelist",
             "title": "CVEProject/cvelist: Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023",
@@ -25,6 +14,17 @@
             "author": {
                 "name": "CVEProject",
                 "url": "https://github.com/CVEProject"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/113202091?u=63f9638d0154c93fd0cd3d35e8c58cfcc36cfd89&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2023-38831 zero-Day vulnerability in WinRAR exploited by cybercriminals to target traders</div>",
+            "url": "https://github.com/Rezaguii/winrar-exploit-CVE-2023-38831-tool",
+            "title": "Rezaguii/winrar-exploit-CVE-2023-38831-tool: CVE-2023-38831 zero-Day vulnerability in WinRAR exploited by cybercriminals to target traders",
+            "date_modified": "2023-09-13T01:27:32.000Z",
+            "date_published": "2023-09-13T01:18:30.000Z",
+            "author": {
+                "name": "Rezaguii",
+                "url": "https://github.com/Rezaguii"
             }
         },
         {
