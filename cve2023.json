@@ -6,6 +6,17 @@
     "description": "CVE-2023 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/46997779?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>This is a Proof of Concept (PoC) for CVE-2023-3244, a vulnerability in comment-like-dislike. The PoC demonstrates the exploitability of this vulnerability and serves as a reference for security researchers and developers to better understand and mitigate the risk associated with this issue.</div>",
+            "url": "https://github.com/drnull03/POC-CVE-2023-3244",
+            "title": "drnull03/POC-CVE-2023-3244: This is a Proof of Concept (PoC) for CVE-2023-3244, a vulnerability in comment-like-dislike. The PoC demonstrates the exploitability of this vulnerability and serves as a reference for security researchers and developers to better understand and mitigate the risk associated with this issue.",
+            "date_modified": "2023-09-13T12:01:39.000Z",
+            "date_published": "2023-09-13T11:52:36.000Z",
+            "author": {
+                "name": "drnull03",
+                "url": "https://github.com/drnull03"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/18195825?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023</div>",
             "url": "https://github.com/CVEProject/cvelist",
             "title": "CVEProject/cvelist: Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023",
@@ -97,7 +108,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/29025198?u=8f075442f5853a0f87364f52d9138fe1d2bd9af7&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Android App Pin Security Issue Allowing Unauthorized Payments via Google Wallet</div>",
             "url": "https://github.com/MrTiz/CVE-2023-35671",
             "title": "MrTiz/CVE-2023-35671: Android App Pin Security Issue Allowing Unauthorized Payments via Google Wallet",
-            "date_modified": "2023-09-13T09:03:21.000Z",
+            "date_modified": "2023-09-13T11:21:24.000Z",
             "date_published": "2023-09-01T20:16:28.000Z",
             "author": {
                 "name": "MrTiz",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "Thampakon",
                 "url": "https://github.com/Thampakon"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/87455626?u=fe381e8c2ea21dd1f8f81b7b947e2042ec135a64&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
-            "url": "https://github.com/caopengyan/CVE-2023-3450",
-            "title": "caopengyan/CVE-2023-3450",
-            "date_modified": "2023-09-10T12:09:55.000Z",
-            "date_published": "2023-09-10T12:09:05.000Z",
-            "author": {
-                "name": "caopengyan",
-                "url": "https://github.com/caopengyan"
             }
         }
     ]
