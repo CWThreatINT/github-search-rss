@@ -6,6 +6,17 @@
     "description": "CVE-2022 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/79218792?u=f6b0f27134df6083787490cfcd2ccfdbd5eb70d6&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Pwndoc local file inclusion to remote code execution of Node.js code on the server</div>",
+            "url": "https://github.com/p0dalirius/CVE-2022-45771-Pwndoc-LFI-to-RCE",
+            "title": "p0dalirius/CVE-2022-45771-Pwndoc-LFI-to-RCE: Pwndoc local file inclusion to remote code execution of Node.js code on the server",
+            "date_modified": "2023-08-02T23:28:20.000Z",
+            "date_published": "2022-12-13T10:03:14.000Z",
+            "author": {
+                "name": "p0dalirius",
+                "url": "https://github.com/p0dalirius"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/102574296?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
             "url": "https://github.com/Trinadh465/linux-4.1.15_CVE-2022-3564",
             "title": "Trinadh465/linux-4.1.15_CVE-2022-3564",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "hotpotcookie",
                 "url": "https://github.com/hotpotcookie"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/75425513?u=64edd56aefb8bebc03dbae4fbc613932b6c3b02f&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Text4Shell</div>",
-            "url": "https://github.com/Sic4rio/CVE-2022-42889",
-            "title": "Sic4rio/CVE-2022-42889: Text4Shell",
-            "date_modified": "2023-09-06T01:15:32.000Z",
-            "date_published": "2023-09-06T01:13:26.000Z",
-            "author": {
-                "name": "Sic4rio",
-                "url": "https://github.com/Sic4rio"
             }
         }
     ]
