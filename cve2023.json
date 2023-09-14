@@ -6,6 +6,17 @@
     "description": "CVE-2023 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/62530941?u=ff920c62471cdb3be41d14048c40dfe0017a59c6&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2023-4863 POC</div>",
+            "url": "https://github.com/suhipek/CVE-2023-4863",
+            "title": "suhipek/CVE-2023-4863: CVE-2023-4863 POC",
+            "date_modified": "2023-09-14T02:12:41.000Z",
+            "date_published": "2023-09-14T02:12:41.000Z",
+            "author": {
+                "name": "suhipek",
+                "url": "https://github.com/suhipek"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/18223385?u=5ba29c1a9447ae88a6a0433f44038f47471e11c1&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>TOP All bugbounty pentesting CVE-2023- POC Exp  RCE example payload  Things</div>",
             "url": "https://github.com/hktalent/TOP",
             "title": "hktalent/TOP: TOP All bugbounty pentesting CVE-2023- POC Exp  RCE example payload  Things",
@@ -64,7 +75,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/1268745?u=0adb793d3392d87356a00c0010edf400c02c56d2&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Proof-of-Concept for CVE-2023-38146 (\"ThemeBleed\")</div>",
             "url": "https://github.com/gabe-k/themebleed",
             "title": "gabe-k/themebleed: Proof-of-Concept for CVE-2023-38146 (\"ThemeBleed\")",
-            "date_modified": "2023-09-14T01:10:54.000Z",
+            "date_modified": "2023-09-14T02:04:02.000Z",
             "date_published": "2023-09-13T04:00:14.000Z",
             "author": {
                 "name": "gabe-k",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "3lp4tr0n",
                 "url": "https://github.com/3lp4tr0n"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/42498816?u=08c4092e757fc2588b734e8e09e355493e9126e9&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
-            "url": "https://github.com/jakabakos/CVE-2023-27524-Apache-Superset-Auth-Bypass-and-RCE",
-            "title": "jakabakos/CVE-2023-27524-Apache-Superset-Auth-Bypass-and-RCE",
-            "date_modified": "2023-09-11T10:25:46.000Z",
-            "date_published": "2023-09-08T06:15:00.000Z",
-            "author": {
-                "name": "jakabakos",
-                "url": "https://github.com/jakabakos"
             }
         }
     ]
