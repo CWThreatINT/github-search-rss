@@ -6,17 +6,6 @@
     "description": "CVE-2023 FEED on GitHub",
     "items": [
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/88535377?u=8282f1d8139691249d08a567a0a9ec513541ab09&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>WAGO Remote Exploit Tool for CVE-2023-1698</div>",
-            "url": "https://github.com/Chocapikk/CVE-2023-1698",
-            "title": "Chocapikk/CVE-2023-1698: WAGO Remote Exploit Tool for CVE-2023-1698",
-            "date_modified": "2023-09-15T20:06:31.000Z",
-            "date_published": "2023-09-15T20:06:31.000Z",
-            "author": {
-                "name": "Chocapikk",
-                "url": "https://github.com/Chocapikk"
-            }
-        },
-        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/18195825?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023</div>",
             "url": "https://github.com/CVEProject/cvelist",
             "title": "CVEProject/cvelist: Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023",
@@ -223,6 +212,17 @@
             "author": {
                 "name": "0nyx-hkr",
                 "url": "https://github.com/0nyx-hkr"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/62406753?u=dbe6e3b2f9570064240f700ed08eef5443c9cc5a&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2023-26818 Exploit MacOS TCC Bypass W/ Telegram</div>",
+            "url": "https://github.com/Zeyad-Azima/CVE-2023-26818",
+            "title": "Zeyad-Azima/CVE-2023-26818: CVE-2023-26818 Exploit MacOS TCC Bypass W/ Telegram",
+            "date_modified": "2023-09-15T06:49:46.000Z",
+            "date_published": "2023-08-30T12:40:50.000Z",
+            "author": {
+                "name": "Zeyad-Azima",
+                "url": "https://github.com/Zeyad-Azima"
             }
         }
     ]
