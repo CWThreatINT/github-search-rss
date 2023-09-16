@@ -6,10 +6,21 @@
     "description": "CVE-2023 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/129875733?u=247133296001ae436b0c6541dd3662f49efbc0c4&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
+            "url": "https://github.com/tucommenceapousser/CVE-2023-27372b",
+            "title": "tucommenceapousser/CVE-2023-27372b",
+            "date_modified": "2023-09-16T21:28:53.000Z",
+            "date_published": "2023-09-16T21:21:12.000Z",
+            "author": {
+                "name": "tucommenceapousser",
+                "url": "https://github.com/tucommenceapousser"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/18195825?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023</div>",
             "url": "https://github.com/CVEProject/cvelist",
             "title": "CVEProject/cvelist: Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023",
-            "date_modified": "2023-09-16T10:29:26.000Z",
+            "date_modified": "2023-09-16T21:39:19.000Z",
             "date_published": "2020-11-02T19:30:55.000Z",
             "author": {
                 "name": "CVEProject",
@@ -20,7 +31,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/18223385?u=5ba29c1a9447ae88a6a0433f44038f47471e11c1&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>TOP All bugbounty pentesting CVE-2023- POC Exp  RCE example payload  Things</div>",
             "url": "https://github.com/hktalent/TOP",
             "title": "hktalent/TOP: TOP All bugbounty pentesting CVE-2023- POC Exp  RCE example payload  Things",
-            "date_modified": "2023-09-15T21:51:47.000Z",
+            "date_modified": "2023-09-16T21:52:12.000Z",
             "date_published": "2022-03-19T01:54:15.000Z",
             "author": {
                 "name": "hktalent",
@@ -97,7 +108,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/46997779?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>This is a Proof of Concept (PoC) for CVE-2023-3244, a vulnerability in comment-like-dislike. The PoC demonstrates the exploitability of this vulnerability and serves as a reference for security researchers and developers to better understand and mitigate the risk associated with this issue.</div>",
             "url": "https://github.com/drnull03/POC-CVE-2023-3244",
             "title": "drnull03/POC-CVE-2023-3244: This is a Proof of Concept (PoC) for CVE-2023-3244, a vulnerability in comment-like-dislike. The PoC demonstrates the exploitability of this vulnerability and serves as a reference for security researchers and developers to better understand and mitigate the risk associated with this issue.",
-            "date_modified": "2023-09-16T17:22:11.000Z",
+            "date_modified": "2023-09-16T21:59:45.000Z",
             "date_published": "2023-09-13T11:52:36.000Z",
             "author": {
                 "name": "drnull03",
@@ -119,7 +130,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/1268745?u=0adb793d3392d87356a00c0010edf400c02c56d2&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Proof-of-Concept for CVE-2023-38146 (\"ThemeBleed\")</div>",
             "url": "https://github.com/gabe-k/themebleed",
             "title": "gabe-k/themebleed: Proof-of-Concept for CVE-2023-38146 (\"ThemeBleed\")",
-            "date_modified": "2023-09-16T21:00:07.000Z",
+            "date_modified": "2023-09-16T21:59:45.000Z",
             "date_published": "2023-09-13T04:00:14.000Z",
             "author": {
                 "name": "gabe-k",
@@ -163,7 +174,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/29025198?u=8f075442f5853a0f87364f52d9138fe1d2bd9af7&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Android App Pin Security Issue Allowing Unauthorized Payments via Google Wallet</div>",
             "url": "https://github.com/MrTiz/CVE-2023-35671",
             "title": "MrTiz/CVE-2023-35671: Android App Pin Security Issue Allowing Unauthorized Payments via Google Wallet",
-            "date_modified": "2023-09-16T17:26:25.000Z",
+            "date_modified": "2023-09-16T21:59:44.000Z",
             "date_published": "2023-09-01T20:16:28.000Z",
             "author": {
                 "name": "MrTiz",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "0nyx-hkr",
                 "url": "https://github.com/0nyx-hkr"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/62406753?u=dbe6e3b2f9570064240f700ed08eef5443c9cc5a&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2023-26818 Exploit MacOS TCC Bypass W/ Telegram</div>",
-            "url": "https://github.com/Zeyad-Azima/CVE-2023-26818",
-            "title": "Zeyad-Azima/CVE-2023-26818: CVE-2023-26818 Exploit MacOS TCC Bypass W/ Telegram",
-            "date_modified": "2023-09-15T06:49:46.000Z",
-            "date_published": "2023-08-30T12:40:50.000Z",
-            "author": {
-                "name": "Zeyad-Azima",
-                "url": "https://github.com/Zeyad-Azima"
             }
         }
     ]
