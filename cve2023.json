@@ -17,6 +17,17 @@
             }
         },
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/41360497?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
+            "url": "https://github.com/an040702/CVE-2023-38831",
+            "title": "an040702/CVE-2023-38831",
+            "date_modified": "2023-09-17T05:23:56.000Z",
+            "date_published": "2023-09-17T05:21:30.000Z",
+            "author": {
+                "name": "an040702",
+                "url": "https://github.com/an040702"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/33436708?u=55beb087dc8738fb7c2ca7cf1f1be8a7fea0bb55&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2023-38831 winrar exploit generator</div>",
             "url": "https://github.com/b1tg/CVE-2023-38831-winrar-exploit",
             "title": "b1tg/CVE-2023-38831-winrar-exploit: CVE-2023-38831 winrar exploit generator",
@@ -130,7 +141,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/1268745?u=0adb793d3392d87356a00c0010edf400c02c56d2&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Proof-of-Concept for CVE-2023-38146 (\"ThemeBleed\")</div>",
             "url": "https://github.com/gabe-k/themebleed",
             "title": "gabe-k/themebleed: Proof-of-Concept for CVE-2023-38146 (\"ThemeBleed\")",
-            "date_modified": "2023-09-16T23:43:19.000Z",
+            "date_modified": "2023-09-17T05:22:09.000Z",
             "date_published": "2023-09-13T04:00:14.000Z",
             "author": {
                 "name": "gabe-k",
@@ -185,7 +196,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/135759201?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Mass Exploit -  CVE-2023-1273 / ND Shortcodes &lt; LFI</div>",
             "url": "https://github.com/codeb0ss/CVE-2023-1273-PoC",
             "title": "codeb0ss/CVE-2023-1273-PoC: Mass Exploit -  CVE-2023-1273 / ND Shortcodes < LFI",
-            "date_modified": "2023-09-12T00:15:14.000Z",
+            "date_modified": "2023-09-17T05:25:02.000Z",
             "date_published": "2023-09-12T00:10:58.000Z",
             "author": {
                 "name": "codeb0ss",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "actuator",
                 "url": "https://github.com/actuator"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/76675355?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>creating an hack for that cve as a research and attack</div>",
-            "url": "https://github.com/0nyx-hkr/cve-2023-4350",
-            "title": "0nyx-hkr/cve-2023-4350: creating an hack for that cve as a research and attack",
-            "date_modified": "2023-09-11T15:13:25.000Z",
-            "date_published": "2023-09-11T14:09:48.000Z",
-            "author": {
-                "name": "0nyx-hkr",
-                "url": "https://github.com/0nyx-hkr"
             }
         }
     ]
