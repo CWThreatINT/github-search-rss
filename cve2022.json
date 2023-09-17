@@ -6,6 +6,17 @@
     "description": "CVE-2022 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/12976017?u=6d3d423fda6a56643a0ca1acae5223cdf08a3c28&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>User can execute unsigned binaries with BootROM privileges, which can be used to unlock bootloader</div>",
+            "url": "https://github.com/TomKing062/CVE-2022-38694_unlock_bootloader",
+            "title": "TomKing062/CVE-2022-38694_unlock_bootloader: User can execute unsigned binaries with BootROM privileges, which can be used to unlock bootloader",
+            "date_modified": "2023-09-15T07:56:57.000Z",
+            "date_published": "2023-06-10T08:31:26.000Z",
+            "author": {
+                "name": "TomKing062",
+                "url": "https://github.com/TomKing062"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/61415393?u=6d30d42d56d066e99acf1d4d1e7439b2fadc7228&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Automatic Mass Tool for check and exploiting vulnerability in CVE-2022-4061 - JobBoardWP &lt; 1.2.2 - Unauthenticated Arbitrary File Upload</div>",
             "url": "https://github.com/im-hanzou/JBWPer",
             "title": "im-hanzou/JBWPer: Automatic Mass Tool for check and exploiting vulnerability in CVE-2022-4061 - JobBoardWP < 1.2.2 - Unauthenticated Arbitrary File Upload",
@@ -91,17 +102,6 @@
             "author": {
                 "name": "Trinadh465",
                 "url": "https://github.com/Trinadh465"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/12976017?u=6d3d423fda6a56643a0ca1acae5223cdf08a3c28&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>User can execute unsigned binaries with BootROM privileges, which can be used to unlock bootloader</div>",
-            "url": "https://github.com/TomKing062/CVE-2022-38694_unlock_bootloader",
-            "title": "TomKing062/CVE-2022-38694_unlock_bootloader: User can execute unsigned binaries with BootROM privileges, which can be used to unlock bootloader",
-            "date_modified": "2023-09-15T07:56:57.000Z",
-            "date_published": "2023-06-10T08:31:26.000Z",
-            "author": {
-                "name": "TomKing062",
-                "url": "https://github.com/TomKing062"
             }
         },
         {
