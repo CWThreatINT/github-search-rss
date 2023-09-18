@@ -6,6 +6,28 @@
     "description": "CVE-2023 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/18223385?u=5ba29c1a9447ae88a6a0433f44038f47471e11c1&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>TOP All bugbounty pentesting CVE-2023- POC Exp  RCE example payload  Things</div>",
+            "url": "https://github.com/hktalent/TOP",
+            "title": "hktalent/TOP: TOP All bugbounty pentesting CVE-2023- POC Exp  RCE example payload  Things",
+            "date_modified": "2023-09-17T07:31:10.000Z",
+            "date_published": "2022-03-19T01:54:15.000Z",
+            "author": {
+                "name": "hktalent",
+                "url": "https://github.com/hktalent"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/11656264?u=ad0fbf8d676c6f12d23a3da6d702bb8c44c57795&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>GameoverlayFS (CVE-2023-2640 and CVE-2023-32629) exploit  in Shell Script tested on Ubuntu 20.04 Kernel 5.4.0</div>",
+            "url": "https://github.com/luanoliveira350/GameOverlayFS",
+            "title": "luanoliveira350/GameOverlayFS: GameoverlayFS (CVE-2023-2640 and CVE-2023-32629) exploit  in Shell Script tested on Ubuntu 20.04 Kernel 5.4.0",
+            "date_modified": "2023-09-17T23:21:51.000Z",
+            "date_published": "2023-09-17T23:17:22.000Z",
+            "author": {
+                "name": "luanoliveira350",
+                "url": "https://github.com/luanoliveira350"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/18195825?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023</div>",
             "url": "https://github.com/CVEProject/cvelist",
             "title": "CVEProject/cvelist: Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023",
@@ -31,22 +53,11 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/33436708?u=55beb087dc8738fb7c2ca7cf1f1be8a7fea0bb55&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2023-38831 winrar exploit generator</div>",
             "url": "https://github.com/b1tg/CVE-2023-38831-winrar-exploit",
             "title": "b1tg/CVE-2023-38831-winrar-exploit: CVE-2023-38831 winrar exploit generator",
-            "date_modified": "2023-09-16T23:56:25.000Z",
+            "date_modified": "2023-09-17T23:53:29.000Z",
             "date_published": "2023-08-25T09:44:08.000Z",
             "author": {
                 "name": "b1tg",
                 "url": "https://github.com/b1tg"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/18223385?u=5ba29c1a9447ae88a6a0433f44038f47471e11c1&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>TOP All bugbounty pentesting CVE-2023- POC Exp  RCE example payload  Things</div>",
-            "url": "https://github.com/hktalent/TOP",
-            "title": "hktalent/TOP: TOP All bugbounty pentesting CVE-2023- POC Exp  RCE example payload  Things",
-            "date_modified": "2023-09-17T07:31:10.000Z",
-            "date_published": "2022-03-19T01:54:15.000Z",
-            "author": {
-                "name": "hktalent",
-                "url": "https://github.com/hktalent"
             }
         },
         {
@@ -141,7 +152,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/1268745?u=0adb793d3392d87356a00c0010edf400c02c56d2&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Proof-of-Concept for CVE-2023-38146 (\"ThemeBleed\")</div>",
             "url": "https://github.com/gabe-k/themebleed",
             "title": "gabe-k/themebleed: Proof-of-Concept for CVE-2023-38146 (\"ThemeBleed\")",
-            "date_modified": "2023-09-17T21:23:41.000Z",
+            "date_modified": "2023-09-17T23:54:39.000Z",
             "date_published": "2023-09-13T04:00:14.000Z",
             "author": {
                 "name": "gabe-k",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "codeb0ss",
                 "url": "https://github.com/codeb0ss"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/78701239?u=9e68d2365d0c26e3994dc3e04864bc97ccb91348&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2023-42469</div>",
-            "url": "https://github.com/actuator/com.full.dialer.top.secure.encrypted",
-            "title": "actuator/com.full.dialer.top.secure.encrypted: CVE-2023-42469",
-            "date_modified": "2023-09-11T20:59:02.000Z",
-            "date_published": "2023-09-02T17:11:58.000Z",
-            "author": {
-                "name": "actuator",
-                "url": "https://github.com/actuator"
             }
         }
     ]
