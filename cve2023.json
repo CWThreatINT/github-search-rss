@@ -53,11 +53,22 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/11656264?u=ad0fbf8d676c6f12d23a3da6d702bb8c44c57795&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>GameoverlayFS (CVE-2023-2640 and CVE-2023-32629) exploit  in Shell Script tested on Ubuntu 20.04 Kernel 5.4.0</div>",
             "url": "https://github.com/luanoliveira350/GameOverlayFS",
             "title": "luanoliveira350/GameOverlayFS: GameoverlayFS (CVE-2023-2640 and CVE-2023-32629) exploit  in Shell Script tested on Ubuntu 20.04 Kernel 5.4.0",
-            "date_modified": "2023-09-17T23:21:51.000Z",
+            "date_modified": "2023-09-18T08:40:41.000Z",
             "date_published": "2023-09-17T23:17:22.000Z",
             "author": {
                 "name": "luanoliveira350",
                 "url": "https://github.com/luanoliveira350"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/134310220?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A tool to discover Juniper firewalls vulnerable to CVE-2023-36845</div>",
+            "url": "https://github.com/vulncheck-oss/cve-2023-36845-scanner",
+            "title": "vulncheck-oss/cve-2023-36845-scanner: A tool to discover Juniper firewalls vulnerable to CVE-2023-36845",
+            "date_modified": "2023-09-18T09:02:36.000Z",
+            "date_published": "2023-09-16T09:11:21.000Z",
+            "author": {
+                "name": "vulncheck-oss",
+                "url": "https://github.com/vulncheck-oss"
             }
         },
         {
@@ -212,17 +223,6 @@
             "author": {
                 "name": "MrTiz",
                 "url": "https://github.com/MrTiz"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/135759201?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Mass Exploit -  CVE-2023-1273 / ND Shortcodes &lt; LFI</div>",
-            "url": "https://github.com/codeb0ss/CVE-2023-1273-PoC",
-            "title": "codeb0ss/CVE-2023-1273-PoC: Mass Exploit -  CVE-2023-1273 / ND Shortcodes < LFI",
-            "date_modified": "2023-09-17T05:25:02.000Z",
-            "date_published": "2023-09-12T00:10:58.000Z",
-            "author": {
-                "name": "codeb0ss",
-                "url": "https://github.com/codeb0ss"
             }
         }
     ]
