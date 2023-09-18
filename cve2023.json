@@ -6,6 +6,17 @@
     "description": "CVE-2023 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/18195825?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023</div>",
+            "url": "https://github.com/CVEProject/cvelist",
+            "title": "CVEProject/cvelist: Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023",
+            "date_modified": "2023-09-16T21:39:19.000Z",
+            "date_published": "2020-11-02T19:30:55.000Z",
+            "author": {
+                "name": "CVEProject",
+                "url": "https://github.com/CVEProject"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/18223385?u=5ba29c1a9447ae88a6a0433f44038f47471e11c1&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>TOP All bugbounty pentesting CVE-2023- POC Exp  RCE example payload  Things</div>",
             "url": "https://github.com/hktalent/TOP",
             "title": "hktalent/TOP: TOP All bugbounty pentesting CVE-2023- POC Exp  RCE example payload  Things",
@@ -25,17 +36,6 @@
             "author": {
                 "name": "luanoliveira350",
                 "url": "https://github.com/luanoliveira350"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/18195825?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023</div>",
-            "url": "https://github.com/CVEProject/cvelist",
-            "title": "CVEProject/cvelist: Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023",
-            "date_modified": "2023-09-16T21:39:19.000Z",
-            "date_published": "2020-11-02T19:30:55.000Z",
-            "author": {
-                "name": "CVEProject",
-                "url": "https://github.com/CVEProject"
             }
         },
         {
@@ -152,7 +152,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/1268745?u=0adb793d3392d87356a00c0010edf400c02c56d2&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Proof-of-Concept for CVE-2023-38146 (\"ThemeBleed\")</div>",
             "url": "https://github.com/gabe-k/themebleed",
             "title": "gabe-k/themebleed: Proof-of-Concept for CVE-2023-38146 (\"ThemeBleed\")",
-            "date_modified": "2023-09-17T23:54:39.000Z",
+            "date_modified": "2023-09-18T02:05:23.000Z",
             "date_published": "2023-09-13T04:00:14.000Z",
             "author": {
                 "name": "gabe-k",
