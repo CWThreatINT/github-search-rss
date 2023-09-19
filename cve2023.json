@@ -6,17 +6,6 @@
     "description": "CVE-2023 FEED on GitHub",
     "items": [
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/61415393?u=6d30d42d56d066e99acf1d4d1e7439b2fadc7228&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Automatic Mass Tool for check and exploiting vulnerability in CVE-2023-3076 - MStore API &lt; 3.9.9 - Unauthenticated Privilege Escalation (Mass Add Admin)</div>",
-            "url": "https://github.com/im-hanzou/MSAPer",
-            "title": "im-hanzou/MSAPer: Automatic Mass Tool for check and exploiting vulnerability in CVE-2023-3076 - MStore API < 3.9.9 - Unauthenticated Privilege Escalation (Mass Add Admin)",
-            "date_modified": "2023-09-19T05:06:13.000Z",
-            "date_published": "2023-09-19T04:59:01.000Z",
-            "author": {
-                "name": "im-hanzou",
-                "url": "https://github.com/im-hanzou"
-            }
-        },
-        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/18195825?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023</div>",
             "url": "https://github.com/CVEProject/cvelist",
             "title": "CVEProject/cvelist: Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023",
@@ -25,6 +14,17 @@
             "author": {
                 "name": "CVEProject",
                 "url": "https://github.com/CVEProject"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/61415393?u=6d30d42d56d066e99acf1d4d1e7439b2fadc7228&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Automatic Mass Tool for check and exploiting vulnerability in CVE-2023-3076 - MStore API &lt; 3.9.9 - Unauthenticated Privilege Escalation (Mass Add Admin)</div>",
+            "url": "https://github.com/im-hanzou/MSAPer",
+            "title": "im-hanzou/MSAPer: Automatic Mass Tool for check and exploiting vulnerability in CVE-2023-3076 - MStore API < 3.9.9 - Unauthenticated Privilege Escalation (Mass Add Admin)",
+            "date_modified": "2023-09-19T05:08:54.000Z",
+            "date_published": "2023-09-19T04:59:01.000Z",
+            "author": {
+                "name": "im-hanzou",
+                "url": "https://github.com/im-hanzou"
             }
         },
         {
