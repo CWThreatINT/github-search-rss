@@ -17,6 +17,17 @@
             }
         },
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/145569866?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>SQL injection vulnerbility in jeecgboot jeecg-boot v. allows a remote attacker to execute arbitrary code via a crafted request to the report/jeecgboot/jmreport/queryFieldBySql component.</div>",
+            "url": "https://github.com/Zone1-Z/CVE-2023-40989",
+            "title": "Zone1-Z/CVE-2023-40989: SQL injection vulnerbility in jeecgboot jeecg-boot v. allows a remote attacker to execute arbitrary code via a crafted request to the report/jeecgboot/jmreport/queryFieldBySql component.",
+            "date_modified": "2023-09-20T12:43:23.000Z",
+            "date_published": "2023-09-20T12:43:23.000Z",
+            "author": {
+                "name": "Zone1-Z",
+                "url": "https://github.com/Zone1-Z"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/61415393?u=6d30d42d56d066e99acf1d4d1e7439b2fadc7228&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Automatic Mass Tool for check and exploiting vulnerability in CVE-2023-3076 - MStore API &lt; 3.9.9 - Unauthenticated Privilege Escalation (Mass Add Admin + PHP File Upload)</div>",
             "url": "https://github.com/im-hanzou/MSAPer",
             "title": "im-hanzou/MSAPer: Automatic Mass Tool for check and exploiting vulnerability in CVE-2023-3076 - MStore API < 3.9.9 - Unauthenticated Privilege Escalation (Mass Add Admin + PHP File Upload)",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "Trinadh465",
                 "url": "https://github.com/Trinadh465"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/38920001?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Proof of Concept for vulnerability CVE-2023-2986 in 'Abandoned Cart Lite for WooCommerce' Plugin in WordPress</div>",
-            "url": "https://github.com/Ayantaker/CVE-2023-2986",
-            "title": "Ayantaker/CVE-2023-2986: Proof of Concept for vulnerability CVE-2023-2986 in 'Abandoned Cart Lite for WooCommerce' Plugin in WordPress",
-            "date_modified": "2023-09-14T23:38:03.000Z",
-            "date_published": "2023-06-09T17:44:09.000Z",
-            "author": {
-                "name": "Ayantaker",
-                "url": "https://github.com/Ayantaker"
             }
         }
     ]
