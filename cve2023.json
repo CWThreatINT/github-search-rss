@@ -17,6 +17,17 @@
             }
         },
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/25004320?u=5acf64310e3934a7bdcbad98784c607d147e934e&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Perform With Massive Juniper Remote Code Execution</div>",
+            "url": "https://github.com/Pari-Malam/CVE-2023-36844",
+            "title": "Pari-Malam/CVE-2023-36844: Perform With Massive Juniper Remote Code Execution",
+            "date_modified": "2023-09-20T02:33:40.000Z",
+            "date_published": "2023-09-20T02:32:56.000Z",
+            "author": {
+                "name": "Pari-Malam",
+                "url": "https://github.com/Pari-Malam"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/135759201?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Mass Exploit - CVE-2023-0255 &lt; WordPress &lt; Enable Media+Plugin &lt; Unauthenticated Arbitrary File Upload / Webshell Upload</div>",
             "url": "https://github.com/codeb0ss/CVE-2023-0255-PoC",
             "title": "codeb0ss/CVE-2023-0255-PoC: Mass Exploit - CVE-2023-0255 < WordPress < Enable Media+Plugin < Unauthenticated Arbitrary File Upload / Webshell Upload",
@@ -130,7 +141,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/134310220?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A tool to discover Juniper firewalls vulnerable to CVE-2023-36845</div>",
             "url": "https://github.com/vulncheck-oss/cve-2023-36845-scanner",
             "title": "vulncheck-oss/cve-2023-36845-scanner: A tool to discover Juniper firewalls vulnerable to CVE-2023-36845",
-            "date_modified": "2023-09-20T00:10:51.000Z",
+            "date_modified": "2023-09-20T02:50:17.000Z",
             "date_published": "2023-09-16T09:11:21.000Z",
             "author": {
                 "name": "vulncheck-oss",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "Mr-n0b3dy",
                 "url": "https://github.com/Mr-n0b3dy"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/46997779?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>This is a Proof of Concept (PoC) for CVE-2023-3244, a vulnerability in comment-like-dislike. The PoC demonstrates the exploitability of this vulnerability and serves as a reference for security researchers and developers to better understand and mitigate the risk associated with this issue.</div>",
-            "url": "https://github.com/drnull03/POC-CVE-2023-3244",
-            "title": "drnull03/POC-CVE-2023-3244: This is a Proof of Concept (PoC) for CVE-2023-3244, a vulnerability in comment-like-dislike. The PoC demonstrates the exploitability of this vulnerability and serves as a reference for security researchers and developers to better understand and mitigate the risk associated with this issue.",
-            "date_modified": "2023-09-16T21:59:45.000Z",
-            "date_published": "2023-09-13T11:52:36.000Z",
-            "author": {
-                "name": "drnull03",
-                "url": "https://github.com/drnull03"
             }
         }
     ]
