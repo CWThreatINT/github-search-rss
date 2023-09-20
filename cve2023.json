@@ -6,17 +6,6 @@
     "description": "CVE-2023 FEED on GitHub",
     "items": [
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/25004320?u=5acf64310e3934a7bdcbad98784c607d147e934e&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Perform With Massive Juniper Remote Code Execution</div>",
-            "url": "https://github.com/Pari-Malam/CVE-2023-36844",
-            "title": "Pari-Malam/CVE-2023-36844: Perform With Massive Juniper Remote Code Execution",
-            "date_modified": "2023-09-20T02:33:40.000Z",
-            "date_published": "2023-09-20T02:32:56.000Z",
-            "author": {
-                "name": "Pari-Malam",
-                "url": "https://github.com/Pari-Malam"
-            }
-        },
-        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/18195825?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023</div>",
             "url": "https://github.com/CVEProject/cvelist",
             "title": "CVEProject/cvelist: Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023",
@@ -25,6 +14,28 @@
             "author": {
                 "name": "CVEProject",
                 "url": "https://github.com/CVEProject"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/106973537?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
+            "url": "https://github.com/nidhi7598/linux-4.19.72_CVE-2023-4128",
+            "title": "nidhi7598/linux-4.19.72_CVE-2023-4128",
+            "date_modified": "2023-09-20T04:49:20.000Z",
+            "date_published": "2023-09-20T04:43:28.000Z",
+            "author": {
+                "name": "nidhi7598",
+                "url": "https://github.com/nidhi7598"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/25004320?u=5acf64310e3934a7bdcbad98784c607d147e934e&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Perform With Massive Juniper Remote Code Execution</div>",
+            "url": "https://github.com/Pari-Malam/CVE-2023-36844",
+            "title": "Pari-Malam/CVE-2023-36844: Perform With Massive Juniper Remote Code Execution",
+            "date_modified": "2023-09-20T02:33:40.000Z",
+            "date_published": "2023-09-20T02:32:56.000Z",
+            "author": {
+                "name": "Pari-Malam",
+                "url": "https://github.com/Pari-Malam"
             }
         },
         {
@@ -105,10 +116,10 @@
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/133110721?u=6967f7fa8bf6c5cd32edf1a3cdd82eef0a0c24ef&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/133110721?u=6967f7fa8bf6c5cd32edf1a3cdd82eef0a0c24ef&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Axigen &lt; 10.3.3.47, 10.2.3.12 - Reflected XSS</div>",
             "url": "https://github.com/amirzargham/CVE-2023-08-21-exploit",
-            "title": "amirzargham/CVE-2023-08-21-exploit",
-            "date_modified": "2023-09-18T06:47:39.000Z",
+            "title": "amirzargham/CVE-2023-08-21-exploit: Axigen < 10.3.3.47, 10.2.3.12 - Reflected XSS",
+            "date_modified": "2023-09-20T04:40:37.000Z",
             "date_published": "2023-09-13T05:59:02.000Z",
             "author": {
                 "name": "amirzargham",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "suhipek",
                 "url": "https://github.com/suhipek"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/144795381?u=321d4867a203ae07ea6f58b3ad4c233091b1e45f&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
-            "url": "https://github.com/Mr-n0b3dy/CVE-2023-42362",
-            "title": "Mr-n0b3dy/CVE-2023-42362",
-            "date_modified": "2023-09-13T12:17:19.000Z",
-            "date_published": "2023-09-12T10:46:12.000Z",
-            "author": {
-                "name": "Mr-n0b3dy",
-                "url": "https://github.com/Mr-n0b3dy"
             }
         }
     ]
