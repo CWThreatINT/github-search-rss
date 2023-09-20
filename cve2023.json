@@ -17,6 +17,17 @@
             }
         },
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/61415393?u=6d30d42d56d066e99acf1d4d1e7439b2fadc7228&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Automatic Mass Tool for check and exploiting vulnerability in CVE-2023-3076 - MStore API &lt; 3.9.9 - Unauthenticated Privilege Escalation (Mass Add Admin + PHP File Upload)</div>",
+            "url": "https://github.com/im-hanzou/MSAPer",
+            "title": "im-hanzou/MSAPer: Automatic Mass Tool for check and exploiting vulnerability in CVE-2023-3076 - MStore API < 3.9.9 - Unauthenticated Privilege Escalation (Mass Add Admin + PHP File Upload)",
+            "date_modified": "2023-09-20T11:36:35.000Z",
+            "date_published": "2023-09-19T04:59:01.000Z",
+            "author": {
+                "name": "im-hanzou",
+                "url": "https://github.com/im-hanzou"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/55912947?u=3d525cf91412a007073abdd4b01bf0cbc6abb935&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>a poc for cve-2023-36109 </div>",
             "url": "https://github.com/Limesss/CVE-2023-36109",
             "title": "Limesss/CVE-2023-36109: a poc for cve-2023-36109 ",
@@ -105,17 +116,6 @@
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/61415393?u=6d30d42d56d066e99acf1d4d1e7439b2fadc7228&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Automatic Mass Tool for check and exploiting vulnerability in CVE-2023-3076 - MStore API &lt; 3.9.9 - Unauthenticated Privilege Escalation (Mass Add Admin)</div>",
-            "url": "https://github.com/im-hanzou/MSAPer",
-            "title": "im-hanzou/MSAPer: Automatic Mass Tool for check and exploiting vulnerability in CVE-2023-3076 - MStore API < 3.9.9 - Unauthenticated Privilege Escalation (Mass Add Admin)",
-            "date_modified": "2023-09-20T00:43:31.000Z",
-            "date_published": "2023-09-19T04:59:01.000Z",
-            "author": {
-                "name": "im-hanzou",
-                "url": "https://github.com/im-hanzou"
-            }
-        },
-        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/110206125?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>MOC3ingbird Exploit for Live2D (CVE-2023-27566)</div>",
             "url": "https://github.com/OpenL2D/moc3ingbird",
             "title": "OpenL2D/moc3ingbird: MOC3ingbird Exploit for Live2D (CVE-2023-27566)",
@@ -163,7 +163,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/134310220?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A tool to discover Juniper firewalls vulnerable to CVE-2023-36845</div>",
             "url": "https://github.com/vulncheck-oss/cve-2023-36845-scanner",
             "title": "vulncheck-oss/cve-2023-36845-scanner: A tool to discover Juniper firewalls vulnerable to CVE-2023-36845",
-            "date_modified": "2023-09-20T07:02:27.000Z",
+            "date_modified": "2023-09-20T11:35:12.000Z",
             "date_published": "2023-09-16T09:11:21.000Z",
             "author": {
                 "name": "vulncheck-oss",
