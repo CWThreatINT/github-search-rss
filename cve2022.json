@@ -6,6 +6,17 @@
     "description": "CVE-2022 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/59393271?u=26be6be457c83a437e4446dcf7ebd4a42e2c9818&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A PoC for CVE-2022-26134 for Educational Purposes and Security Research</div>",
+            "url": "https://github.com/acfirthh/CVE-2022-26134",
+            "title": "acfirthh/CVE-2022-26134: A PoC for CVE-2022-26134 for Educational Purposes and Security Research",
+            "date_modified": "2023-09-20T20:16:37.000Z",
+            "date_published": "2023-09-20T19:54:05.000Z",
+            "author": {
+                "name": "acfirthh",
+                "url": "https://github.com/acfirthh"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/64825932?u=310c27596143f5dbcd65980ed12bdd9172d6fc77&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2022-22965\\Spring-Core-RCE核弹级别漏洞的rce图形化GUI一键利用工具，基于JavaFx开发，图形化操作更简单，提高效率。</div>",
             "url": "https://github.com/zangcc/CVE-2022-22965-rexbb",
             "title": "zangcc/CVE-2022-22965-rexbb: CVE-2022-22965\\Spring-Core-RCE核弹级别漏洞的rce图形化GUI一键利用工具，基于JavaFx开发，图形化操作更简单，提高效率。",
@@ -31,7 +42,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/102031928?u=3130c9d955dbbcb2d4f596b0202c253e2b8ce994&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2022-32947 walkthough and demo</div>",
             "url": "https://github.com/asahilina/agx-exploit",
             "title": "asahilina/agx-exploit: CVE-2022-32947 walkthough and demo",
-            "date_modified": "2023-09-20T20:03:27.000Z",
+            "date_modified": "2023-09-20T20:31:51.000Z",
             "date_published": "2023-09-17T08:21:47.000Z",
             "author": {
                 "name": "asahilina",
@@ -193,6 +204,17 @@
             }
         },
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/114189847?u=6210e0800e863af244c52fdfeab27b3b36a05dce&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>This is a exploit of CVE-2022-46169 to cacti 1.2.22. This exploit allows through an RCE to obtain a reverse shell on your computer.</div>",
+            "url": "https://github.com/FredBrave/CVE-2022-46169-CACTI-1.2.22",
+            "title": "FredBrave/CVE-2022-46169-CACTI-1.2.22: This is a exploit of CVE-2022-46169 to cacti 1.2.22. This exploit allows through an RCE to obtain a reverse shell on your computer.",
+            "date_modified": "2023-09-16T10:49:18.000Z",
+            "date_published": "2023-05-01T20:00:23.000Z",
+            "author": {
+                "name": "FredBrave",
+                "url": "https://github.com/FredBrave"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/56998716?u=b47aef06c1c408f41d0640fb6d027da9a61d0e74&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A proof of concept for CVE-2022-30190 (Follina).</div>",
             "url": "https://github.com/winstxnhdw/CVE-2022-30190",
             "title": "winstxnhdw/CVE-2022-30190: A proof of concept for CVE-2022-30190 (Follina).",
@@ -201,28 +223,6 @@
             "author": {
                 "name": "winstxnhdw",
                 "url": "https://github.com/winstxnhdw"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/102574296?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
-            "url": "https://github.com/Trinadh465/openssl-1.1.1g_CVE-2022-0778",
-            "title": "Trinadh465/openssl-1.1.1g_CVE-2022-0778",
-            "date_modified": "2023-09-11T07:33:47.000Z",
-            "date_published": "2023-09-11T07:30:33.000Z",
-            "author": {
-                "name": "Trinadh465",
-                "url": "https://github.com/Trinadh465"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/11798?u=904c3fea684f15f7f6eff8ec9016383aaaa0e179&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>An advanced RCE tool tailored for exploiting a vulnerability in Cacti v1.2.22. Crafted with precision, this utility aids security researchers in analyzing and understanding the depth of the CVE-2022-46169 flaw. Use responsibly and ethically.</div>",
-            "url": "https://github.com/copyleftdev/PricklyPwn",
-            "title": "copyleftdev/PricklyPwn: An advanced RCE tool tailored for exploiting a vulnerability in Cacti v1.2.22. Crafted with precision, this utility aids security researchers in analyzing and understanding the depth of the CVE-2022-46169 flaw. Use responsibly and ethically.",
-            "date_modified": "2023-09-10T17:52:45.000Z",
-            "date_published": "2023-09-10T17:00:50.000Z",
-            "author": {
-                "name": "copyleftdev",
-                "url": "https://github.com/copyleftdev"
             }
         }
     ]
