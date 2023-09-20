@@ -17,6 +17,39 @@
             }
         },
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/26488507?u=973c4f8487f9cf22816b967de0f52c5339ac10cc&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
+            "url": "https://github.com/apt0factury/CVE-2023-36761",
+            "title": "apt0factury/CVE-2023-36761",
+            "date_modified": "2023-09-20T21:50:46.000Z",
+            "date_published": "2023-09-20T21:50:45.000Z",
+            "author": {
+                "name": "apt0factury",
+                "url": "https://github.com/apt0factury"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/54555784?u=f960c49a3ee72114f354da6613c158e955d42514&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
+            "url": "https://github.com/rodolfomarianocy/Unauthenticated-RCE-FUXA-CVE-2023-33831",
+            "title": "rodolfomarianocy/Unauthenticated-RCE-FUXA-CVE-2023-33831",
+            "date_modified": "2023-09-16T21:59:44.000Z",
+            "date_published": "2023-09-03T19:25:15.000Z",
+            "author": {
+                "name": "rodolfomarianocy",
+                "url": "https://github.com/rodolfomarianocy"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/26488507?u=973c4f8487f9cf22816b967de0f52c5339ac10cc&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
+            "url": "https://github.com/apt0factury/CVE-2023-41064",
+            "title": "apt0factury/CVE-2023-41064",
+            "date_modified": "2023-09-20T21:26:42.000Z",
+            "date_published": "2023-09-20T21:21:41.000Z",
+            "author": {
+                "name": "apt0factury",
+                "url": "https://github.com/apt0factury"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/145569866?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>SQL injection vulnerbility in jeecgboot jeecg-boot v. allows a remote attacker to execute arbitrary code via a crafted request to the report/jeecgboot/jmreport/queryFieldBySql component.</div>",
             "url": "https://github.com/Zone1-Z/CVE-2023-40989",
             "title": "Zone1-Z/CVE-2023-40989: SQL injection vulnerbility in jeecgboot jeecg-boot v. allows a remote attacker to execute arbitrary code via a crafted request to the report/jeecgboot/jmreport/queryFieldBySql component.",
@@ -190,39 +223,6 @@
             "author": {
                 "name": "an040702",
                 "url": "https://github.com/an040702"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/33436708?u=55beb087dc8738fb7c2ca7cf1f1be8a7fea0bb55&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2023-38831 winrar exploit generator</div>",
-            "url": "https://github.com/b1tg/CVE-2023-38831-winrar-exploit",
-            "title": "b1tg/CVE-2023-38831-winrar-exploit: CVE-2023-38831 winrar exploit generator",
-            "date_modified": "2023-09-20T07:08:24.000Z",
-            "date_published": "2023-08-25T09:44:08.000Z",
-            "author": {
-                "name": "b1tg",
-                "url": "https://github.com/b1tg"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/84379579?u=e0fdac60aa10d9c8db5726ce8cf38f1e0df0f062&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
-            "url": "https://github.com/IMHarman/CVE-2023-38831",
-            "title": "IMHarman/CVE-2023-38831",
-            "date_modified": "2023-09-15T13:00:37.000Z",
-            "date_published": "2023-09-15T12:58:55.000Z",
-            "author": {
-                "name": "IMHarman",
-                "url": "https://github.com/IMHarman"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/102574296?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
-            "url": "https://github.com/Trinadh465/linux-4.1.15_CVE-2023-26607",
-            "title": "Trinadh465/linux-4.1.15_CVE-2023-26607",
-            "date_modified": "2023-09-15T06:47:20.000Z",
-            "date_published": "2023-09-15T06:42:36.000Z",
-            "author": {
-                "name": "Trinadh465",
-                "url": "https://github.com/Trinadh465"
             }
         }
     ]
