@@ -6,6 +6,17 @@
     "description": "CVE-2022 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/88584206?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Turning Your Computer Into a GPS Tracker With Apple Maps</div>",
+            "url": "https://github.com/breakpointHQ/CVE-2022-32883",
+            "title": "breakpointHQ/CVE-2022-32883: Turning Your Computer Into a GPS Tracker With Apple Maps",
+            "date_modified": "2023-06-12T22:39:24.000Z",
+            "date_published": "2022-09-18T15:51:52.000Z",
+            "author": {
+                "name": "breakpointHQ",
+                "url": "https://github.com/breakpointHQ"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/102031928?u=3130c9d955dbbcb2d4f596b0202c253e2b8ce994&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2022-32947 walkthough and demo</div>",
             "url": "https://github.com/asahilina/agx-exploit",
             "title": "asahilina/agx-exploit: CVE-2022-32947 walkthough and demo",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "copyleftdev",
                 "url": "https://github.com/copyleftdev"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/143711860?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>RCE PoC for Apache Commons Text vuln</div>",
-            "url": "https://github.com/34006133/CVE-2022-42889",
-            "title": "34006133/CVE-2022-42889: RCE PoC for Apache Commons Text vuln",
-            "date_modified": "2023-09-11T00:54:20.000Z",
-            "date_published": "2023-09-09T12:11:36.000Z",
-            "author": {
-                "name": "34006133",
-                "url": "https://github.com/34006133"
             }
         }
     ]
