@@ -6,14 +6,14 @@
     "description": "CVE-2023 FEED on GitHub",
     "items": [
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/60217652?u=1c039138569f7bb6cd9ccf4a6b6348c84adea729&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>OpenSSH Pre-Auth Double Free CVE-2023-25136 – Writeup and Proof-of-Concept</div>",
-            "url": "https://github.com/malvika-thakur/CVE-2023-25136",
-            "title": "malvika-thakur/CVE-2023-25136: OpenSSH Pre-Auth Double Free CVE-2023-25136 – Writeup and Proof-of-Concept",
-            "date_modified": "2023-09-21T12:06:33.000Z",
-            "date_published": "2023-09-21T12:05:35.000Z",
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/134310220?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A tool to fetch the RocketMQ broker configuration in order to discover indicators of compromise for CVE-2023-33246</div>",
+            "url": "https://github.com/vulncheck-oss/fetch-broker-conf",
+            "title": "vulncheck-oss/fetch-broker-conf: A tool to fetch the RocketMQ broker configuration in order to discover indicators of compromise for CVE-2023-33246",
+            "date_modified": "2023-09-07T08:02:09.000Z",
+            "date_published": "2023-09-04T11:18:28.000Z",
             "author": {
-                "name": "malvika-thakur",
-                "url": "https://github.com/malvika-thakur"
+                "name": "vulncheck-oss",
+                "url": "https://github.com/vulncheck-oss"
             }
         },
         {
@@ -25,6 +25,17 @@
             "author": {
                 "name": "CVEProject",
                 "url": "https://github.com/CVEProject"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/60217652?u=1c039138569f7bb6cd9ccf4a6b6348c84adea729&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>OpenSSH Pre-Auth Double Free CVE-2023-25136 – Writeup and Proof-of-Concept</div>",
+            "url": "https://github.com/malvika-thakur/CVE-2023-25136",
+            "title": "malvika-thakur/CVE-2023-25136: OpenSSH Pre-Auth Double Free CVE-2023-25136 – Writeup and Proof-of-Concept",
+            "date_modified": "2023-09-21T12:06:33.000Z",
+            "date_published": "2023-09-21T12:05:35.000Z",
+            "author": {
+                "name": "malvika-thakur",
+                "url": "https://github.com/malvika-thakur"
             }
         },
         {
@@ -212,17 +223,6 @@
             "author": {
                 "name": "Pari-Malam",
                 "url": "https://github.com/Pari-Malam"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/135759201?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Mass Exploit - CVE-2023-0255 &lt; WordPress &lt; Enable Media+Plugin &lt; Unauthenticated Arbitrary File Upload / Webshell Upload</div>",
-            "url": "https://github.com/codeb0ss/CVE-2023-0255-PoC",
-            "title": "codeb0ss/CVE-2023-0255-PoC: Mass Exploit - CVE-2023-0255 < WordPress < Enable Media+Plugin < Unauthenticated Arbitrary File Upload / Webshell Upload",
-            "date_modified": "2023-09-20T00:24:18.000Z",
-            "date_published": "2023-09-20T00:17:57.000Z",
-            "author": {
-                "name": "codeb0ss",
-                "url": "https://github.com/codeb0ss"
             }
         }
     ]
