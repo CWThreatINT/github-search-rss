@@ -6,6 +6,17 @@
     "description": "CVE-2021 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/26024136?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
+            "url": "https://github.com/nanopathi/frameworks_base1_CVE-2021-0315",
+            "title": "nanopathi/frameworks_base1_CVE-2021-0315",
+            "date_modified": "2022-04-27T05:22:34.000Z",
+            "date_published": "2022-04-27T05:01:30.000Z",
+            "author": {
+                "name": "nanopathi",
+                "url": "https://github.com/nanopathi"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/65337905?u=54bead9601451d5c8023d79671bf64c712e388e3&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Python3 POC for CVE-2021-39165 in CachetHQ</div>",
             "url": "https://github.com/manbolq/CVE-2021-39165",
             "title": "manbolq/CVE-2021-39165: Python3 POC for CVE-2021-39165 in CachetHQ",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "asepsaepdin",
                 "url": "https://github.com/asepsaepdin"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/110938606?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
-            "url": "https://github.com/victorhorowitz/grafana-exploit-CVE-2021-43798",
-            "title": "victorhorowitz/grafana-exploit-CVE-2021-43798",
-            "date_modified": "2023-09-03T04:56:01.000Z",
-            "date_published": "2023-09-03T04:11:39.000Z",
-            "author": {
-                "name": "victorhorowitz",
-                "url": "https://github.com/victorhorowitz"
             }
         }
     ]
