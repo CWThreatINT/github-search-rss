@@ -6,10 +6,21 @@
     "description": "CVE-2023 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/60217652?u=1c039138569f7bb6cd9ccf4a6b6348c84adea729&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>OpenSSH Pre-Auth Double Free CVE-2023-25136 – Writeup and Proof-of-Concept</div>",
+            "url": "https://github.com/malvika-thakur/CVE-2023-25136",
+            "title": "malvika-thakur/CVE-2023-25136: OpenSSH Pre-Auth Double Free CVE-2023-25136 – Writeup and Proof-of-Concept",
+            "date_modified": "2023-09-21T12:06:33.000Z",
+            "date_published": "2023-09-21T12:05:35.000Z",
+            "author": {
+                "name": "malvika-thakur",
+                "url": "https://github.com/malvika-thakur"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/18195825?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023</div>",
             "url": "https://github.com/CVEProject/cvelist",
             "title": "CVEProject/cvelist: Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023",
-            "date_modified": "2023-09-21T06:39:15.000Z",
+            "date_modified": "2023-09-21T12:04:48.000Z",
             "date_published": "2020-11-02T19:30:55.000Z",
             "author": {
                 "name": "CVEProject",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "codeb0ss",
                 "url": "https://github.com/codeb0ss"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/10471141?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>exp4CVE-2023-36319</div>",
-            "url": "https://github.com/Lowalu/CVE-2023-36319",
-            "title": "Lowalu/CVE-2023-36319: exp4CVE-2023-36319",
-            "date_modified": "2023-09-19T08:17:22.000Z",
-            "date_published": "2023-09-19T08:17:21.000Z",
-            "author": {
-                "name": "Lowalu",
-                "url": "https://github.com/Lowalu"
             }
         }
     ]
