@@ -17,6 +17,17 @@
             }
         },
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/89909114?u=3987c48b7a83e2dfd804c3b6c785bd797282a3e5&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>批量检测CVE-2023-36846漏洞</div>",
+            "url": "https://github.com/Dreamy-elfland/CVE-2023-36846",
+            "title": "Dreamy-elfland/CVE-2023-36846: 批量检测CVE-2023-36846漏洞",
+            "date_modified": "2023-09-21T14:28:18.000Z",
+            "date_published": "2023-09-21T14:15:50.000Z",
+            "author": {
+                "name": "Dreamy-elfland",
+                "url": "https://github.com/Dreamy-elfland"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/134310220?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A tool to fetch the RocketMQ broker configuration in order to discover indicators of compromise for CVE-2023-33246</div>",
             "url": "https://github.com/vulncheck-oss/fetch-broker-conf",
             "title": "vulncheck-oss/fetch-broker-conf: A tool to fetch the RocketMQ broker configuration in order to discover indicators of compromise for CVE-2023-33246",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "Limesss",
                 "url": "https://github.com/Limesss"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/106973537?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
-            "url": "https://github.com/nidhi7598/linux-4.19.72_CVE-2023-4128",
-            "title": "nidhi7598/linux-4.19.72_CVE-2023-4128",
-            "date_modified": "2023-09-20T04:49:20.000Z",
-            "date_published": "2023-09-20T04:43:28.000Z",
-            "author": {
-                "name": "nidhi7598",
-                "url": "https://github.com/nidhi7598"
             }
         }
     ]
