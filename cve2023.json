@@ -6,6 +6,17 @@
     "description": "CVE-2023 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/26168410?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Got My CVE Published CVE-2023-41575</div>",
+            "url": "https://github.com/soundarkutty/Stored-xss",
+            "title": "soundarkutty/Stored-xss: Got My CVE Published CVE-2023-41575",
+            "date_modified": "2023-09-23T06:43:31.000Z",
+            "date_published": "2023-08-26T09:26:35.000Z",
+            "author": {
+                "name": "soundarkutty",
+                "url": "https://github.com/soundarkutty"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/18195825?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023</div>",
             "url": "https://github.com/CVEProject/cvelist",
             "title": "CVEProject/cvelist: Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "pazhanivel07",
                 "url": "https://github.com/pazhanivel07"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/108554878?u=2f8599526f6d021d7515300b24c447ebd899becb&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Python implementation of CVE-2023-27163</div>",
-            "url": "https://github.com/Hamibubu/CVE-2023-27163",
-            "title": "Hamibubu/CVE-2023-27163: Python implementation of CVE-2023-27163",
-            "date_modified": "2023-09-21T02:55:11.000Z",
-            "date_published": "2023-09-21T02:43:02.000Z",
-            "author": {
-                "name": "Hamibubu",
-                "url": "https://github.com/Hamibubu"
             }
         }
     ]
