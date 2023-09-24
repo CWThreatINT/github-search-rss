@@ -6,6 +6,17 @@
     "description": "CVE-2023 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/18195825?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023</div>",
+            "url": "https://github.com/CVEProject/cvelist",
+            "title": "CVEProject/cvelist: Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023",
+            "date_modified": "2023-09-24T12:25:23.000Z",
+            "date_published": "2020-11-02T19:30:55.000Z",
+            "author": {
+                "name": "CVEProject",
+                "url": "https://github.com/CVEProject"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/81900341?u=5f1d143442973cf9a90b83afeba069118a9e7a3a&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A Proof of Concept for chaining the CVEs [CVE-2023-36844, CVE-2023-36845, CVE-2023-36846, CVE-2023-36847] to achieve Remote Code Execution (phpinfo) in Juniper JunOS within SRX and EX Series products.Modified from original exploit developed by <a class=\"user-mention\" data-hovercard-type=\"organization\" data-hovercard-url=\"/orgs/watchtowr/hovercard\" data-octo-click=\"hovercard-link-click\" data-octo-dimensions=\"link_type:self\" href=\"https://github.com/watchtowr\">@watchtowr</a> .</div>",
             "url": "https://github.com/r3dcl1ff/CVE-2023-36844_Juniper_RCE",
             "title": "r3dcl1ff/CVE-2023-36844_Juniper_RCE: A Proof of Concept for chaining the CVEs [CVE-2023-36844, CVE-2023-36845, CVE-2023-36846, CVE-2023-36847] to achieve Remote Code Execution (phpinfo) in Juniper JunOS within SRX and EX Series products.Modified from original exploit developed by @watchTowr .",
@@ -47,17 +58,6 @@
             "author": {
                 "name": "b0marek",
                 "url": "https://github.com/b0marek"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/18195825?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023</div>",
-            "url": "https://github.com/CVEProject/cvelist",
-            "title": "CVEProject/cvelist: Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023",
-            "date_modified": "2023-09-24T12:25:23.000Z",
-            "date_published": "2020-11-02T19:30:55.000Z",
-            "author": {
-                "name": "CVEProject",
-                "url": "https://github.com/CVEProject"
             }
         },
         {
