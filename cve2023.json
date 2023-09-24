@@ -6,6 +6,17 @@
     "description": "CVE-2023 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/64486541?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Exploit for CVE-2023-29360 targeting MSKSSRV.SYS driver</div>",
+            "url": "https://github.com/Nero22k/cve-2023-29360",
+            "title": "Nero22k/cve-2023-29360: Exploit for CVE-2023-29360 targeting MSKSSRV.SYS driver",
+            "date_modified": "2023-09-24T22:01:26.000Z",
+            "date_published": "2023-09-24T21:59:23.000Z",
+            "author": {
+                "name": "Nero22k",
+                "url": "https://github.com/Nero22k"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/18195825?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023</div>",
             "url": "https://github.com/CVEProject/cvelist",
             "title": "CVEProject/cvelist: Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023",
@@ -209,17 +220,6 @@
             "title": "ahrixia/CVE-2023-43326: mooSocial v3.1.8 is vulnerable to cross-site scripting on admin dashboard login function.",
             "date_modified": "2023-09-22T15:20:26.000Z",
             "date_published": "2023-09-19T03:38:25.000Z",
-            "author": {
-                "name": "ahrixia",
-                "url": "https://github.com/ahrixia"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/35935843?u=ea29b53d5a9590084396a4f39a8e7dabc7c60903&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>mooSocial v3.1.8 is vulnerable to cross-site scripting on user login function.</div>",
-            "url": "https://github.com/ahrixia/CVE-2023-43325",
-            "title": "ahrixia/CVE-2023-43325: mooSocial v3.1.8 is vulnerable to cross-site scripting on user login function.",
-            "date_modified": "2023-09-22T15:02:18.000Z",
-            "date_published": "2023-09-16T01:05:16.000Z",
             "author": {
                 "name": "ahrixia",
                 "url": "https://github.com/ahrixia"
