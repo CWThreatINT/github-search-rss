@@ -6,6 +6,17 @@
     "description": "CVE-2023 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/29740744?u=96f0fcffdaaec1a176378ede50c9067623b0f04e&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Ivanti Avalanche v6.4.0.0 RCE POC</div>",
+            "url": "https://github.com/x0rb3l/CVE-2023-32560",
+            "title": "x0rb3l/CVE-2023-32560: Ivanti Avalanche v6.4.0.0 RCE POC",
+            "date_modified": "2023-09-25T14:03:12.000Z",
+            "date_published": "2023-08-17T03:39:37.000Z",
+            "author": {
+                "name": "x0rb3l",
+                "url": "https://github.com/x0rb3l"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/18195825?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023</div>",
             "url": "https://github.com/CVEProject/cvelist",
             "title": "CVEProject/cvelist: Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023",
@@ -207,22 +218,11 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/31594437?u=b0ede5ebd1e79dcb900f16921ba750c773deba9b&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Elasticsearch Stack Overflow Vulnerability</div>",
             "url": "https://github.com/sqrtZeroKnowledge/Elasticsearch-Exploit-CVE-2023-31419",
             "title": "sqrtZeroKnowledge/Elasticsearch-Exploit-CVE-2023-31419: Elasticsearch Stack Overflow Vulnerability",
-            "date_modified": "2023-09-25T13:08:33.000Z",
+            "date_modified": "2023-09-25T13:50:51.000Z",
             "date_published": "2023-09-22T02:15:54.000Z",
             "author": {
                 "name": "sqrtZeroKnowledge",
                 "url": "https://github.com/sqrtZeroKnowledge"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/82941858?u=6af58ff55af168b10475f5babc61d9f10a81e54c&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2023-29336</div>",
-            "url": "https://github.com/ayhan-dev/p0ropc",
-            "title": "ayhan-dev/p0ropc: CVE-2023-29336",
-            "date_modified": "2023-09-18T18:20:34.000Z",
-            "date_published": "2023-07-27T17:28:41.000Z",
-            "author": {
-                "name": "ayhan-dev",
-                "url": "https://github.com/ayhan-dev"
             }
         }
     ]
