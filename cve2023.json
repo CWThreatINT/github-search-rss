@@ -6,17 +6,6 @@
     "description": "CVE-2023 FEED on GitHub",
     "items": [
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/18223385?u=5ba29c1a9447ae88a6a0433f44038f47471e11c1&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>TOP All bugbounty pentesting CVE-2023- POC Exp  RCE example payload  Things</div>",
-            "url": "https://github.com/hktalent/TOP",
-            "title": "hktalent/TOP: TOP All bugbounty pentesting CVE-2023- POC Exp  RCE example payload  Things",
-            "date_modified": "2023-09-23T10:02:01.000Z",
-            "date_published": "2022-03-19T01:54:15.000Z",
-            "author": {
-                "name": "hktalent",
-                "url": "https://github.com/hktalent"
-            }
-        },
-        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/18195825?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023</div>",
             "url": "https://github.com/CVEProject/cvelist",
             "title": "CVEProject/cvelist: Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023",
@@ -25,6 +14,28 @@
             "author": {
                 "name": "CVEProject",
                 "url": "https://github.com/CVEProject"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/86009160?u=b774578387fb2e4255f321f4d09dded1f7521846&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>VMWare vRealize Network Insight Pre-Authenticated RCE (CVE-2023-20887)</div>",
+            "url": "https://github.com/Malwareman007/CVE-2023-20887",
+            "title": "Malwareman007/CVE-2023-20887: VMWare vRealize Network Insight Pre-Authenticated RCE (CVE-2023-20887)",
+            "date_modified": "2023-09-25T00:49:04.000Z",
+            "date_published": "2023-09-25T00:41:45.000Z",
+            "author": {
+                "name": "Malwareman007",
+                "url": "https://github.com/Malwareman007"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/18223385?u=5ba29c1a9447ae88a6a0433f44038f47471e11c1&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>TOP All bugbounty pentesting CVE-2023- POC Exp  RCE example payload  Things</div>",
+            "url": "https://github.com/hktalent/TOP",
+            "title": "hktalent/TOP: TOP All bugbounty pentesting CVE-2023- POC Exp  RCE example payload  Things",
+            "date_modified": "2023-09-23T10:02:01.000Z",
+            "date_published": "2022-03-19T01:54:15.000Z",
+            "author": {
+                "name": "hktalent",
+                "url": "https://github.com/hktalent"
             }
         },
         {
@@ -212,17 +223,6 @@
             "author": {
                 "name": "ally-petitt",
                 "url": "https://github.com/ally-petitt"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/35935843?u=ea29b53d5a9590084396a4f39a8e7dabc7c60903&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>mooSocial v3.1.8 is vulnerable to cross-site scripting on admin dashboard login function.</div>",
-            "url": "https://github.com/ahrixia/CVE-2023-43326",
-            "title": "ahrixia/CVE-2023-43326: mooSocial v3.1.8 is vulnerable to cross-site scripting on admin dashboard login function.",
-            "date_modified": "2023-09-22T15:20:26.000Z",
-            "date_published": "2023-09-19T03:38:25.000Z",
-            "author": {
-                "name": "ahrixia",
-                "url": "https://github.com/ahrixia"
             }
         }
     ]
