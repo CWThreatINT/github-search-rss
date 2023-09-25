@@ -17,6 +17,17 @@
             }
         },
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/135759201?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Mass Exploit - CVE-2023-0255 &lt; WordPress &lt; Enable Media+Plugin &lt; Unauthenticated Arbitrary File Upload / Webshell Upload</div>",
+            "url": "https://github.com/codeb0ss/CVE-2023-0255-PoC",
+            "title": "codeb0ss/CVE-2023-0255-PoC: Mass Exploit - CVE-2023-0255 < WordPress < Enable Media+Plugin < Unauthenticated Arbitrary File Upload / Webshell Upload",
+            "date_modified": "2023-09-23T07:12:37.000Z",
+            "date_published": "2023-09-20T00:17:57.000Z",
+            "author": {
+                "name": "codeb0ss",
+                "url": "https://github.com/codeb0ss"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/37385191?u=0a9141dc60d82b6323705340f59346faca1ceccd&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
             "url": "https://github.com/bbaranoff/CVE-2023-4863",
             "title": "bbaranoff/CVE-2023-4863",
@@ -42,7 +53,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/20638313?u=8575ac6d24188a63572943bfb01cf62a83c05c7a&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
             "url": "https://github.com/Any3ite/CVE-2023-2523",
             "title": "Any3ite/CVE-2023-2523",
-            "date_modified": "2023-09-25T08:25:12.000Z",
+            "date_modified": "2023-09-25T17:19:35.000Z",
             "date_published": "2023-09-25T08:21:06.000Z",
             "author": {
                 "name": "Any3ite",
@@ -75,7 +86,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/64486541?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Exploit for CVE-2023-29360 targeting MSKSSRV.SYS driver</div>",
             "url": "https://github.com/Nero22k/cve-2023-29360",
             "title": "Nero22k/cve-2023-29360: Exploit for CVE-2023-29360 targeting MSKSSRV.SYS driver",
-            "date_modified": "2023-09-25T02:22:40.000Z",
+            "date_modified": "2023-09-25T17:42:09.000Z",
             "date_published": "2023-09-24T21:59:23.000Z",
             "author": {
                 "name": "Nero22k",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "elefantesagradodeluzinfinita",
                 "url": "https://github.com/elefantesagradodeluzinfinita"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/31594437?u=b0ede5ebd1e79dcb900f16921ba750c773deba9b&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Elasticsearch Stack Overflow Vulnerability</div>",
-            "url": "https://github.com/sqrtZeroKnowledge/Elasticsearch-Exploit-CVE-2023-31419",
-            "title": "sqrtZeroKnowledge/Elasticsearch-Exploit-CVE-2023-31419: Elasticsearch Stack Overflow Vulnerability",
-            "date_modified": "2023-09-25T14:12:24.000Z",
-            "date_published": "2023-09-22T02:15:54.000Z",
-            "author": {
-                "name": "sqrtZeroKnowledge",
-                "url": "https://github.com/sqrtZeroKnowledge"
             }
         }
     ]
