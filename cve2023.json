@@ -17,10 +17,21 @@
             }
         },
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/25826743?u=2a72ec912146f8f13935eed2df7bc34121be3e73&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>BAD-WEBP-CVE-2023-4863</div>",
+            "url": "https://github.com/talbeerysec/BAD-WEBP-CVE-2023-4863",
+            "title": "talbeerysec/BAD-WEBP-CVE-2023-4863: BAD-WEBP-CVE-2023-4863",
+            "date_modified": "2023-09-25T22:10:32.000Z",
+            "date_published": "2023-09-25T22:10:32.000Z",
+            "author": {
+                "name": "talbeerysec",
+                "url": "https://github.com/talbeerysec"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/64486541?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Exploit for CVE-2023-29360 targeting MSKSSRV.SYS driver</div>",
             "url": "https://github.com/Nero22k/cve-2023-29360",
             "title": "Nero22k/cve-2023-29360: Exploit for CVE-2023-29360 targeting MSKSSRV.SYS driver",
-            "date_modified": "2023-09-25T17:42:09.000Z",
+            "date_modified": "2023-09-25T22:25:12.000Z",
             "date_published": "2023-09-24T21:59:23.000Z",
             "author": {
                 "name": "Nero22k",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "chenghao-hao",
                 "url": "https://github.com/chenghao-hao"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/69746530?u=2a0ed69c54b1ef1242411051c4fbe7f0c14b7768&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>DR. GANDALF: Aplicacion DESKTOP para WINDOWS, Inyector de archivos ZIP, generador de exploits para vulnerabilidad de WinRAR 6.22 y anteriores.</div>",
-            "url": "https://github.com/elefantesagradodeluzinfinita/cve-2023-38831",
-            "title": "elefantesagradodeluzinfinita/cve-2023-38831: DR. GANDALF: Aplicacion DESKTOP para WINDOWS, Inyector de archivos ZIP, generador de exploits para vulnerabilidad de WinRAR 6.22 y anteriores.",
-            "date_modified": "2023-09-19T12:47:12.000Z",
-            "date_published": "2023-09-19T12:47:12.000Z",
-            "author": {
-                "name": "elefantesagradodeluzinfinita",
-                "url": "https://github.com/elefantesagradodeluzinfinita"
             }
         }
     ]
