@@ -6,6 +6,39 @@
     "description": "CVE-2023 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/35935843?u=ea29b53d5a9590084396a4f39a8e7dabc7c60903&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>mooSocial v3.1.8 is vulnerable to external service interaction on post function.</div>",
+            "url": "https://github.com/ahrixia/CVE-2023-43323",
+            "title": "ahrixia/CVE-2023-43323: mooSocial v3.1.8 is vulnerable to external service interaction on post function.",
+            "date_modified": "2023-09-26T02:27:47.000Z",
+            "date_published": "2023-09-16T01:28:58.000Z",
+            "author": {
+                "name": "ahrixia",
+                "url": "https://github.com/ahrixia"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/35935843?u=ea29b53d5a9590084396a4f39a8e7dabc7c60903&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>mooSocial v3.1.8 is vulnerable to cross-site scripting on user login function.</div>",
+            "url": "https://github.com/ahrixia/CVE-2023-43325",
+            "title": "ahrixia/CVE-2023-43325: mooSocial v3.1.8 is vulnerable to cross-site scripting on user login function.",
+            "date_modified": "2023-09-22T15:02:18.000Z",
+            "date_published": "2023-09-16T01:05:16.000Z",
+            "author": {
+                "name": "ahrixia",
+                "url": "https://github.com/ahrixia"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/35935843?u=ea29b53d5a9590084396a4f39a8e7dabc7c60903&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>mooSocial v3.1.8 is vulnerable to cross-site scripting on admin dashboard login function.</div>",
+            "url": "https://github.com/ahrixia/CVE-2023-43326",
+            "title": "ahrixia/CVE-2023-43326: mooSocial v3.1.8 is vulnerable to cross-site scripting on admin dashboard login function.",
+            "date_modified": "2023-09-22T15:20:26.000Z",
+            "date_published": "2023-09-19T03:38:25.000Z",
+            "author": {
+                "name": "ahrixia",
+                "url": "https://github.com/ahrixia"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/1591209?u=5b4518c35a54210fb0e2cecebc9d74ed0df7f9f3&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Exploit for CVE-2023-32364</div>",
             "url": "https://github.com/gergelykalman/CVE-2023-32364-macos-app-sandbox-escape",
             "title": "gergelykalman/CVE-2023-32364-macos-app-sandbox-escape: Exploit for CVE-2023-32364",
@@ -58,17 +91,6 @@
             "author": {
                 "name": "b0marek",
                 "url": "https://github.com/b0marek"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/35935843?u=ea29b53d5a9590084396a4f39a8e7dabc7c60903&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>mooSocial v3.1.8 is vulnerable to external service interaction on post function.</div>",
-            "url": "https://github.com/ahrixia/CVE-2023-43323",
-            "title": "ahrixia/CVE-2023-43323: mooSocial v3.1.8 is vulnerable to external service interaction on post function.",
-            "date_modified": "2023-09-26T02:27:47.000Z",
-            "date_published": "2023-09-16T01:28:58.000Z",
-            "author": {
-                "name": "ahrixia",
-                "url": "https://github.com/ahrixia"
             }
         },
         {
@@ -198,28 +220,6 @@
             "title": "b0marek/CVE-2023-4549: Repository for CVE-2023-4549 vulnerability. ",
             "date_modified": "2023-09-24T11:57:47.000Z",
             "date_published": "2023-09-24T11:57:46.000Z",
-            "author": {
-                "name": "b0marek",
-                "url": "https://github.com/b0marek"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/144051679?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Repository for CVE-2023-4294 vulnerability. </div>",
-            "url": "https://github.com/b0marek/CVE-2023-4294",
-            "title": "b0marek/CVE-2023-4294: Repository for CVE-2023-4294 vulnerability. ",
-            "date_modified": "2023-09-24T10:16:04.000Z",
-            "date_published": "2023-09-24T10:16:03.000Z",
-            "author": {
-                "name": "b0marek",
-                "url": "https://github.com/b0marek"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/144051679?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Repository for CVE-2023-4631 vulnerability. </div>",
-            "url": "https://github.com/b0marek/CVE-2023-4631",
-            "title": "b0marek/CVE-2023-4631: Repository for CVE-2023-4631 vulnerability. ",
-            "date_modified": "2023-09-24T08:38:59.000Z",
-            "date_published": "2023-09-24T08:38:58.000Z",
             "author": {
                 "name": "b0marek",
                 "url": "https://github.com/b0marek"
