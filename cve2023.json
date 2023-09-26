@@ -6,6 +6,17 @@
     "description": "CVE-2023 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/1591209?u=5b4518c35a54210fb0e2cecebc9d74ed0df7f9f3&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Exploit for CVE-2023-32364</div>",
+            "url": "https://github.com/gergelykalman/CVE-2023-32364-macos-app-sandbox-escape",
+            "title": "gergelykalman/CVE-2023-32364-macos-app-sandbox-escape: Exploit for CVE-2023-32364",
+            "date_modified": "2023-09-26T15:03:11.000Z",
+            "date_published": "2023-09-26T14:42:00.000Z",
+            "author": {
+                "name": "gergelykalman",
+                "url": "https://github.com/gergelykalman"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/75072113?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Repository contains description for CVE-2023-35793</div>",
             "url": "https://github.com/Dodge-MPTC/CVE-2023-35793-CSRF-On-Web-SSH",
             "title": "Dodge-MPTC/CVE-2023-35793-CSRF-On-Web-SSH: Repository contains description for CVE-2023-35793",
@@ -31,7 +42,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/64486541?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Exploit for CVE-2023-29360 targeting MSKSSRV.SYS driver</div>",
             "url": "https://github.com/Nero22k/cve-2023-29360",
             "title": "Nero22k/cve-2023-29360: Exploit for CVE-2023-29360 targeting MSKSSRV.SYS driver",
-            "date_modified": "2023-09-26T13:46:17.000Z",
+            "date_modified": "2023-09-26T14:36:45.000Z",
             "date_published": "2023-09-24T21:59:23.000Z",
             "author": {
                 "name": "Nero22k",
@@ -209,17 +220,6 @@
             "title": "b0marek/CVE-2023-4631: Repository for CVE-2023-4631 vulnerability. ",
             "date_modified": "2023-09-24T08:38:59.000Z",
             "date_published": "2023-09-24T08:38:58.000Z",
-            "author": {
-                "name": "b0marek",
-                "url": "https://github.com/b0marek"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/144051679?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Repository for CVE-2023-4279 vulnerability. </div>",
-            "url": "https://github.com/b0marek/CVE-2023-4279",
-            "title": "b0marek/CVE-2023-4279: Repository for CVE-2023-4279 vulnerability. ",
-            "date_modified": "2023-09-24T08:26:37.000Z",
-            "date_published": "2023-09-24T08:26:37.000Z",
             "author": {
                 "name": "b0marek",
                 "url": "https://github.com/b0marek"
