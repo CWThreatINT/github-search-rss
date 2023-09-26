@@ -17,6 +17,28 @@
             }
         },
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/104329412?u=53e9af635644b8896df7de1ba33ef14aeeae490d&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Python script to check if Juniper Firewalls are vulnerable to CVE-2023-36845 - RCE</div>",
+            "url": "https://github.com/kljunowsky/CVE-2023-36845",
+            "title": "kljunowsky/CVE-2023-36845: Python script to check if Juniper Firewalls are vulnerable to CVE-2023-36845 - RCE",
+            "date_modified": "2023-09-26T18:00:29.000Z",
+            "date_published": "2023-09-26T17:56:55.000Z",
+            "author": {
+                "name": "kljunowsky",
+                "url": "https://github.com/kljunowsky"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/75072113?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Repository contains description for CVE-2023-35793</div>",
+            "url": "https://github.com/Dodge-MPTC/CVE-2023-35793-CSRF-On-Web-SSH",
+            "title": "Dodge-MPTC/CVE-2023-35793-CSRF-On-Web-SSH: Repository contains description for CVE-2023-35793",
+            "date_modified": "2023-09-26T11:39:05.000Z",
+            "date_published": "2023-09-26T11:39:05.000Z",
+            "author": {
+                "name": "Dodge-MPTC",
+                "url": "https://github.com/Dodge-MPTC"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/35935843?u=ea29b53d5a9590084396a4f39a8e7dabc7c60903&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>mooSocial v3.1.8 is vulnerable to cross-site scripting on Multiple URLs.</div>",
             "url": "https://github.com/ahrixia/CVE-2023-43326",
             "title": "ahrixia/CVE-2023-43326: mooSocial v3.1.8 is vulnerable to cross-site scripting on Multiple URLs.",
@@ -53,22 +75,11 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/1591209?u=5b4518c35a54210fb0e2cecebc9d74ed0df7f9f3&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Exploit for CVE-2023-32364</div>",
             "url": "https://github.com/gergelykalman/CVE-2023-32364-macos-app-sandbox-escape",
             "title": "gergelykalman/CVE-2023-32364-macos-app-sandbox-escape: Exploit for CVE-2023-32364",
-            "date_modified": "2023-09-26T15:03:11.000Z",
+            "date_modified": "2023-09-26T17:27:28.000Z",
             "date_published": "2023-09-26T14:42:00.000Z",
             "author": {
                 "name": "gergelykalman",
                 "url": "https://github.com/gergelykalman"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/75072113?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Repository contains description for CVE-2023-35793</div>",
-            "url": "https://github.com/Dodge-MPTC/CVE-2023-35793-CSRF-On-Web-SSH",
-            "title": "Dodge-MPTC/CVE-2023-35793-CSRF-On-Web-SSH: Repository contains description for CVE-2023-35793",
-            "date_modified": "2023-09-26T11:39:05.000Z",
-            "date_published": "2023-09-26T11:39:05.000Z",
-            "author": {
-                "name": "Dodge-MPTC",
-                "url": "https://github.com/Dodge-MPTC"
             }
         },
         {
@@ -209,17 +220,6 @@
             "title": "b0marek/CVE-2023-4281: Repository for CVE-2023-4281 vulnerability. ",
             "date_modified": "2023-09-24T12:21:19.000Z",
             "date_published": "2023-09-24T12:21:19.000Z",
-            "author": {
-                "name": "b0marek",
-                "url": "https://github.com/b0marek"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/144051679?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Repository for CVE-2023-4800 vulnerability. </div>",
-            "url": "https://github.com/b0marek/CVE-2023-4800",
-            "title": "b0marek/CVE-2023-4800: Repository for CVE-2023-4800 vulnerability. ",
-            "date_modified": "2023-09-24T12:11:59.000Z",
-            "date_published": "2023-09-24T12:11:58.000Z",
             "author": {
                 "name": "b0marek",
                 "url": "https://github.com/b0marek"
