@@ -6,10 +6,21 @@
     "description": "CVE-2023 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/102574296?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
+            "url": "https://github.com/Trinadh465/frameworks_base_AOSP-4.2.2_r1_CVE-2023-21272",
+            "title": "Trinadh465/frameworks_base_AOSP-4.2.2_r1_CVE-2023-21272",
+            "date_modified": "2023-09-26T10:36:04.000Z",
+            "date_published": "2023-09-26T10:28:51.000Z",
+            "author": {
+                "name": "Trinadh465",
+                "url": "https://github.com/Trinadh465"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/64486541?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Exploit for CVE-2023-29360 targeting MSKSSRV.SYS driver</div>",
             "url": "https://github.com/Nero22k/cve-2023-29360",
             "title": "Nero22k/cve-2023-29360: Exploit for CVE-2023-29360 targeting MSKSSRV.SYS driver",
-            "date_modified": "2023-09-25T22:25:12.000Z",
+            "date_modified": "2023-09-26T10:48:34.000Z",
             "date_published": "2023-09-24T21:59:23.000Z",
             "author": {
                 "name": "Nero22k",
@@ -209,17 +220,6 @@
             "title": "b0marek/CVE-2023-0157: Repository for CVE-2023-0157 vulnerability. ",
             "date_modified": "2023-09-24T08:20:30.000Z",
             "date_published": "2023-09-24T08:20:30.000Z",
-            "author": {
-                "name": "b0marek",
-                "url": "https://github.com/b0marek"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/144051679?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Repository for CVE-2023-0156 vulnerability. </div>",
-            "url": "https://github.com/b0marek/CVE-2023-0156",
-            "title": "b0marek/CVE-2023-0156: Repository for CVE-2023-0156 vulnerability. ",
-            "date_modified": "2023-09-24T08:10:31.000Z",
-            "date_published": "2023-09-24T08:10:31.000Z",
             "author": {
                 "name": "b0marek",
                 "url": "https://github.com/b0marek"
