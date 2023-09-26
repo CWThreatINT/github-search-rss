@@ -6,25 +6,25 @@
     "description": "CVE-2023 FEED on GitHub",
     "items": [
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/104329412?u=53e9af635644b8896df7de1ba33ef14aeeae490d&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Juniper Firewalls CVE-2023-36845 - RCE</div>",
-            "url": "https://github.com/kljunowsky/CVE-2023-36845",
-            "title": "kljunowsky/CVE-2023-36845: Juniper Firewalls CVE-2023-36845 - RCE",
-            "date_modified": "2023-09-26T18:39:11.000Z",
-            "date_published": "2023-09-26T17:56:55.000Z",
-            "author": {
-                "name": "kljunowsky",
-                "url": "https://github.com/kljunowsky"
-            }
-        },
-        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/88535377?u=8282f1d8139691249d08a567a0a9ec513541ab09&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Microsoft SharePoint Server Elevation of Privilege Vulnerability</div>",
             "url": "https://github.com/Chocapikk/CVE-2023-29357",
             "title": "Chocapikk/CVE-2023-29357: Microsoft SharePoint Server Elevation of Privilege Vulnerability",
-            "date_modified": "2023-09-26T16:18:56.000Z",
+            "date_modified": "2023-09-26T19:46:57.000Z",
             "date_published": "2023-09-26T16:18:41.000Z",
             "author": {
                 "name": "Chocapikk",
                 "url": "https://github.com/Chocapikk"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/104329412?u=53e9af635644b8896df7de1ba33ef14aeeae490d&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Juniper Firewalls CVE-2023-36845 - RCE</div>",
+            "url": "https://github.com/kljunowsky/CVE-2023-36845",
+            "title": "kljunowsky/CVE-2023-36845: Juniper Firewalls CVE-2023-36845 - RCE",
+            "date_modified": "2023-09-26T20:03:28.000Z",
+            "date_published": "2023-09-26T17:56:55.000Z",
+            "author": {
+                "name": "kljunowsky",
+                "url": "https://github.com/kljunowsky"
             }
         },
         {
@@ -75,7 +75,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/1591209?u=5b4518c35a54210fb0e2cecebc9d74ed0df7f9f3&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Exploit for CVE-2023-32364</div>",
             "url": "https://github.com/gergelykalman/CVE-2023-32364-macos-app-sandbox-escape",
             "title": "gergelykalman/CVE-2023-32364-macos-app-sandbox-escape: Exploit for CVE-2023-32364",
-            "date_modified": "2023-09-26T17:27:28.000Z",
+            "date_modified": "2023-09-26T19:28:36.000Z",
             "date_published": "2023-09-26T14:42:00.000Z",
             "author": {
                 "name": "gergelykalman",
