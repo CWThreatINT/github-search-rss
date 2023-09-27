@@ -6,10 +6,21 @@
     "description": "CVE-2023 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/18195825?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023</div>",
+            "url": "https://github.com/CVEProject/cvelist",
+            "title": "CVEProject/cvelist: Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023",
+            "date_modified": "2023-09-27T06:46:39.000Z",
+            "date_published": "2020-11-02T19:30:55.000Z",
+            "author": {
+                "name": "CVEProject",
+                "url": "https://github.com/CVEProject"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/1591209?u=5b4518c35a54210fb0e2cecebc9d74ed0df7f9f3&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Exploit for CVE-2023-38571</div>",
             "url": "https://github.com/gergelykalman/CVE-2023-38571-a-macOS-TCC-bypass-in-Music-and-TV",
             "title": "gergelykalman/CVE-2023-38571-a-macOS-TCC-bypass-in-Music-and-TV: Exploit for CVE-2023-38571",
-            "date_modified": "2023-09-27T14:04:25.000Z",
+            "date_modified": "2023-09-27T14:08:46.000Z",
             "date_published": "2023-09-27T13:21:43.000Z",
             "author": {
                 "name": "gergelykalman",
@@ -119,7 +130,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/88535377?u=8282f1d8139691249d08a567a0a9ec513541ab09&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Microsoft SharePoint Server Elevation of Privilege Vulnerability</div>",
             "url": "https://github.com/Chocapikk/CVE-2023-29357",
             "title": "Chocapikk/CVE-2023-29357: Microsoft SharePoint Server Elevation of Privilege Vulnerability",
-            "date_modified": "2023-09-27T14:04:47.000Z",
+            "date_modified": "2023-09-27T14:56:06.000Z",
             "date_published": "2023-09-26T16:18:41.000Z",
             "author": {
                 "name": "Chocapikk",
@@ -141,7 +152,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/75072113?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Repository contains description for CVE-2023-35793</div>",
             "url": "https://github.com/Dodge-MPTC/CVE-2023-35793-CSRF-On-Web-SSH",
             "title": "Dodge-MPTC/CVE-2023-35793-CSRF-On-Web-SSH: Repository contains description for CVE-2023-35793",
-            "date_modified": "2023-09-26T11:39:05.000Z",
+            "date_modified": "2023-09-27T14:58:47.000Z",
             "date_published": "2023-09-26T11:39:05.000Z",
             "author": {
                 "name": "Dodge-MPTC",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "Nero22k",
                 "url": "https://github.com/Nero22k"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/144051679?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Repository for CVE-2023-43263 vulnerability. </div>",
-            "url": "https://github.com/b0marek/CVE-2023-43263",
-            "title": "b0marek/CVE-2023-43263: Repository for CVE-2023-43263 vulnerability. ",
-            "date_modified": "2023-09-26T08:24:16.000Z",
-            "date_published": "2023-09-26T08:24:16.000Z",
-            "author": {
-                "name": "b0marek",
-                "url": "https://github.com/b0marek"
             }
         }
     ]
