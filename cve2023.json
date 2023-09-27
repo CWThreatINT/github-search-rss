@@ -17,6 +17,17 @@
             }
         },
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/9987776?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>This repository provides PoC for CVE-2023-42793</div>",
+            "url": "https://github.com/Ariurn/CVE-2023-42793",
+            "title": "Ariurn/CVE-2023-42793: This repository provides PoC for CVE-2023-42793",
+            "date_modified": "2023-09-27T22:09:01.000Z",
+            "date_published": "2023-09-27T22:08:26.000Z",
+            "author": {
+                "name": "Ariurn",
+                "url": "https://github.com/Ariurn"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/130003354?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
             "url": "https://github.com/itssixtyn3in/CVE-2023-42222",
             "title": "itssixtyn3in/CVE-2023-42222",
@@ -163,7 +174,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/88535377?u=8282f1d8139691249d08a567a0a9ec513541ab09&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Microsoft SharePoint Server Elevation of Privilege Vulnerability</div>",
             "url": "https://github.com/Chocapikk/CVE-2023-29357",
             "title": "Chocapikk/CVE-2023-29357: Microsoft SharePoint Server Elevation of Privilege Vulnerability",
-            "date_modified": "2023-09-27T21:38:49.000Z",
+            "date_modified": "2023-09-27T22:42:29.000Z",
             "date_published": "2023-09-26T16:18:41.000Z",
             "author": {
                 "name": "Chocapikk",
@@ -209,17 +220,6 @@
             "title": "ahrixia/CVE-2023-43323: mooSocial v3.1.8 is vulnerable to external service interaction on post function.",
             "date_modified": "2023-09-27T12:02:14.000Z",
             "date_published": "2023-09-16T01:28:58.000Z",
-            "author": {
-                "name": "ahrixia",
-                "url": "https://github.com/ahrixia"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/35935843?u=ea29b53d5a9590084396a4f39a8e7dabc7c60903&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>mooSocial v3.1.8 is vulnerable to cross-site scripting on user login function.</div>",
-            "url": "https://github.com/ahrixia/CVE-2023-43325",
-            "title": "ahrixia/CVE-2023-43325: mooSocial v3.1.8 is vulnerable to cross-site scripting on user login function.",
-            "date_modified": "2023-09-22T15:02:18.000Z",
-            "date_published": "2023-09-16T01:05:16.000Z",
             "author": {
                 "name": "ahrixia",
                 "url": "https://github.com/ahrixia"
