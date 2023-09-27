@@ -17,10 +17,21 @@
             }
         },
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/52328067?u=dc9a21e59e5ce7be88974172f3f249d9cd4b0144&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
+            "url": "https://github.com/sherlocksecurity/CVE-2023-4762-Code-Review",
+            "title": "sherlocksecurity/CVE-2023-4762-Code-Review",
+            "date_modified": "2023-09-27T15:13:59.000Z",
+            "date_published": "2023-09-27T14:29:43.000Z",
+            "author": {
+                "name": "sherlocksecurity",
+                "url": "https://github.com/sherlocksecurity"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/1591209?u=5b4518c35a54210fb0e2cecebc9d74ed0df7f9f3&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Exploit for CVE-2023-38571</div>",
             "url": "https://github.com/gergelykalman/CVE-2023-38571-a-macOS-TCC-bypass-in-Music-and-TV",
             "title": "gergelykalman/CVE-2023-38571-a-macOS-TCC-bypass-in-Music-and-TV: Exploit for CVE-2023-38571",
-            "date_modified": "2023-09-27T14:08:46.000Z",
+            "date_modified": "2023-09-27T15:24:59.000Z",
             "date_published": "2023-09-27T13:21:43.000Z",
             "author": {
                 "name": "gergelykalman",
@@ -42,7 +53,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/666724?u=18e4eb32f2a35d90a45ce456e080ccaab3f17b1e&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
             "url": "https://github.com/buptsb/CVE-2023-4762",
             "title": "buptsb/CVE-2023-4762",
-            "date_modified": "2023-09-27T12:55:15.000Z",
+            "date_modified": "2023-09-27T15:14:15.000Z",
             "date_published": "2023-09-27T09:43:20.000Z",
             "author": {
                 "name": "buptsb",
@@ -130,7 +141,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/88535377?u=8282f1d8139691249d08a567a0a9ec513541ab09&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Microsoft SharePoint Server Elevation of Privilege Vulnerability</div>",
             "url": "https://github.com/Chocapikk/CVE-2023-29357",
             "title": "Chocapikk/CVE-2023-29357: Microsoft SharePoint Server Elevation of Privilege Vulnerability",
-            "date_modified": "2023-09-27T14:56:06.000Z",
+            "date_modified": "2023-09-27T15:44:59.000Z",
             "date_published": "2023-09-26T16:18:41.000Z",
             "author": {
                 "name": "Chocapikk",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "Trinadh465",
                 "url": "https://github.com/Trinadh465"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/64486541?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Exploit for CVE-2023-29360 targeting MSKSSRV.SYS driver</div>",
-            "url": "https://github.com/Nero22k/cve-2023-29360",
-            "title": "Nero22k/cve-2023-29360: Exploit for CVE-2023-29360 targeting MSKSSRV.SYS driver",
-            "date_modified": "2023-09-27T12:23:12.000Z",
-            "date_published": "2023-09-24T21:59:23.000Z",
-            "author": {
-                "name": "Nero22k",
-                "url": "https://github.com/Nero22k"
             }
         }
     ]
