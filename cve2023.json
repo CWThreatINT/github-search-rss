@@ -6,6 +6,17 @@
     "description": "CVE-2023 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/60843949?u=7320565057e3d6467bbaf0ead7698d5a935536ad&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>PoC for Stored XSS (CVE-2023-43770) Vulnerability</div>",
+            "url": "https://github.com/knight0x07/CVE-2023-43770-PoC",
+            "title": "knight0x07/CVE-2023-43770-PoC: PoC for Stored XSS (CVE-2023-43770) Vulnerability",
+            "date_modified": "2023-09-28T13:43:25.000Z",
+            "date_published": "2023-09-28T13:43:25.000Z",
+            "author": {
+                "name": "knight0x07",
+                "url": "https://github.com/knight0x07"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/18195825?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023</div>",
             "url": "https://github.com/CVEProject/cvelist",
             "title": "CVEProject/cvelist: Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023",
@@ -31,7 +42,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/41412951?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Spring-Kafka-Deserialization-Remote-Code-Execution</div>",
             "url": "https://github.com/pyn3rd/CVE-2023-34040",
             "title": "pyn3rd/CVE-2023-34040: Spring-Kafka-Deserialization-Remote-Code-Execution",
-            "date_modified": "2023-09-28T11:34:11.000Z",
+            "date_modified": "2023-09-28T13:30:55.000Z",
             "date_published": "2023-09-28T11:18:35.000Z",
             "author": {
                 "name": "pyn3rd",
@@ -75,7 +86,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/43054353?u=3ff6d666564962ba5197afec5258f5ac043d9f32&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A Proof-Of-Concept for the CVE-2023-43770 vulnerability. </div>",
             "url": "https://github.com/s3cb0y/CVE-2023-43770-POC",
             "title": "s3cb0y/CVE-2023-43770-POC: A Proof-Of-Concept for the CVE-2023-43770 vulnerability. ",
-            "date_modified": "2023-09-28T08:13:16.000Z",
+            "date_modified": "2023-09-28T13:40:54.000Z",
             "date_published": "2023-09-27T17:08:23.000Z",
             "author": {
                 "name": "s3cb0y",
@@ -196,7 +207,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/88535377?u=8282f1d8139691249d08a567a0a9ec513541ab09&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Microsoft SharePoint Server Elevation of Privilege Vulnerability</div>",
             "url": "https://github.com/Chocapikk/CVE-2023-29357",
             "title": "Chocapikk/CVE-2023-29357: Microsoft SharePoint Server Elevation of Privilege Vulnerability",
-            "date_modified": "2023-09-28T12:59:15.000Z",
+            "date_modified": "2023-09-28T13:41:35.000Z",
             "date_published": "2023-09-26T16:18:41.000Z",
             "author": {
                 "name": "Chocapikk",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "kljunowsky",
                 "url": "https://github.com/kljunowsky"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/75072113?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Repository contains description for CVE-2023-35793</div>",
-            "url": "https://github.com/Dodge-MPTC/CVE-2023-35793-CSRF-On-Web-SSH",
-            "title": "Dodge-MPTC/CVE-2023-35793-CSRF-On-Web-SSH: Repository contains description for CVE-2023-35793",
-            "date_modified": "2023-09-27T16:20:31.000Z",
-            "date_published": "2023-09-26T11:39:05.000Z",
-            "author": {
-                "name": "Dodge-MPTC",
-                "url": "https://github.com/Dodge-MPTC"
             }
         }
     ]
