@@ -17,6 +17,17 @@
             }
         },
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/22947231?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2023-4683 - Test</div>",
+            "url": "https://github.com/Songg45/CVE-2023-4683-Test",
+            "title": "Songg45/CVE-2023-4683-Test: CVE-2023-4683 - Test",
+            "date_modified": "2023-09-28T20:51:43.000Z",
+            "date_published": "2023-09-28T20:49:33.000Z",
+            "author": {
+                "name": "Songg45",
+                "url": "https://github.com/Songg45"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/109672288?u=e9ab42f6dd8067c7ada68c4b8cd65ea35e0be3a9&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Telnet default credentials can lead to information disclosure and denial-of-service (DoS) attacks.</div>",
             "url": "https://github.com/Hamza0X/CVE-2023-37073",
             "title": "Hamza0X/CVE-2023-37073: Telnet default credentials can lead to information disclosure and denial-of-service (DoS) attacks.",
@@ -119,7 +130,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/43054353?u=3ff6d666564962ba5197afec5258f5ac043d9f32&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A Proof-Of-Concept for the CVE-2023-43770 vulnerability. </div>",
             "url": "https://github.com/s3cb0y/CVE-2023-43770-POC",
             "title": "s3cb0y/CVE-2023-43770-POC: A Proof-Of-Concept for the CVE-2023-43770 vulnerability. ",
-            "date_modified": "2023-09-28T18:55:12.000Z",
+            "date_modified": "2023-09-28T20:37:11.000Z",
             "date_published": "2023-09-27T17:08:23.000Z",
             "author": {
                 "name": "s3cb0y",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "HolyGu",
                 "url": "https://github.com/HolyGu"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/22360364?u=9c2790e4587e4fa26064bc630433edae82f6fd00&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
-            "url": "https://github.com/PH03N1XSP/CVE-2023-5024",
-            "title": "PH03N1XSP/CVE-2023-5024",
-            "date_modified": "2023-09-27T03:28:03.000Z",
-            "date_published": "2023-09-27T03:28:02.000Z",
-            "author": {
-                "name": "PH03N1XSP",
-                "url": "https://github.com/PH03N1XSP"
             }
         }
     ]
