@@ -6,6 +6,17 @@
     "description": "CVE-2023 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/67969701?u=34a6622329508daf0120e8101987cfcf228fa29c&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A small write-up with examples to understand CVE-2023-43115</div>",
+            "url": "https://github.com/jostaub/ghostscript-CVE-2023-43115",
+            "title": "jostaub/ghostscript-CVE-2023-43115: A small write-up with examples to understand CVE-2023-43115",
+            "date_modified": "2023-09-28T21:31:28.000Z",
+            "date_published": "2023-09-28T17:30:06.000Z",
+            "author": {
+                "name": "jostaub",
+                "url": "https://github.com/jostaub"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/18195825?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023</div>",
             "url": "https://github.com/CVEProject/cvelist",
             "title": "CVEProject/cvelist: Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023",
@@ -14,6 +25,17 @@
             "author": {
                 "name": "CVEProject",
                 "url": "https://github.com/CVEProject"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/127287794?u=a735436fdb5041f2d66e326b5ba19fcf8d8770fb&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2023-42793</div>",
+            "url": "https://github.com/H454NSec/CVE-2023-42793",
+            "title": "H454NSec/CVE-2023-42793: CVE-2023-42793",
+            "date_modified": "2023-09-29T06:45:35.000Z",
+            "date_published": "2023-09-29T06:43:35.000Z",
+            "author": {
+                "name": "H454NSec",
+                "url": "https://github.com/H454NSec"
             }
         },
         {
@@ -58,17 +80,6 @@
             "author": {
                 "name": "Songg45",
                 "url": "https://github.com/Songg45"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/67969701?u=34a6622329508daf0120e8101987cfcf228fa29c&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A small write-up with examples to understand CVE-2023-43115</div>",
-            "url": "https://github.com/jostaub/ghostscript-CVE-2023-43115",
-            "title": "jostaub/ghostscript-CVE-2023-43115: A small write-up with examples to understand CVE-2023-43115",
-            "date_modified": "2023-09-28T21:31:28.000Z",
-            "date_published": "2023-09-28T17:30:06.000Z",
-            "author": {
-                "name": "jostaub",
-                "url": "https://github.com/jostaub"
             }
         },
         {
@@ -212,17 +223,6 @@
             "author": {
                 "name": "buptsb",
                 "url": "https://github.com/buptsb"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/85386928?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>PoC CVE-2023-36845 on Juniper Device</div>",
-            "url": "https://github.com/toanln-cov/CVE-2023-36845",
-            "title": "toanln-cov/CVE-2023-36845: PoC CVE-2023-36845 on Juniper Device",
-            "date_modified": "2023-09-27T09:50:56.000Z",
-            "date_published": "2023-09-27T09:50:56.000Z",
-            "author": {
-                "name": "toanln-cov",
-                "url": "https://github.com/toanln-cov"
             }
         }
     ]
