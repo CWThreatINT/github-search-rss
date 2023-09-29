@@ -17,6 +17,17 @@
             }
         },
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/83585135?u=fd6b330d0245e7238964eec96198c7174041d84f&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Mass check CVE-2023-36845 </div>",
+            "url": "https://github.com/zaenhaxor/CVE-2023-36845",
+            "title": "zaenhaxor/CVE-2023-36845: Mass check CVE-2023-36845 ",
+            "date_modified": "2023-09-29T03:12:11.000Z",
+            "date_published": "2023-09-29T03:11:37.000Z",
+            "author": {
+                "name": "zaenhaxor",
+                "url": "https://github.com/zaenhaxor"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/24635345?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Scans an executable and determines if it was wrapped in an Electron version vulnerable to the Chromium vulnerability CVE-2023-4863/ CVE-2023-5129</div>",
             "url": "https://github.com/OITApps/Find-VulnerableElectronVersion",
             "title": "OITApps/Find-VulnerableElectronVersion: Scans an executable and determines if it was wrapped in an Electron version vulnerable to the Chromium vulnerability CVE-2023-4863/ CVE-2023-5129",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "toanln-cov",
                 "url": "https://github.com/toanln-cov"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/145116855?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
-            "url": "https://github.com/0x41-Researcher/CVE-2023-20209",
-            "title": "0x41-Researcher/CVE-2023-20209",
-            "date_modified": "2023-09-28T15:55:19.000Z",
-            "date_published": "2023-09-27T09:22:21.000Z",
-            "author": {
-                "name": "0x41-Researcher",
-                "url": "https://github.com/0x41-Researcher"
             }
         }
     ]
