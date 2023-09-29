@@ -6,14 +6,14 @@
     "description": "CVE-2023 FEED on GitHub",
     "items": [
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/67969701?u=34a6622329508daf0120e8101987cfcf228fa29c&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A small write-up with examples to understand CVE-2023-43115</div>",
-            "url": "https://github.com/jostaub/ghostscript-CVE-2023-43115",
-            "title": "jostaub/ghostscript-CVE-2023-43115: A small write-up with examples to understand CVE-2023-43115",
-            "date_modified": "2023-09-28T21:31:28.000Z",
-            "date_published": "2023-09-28T17:30:06.000Z",
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/117360244?u=a39864b851af0995927e76a6bc6e2917f47f0290&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>go CVE-2023-24538 patch issue resolver - Kirkstone</div>",
+            "url": "https://github.com/skulkarni-mv/goIssue_kirkstone",
+            "title": "skulkarni-mv/goIssue_kirkstone: go CVE-2023-24538 patch issue resolver - Kirkstone",
+            "date_modified": "2023-09-28T17:35:39.000Z",
+            "date_published": "2023-09-28T17:01:09.000Z",
             "author": {
-                "name": "jostaub",
-                "url": "https://github.com/jostaub"
+                "name": "skulkarni-mv",
+                "url": "https://github.com/skulkarni-mv"
             }
         },
         {
@@ -25,6 +25,17 @@
             "author": {
                 "name": "CVEProject",
                 "url": "https://github.com/CVEProject"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/67969701?u=34a6622329508daf0120e8101987cfcf228fa29c&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A small write-up with examples to understand CVE-2023-43115</div>",
+            "url": "https://github.com/jostaub/ghostscript-CVE-2023-43115",
+            "title": "jostaub/ghostscript-CVE-2023-43115: A small write-up with examples to understand CVE-2023-43115",
+            "date_modified": "2023-09-28T21:31:28.000Z",
+            "date_published": "2023-09-28T17:30:06.000Z",
+            "author": {
+                "name": "jostaub",
+                "url": "https://github.com/jostaub"
             }
         },
         {
@@ -91,17 +102,6 @@
             "author": {
                 "name": "Hamza0X",
                 "url": "https://github.com/Hamza0X"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/117360244?u=a39864b851af0995927e76a6bc6e2917f47f0290&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>go CVE-2023-24538 patch issue resolver - Kirkstone</div>",
-            "url": "https://github.com/skulkarni-mv/goIssue_kirkstone",
-            "title": "skulkarni-mv/goIssue_kirkstone: go CVE-2023-24538 patch issue resolver - Kirkstone",
-            "date_modified": "2023-09-28T17:35:39.000Z",
-            "date_published": "2023-09-28T17:01:09.000Z",
-            "author": {
-                "name": "skulkarni-mv",
-                "url": "https://github.com/skulkarni-mv"
             }
         },
         {
@@ -174,7 +174,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/43054353?u=3ff6d666564962ba5197afec5258f5ac043d9f32&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A Proof-Of-Concept for the CVE-2023-43770 vulnerability. </div>",
             "url": "https://github.com/s3cb0y/CVE-2023-43770-POC",
             "title": "s3cb0y/CVE-2023-43770-POC: A Proof-Of-Concept for the CVE-2023-43770 vulnerability. ",
-            "date_modified": "2023-09-29T05:08:19.000Z",
+            "date_modified": "2023-09-29T07:50:30.000Z",
             "date_published": "2023-09-27T17:08:23.000Z",
             "author": {
                 "name": "s3cb0y",
