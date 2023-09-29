@@ -6,6 +6,17 @@
     "description": "CVE-2023 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/24635345?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Scans an executable and determines if it was wrapped in an Electron version vulnerable to the Chromium vulnerability CVE-2023-4863/ CVE-2023-5217</div>",
+            "url": "https://github.com/OITApps/Find-VulnerableElectronVersion",
+            "title": "OITApps/Find-VulnerableElectronVersion: Scans an executable and determines if it was wrapped in an Electron version vulnerable to the Chromium vulnerability CVE-2023-4863/ CVE-2023-5217",
+            "date_modified": "2023-09-29T00:58:51.000Z",
+            "date_published": "2023-09-29T00:42:37.000Z",
+            "author": {
+                "name": "OITApps",
+                "url": "https://github.com/OITApps"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/18223385?u=5ba29c1a9447ae88a6a0433f44038f47471e11c1&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>TOP All bugbounty pentesting CVE-2023- POC Exp  RCE example payload  Things</div>",
             "url": "https://github.com/hktalent/TOP",
             "title": "hktalent/TOP: TOP All bugbounty pentesting CVE-2023- POC Exp  RCE example payload  Things",
@@ -141,7 +152,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/43054353?u=3ff6d666564962ba5197afec5258f5ac043d9f32&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A Proof-Of-Concept for the CVE-2023-43770 vulnerability. </div>",
             "url": "https://github.com/s3cb0y/CVE-2023-43770-POC",
             "title": "s3cb0y/CVE-2023-43770-POC: A Proof-Of-Concept for the CVE-2023-43770 vulnerability. ",
-            "date_modified": "2023-09-28T20:37:11.000Z",
+            "date_modified": "2023-09-29T01:34:56.000Z",
             "date_published": "2023-09-27T17:08:23.000Z",
             "author": {
                 "name": "s3cb0y",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "0x41-Researcher",
                 "url": "https://github.com/0x41-Researcher"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/120082360?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2023-42820</div>",
-            "url": "https://github.com/wh-gov/CVE-2023-42820",
-            "title": "wh-gov/CVE-2023-42820: CVE-2023-42820",
-            "date_modified": "2023-09-27T08:06:28.000Z",
-            "date_published": "2023-09-27T08:06:28.000Z",
-            "author": {
-                "name": "wh-gov",
-                "url": "https://github.com/wh-gov"
             }
         }
     ]
