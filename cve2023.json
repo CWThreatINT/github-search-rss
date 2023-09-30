@@ -6,6 +6,17 @@
     "description": "CVE-2023 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/106753458?u=0082fe79e8ee4ad034702aec060c28f68d656b60&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Explore CVE 2023-30845 automatically across multiple subdomains</div>",
+            "url": "https://github.com/himori123/-CVE-2023-30845",
+            "title": "himori123/-CVE-2023-30845: Explore CVE 2023-30845 automatically across multiple subdomains",
+            "date_modified": "2023-09-28T13:37:48.000Z",
+            "date_published": "2023-09-22T01:14:20.000Z",
+            "author": {
+                "name": "himori123",
+                "url": "https://github.com/himori123"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/18195825?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023</div>",
             "url": "https://github.com/CVEProject/cvelist",
             "title": "CVEProject/cvelist: Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023",
@@ -20,7 +31,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/10473238?u=3dca484829b8c63f8e45f9ee9025982b7acbd8db&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Find Electron Apps Vulnerable to CVE-2023-4863 / CVE-2023-5129</div>",
             "url": "https://github.com/GTGalaxi/ElectronVulnerableVersion",
             "title": "GTGalaxi/ElectronVulnerableVersion: Find Electron Apps Vulnerable to CVE-2023-4863 / CVE-2023-5129",
-            "date_modified": "2023-09-30T02:48:04.000Z",
+            "date_modified": "2023-09-30T06:52:50.000Z",
             "date_published": "2023-09-30T02:47:16.000Z",
             "author": {
                 "name": "GTGalaxi",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "itssixtyn3in",
                 "url": "https://github.com/itssixtyn3in"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/43054353?u=3ff6d666564962ba5197afec5258f5ac043d9f32&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A Proof-Of-Concept for the CVE-2023-43770 vulnerability. </div>",
-            "url": "https://github.com/s3cb0y/CVE-2023-43770-POC",
-            "title": "s3cb0y/CVE-2023-43770-POC: A Proof-Of-Concept for the CVE-2023-43770 vulnerability. ",
-            "date_modified": "2023-09-29T15:27:51.000Z",
-            "date_published": "2023-09-27T17:08:23.000Z",
-            "author": {
-                "name": "s3cb0y",
-                "url": "https://github.com/s3cb0y"
             }
         }
     ]
