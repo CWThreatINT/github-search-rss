@@ -6,6 +6,17 @@
     "description": "CVE-2021 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/68342969?u=8a0e05c370a70b1143df28adc772e0370f77d602&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
+            "url": "https://github.com/navreet1425/CVE-2021-34621",
+            "title": "navreet1425/CVE-2021-34621",
+            "date_modified": "2023-09-30T14:36:58.000Z",
+            "date_published": "2023-09-30T14:36:58.000Z",
+            "author": {
+                "name": "navreet1425",
+                "url": "https://github.com/navreet1425"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/54280101?u=6c5859e9d05b81602ef9df73e2b18089080f90a2&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
             "url": "https://github.com/jytmX/CVE-2021-24499",
             "title": "jytmX/CVE-2021-24499",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "mutur4",
                 "url": "https://github.com/mutur4"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/68333318?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Log4j vulner testing environment based on CVE-2021-44228. It provide guidance to build the sample infrastructure and the exploit scripts. Supporting cooki3 script as the main exploit tools &amp; integration</div>",
-            "url": "https://github.com/hotpotcookie/CVE-2021-44228-white-box",
-            "title": "hotpotcookie/CVE-2021-44228-white-box: Log4j vulner testing environment based on CVE-2021-44228. It provide guidance to build the sample infrastructure and the exploit scripts. Supporting cooki3 script as the main exploit tools & integration",
-            "date_modified": "2023-04-24T13:24:14.000Z",
-            "date_published": "2022-02-12T11:19:41.000Z",
-            "author": {
-                "name": "hotpotcookie",
-                "url": "https://github.com/hotpotcookie"
             }
         }
     ]
