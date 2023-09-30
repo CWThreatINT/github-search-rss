@@ -6,21 +6,10 @@
     "description": "CVE-2023 FEED on GitHub",
     "items": [
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/18223385?u=5ba29c1a9447ae88a6a0433f44038f47471e11c1&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>TOP All bugbounty pentesting CVE-2023- POC Exp  RCE example payload  Things</div>",
-            "url": "https://github.com/hktalent/TOP",
-            "title": "hktalent/TOP: TOP All bugbounty pentesting CVE-2023- POC Exp  RCE example payload  Things",
-            "date_modified": "2023-09-29T11:12:32.000Z",
-            "date_published": "2022-03-19T01:54:15.000Z",
-            "author": {
-                "name": "hktalent",
-                "url": "https://github.com/hktalent"
-            }
-        },
-        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/135759201?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Mass Exploit -  CVE-2023-5074 / D-Link D-View &lt; Authentication Bypass</div>",
             "url": "https://github.com/codeb0ss/CVE-2023-5074-PoC",
             "title": "codeb0ss/CVE-2023-5074-PoC: Mass Exploit -  CVE-2023-5074 / D-Link D-View < Authentication Bypass",
-            "date_modified": "2023-09-30T00:07:53.000Z",
+            "date_modified": "2023-09-30T01:17:25.000Z",
             "date_published": "2023-09-30T00:07:52.000Z",
             "author": {
                 "name": "codeb0ss",
@@ -36,6 +25,17 @@
             "author": {
                 "name": "CVEProject",
                 "url": "https://github.com/CVEProject"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/18223385?u=5ba29c1a9447ae88a6a0433f44038f47471e11c1&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>TOP All bugbounty pentesting CVE-2023- POC Exp  RCE example payload  Things</div>",
+            "url": "https://github.com/hktalent/TOP",
+            "title": "hktalent/TOP: TOP All bugbounty pentesting CVE-2023- POC Exp  RCE example payload  Things",
+            "date_modified": "2023-09-29T11:12:32.000Z",
+            "date_published": "2022-03-19T01:54:15.000Z",
+            "author": {
+                "name": "hktalent",
+                "url": "https://github.com/hktalent"
             }
         },
         {
@@ -163,7 +163,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/42498816?u=08c4092e757fc2588b734e8e09e355493e9126e9&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>MS Office and Windows HTML RCE (CVE-2023-36884) - PoC and exploit</div>",
             "url": "https://github.com/jakabakos/CVE-2023-36884-MS-Office-HTML-RCE",
             "title": "jakabakos/CVE-2023-36884-MS-Office-HTML-RCE: MS Office and Windows HTML RCE (CVE-2023-36884) - PoC and exploit",
-            "date_modified": "2023-09-28T11:56:29.000Z",
+            "date_modified": "2023-09-30T01:03:22.000Z",
             "date_published": "2023-09-28T11:53:44.000Z",
             "author": {
                 "name": "jakabakos",
