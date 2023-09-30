@@ -6,6 +6,17 @@
     "description": "CVE-2021 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/57404930?u=15c8c306eb2a82d233cacd9ae77893665db1de24&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>一款针对Vcenter的综合利用工具，包含目前最主流的CVE-2021-21972、CVE-2021-21985以及CVE-2021-22005、One Access的CVE-2022-22954、CVE-2022-22972/31656以及log4j，提供一键上传webshell，命令执行或者上传公钥使用SSH免密连接</div>",
+            "url": "https://github.com/Schira4396/VcenterKiller",
+            "title": "Schira4396/VcenterKiller: 一款针对Vcenter的综合利用工具，包含目前最主流的CVE-2021-21972、CVE-2021-21985以及CVE-2021-22005、One Access的CVE-2022-22954、CVE-2022-22972/31656以及log4j，提供一键上传webshell，命令执行或者上传公钥使用SSH免密连接",
+            "date_modified": "2023-09-28T11:43:11.000Z",
+            "date_published": "2022-10-04T03:39:27.000Z",
+            "author": {
+                "name": "Schira4396",
+                "url": "https://github.com/Schira4396"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/68342969?u=8a0e05c370a70b1143df28adc772e0370f77d602&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
             "url": "https://github.com/navreet1425/CVE-2021-34621",
             "title": "navreet1425/CVE-2021-34621",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "tukru",
                 "url": "https://github.com/tukru"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/68686790?u=ed4d88445780adb05173d6f07d8ed85d9a62bd46&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
-            "url": "https://github.com/mutur4/CVE-2021-4034",
-            "title": "mutur4/CVE-2021-4034",
-            "date_modified": "2023-07-26T19:45:45.000Z",
-            "date_published": "2023-01-24T08:29:44.000Z",
-            "author": {
-                "name": "mutur4",
-                "url": "https://github.com/mutur4"
             }
         }
     ]
