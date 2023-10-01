@@ -6,6 +6,28 @@
     "description": "CVE-2023 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/70171?u=dce4d6ec36ae492161155db48b4b44bc5f44c8ca&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>eeroOS Ethernet Interface Denial of Service Vulnerability (CVE-2023-5324)</div>",
+            "url": "https://github.com/nomis/eero-zero-length-ipv6-options-header-dos",
+            "title": "nomis/eero-zero-length-ipv6-options-header-dos: eeroOS Ethernet Interface Denial of Service Vulnerability (CVE-2023-5324)",
+            "date_modified": "2023-10-01T08:04:08.000Z",
+            "date_published": "2023-09-30T20:32:51.000Z",
+            "author": {
+                "name": "nomis",
+                "url": "https://github.com/nomis"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/12781459?u=a4d346b749e3bb1d102e8aa990654767aca6a512&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2023-43261 - Credential Leakage Through Unprotected System Logs and Weak Password Encryption</div>",
+            "url": "https://github.com/win3zz/CVE-2023-43261",
+            "title": "win3zz/CVE-2023-43261: CVE-2023-43261 - Credential Leakage Through Unprotected System Logs and Weak Password Encryption",
+            "date_modified": "2023-10-01T07:51:34.000Z",
+            "date_published": "2023-09-28T08:45:55.000Z",
+            "author": {
+                "name": "win3zz",
+                "url": "https://github.com/win3zz"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/18195825?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023</div>",
             "url": "https://github.com/CVEProject/cvelist",
             "title": "CVEProject/cvelist: Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023",
@@ -20,7 +42,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/58529760?u=dcc0904607255da6b7dc5b7164263f4ca2e01a01&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
             "url": "https://github.com/LuemmelSec/CVE-2023-29357",
             "title": "LuemmelSec/CVE-2023-29357",
-            "date_modified": "2023-10-01T06:42:34.000Z",
+            "date_modified": "2023-10-01T07:20:41.000Z",
             "date_published": "2023-09-30T23:17:04.000Z",
             "author": {
                 "name": "LuemmelSec",
@@ -75,7 +97,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/135759201?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Mass Exploit -  CVE-2023-5074 / D-Link D-View &lt; Authentication Bypass</div>",
             "url": "https://github.com/codeb0ss/CVE-2023-5074-PoC",
             "title": "codeb0ss/CVE-2023-5074-PoC: Mass Exploit -  CVE-2023-5074 / D-Link D-View < Authentication Bypass",
-            "date_modified": "2023-09-30T01:17:25.000Z",
+            "date_modified": "2023-10-01T07:15:40.000Z",
             "date_published": "2023-09-30T00:07:52.000Z",
             "author": {
                 "name": "codeb0ss",
@@ -201,28 +223,6 @@
             "author": {
                 "name": "knight0x07",
                 "url": "https://github.com/knight0x07"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/42498816?u=08c4092e757fc2588b734e8e09e355493e9126e9&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>MS Office and Windows HTML RCE (CVE-2023-36884) - PoC and exploit</div>",
-            "url": "https://github.com/jakabakos/CVE-2023-36884-MS-Office-HTML-RCE",
-            "title": "jakabakos/CVE-2023-36884-MS-Office-HTML-RCE: MS Office and Windows HTML RCE (CVE-2023-36884) - PoC and exploit",
-            "date_modified": "2023-09-30T01:03:22.000Z",
-            "date_published": "2023-09-28T11:53:44.000Z",
-            "author": {
-                "name": "jakabakos",
-                "url": "https://github.com/jakabakos"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/41412951?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Spring-Kafka-Deserialization-Remote-Code-Execution</div>",
-            "url": "https://github.com/pyn3rd/CVE-2023-34040",
-            "title": "pyn3rd/CVE-2023-34040: Spring-Kafka-Deserialization-Remote-Code-Execution",
-            "date_modified": "2023-10-01T02:42:55.000Z",
-            "date_published": "2023-09-28T11:18:35.000Z",
-            "author": {
-                "name": "pyn3rd",
-                "url": "https://github.com/pyn3rd"
             }
         }
     ]
