@@ -6,14 +6,14 @@
     "description": "CVE-2023 FEED on GitHub",
     "items": [
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/18223385?u=5ba29c1a9447ae88a6a0433f44038f47471e11c1&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>TOP All bugbounty pentesting CVE-2023- POC Exp  RCE example payload  Things</div>",
-            "url": "https://github.com/hktalent/TOP",
-            "title": "hktalent/TOP: TOP All bugbounty pentesting CVE-2023- POC Exp  RCE example payload  Things",
-            "date_modified": "2023-09-29T11:12:32.000Z",
-            "date_published": "2022-03-19T01:54:15.000Z",
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/63145078?u=4a30fc84174b7da24691396f398f4422403e668d&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>ManageEngine ADManager Command Injection</div>",
+            "url": "https://github.com/PetrusViet/CVE-2023-38743",
+            "title": "PetrusViet/CVE-2023-38743: ManageEngine ADManager Command Injection",
+            "date_modified": "2023-10-02T02:14:23.000Z",
+            "date_published": "2023-10-02T02:14:23.000Z",
             "author": {
-                "name": "hktalent",
-                "url": "https://github.com/hktalent"
+                "name": "PetrusViet",
+                "url": "https://github.com/PetrusViet"
             }
         },
         {
@@ -25,6 +25,17 @@
             "author": {
                 "name": "CVEProject",
                 "url": "https://github.com/CVEProject"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/18223385?u=5ba29c1a9447ae88a6a0433f44038f47471e11c1&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>TOP All bugbounty pentesting CVE-2023- POC Exp  RCE example payload  Things</div>",
+            "url": "https://github.com/hktalent/TOP",
+            "title": "hktalent/TOP: TOP All bugbounty pentesting CVE-2023- POC Exp  RCE example payload  Things",
+            "date_modified": "2023-09-29T11:12:32.000Z",
+            "date_published": "2022-03-19T01:54:15.000Z",
+            "author": {
+                "name": "hktalent",
+                "url": "https://github.com/hktalent"
             }
         },
         {
@@ -212,17 +223,6 @@
             "author": {
                 "name": "h4m5t",
                 "url": "https://github.com/h4m5t"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/60843949?u=7320565057e3d6467bbaf0ead7698d5a935536ad&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>PoC for Stored XSS (CVE-2023-43770) Vulnerability</div>",
-            "url": "https://github.com/knight0x07/CVE-2023-43770-PoC",
-            "title": "knight0x07/CVE-2023-43770-PoC: PoC for Stored XSS (CVE-2023-43770) Vulnerability",
-            "date_modified": "2023-09-28T13:43:25.000Z",
-            "date_published": "2023-09-28T13:43:25.000Z",
-            "author": {
-                "name": "knight0x07",
-                "url": "https://github.com/knight0x07"
             }
         }
     ]
