@@ -6,17 +6,6 @@
     "description": "CVE-2023 FEED on GitHub",
     "items": [
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/69703097?u=d1c091a490a484ce00eec77ca870df74c2abf0ab&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Analysis of WS_FTP CVE</div>",
-            "url": "https://github.com/kenbuckler/WS_FTP-CVE-2023-40044",
-            "title": "kenbuckler/WS_FTP-CVE-2023-40044: Analysis of WS_FTP CVE",
-            "date_modified": "2023-10-02T14:55:39.000Z",
-            "date_published": "2023-10-02T14:55:38.000Z",
-            "author": {
-                "name": "kenbuckler",
-                "url": "https://github.com/kenbuckler"
-            }
-        },
-        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/18195825?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023</div>",
             "url": "https://github.com/CVEProject/cvelist",
             "title": "CVEProject/cvelist: Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023",
@@ -25,6 +14,28 @@
             "author": {
                 "name": "CVEProject",
                 "url": "https://github.com/CVEProject"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/129632649?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Public disclosure for CVE-2023-31584.</div>",
+            "url": "https://github.com/rootd4ddy/CVE-2023-43838",
+            "title": "rootd4ddy/CVE-2023-43838: Public disclosure for CVE-2023-31584.",
+            "date_modified": "2023-10-02T15:27:08.000Z",
+            "date_published": "2023-10-02T15:27:07.000Z",
+            "author": {
+                "name": "rootd4ddy",
+                "url": "https://github.com/rootd4ddy"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/69703097?u=d1c091a490a484ce00eec77ca870df74c2abf0ab&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Analysis of WS_FTP CVE</div>",
+            "url": "https://github.com/kenbuckler/WS_FTP-CVE-2023-40044",
+            "title": "kenbuckler/WS_FTP-CVE-2023-40044: Analysis of WS_FTP CVE",
+            "date_modified": "2023-10-02T14:55:39.000Z",
+            "date_published": "2023-10-02T14:55:38.000Z",
+            "author": {
+                "name": "kenbuckler",
+                "url": "https://github.com/kenbuckler"
             }
         },
         {
@@ -152,7 +163,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/135759201?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Mass Exploit -  CVE-2023-5074 / D-Link D-View &lt; Authentication Bypass</div>",
             "url": "https://github.com/codeb0ss/CVE-2023-5074-PoC",
             "title": "codeb0ss/CVE-2023-5074-PoC: Mass Exploit -  CVE-2023-5074 / D-Link D-View < Authentication Bypass",
-            "date_modified": "2023-10-02T12:44:58.000Z",
+            "date_modified": "2023-10-02T15:08:36.000Z",
             "date_published": "2023-09-30T00:07:52.000Z",
             "author": {
                 "name": "codeb0ss",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "ahrixia",
                 "url": "https://github.com/ahrixia"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/127287794?u=a735436fdb5041f2d66e326b5ba19fcf8d8770fb&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2023-42793</div>",
-            "url": "https://github.com/H454NSec/CVE-2023-42793",
-            "title": "H454NSec/CVE-2023-42793: CVE-2023-42793",
-            "date_modified": "2023-09-30T21:39:39.000Z",
-            "date_published": "2023-09-29T06:43:35.000Z",
-            "author": {
-                "name": "H454NSec",
-                "url": "https://github.com/H454NSec"
             }
         }
     ]
