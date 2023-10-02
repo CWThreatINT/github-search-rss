@@ -6,6 +6,17 @@
     "description": "CVE-2022 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/55438527?u=49faf4afcca847315713bc0f9d6f65b534c3bcc5&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>This the Best Cross-Border Fintech Solution of Fintech Olympiad 2022. Cverify provides a blockchain-based credit information system used in the education and employment industry to solve the problems of high cost and low efficiency when verifying the information of employees, which in turn promotes the flow of employees in Greater Bay Area.</div>",
+            "url": "https://github.com/LI-Jialu/CVerify_Fintech-Olympiad-2022",
+            "title": "LI-Jialu/CVerify_Fintech-Olympiad-2022: This the Best Cross-Border Fintech Solution of Fintech Olympiad 2022. Cverify provides a blockchain-based credit information system used in the education and employment industry to solve the problems of high cost and low efficiency when verifying the information of employees, which in turn promotes the flow of employees in Greater Bay Area.",
+            "date_modified": "2023-10-02T10:21:53.000Z",
+            "date_published": "2022-05-27T13:13:06.000Z",
+            "author": {
+                "name": "LI-Jialu",
+                "url": "https://github.com/LI-Jialu"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/79218792?u=f6b0f27134df6083787490cfcd2ccfdbd5eb70d6&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Proof of concept of CVE-2022-21907 Double Free in http.sys driver, triggering a kernel crash on IIS servers</div>",
             "url": "https://github.com/p0dalirius/CVE-2022-21907-http.sys",
             "title": "p0dalirius/CVE-2022-21907-http.sys: Proof of concept of CVE-2022-21907 Double Free in http.sys driver, triggering a kernel crash on IIS servers",
@@ -209,17 +220,6 @@
             "title": "im-hanzou/JBWPer: Automatic Mass Tool for check and exploiting vulnerability in CVE-2022-4061 - JobBoardWP < 1.2.2 - Unauthenticated Arbitrary File Upload",
             "date_modified": "2023-09-28T11:46:56.000Z",
             "date_published": "2023-09-17T03:20:23.000Z",
-            "author": {
-                "name": "im-hanzou",
-                "url": "https://github.com/im-hanzou"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/61415393?u=6d30d42d56d066e99acf1d4d1e7439b2fadc7228&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Automatic Mass Tool for checking vulnerability in CVE-2022-4060 - WordPress Plugin : User Post Gallery &lt;= 2.19 - Unauthenticated RCE</div>",
-            "url": "https://github.com/im-hanzou/UPGer",
-            "title": "im-hanzou/UPGer: Automatic Mass Tool for checking vulnerability in CVE-2022-4060 - WordPress Plugin : User Post Gallery <= 2.19 - Unauthenticated RCE",
-            "date_modified": "2023-09-28T11:46:56.000Z",
-            "date_published": "2023-09-15T21:38:47.000Z",
             "author": {
                 "name": "im-hanzou",
                 "url": "https://github.com/im-hanzou"
