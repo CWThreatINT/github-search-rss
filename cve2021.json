@@ -28,17 +28,6 @@
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/68342969?u=8a0e05c370a70b1143df28adc772e0370f77d602&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
-            "url": "https://github.com/navreet1425/CVE-2021-34621",
-            "title": "navreet1425/CVE-2021-34621",
-            "date_modified": "2023-09-30T14:36:58.000Z",
-            "date_published": "2023-09-30T14:36:58.000Z",
-            "author": {
-                "name": "navreet1425",
-                "url": "https://github.com/navreet1425"
-            }
-        },
-        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/54280101?u=6c5859e9d05b81602ef9df73e2b18089080f90a2&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
             "url": "https://github.com/jytmX/CVE-2021-24499",
             "title": "jytmX/CVE-2021-24499",
@@ -223,6 +212,17 @@
             "author": {
                 "name": "nidhi7598",
                 "url": "https://github.com/nidhi7598"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/17105451?u=6a03c16abeaa94d2177153b93e681fa837b90e2b&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>This repo hosts TUKRU's Linux Privilege Escalation exploit (CVE-2021-22555). It demonstrates gaining root privileges via a vulnerability. Tested on Ubuntu 5.8.0-48-generic and COS 5.4.89+. Use responsibly and ethically.</div>",
+            "url": "https://github.com/tukru/CVE-2021-22555",
+            "title": "tukru/CVE-2021-22555: This repo hosts TUKRU's Linux Privilege Escalation exploit (CVE-2021-22555). It demonstrates gaining root privileges via a vulnerability. Tested on Ubuntu 5.8.0-48-generic and COS 5.4.89+. Use responsibly and ethically.",
+            "date_modified": "2023-09-07T10:03:18.000Z",
+            "date_published": "2023-08-05T18:56:18.000Z",
+            "author": {
+                "name": "tukru",
+                "url": "https://github.com/tukru"
             }
         }
     ]

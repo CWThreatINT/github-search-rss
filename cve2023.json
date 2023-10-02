@@ -50,6 +50,17 @@
             }
         },
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/102041143?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A tool that checks if a TorchServe instance is vulnerable to CVE-2023-43654</div>",
+            "url": "https://github.com/OligoCyberSecurity/ShellTorchChecker",
+            "title": "OligoCyberSecurity/ShellTorchChecker: A tool that checks if a TorchServe instance is vulnerable to CVE-2023-43654",
+            "date_modified": "2023-10-02T16:59:50.000Z",
+            "date_published": "2023-10-02T11:33:37.000Z",
+            "author": {
+                "name": "OligoCyberSecurity",
+                "url": "https://github.com/OligoCyberSecurity"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/130039321?u=01367c8710f0df7c26651d6a2469cd0f91805d8a&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>recreating exp for cve-2023-21768.</div>",
             "url": "https://github.com/Rosayxy/Recreate-cve-2023-21768",
             "title": "Rosayxy/Recreate-cve-2023-21768: recreating exp for cve-2023-21768.",
@@ -97,7 +108,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/12781459?u=a4d346b749e3bb1d102e8aa990654767aca6a512&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2023-43261 - Credential Leakage Through Unprotected System Logs and Weak Password Encryption</div>",
             "url": "https://github.com/win3zz/CVE-2023-43261",
             "title": "win3zz/CVE-2023-43261: CVE-2023-43261 - Credential Leakage Through Unprotected System Logs and Weak Password Encryption",
-            "date_modified": "2023-10-02T15:02:23.000Z",
+            "date_modified": "2023-10-02T16:30:18.000Z",
             "date_published": "2023-09-28T08:45:55.000Z",
             "author": {
                 "name": "win3zz",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "skulkarni-mv",
                 "url": "https://github.com/skulkarni-mv"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/35935843?u=ea29b53d5a9590084396a4f39a8e7dabc7c60903&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>mooSocial v3.1.8 is vulnerable to cross-site scripting on user login function.</div>",
-            "url": "https://github.com/ahrixia/CVE-2023-43325",
-            "title": "ahrixia/CVE-2023-43325: mooSocial v3.1.8 is vulnerable to cross-site scripting on user login function.",
-            "date_modified": "2023-09-29T14:53:18.000Z",
-            "date_published": "2023-09-16T01:05:16.000Z",
-            "author": {
-                "name": "ahrixia",
-                "url": "https://github.com/ahrixia"
             }
         }
     ]
