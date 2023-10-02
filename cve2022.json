@@ -6,6 +6,17 @@
     "description": "CVE-2022 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/79218792?u=f6b0f27134df6083787490cfcd2ccfdbd5eb70d6&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Proof of concept of CVE-2022-21907 Double Free in http.sys driver, triggering a kernel crash on IIS servers</div>",
+            "url": "https://github.com/p0dalirius/CVE-2022-21907-http.sys",
+            "title": "p0dalirius/CVE-2022-21907-http.sys: Proof of concept of CVE-2022-21907 Double Free in http.sys driver, triggering a kernel crash on IIS servers",
+            "date_modified": "2023-09-28T11:35:08.000Z",
+            "date_published": "2022-01-17T15:42:37.000Z",
+            "author": {
+                "name": "p0dalirius",
+                "url": "https://github.com/p0dalirius"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/146405672?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
             "url": "https://github.com/0range1337/CVE-2022-1015",
             "title": "0range1337/CVE-2022-1015",
@@ -209,17 +220,6 @@
             "title": "im-hanzou/UPGer: Automatic Mass Tool for checking vulnerability in CVE-2022-4060 - WordPress Plugin : User Post Gallery <= 2.19 - Unauthenticated RCE",
             "date_modified": "2023-09-28T11:46:56.000Z",
             "date_published": "2023-09-15T21:38:47.000Z",
-            "author": {
-                "name": "im-hanzou",
-                "url": "https://github.com/im-hanzou"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/61415393?u=6d30d42d56d066e99acf1d4d1e7439b2fadc7228&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Automatic Mass Tool for checking vulnerability in CVE-2022-4063 - InPost Gallery &lt; 2.1.4.1 - Unauthenticated LFI to RCE</div>",
-            "url": "https://github.com/im-hanzou/INPGer",
-            "title": "im-hanzou/INPGer: Automatic Mass Tool for checking vulnerability in CVE-2022-4063 - InPost Gallery < 2.1.4.1 - Unauthenticated LFI to RCE",
-            "date_modified": "2023-09-23T08:46:35.000Z",
-            "date_published": "2023-09-11T20:01:04.000Z",
             "author": {
                 "name": "im-hanzou",
                 "url": "https://github.com/im-hanzou"
