@@ -17,10 +17,21 @@
             }
         },
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/54555784?u=f960c49a3ee72114f354da6613c158e955d42514&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Description and exploit of CVE-2023-33831 affecting FUXA web-based Process Visualization (SCADA/HMI/Dashboard) software.</div>",
+            "url": "https://github.com/rodolfomarianocy/Unauthenticated-RCE-FUXA-CVE-2023-33831",
+            "title": "rodolfomarianocy/Unauthenticated-RCE-FUXA-CVE-2023-33831: Description and exploit of CVE-2023-33831 affecting FUXA web-based Process Visualization (SCADA/HMI/Dashboard) software.",
+            "date_modified": "2023-10-02T13:14:42.000Z",
+            "date_published": "2023-09-03T19:25:15.000Z",
+            "author": {
+                "name": "rodolfomarianocy",
+                "url": "https://github.com/rodolfomarianocy"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/130039321?u=01367c8710f0df7c26651d6a2469cd0f91805d8a&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>recreating exp for cve-2023-21768.</div>",
             "url": "https://github.com/Rosayxy/Recreate-cve-2023-21768",
             "title": "Rosayxy/Recreate-cve-2023-21768: recreating exp for cve-2023-21768.",
-            "date_modified": "2023-10-02T12:09:42.000Z",
+            "date_modified": "2023-10-02T13:58:53.000Z",
             "date_published": "2023-10-02T11:36:49.000Z",
             "author": {
                 "name": "Rosayxy",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "zaenhaxor",
                 "url": "https://github.com/zaenhaxor"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/24635345?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Scans an executable and determines if it was wrapped in an Electron version vulnerable to the Chromium vulnerability CVE-2023-4863/ CVE-2023-5129</div>",
-            "url": "https://github.com/OITApps/Find-VulnerableElectronVersion",
-            "title": "OITApps/Find-VulnerableElectronVersion: Scans an executable and determines if it was wrapped in an Electron version vulnerable to the Chromium vulnerability CVE-2023-4863/ CVE-2023-5129",
-            "date_modified": "2023-09-29T01:43:59.000Z",
-            "date_published": "2023-09-29T00:42:37.000Z",
-            "author": {
-                "name": "OITApps",
-                "url": "https://github.com/OITApps"
             }
         }
     ]
