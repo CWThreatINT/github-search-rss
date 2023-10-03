@@ -94,6 +94,17 @@
             }
         },
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/43054353?u=3ff6d666564962ba5197afec5258f5ac043d9f32&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A Proof-Of-Concept for the CVE-2023-43770 vulnerability. </div>",
+            "url": "https://github.com/s3cb0y/CVE-2023-43770-POC",
+            "title": "s3cb0y/CVE-2023-43770-POC: A Proof-Of-Concept for the CVE-2023-43770 vulnerability. ",
+            "date_modified": "2023-10-03T16:33:09.000Z",
+            "date_published": "2023-09-27T17:08:23.000Z",
+            "author": {
+                "name": "s3cb0y",
+                "url": "https://github.com/s3cb0y"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/129632649?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Public disclosure for CVE-2023-31584.</div>",
             "url": "https://github.com/rootd4ddy/CVE-2023-43838",
             "title": "rootd4ddy/CVE-2023-43838: Public disclosure for CVE-2023-31584.",
@@ -163,7 +174,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/12781459?u=a4d346b749e3bb1d102e8aa990654767aca6a512&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2023-43261 - Credential Leakage Through Unprotected System Logs and Weak Password Encryption</div>",
             "url": "https://github.com/win3zz/CVE-2023-43261",
             "title": "win3zz/CVE-2023-43261: CVE-2023-43261 - Credential Leakage Through Unprotected System Logs and Weak Password Encryption",
-            "date_modified": "2023-10-03T14:10:30.000Z",
+            "date_modified": "2023-10-03T16:19:00.000Z",
             "date_published": "2023-09-28T08:45:55.000Z",
             "author": {
                 "name": "win3zz",
@@ -185,7 +196,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/58529760?u=dcc0904607255da6b7dc5b7164263f4ca2e01a01&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
             "url": "https://github.com/LuemmelSec/CVE-2023-29357",
             "title": "LuemmelSec/CVE-2023-29357",
-            "date_modified": "2023-10-03T15:01:37.000Z",
+            "date_modified": "2023-10-03T16:16:41.000Z",
             "date_published": "2023-09-30T23:17:04.000Z",
             "author": {
                 "name": "LuemmelSec",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "GTGalaxi",
                 "url": "https://github.com/GTGalaxi"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/106753458?u=0082fe79e8ee4ad034702aec060c28f68d656b60&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Explore CVE 2023-30845 automatically across multiple subdomains</div>",
-            "url": "https://github.com/himori123/-CVE-2023-30845",
-            "title": "himori123/-CVE-2023-30845: Explore CVE 2023-30845 automatically across multiple subdomains",
-            "date_modified": "2023-09-30T07:19:50.000Z",
-            "date_published": "2023-09-22T01:14:20.000Z",
-            "author": {
-                "name": "himori123",
-                "url": "https://github.com/himori123"
             }
         }
     ]
