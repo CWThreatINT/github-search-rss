@@ -17,6 +17,17 @@
             }
         },
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/9108334?u=c204a367c53d53c7431717eb05b32f5576fddf8c&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A proof-of-concept for (CVE-2023-38840) that extracts plaintext master passwords from a locked Bitwarden vault.</div>",
+            "url": "https://github.com/markuta/bw-dump",
+            "title": "markuta/bw-dump: A proof-of-concept for (CVE-2023-38840) that extracts plaintext master passwords from a locked Bitwarden vault.",
+            "date_modified": "2023-10-03T18:37:54.000Z",
+            "date_published": "2022-09-18T21:03:07.000Z",
+            "author": {
+                "name": "markuta",
+                "url": "https://github.com/markuta"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/2368573?u=98a9707baeb35b710ffae737834f6910389a1c8e&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Elasticsearch DoS CVE-2023-31419 exploit</div>",
             "url": "https://github.com/u238/Elasticsearch-CVE-2023-31419",
             "title": "u238/Elasticsearch-CVE-2023-31419: Elasticsearch DoS CVE-2023-31419 exploit",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "simrotion13",
                 "url": "https://github.com/simrotion13"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/10473238?u=3dca484829b8c63f8e45f9ee9025982b7acbd8db&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Find Electron Apps Vulnerable to CVE-2023-4863 / CVE-2023-5129</div>",
-            "url": "https://github.com/GTGalaxi/ElectronVulnerableVersion",
-            "title": "GTGalaxi/ElectronVulnerableVersion: Find Electron Apps Vulnerable to CVE-2023-4863 / CVE-2023-5129",
-            "date_modified": "2023-09-30T11:08:26.000Z",
-            "date_published": "2023-09-30T02:47:16.000Z",
-            "author": {
-                "name": "GTGalaxi",
-                "url": "https://github.com/GTGalaxi"
             }
         }
     ]
