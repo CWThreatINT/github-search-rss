@@ -6,6 +6,17 @@
     "description": "CVE-2022 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/55656379?u=4672d7728b411c188ffc677cb9f8d3378756a2c3&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Checker for CVE-2022-0441</div>",
+            "url": "https://github.com/kyukazamiqq/CVE-2022-0441",
+            "title": "kyukazamiqq/CVE-2022-0441: Checker for CVE-2022-0441",
+            "date_modified": "2023-10-03T07:09:30.000Z",
+            "date_published": "2023-10-03T07:07:40.000Z",
+            "author": {
+                "name": "kyukazamiqq",
+                "url": "https://github.com/kyukazamiqq"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/85838827?u=853f6885fc0f425af71a5eade7a78ffb4d763446&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2022-24716 | Arbitrary File Disclosure Icingaweb2</div>",
             "url": "https://github.com/joaoviictorti/CVE-2022-24716",
             "title": "joaoviictorti/CVE-2022-24716: CVE-2022-24716 | Arbitrary File Disclosure Icingaweb2",
@@ -141,7 +152,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/12976017?u=6d3d423fda6a56643a0ca1acae5223cdf08a3c28&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>User can execute unsigned binaries with BootROM privileges, which can be used to unlock bootloader</div>",
             "url": "https://github.com/TomKing062/CVE-2022-38694_unlock_bootloader",
             "title": "TomKing062/CVE-2022-38694_unlock_bootloader: User can execute unsigned binaries with BootROM privileges, which can be used to unlock bootloader",
-            "date_modified": "2023-09-26T01:16:25.000Z",
+            "date_modified": "2023-10-03T07:07:32.000Z",
             "date_published": "2023-06-10T08:31:26.000Z",
             "author": {
                 "name": "TomKing062",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "asahilina",
                 "url": "https://github.com/asahilina"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/50790111?u=873f091a416baae37b1cb1a8f4096f10ccc198d3&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE: CVE-2022-0847</div>",
-            "url": "https://github.com/pashayogi/DirtyPipe",
-            "title": "pashayogi/DirtyPipe: CVE: CVE-2022-0847",
-            "date_modified": "2023-09-17T12:43:53.000Z",
-            "date_published": "2023-09-17T12:43:52.000Z",
-            "author": {
-                "name": "pashayogi",
-                "url": "https://github.com/pashayogi"
             }
         }
     ]
