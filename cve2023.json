@@ -17,6 +17,17 @@
             }
         },
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/2368573?u=98a9707baeb35b710ffae737834f6910389a1c8e&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Elasticsearch DoS CVE-2023-31419 exploit</div>",
+            "url": "https://github.com/u238/Elasticsearch-CVE-2023-31419",
+            "title": "u238/Elasticsearch-CVE-2023-31419: Elasticsearch DoS CVE-2023-31419 exploit",
+            "date_modified": "2023-10-03T13:57:41.000Z",
+            "date_published": "2023-10-03T13:51:37.000Z",
+            "author": {
+                "name": "u238",
+                "url": "https://github.com/u238"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/102574296?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
             "url": "https://github.com/Trinadh465/platform_frameworks_base_CVE-2023-20918",
             "title": "Trinadh465/platform_frameworks_base_CVE-2023-20918",
@@ -152,7 +163,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/12781459?u=a4d346b749e3bb1d102e8aa990654767aca6a512&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2023-43261 - Credential Leakage Through Unprotected System Logs and Weak Password Encryption</div>",
             "url": "https://github.com/win3zz/CVE-2023-43261",
             "title": "win3zz/CVE-2023-43261: CVE-2023-43261 - Credential Leakage Through Unprotected System Logs and Weak Password Encryption",
-            "date_modified": "2023-10-03T10:14:51.000Z",
+            "date_modified": "2023-10-03T13:45:17.000Z",
             "date_published": "2023-09-28T08:45:55.000Z",
             "author": {
                 "name": "win3zz",
@@ -174,7 +185,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/58529760?u=dcc0904607255da6b7dc5b7164263f4ca2e01a01&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
             "url": "https://github.com/LuemmelSec/CVE-2023-29357",
             "title": "LuemmelSec/CVE-2023-29357",
-            "date_modified": "2023-10-03T11:55:44.000Z",
+            "date_modified": "2023-10-03T13:17:18.000Z",
             "date_published": "2023-09-30T23:17:04.000Z",
             "author": {
                 "name": "LuemmelSec",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "himori123",
                 "url": "https://github.com/himori123"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/135759201?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Mass Exploit -  CVE-2023-5074 / D-Link D-View &lt; Authentication Bypass</div>",
-            "url": "https://github.com/codeb0ss/CVE-2023-5074-PoC",
-            "title": "codeb0ss/CVE-2023-5074-PoC: Mass Exploit -  CVE-2023-5074 / D-Link D-View < Authentication Bypass",
-            "date_modified": "2023-10-03T05:14:50.000Z",
-            "date_published": "2023-09-30T00:07:52.000Z",
-            "author": {
-                "name": "codeb0ss",
-                "url": "https://github.com/codeb0ss"
             }
         }
     ]
