@@ -18,9 +18,31 @@
         },
         {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/102574296?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
+            "url": "https://github.com/Trinadh465/platform_frameworks_base_CVE-2023-20918",
+            "title": "Trinadh465/platform_frameworks_base_CVE-2023-20918",
+            "date_modified": "2023-10-03T11:59:03.000Z",
+            "date_published": "2023-10-03T11:52:16.000Z",
+            "author": {
+                "name": "Trinadh465",
+                "url": "https://github.com/Trinadh465"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/97434034?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
+            "url": "https://github.com/pazhanivel07/platform_frameworks_base_AOSP_10_r33_CVE-2023-20918",
+            "title": "pazhanivel07/platform_frameworks_base_AOSP_10_r33_CVE-2023-20918",
+            "date_modified": "2023-10-03T11:29:10.000Z",
+            "date_published": "2023-10-03T11:21:35.000Z",
+            "author": {
+                "name": "pazhanivel07",
+                "url": "https://github.com/pazhanivel07"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/102574296?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
             "url": "https://github.com/Trinadh465/platform_frameworks_base_CVE-2023-21286",
             "title": "Trinadh465/platform_frameworks_base_CVE-2023-21286",
-            "date_modified": "2023-10-03T10:58:51.000Z",
+            "date_modified": "2023-10-03T11:06:54.000Z",
             "date_published": "2023-10-03T10:58:51.000Z",
             "author": {
                 "name": "Trinadh465",
@@ -152,7 +174,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/58529760?u=dcc0904607255da6b7dc5b7164263f4ca2e01a01&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
             "url": "https://github.com/LuemmelSec/CVE-2023-29357",
             "title": "LuemmelSec/CVE-2023-29357",
-            "date_modified": "2023-10-03T08:23:32.000Z",
+            "date_modified": "2023-10-03T11:55:44.000Z",
             "date_published": "2023-09-30T23:17:04.000Z",
             "author": {
                 "name": "LuemmelSec",
@@ -201,28 +223,6 @@
             "author": {
                 "name": "codeb0ss",
                 "url": "https://github.com/codeb0ss"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/109672288?u=4eabf95c02ea477e984b6a7e3ff96ec15fd9ab1c&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Telnet default credentials can lead to information disclosure and denial-of-service (DoS) attacks.</div>",
-            "url": "https://github.com/Hamza0X/CVE-2023-37073",
-            "title": "Hamza0X/CVE-2023-37073: Telnet default credentials can lead to information disclosure and denial-of-service (DoS) attacks.",
-            "date_modified": "2023-09-28T19:26:34.000Z",
-            "date_published": "2023-09-28T19:26:33.000Z",
-            "author": {
-                "name": "Hamza0X",
-                "url": "https://github.com/Hamza0X"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/67969701?u=34a6622329508daf0120e8101987cfcf228fa29c&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A small write-up with examples to understand CVE-2023-43115</div>",
-            "url": "https://github.com/jostaub/ghostscript-CVE-2023-43115",
-            "title": "jostaub/ghostscript-CVE-2023-43115: A small write-up with examples to understand CVE-2023-43115",
-            "date_modified": "2023-09-28T21:31:28.000Z",
-            "date_published": "2023-09-28T17:30:06.000Z",
-            "author": {
-                "name": "jostaub",
-                "url": "https://github.com/jostaub"
             }
         }
     ]
