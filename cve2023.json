@@ -6,6 +6,17 @@
     "description": "CVE-2023 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/58372700?u=72d8064914f7ced05621a9430a871ee9665a925f&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div><a href=\"https://www.qualys.com/2023/10/03/cve-2023-4911/looney-tunables-local-privilege-escalation-glibc-ld-so.txt\" rel=\"nofollow\">https://www.qualys.com/2023/10/03/cve-2023-4911/looney-tunables-local-privilege-escalation-glibc-ld-so.txt</a></div>",
+            "url": "https://github.com/Green-Avocado/CVE-2023-4911-PoC",
+            "title": "Green-Avocado/CVE-2023-4911-PoC: https://www.qualys.com/2023/10/03/cve-2023-4911/looney-tunables-local-privilege-escalation-glibc-ld-so.txt",
+            "date_modified": "2023-10-04T12:01:04.000Z",
+            "date_published": "2023-10-04T11:58:58.000Z",
+            "author": {
+                "name": "Green-Avocado",
+                "url": "https://github.com/Green-Avocado"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/18195825?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023</div>",
             "url": "https://github.com/CVEProject/cvelist",
             "title": "CVEProject/cvelist: Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "Rosayxy",
                 "url": "https://github.com/Rosayxy"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/132987956?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2023-36845 PoC script automates the PoC for CVE-2023-36845 targeting Juniper Networks Junos OS's J-Web component on EX and SRX Series devices. It exploits a PHP flaw, allowing remote modification of the PHPRC variable. Successful exploitation can lead to code injection and execution.</div>",
-            "url": "https://github.com/cyberh3als/CVE-2023-36845-POC",
-            "title": "cyberh3als/CVE-2023-36845-POC: CVE-2023-36845 PoC script automates the PoC for CVE-2023-36845 targeting Juniper Networks Junos OS's J-Web component on EX and SRX Series devices. It exploits a PHP flaw, allowing remote modification of the PHPRC variable. Successful exploitation can lead to code injection and execution.",
-            "date_modified": "2023-10-02T06:33:48.000Z",
-            "date_published": "2023-10-02T06:28:07.000Z",
-            "author": {
-                "name": "cyberh3als",
-                "url": "https://github.com/cyberh3als"
             }
         }
     ]
