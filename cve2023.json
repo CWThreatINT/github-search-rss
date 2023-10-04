@@ -17,6 +17,17 @@
             }
         },
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/17825906?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>PoC for CVE-2023-4911</div>",
+            "url": "https://github.com/leesh3288/CVE-2023-4911",
+            "title": "leesh3288/CVE-2023-4911: PoC for CVE-2023-4911",
+            "date_modified": "2023-10-04T15:05:47.000Z",
+            "date_published": "2023-10-04T14:12:16.000Z",
+            "author": {
+                "name": "leesh3288",
+                "url": "https://github.com/leesh3288"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/45717435?u=3751301d29ab4b5de43786ea0427a1e7f30c879f&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>DLink DIR-846 Authenticated Remote Code Execution</div>",
             "url": "https://github.com/MateusTesser/CVE-2023-43284",
             "title": "MateusTesser/CVE-2023-43284: DLink DIR-846 Authenticated Remote Code Execution",
@@ -31,7 +42,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/58372700?u=72d8064914f7ced05621a9430a871ee9665a925f&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div><a href=\"https://www.qualys.com/2023/10/03/cve-2023-4911/looney-tunables-local-privilege-escalation-glibc-ld-so.txt\" rel=\"nofollow\">https://www.qualys.com/2023/10/03/cve-2023-4911/looney-tunables-local-privilege-escalation-glibc-ld-so.txt</a></div>",
             "url": "https://github.com/Green-Avocado/CVE-2023-4911-PoC",
             "title": "Green-Avocado/CVE-2023-4911-PoC: https://www.qualys.com/2023/10/03/cve-2023-4911/looney-tunables-local-privilege-escalation-glibc-ld-so.txt",
-            "date_modified": "2023-10-04T13:58:23.000Z",
+            "date_modified": "2023-10-04T14:28:23.000Z",
             "date_published": "2023-10-04T11:58:58.000Z",
             "author": {
                 "name": "Green-Avocado",
@@ -135,17 +146,6 @@
             "author": {
                 "name": "u238",
                 "url": "https://github.com/u238"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/102574296?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
-            "url": "https://github.com/Trinadh465/platform_frameworks_base_CVE-2023-20918",
-            "title": "Trinadh465/platform_frameworks_base_CVE-2023-20918",
-            "date_modified": "2023-10-03T11:59:03.000Z",
-            "date_published": "2023-10-03T11:52:16.000Z",
-            "author": {
-                "name": "Trinadh465",
-                "url": "https://github.com/Trinadh465"
             }
         },
         {
