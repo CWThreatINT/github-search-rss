@@ -6,17 +6,6 @@
     "description": "CVE-2023 FEED on GitHub",
     "items": [
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/45717435?u=3751301d29ab4b5de43786ea0427a1e7f30c879f&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>DLink DIR-846 Authenticated Remote Code Execution</div>",
-            "url": "https://github.com/MateusTesser/CVE-2023-43284",
-            "title": "MateusTesser/CVE-2023-43284: DLink DIR-846 Authenticated Remote Code Execution",
-            "date_modified": "2023-10-04T13:07:37.000Z",
-            "date_published": "2023-10-04T13:07:37.000Z",
-            "author": {
-                "name": "MateusTesser",
-                "url": "https://github.com/MateusTesser"
-            }
-        },
-        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/18195825?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023</div>",
             "url": "https://github.com/CVEProject/cvelist",
             "title": "CVEProject/cvelist: Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023",
@@ -28,10 +17,21 @@
             }
         },
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/45717435?u=3751301d29ab4b5de43786ea0427a1e7f30c879f&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>DLink DIR-846 Authenticated Remote Code Execution</div>",
+            "url": "https://github.com/MateusTesser/CVE-2023-43284",
+            "title": "MateusTesser/CVE-2023-43284: DLink DIR-846 Authenticated Remote Code Execution",
+            "date_modified": "2023-10-04T13:32:03.000Z",
+            "date_published": "2023-10-04T13:07:37.000Z",
+            "author": {
+                "name": "MateusTesser",
+                "url": "https://github.com/MateusTesser"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/58372700?u=72d8064914f7ced05621a9430a871ee9665a925f&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div><a href=\"https://www.qualys.com/2023/10/03/cve-2023-4911/looney-tunables-local-privilege-escalation-glibc-ld-so.txt\" rel=\"nofollow\">https://www.qualys.com/2023/10/03/cve-2023-4911/looney-tunables-local-privilege-escalation-glibc-ld-so.txt</a></div>",
             "url": "https://github.com/Green-Avocado/CVE-2023-4911-PoC",
             "title": "Green-Avocado/CVE-2023-4911-PoC: https://www.qualys.com/2023/10/03/cve-2023-4911/looney-tunables-local-privilege-escalation-glibc-ld-so.txt",
-            "date_modified": "2023-10-04T12:01:04.000Z",
+            "date_modified": "2023-10-04T13:58:23.000Z",
             "date_published": "2023-10-04T11:58:58.000Z",
             "author": {
                 "name": "Green-Avocado",
