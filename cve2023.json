@@ -6,14 +6,25 @@
     "description": "CVE-2023 FEED on GitHub",
     "items": [
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/18223385?u=5ba29c1a9447ae88a6a0433f44038f47471e11c1&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>TOP All bugbounty pentesting CVE-2023- POC Exp  RCE example payload  Things</div>",
-            "url": "https://github.com/hktalent/TOP",
-            "title": "hktalent/TOP: TOP All bugbounty pentesting CVE-2023- POC Exp  RCE example payload  Things",
-            "date_modified": "2023-09-29T11:12:32.000Z",
-            "date_published": "2022-03-19T01:54:15.000Z",
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/135759201?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2023-25573 - Metersphere &lt; Arbitrary File Read</div>",
+            "url": "https://github.com/codeb0ss/CVE-2023-25573-PoC",
+            "title": "codeb0ss/CVE-2023-25573-PoC: CVE-2023-25573 - Metersphere < Arbitrary File Read",
+            "date_modified": "2023-10-04T01:34:47.000Z",
+            "date_published": "2023-10-04T01:33:30.000Z",
             "author": {
-                "name": "hktalent",
-                "url": "https://github.com/hktalent"
+                "name": "codeb0ss",
+                "url": "https://github.com/codeb0ss"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/135759201?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2023-33831 - FUXA &lt; Unauthenticated Remote Code Execution [RCE]</div>",
+            "url": "https://github.com/codeb0ss/CVE-2023-33831-PoC",
+            "title": "codeb0ss/CVE-2023-33831-PoC: CVE-2023-33831 - FUXA < Unauthenticated Remote Code Execution [RCE]",
+            "date_modified": "2023-10-04T01:16:12.000Z",
+            "date_published": "2023-10-04T01:12:10.000Z",
+            "author": {
+                "name": "codeb0ss",
+                "url": "https://github.com/codeb0ss"
             }
         },
         {
@@ -25,6 +36,17 @@
             "author": {
                 "name": "CVEProject",
                 "url": "https://github.com/CVEProject"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/18223385?u=5ba29c1a9447ae88a6a0433f44038f47471e11c1&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>TOP All bugbounty pentesting CVE-2023- POC Exp  RCE example payload  Things</div>",
+            "url": "https://github.com/hktalent/TOP",
+            "title": "hktalent/TOP: TOP All bugbounty pentesting CVE-2023- POC Exp  RCE example payload  Things",
+            "date_modified": "2023-09-29T11:12:32.000Z",
+            "date_published": "2022-03-19T01:54:15.000Z",
+            "author": {
+                "name": "hktalent",
+                "url": "https://github.com/hktalent"
             }
         },
         {
@@ -201,28 +223,6 @@
             "author": {
                 "name": "nomis",
                 "url": "https://github.com/nomis"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/58529760?u=dcc0904607255da6b7dc5b7164263f4ca2e01a01&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
-            "url": "https://github.com/LuemmelSec/CVE-2023-29357",
-            "title": "LuemmelSec/CVE-2023-29357",
-            "date_modified": "2023-10-03T21:56:54.000Z",
-            "date_published": "2023-09-30T23:17:04.000Z",
-            "author": {
-                "name": "LuemmelSec",
-                "url": "https://github.com/LuemmelSec"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/29673625?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
-            "url": "https://github.com/simrotion13/CVE-2023-36845",
-            "title": "simrotion13/CVE-2023-36845",
-            "date_modified": "2023-10-01T03:41:41.000Z",
-            "date_published": "2023-10-01T03:41:40.000Z",
-            "author": {
-                "name": "simrotion13",
-                "url": "https://github.com/simrotion13"
             }
         }
     ]
