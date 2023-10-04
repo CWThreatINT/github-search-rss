@@ -17,10 +17,21 @@
             }
         },
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/29239050?u=7753b8fe4ba29c7ef718d64c9e0da3d0c30b4c42&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2023-4911 proof of concept</div>",
+            "url": "https://github.com/RickdeJager/CVE-2023-4911",
+            "title": "RickdeJager/CVE-2023-4911: CVE-2023-4911 proof of concept",
+            "date_modified": "2023-10-04T16:56:44.000Z",
+            "date_published": "2023-10-04T14:32:49.000Z",
+            "author": {
+                "name": "RickdeJager",
+                "url": "https://github.com/RickdeJager"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/17825906?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>PoC for CVE-2023-4911</div>",
             "url": "https://github.com/leesh3288/CVE-2023-4911",
             "title": "leesh3288/CVE-2023-4911: PoC for CVE-2023-4911",
-            "date_modified": "2023-10-04T15:24:15.000Z",
+            "date_modified": "2023-10-04T16:51:53.000Z",
             "date_published": "2023-10-04T14:12:16.000Z",
             "author": {
                 "name": "leesh3288",
@@ -42,7 +53,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/58372700?u=72d8064914f7ced05621a9430a871ee9665a925f&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div><a href=\"https://www.qualys.com/2023/10/03/cve-2023-4911/looney-tunables-local-privilege-escalation-glibc-ld-so.txt\" rel=\"nofollow\">https://www.qualys.com/2023/10/03/cve-2023-4911/looney-tunables-local-privilege-escalation-glibc-ld-so.txt</a></div>",
             "url": "https://github.com/Green-Avocado/CVE-2023-4911-PoC",
             "title": "Green-Avocado/CVE-2023-4911-PoC: https://www.qualys.com/2023/10/03/cve-2023-4911/looney-tunables-local-privilege-escalation-glibc-ld-so.txt",
-            "date_modified": "2023-10-04T14:28:23.000Z",
+            "date_modified": "2023-10-04T17:01:28.000Z",
             "date_published": "2023-10-04T11:58:58.000Z",
             "author": {
                 "name": "Green-Avocado",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "s3cb0y",
                 "url": "https://github.com/s3cb0y"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/129632649?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Public disclosure for CVE-2023-31584.</div>",
-            "url": "https://github.com/rootd4ddy/CVE-2023-43838",
-            "title": "rootd4ddy/CVE-2023-43838: Public disclosure for CVE-2023-31584.",
-            "date_modified": "2023-10-02T15:27:08.000Z",
-            "date_published": "2023-10-02T15:27:07.000Z",
-            "author": {
-                "name": "rootd4ddy",
-                "url": "https://github.com/rootd4ddy"
             }
         }
     ]
