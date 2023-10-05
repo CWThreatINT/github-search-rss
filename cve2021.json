@@ -6,6 +6,17 @@
     "description": "CVE-2021 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/85202889?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Found multiple XSS vulnerabilities within PhoenixCart 1.0.8.0</div>",
+            "url": "https://github.com/W4RCL0UD/CVE-2021-39475",
+            "title": "W4RCL0UD/CVE-2021-39475: Found multiple XSS vulnerabilities within PhoenixCart 1.0.8.0",
+            "date_modified": "2023-10-05T15:39:05.000Z",
+            "date_published": "2021-08-19T18:03:40.000Z",
+            "author": {
+                "name": "W4RCL0UD",
+                "url": "https://github.com/W4RCL0UD"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/60771253?u=468fdb9d01b7b40cb299e163ac77f52811eecef2&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2021-3060</div>",
             "url": "https://github.com/anmolksachan/CVE-2021-3060",
             "title": "anmolksachan/CVE-2021-3060: CVE-2021-3060",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "koztkozt",
                 "url": "https://github.com/koztkozt"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/106973537?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
-            "url": "https://github.com/nidhi7598/OPENSSL_1.1.1g_CVE-2021-23841",
-            "title": "nidhi7598/OPENSSL_1.1.1g_CVE-2021-23841",
-            "date_modified": "2023-09-08T09:34:17.000Z",
-            "date_published": "2023-09-08T09:32:30.000Z",
-            "author": {
-                "name": "nidhi7598",
-                "url": "https://github.com/nidhi7598"
             }
         }
     ]
