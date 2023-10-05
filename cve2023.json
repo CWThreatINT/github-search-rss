@@ -6,6 +6,17 @@
     "description": "CVE-2023 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/58372700?u=72d8064914f7ced05621a9430a871ee9665a925f&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div><a href=\"https://www.qualys.com/2023/10/03/cve-2023-4911/looney-tunables-local-privilege-escalation-glibc-ld-so.txt\" rel=\"nofollow\">https://www.qualys.com/2023/10/03/cve-2023-4911/looney-tunables-local-privilege-escalation-glibc-ld-so.txt</a></div>",
+            "url": "https://github.com/Green-Avocado/CVE-2023-4911",
+            "title": "Green-Avocado/CVE-2023-4911: https://www.qualys.com/2023/10/03/cve-2023-4911/looney-tunables-local-privilege-escalation-glibc-ld-so.txt",
+            "date_modified": "2023-10-05T07:37:59.000Z",
+            "date_published": "2023-10-04T11:58:58.000Z",
+            "author": {
+                "name": "Green-Avocado",
+                "url": "https://github.com/Green-Avocado"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/18195825?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023</div>",
             "url": "https://github.com/CVEProject/cvelist",
             "title": "CVEProject/cvelist: Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023",
@@ -20,7 +31,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/98185655?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>PoC of CVE-2023-42793</div>",
             "url": "https://github.com/Zenmovie/CVE-2023-42793",
             "title": "Zenmovie/CVE-2023-42793: PoC of CVE-2023-42793",
-            "date_modified": "2023-10-05T18:13:08.000Z",
+            "date_modified": "2023-10-05T19:21:12.000Z",
             "date_published": "2023-10-05T18:12:25.000Z",
             "author": {
                 "name": "Zenmovie",
@@ -47,17 +58,6 @@
             "author": {
                 "name": "Trinadh465",
                 "url": "https://github.com/Trinadh465"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/58372700?u=72d8064914f7ced05621a9430a871ee9665a925f&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div><a href=\"https://www.qualys.com/2023/10/03/cve-2023-4911/looney-tunables-local-privilege-escalation-glibc-ld-so.txt\" rel=\"nofollow\">https://www.qualys.com/2023/10/03/cve-2023-4911/looney-tunables-local-privilege-escalation-glibc-ld-so.txt</a></div>",
-            "url": "https://github.com/Green-Avocado/CVE-2023-4911",
-            "title": "Green-Avocado/CVE-2023-4911: https://www.qualys.com/2023/10/03/cve-2023-4911/looney-tunables-local-privilege-escalation-glibc-ld-so.txt",
-            "date_modified": "2023-10-05T07:37:59.000Z",
-            "date_published": "2023-10-04T11:58:58.000Z",
-            "author": {
-                "name": "Green-Avocado",
-                "url": "https://github.com/Green-Avocado"
             }
         },
         {
@@ -141,7 +141,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/29239050?u=7753b8fe4ba29c7ef718d64c9e0da3d0c30b4c42&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2023-4911 proof of concept</div>",
             "url": "https://github.com/RickdeJager/CVE-2023-4911",
             "title": "RickdeJager/CVE-2023-4911: CVE-2023-4911 proof of concept",
-            "date_modified": "2023-10-05T16:31:46.000Z",
+            "date_modified": "2023-10-05T19:58:55.000Z",
             "date_published": "2023-10-04T14:32:49.000Z",
             "author": {
                 "name": "RickdeJager",
@@ -152,7 +152,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/17825906?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>PoC for CVE-2023-4911</div>",
             "url": "https://github.com/leesh3288/CVE-2023-4911",
             "title": "leesh3288/CVE-2023-4911: PoC for CVE-2023-4911",
-            "date_modified": "2023-10-05T17:08:59.000Z",
+            "date_modified": "2023-10-05T20:00:30.000Z",
             "date_published": "2023-10-04T14:12:16.000Z",
             "author": {
                 "name": "leesh3288",
