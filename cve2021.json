@@ -6,6 +6,17 @@
     "description": "CVE-2021 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/60771253?u=468fdb9d01b7b40cb299e163ac77f52811eecef2&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
+            "url": "https://github.com/anmolksachan/CVE-2021-3060",
+            "title": "anmolksachan/CVE-2021-3060",
+            "date_modified": "2023-10-05T07:04:47.000Z",
+            "date_published": "2023-10-05T07:04:46.000Z",
+            "author": {
+                "name": "anmolksachan",
+                "url": "https://github.com/anmolksachan"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/57404930?u=15c8c306eb2a82d233cacd9ae77893665db1de24&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>一款针对Vcenter的综合利用工具，包含目前最主流的CVE-2021-21972、CVE-2021-21985以及CVE-2021-22005、One Access的CVE-2022-22954、CVE-2022-22972/31656以及log4j，提供一键上传webshell，命令执行或者上传公钥使用SSH免密连接</div>",
             "url": "https://github.com/Schira4396/VcenterKiller",
             "title": "Schira4396/VcenterKiller: 一款针对Vcenter的综合利用工具，包含目前最主流的CVE-2021-21972、CVE-2021-21985以及CVE-2021-22005、One Access的CVE-2022-22954、CVE-2022-22972/31656以及log4j，提供一键上传webshell，命令执行或者上传公钥使用SSH免密连接",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "nidhi7598",
                 "url": "https://github.com/nidhi7598"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/17105451?u=6a03c16abeaa94d2177153b93e681fa837b90e2b&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>This repo hosts TUKRU's Linux Privilege Escalation exploit (CVE-2021-22555). It demonstrates gaining root privileges via a vulnerability. Tested on Ubuntu 5.8.0-48-generic and COS 5.4.89+. Use responsibly and ethically.</div>",
-            "url": "https://github.com/tukru/CVE-2021-22555",
-            "title": "tukru/CVE-2021-22555: This repo hosts TUKRU's Linux Privilege Escalation exploit (CVE-2021-22555). It demonstrates gaining root privileges via a vulnerability. Tested on Ubuntu 5.8.0-48-generic and COS 5.4.89+. Use responsibly and ethically.",
-            "date_modified": "2023-09-07T10:03:18.000Z",
-            "date_published": "2023-08-05T18:56:18.000Z",
-            "author": {
-                "name": "tukru",
-                "url": "https://github.com/tukru"
             }
         }
     ]
