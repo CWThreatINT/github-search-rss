@@ -6,6 +6,17 @@
     "description": "CVE-2022 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/68277833?u=5a4986b8a91598fea6c43e887d0e770162171fe9&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2022-2414 POC</div>",
+            "url": "https://github.com/strikersatya/CVE-2022-2414",
+            "title": "strikersatya/CVE-2022-2414: CVE-2022-2414 POC",
+            "date_modified": "2023-10-05T07:59:50.000Z",
+            "date_published": "2023-10-05T07:55:01.000Z",
+            "author": {
+                "name": "strikersatya",
+                "url": "https://github.com/strikersatya"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/57404930?u=15c8c306eb2a82d233cacd9ae77893665db1de24&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>一款针对Vcenter的综合利用工具，包含目前最主流的CVE-2021-21972、CVE-2021-21985以及CVE-2021-22005、One Access的CVE-2022-22954、CVE-2022-22972/31656以及log4j，提供一键上传webshell，命令执行或者上传公钥使用SSH免密连接</div>",
             "url": "https://github.com/Schira4396/VcenterKiller",
             "title": "Schira4396/VcenterKiller: 一款针对Vcenter的综合利用工具，包含目前最主流的CVE-2021-21972、CVE-2021-21985以及CVE-2021-22005、One Access的CVE-2022-22954、CVE-2022-22972/31656以及log4j，提供一键上传webshell，命令执行或者上传公钥使用SSH免密连接",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "breakpointHQ",
                 "url": "https://github.com/breakpointHQ"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/102031928?u=3130c9d955dbbcb2d4f596b0202c253e2b8ce994&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2022-32947 walkthough and demo</div>",
-            "url": "https://github.com/asahilina/agx-exploit",
-            "title": "asahilina/agx-exploit: CVE-2022-32947 walkthough and demo",
-            "date_modified": "2023-10-04T11:45:57.000Z",
-            "date_published": "2023-09-17T08:21:47.000Z",
-            "author": {
-                "name": "asahilina",
-                "url": "https://github.com/asahilina"
             }
         }
     ]
