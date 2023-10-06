@@ -6,6 +6,17 @@
     "description": "CVE-2021 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/100122463?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Utilize Tai-e to identify the Log4shell (a.k.a. CVE-2021-44228) Vulnerability</div>",
+            "url": "https://github.com/Tai-e/CVE-2021-44228",
+            "title": "Tai-e/CVE-2021-44228: Utilize Tai-e to identify the Log4shell (a.k.a. CVE-2021-44228) Vulnerability",
+            "date_modified": "2023-10-06T10:00:00.000Z",
+            "date_published": "2023-10-06T04:36:31.000Z",
+            "author": {
+                "name": "Tai-e",
+                "url": "https://github.com/Tai-e"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/85202889?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Found multiple XSS vulnerabilities within PhoenixCart 1.0.8.0</div>",
             "url": "https://github.com/W4RCL0UD/CVE-2021-39475",
             "title": "W4RCL0UD/CVE-2021-39475: Found multiple XSS vulnerabilities within PhoenixCart 1.0.8.0",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "nidhi7598",
                 "url": "https://github.com/nidhi7598"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/96878659?u=2e562dea9804f99159a228fea376fa5cc2a23341&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Cisco AnyConnect Posture (HostScan) Local Privilege Escalation: CVE-2021-1366</div>",
-            "url": "https://github.com/koztkozt/CVE-2021-1366",
-            "title": "koztkozt/CVE-2021-1366: Cisco AnyConnect Posture (HostScan) Local Privilege Escalation: CVE-2021-1366",
-            "date_modified": "2023-09-08T09:45:12.000Z",
-            "date_published": "2023-09-08T09:20:20.000Z",
-            "author": {
-                "name": "koztkozt",
-                "url": "https://github.com/koztkozt"
             }
         }
     ]
