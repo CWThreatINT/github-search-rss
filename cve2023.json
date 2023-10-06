@@ -17,6 +17,17 @@
             }
         },
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/55885619?u=e6852387fd561b7594bfdb869d952906e0c1e472&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Scanner for CVE-2023-22515 - Broken Access Control Vulnerability in Atlassian Confluence</div>",
+            "url": "https://github.com/ErikWynter/CVE-2023-22515-Scan",
+            "title": "ErikWynter/CVE-2023-22515-Scan: Scanner for CVE-2023-22515 - Broken Access Control Vulnerability in Atlassian Confluence",
+            "date_modified": "2023-10-06T21:38:19.000Z",
+            "date_published": "2023-10-06T20:29:44.000Z",
+            "author": {
+                "name": "ErikWynter",
+                "url": "https://github.com/ErikWynter"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/101661127?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A tool for finding vulnerable libwebp(CVE-2023-4863)</div>",
             "url": "https://github.com/murphysecurity/libwebp-checker",
             "title": "murphysecurity/libwebp-checker: A tool for finding vulnerable libwebp(CVE-2023-4863)",
@@ -207,22 +218,11 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/17825906?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>PoC for CVE-2023-4911</div>",
             "url": "https://github.com/leesh3288/CVE-2023-4911",
             "title": "leesh3288/CVE-2023-4911: PoC for CVE-2023-4911",
-            "date_modified": "2023-10-06T20:42:11.000Z",
+            "date_modified": "2023-10-06T21:08:17.000Z",
             "date_published": "2023-10-04T14:12:16.000Z",
             "author": {
                 "name": "leesh3288",
                 "url": "https://github.com/leesh3288"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/45717435?u=3751301d29ab4b5de43786ea0427a1e7f30c879f&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>DLink DIR-846 Authenticated Remote Code Execution</div>",
-            "url": "https://github.com/MateusTesser/CVE-2023-43284",
-            "title": "MateusTesser/CVE-2023-43284: DLink DIR-846 Authenticated Remote Code Execution",
-            "date_modified": "2023-10-06T19:46:53.000Z",
-            "date_published": "2023-10-04T13:07:37.000Z",
-            "author": {
-                "name": "MateusTesser",
-                "url": "https://github.com/MateusTesser"
             }
         }
     ]
