@@ -17,6 +17,17 @@
             }
         },
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/101661127?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A tool for finding vulnerable libwebp(CVE-2023-4863)</div>",
+            "url": "https://github.com/murphysecurity/libwebp-checker",
+            "title": "murphysecurity/libwebp-checker: A tool for finding vulnerable libwebp(CVE-2023-4863)",
+            "date_modified": "2023-10-06T12:13:29.000Z",
+            "date_published": "2023-10-05T03:28:23.000Z",
+            "author": {
+                "name": "murphysecurity",
+                "url": "https://github.com/murphysecurity"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/102574296?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
             "url": "https://github.com/Trinadh465/platform_external_libvpx_v1.4.0_CVE-2023-5217",
             "title": "Trinadh465/platform_external_libvpx_v1.4.0_CVE-2023-5217",
@@ -152,22 +163,11 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/41365666?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>PoC for CVE-2023-44962</div>",
             "url": "https://github.com/ggb0n/CVE-2023-44962",
             "title": "ggb0n/CVE-2023-44962: PoC for CVE-2023-44962",
-            "date_modified": "2023-10-05T07:43:07.000Z",
+            "date_modified": "2023-10-06T12:20:01.000Z",
             "date_published": "2023-10-05T07:43:07.000Z",
             "author": {
                 "name": "ggb0n",
                 "url": "https://github.com/ggb0n"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/101661127?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A tool for finding vulnerable libwebp(CVE-2023-4863)</div>",
-            "url": "https://github.com/murphysecurity/libwebp-checker",
-            "title": "murphysecurity/libwebp-checker: A tool for finding vulnerable libwebp(CVE-2023-4863)",
-            "date_modified": "2023-10-05T03:28:23.000Z",
-            "date_published": "2023-10-05T03:28:23.000Z",
-            "author": {
-                "name": "murphysecurity",
-                "url": "https://github.com/murphysecurity"
             }
         },
         {
@@ -196,7 +196,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/29239050?u=7753b8fe4ba29c7ef718d64c9e0da3d0c30b4c42&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2023-4911 proof of concept</div>",
             "url": "https://github.com/RickdeJager/CVE-2023-4911",
             "title": "RickdeJager/CVE-2023-4911: CVE-2023-4911 proof of concept",
-            "date_modified": "2023-10-06T12:08:29.000Z",
+            "date_modified": "2023-10-06T12:51:52.000Z",
             "date_published": "2023-10-04T14:32:49.000Z",
             "author": {
                 "name": "RickdeJager",
@@ -207,7 +207,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/17825906?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>PoC for CVE-2023-4911</div>",
             "url": "https://github.com/leesh3288/CVE-2023-4911",
             "title": "leesh3288/CVE-2023-4911: PoC for CVE-2023-4911",
-            "date_modified": "2023-10-06T12:01:16.000Z",
+            "date_modified": "2023-10-06T13:02:02.000Z",
             "date_published": "2023-10-04T14:12:16.000Z",
             "author": {
                 "name": "leesh3288",
