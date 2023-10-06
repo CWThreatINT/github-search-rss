@@ -17,6 +17,17 @@
             }
         },
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/135759201?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Mass exploit - CVE-2023-38501 - Copyparty &lt; Cross-Site Scripting [XSS]</div>",
+            "url": "https://github.com/codeb0ss/CVE-2023-38501-Exploit",
+            "title": "codeb0ss/CVE-2023-38501-Exploit: Mass exploit - CVE-2023-38501 - Copyparty < Cross-Site Scripting [XSS]",
+            "date_modified": "2023-10-06T02:57:31.000Z",
+            "date_published": "2023-10-06T02:55:05.000Z",
+            "author": {
+                "name": "codeb0ss",
+                "url": "https://github.com/codeb0ss"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/83585135?u=fd6b330d0245e7238964eec96198c7174041d84f&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Mass check CVE-2023-41892 - Craft CMS Remote Code Execution (RCE)</div>",
             "url": "https://github.com/zaenhaxor/CVE-2023-41892",
             "title": "zaenhaxor/CVE-2023-41892: Mass check CVE-2023-41892 - Craft CMS Remote Code Execution (RCE)",
@@ -185,7 +196,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/45717435?u=3751301d29ab4b5de43786ea0427a1e7f30c879f&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>DLink DIR-846 Authenticated Remote Code Execution</div>",
             "url": "https://github.com/MateusTesser/CVE-2023-43284",
             "title": "MateusTesser/CVE-2023-43284: DLink DIR-846 Authenticated Remote Code Execution",
-            "date_modified": "2023-10-05T17:08:10.000Z",
+            "date_modified": "2023-10-06T02:30:15.000Z",
             "date_published": "2023-10-04T13:07:37.000Z",
             "author": {
                 "name": "MateusTesser",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "Trinadh465",
                 "url": "https://github.com/Trinadh465"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/117360244?u=a39864b851af0995927e76a6bc6e2917f47f0290&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>go CVE-2023-24538 patch issue resolver - Dunfell</div>",
-            "url": "https://github.com/skulkarni-mv/goIssue_dunfell",
-            "title": "skulkarni-mv/goIssue_dunfell: go CVE-2023-24538 patch issue resolver - Dunfell",
-            "date_modified": "2023-09-29T08:20:21.000Z",
-            "date_published": "2023-09-29T08:09:17.000Z",
-            "author": {
-                "name": "skulkarni-mv",
-                "url": "https://github.com/skulkarni-mv"
             }
         }
     ]
