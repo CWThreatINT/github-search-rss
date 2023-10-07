@@ -6,6 +6,17 @@
     "description": "CVE-2023 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/41412951?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Spring-Kafka-Deserialization-Remote-Code-Execution</div>",
+            "url": "https://github.com/pyn3rd/CVE-2023-34040",
+            "title": "pyn3rd/CVE-2023-34040: Spring-Kafka-Deserialization-Remote-Code-Execution",
+            "date_modified": "2023-10-07T02:02:25.000Z",
+            "date_published": "2023-09-28T11:18:35.000Z",
+            "author": {
+                "name": "pyn3rd",
+                "url": "https://github.com/pyn3rd"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/35935843?u=ea29b53d5a9590084396a4f39a8e7dabc7c60903&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>mooSocial v3.1.8 is vulnerable to cross-site scripting on Invite Friend function.</div>",
             "url": "https://github.com/ahrixia/CVE-2023-44813",
             "title": "ahrixia/CVE-2023-44813: mooSocial v3.1.8 is vulnerable to cross-site scripting on Invite Friend function.",
@@ -75,7 +86,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/101661127?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A tool for finding vulnerable libwebp(CVE-2023-4863)</div>",
             "url": "https://github.com/murphysecurity/libwebp-checker",
             "title": "murphysecurity/libwebp-checker: A tool for finding vulnerable libwebp(CVE-2023-4863)",
-            "date_modified": "2023-10-06T15:47:08.000Z",
+            "date_modified": "2023-10-07T02:12:01.000Z",
             "date_published": "2023-10-05T03:28:23.000Z",
             "author": {
                 "name": "murphysecurity",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "ggb0n",
                 "url": "https://github.com/ggb0n"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/98477272?u=4ea68a19a75adef68127762c009db8c850c1db46&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Example of CVE-2023-24329 </div>",
-            "url": "https://github.com/JawadPy/CVE-2023-24329",
-            "title": "JawadPy/CVE-2023-24329: Example of CVE-2023-24329 ",
-            "date_modified": "2023-10-05T01:55:30.000Z",
-            "date_published": "2023-10-05T01:55:05.000Z",
-            "author": {
-                "name": "JawadPy",
-                "url": "https://github.com/JawadPy"
             }
         }
     ]
