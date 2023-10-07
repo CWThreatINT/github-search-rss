@@ -6,14 +6,36 @@
     "description": "CVE-2023 FEED on GitHub",
     "items": [
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/18223385?u=5ba29c1a9447ae88a6a0433f44038f47471e11c1&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>TOP All bugbounty pentesting CVE-2023- POC Exp  RCE example payload  Things</div>",
-            "url": "https://github.com/hktalent/TOP",
-            "title": "hktalent/TOP: TOP All bugbounty pentesting CVE-2023- POC Exp  RCE example payload  Things",
-            "date_modified": "2023-10-06T18:58:37.000Z",
-            "date_published": "2022-03-19T01:54:15.000Z",
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/35935843?u=ea29b53d5a9590084396a4f39a8e7dabc7c60903&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>mooSocial v3.1.8 is vulnerable to cross-site scripting on Invite Friend function.</div>",
+            "url": "https://github.com/ahrixia/CVE-2023-44813",
+            "title": "ahrixia/CVE-2023-44813: mooSocial v3.1.8 is vulnerable to cross-site scripting on Invite Friend function.",
+            "date_modified": "2023-10-07T01:36:02.000Z",
+            "date_published": "2023-09-26T16:16:46.000Z",
             "author": {
-                "name": "hktalent",
-                "url": "https://github.com/hktalent"
+                "name": "ahrixia",
+                "url": "https://github.com/ahrixia"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/35935843?u=ea29b53d5a9590084396a4f39a8e7dabc7c60903&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>mooSocial v3.1.8 is vulnerable to cross-site scripting on Admin redirect function.</div>",
+            "url": "https://github.com/ahrixia/CVE-2023-44812",
+            "title": "ahrixia/CVE-2023-44812: mooSocial v3.1.8 is vulnerable to cross-site scripting on Admin redirect function.",
+            "date_modified": "2023-10-07T01:33:21.000Z",
+            "date_published": "2023-09-26T15:47:50.000Z",
+            "author": {
+                "name": "ahrixia",
+                "url": "https://github.com/ahrixia"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/35935843?u=ea29b53d5a9590084396a4f39a8e7dabc7c60903&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>mooSocial v3.1.8 is vulnerable to Cross Site Request Forgery (CSRF) which allows attacker to change admin password.</div>",
+            "url": "https://github.com/ahrixia/CVE-2023-44811",
+            "title": "ahrixia/CVE-2023-44811: mooSocial v3.1.8 is vulnerable to Cross Site Request Forgery (CSRF) which allows attacker to change admin password.",
+            "date_modified": "2023-10-07T01:28:43.000Z",
+            "date_published": "2023-09-26T15:25:42.000Z",
+            "author": {
+                "name": "ahrixia",
+                "url": "https://github.com/ahrixia"
             }
         },
         {
@@ -28,10 +50,21 @@
             }
         },
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/18223385?u=5ba29c1a9447ae88a6a0433f44038f47471e11c1&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>TOP All bugbounty pentesting CVE-2023- POC Exp  RCE example payload  Things</div>",
+            "url": "https://github.com/hktalent/TOP",
+            "title": "hktalent/TOP: TOP All bugbounty pentesting CVE-2023- POC Exp  RCE example payload  Things",
+            "date_modified": "2023-10-06T18:58:37.000Z",
+            "date_published": "2022-03-19T01:54:15.000Z",
+            "author": {
+                "name": "hktalent",
+                "url": "https://github.com/hktalent"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/55885619?u=e6852387fd561b7594bfdb869d952906e0c1e472&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Scanner for CVE-2023-22515 - Broken Access Control Vulnerability in Atlassian Confluence</div>",
             "url": "https://github.com/ErikWynter/CVE-2023-22515-Scan",
             "title": "ErikWynter/CVE-2023-22515-Scan: Scanner for CVE-2023-22515 - Broken Access Control Vulnerability in Atlassian Confluence",
-            "date_modified": "2023-10-07T00:06:54.000Z",
+            "date_modified": "2023-10-07T01:31:23.000Z",
             "date_published": "2023-10-06T20:29:44.000Z",
             "author": {
                 "name": "ErikWynter",
@@ -190,39 +223,6 @@
             "author": {
                 "name": "JawadPy",
                 "url": "https://github.com/JawadPy"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/98477272?u=4ea68a19a75adef68127762c009db8c850c1db46&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Example of CVE-2023-41105</div>",
-            "url": "https://github.com/JawadPy/CVE-2023-41105",
-            "title": "JawadPy/CVE-2023-41105: Example of CVE-2023-41105",
-            "date_modified": "2023-10-05T00:32:53.000Z",
-            "date_published": "2023-10-05T00:32:31.000Z",
-            "author": {
-                "name": "JawadPy",
-                "url": "https://github.com/JawadPy"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/29239050?u=7753b8fe4ba29c7ef718d64c9e0da3d0c30b4c42&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2023-4911 proof of concept</div>",
-            "url": "https://github.com/RickdeJager/CVE-2023-4911",
-            "title": "RickdeJager/CVE-2023-4911: CVE-2023-4911 proof of concept",
-            "date_modified": "2023-10-06T23:23:07.000Z",
-            "date_published": "2023-10-04T14:32:49.000Z",
-            "author": {
-                "name": "RickdeJager",
-                "url": "https://github.com/RickdeJager"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/17825906?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>PoC for CVE-2023-4911</div>",
-            "url": "https://github.com/leesh3288/CVE-2023-4911",
-            "title": "leesh3288/CVE-2023-4911: PoC for CVE-2023-4911",
-            "date_modified": "2023-10-06T23:38:25.000Z",
-            "date_published": "2023-10-04T14:12:16.000Z",
-            "author": {
-                "name": "leesh3288",
-                "url": "https://github.com/leesh3288"
             }
         }
     ]
