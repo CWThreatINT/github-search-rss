@@ -6,17 +6,6 @@
     "description": "CVE-2023 FEED on GitHub",
     "items": [
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/76220633?u=4ae1eb5eaf85fd038912e397814e9d389e85eb5f&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2023-38646 Pre-Auth RCE in Metabase</div>",
-            "url": "https://github.com/alexandre-pecorilla/CVE-2023-38646",
-            "title": "alexandre-pecorilla/CVE-2023-38646: CVE-2023-38646 Pre-Auth RCE in Metabase",
-            "date_modified": "2023-10-08T15:21:22.000Z",
-            "date_published": "2023-10-08T14:52:35.000Z",
-            "author": {
-                "name": "alexandre-pecorilla",
-                "url": "https://github.com/alexandre-pecorilla"
-            }
-        },
-        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/18195825?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023</div>",
             "url": "https://github.com/CVEProject/cvelist",
             "title": "CVEProject/cvelist: Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023",
@@ -25,6 +14,17 @@
             "author": {
                 "name": "CVEProject",
                 "url": "https://github.com/CVEProject"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/76220633?u=4ae1eb5eaf85fd038912e397814e9d389e85eb5f&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2023-38646 Pre-Auth RCE in Metabase</div>",
+            "url": "https://github.com/alexandre-pecorilla/CVE-2023-38646",
+            "title": "alexandre-pecorilla/CVE-2023-38646: CVE-2023-38646 Pre-Auth RCE in Metabase",
+            "date_modified": "2023-10-08T15:21:22.000Z",
+            "date_published": "2023-10-08T14:52:35.000Z",
+            "author": {
+                "name": "alexandre-pecorilla",
+                "url": "https://github.com/alexandre-pecorilla"
             }
         },
         {
@@ -163,7 +163,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/55885619?u=e6852387fd561b7594bfdb869d952906e0c1e472&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Scanner for CVE-2023-22515 - Broken Access Control Vulnerability in Atlassian Confluence</div>",
             "url": "https://github.com/ErikWynter/CVE-2023-22515-Scan",
             "title": "ErikWynter/CVE-2023-22515-Scan: Scanner for CVE-2023-22515 - Broken Access Control Vulnerability in Atlassian Confluence",
-            "date_modified": "2023-10-08T17:48:30.000Z",
+            "date_modified": "2023-10-08T18:38:22.000Z",
             "date_published": "2023-10-06T20:29:44.000Z",
             "author": {
                 "name": "ErikWynter",
