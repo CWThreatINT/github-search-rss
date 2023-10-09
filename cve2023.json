@@ -6,6 +6,17 @@
     "description": "CVE-2023 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/120142960?u=318a12426a364ce0e4155c616f793c0133101dc4&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>GameOver(lay) Ubuntu Privilege Escalation</div>",
+            "url": "https://github.com/g1vi/CVE-2023-2640-CVE-2023-32629",
+            "title": "g1vi/CVE-2023-2640-CVE-2023-32629: GameOver(lay) Ubuntu Privilege Escalation",
+            "date_modified": "2023-10-09T22:02:42.000Z",
+            "date_published": "2023-10-09T22:02:42.000Z",
+            "author": {
+                "name": "g1vi",
+                "url": "https://github.com/g1vi"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/18195825?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023</div>",
             "url": "https://github.com/CVEProject/cvelist",
             "title": "CVEProject/cvelist: Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023",
@@ -75,7 +86,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/29239050?u=7753b8fe4ba29c7ef718d64c9e0da3d0c30b4c42&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2023-4911 proof of concept</div>",
             "url": "https://github.com/RickdeJager/CVE-2023-4911",
             "title": "RickdeJager/CVE-2023-4911: CVE-2023-4911 proof of concept",
-            "date_modified": "2023-10-09T20:44:18.000Z",
+            "date_modified": "2023-10-09T21:20:03.000Z",
             "date_published": "2023-10-04T14:32:49.000Z",
             "author": {
                 "name": "RickdeJager",
@@ -141,7 +152,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/135759201?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2023-37988 - Wordpress/Plugin - Contact Form Generator &lt; Reflected Cross-Site Scripting [RXSS]</div>",
             "url": "https://github.com/codeb0ss/CVE-2023-37988-PoC",
             "title": "codeb0ss/CVE-2023-37988-PoC: CVE-2023-37988 - Wordpress/Plugin - Contact Form Generator < Reflected Cross-Site Scripting [RXSS]",
-            "date_modified": "2023-10-07T23:43:22.000Z",
+            "date_modified": "2023-10-09T21:26:19.000Z",
             "date_published": "2023-10-07T23:40:53.000Z",
             "author": {
                 "name": "codeb0ss",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "ahrixia",
                 "url": "https://github.com/ahrixia"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/55885619?u=e6852387fd561b7594bfdb869d952906e0c1e472&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Scanner for CVE-2023-22515 - Broken Access Control Vulnerability in Atlassian Confluence</div>",
-            "url": "https://github.com/ErikWynter/CVE-2023-22515-Scan",
-            "title": "ErikWynter/CVE-2023-22515-Scan: Scanner for CVE-2023-22515 - Broken Access Control Vulnerability in Atlassian Confluence",
-            "date_modified": "2023-10-09T20:51:38.000Z",
-            "date_published": "2023-10-06T20:29:44.000Z",
-            "author": {
-                "name": "ErikWynter",
-                "url": "https://github.com/ErikWynter"
             }
         }
     ]
