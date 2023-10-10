@@ -17,6 +17,17 @@
             }
         },
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/12553297?u=22a2c5ee1bf5b1bf2f6b95e9df052efe6c2aa791&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Basic vulnerability scanning to see if web servers may be vulnerable to CVE-2023-44487</div>",
+            "url": "https://github.com/bcdannyboy/CVE-2023-44487",
+            "title": "bcdannyboy/CVE-2023-44487: Basic vulnerability scanning to see if web servers may be vulnerable to CVE-2023-44487",
+            "date_modified": "2023-10-10T14:38:09.000Z",
+            "date_published": "2023-10-10T14:20:42.000Z",
+            "author": {
+                "name": "bcdannyboy",
+                "url": "https://github.com/bcdannyboy"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/12446252?u=a7ab54eab586b23665c8a386df5b22a0fa4daf38&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Recreation of the SharePoint PoC for CVE-2023-29357 in C# from LuemmelSec</div>",
             "url": "https://github.com/KeyStrOke95/CVE-2023-29357-ExE",
             "title": "KeyStrOke95/CVE-2023-29357-ExE: Recreation of the SharePoint PoC for CVE-2023-29357 in C# from LuemmelSec",
@@ -119,7 +130,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/80873500?u=4c3da53f1a4d2eefea25b7399a2d7b2f21c8515d&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2023-42820 POC</div>",
             "url": "https://github.com/C1ph3rX13/CVE-2023-42820",
             "title": "C1ph3rX13/CVE-2023-42820: CVE-2023-42820 POC",
-            "date_modified": "2023-10-10T13:14:04.000Z",
+            "date_modified": "2023-10-10T14:41:57.000Z",
             "date_published": "2023-10-10T06:32:51.000Z",
             "author": {
                 "name": "C1ph3rX13",
@@ -163,7 +174,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/18223385?u=5ba29c1a9447ae88a6a0433f44038f47471e11c1&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>TOP All bugbounty pentesting CVE-2023- POC Exp  RCE example payload  Things</div>",
             "url": "https://github.com/hktalent/TOP",
             "title": "hktalent/TOP: TOP All bugbounty pentesting CVE-2023- POC Exp  RCE example payload  Things",
-            "date_modified": "2023-10-09T16:23:07.000Z",
+            "date_modified": "2023-10-10T14:26:19.000Z",
             "date_published": "2022-03-19T01:54:15.000Z",
             "author": {
                 "name": "hktalent",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "Trinadh465",
                 "url": "https://github.com/Trinadh465"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/29239050?u=7753b8fe4ba29c7ef718d64c9e0da3d0c30b4c42&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2023-4911 proof of concept</div>",
-            "url": "https://github.com/RickdeJager/CVE-2023-4911",
-            "title": "RickdeJager/CVE-2023-4911: CVE-2023-4911 proof of concept",
-            "date_modified": "2023-10-10T12:40:54.000Z",
-            "date_published": "2023-10-04T14:32:49.000Z",
-            "author": {
-                "name": "RickdeJager",
-                "url": "https://github.com/RickdeJager"
             }
         }
     ]
