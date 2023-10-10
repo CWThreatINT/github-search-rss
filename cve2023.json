@@ -6,17 +6,6 @@
     "description": "CVE-2023 FEED on GitHub",
     "items": [
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/12553297?u=22a2c5ee1bf5b1bf2f6b95e9df052efe6c2aa791&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Basic vulnerability scanning to see if web servers may be vulnerable to CVE-2023-44487</div>",
-            "url": "https://github.com/bcdannyboy/CVE-2023-44487",
-            "title": "bcdannyboy/CVE-2023-44487: Basic vulnerability scanning to see if web servers may be vulnerable to CVE-2023-44487",
-            "date_modified": "2023-10-10T14:38:09.000Z",
-            "date_published": "2023-10-10T14:20:42.000Z",
-            "author": {
-                "name": "bcdannyboy",
-                "url": "https://github.com/bcdannyboy"
-            }
-        },
-        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/18195825?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023</div>",
             "url": "https://github.com/CVEProject/cvelist",
             "title": "CVEProject/cvelist: Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023",
@@ -25,6 +14,17 @@
             "author": {
                 "name": "CVEProject",
                 "url": "https://github.com/CVEProject"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/12553297?u=22a2c5ee1bf5b1bf2f6b95e9df052efe6c2aa791&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Basic vulnerability scanning to see if web servers may be vulnerable to CVE-2023-44487</div>",
+            "url": "https://github.com/bcdannyboy/CVE-2023-44487",
+            "title": "bcdannyboy/CVE-2023-44487: Basic vulnerability scanning to see if web servers may be vulnerable to CVE-2023-44487",
+            "date_modified": "2023-10-10T14:38:09.000Z",
+            "date_published": "2023-10-10T14:20:42.000Z",
+            "author": {
+                "name": "bcdannyboy",
+                "url": "https://github.com/bcdannyboy"
             }
         },
         {
