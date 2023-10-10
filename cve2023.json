@@ -17,6 +17,17 @@
             }
         },
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/147511467?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>metasploit module for CVE-2023-22515</div>",
+            "url": "https://github.com/r4p70rs/CVE-2023-22515-PoC",
+            "title": "r4p70rs/CVE-2023-22515-PoC: metasploit module for CVE-2023-22515",
+            "date_modified": "2023-10-10T12:42:19.000Z",
+            "date_published": "2023-10-10T12:42:19.000Z",
+            "author": {
+                "name": "r4p70rs",
+                "url": "https://github.com/r4p70rs"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/108575004?u=9f33cf3e3d55b355c14c79f172222f6f8a291bf3&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>福昕Foxit PDF远程代码执行漏洞(CVE-2023-27363)</div>",
             "url": "https://github.com/CN016/-Foxit-PDF-CVE-2023-27363-",
             "title": "CN016/-Foxit-PDF-CVE-2023-27363-: 福昕Foxit PDF远程代码执行漏洞(CVE-2023-27363)",
@@ -185,7 +196,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/29239050?u=7753b8fe4ba29c7ef718d64c9e0da3d0c30b4c42&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2023-4911 proof of concept</div>",
             "url": "https://github.com/RickdeJager/CVE-2023-4911",
             "title": "RickdeJager/CVE-2023-4911: CVE-2023-4911 proof of concept",
-            "date_modified": "2023-10-10T07:04:02.000Z",
+            "date_modified": "2023-10-10T12:40:54.000Z",
             "date_published": "2023-10-04T14:32:49.000Z",
             "author": {
                 "name": "RickdeJager",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "yxl2001",
                 "url": "https://github.com/yxl2001"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/41412951?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Spring-Kafka-Deserialization-Remote-Code-Execution</div>",
-            "url": "https://github.com/pyn3rd/CVE-2023-34040",
-            "title": "pyn3rd/CVE-2023-34040: Spring-Kafka-Deserialization-Remote-Code-Execution",
-            "date_modified": "2023-10-09T07:40:15.000Z",
-            "date_published": "2023-09-28T11:18:35.000Z",
-            "author": {
-                "name": "pyn3rd",
-                "url": "https://github.com/pyn3rd"
             }
         }
     ]
