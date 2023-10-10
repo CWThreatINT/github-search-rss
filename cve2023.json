@@ -6,10 +6,21 @@
     "description": "CVE-2023 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/108575004?u=9f33cf3e3d55b355c14c79f172222f6f8a291bf3&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>福昕Foxit PDF远程代码执行漏洞(CVE-2023-27363)</div>",
+            "url": "https://github.com/CN016/-Foxit-PDF-CVE-2023-27363-",
+            "title": "CN016/-Foxit-PDF-CVE-2023-27363-: 福昕Foxit PDF远程代码执行漏洞(CVE-2023-27363)",
+            "date_modified": "2023-10-10T08:52:09.000Z",
+            "date_published": "2023-10-10T08:52:08.000Z",
+            "author": {
+                "name": "CN016",
+                "url": "https://github.com/CN016"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/18195825?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023</div>",
             "url": "https://github.com/CVEProject/cvelist",
             "title": "CVEProject/cvelist: Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023",
-            "date_modified": "2023-10-10T03:42:50.000Z",
+            "date_modified": "2023-10-10T08:25:40.000Z",
             "date_published": "2020-11-02T19:30:55.000Z",
             "author": {
                 "name": "CVEProject",
@@ -17,10 +28,65 @@
             }
         },
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/108575004?u=9f33cf3e3d55b355c14c79f172222f6f8a291bf3&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Openfire未授权到RCE(CVE-2023-32315)复现</div>",
+            "url": "https://github.com/CN016/Openfire-RCE-CVE-2023-32315-",
+            "title": "CN016/Openfire-RCE-CVE-2023-32315-: Openfire未授权到RCE(CVE-2023-32315)复现",
+            "date_modified": "2023-10-10T08:48:42.000Z",
+            "date_published": "2023-10-10T08:48:42.000Z",
+            "author": {
+                "name": "CN016",
+                "url": "https://github.com/CN016"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/108575004?u=9f33cf3e3d55b355c14c79f172222f6f8a291bf3&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>DedeCMS文件包含漏洞导致后台getshell(CVE-2023-2928)复现</div>",
+            "url": "https://github.com/CN016/DedeCMS-getshell-CVE-2023-2928-",
+            "title": "CN016/DedeCMS-getshell-CVE-2023-2928-: DedeCMS文件包含漏洞导致后台getshell(CVE-2023-2928)复现",
+            "date_modified": "2023-10-10T08:46:18.000Z",
+            "date_published": "2023-10-10T08:46:17.000Z",
+            "author": {
+                "name": "CN016",
+                "url": "https://github.com/CN016"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/108575004?u=9f33cf3e3d55b355c14c79f172222f6f8a291bf3&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Metabase H2 远程代码执行漏洞(CVE-2023-38646)</div>",
+            "url": "https://github.com/CN016/Metabase-H2-CVE-2023-38646-",
+            "title": "CN016/Metabase-H2-CVE-2023-38646-: Metabase H2 远程代码执行漏洞(CVE-2023-38646)",
+            "date_modified": "2023-10-10T08:45:57.000Z",
+            "date_published": "2023-10-10T08:45:14.000Z",
+            "author": {
+                "name": "CN016",
+                "url": "https://github.com/CN016"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/108575004?u=9f33cf3e3d55b355c14c79f172222f6f8a291bf3&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Powerjob 未授权访问漏洞(CVE-2023-29922)</div>",
+            "url": "https://github.com/CN016/Powerjob-CVE-2023-29922-",
+            "title": "CN016/Powerjob-CVE-2023-29922-: Powerjob 未授权访问漏洞(CVE-2023-29922)",
+            "date_modified": "2023-10-10T08:41:21.000Z",
+            "date_published": "2023-10-10T08:35:00.000Z",
+            "author": {
+                "name": "CN016",
+                "url": "https://github.com/CN016"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/108575004?u=9f33cf3e3d55b355c14c79f172222f6f8a291bf3&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Apache Superset 默认SECRET_KEY 漏洞(CVE-2023-27524)</div>",
+            "url": "https://github.com/CN016/Apache-Superset-SECRET_KEY-CVE-2023-27524-",
+            "title": "CN016/Apache-Superset-SECRET_KEY-CVE-2023-27524-: Apache Superset 默认SECRET_KEY 漏洞(CVE-2023-27524)",
+            "date_modified": "2023-10-10T08:34:01.000Z",
+            "date_published": "2023-10-10T08:23:57.000Z",
+            "author": {
+                "name": "CN016",
+                "url": "https://github.com/CN016"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/80873500?u=4c3da53f1a4d2eefea25b7399a2d7b2f21c8515d&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2023-42820 POC</div>",
             "url": "https://github.com/C1ph3rX13/CVE-2023-42820",
             "title": "C1ph3rX13/CVE-2023-42820: CVE-2023-42820 POC",
-            "date_modified": "2023-10-10T06:32:52.000Z",
+            "date_modified": "2023-10-10T08:42:19.000Z",
             "date_published": "2023-10-10T06:32:51.000Z",
             "author": {
                 "name": "C1ph3rX13",
@@ -157,72 +223,6 @@
             "author": {
                 "name": "yxl2001",
                 "url": "https://github.com/yxl2001"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/41412951?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Spring-Kafka-Deserialization-Remote-Code-Execution</div>",
-            "url": "https://github.com/pyn3rd/CVE-2023-34040",
-            "title": "pyn3rd/CVE-2023-34040: Spring-Kafka-Deserialization-Remote-Code-Execution",
-            "date_modified": "2023-10-09T07:40:15.000Z",
-            "date_published": "2023-09-28T11:18:35.000Z",
-            "author": {
-                "name": "pyn3rd",
-                "url": "https://github.com/pyn3rd"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/20059156?u=07478ef9c74874214c578435fc136e7ef6e54ec5&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
-            "url": "https://github.com/xiaoQ1z/CVE-2023-4911",
-            "title": "xiaoQ1z/CVE-2023-4911",
-            "date_modified": "2023-10-08T03:30:00.000Z",
-            "date_published": "2023-10-08T03:26:24.000Z",
-            "author": {
-                "name": "xiaoQ1z",
-                "url": "https://github.com/xiaoQ1z"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/85838827?u=853f6885fc0f425af71a5eade7a78ffb4d763446&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2023-38646 (Pre-Auth RCE in Metabase)</div>",
-            "url": "https://github.com/joaoviictorti/CVE-2023-38646",
-            "title": "joaoviictorti/CVE-2023-38646: CVE-2023-38646 (Pre-Auth RCE in Metabase)",
-            "date_modified": "2023-10-08T00:22:25.000Z",
-            "date_published": "2023-10-08T00:21:07.000Z",
-            "author": {
-                "name": "joaoviictorti",
-                "url": "https://github.com/joaoviictorti"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/135759201?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2023-37988 - Wordpress/Plugin - Contact Form Generator &lt; Reflected Cross-Site Scripting [RXSS]</div>",
-            "url": "https://github.com/codeb0ss/CVE-2023-37988-PoC",
-            "title": "codeb0ss/CVE-2023-37988-PoC: CVE-2023-37988 - Wordpress/Plugin - Contact Form Generator < Reflected Cross-Site Scripting [RXSS]",
-            "date_modified": "2023-10-09T21:26:19.000Z",
-            "date_published": "2023-10-07T23:40:53.000Z",
-            "author": {
-                "name": "codeb0ss",
-                "url": "https://github.com/codeb0ss"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/83585135?u=fd6b330d0245e7238964eec96198c7174041d84f&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2023-41892 - Craft CMS Remote Code Execution (RCE)</div>",
-            "url": "https://github.com/zaenhaxor/CVE-2023-41892",
-            "title": "zaenhaxor/CVE-2023-41892: CVE-2023-41892 - Craft CMS Remote Code Execution (RCE)",
-            "date_modified": "2023-10-09T20:46:05.000Z",
-            "date_published": "2023-10-06T01:40:34.000Z",
-            "author": {
-                "name": "zaenhaxor",
-                "url": "https://github.com/zaenhaxor"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/83585135?u=fd6b330d0245e7238964eec96198c7174041d84f&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2023-36845 </div>",
-            "url": "https://github.com/zaenhaxor/CVE-2023-36845",
-            "title": "zaenhaxor/CVE-2023-36845: CVE-2023-36845 ",
-            "date_modified": "2023-10-09T20:44:22.000Z",
-            "date_published": "2023-09-29T03:11:37.000Z",
-            "author": {
-                "name": "zaenhaxor",
-                "url": "https://github.com/zaenhaxor"
             }
         }
     ]
