@@ -6,17 +6,6 @@
     "description": "CVE-2023 FEED on GitHub",
     "items": [
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/62939781?u=d1242453a110543cf49bce5d588cd8b6621261f9&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>The OverlayFS vulnerability CVE-2023-0386</div>",
-            "url": "https://github.com/Rabie-el-hakouni/CVE-2023-0386",
-            "title": "Rabie-el-hakouni/CVE-2023-0386: The OverlayFS vulnerability CVE-2023-0386",
-            "date_modified": "2023-10-11T15:55:52.000Z",
-            "date_published": "2023-10-11T15:03:21.000Z",
-            "author": {
-                "name": "Rabie-el-hakouni",
-                "url": "https://github.com/Rabie-el-hakouni"
-            }
-        },
-        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/18195825?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023</div>",
             "url": "https://github.com/CVEProject/cvelist",
             "title": "CVEProject/cvelist: Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023",
@@ -25,6 +14,17 @@
             "author": {
                 "name": "CVEProject",
                 "url": "https://github.com/CVEProject"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/147644346?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
+            "url": "https://github.com/un7n0wn/CVE-2023-35813-RCE",
+            "title": "un7n0wn/CVE-2023-35813-RCE",
+            "date_modified": "2023-10-11T16:43:26.000Z",
+            "date_published": "2023-10-11T16:43:25.000Z",
+            "author": {
+                "name": "un7n0wn",
+                "url": "https://github.com/un7n0wn"
             }
         },
         {
@@ -42,7 +42,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/12553297?u=22a2c5ee1bf5b1bf2f6b95e9df052efe6c2aa791&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Basic vulnerability scanning to see if web servers may be vulnerable to CVE-2023-44487</div>",
             "url": "https://github.com/bcdannyboy/CVE-2023-44487",
             "title": "bcdannyboy/CVE-2023-44487: Basic vulnerability scanning to see if web servers may be vulnerable to CVE-2023-44487",
-            "date_modified": "2023-10-11T16:08:14.000Z",
+            "date_modified": "2023-10-11T16:23:07.000Z",
             "date_published": "2023-10-10T14:20:42.000Z",
             "author": {
                 "name": "bcdannyboy",
@@ -50,10 +50,10 @@
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/103446004?u=4e6d68d4ffca4c824a6e97529db717992a69a1a3&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/103446004?u=4e6d68d4ffca4c824a6e97529db717992a69a1a3&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2023-4911</div>",
             "url": "https://github.com/ruycr4ft/CVE-2023-4911",
-            "title": "ruycr4ft/CVE-2023-4911",
-            "date_modified": "2023-10-11T15:18:12.000Z",
+            "title": "ruycr4ft/CVE-2023-4911: CVE-2023-4911",
+            "date_modified": "2023-10-11T17:04:11.000Z",
             "date_published": "2023-10-11T14:49:22.000Z",
             "author": {
                 "name": "ruycr4ft",
