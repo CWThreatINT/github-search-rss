@@ -6,6 +6,17 @@
     "description": "CVE-2022 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/85838827?u=853f6885fc0f425af71a5eade7a78ffb4d763446&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2022-24716 (Arbitrary File Disclosure Icingaweb2)</div>",
+            "url": "https://github.com/joaoviictorti/CVE-2022-24716",
+            "title": "joaoviictorti/CVE-2022-24716: CVE-2022-24716 (Arbitrary File Disclosure Icingaweb2)",
+            "date_modified": "2023-10-07T20:28:35.000Z",
+            "date_published": "2023-03-20T02:25:55.000Z",
+            "author": {
+                "name": "joaoviictorti",
+                "url": "https://github.com/joaoviictorti"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/57404930?u=15c8c306eb2a82d233cacd9ae77893665db1de24&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>一款针对Vcenter的综合利用工具，包含目前最主流的CVE-2021-21972、CVE-2021-21985以及CVE-2021-22005、One Access的CVE-2022-22954、CVE-2022-22972/31656以及log4j，提供一键上传webshell，命令执行或者上传公钥使用SSH免密连接</div>",
             "url": "https://github.com/Schira4396/VcenterKiller",
             "title": "Schira4396/VcenterKiller: 一款针对Vcenter的综合利用工具，包含目前最主流的CVE-2021-21972、CVE-2021-21985以及CVE-2021-22005、One Access的CVE-2022-22954、CVE-2022-22972/31656以及log4j，提供一键上传webshell，命令执行或者上传公钥使用SSH免密连接",
@@ -25,17 +36,6 @@
             "author": {
                 "name": "TomKing062",
                 "url": "https://github.com/TomKing062"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/85838827?u=853f6885fc0f425af71a5eade7a78ffb4d763446&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2022-24716 (Arbitrary File Disclosure Icingaweb2)</div>",
-            "url": "https://github.com/joaoviictorti/CVE-2022-24716",
-            "title": "joaoviictorti/CVE-2022-24716: CVE-2022-24716 (Arbitrary File Disclosure Icingaweb2)",
-            "date_modified": "2023-10-07T20:28:35.000Z",
-            "date_published": "2023-03-20T02:25:55.000Z",
-            "author": {
-                "name": "joaoviictorti",
-                "url": "https://github.com/joaoviictorti"
             }
         },
         {

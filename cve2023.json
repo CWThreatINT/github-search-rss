@@ -6,28 +6,6 @@
     "description": "CVE-2023 FEED on GitHub",
     "items": [
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/30978685?u=d0efb986409e738e3963cc4901129b4bbe7551a5&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Root takeover via signature spoofing in KernelSU</div>",
-            "url": "https://github.com/Ylarod/CVE-2023-5521",
-            "title": "Ylarod/CVE-2023-5521: Root takeover via signature spoofing in KernelSU",
-            "date_modified": "2023-10-11T12:10:20.000Z",
-            "date_published": "2023-10-11T12:08:31.000Z",
-            "author": {
-                "name": "Ylarod",
-                "url": "https://github.com/Ylarod"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/64693844?u=1eda9e9c751d9977eed771a3f8c339701e14b271&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2023-22515</div>",
-            "url": "https://github.com/kh4sh3i/CVE-2023-22515",
-            "title": "kh4sh3i/CVE-2023-22515: CVE-2023-22515",
-            "date_modified": "2023-10-11T11:54:28.000Z",
-            "date_published": "2023-10-11T11:21:47.000Z",
-            "author": {
-                "name": "kh4sh3i",
-                "url": "https://github.com/kh4sh3i"
-            }
-        },
-        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/18195825?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023</div>",
             "url": "https://github.com/CVEProject/cvelist",
             "title": "CVEProject/cvelist: Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023",
@@ -36,6 +14,39 @@
             "author": {
                 "name": "CVEProject",
                 "url": "https://github.com/CVEProject"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/85838827?u=853f6885fc0f425af71a5eade7a78ffb4d763446&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2023-38646 (Pre-Auth RCE in Metabase)</div>",
+            "url": "https://github.com/joaoviictorti/CVE-2023-38646",
+            "title": "joaoviictorti/CVE-2023-38646: CVE-2023-38646 (Pre-Auth RCE in Metabase)",
+            "date_modified": "2023-10-08T00:22:25.000Z",
+            "date_published": "2023-10-08T00:21:07.000Z",
+            "author": {
+                "name": "joaoviictorti",
+                "url": "https://github.com/joaoviictorti"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/30978685?u=d0efb986409e738e3963cc4901129b4bbe7551a5&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Root takeover via signature spoofing in KernelSU</div>",
+            "url": "https://github.com/Ylarod/CVE-2023-5521",
+            "title": "Ylarod/CVE-2023-5521: Root takeover via signature spoofing in KernelSU",
+            "date_modified": "2023-10-11T12:37:56.000Z",
+            "date_published": "2023-10-11T12:08:31.000Z",
+            "author": {
+                "name": "Ylarod",
+                "url": "https://github.com/Ylarod"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/64693844?u=1eda9e9c751d9977eed771a3f8c339701e14b271&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2023-22515 - Broken Access Control Vulnerability in Confluence Data Center and Server</div>",
+            "url": "https://github.com/kh4sh3i/CVE-2023-22515",
+            "title": "kh4sh3i/CVE-2023-22515: CVE-2023-22515 - Broken Access Control Vulnerability in Confluence Data Center and Server",
+            "date_modified": "2023-10-11T12:17:19.000Z",
+            "date_published": "2023-10-11T11:21:47.000Z",
+            "author": {
+                "name": "kh4sh3i",
+                "url": "https://github.com/kh4sh3i"
             }
         },
         {
@@ -53,7 +64,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/12553297?u=22a2c5ee1bf5b1bf2f6b95e9df052efe6c2aa791&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Basic vulnerability scanning to see if web servers may be vulnerable to CVE-2023-44487</div>",
             "url": "https://github.com/bcdannyboy/CVE-2023-44487",
             "title": "bcdannyboy/CVE-2023-44487: Basic vulnerability scanning to see if web servers may be vulnerable to CVE-2023-44487",
-            "date_modified": "2023-10-11T11:22:22.000Z",
+            "date_modified": "2023-10-11T13:03:00.000Z",
             "date_published": "2023-10-10T14:20:42.000Z",
             "author": {
                 "name": "bcdannyboy",
@@ -86,7 +97,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/124018391?u=c549542778a07a4c9ef62125f27439698cf5c575&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Simple PoC causing overflow</div>",
             "url": "https://github.com/UTsweetyfish/CVE-2023-38545",
             "title": "UTsweetyfish/CVE-2023-38545: Simple PoC causing overflow",
-            "date_modified": "2023-10-11T10:59:27.000Z",
+            "date_modified": "2023-10-11T12:36:00.000Z",
             "date_published": "2023-10-11T08:11:56.000Z",
             "author": {
                 "name": "UTsweetyfish",
@@ -207,22 +218,11 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/58823465?u=2fd90b95e991d04d2ac6bd0233b82d712b2d8586&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Poc for CVE-2023-22515</div>",
             "url": "https://github.com/j3seer/CVE-2023-22515-POC",
             "title": "j3seer/CVE-2023-22515-POC: Poc for CVE-2023-22515",
-            "date_modified": "2023-10-11T07:40:55.000Z",
+            "date_modified": "2023-10-11T12:47:06.000Z",
             "date_published": "2023-10-10T18:45:10.000Z",
             "author": {
                 "name": "j3seer",
                 "url": "https://github.com/j3seer"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/82097150?u=5646202ed384023495527353867d4d5883084300&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>The largest hacking program with new tools CVE-2023-PoC for the year 2023 It contains all the attack and exploitation tools for testing websites, as well as a graphical interface to facilitate its use for beginners</div>",
-            "url": "https://github.com/abrahim7112/hackers_CVE_2023_poc",
-            "title": "abrahim7112/hackers_CVE_2023_poc: The largest hacking program with new tools CVE-2023-PoC for the year 2023 It contains all the attack and exploitation tools for testing websites, as well as a graphical interface to facilitate its use for beginners",
-            "date_modified": "2023-09-29T00:04:02.000Z",
-            "date_published": "2023-07-23T20:33:17.000Z",
-            "author": {
-                "name": "abrahim7112",
-                "url": "https://github.com/abrahim7112"
             }
         }
     ]
