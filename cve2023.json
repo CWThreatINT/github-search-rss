@@ -6,6 +6,17 @@
     "description": "CVE-2023 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/114604850?u=862bf4d4f4dbea9ac0723a1774fbd1530d2bf5e2&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2023-38646 Metabase RCE</div>",
+            "url": "https://github.com/Boogipop/MetabaseRceTools",
+            "title": "Boogipop/MetabaseRceTools: CVE-2023-38646 Metabase RCE",
+            "date_modified": "2023-10-11T04:03:46.000Z",
+            "date_published": "2023-10-11T03:18:09.000Z",
+            "author": {
+                "name": "Boogipop",
+                "url": "https://github.com/Boogipop"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/18195825?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023</div>",
             "url": "https://github.com/CVEProject/cvelist",
             "title": "CVEProject/cvelist: Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023",
@@ -14,6 +25,17 @@
             "author": {
                 "name": "CVEProject",
                 "url": "https://github.com/CVEProject"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/53632236?u=2b13764194310ce32043ecacc7eaaa72c323d1f0&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>JumpServer </div>",
+            "url": "https://github.com/Startr4ck/cve-2023-42820",
+            "title": "Startr4ck/cve-2023-42820: JumpServer ",
+            "date_modified": "2023-10-11T03:27:40.000Z",
+            "date_published": "2023-10-11T03:15:30.000Z",
+            "author": {
+                "name": "Startr4ck",
+                "url": "https://github.com/Startr4ck"
             }
         },
         {
@@ -198,28 +220,6 @@
             "title": "CN016/Openfire-RCE-CVE-2023-32315-: Openfire未授权到RCE(CVE-2023-32315)复现",
             "date_modified": "2023-10-10T17:25:11.000Z",
             "date_published": "2023-10-10T08:48:42.000Z",
-            "author": {
-                "name": "CN016",
-                "url": "https://github.com/CN016"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/108575004?u=9f33cf3e3d55b355c14c79f172222f6f8a291bf3&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>DedeCMS文件包含漏洞导致后台getshell(CVE-2023-2928)复现</div>",
-            "url": "https://github.com/CN016/DedeCMS-getshell-CVE-2023-2928-",
-            "title": "CN016/DedeCMS-getshell-CVE-2023-2928-: DedeCMS文件包含漏洞导致后台getshell(CVE-2023-2928)复现",
-            "date_modified": "2023-10-10T08:46:18.000Z",
-            "date_published": "2023-10-10T08:46:17.000Z",
-            "author": {
-                "name": "CN016",
-                "url": "https://github.com/CN016"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/108575004?u=9f33cf3e3d55b355c14c79f172222f6f8a291bf3&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Metabase H2 远程代码执行漏洞(CVE-2023-38646)</div>",
-            "url": "https://github.com/CN016/Metabase-H2-CVE-2023-38646-",
-            "title": "CN016/Metabase-H2-CVE-2023-38646-: Metabase H2 远程代码执行漏洞(CVE-2023-38646)",
-            "date_modified": "2023-10-10T08:45:57.000Z",
-            "date_published": "2023-10-10T08:45:14.000Z",
             "author": {
                 "name": "CN016",
                 "url": "https://github.com/CN016"
