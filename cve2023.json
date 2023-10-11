@@ -6,21 +6,10 @@
     "description": "CVE-2023 FEED on GitHub",
     "items": [
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/103446004?u=4e6d68d4ffca4c824a6e97529db717992a69a1a3&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
-            "url": "https://github.com/ruycr4ft/CVE-2023-4911",
-            "title": "ruycr4ft/CVE-2023-4911",
-            "date_modified": "2023-10-11T14:49:51.000Z",
-            "date_published": "2023-10-11T14:49:22.000Z",
-            "author": {
-                "name": "ruycr4ft",
-                "url": "https://github.com/ruycr4ft"
-            }
-        },
-        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/62939781?u=d1242453a110543cf49bce5d588cd8b6621261f9&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>The OverlayFS vulnerability CVE-2023-0386</div>",
             "url": "https://github.com/Rabie-el-hakouni/CVE-2023-0386",
             "title": "Rabie-el-hakouni/CVE-2023-0386: The OverlayFS vulnerability CVE-2023-0386",
-            "date_modified": "2023-10-11T15:03:21.000Z",
+            "date_modified": "2023-10-11T15:55:52.000Z",
             "date_published": "2023-10-11T15:03:21.000Z",
             "author": {
                 "name": "Rabie-el-hakouni",
@@ -36,6 +25,50 @@
             "author": {
                 "name": "CVEProject",
                 "url": "https://github.com/CVEProject"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/117520656?u=f259f111d69cb0cb757008a1be0b211fcdcffade&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2023-38646 Metabase 0.46.6 exploit</div>",
+            "url": "https://github.com/SUT0L/CVE-2023-38646",
+            "title": "SUT0L/CVE-2023-38646: CVE-2023-38646 Metabase 0.46.6 exploit",
+            "date_modified": "2023-10-11T15:26:47.000Z",
+            "date_published": "2023-10-11T15:18:25.000Z",
+            "author": {
+                "name": "SUT0L",
+                "url": "https://github.com/SUT0L"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/12553297?u=22a2c5ee1bf5b1bf2f6b95e9df052efe6c2aa791&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Basic vulnerability scanning to see if web servers may be vulnerable to CVE-2023-44487</div>",
+            "url": "https://github.com/bcdannyboy/CVE-2023-44487",
+            "title": "bcdannyboy/CVE-2023-44487: Basic vulnerability scanning to see if web servers may be vulnerable to CVE-2023-44487",
+            "date_modified": "2023-10-11T16:08:14.000Z",
+            "date_published": "2023-10-10T14:20:42.000Z",
+            "author": {
+                "name": "bcdannyboy",
+                "url": "https://github.com/bcdannyboy"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/103446004?u=4e6d68d4ffca4c824a6e97529db717992a69a1a3&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
+            "url": "https://github.com/ruycr4ft/CVE-2023-4911",
+            "title": "ruycr4ft/CVE-2023-4911",
+            "date_modified": "2023-10-11T15:18:12.000Z",
+            "date_published": "2023-10-11T14:49:22.000Z",
+            "author": {
+                "name": "ruycr4ft",
+                "url": "https://github.com/ruycr4ft"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/130102748?u=798a2b777bf34b319dfb3e38b4575ba400514a6a&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>This is a script written in Python that allows the exploitation of the Metabase's software security flaw in the described in CVE 2023-38646.</div>",
+            "url": "https://github.com/m3m0o/metabase-pre-auth-rce-poc",
+            "title": "m3m0o/metabase-pre-auth-rce-poc: This is a script written in Python that allows the exploitation of the Metabase's software security flaw in the described in CVE 2023-38646.",
+            "date_modified": "2023-10-11T15:07:45.000Z",
+            "date_published": "2023-10-09T00:26:38.000Z",
+            "author": {
+                "name": "m3m0o",
+                "url": "https://github.com/m3m0o"
             }
         },
         {
@@ -91,17 +124,6 @@
             "author": {
                 "name": "Zenmovie",
                 "url": "https://github.com/Zenmovie"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/12553297?u=22a2c5ee1bf5b1bf2f6b95e9df052efe6c2aa791&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Basic vulnerability scanning to see if web servers may be vulnerable to CVE-2023-44487</div>",
-            "url": "https://github.com/bcdannyboy/CVE-2023-44487",
-            "title": "bcdannyboy/CVE-2023-44487: Basic vulnerability scanning to see if web servers may be vulnerable to CVE-2023-44487",
-            "date_modified": "2023-10-11T14:14:11.000Z",
-            "date_published": "2023-10-10T14:20:42.000Z",
-            "author": {
-                "name": "bcdannyboy",
-                "url": "https://github.com/bcdannyboy"
             }
         },
         {
@@ -163,7 +185,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/5039686?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A PoC to trigger CVE-2023-5217 from the Browser WebCodecs or MediaRecorder interface.</div>",
             "url": "https://github.com/wrv/cve-2023-5217-poc",
             "title": "wrv/cve-2023-5217-poc: A PoC to trigger CVE-2023-5217 from the Browser WebCodecs or MediaRecorder interface.",
-            "date_modified": "2023-10-11T13:48:53.000Z",
+            "date_modified": "2023-10-11T15:53:49.000Z",
             "date_published": "2023-10-06T05:46:16.000Z",
             "author": {
                 "name": "wrv",
@@ -201,28 +223,6 @@
             "author": {
                 "name": "imabee101",
                 "url": "https://github.com/imabee101"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/18223385?u=5ba29c1a9447ae88a6a0433f44038f47471e11c1&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>TOP All bugbounty pentesting CVE-2023- POC Exp  RCE example payload  Things</div>",
-            "url": "https://github.com/hktalent/TOP",
-            "title": "hktalent/TOP: TOP All bugbounty pentesting CVE-2023- POC Exp  RCE example payload  Things",
-            "date_modified": "2023-10-10T17:53:53.000Z",
-            "date_published": "2022-03-19T01:54:15.000Z",
-            "author": {
-                "name": "hktalent",
-                "url": "https://github.com/hktalent"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/78701239?u=9e68d2365d0c26e3994dc3e04864bc97ccb91348&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2023-42471</div>",
-            "url": "https://github.com/actuator/wave.ai.browser",
-            "title": "actuator/wave.ai.browser: CVE-2023-42471",
-            "date_modified": "2023-09-11T20:59:38.000Z",
-            "date_published": "2023-08-28T05:34:04.000Z",
-            "author": {
-                "name": "actuator",
-                "url": "https://github.com/actuator"
             }
         }
     ]
