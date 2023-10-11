@@ -6,6 +6,17 @@
     "description": "CVE-2022 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/103446004?u=4e6d68d4ffca4c824a6e97529db717992a69a1a3&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Exploit for cacti version 1.2.22</div>",
+            "url": "https://github.com/ruycr4ft/CVE-2022-46169",
+            "title": "ruycr4ft/CVE-2022-46169: Exploit for cacti version 1.2.22",
+            "date_modified": "2023-10-11T14:48:00.000Z",
+            "date_published": "2023-05-01T14:29:28.000Z",
+            "author": {
+                "name": "ruycr4ft",
+                "url": "https://github.com/ruycr4ft"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/85838827?u=853f6885fc0f425af71a5eade7a78ffb4d763446&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2022-24716 (Arbitrary File Disclosure Icingaweb2)</div>",
             "url": "https://github.com/joaoviictorti/CVE-2022-24716",
             "title": "joaoviictorti/CVE-2022-24716: CVE-2022-24716 (Arbitrary File Disclosure Icingaweb2)",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "c0derpwner",
                 "url": "https://github.com/c0derpwner"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/59393271?u=26be6be457c83a437e4446dcf7ebd4a42e2c9818&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A PoC for CVE-2022-26134 for Educational Purposes and Security Research</div>",
-            "url": "https://github.com/acfirthh/CVE-2022-26134",
-            "title": "acfirthh/CVE-2022-26134: A PoC for CVE-2022-26134 for Educational Purposes and Security Research",
-            "date_modified": "2023-09-20T20:16:37.000Z",
-            "date_published": "2023-09-20T19:54:05.000Z",
-            "author": {
-                "name": "acfirthh",
-                "url": "https://github.com/acfirthh"
             }
         }
     ]
