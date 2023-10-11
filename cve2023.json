@@ -17,21 +17,10 @@
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/130102748?u=798a2b777bf34b319dfb3e38b4575ba400514a6a&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>This is a script written in Python that allows the exploitation of the Metabase's software security flaw in the described in CVE 2023-38646.</div>",
-            "url": "https://github.com/m3m0o/metabase-pre-auth-rce-poc",
-            "title": "m3m0o/metabase-pre-auth-rce-poc: This is a script written in Python that allows the exploitation of the Metabase's software security flaw in the described in CVE 2023-38646.",
-            "date_modified": "2023-10-11T15:07:45.000Z",
-            "date_published": "2023-10-09T00:26:38.000Z",
-            "author": {
-                "name": "m3m0o",
-                "url": "https://github.com/m3m0o"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/57839593?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>quick reverse shell exploit for cve-2023-38646</div>",
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/57839593?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2023-38646 Unauthenticated RCE vulnerability in Metabase </div>",
             "url": "https://github.com/nickswink/CVE-2023-38646",
-            "title": "nickswink/CVE-2023-38646: quick reverse shell exploit for cve-2023-38646",
-            "date_modified": "2023-10-11T20:24:28.000Z",
+            "title": "nickswink/CVE-2023-38646: CVE-2023-38646 Unauthenticated RCE vulnerability in Metabase ",
+            "date_modified": "2023-10-11T22:51:00.000Z",
             "date_published": "2023-10-11T20:17:14.000Z",
             "author": {
                 "name": "nickswink",
@@ -42,11 +31,22 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/12553297?u=22a2c5ee1bf5b1bf2f6b95e9df052efe6c2aa791&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Basic vulnerability scanning to see if web servers may be vulnerable to CVE-2023-44487</div>",
             "url": "https://github.com/bcdannyboy/CVE-2023-44487",
             "title": "bcdannyboy/CVE-2023-44487: Basic vulnerability scanning to see if web servers may be vulnerable to CVE-2023-44487",
-            "date_modified": "2023-10-11T21:04:59.000Z",
+            "date_modified": "2023-10-11T22:10:52.000Z",
             "date_published": "2023-10-10T14:20:42.000Z",
             "author": {
                 "name": "bcdannyboy",
                 "url": "https://github.com/bcdannyboy"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/130102748?u=798a2b777bf34b319dfb3e38b4575ba400514a6a&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>This is a script written in Python that allows the exploitation of the Metabase's software security flaw in the described in CVE 2023-38646.</div>",
+            "url": "https://github.com/m3m0o/metabase-pre-auth-rce-poc",
+            "title": "m3m0o/metabase-pre-auth-rce-poc: This is a script written in Python that allows the exploitation of the Metabase's software security flaw in the described in CVE 2023-38646.",
+            "date_modified": "2023-10-11T15:07:45.000Z",
+            "date_published": "2023-10-09T00:26:38.000Z",
+            "author": {
+                "name": "m3m0o",
+                "url": "https://github.com/m3m0o"
             }
         },
         {
