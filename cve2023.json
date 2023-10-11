@@ -6,6 +6,17 @@
     "description": "CVE-2023 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/88535377?u=8282f1d8139691249d08a567a0a9ec513541ab09&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2023-22515: Confluence Broken Access Control Exploit</div>",
+            "url": "https://github.com/Chocapikk/CVE-2023-22515",
+            "title": "Chocapikk/CVE-2023-22515: CVE-2023-22515: Confluence Broken Access Control Exploit",
+            "date_modified": "2023-10-11T17:57:36.000Z",
+            "date_published": "2023-10-10T21:40:09.000Z",
+            "author": {
+                "name": "Chocapikk",
+                "url": "https://github.com/Chocapikk"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/18195825?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023</div>",
             "url": "https://github.com/CVEProject/cvelist",
             "title": "CVEProject/cvelist: Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023",
@@ -42,7 +53,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/12553297?u=22a2c5ee1bf5b1bf2f6b95e9df052efe6c2aa791&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Basic vulnerability scanning to see if web servers may be vulnerable to CVE-2023-44487</div>",
             "url": "https://github.com/bcdannyboy/CVE-2023-44487",
             "title": "bcdannyboy/CVE-2023-44487: Basic vulnerability scanning to see if web servers may be vulnerable to CVE-2023-44487",
-            "date_modified": "2023-10-11T16:23:07.000Z",
+            "date_modified": "2023-10-11T18:01:59.000Z",
             "date_published": "2023-10-10T14:20:42.000Z",
             "author": {
                 "name": "bcdannyboy",
@@ -97,7 +108,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/30978685?u=d0efb986409e738e3963cc4901129b4bbe7551a5&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Root takeover via signature spoofing in KernelSU</div>",
             "url": "https://github.com/Ylarod/CVE-2023-5521",
             "title": "Ylarod/CVE-2023-5521: Root takeover via signature spoofing in KernelSU",
-            "date_modified": "2023-10-11T12:37:56.000Z",
+            "date_modified": "2023-10-11T17:15:33.000Z",
             "date_published": "2023-10-11T12:08:31.000Z",
             "author": {
                 "name": "Ylarod",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "Startr4ck",
                 "url": "https://github.com/Startr4ck"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/29169122?u=2ffaf76038d51980f2f57af0ba3215d1d9423351&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Proof of concept for DoS exploit </div>",
-            "url": "https://github.com/imabee101/CVE-2023-44487",
-            "title": "imabee101/CVE-2023-44487: Proof of concept for DoS exploit ",
-            "date_modified": "2023-10-11T07:14:50.000Z",
-            "date_published": "2023-10-11T01:59:47.000Z",
-            "author": {
-                "name": "imabee101",
-                "url": "https://github.com/imabee101"
             }
         }
     ]
