@@ -17,10 +17,32 @@
             }
         },
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/12553297?u=22a2c5ee1bf5b1bf2f6b95e9df052efe6c2aa791&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Basic vulnerability scanning to see if web servers may be vulnerable to CVE-2023-44487</div>",
+            "url": "https://github.com/bcdannyboy/CVE-2023-44487",
+            "title": "bcdannyboy/CVE-2023-44487: Basic vulnerability scanning to see if web servers may be vulnerable to CVE-2023-44487",
+            "date_modified": "2023-10-11T10:29:57.000Z",
+            "date_published": "2023-10-10T14:20:42.000Z",
+            "author": {
+                "name": "bcdannyboy",
+                "url": "https://github.com/bcdannyboy"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/68430832?u=a14126c0efc630544ede8edcb80c8159487b0f06&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>PoC For CVE-2023-2215 - Auth bypass </div>",
+            "url": "https://github.com/zwxxb/CVE-2023-2215",
+            "title": "zwxxb/CVE-2023-2215: PoC For CVE-2023-2215 - Auth bypass ",
+            "date_modified": "2023-10-11T10:17:27.000Z",
+            "date_published": "2023-10-11T10:16:39.000Z",
+            "author": {
+                "name": "zwxxb",
+                "url": "https://github.com/zwxxb"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/33044636?u=6df1885d50fdddd524119cdc6e1848b5d7a45214&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Confluence未授权添加管理员用户(CVE-2023-22515)漏洞利用工具</div>",
             "url": "https://github.com/ad-calcium/CVE-2023-22515",
             "title": "ad-calcium/CVE-2023-22515: Confluence未授权添加管理员用户(CVE-2023-22515)漏洞利用工具",
-            "date_modified": "2023-10-11T09:54:12.000Z",
+            "date_modified": "2023-10-11T10:49:14.000Z",
             "date_published": "2023-10-11T08:42:17.000Z",
             "author": {
                 "name": "ad-calcium",
@@ -31,7 +53,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/124018391?u=c549542778a07a4c9ef62125f27439698cf5c575&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Simple PoC causing overflow</div>",
             "url": "https://github.com/UTsweetyfish/CVE-2023-38545",
             "title": "UTsweetyfish/CVE-2023-38545: Simple PoC causing overflow",
-            "date_modified": "2023-10-11T09:49:11.000Z",
+            "date_modified": "2023-10-11T10:59:27.000Z",
             "date_published": "2023-10-11T08:11:56.000Z",
             "author": {
                 "name": "UTsweetyfish",
@@ -141,7 +163,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/88535377?u=8282f1d8139691249d08a567a0a9ec513541ab09&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2023-22515: Confluence Broken Access Control Exploit</div>",
             "url": "https://github.com/Chocapikk/CVE-2023-22515",
             "title": "Chocapikk/CVE-2023-22515: CVE-2023-22515: Confluence Broken Access Control Exploit",
-            "date_modified": "2023-10-11T07:51:10.000Z",
+            "date_modified": "2023-10-11T10:53:45.000Z",
             "date_published": "2023-10-10T21:40:09.000Z",
             "author": {
                 "name": "Chocapikk",
@@ -182,17 +204,6 @@
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/12553297?u=22a2c5ee1bf5b1bf2f6b95e9df052efe6c2aa791&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Basic vulnerability scanning to see if web servers may be vulnerable to CVE-2023-44487</div>",
-            "url": "https://github.com/bcdannyboy/CVE-2023-44487",
-            "title": "bcdannyboy/CVE-2023-44487: Basic vulnerability scanning to see if web servers may be vulnerable to CVE-2023-44487",
-            "date_modified": "2023-10-11T09:08:22.000Z",
-            "date_published": "2023-10-10T14:20:42.000Z",
-            "author": {
-                "name": "bcdannyboy",
-                "url": "https://github.com/bcdannyboy"
-            }
-        },
-        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/56364411?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>LPE exploit for CVE-2023-36802</div>",
             "url": "https://github.com/chompie1337/Windows_MSKSSRV_LPE_CVE-2023-36802",
             "title": "chompie1337/Windows_MSKSSRV_LPE_CVE-2023-36802: LPE exploit for CVE-2023-36802",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "Wh04m1001",
                 "url": "https://github.com/Wh04m1001"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/12446252?u=a7ab54eab586b23665c8a386df5b22a0fa4daf38&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Recreation of the SharePoint PoC for CVE-2023-29357 in C# from LuemmelSec</div>",
-            "url": "https://github.com/KeyStrOke95/CVE-2023-29357-ExE",
-            "title": "KeyStrOke95/CVE-2023-29357-ExE: Recreation of the SharePoint PoC for CVE-2023-29357 in C# from LuemmelSec",
-            "date_modified": "2023-10-10T13:41:22.000Z",
-            "date_published": "2023-10-10T13:41:21.000Z",
-            "author": {
-                "name": "KeyStrOke95",
-                "url": "https://github.com/KeyStrOke95"
             }
         }
     ]
