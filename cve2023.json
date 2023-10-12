@@ -17,6 +17,17 @@
             }
         },
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/103446004?u=4e6d68d4ffca4c824a6e97529db717992a69a1a3&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
+            "url": "https://github.com/ruycr4ft/CVE-2023-38831",
+            "title": "ruycr4ft/CVE-2023-38831",
+            "date_modified": "2023-10-12T12:56:52.000Z",
+            "date_published": "2023-10-12T12:46:35.000Z",
+            "author": {
+                "name": "ruycr4ft",
+                "url": "https://github.com/ruycr4ft"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/80873500?u=4c3da53f1a4d2eefea25b7399a2d7b2f21c8515d&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2023-42819</div>",
             "url": "https://github.com/C1ph3rX13/CVE-2023-42819",
             "title": "C1ph3rX13/CVE-2023-42819: CVE-2023-42819",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "nickswink",
                 "url": "https://github.com/nickswink"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/130102748?u=798a2b777bf34b319dfb3e38b4575ba400514a6a&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>This is a script written in Python that allows the exploitation of the Metabase's software security flaw in the described in CVE 2023-38646.</div>",
-            "url": "https://github.com/m3m0o/metabase-pre-auth-rce-poc",
-            "title": "m3m0o/metabase-pre-auth-rce-poc: This is a script written in Python that allows the exploitation of the Metabase's software security flaw in the described in CVE 2023-38646.",
-            "date_modified": "2023-10-11T15:07:45.000Z",
-            "date_published": "2023-10-09T00:26:38.000Z",
-            "author": {
-                "name": "m3m0o",
-                "url": "https://github.com/m3m0o"
             }
         }
     ]
