@@ -17,6 +17,39 @@
             }
         },
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/12553297?u=22a2c5ee1bf5b1bf2f6b95e9df052efe6c2aa791&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Basic vulnerability scanning to see if web servers may be vulnerable to CVE-2023-44487</div>",
+            "url": "https://github.com/bcdannyboy/CVE-2023-44487",
+            "title": "bcdannyboy/CVE-2023-44487: Basic vulnerability scanning to see if web servers may be vulnerable to CVE-2023-44487",
+            "date_modified": "2023-10-12T18:25:31.000Z",
+            "date_published": "2023-10-10T14:20:42.000Z",
+            "author": {
+                "name": "bcdannyboy",
+                "url": "https://github.com/bcdannyboy"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/147735407?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>FortiGate exploit  CVE-2023-27997</div>",
+            "url": "https://github.com/Aicks/FortiGate-CVE-2023-27997",
+            "title": "Aicks/FortiGate-CVE-2023-27997: FortiGate exploit  CVE-2023-27997",
+            "date_modified": "2023-10-12T19:43:47.000Z",
+            "date_published": "2023-10-12T19:43:46.000Z",
+            "author": {
+                "name": "Aicks",
+                "url": "https://github.com/Aicks"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/64486541?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Exploit for CVE-2023-29360 targeting MSKSSRV.SYS driver</div>",
+            "url": "https://github.com/Nero22k/cve-2023-29360",
+            "title": "Nero22k/cve-2023-29360: Exploit for CVE-2023-29360 targeting MSKSSRV.SYS driver",
+            "date_modified": "2023-10-11T02:12:58.000Z",
+            "date_published": "2023-09-24T21:59:23.000Z",
+            "author": {
+                "name": "Nero22k",
+                "url": "https://github.com/Nero22k"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/127108998?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
             "url": "https://github.com/delsploit/CVE-2023-27997",
             "title": "delsploit/CVE-2023-27997",
@@ -75,7 +108,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/23701097?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>xortigate-cve-2023-27997</div>",
             "url": "https://github.com/lexfo/xortigate-cve-2023-27997",
             "title": "lexfo/xortigate-cve-2023-27997: xortigate-cve-2023-27997",
-            "date_modified": "2023-10-12T18:46:05.000Z",
+            "date_modified": "2023-10-12T19:50:22.000Z",
             "date_published": "2023-10-12T16:12:41.000Z",
             "author": {
                 "name": "lexfo",
@@ -94,10 +127,10 @@
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/147735407?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2023-3519</div>",
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/147735407?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>exploit CVE-2023-3519</div>",
             "url": "https://github.com/Aicks/Citrix-CVE-2023-3519",
-            "title": "Aicks/Citrix-CVE-2023-3519: CVE-2023-3519",
-            "date_modified": "2023-10-12T15:11:55.000Z",
+            "title": "Aicks/Citrix-CVE-2023-3519: exploit CVE-2023-3519",
+            "date_modified": "2023-10-12T19:45:03.000Z",
             "date_published": "2023-10-12T15:11:55.000Z",
             "author": {
                 "name": "Aicks",
@@ -124,17 +157,6 @@
             "author": {
                 "name": "zwxxb",
                 "url": "https://github.com/zwxxb"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/12553297?u=22a2c5ee1bf5b1bf2f6b95e9df052efe6c2aa791&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Basic vulnerability scanning to see if web servers may be vulnerable to CVE-2023-44487</div>",
-            "url": "https://github.com/bcdannyboy/CVE-2023-44487",
-            "title": "bcdannyboy/CVE-2023-44487: Basic vulnerability scanning to see if web servers may be vulnerable to CVE-2023-44487",
-            "date_modified": "2023-10-12T18:25:31.000Z",
-            "date_published": "2023-10-10T14:20:42.000Z",
-            "author": {
-                "name": "bcdannyboy",
-                "url": "https://github.com/bcdannyboy"
             }
         },
         {
@@ -201,28 +223,6 @@
             "author": {
                 "name": "Trinadh465",
                 "url": "https://github.com/Trinadh465"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/106973537?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
-            "url": "https://github.com/nidhi7598/external_aac_AOSP_06_r22_CVE-2023-21282",
-            "title": "nidhi7598/external_aac_AOSP_06_r22_CVE-2023-21282",
-            "date_modified": "2023-10-12T07:26:10.000Z",
-            "date_published": "2023-10-12T07:22:49.000Z",
-            "author": {
-                "name": "nidhi7598",
-                "url": "https://github.com/nidhi7598"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/42498816?u=08c4092e757fc2588b734e8e09e355493e9126e9&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>MS Office and Windows HTML RCE (CVE-2023-36884) - PoC and exploit</div>",
-            "url": "https://github.com/jakabakos/CVE-2023-36884-MS-Office-HTML-RCE",
-            "title": "jakabakos/CVE-2023-36884-MS-Office-HTML-RCE: MS Office and Windows HTML RCE (CVE-2023-36884) - PoC and exploit",
-            "date_modified": "2023-10-12T08:08:43.000Z",
-            "date_published": "2023-09-28T11:53:44.000Z",
-            "author": {
-                "name": "jakabakos",
-                "url": "https://github.com/jakabakos"
             }
         }
     ]
