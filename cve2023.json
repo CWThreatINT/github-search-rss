@@ -6,6 +6,17 @@
     "description": "CVE-2023 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/18223385?u=5ba29c1a9447ae88a6a0433f44038f47471e11c1&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>TOP All bugbounty pentesting CVE-2023- POC Exp  RCE example payload  Things</div>",
+            "url": "https://github.com/hktalent/TOP",
+            "title": "hktalent/TOP: TOP All bugbounty pentesting CVE-2023- POC Exp  RCE example payload  Things",
+            "date_modified": "2023-10-10T17:53:53.000Z",
+            "date_published": "2022-03-19T01:54:15.000Z",
+            "author": {
+                "name": "hktalent",
+                "url": "https://github.com/hktalent"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/18195825?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023</div>",
             "url": "https://github.com/CVEProject/cvelist",
             "title": "CVEProject/cvelist: Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023",
@@ -119,7 +130,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/30978685?u=d0efb986409e738e3963cc4901129b4bbe7551a5&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Root takeover via signature spoofing in KernelSU</div>",
             "url": "https://github.com/Ylarod/CVE-2023-5521",
             "title": "Ylarod/CVE-2023-5521: Root takeover via signature spoofing in KernelSU",
-            "date_modified": "2023-10-11T17:15:33.000Z",
+            "date_modified": "2023-10-12T00:19:18.000Z",
             "date_published": "2023-10-11T12:08:31.000Z",
             "author": {
                 "name": "Ylarod",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "wrv",
                 "url": "https://github.com/wrv"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/114604850?u=862bf4d4f4dbea9ac0723a1774fbd1530d2bf5e2&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2023-38646 Metabase RCE</div>",
-            "url": "https://github.com/Boogipop/MetabaseRceTools",
-            "title": "Boogipop/MetabaseRceTools: CVE-2023-38646 Metabase RCE",
-            "date_modified": "2023-10-11T09:43:26.000Z",
-            "date_published": "2023-10-11T03:18:09.000Z",
-            "author": {
-                "name": "Boogipop",
-                "url": "https://github.com/Boogipop"
             }
         }
     ]
