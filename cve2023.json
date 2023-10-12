@@ -6,6 +6,17 @@
     "description": "CVE-2023 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/56080837?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Simple PoC causing overflow</div>",
+            "url": "https://github.com/fatmo666/CVE-2023-38545-libcurl-SOCKS5-heap-buffer-overflow",
+            "title": "fatmo666/CVE-2023-38545-libcurl-SOCKS5-heap-buffer-overflow: Simple PoC causing overflow",
+            "date_modified": "2023-10-12T08:08:45.000Z",
+            "date_published": "2023-10-12T07:39:15.000Z",
+            "author": {
+                "name": "fatmo666",
+                "url": "https://github.com/fatmo666"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/18195825?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023</div>",
             "url": "https://github.com/CVEProject/cvelist",
             "title": "CVEProject/cvelist: Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023",
@@ -17,10 +28,54 @@
             }
         },
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/102574296?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
+            "url": "https://github.com/Trinadh465/frameworks_base_AOSP10_r33_CVE-2023-21251",
+            "title": "Trinadh465/frameworks_base_AOSP10_r33_CVE-2023-21251",
+            "date_modified": "2023-10-12T07:35:27.000Z",
+            "date_published": "2023-10-12T07:30:13.000Z",
+            "author": {
+                "name": "Trinadh465",
+                "url": "https://github.com/Trinadh465"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/106973537?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
+            "url": "https://github.com/nidhi7598/external_aac_AOSP_06_r22_CVE-2023-21282",
+            "title": "nidhi7598/external_aac_AOSP_06_r22_CVE-2023-21282",
+            "date_modified": "2023-10-12T07:26:10.000Z",
+            "date_published": "2023-10-12T07:22:49.000Z",
+            "author": {
+                "name": "nidhi7598",
+                "url": "https://github.com/nidhi7598"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/15059493?u=c20734c83b8c7f840172380c3ac5fdc182ae6dc5&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
+            "url": "https://github.com/imfht/CVE-2023-38545",
+            "title": "imfht/CVE-2023-38545",
+            "date_modified": "2023-10-12T07:16:50.000Z",
+            "date_published": "2023-10-12T07:16:49.000Z",
+            "author": {
+                "name": "imfht",
+                "url": "https://github.com/imfht"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/42498816?u=08c4092e757fc2588b734e8e09e355493e9126e9&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>MS Office and Windows HTML RCE (CVE-2023-36884) - PoC and exploit</div>",
+            "url": "https://github.com/jakabakos/CVE-2023-36884-MS-Office-HTML-RCE",
+            "title": "jakabakos/CVE-2023-36884-MS-Office-HTML-RCE: MS Office and Windows HTML RCE (CVE-2023-36884) - PoC and exploit",
+            "date_modified": "2023-10-12T08:08:43.000Z",
+            "date_published": "2023-09-28T11:53:44.000Z",
+            "author": {
+                "name": "jakabakos",
+                "url": "https://github.com/jakabakos"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/80873500?u=4c3da53f1a4d2eefea25b7399a2d7b2f21c8515d&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2023-42820 POC</div>",
             "url": "https://github.com/C1ph3rX13/CVE-2023-42820",
             "title": "C1ph3rX13/CVE-2023-42820: CVE-2023-42820 POC",
-            "date_modified": "2023-10-12T06:50:00.000Z",
+            "date_modified": "2023-10-12T07:35:49.000Z",
             "date_published": "2023-10-10T06:32:51.000Z",
             "author": {
                 "name": "C1ph3rX13",
@@ -97,7 +152,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/33044636?u=6df1885d50fdddd524119cdc6e1848b5d7a45214&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Confluence未授权添加管理员用户(CVE-2023-22515)漏洞利用工具</div>",
             "url": "https://github.com/ad-calcium/CVE-2023-22515",
             "title": "ad-calcium/CVE-2023-22515: Confluence未授权添加管理员用户(CVE-2023-22515)漏洞利用工具",
-            "date_modified": "2023-10-12T01:57:06.000Z",
+            "date_modified": "2023-10-12T07:30:31.000Z",
             "date_published": "2023-10-11T08:42:17.000Z",
             "author": {
                 "name": "ad-calcium",
@@ -119,7 +174,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/12553297?u=22a2c5ee1bf5b1bf2f6b95e9df052efe6c2aa791&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Basic vulnerability scanning to see if web servers may be vulnerable to CVE-2023-44487</div>",
             "url": "https://github.com/bcdannyboy/CVE-2023-44487",
             "title": "bcdannyboy/CVE-2023-44487: Basic vulnerability scanning to see if web servers may be vulnerable to CVE-2023-44487",
-            "date_modified": "2023-10-12T06:27:49.000Z",
+            "date_modified": "2023-10-12T07:59:18.000Z",
             "date_published": "2023-10-10T14:20:42.000Z",
             "author": {
                 "name": "bcdannyboy",
@@ -168,61 +223,6 @@
             "author": {
                 "name": "MinoTauro2020",
                 "url": "https://github.com/MinoTauro2020"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/88535377?u=8282f1d8139691249d08a567a0a9ec513541ab09&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2023-22515: Confluence Broken Access Control Exploit</div>",
-            "url": "https://github.com/Chocapikk/CVE-2023-22515",
-            "title": "Chocapikk/CVE-2023-22515: CVE-2023-22515: Confluence Broken Access Control Exploit",
-            "date_modified": "2023-10-12T05:01:11.000Z",
-            "date_published": "2023-10-10T21:40:09.000Z",
-            "author": {
-                "name": "Chocapikk",
-                "url": "https://github.com/Chocapikk"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/117520656?u=f259f111d69cb0cb757008a1be0b211fcdcffade&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2023-38646 Metabase 0.46.6 exploit</div>",
-            "url": "https://github.com/SUT0L/CVE-2023-38646",
-            "title": "SUT0L/CVE-2023-38646: CVE-2023-38646 Metabase 0.46.6 exploit",
-            "date_modified": "2023-10-11T15:26:47.000Z",
-            "date_published": "2023-10-11T15:18:25.000Z",
-            "author": {
-                "name": "SUT0L",
-                "url": "https://github.com/SUT0L"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/103446004?u=4e6d68d4ffca4c824a6e97529db717992a69a1a3&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2023-4911</div>",
-            "url": "https://github.com/ruycr4ft/CVE-2023-4911",
-            "title": "ruycr4ft/CVE-2023-4911: CVE-2023-4911",
-            "date_modified": "2023-10-11T17:04:11.000Z",
-            "date_published": "2023-10-11T14:49:22.000Z",
-            "author": {
-                "name": "ruycr4ft",
-                "url": "https://github.com/ruycr4ft"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/61748137?u=05ce12521ca25e9e4184eb24046267dafd2236d9&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Security Vulnerability - Kardex Mlog MCC</div>",
-            "url": "https://github.com/vianic/CVE-2023-22855",
-            "title": "vianic/CVE-2023-22855: Security Vulnerability - Kardex Mlog MCC",
-            "date_modified": "2023-10-11T14:27:09.000Z",
-            "date_published": "2023-10-11T14:27:08.000Z",
-            "author": {
-                "name": "vianic",
-                "url": "https://github.com/vianic"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/85838827?u=853f6885fc0f425af71a5eade7a78ffb4d763446&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2023-38646 (Pre-Auth RCE in Metabase)</div>",
-            "url": "https://github.com/joaoviictorti/CVE-2023-38646",
-            "title": "joaoviictorti/CVE-2023-38646: CVE-2023-38646 (Pre-Auth RCE in Metabase)",
-            "date_modified": "2023-10-08T00:22:25.000Z",
-            "date_published": "2023-10-08T00:21:07.000Z",
-            "author": {
-                "name": "joaoviictorti",
-                "url": "https://github.com/joaoviictorti"
             }
         }
     ]
