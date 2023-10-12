@@ -6,14 +6,14 @@
     "description": "CVE-2023 FEED on GitHub",
     "items": [
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/18223385?u=5ba29c1a9447ae88a6a0433f44038f47471e11c1&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>TOP All bugbounty pentesting CVE-2023- POC Exp  RCE example payload  Things</div>",
-            "url": "https://github.com/hktalent/TOP",
-            "title": "hktalent/TOP: TOP All bugbounty pentesting CVE-2023- POC Exp  RCE example payload  Things",
-            "date_modified": "2023-10-10T17:53:53.000Z",
-            "date_published": "2022-03-19T01:54:15.000Z",
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/110007292?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2023-5538 - MpOperationLogs &lt;= 1.0.1 - 未经身份验证的存储跨站点脚本</div>",
+            "url": "https://github.com/juweihuitao/MpOperationLogs",
+            "title": "juweihuitao/MpOperationLogs: CVE-2023-5538 - MpOperationLogs <= 1.0.1 - 未经身份验证的存储跨站点脚本",
+            "date_modified": "2023-10-12T01:15:09.000Z",
+            "date_published": "2023-10-12T01:15:09.000Z",
             "author": {
-                "name": "hktalent",
-                "url": "https://github.com/hktalent"
+                "name": "juweihuitao",
+                "url": "https://github.com/juweihuitao"
             }
         },
         {
@@ -25,6 +25,17 @@
             "author": {
                 "name": "CVEProject",
                 "url": "https://github.com/CVEProject"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/18223385?u=5ba29c1a9447ae88a6a0433f44038f47471e11c1&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>TOP All bugbounty pentesting CVE-2023- POC Exp  RCE example payload  Things</div>",
+            "url": "https://github.com/hktalent/TOP",
+            "title": "hktalent/TOP: TOP All bugbounty pentesting CVE-2023- POC Exp  RCE example payload  Things",
+            "date_modified": "2023-10-10T17:53:53.000Z",
+            "date_published": "2022-03-19T01:54:15.000Z",
+            "author": {
+                "name": "hktalent",
+                "url": "https://github.com/hktalent"
             }
         },
         {
@@ -42,7 +53,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/12553297?u=22a2c5ee1bf5b1bf2f6b95e9df052efe6c2aa791&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Basic vulnerability scanning to see if web servers may be vulnerable to CVE-2023-44487</div>",
             "url": "https://github.com/bcdannyboy/CVE-2023-44487",
             "title": "bcdannyboy/CVE-2023-44487: Basic vulnerability scanning to see if web servers may be vulnerable to CVE-2023-44487",
-            "date_modified": "2023-10-11T22:10:52.000Z",
+            "date_modified": "2023-10-12T00:33:17.000Z",
             "date_published": "2023-10-10T14:20:42.000Z",
             "author": {
                 "name": "bcdannyboy",
@@ -75,7 +86,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/88535377?u=8282f1d8139691249d08a567a0a9ec513541ab09&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2023-22515: Confluence Broken Access Control Exploit</div>",
             "url": "https://github.com/Chocapikk/CVE-2023-22515",
             "title": "Chocapikk/CVE-2023-22515: CVE-2023-22515: Confluence Broken Access Control Exploit",
-            "date_modified": "2023-10-11T20:45:45.000Z",
+            "date_modified": "2023-10-12T01:37:09.000Z",
             "date_published": "2023-10-10T21:40:09.000Z",
             "author": {
                 "name": "Chocapikk",
@@ -130,7 +141,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/30978685?u=d0efb986409e738e3963cc4901129b4bbe7551a5&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Root takeover via signature spoofing in KernelSU</div>",
             "url": "https://github.com/Ylarod/CVE-2023-5521",
             "title": "Ylarod/CVE-2023-5521: Root takeover via signature spoofing in KernelSU",
-            "date_modified": "2023-10-12T00:19:18.000Z",
+            "date_modified": "2023-10-12T01:36:01.000Z",
             "date_published": "2023-10-11T12:08:31.000Z",
             "author": {
                 "name": "Ylarod",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "ggb0n",
                 "url": "https://github.com/ggb0n"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/5039686?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A PoC to trigger CVE-2023-5217 from the Browser WebCodecs or MediaRecorder interface.</div>",
-            "url": "https://github.com/wrv/cve-2023-5217-poc",
-            "title": "wrv/cve-2023-5217-poc: A PoC to trigger CVE-2023-5217 from the Browser WebCodecs or MediaRecorder interface.",
-            "date_modified": "2023-10-11T15:53:49.000Z",
-            "date_published": "2023-10-06T05:46:16.000Z",
-            "author": {
-                "name": "wrv",
-                "url": "https://github.com/wrv"
             }
         }
     ]
