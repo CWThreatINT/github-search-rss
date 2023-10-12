@@ -72,6 +72,17 @@
             }
         },
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/65294596?u=7f13fa80b0297851c7a530ff16d7099a15348853&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE CSRF DELETE ACCOUNT</div>",
+            "url": "https://github.com/MinoTauro2020/CVE-2023-43148",
+            "title": "MinoTauro2020/CVE-2023-43148: CVE CSRF DELETE ACCOUNT",
+            "date_modified": "2023-10-12T17:39:37.000Z",
+            "date_published": "2023-09-16T11:48:44.000Z",
+            "author": {
+                "name": "MinoTauro2020",
+                "url": "https://github.com/MinoTauro2020"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/147735407?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2023-3519</div>",
             "url": "https://github.com/Aicks/Citrix-CVE-2023-3519",
             "title": "Aicks/Citrix-CVE-2023-3519: CVE-2023-3519",
@@ -108,7 +119,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/12553297?u=22a2c5ee1bf5b1bf2f6b95e9df052efe6c2aa791&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Basic vulnerability scanning to see if web servers may be vulnerable to CVE-2023-44487</div>",
             "url": "https://github.com/bcdannyboy/CVE-2023-44487",
             "title": "bcdannyboy/CVE-2023-44487: Basic vulnerability scanning to see if web servers may be vulnerable to CVE-2023-44487",
-            "date_modified": "2023-10-12T16:52:50.000Z",
+            "date_modified": "2023-10-12T17:59:36.000Z",
             "date_published": "2023-10-10T14:20:42.000Z",
             "author": {
                 "name": "bcdannyboy",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "C1ph3rX13",
                 "url": "https://github.com/C1ph3rX13"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/128219249?u=eadd9700aa53de36fd4bdce9c71e0b8f123064c9&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Confluence未授权添加管理员用户漏洞利用脚本</div>",
-            "url": "https://github.com/sincere9/CVE-2023-22515",
-            "title": "sincere9/CVE-2023-22515: Confluence未授权添加管理员用户漏洞利用脚本",
-            "date_modified": "2023-10-12T09:59:30.000Z",
-            "date_published": "2023-10-12T02:41:23.000Z",
-            "author": {
-                "name": "sincere9",
-                "url": "https://github.com/sincere9"
             }
         }
     ]
