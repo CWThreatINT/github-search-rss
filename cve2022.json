@@ -6,6 +6,17 @@
     "description": "CVE-2022 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/62298351?u=f853a9efb25e2b83aa3965b479978c8574f158eb&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Analysis and replication of CVE-2022-23988 and CVE-2022-34265 </div>",
+            "url": "https://github.com/simonepetruzzi/WebSecurityProject",
+            "title": "simonepetruzzi/WebSecurityProject: Analysis and replication of CVE-2022-23988 and CVE-2022-34265 ",
+            "date_modified": "2023-10-12T15:58:06.000Z",
+            "date_published": "2023-10-12T15:58:06.000Z",
+            "author": {
+                "name": "simonepetruzzi",
+                "url": "https://github.com/simonepetruzzi"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/147713793?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
             "url": "https://github.com/kor34N/CVE-2022-32548-mass",
             "title": "kor34N/CVE-2022-32548-mass",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "nova-master",
                 "url": "https://github.com/nova-master"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/70909693?u=623cdd16249501e7d4f74b743a81017fc3b4de3a&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A PoC exploit for CVE-2022-34753 - OS Command Injection in SpaceLogic C-Bus Home Controller</div>",
-            "url": "https://github.com/K3ysTr0K3R/CVE-2022-34753-EXPLOIT",
-            "title": "K3ysTr0K3R/CVE-2022-34753-EXPLOIT: A PoC exploit for CVE-2022-34753 - OS Command Injection in SpaceLogic C-Bus Home Controller",
-            "date_modified": "2023-09-22T21:02:24.000Z",
-            "date_published": "2023-09-22T20:41:19.000Z",
-            "author": {
-                "name": "K3ysTr0K3R",
-                "url": "https://github.com/K3ysTr0K3R"
             }
         }
     ]
