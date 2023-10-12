@@ -17,6 +17,39 @@
             }
         },
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/128219249?u=eadd9700aa53de36fd4bdce9c71e0b8f123064c9&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
+            "url": "https://github.com/sincere9/CVE-2023-22515",
+            "title": "sincere9/CVE-2023-22515",
+            "date_modified": "2023-10-12T02:47:57.000Z",
+            "date_published": "2023-10-12T02:41:23.000Z",
+            "author": {
+                "name": "sincere9",
+                "url": "https://github.com/sincere9"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/112363374?u=70ea8282709585c39f78be76f2b11882eb06197c&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
+            "url": "https://github.com/passwa11/CVE-2023-38646",
+            "title": "passwa11/CVE-2023-38646",
+            "date_modified": "2023-10-12T02:24:24.000Z",
+            "date_published": "2023-10-12T02:24:12.000Z",
+            "author": {
+                "name": "passwa11",
+                "url": "https://github.com/passwa11"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/33044636?u=6df1885d50fdddd524119cdc6e1848b5d7a45214&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Confluence未授权添加管理员用户(CVE-2023-22515)漏洞利用工具</div>",
+            "url": "https://github.com/ad-calcium/CVE-2023-22515",
+            "title": "ad-calcium/CVE-2023-22515: Confluence未授权添加管理员用户(CVE-2023-22515)漏洞利用工具",
+            "date_modified": "2023-10-12T01:57:06.000Z",
+            "date_published": "2023-10-11T08:42:17.000Z",
+            "author": {
+                "name": "ad-calcium",
+                "url": "https://github.com/ad-calcium"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/110007292?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2023-5538 - MpOperationLogs &lt;= 1.0.1 - 未经身份验证的存储跨站点脚本</div>",
             "url": "https://github.com/juweihuitao/MpOperationLogs",
             "title": "juweihuitao/MpOperationLogs: CVE-2023-5538 - MpOperationLogs <= 1.0.1 - 未经身份验证的存储跨站点脚本",
@@ -31,7 +64,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/12553297?u=22a2c5ee1bf5b1bf2f6b95e9df052efe6c2aa791&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Basic vulnerability scanning to see if web servers may be vulnerable to CVE-2023-44487</div>",
             "url": "https://github.com/bcdannyboy/CVE-2023-44487",
             "title": "bcdannyboy/CVE-2023-44487: Basic vulnerability scanning to see if web servers may be vulnerable to CVE-2023-44487",
-            "date_modified": "2023-10-12T01:54:26.000Z",
+            "date_modified": "2023-10-12T02:42:05.000Z",
             "date_published": "2023-10-10T14:20:42.000Z",
             "author": {
                 "name": "bcdannyboy",
@@ -86,7 +119,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/88535377?u=8282f1d8139691249d08a567a0a9ec513541ab09&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2023-22515: Confluence Broken Access Control Exploit</div>",
             "url": "https://github.com/Chocapikk/CVE-2023-22515",
             "title": "Chocapikk/CVE-2023-22515: CVE-2023-22515: Confluence Broken Access Control Exploit",
-            "date_modified": "2023-10-12T01:37:09.000Z",
+            "date_modified": "2023-10-12T03:03:42.000Z",
             "date_published": "2023-10-10T21:40:09.000Z",
             "author": {
                 "name": "Chocapikk",
@@ -182,17 +215,6 @@
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/33044636?u=6df1885d50fdddd524119cdc6e1848b5d7a45214&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Confluence未授权添加管理员用户(CVE-2023-22515)漏洞利用工具</div>",
-            "url": "https://github.com/ad-calcium/CVE-2023-22515",
-            "title": "ad-calcium/CVE-2023-22515: Confluence未授权添加管理员用户(CVE-2023-22515)漏洞利用工具",
-            "date_modified": "2023-10-12T01:57:06.000Z",
-            "date_published": "2023-10-11T08:42:17.000Z",
-            "author": {
-                "name": "ad-calcium",
-                "url": "https://github.com/ad-calcium"
-            }
-        },
-        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/124018391?u=c549542778a07a4c9ef62125f27439698cf5c575&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Simple PoC causing overflow</div>",
             "url": "https://github.com/UTsweetyfish/CVE-2023-38545",
             "title": "UTsweetyfish/CVE-2023-38545: Simple PoC causing overflow",
@@ -201,28 +223,6 @@
             "author": {
                 "name": "UTsweetyfish",
                 "url": "https://github.com/UTsweetyfish"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/41365666?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>PoC for CVE-2023-44962</div>",
-            "url": "https://github.com/ggb0n/CVE-2023-44962",
-            "title": "ggb0n/CVE-2023-44962: PoC for CVE-2023-44962",
-            "date_modified": "2023-10-09T08:44:22.000Z",
-            "date_published": "2023-10-05T07:43:07.000Z",
-            "author": {
-                "name": "ggb0n",
-                "url": "https://github.com/ggb0n"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/41365666?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>PoC for CVE-2023-44961</div>",
-            "url": "https://github.com/ggb0n/CVE-2023-44961",
-            "title": "ggb0n/CVE-2023-44961: PoC for CVE-2023-44961",
-            "date_modified": "2023-10-08T14:48:39.000Z",
-            "date_published": "2023-10-05T07:27:45.000Z",
-            "author": {
-                "name": "ggb0n",
-                "url": "https://github.com/ggb0n"
             }
         }
     ]
