@@ -17,6 +17,17 @@
             }
         },
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/102164992?u=54a160b093b8addee449c48e1cb2758418bb64c1&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
+            "url": "https://github.com/threatHNTR/CVE-2023-38646",
+            "title": "threatHNTR/CVE-2023-38646",
+            "date_modified": "2023-10-12T14:33:25.000Z",
+            "date_published": "2023-10-12T14:32:17.000Z",
+            "author": {
+                "name": "threatHNTR",
+                "url": "https://github.com/threatHNTR"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/122263374?u=b741a7055d07351ddbe48eabf21904c15fd5a667&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Assets Management System 1.0 is vulnerable to SQL injection via the id parameter in delete.php</div>",
             "url": "https://github.com/Pegasus0xx/CVE-2023-43144",
             "title": "Pegasus0xx/CVE-2023-43144: Assets Management System 1.0 is vulnerable to SQL injection via the id parameter in delete.php",
@@ -196,7 +207,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/12553297?u=22a2c5ee1bf5b1bf2f6b95e9df052efe6c2aa791&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Basic vulnerability scanning to see if web servers may be vulnerable to CVE-2023-44487</div>",
             "url": "https://github.com/bcdannyboy/CVE-2023-44487",
             "title": "bcdannyboy/CVE-2023-44487: Basic vulnerability scanning to see if web servers may be vulnerable to CVE-2023-44487",
-            "date_modified": "2023-10-13T18:27:43.000Z",
+            "date_modified": "2023-10-13T20:58:54.000Z",
             "date_published": "2023-10-10T14:20:42.000Z",
             "author": {
                 "name": "bcdannyboy",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "Aicks",
                 "url": "https://github.com/Aicks"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/64486541?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Exploit for CVE-2023-29360 targeting MSKSSRV.SYS driver</div>",
-            "url": "https://github.com/Nero22k/cve-2023-29360",
-            "title": "Nero22k/cve-2023-29360: Exploit for CVE-2023-29360 targeting MSKSSRV.SYS driver",
-            "date_modified": "2023-10-13T02:24:27.000Z",
-            "date_published": "2023-09-24T21:59:23.000Z",
-            "author": {
-                "name": "Nero22k",
-                "url": "https://github.com/Nero22k"
             }
         }
     ]
