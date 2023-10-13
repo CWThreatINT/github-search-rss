@@ -6,6 +6,17 @@
     "description": "CVE-2023 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/106973537?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
+            "url": "https://github.com/nidhi7598/frameworks_base_AOSP_06_r22_CVE-2023-21272",
+            "title": "nidhi7598/frameworks_base_AOSP_06_r22_CVE-2023-21272",
+            "date_modified": "2023-10-13T05:00:29.000Z",
+            "date_published": "2023-10-13T05:00:29.000Z",
+            "author": {
+                "name": "nidhi7598",
+                "url": "https://github.com/nidhi7598"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/18195825?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023</div>",
             "url": "https://github.com/CVEProject/cvelist",
             "title": "CVEProject/cvelist: Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023",
@@ -53,7 +64,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/12553297?u=22a2c5ee1bf5b1bf2f6b95e9df052efe6c2aa791&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Basic vulnerability scanning to see if web servers may be vulnerable to CVE-2023-44487</div>",
             "url": "https://github.com/bcdannyboy/CVE-2023-44487",
             "title": "bcdannyboy/CVE-2023-44487: Basic vulnerability scanning to see if web servers may be vulnerable to CVE-2023-44487",
-            "date_modified": "2023-10-13T03:30:10.000Z",
+            "date_modified": "2023-10-13T04:46:03.000Z",
             "date_published": "2023-10-10T14:20:42.000Z",
             "author": {
                 "name": "bcdannyboy",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "imfht",
                 "url": "https://github.com/imfht"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/53632236?u=2b13764194310ce32043ecacc7eaaa72c323d1f0&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>JumpServer </div>",
-            "url": "https://github.com/Startr4ck/cve-2023-42820",
-            "title": "Startr4ck/cve-2023-42820: JumpServer ",
-            "date_modified": "2023-10-13T03:41:07.000Z",
-            "date_published": "2023-10-11T03:15:30.000Z",
-            "author": {
-                "name": "Startr4ck",
-                "url": "https://github.com/Startr4ck"
             }
         }
     ]
