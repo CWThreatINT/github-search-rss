@@ -6,17 +6,6 @@
     "description": "CVE-2023 FEED on GitHub",
     "items": [
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/122263374?u=b741a7055d07351ddbe48eabf21904c15fd5a667&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Assets Management System 1.0 is vulnerable to an SQL injection via the id parameter in delete.php</div>",
-            "url": "https://github.com/Pegasus0xx/CVE-2023-43144",
-            "title": "Pegasus0xx/CVE-2023-43144: Assets Management System 1.0 is vulnerable to an SQL injection via the id parameter in delete.php",
-            "date_modified": "2023-10-13T18:04:14.000Z",
-            "date_published": "2023-10-13T18:04:13.000Z",
-            "author": {
-                "name": "Pegasus0xx",
-                "url": "https://github.com/Pegasus0xx"
-            }
-        },
-        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/18195825?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023</div>",
             "url": "https://github.com/CVEProject/cvelist",
             "title": "CVEProject/cvelist: Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023",
@@ -25,6 +14,17 @@
             "author": {
                 "name": "CVEProject",
                 "url": "https://github.com/CVEProject"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/122263374?u=b741a7055d07351ddbe48eabf21904c15fd5a667&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Assets Management System 1.0 is vulnerable to SQL injection via the id parameter in delete.php</div>",
+            "url": "https://github.com/Pegasus0xx/CVE-2023-43144",
+            "title": "Pegasus0xx/CVE-2023-43144: Assets Management System 1.0 is vulnerable to SQL injection via the id parameter in delete.php",
+            "date_modified": "2023-10-13T18:19:22.000Z",
+            "date_published": "2023-10-13T18:19:22.000Z",
+            "author": {
+                "name": "Pegasus0xx",
+                "url": "https://github.com/Pegasus0xx"
             }
         },
         {
@@ -196,7 +196,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/12553297?u=22a2c5ee1bf5b1bf2f6b95e9df052efe6c2aa791&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Basic vulnerability scanning to see if web servers may be vulnerable to CVE-2023-44487</div>",
             "url": "https://github.com/bcdannyboy/CVE-2023-44487",
             "title": "bcdannyboy/CVE-2023-44487: Basic vulnerability scanning to see if web servers may be vulnerable to CVE-2023-44487",
-            "date_modified": "2023-10-13T17:56:22.000Z",
+            "date_modified": "2023-10-13T18:27:43.000Z",
             "date_published": "2023-10-10T14:20:42.000Z",
             "author": {
                 "name": "bcdannyboy",
