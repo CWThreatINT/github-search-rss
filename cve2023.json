@@ -17,6 +17,28 @@
             }
         },
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/98477272?u=4ea68a19a75adef68127762c009db8c850c1db46&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Example of CVE-2023-41105</div>",
+            "url": "https://github.com/JawadPy/CVE-2023-41105-Exploit",
+            "title": "JawadPy/CVE-2023-41105-Exploit: Example of CVE-2023-41105",
+            "date_modified": "2023-10-13T06:27:47.000Z",
+            "date_published": "2023-10-05T00:32:31.000Z",
+            "author": {
+                "name": "JawadPy",
+                "url": "https://github.com/JawadPy"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/98477272?u=4ea68a19a75adef68127762c009db8c850c1db46&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Example of how CVE-2023-43804 works with real python code.</div>",
+            "url": "https://github.com/JawadPy/CVE-2023-43804",
+            "title": "JawadPy/CVE-2023-43804: Example of how CVE-2023-43804 works with real python code.",
+            "date_modified": "2023-10-13T06:16:46.000Z",
+            "date_published": "2023-10-13T06:15:45.000Z",
+            "author": {
+                "name": "JawadPy",
+                "url": "https://github.com/JawadPy"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/97610822?u=5b8029251583f2f00d86acfb466b3b0cec99f930&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Confluence Data Center &amp; Server 权限提升漏洞 Exploit</div>",
             "url": "https://github.com/Le1a/CVE-2023-22515",
             "title": "Le1a/CVE-2023-22515: Confluence Data Center & Server 权限提升漏洞 Exploit",
@@ -42,7 +64,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/80873500?u=4c3da53f1a4d2eefea25b7399a2d7b2f21c8515d&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2023-42820</div>",
             "url": "https://github.com/C1ph3rX13/CVE-2023-42820",
             "title": "C1ph3rX13/CVE-2023-42820: CVE-2023-42820",
-            "date_modified": "2023-10-13T03:03:23.000Z",
+            "date_modified": "2023-10-13T06:22:01.000Z",
             "date_published": "2023-10-10T06:32:51.000Z",
             "author": {
                 "name": "C1ph3rX13",
@@ -75,7 +97,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/12553297?u=22a2c5ee1bf5b1bf2f6b95e9df052efe6c2aa791&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Basic vulnerability scanning to see if web servers may be vulnerable to CVE-2023-44487</div>",
             "url": "https://github.com/bcdannyboy/CVE-2023-44487",
             "title": "bcdannyboy/CVE-2023-44487: Basic vulnerability scanning to see if web servers may be vulnerable to CVE-2023-44487",
-            "date_modified": "2023-10-13T05:43:17.000Z",
+            "date_modified": "2023-10-13T06:14:04.000Z",
             "date_published": "2023-10-10T14:20:42.000Z",
             "author": {
                 "name": "bcdannyboy",
@@ -196,33 +218,11 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/57839593?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2023-38646 Unauthenticated RCE vulnerability in Metabase </div>",
             "url": "https://github.com/nickswink/CVE-2023-38646",
             "title": "nickswink/CVE-2023-38646: CVE-2023-38646 Unauthenticated RCE vulnerability in Metabase ",
-            "date_modified": "2023-10-11T22:51:00.000Z",
+            "date_modified": "2023-10-13T06:33:14.000Z",
             "date_published": "2023-10-11T20:17:14.000Z",
             "author": {
                 "name": "nickswink",
                 "url": "https://github.com/nickswink"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/68430832?u=a14126c0efc630544ede8edcb80c8159487b0f06&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>PoC For CVE-2023-2215 - Auth bypass </div>",
-            "url": "https://github.com/zwxxb/CVE-2023-2215",
-            "title": "zwxxb/CVE-2023-2215: PoC For CVE-2023-2215 - Auth bypass ",
-            "date_modified": "2023-10-12T11:03:42.000Z",
-            "date_published": "2023-10-11T10:16:39.000Z",
-            "author": {
-                "name": "zwxxb",
-                "url": "https://github.com/zwxxb"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/103446004?u=4e6d68d4ffca4c824a6e97529db717992a69a1a3&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
-            "url": "https://github.com/ruycr4ft/CVE-2023-38831",
-            "title": "ruycr4ft/CVE-2023-38831",
-            "date_modified": "2023-10-12T16:13:22.000Z",
-            "date_published": "2023-10-12T12:46:35.000Z",
-            "author": {
-                "name": "ruycr4ft",
-                "url": "https://github.com/ruycr4ft"
             }
         }
     ]
