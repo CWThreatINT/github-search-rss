@@ -17,6 +17,17 @@
             }
         },
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/29169122?u=2ffaf76038d51980f2f57af0ba3215d1d9423351&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Proof of concept for DoS exploit </div>",
+            "url": "https://github.com/imabee101/CVE-2023-44487",
+            "title": "imabee101/CVE-2023-44487: Proof of concept for DoS exploit ",
+            "date_modified": "2023-10-13T11:27:27.000Z",
+            "date_published": "2023-10-11T01:59:47.000Z",
+            "author": {
+                "name": "imabee101",
+                "url": "https://github.com/imabee101"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/28754633?u=b7315209fdb7bbcc242666e76759205ff25252f4&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>iveresk-CVE-2023-22515</div>",
             "url": "https://github.com/iveresk/CVE-2023-22515",
             "title": "iveresk/CVE-2023-22515: iveresk-CVE-2023-22515",
@@ -108,7 +119,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/97610822?u=5b8029251583f2f00d86acfb466b3b0cec99f930&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Confluence Data Center &amp; Server 权限提升漏洞 Exploit</div>",
             "url": "https://github.com/Le1a/CVE-2023-22515",
             "title": "Le1a/CVE-2023-22515: Confluence Data Center & Server 权限提升漏洞 Exploit",
-            "date_modified": "2023-10-13T07:52:40.000Z",
+            "date_modified": "2023-10-13T11:50:03.000Z",
             "date_published": "2023-10-13T05:18:54.000Z",
             "author": {
                 "name": "Le1a",
@@ -130,7 +141,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/80873500?u=4c3da53f1a4d2eefea25b7399a2d7b2f21c8515d&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2023-42820</div>",
             "url": "https://github.com/C1ph3rX13/CVE-2023-42820",
             "title": "C1ph3rX13/CVE-2023-42820: CVE-2023-42820",
-            "date_modified": "2023-10-13T10:37:26.000Z",
+            "date_modified": "2023-10-13T11:58:21.000Z",
             "date_published": "2023-10-10T06:32:51.000Z",
             "author": {
                 "name": "C1ph3rX13",
@@ -163,7 +174,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/12553297?u=22a2c5ee1bf5b1bf2f6b95e9df052efe6c2aa791&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Basic vulnerability scanning to see if web servers may be vulnerable to CVE-2023-44487</div>",
             "url": "https://github.com/bcdannyboy/CVE-2023-44487",
             "title": "bcdannyboy/CVE-2023-44487: Basic vulnerability scanning to see if web servers may be vulnerable to CVE-2023-44487",
-            "date_modified": "2023-10-13T09:33:26.000Z",
+            "date_modified": "2023-10-13T11:55:43.000Z",
             "date_published": "2023-10-10T14:20:42.000Z",
             "author": {
                 "name": "bcdannyboy",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "threatHNTR",
                 "url": "https://github.com/threatHNTR"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/65294596?u=7f13fa80b0297851c7a530ff16d7099a15348853&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2023-43149</div>",
-            "url": "https://github.com/MinoTauro2020/CVE-2023-43149",
-            "title": "MinoTauro2020/CVE-2023-43149: CVE-2023-43149",
-            "date_modified": "2023-10-12T16:11:39.000Z",
-            "date_published": "2023-10-12T16:11:39.000Z",
-            "author": {
-                "name": "MinoTauro2020",
-                "url": "https://github.com/MinoTauro2020"
             }
         }
     ]
