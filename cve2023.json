@@ -17,6 +17,17 @@
             }
         },
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/39155974?u=410eaa89f567d6550f78e9696888ab09e3d0335c&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>JumpServer 堡垒机未授权综合漏洞利用, CVE-2023-42442 / CVE-2023-42820</div>",
+            "url": "https://github.com/tarimoe/blackjump",
+            "title": "tarimoe/blackjump: JumpServer 堡垒机未授权综合漏洞利用, CVE-2023-42442 / CVE-2023-42820",
+            "date_modified": "2023-10-14T09:38:49.000Z",
+            "date_published": "2023-10-14T09:35:07.000Z",
+            "author": {
+                "name": "tarimoe",
+                "url": "https://github.com/tarimoe"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/26087286?u=d975315f71c4dc9527fc32696db0745bd40e40fc&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>PoC for the ThemeBleed Windows 11 CVE-2023-38146 written in python using impacket</div>",
             "url": "https://github.com/Jnnshschl/CVE-2023-38146",
             "title": "Jnnshschl/CVE-2023-38146: PoC for the ThemeBleed Windows 11 CVE-2023-38146 written in python using impacket",
@@ -163,7 +174,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/79006904?u=d544474742698d9962b7bee4c9f1883ecd7ed130&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Confluence Broken Access Control</div>",
             "url": "https://github.com/Vulnmachines/confluence-cve-2023-22515",
             "title": "Vulnmachines/confluence-cve-2023-22515: Confluence Broken Access Control",
-            "date_modified": "2023-10-14T07:26:14.000Z",
+            "date_modified": "2023-10-14T09:17:41.000Z",
             "date_published": "2023-10-13T08:19:07.000Z",
             "author": {
                 "name": "Vulnmachines",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "Le1a",
                 "url": "https://github.com/Le1a"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/106973537?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
-            "url": "https://github.com/nidhi7598/frameworks_base_AOSP_06_r22_CVE-2023-21272",
-            "title": "nidhi7598/frameworks_base_AOSP_06_r22_CVE-2023-21272",
-            "date_modified": "2023-10-13T05:18:43.000Z",
-            "date_published": "2023-10-13T05:00:29.000Z",
-            "author": {
-                "name": "nidhi7598",
-                "url": "https://github.com/nidhi7598"
             }
         }
     ]
