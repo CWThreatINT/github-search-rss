@@ -17,6 +17,17 @@
             }
         },
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/35935843?u=ea29b53d5a9590084396a4f39a8e7dabc7c60903&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>mooSocial v3.1.8 is vulnerable to cross-site scripting on search function.</div>",
+            "url": "https://github.com/ahrixia/CVE-2023-45542",
+            "title": "ahrixia/CVE-2023-45542: mooSocial v3.1.8 is vulnerable to cross-site scripting on search function.",
+            "date_modified": "2023-10-14T04:47:03.000Z",
+            "date_published": "2023-09-26T12:59:31.000Z",
+            "author": {
+                "name": "ahrixia",
+                "url": "https://github.com/ahrixia"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/21281361?u=4bfcd3e934fb8631ae9dc58ff35a6943986b8089&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>PoC for CVE-2023-4911 LooneyTuneables</div>",
             "url": "https://github.com/guffre/CVE-2023-4911",
             "title": "guffre/CVE-2023-4911: PoC for CVE-2023-4911 LooneyTuneables",
@@ -209,17 +220,6 @@
             "title": "C1ph3rX13/CVE-2023-42820: CVE-2023-42820",
             "date_modified": "2023-10-13T13:09:22.000Z",
             "date_published": "2023-10-10T06:32:51.000Z",
-            "author": {
-                "name": "C1ph3rX13",
-                "url": "https://github.com/C1ph3rX13"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/80873500?u=4c3da53f1a4d2eefea25b7399a2d7b2f21c8515d&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2023-42819</div>",
-            "url": "https://github.com/C1ph3rX13/CVE-2023-42819",
-            "title": "C1ph3rX13/CVE-2023-42819: CVE-2023-42819",
-            "date_modified": "2023-10-13T12:58:58.000Z",
-            "date_published": "2023-10-12T08:45:46.000Z",
             "author": {
                 "name": "C1ph3rX13",
                 "url": "https://github.com/C1ph3rX13"
