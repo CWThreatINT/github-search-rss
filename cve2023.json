@@ -17,6 +17,17 @@
             }
         },
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/26087286?u=d975315f71c4dc9527fc32696db0745bd40e40fc&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>PoC for the ThemeBleed Windows 11 CVE-2023-38146 written in python using impacket</div>",
+            "url": "https://github.com/Jnnshschl/CVE-2023-38146",
+            "title": "Jnnshschl/CVE-2023-38146: PoC for the ThemeBleed Windows 11 CVE-2023-38146 written in python using impacket",
+            "date_modified": "2023-10-14T13:35:12.000Z",
+            "date_published": "2023-10-13T15:33:42.000Z",
+            "author": {
+                "name": "Jnnshschl",
+                "url": "https://github.com/Jnnshschl"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/123639864?u=bab351fc3aa0ca6a472e1237262a2a54477d68a0&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
             "url": "https://github.com/Mahdi22228/CVE-2023-3710",
             "title": "Mahdi22228/CVE-2023-3710",
@@ -31,7 +42,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/39155974?u=410eaa89f567d6550f78e9696888ab09e3d0335c&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>JumpServer 堡垒机未授权综合漏洞利用, CVE-2023-42442 / CVE-2023-42820</div>",
             "url": "https://github.com/tarimoe/blackjump",
             "title": "tarimoe/blackjump: JumpServer 堡垒机未授权综合漏洞利用, CVE-2023-42442 / CVE-2023-42820",
-            "date_modified": "2023-10-14T12:57:38.000Z",
+            "date_modified": "2023-10-14T13:21:26.000Z",
             "date_published": "2023-10-14T09:35:07.000Z",
             "author": {
                 "name": "tarimoe",
@@ -39,21 +50,10 @@
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/26087286?u=d975315f71c4dc9527fc32696db0745bd40e40fc&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>PoC for the ThemeBleed Windows 11 CVE-2023-38146 written in python using impacket</div>",
-            "url": "https://github.com/Jnnshschl/CVE-2023-38146",
-            "title": "Jnnshschl/CVE-2023-38146: PoC for the ThemeBleed Windows 11 CVE-2023-38146 written in python using impacket",
-            "date_modified": "2023-10-13T15:38:38.000Z",
-            "date_published": "2023-10-13T15:33:42.000Z",
-            "author": {
-                "name": "Jnnshschl",
-                "url": "https://github.com/Jnnshschl"
-            }
-        },
-        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/12553297?u=22a2c5ee1bf5b1bf2f6b95e9df052efe6c2aa791&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Basic vulnerability scanning to see if web servers may be vulnerable to CVE-2023-44487</div>",
             "url": "https://github.com/bcdannyboy/CVE-2023-44487",
             "title": "bcdannyboy/CVE-2023-44487: Basic vulnerability scanning to see if web servers may be vulnerable to CVE-2023-44487",
-            "date_modified": "2023-10-14T11:36:23.000Z",
+            "date_modified": "2023-10-14T13:40:26.000Z",
             "date_published": "2023-10-10T14:20:42.000Z",
             "author": {
                 "name": "bcdannyboy",
@@ -152,7 +152,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/29169122?u=2ffaf76038d51980f2f57af0ba3215d1d9423351&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Proof of concept for DoS exploit </div>",
             "url": "https://github.com/imabee101/CVE-2023-44487",
             "title": "imabee101/CVE-2023-44487: Proof of concept for DoS exploit ",
-            "date_modified": "2023-10-14T02:05:37.000Z",
+            "date_modified": "2023-10-14T13:50:33.000Z",
             "date_published": "2023-10-11T01:59:47.000Z",
             "author": {
                 "name": "imabee101",
