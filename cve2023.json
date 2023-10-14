@@ -6,6 +6,17 @@
     "description": "CVE-2023 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/147943631?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>exploit for CVE-2023-3710</div>",
+            "url": "https://github.com/CwEeR313/CVE-2023-3710",
+            "title": "CwEeR313/CVE-2023-3710: exploit for CVE-2023-3710",
+            "date_modified": "2023-10-14T18:59:35.000Z",
+            "date_published": "2023-10-14T18:31:51.000Z",
+            "author": {
+                "name": "CwEeR313",
+                "url": "https://github.com/CwEeR313"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/18195825?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023</div>",
             "url": "https://github.com/CVEProject/cvelist",
             "title": "CVEProject/cvelist: Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023",
@@ -53,7 +64,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/39155974?u=410eaa89f567d6550f78e9696888ab09e3d0335c&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>JumpServer 堡垒机未授权综合漏洞利用, CVE-2023-42442 / CVE-2023-42820</div>",
             "url": "https://github.com/tarimoe/blackjump",
             "title": "tarimoe/blackjump: JumpServer 堡垒机未授权综合漏洞利用, CVE-2023-42442 / CVE-2023-42820",
-            "date_modified": "2023-10-14T14:54:09.000Z",
+            "date_modified": "2023-10-14T18:58:32.000Z",
             "date_published": "2023-10-14T09:35:07.000Z",
             "author": {
                 "name": "tarimoe",
@@ -163,7 +174,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/64693844?u=1eda9e9c751d9977eed771a3f8c339701e14b271&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2023-22515 - Broken Access Control Vulnerability in Confluence Data Center and Server</div>",
             "url": "https://github.com/kh4sh3i/CVE-2023-22515",
             "title": "kh4sh3i/CVE-2023-22515: CVE-2023-22515 - Broken Access Control Vulnerability in Confluence Data Center and Server",
-            "date_modified": "2023-10-13T14:39:52.000Z",
+            "date_modified": "2023-10-14T18:49:41.000Z",
             "date_published": "2023-10-11T11:21:47.000Z",
             "author": {
                 "name": "kh4sh3i",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "Vulnmachines",
                 "url": "https://github.com/Vulnmachines"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/98477272?u=4ea68a19a75adef68127762c009db8c850c1db46&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Example of CVE-2023-24329 </div>",
-            "url": "https://github.com/JawadPy/CVE-2023-24329-Exploit",
-            "title": "JawadPy/CVE-2023-24329-Exploit: Example of CVE-2023-24329 ",
-            "date_modified": "2023-10-13T07:44:21.000Z",
-            "date_published": "2023-10-05T01:55:05.000Z",
-            "author": {
-                "name": "JawadPy",
-                "url": "https://github.com/JawadPy"
             }
         }
     ]
