@@ -17,10 +17,21 @@
             }
         },
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/123639864?u=bab351fc3aa0ca6a472e1237262a2a54477d68a0&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
+            "url": "https://github.com/Mahdi22228/CVE-2023-3710",
+            "title": "Mahdi22228/CVE-2023-3710",
+            "date_modified": "2023-10-14T12:18:15.000Z",
+            "date_published": "2023-10-14T12:18:15.000Z",
+            "author": {
+                "name": "Mahdi22228",
+                "url": "https://github.com/Mahdi22228"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/39155974?u=410eaa89f567d6550f78e9696888ab09e3d0335c&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>JumpServer 堡垒机未授权综合漏洞利用, CVE-2023-42442 / CVE-2023-42820</div>",
             "url": "https://github.com/tarimoe/blackjump",
             "title": "tarimoe/blackjump: JumpServer 堡垒机未授权综合漏洞利用, CVE-2023-42442 / CVE-2023-42820",
-            "date_modified": "2023-10-14T12:03:37.000Z",
+            "date_modified": "2023-10-14T12:57:38.000Z",
             "date_published": "2023-10-14T09:35:07.000Z",
             "author": {
                 "name": "tarimoe",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "JawadPy",
                 "url": "https://github.com/JawadPy"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/97610822?u=5b8029251583f2f00d86acfb466b3b0cec99f930&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Confluence Data Center &amp; Server 权限提升漏洞 Exploit</div>",
-            "url": "https://github.com/Le1a/CVE-2023-22515",
-            "title": "Le1a/CVE-2023-22515: Confluence Data Center & Server 权限提升漏洞 Exploit",
-            "date_modified": "2023-10-14T05:29:44.000Z",
-            "date_published": "2023-10-13T05:18:54.000Z",
-            "author": {
-                "name": "Le1a",
-                "url": "https://github.com/Le1a"
             }
         }
     ]
