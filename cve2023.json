@@ -6,6 +6,17 @@
     "description": "CVE-2023 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/56080837?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Simple PoC causing overflow</div>",
+            "url": "https://github.com/fatmo666/CVE-2023-38545-libcurl-SOCKS5-heap-buffer-overflow",
+            "title": "fatmo666/CVE-2023-38545-libcurl-SOCKS5-heap-buffer-overflow: Simple PoC causing overflow",
+            "date_modified": "2023-10-14T15:04:22.000Z",
+            "date_published": "2023-10-12T07:39:15.000Z",
+            "author": {
+                "name": "fatmo666",
+                "url": "https://github.com/fatmo666"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/147946081?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
             "url": "https://github.com/m474r5/CVE-2023-27997-findings",
             "title": "m474r5/CVE-2023-27997-findings",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "Pegasus0xx",
                 "url": "https://github.com/Pegasus0xx"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/28754633?u=b7315209fdb7bbcc242666e76759205ff25252f4&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>iveresk-CVE-2023-22515</div>",
-            "url": "https://github.com/iveresk/CVE-2023-22515",
-            "title": "iveresk/CVE-2023-22515: iveresk-CVE-2023-22515",
-            "date_modified": "2023-10-13T10:31:45.000Z",
-            "date_published": "2023-10-13T08:36:21.000Z",
-            "author": {
-                "name": "iveresk",
-                "url": "https://github.com/iveresk"
             }
         }
     ]
