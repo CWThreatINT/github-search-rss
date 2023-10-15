@@ -83,6 +83,17 @@
             }
         },
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/94959126?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>POC for CVE-2023-38646</div>",
+            "url": "https://github.com/securezeron/CVE-2023-38646",
+            "title": "securezeron/CVE-2023-38646: POC for CVE-2023-38646",
+            "date_modified": "2023-10-15T06:11:06.000Z",
+            "date_published": "2023-07-30T09:56:52.000Z",
+            "author": {
+                "name": "securezeron",
+                "url": "https://github.com/securezeron"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/122620685?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
             "url": "https://github.com/asepsaepdin/CVE-2023-38646",
             "title": "asepsaepdin/CVE-2023-38646",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "kh4sh3i",
                 "url": "https://github.com/kh4sh3i"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/29169122?u=2ffaf76038d51980f2f57af0ba3215d1d9423351&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Proof of concept for DoS exploit </div>",
-            "url": "https://github.com/imabee101/CVE-2023-44487",
-            "title": "imabee101/CVE-2023-44487: Proof of concept for DoS exploit ",
-            "date_modified": "2023-10-14T13:50:33.000Z",
-            "date_published": "2023-10-11T01:59:47.000Z",
-            "author": {
-                "name": "imabee101",
-                "url": "https://github.com/imabee101"
             }
         }
     ]
