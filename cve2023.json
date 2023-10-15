@@ -6,17 +6,6 @@
     "description": "CVE-2023 FEED on GitHub",
     "items": [
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/135759201?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Mass Exploit - CVE-2023-45603 - Wordpress/plugin/user-submitted-posts &lt; Unauthenticated Arbitrary File Upload/Exploit </div>",
-            "url": "https://github.com/codeb0ss/CVE-2023-45603-PoC",
-            "title": "codeb0ss/CVE-2023-45603-PoC: Mass Exploit - CVE-2023-45603 - Wordpress/plugin/user-submitted-posts < Unauthenticated Arbitrary File Upload/Exploit ",
-            "date_modified": "2023-10-15T02:05:58.000Z",
-            "date_published": "2023-10-15T01:57:25.000Z",
-            "author": {
-                "name": "codeb0ss",
-                "url": "https://github.com/codeb0ss"
-            }
-        },
-        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/18195825?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023</div>",
             "url": "https://github.com/CVEProject/cvelist",
             "title": "CVEProject/cvelist: Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023",
@@ -25,6 +14,17 @@
             "author": {
                 "name": "CVEProject",
                 "url": "https://github.com/CVEProject"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/135759201?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Mass Exploit - CVE-2023-45603 - Wordpress/plugin/user-submitted-posts &lt; Unauthenticated Arbitrary File Upload/Exploit </div>",
+            "url": "https://github.com/codeb0ss/CVE-2023-45603-PoC",
+            "title": "codeb0ss/CVE-2023-45603-PoC: Mass Exploit - CVE-2023-45603 - Wordpress/plugin/user-submitted-posts < Unauthenticated Arbitrary File Upload/Exploit ",
+            "date_modified": "2023-10-15T02:05:58.000Z",
+            "date_published": "2023-10-15T01:57:25.000Z",
+            "author": {
+                "name": "codeb0ss",
+                "url": "https://github.com/codeb0ss"
             }
         },
         {
@@ -53,7 +53,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/39155974?u=410eaa89f567d6550f78e9696888ab09e3d0335c&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>JumpServer 堡垒机未授权综合漏洞利用, CVE-2023-42442 / CVE-2023-42820</div>",
             "url": "https://github.com/tarimoe/blackjump",
             "title": "tarimoe/blackjump: JumpServer 堡垒机未授权综合漏洞利用, CVE-2023-42442 / CVE-2023-42820",
-            "date_modified": "2023-10-15T01:28:21.000Z",
+            "date_modified": "2023-10-15T02:47:30.000Z",
             "date_published": "2023-10-14T09:35:07.000Z",
             "author": {
                 "name": "tarimoe",
