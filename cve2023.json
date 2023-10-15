@@ -6,6 +6,17 @@
     "description": "CVE-2023 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/94844022?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2023-2023</div>",
+            "url": "https://github.com/GREENHAT7/pxplan",
+            "title": "GREENHAT7/pxplan: CVE-2023-2023",
+            "date_modified": "2023-10-12T21:31:25.000Z",
+            "date_published": "2021-11-22T12:57:22.000Z",
+            "author": {
+                "name": "GREENHAT7",
+                "url": "https://github.com/GREENHAT7"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/56080837?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Simple PoC causing overflow</div>",
             "url": "https://github.com/fatmo666/CVE-2023-38545-libcurl-SOCKS5-heap-buffer-overflow",
             "title": "fatmo666/CVE-2023-38545-libcurl-SOCKS5-heap-buffer-overflow: Simple PoC causing overflow",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "threatHNTR",
                 "url": "https://github.com/threatHNTR"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/122263374?u=b741a7055d07351ddbe48eabf21904c15fd5a667&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Assets Management System 1.0 is vulnerable to SQL injection via the id parameter in delete.php</div>",
-            "url": "https://github.com/Pegasus0xx/CVE-2023-43144",
-            "title": "Pegasus0xx/CVE-2023-43144: Assets Management System 1.0 is vulnerable to SQL injection via the id parameter in delete.php",
-            "date_modified": "2023-10-13T18:19:22.000Z",
-            "date_published": "2023-10-13T18:19:22.000Z",
-            "author": {
-                "name": "Pegasus0xx",
-                "url": "https://github.com/Pegasus0xx"
             }
         }
     ]
