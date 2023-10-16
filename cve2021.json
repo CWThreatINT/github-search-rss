@@ -39,6 +39,17 @@
             }
         },
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/122462368?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Challenge based on CVE-2021-22204 where users send a malicious file to a web application to gain RCE</div>",
+            "url": "https://github.com/battleofthebots/dejavu",
+            "title": "battleofthebots/dejavu: Challenge based on CVE-2021-22204 where users send a malicious file to a web application to gain RCE",
+            "date_modified": "2023-10-16T10:21:15.000Z",
+            "date_published": "2023-07-25T13:52:01.000Z",
+            "author": {
+                "name": "battleofthebots",
+                "url": "https://github.com/battleofthebots"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/8959898?u=856c9dc333cb1fac44f903988bafd7e6b01b7336&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2021-40444 - Fully Weaponized Microsoft Office Word RCE Exploit</div>",
             "url": "https://github.com/klezVirus/CVE-2021-40444",
             "title": "klezVirus/CVE-2021-40444: CVE-2021-40444 - Fully Weaponized Microsoft Office Word RCE Exploit",
@@ -97,7 +108,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/100122463?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Utilize Tai-e to identify the Log4shell (a.k.a. CVE-2021-44228) Vulnerability</div>",
             "url": "https://github.com/Tai-e/CVE-2021-44228",
             "title": "Tai-e/CVE-2021-44228: Utilize Tai-e to identify the Log4shell (a.k.a. CVE-2021-44228) Vulnerability",
-            "date_modified": "2023-10-16T06:43:10.000Z",
+            "date_modified": "2023-10-16T10:44:09.000Z",
             "date_published": "2023-10-06T04:36:31.000Z",
             "author": {
                 "name": "Tai-e",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "name",
                 "url": "https://github.com/name"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/106973537?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
-            "url": "https://github.com/nidhi7598/OPENSSL_1.1.1g_CVE-2021-4160",
-            "title": "nidhi7598/OPENSSL_1.1.1g_CVE-2021-4160",
-            "date_modified": "2023-09-11T10:44:49.000Z",
-            "date_published": "2023-09-11T10:42:41.000Z",
-            "author": {
-                "name": "nidhi7598",
-                "url": "https://github.com/nidhi7598"
             }
         }
     ]
