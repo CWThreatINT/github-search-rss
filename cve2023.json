@@ -6,14 +6,14 @@
     "description": "CVE-2023 FEED on GitHub",
     "items": [
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/56123966?u=55d526b31897558c9000bb30537ba8eddc630cce&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>锐捷RG-EW1200G登录绕过(CVE-2023-4415)</div>",
-            "url": "https://github.com/thedarknessdied/Ruijie_RG-EW1200G_login_bypass-CVE-2023-4415",
-            "title": "thedarknessdied/Ruijie_RG-EW1200G_login_bypass-CVE-2023-4415: 锐捷RG-EW1200G登录绕过(CVE-2023-4415)",
-            "date_modified": "2023-10-16T11:18:03.000Z",
-            "date_published": "2023-10-16T05:08:06.000Z",
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/55755520?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Test repo pour la CVE-2023-42793 de TeamCity</div>",
+            "url": "https://github.com/LeHeron/TC_test",
+            "title": "LeHeron/TC_test: Test repo pour la CVE-2023-42793 de TeamCity",
+            "date_modified": "2023-10-16T12:52:17.000Z",
+            "date_published": "2023-10-16T12:52:17.000Z",
             "author": {
-                "name": "thedarknessdied",
-                "url": "https://github.com/thedarknessdied"
+                "name": "LeHeron",
+                "url": "https://github.com/LeHeron"
             }
         },
         {
@@ -25,6 +25,17 @@
             "author": {
                 "name": "studiogangster",
                 "url": "https://github.com/studiogangster"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/56123966?u=55d526b31897558c9000bb30537ba8eddc630cce&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>锐捷RG-EW1200G登录绕过(CVE-2023-4415)</div>",
+            "url": "https://github.com/thedarknessdied/Ruijie_RG-EW1200G_login_bypass-CVE-2023-4415",
+            "title": "thedarknessdied/Ruijie_RG-EW1200G_login_bypass-CVE-2023-4415: 锐捷RG-EW1200G登录绕过(CVE-2023-4415)",
+            "date_modified": "2023-10-16T12:45:12.000Z",
+            "date_published": "2023-10-16T05:08:06.000Z",
+            "author": {
+                "name": "thedarknessdied",
+                "url": "https://github.com/thedarknessdied"
             }
         },
         {
@@ -108,7 +119,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/61380567?u=a916ff49edac38004a8fb2bd9e1079fc353a8bd3&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
             "url": "https://github.com/po6ix/POC-for-CVE-2023-41993",
             "title": "po6ix/POC-for-CVE-2023-41993",
-            "date_modified": "2023-10-16T12:02:38.000Z",
+            "date_modified": "2023-10-16T12:58:33.000Z",
             "date_published": "2023-10-15T12:14:18.000Z",
             "author": {
                 "name": "po6ix",
@@ -174,7 +185,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/94844022?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2023-2023</div>",
             "url": "https://github.com/GREENHAT7/pxplan",
             "title": "GREENHAT7/pxplan: CVE-2023-2023",
-            "date_modified": "2023-10-16T09:07:06.000Z",
+            "date_modified": "2023-10-16T12:49:51.000Z",
             "date_published": "2021-11-22T12:57:22.000Z",
             "author": {
                 "name": "GREENHAT7",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "m474r5",
                 "url": "https://github.com/m474r5"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/135759201?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Mass Exploit - CVE-2023-45603 - Wordpress/plugin/user-submitted-posts &lt; Unauthenticated Arbitrary File Upload/Exploit </div>",
-            "url": "https://github.com/codeb0ss/CVE-2023-45603-PoC",
-            "title": "codeb0ss/CVE-2023-45603-PoC: Mass Exploit - CVE-2023-45603 - Wordpress/plugin/user-submitted-posts < Unauthenticated Arbitrary File Upload/Exploit ",
-            "date_modified": "2023-10-15T14:01:29.000Z",
-            "date_published": "2023-10-15T01:57:25.000Z",
-            "author": {
-                "name": "codeb0ss",
-                "url": "https://github.com/codeb0ss"
             }
         }
     ]
