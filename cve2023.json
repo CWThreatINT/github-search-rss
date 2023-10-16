@@ -6,17 +6,6 @@
     "description": "CVE-2023 FEED on GitHub",
     "items": [
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/33044636?u=6df1885d50fdddd524119cdc6e1848b5d7a45214&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Confluence未授权添加管理员用户(CVE-2023-22515)漏洞利用工具</div>",
-            "url": "https://github.com/ad-calcium/CVE-2023-22515",
-            "title": "ad-calcium/CVE-2023-22515: Confluence未授权添加管理员用户(CVE-2023-22515)漏洞利用工具",
-            "date_modified": "2023-10-16T02:15:26.000Z",
-            "date_published": "2023-10-11T08:42:17.000Z",
-            "author": {
-                "name": "ad-calcium",
-                "url": "https://github.com/ad-calcium"
-            }
-        },
-        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/18195825?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023</div>",
             "url": "https://github.com/CVEProject/cvelist",
             "title": "CVEProject/cvelist: Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023",
@@ -28,10 +17,21 @@
             }
         },
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/33044636?u=6df1885d50fdddd524119cdc6e1848b5d7a45214&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Confluence未授权添加管理员用户(CVE-2023-22515)漏洞利用工具</div>",
+            "url": "https://github.com/ad-calcium/CVE-2023-22515",
+            "title": "ad-calcium/CVE-2023-22515: Confluence未授权添加管理员用户(CVE-2023-22515)漏洞利用工具",
+            "date_modified": "2023-10-16T02:15:26.000Z",
+            "date_published": "2023-10-11T08:42:17.000Z",
+            "author": {
+                "name": "ad-calcium",
+                "url": "https://github.com/ad-calcium"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/18223385?u=5ba29c1a9447ae88a6a0433f44038f47471e11c1&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>TOP All bugbounty pentesting CVE-2023- POC Exp  RCE example payload  Things</div>",
             "url": "https://github.com/hktalent/TOP",
             "title": "hktalent/TOP: TOP All bugbounty pentesting CVE-2023- POC Exp  RCE example payload  Things",
-            "date_modified": "2023-10-16T01:30:50.000Z",
+            "date_modified": "2023-10-16T02:26:44.000Z",
             "date_published": "2022-03-19T01:54:15.000Z",
             "author": {
                 "name": "hktalent",
@@ -42,7 +42,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/61380567?u=a916ff49edac38004a8fb2bd9e1079fc353a8bd3&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
             "url": "https://github.com/po6ix/POC-for-CVE-2023-41993",
             "title": "po6ix/POC-for-CVE-2023-41993",
-            "date_modified": "2023-10-16T02:16:06.000Z",
+            "date_modified": "2023-10-16T03:04:02.000Z",
             "date_published": "2023-10-15T12:14:18.000Z",
             "author": {
                 "name": "po6ix",
@@ -75,7 +75,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/88535377?u=8282f1d8139691249d08a567a0a9ec513541ab09&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2023-22515: Confluence Broken Access Control Exploit</div>",
             "url": "https://github.com/Chocapikk/CVE-2023-22515",
             "title": "Chocapikk/CVE-2023-22515: CVE-2023-22515: Confluence Broken Access Control Exploit",
-            "date_modified": "2023-10-15T22:41:33.000Z",
+            "date_modified": "2023-10-16T02:33:52.000Z",
             "date_published": "2023-10-10T21:40:09.000Z",
             "author": {
                 "name": "Chocapikk",
@@ -174,7 +174,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/39155974?u=410eaa89f567d6550f78e9696888ab09e3d0335c&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>JumpServer 堡垒机未授权综合漏洞利用, CVE-2023-42442 / CVE-2023-42820</div>",
             "url": "https://github.com/tarimoe/blackjump",
             "title": "tarimoe/blackjump: JumpServer 堡垒机未授权综合漏洞利用, CVE-2023-42442 / CVE-2023-42820",
-            "date_modified": "2023-10-16T01:56:24.000Z",
+            "date_modified": "2023-10-16T02:53:06.000Z",
             "date_published": "2023-10-14T09:35:07.000Z",
             "author": {
                 "name": "tarimoe",
