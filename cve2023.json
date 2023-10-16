@@ -6,17 +6,6 @@
     "description": "CVE-2023 FEED on GitHub",
     "items": [
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/20583294?u=2c4e627807addd8aab8518ee34451fb077bd9faa&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Juju: GameOver(lay) CVE-2023-2640 and CVE-2023-32629 patcher</div>",
-            "url": "https://github.com/johnlettman/juju-scripts",
-            "title": "johnlettman/juju-scripts: Juju: GameOver(lay) CVE-2023-2640 and CVE-2023-32629 patcher",
-            "date_modified": "2023-09-02T02:12:39.000Z",
-            "date_published": "2023-08-04T18:28:52.000Z",
-            "author": {
-                "name": "johnlettman",
-                "url": "https://github.com/johnlettman"
-            }
-        },
-        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/18195825?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023</div>",
             "url": "https://github.com/CVEProject/cvelist",
             "title": "CVEProject/cvelist: Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023",
@@ -28,14 +17,14 @@
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/56123966?u=55d526b31897558c9000bb30537ba8eddc630cce&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>锐捷RG-EW1200G登录绕过(CVE-2023-4415)</div>",
-            "url": "https://github.com/thedarknessdied/Ruijie_RG-EW1200G_login_bypass-CVS-2023-4415-",
-            "title": "thedarknessdied/Ruijie_RG-EW1200G_login_bypass-CVS-2023-4415-: 锐捷RG-EW1200G登录绕过(CVE-2023-4415)",
-            "date_modified": "2023-10-16T05:22:26.000Z",
-            "date_published": "2023-10-16T05:08:06.000Z",
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/80873500?u=4c3da53f1a4d2eefea25b7399a2d7b2f21c8515d&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2023-42820</div>",
+            "url": "https://github.com/C1ph3rX13/CVE-2023-42820",
+            "title": "C1ph3rX13/CVE-2023-42820: CVE-2023-42820",
+            "date_modified": "2023-10-16T03:24:48.000Z",
+            "date_published": "2023-10-10T06:32:51.000Z",
             "author": {
-                "name": "thedarknessdied",
-                "url": "https://github.com/thedarknessdied"
+                "name": "C1ph3rX13",
+                "url": "https://github.com/C1ph3rX13"
             }
         },
         {
@@ -50,10 +39,21 @@
             }
         },
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/56123966?u=55d526b31897558c9000bb30537ba8eddc630cce&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>锐捷RG-EW1200G登录绕过(CVE-2023-4415)</div>",
+            "url": "https://github.com/thedarknessdied/Ruijie_RG-EW1200G_login_bypass-CVS-2023-4415-",
+            "title": "thedarknessdied/Ruijie_RG-EW1200G_login_bypass-CVS-2023-4415-: 锐捷RG-EW1200G登录绕过(CVE-2023-4415)",
+            "date_modified": "2023-10-16T05:22:26.000Z",
+            "date_published": "2023-10-16T05:08:06.000Z",
+            "author": {
+                "name": "thedarknessdied",
+                "url": "https://github.com/thedarknessdied"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/33044636?u=6df1885d50fdddd524119cdc6e1848b5d7a45214&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Confluence未授权添加管理员用户(CVE-2023-22515)漏洞利用工具</div>",
             "url": "https://github.com/ad-calcium/CVE-2023-22515",
             "title": "ad-calcium/CVE-2023-22515: Confluence未授权添加管理员用户(CVE-2023-22515)漏洞利用工具",
-            "date_modified": "2023-10-16T05:16:14.000Z",
+            "date_modified": "2023-10-16T06:46:32.000Z",
             "date_published": "2023-10-11T08:42:17.000Z",
             "author": {
                 "name": "ad-calcium",
@@ -141,7 +141,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/94844022?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2023-2023</div>",
             "url": "https://github.com/GREENHAT7/pxplan",
             "title": "GREENHAT7/pxplan: CVE-2023-2023",
-            "date_modified": "2023-10-16T03:34:58.000Z",
+            "date_modified": "2023-10-16T06:57:48.000Z",
             "date_published": "2021-11-22T12:57:22.000Z",
             "author": {
                 "name": "GREENHAT7",
@@ -207,7 +207,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/39155974?u=410eaa89f567d6550f78e9696888ab09e3d0335c&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>JumpServer 堡垒机未授权综合漏洞利用, CVE-2023-42442 / CVE-2023-42820</div>",
             "url": "https://github.com/tarimoe/blackjump",
             "title": "tarimoe/blackjump: JumpServer 堡垒机未授权综合漏洞利用, CVE-2023-42442 / CVE-2023-42820",
-            "date_modified": "2023-10-16T02:53:06.000Z",
+            "date_modified": "2023-10-16T06:51:42.000Z",
             "date_published": "2023-10-14T09:35:07.000Z",
             "author": {
                 "name": "tarimoe",
