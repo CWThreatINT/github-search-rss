@@ -6,17 +6,6 @@
     "description": "CVE-2023 FEED on GitHub",
     "items": [
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/80873500?u=4c3da53f1a4d2eefea25b7399a2d7b2f21c8515d&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2023-42819</div>",
-            "url": "https://github.com/C1ph3rX13/CVE-2023-42819",
-            "title": "C1ph3rX13/CVE-2023-42819: CVE-2023-42819",
-            "date_modified": "2023-10-17T01:16:45.000Z",
-            "date_published": "2023-10-12T08:45:46.000Z",
-            "author": {
-                "name": "C1ph3rX13",
-                "url": "https://github.com/C1ph3rX13"
-            }
-        },
-        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/18195825?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023</div>",
             "url": "https://github.com/CVEProject/cvelist",
             "title": "CVEProject/cvelist: Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023",
@@ -25,6 +14,17 @@
             "author": {
                 "name": "CVEProject",
                 "url": "https://github.com/CVEProject"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/80873500?u=4c3da53f1a4d2eefea25b7399a2d7b2f21c8515d&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2023-42819</div>",
+            "url": "https://github.com/C1ph3rX13/CVE-2023-42819",
+            "title": "C1ph3rX13/CVE-2023-42819: CVE-2023-42819",
+            "date_modified": "2023-10-17T01:16:45.000Z",
+            "date_published": "2023-10-12T08:45:46.000Z",
+            "author": {
+                "name": "C1ph3rX13",
+                "url": "https://github.com/C1ph3rX13"
             }
         },
         {
@@ -53,7 +53,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/61380567?u=a916ff49edac38004a8fb2bd9e1079fc353a8bd3&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
             "url": "https://github.com/po6ix/POC-for-CVE-2023-41993",
             "title": "po6ix/POC-for-CVE-2023-41993",
-            "date_modified": "2023-10-16T23:40:56.000Z",
+            "date_modified": "2023-10-17T03:00:45.000Z",
             "date_published": "2023-10-15T12:14:18.000Z",
             "author": {
                 "name": "po6ix",
@@ -196,7 +196,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/71423134?u=83651cb571e2a15a551016f74c1d5bf562178bc7&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
             "url": "https://github.com/hadrian3689/looney-tunables-CVE-2023-4911",
             "title": "hadrian3689/looney-tunables-CVE-2023-4911",
-            "date_modified": "2023-10-16T06:07:19.000Z",
+            "date_modified": "2023-10-17T02:47:30.000Z",
             "date_published": "2023-10-10T22:04:23.000Z",
             "author": {
                 "name": "hadrian3689",
