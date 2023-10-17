@@ -6,6 +6,17 @@
     "description": "CVE-2023 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/63991951?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
+            "url": "https://github.com/Aakash9111/CVE-2023-38646-ReverseShell",
+            "title": "Aakash9111/CVE-2023-38646-ReverseShell",
+            "date_modified": "2023-10-17T16:07:25.000Z",
+            "date_published": "2023-10-17T16:07:25.000Z",
+            "author": {
+                "name": "Aakash9111",
+                "url": "https://github.com/Aakash9111"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/18195825?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023</div>",
             "url": "https://github.com/CVEProject/cvelist",
             "title": "CVEProject/cvelist: Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023",
@@ -17,6 +28,39 @@
             }
         },
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/68852354?u=19a4f8a59b3a32edafac26550dce38873da504d5&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>testing poc</div>",
+            "url": "https://github.com/hrtowii/cve-2023-41993-test",
+            "title": "hrtowii/cve-2023-41993-test: testing poc",
+            "date_modified": "2023-10-17T15:59:07.000Z",
+            "date_published": "2023-10-16T15:43:50.000Z",
+            "author": {
+                "name": "hrtowii",
+                "url": "https://github.com/hrtowii"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/56123966?u=55d526b31897558c9000bb30537ba8eddc630cce&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>锐捷RG-EW1200G登录绕过(CVE-2023-4415)</div>",
+            "url": "https://github.com/thedarknessdied/Ruijie_RG-EW1200G_login_bypass-CVE-2023-4415",
+            "title": "thedarknessdied/Ruijie_RG-EW1200G_login_bypass-CVE-2023-4415: 锐捷RG-EW1200G登录绕过(CVE-2023-4415)",
+            "date_modified": "2023-10-16T12:45:12.000Z",
+            "date_published": "2023-10-16T05:08:06.000Z",
+            "author": {
+                "name": "thedarknessdied",
+                "url": "https://github.com/thedarknessdied"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/61992902?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>cisco-CVE-2023-20198-tester </div>",
+            "url": "https://github.com/securityphoenix/cisco-CVE-2023-20198-tester",
+            "title": "securityphoenix/cisco-CVE-2023-20198-tester: cisco-CVE-2023-20198-tester ",
+            "date_modified": "2023-10-17T15:51:02.000Z",
+            "date_published": "2023-10-17T15:44:01.000Z",
+            "author": {
+                "name": "securityphoenix",
+                "url": "https://github.com/securityphoenix"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/10403781?u=c3370c61f020003fff5927dac120ddb90683e079&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2023-20198 PoC (!)</div>",
             "url": "https://github.com/d0rb/CVE-2023-20198",
             "title": "d0rb/CVE-2023-20198: CVE-2023-20198 PoC (!)",
@@ -25,17 +69,6 @@
             "author": {
                 "name": "d0rb",
                 "url": "https://github.com/d0rb"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/68852354?u=19a4f8a59b3a32edafac26550dce38873da504d5&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>testing poc</div>",
-            "url": "https://github.com/hrtowii/cve-2023-41993-test",
-            "title": "hrtowii/cve-2023-41993-test: testing poc",
-            "date_modified": "2023-10-17T13:46:32.000Z",
-            "date_published": "2023-10-16T15:43:50.000Z",
-            "author": {
-                "name": "hrtowii",
-                "url": "https://github.com/hrtowii"
             }
         },
         {
@@ -53,7 +86,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/108491572?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2023-20198 Checkscript</div>",
             "url": "https://github.com/Atea-Redteam/CVE-2023-20198",
             "title": "Atea-Redteam/CVE-2023-20198: CVE-2023-20198 Checkscript",
-            "date_modified": "2023-10-17T11:54:00.000Z",
+            "date_modified": "2023-10-17T15:26:03.000Z",
             "date_published": "2023-10-17T08:00:18.000Z",
             "author": {
                 "name": "Atea-Redteam",
@@ -190,39 +223,6 @@
             "author": {
                 "name": "secengjeff",
                 "url": "https://github.com/secengjeff"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/61380567?u=a916ff49edac38004a8fb2bd9e1079fc353a8bd3&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
-            "url": "https://github.com/po6ix/POC-for-CVE-2023-41993",
-            "title": "po6ix/POC-for-CVE-2023-41993",
-            "date_modified": "2023-10-17T14:39:51.000Z",
-            "date_published": "2023-10-15T12:14:18.000Z",
-            "author": {
-                "name": "po6ix",
-                "url": "https://github.com/po6ix"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/12553297?u=22a2c5ee1bf5b1bf2f6b95e9df052efe6c2aa791&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A proof of concept for testing CVE-2023-38545 against local curl</div>",
-            "url": "https://github.com/bcdannyboy/CVE-2023-38545",
-            "title": "bcdannyboy/CVE-2023-38545: A proof of concept for testing CVE-2023-38545 against local curl",
-            "date_modified": "2023-10-16T18:07:14.000Z",
-            "date_published": "2023-10-16T15:55:32.000Z",
-            "author": {
-                "name": "bcdannyboy",
-                "url": "https://github.com/bcdannyboy"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/147946081?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Fortinet unauthenticated RCE POC and writeup...</div>",
-            "url": "https://github.com/m474r5/CVE-2023-27997-RCE",
-            "title": "m474r5/CVE-2023-27997-RCE: Fortinet unauthenticated RCE POC and writeup...",
-            "date_modified": "2023-10-16T13:37:14.000Z",
-            "date_published": "2023-10-16T13:37:13.000Z",
-            "author": {
-                "name": "m474r5",
-                "url": "https://github.com/m474r5"
             }
         }
     ]
