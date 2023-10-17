@@ -6,36 +6,14 @@
     "description": "CVE-2023 FEED on GitHub",
     "items": [
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/66072013?u=d9c2a1af9a18d2972b72111a1cd8deefc9b67077&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Exploit tool for CVE-2023-4911, targeting the 'Looney Tunables' glibc vulnerability in various Linux distributions.</div>",
-            "url": "https://github.com/chaudharyarjun/LooneyPwner",
-            "title": "chaudharyarjun/LooneyPwner: Exploit tool for CVE-2023-4911, targeting the 'Looney Tunables' glibc vulnerability in various Linux distributions.",
-            "date_modified": "2023-10-17T08:02:33.000Z",
-            "date_published": "2023-10-17T07:44:16.000Z",
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/10403781?u=c3370c61f020003fff5927dac120ddb90683e079&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>socks5 heap buffer overflow</div>",
+            "url": "https://github.com/d0rb/CVE-2023-38545",
+            "title": "d0rb/CVE-2023-38545: socks5 heap buffer overflow",
+            "date_modified": "2023-10-17T09:03:45.000Z",
+            "date_published": "2023-10-17T09:03:15.000Z",
             "author": {
-                "name": "chaudharyarjun",
-                "url": "https://github.com/chaudharyarjun"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/108491572?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2023-20198 Checkscript</div>",
-            "url": "https://github.com/Atea-Redteam/CVE-2023-20198",
-            "title": "Atea-Redteam/CVE-2023-20198: CVE-2023-20198 Checkscript",
-            "date_modified": "2023-10-17T08:01:27.000Z",
-            "date_published": "2023-10-17T08:00:18.000Z",
-            "author": {
-                "name": "Atea-Redteam",
-                "url": "https://github.com/Atea-Redteam"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/81826371?u=fa801eec795084c1ede965c36eb74ba28b452ca9&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Metabase open source before 0.46.6.1 and Metabase Enterprise before 1.46.6.1 allow attackers to execute arbitrary commands on the server, at the server's privilege level. Authentication is not required for exploitation. The other fixed versions are 0.45.4.1, 1.45.4.1, 0.44.7.1, 1.44.7.1, 0.43.7.2, and 1.43.7.2.</div>",
-            "url": "https://github.com/birdm4nw/CVE-2023-38646",
-            "title": "birdm4nw/CVE-2023-38646: Metabase open source before 0.46.6.1 and Metabase Enterprise before 1.46.6.1 allow attackers to execute arbitrary commands on the server, at the server's privilege level. Authentication is not required for exploitation. The other fixed versions are 0.45.4.1, 1.45.4.1, 0.44.7.1, 1.44.7.1, 0.43.7.2, and 1.43.7.2.",
-            "date_modified": "2023-10-17T07:45:26.000Z",
-            "date_published": "2023-10-17T07:43:58.000Z",
-            "author": {
-                "name": "birdm4nw",
-                "url": "https://github.com/birdm4nw"
+                "name": "d0rb",
+                "url": "https://github.com/d0rb"
             }
         },
         {
@@ -50,6 +28,72 @@
             }
         },
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/51722811?u=a195458fc64bade6e8616d1d5c43883f0abde0c0&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>RumbleTalk Live Group Chat &lt;= 6.1.9 - Missing Authorization via handleRequest</div>",
+            "url": "https://github.com/RandomRobbieBF/CVE-2023-45828",
+            "title": "RandomRobbieBF/CVE-2023-45828: RumbleTalk Live Group Chat <= 6.1.9 - Missing Authorization via handleRequest",
+            "date_modified": "2023-10-17T08:41:55.000Z",
+            "date_published": "2023-10-17T08:41:54.000Z",
+            "author": {
+                "name": "RandomRobbieBF",
+                "url": "https://github.com/RandomRobbieBF"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/66072013?u=d9c2a1af9a18d2972b72111a1cd8deefc9b67077&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Exploit tool for CVE-2023-4911, targeting the 'Looney Tunables' glibc vulnerability in various Linux distributions.</div>",
+            "url": "https://github.com/chaudharyarjun/LooneyPwner",
+            "title": "chaudharyarjun/LooneyPwner: Exploit tool for CVE-2023-4911, targeting the 'Looney Tunables' glibc vulnerability in various Linux distributions.",
+            "date_modified": "2023-10-17T08:02:33.000Z",
+            "date_published": "2023-10-17T07:44:16.000Z",
+            "author": {
+                "name": "chaudharyarjun",
+                "url": "https://github.com/chaudharyarjun"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/51722811?u=a195458fc64bade6e8616d1d5c43883f0abde0c0&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Social Media Share Buttons &amp; Social Sharing Icons &lt;= 2.8.5 - Information Exposure</div>",
+            "url": "https://github.com/RandomRobbieBF/CVE-2023-5070",
+            "title": "RandomRobbieBF/CVE-2023-5070: Social Media Share Buttons & Social Sharing Icons <= 2.8.5 - Information Exposure",
+            "date_modified": "2023-10-17T08:22:38.000Z",
+            "date_published": "2023-10-17T08:19:09.000Z",
+            "author": {
+                "name": "RandomRobbieBF",
+                "url": "https://github.com/RandomRobbieBF"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/108491572?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2023-20198 Checkscript</div>",
+            "url": "https://github.com/Atea-Redteam/CVE-2023-20198",
+            "title": "Atea-Redteam/CVE-2023-20198: CVE-2023-20198 Checkscript",
+            "date_modified": "2023-10-17T08:01:27.000Z",
+            "date_published": "2023-10-17T08:00:18.000Z",
+            "author": {
+                "name": "Atea-Redteam",
+                "url": "https://github.com/Atea-Redteam"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/73511417?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
+            "url": "https://github.com/deIndra/CVE-2023-36076",
+            "title": "deIndra/CVE-2023-36076",
+            "date_modified": "2023-10-17T08:09:39.000Z",
+            "date_published": "2023-10-17T07:37:24.000Z",
+            "author": {
+                "name": "deIndra",
+                "url": "https://github.com/deIndra"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/81826371?u=fa801eec795084c1ede965c36eb74ba28b452ca9&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Metabase open source before 0.46.6.1 and Metabase Enterprise before 1.46.6.1 allow attackers to execute arbitrary commands on the server, at the server's privilege level. Authentication is not required for exploitation. The other fixed versions are 0.45.4.1, 1.45.4.1, 0.44.7.1, 1.44.7.1, 0.43.7.2, and 1.43.7.2.</div>",
+            "url": "https://github.com/birdm4nw/CVE-2023-38646",
+            "title": "birdm4nw/CVE-2023-38646: Metabase open source before 0.46.6.1 and Metabase Enterprise before 1.46.6.1 allow attackers to execute arbitrary commands on the server, at the server's privilege level. Authentication is not required for exploitation. The other fixed versions are 0.45.4.1, 1.45.4.1, 0.44.7.1, 1.44.7.1, 0.43.7.2, and 1.43.7.2.",
+            "date_modified": "2023-10-17T07:45:26.000Z",
+            "date_published": "2023-10-17T07:43:58.000Z",
+            "author": {
+                "name": "birdm4nw",
+                "url": "https://github.com/birdm4nw"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/143163794?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
             "url": "https://github.com/raystr-atearedteam/CVE-2023-20198-checker",
             "title": "raystr-atearedteam/CVE-2023-20198-checker",
@@ -58,17 +102,6 @@
             "author": {
                 "name": "raystr-atearedteam",
                 "url": "https://github.com/raystr-atearedteam"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/73511417?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
-            "url": "https://github.com/deIndra/CVE-2023-36076",
-            "title": "deIndra/CVE-2023-36076",
-            "date_modified": "2023-10-17T07:37:25.000Z",
-            "date_published": "2023-10-17T07:37:24.000Z",
-            "author": {
-                "name": "deIndra",
-                "url": "https://github.com/deIndra"
             }
         },
         {
@@ -97,7 +130,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/146767590?u=1bd2784395bf6b86899f1c4fd336a965ed4da454&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Tool for testing mitigations and exposure to Rapid Reset DDoS (CVE-2023-44487)</div>",
             "url": "https://github.com/secengjeff/rapidresetclient",
             "title": "secengjeff/rapidresetclient: Tool for testing mitigations and exposure to Rapid Reset DDoS (CVE-2023-44487)",
-            "date_modified": "2023-10-17T01:12:33.000Z",
+            "date_modified": "2023-10-17T08:34:44.000Z",
             "date_published": "2023-10-13T23:55:32.000Z",
             "author": {
                 "name": "secengjeff",
@@ -108,7 +141,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/61380567?u=a916ff49edac38004a8fb2bd9e1079fc353a8bd3&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
             "url": "https://github.com/po6ix/POC-for-CVE-2023-41993",
             "title": "po6ix/POC-for-CVE-2023-41993",
-            "date_modified": "2023-10-17T06:23:12.000Z",
+            "date_modified": "2023-10-17T08:32:25.000Z",
             "date_published": "2023-10-15T12:14:18.000Z",
             "author": {
                 "name": "po6ix",
@@ -190,39 +223,6 @@
             "author": {
                 "name": "vianic",
                 "url": "https://github.com/vianic"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/22774256?u=d362af6a6207d29c00ef93d247c11a5572ee09ee&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2023-38545 POC for the curl command line tool</div>",
-            "url": "https://github.com/dbrugman/CVE-2023-38545-POC",
-            "title": "dbrugman/CVE-2023-38545-POC: CVE-2023-38545 POC for the curl command line tool",
-            "date_modified": "2023-10-17T03:36:07.000Z",
-            "date_published": "2023-10-16T10:04:19.000Z",
-            "author": {
-                "name": "dbrugman",
-                "url": "https://github.com/dbrugman"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/80873500?u=4c3da53f1a4d2eefea25b7399a2d7b2f21c8515d&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2023-42820</div>",
-            "url": "https://github.com/C1ph3rX13/CVE-2023-42820",
-            "title": "C1ph3rX13/CVE-2023-42820: CVE-2023-42820",
-            "date_modified": "2023-10-16T10:51:10.000Z",
-            "date_published": "2023-10-10T06:32:51.000Z",
-            "author": {
-                "name": "C1ph3rX13",
-                "url": "https://github.com/C1ph3rX13"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/33044636?u=6df1885d50fdddd524119cdc6e1848b5d7a45214&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Confluence未授权添加管理员用户(CVE-2023-22515)漏洞利用工具</div>",
-            "url": "https://github.com/ad-calcium/CVE-2023-22515",
-            "title": "ad-calcium/CVE-2023-22515: Confluence未授权添加管理员用户(CVE-2023-22515)漏洞利用工具",
-            "date_modified": "2023-10-17T01:44:11.000Z",
-            "date_published": "2023-10-11T08:42:17.000Z",
-            "author": {
-                "name": "ad-calcium",
-                "url": "https://github.com/ad-calcium"
             }
         }
     ]
