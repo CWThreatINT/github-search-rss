@@ -6,17 +6,6 @@
     "description": "CVE-2023 FEED on GitHub",
     "items": [
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/18223385?u=5ba29c1a9447ae88a6a0433f44038f47471e11c1&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>TOP All bugbounty pentesting CVE-2023- POC Exp  RCE example payload  Things</div>",
-            "url": "https://github.com/hktalent/TOP",
-            "title": "hktalent/TOP: TOP All bugbounty pentesting CVE-2023- POC Exp  RCE example payload  Things",
-            "date_modified": "2023-10-16T02:26:44.000Z",
-            "date_published": "2022-03-19T01:54:15.000Z",
-            "author": {
-                "name": "hktalent",
-                "url": "https://github.com/hktalent"
-            }
-        },
-        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/18195825?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023</div>",
             "url": "https://github.com/CVEProject/cvelist",
             "title": "CVEProject/cvelist: Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023",
@@ -28,10 +17,21 @@
             }
         },
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/18223385?u=5ba29c1a9447ae88a6a0433f44038f47471e11c1&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>TOP All bugbounty pentesting CVE-2023- POC Exp  RCE example payload  Things</div>",
+            "url": "https://github.com/hktalent/TOP",
+            "title": "hktalent/TOP: TOP All bugbounty pentesting CVE-2023- POC Exp  RCE example payload  Things",
+            "date_modified": "2023-10-16T02:26:44.000Z",
+            "date_published": "2022-03-19T01:54:15.000Z",
+            "author": {
+                "name": "hktalent",
+                "url": "https://github.com/hktalent"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/146767590?u=1bd2784395bf6b86899f1c4fd336a965ed4da454&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Tool for testing mitigations and exposure to Rapid Reset DDoS (CVE-2023-44487)</div>",
             "url": "https://github.com/secengjeff/rapidresetclient",
             "title": "secengjeff/rapidresetclient: Tool for testing mitigations and exposure to Rapid Reset DDoS (CVE-2023-44487)",
-            "date_modified": "2023-10-16T16:27:00.000Z",
+            "date_modified": "2023-10-17T01:12:33.000Z",
             "date_published": "2023-10-13T23:55:32.000Z",
             "author": {
                 "name": "secengjeff",
@@ -163,7 +163,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/80873500?u=4c3da53f1a4d2eefea25b7399a2d7b2f21c8515d&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2023-42819</div>",
             "url": "https://github.com/C1ph3rX13/CVE-2023-42819",
             "title": "C1ph3rX13/CVE-2023-42819: CVE-2023-42819",
-            "date_modified": "2023-10-16T03:38:49.000Z",
+            "date_modified": "2023-10-17T01:16:45.000Z",
             "date_published": "2023-10-12T08:45:46.000Z",
             "author": {
                 "name": "C1ph3rX13",
