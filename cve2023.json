@@ -17,6 +17,17 @@
             }
         },
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/6424128?u=1a9e9984dee2e7f917c1e8d7bf1e551b3928b3da&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
+            "url": "https://github.com/emomeni/Simple-Ansible-for-CVE-2023-20198",
+            "title": "emomeni/Simple-Ansible-for-CVE-2023-20198",
+            "date_modified": "2023-10-17T18:46:22.000Z",
+            "date_published": "2023-10-17T18:46:21.000Z",
+            "author": {
+                "name": "emomeni",
+                "url": "https://github.com/emomeni"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/47062591?u=dbb19898eb60b03aadb9539550363d09401bcee8&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2023-41993</div>",
             "url": "https://github.com/0x06060606/CVE-2023-41993",
             "title": "0x06060606/CVE-2023-41993: CVE-2023-41993",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "hktalent",
                 "url": "https://github.com/hktalent"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/146767590?u=1bd2784395bf6b86899f1c4fd336a965ed4da454&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Tool for testing mitigations and exposure to Rapid Reset DDoS (CVE-2023-44487)</div>",
-            "url": "https://github.com/secengjeff/rapidresetclient",
-            "title": "secengjeff/rapidresetclient: Tool for testing mitigations and exposure to Rapid Reset DDoS (CVE-2023-44487)",
-            "date_modified": "2023-10-17T08:34:44.000Z",
-            "date_published": "2023-10-13T23:55:32.000Z",
-            "author": {
-                "name": "secengjeff",
-                "url": "https://github.com/secengjeff"
             }
         }
     ]
