@@ -6,6 +6,17 @@
     "description": "CVE-2023 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/10403781?u=c3370c61f020003fff5927dac120ddb90683e079&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2023-20198 PoC (!)</div>",
+            "url": "https://github.com/d0rb/CVE-2023-20198",
+            "title": "d0rb/CVE-2023-20198: CVE-2023-20198 PoC (!)",
+            "date_modified": "2023-10-17T14:00:22.000Z",
+            "date_published": "2023-10-17T13:59:48.000Z",
+            "author": {
+                "name": "d0rb",
+                "url": "https://github.com/d0rb"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/18195825?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023</div>",
             "url": "https://github.com/CVEProject/cvelist",
             "title": "CVEProject/cvelist: Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023",
@@ -20,11 +31,22 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/68852354?u=19a4f8a59b3a32edafac26550dce38873da504d5&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>testing poc</div>",
             "url": "https://github.com/hrtowii/cve-2023-41993-test",
             "title": "hrtowii/cve-2023-41993-test: testing poc",
-            "date_modified": "2023-10-17T12:11:03.000Z",
+            "date_modified": "2023-10-17T13:46:32.000Z",
             "date_published": "2023-10-16T15:43:50.000Z",
             "author": {
                 "name": "hrtowii",
                 "url": "https://github.com/hrtowii"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/74809607?u=4bbda8cdb5e369e3fda29a7d97ebba7aff24ec0f&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
+            "url": "https://github.com/ValentinPundikov/poc-CVE-2023-32784",
+            "title": "ValentinPundikov/poc-CVE-2023-32784",
+            "date_modified": "2023-10-17T13:18:50.000Z",
+            "date_published": "2023-10-17T13:17:08.000Z",
+            "author": {
+                "name": "ValentinPundikov",
+                "url": "https://github.com/ValentinPundikov"
             }
         },
         {
@@ -174,7 +196,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/61380567?u=a916ff49edac38004a8fb2bd9e1079fc353a8bd3&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
             "url": "https://github.com/po6ix/POC-for-CVE-2023-41993",
             "title": "po6ix/POC-for-CVE-2023-41993",
-            "date_modified": "2023-10-17T12:59:09.000Z",
+            "date_modified": "2023-10-17T13:44:28.000Z",
             "date_published": "2023-10-15T12:14:18.000Z",
             "author": {
                 "name": "po6ix",
@@ -201,28 +223,6 @@
             "author": {
                 "name": "m474r5",
                 "url": "https://github.com/m474r5"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/147946081?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
-            "url": "https://github.com/m474r5/CVE-2023-27997-POC",
-            "title": "m474r5/CVE-2023-27997-POC",
-            "date_modified": "2023-10-15T09:18:18.000Z",
-            "date_published": "2023-10-15T09:18:17.000Z",
-            "author": {
-                "name": "m474r5",
-                "url": "https://github.com/m474r5"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/55755520?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Test repo pour la CVE-2023-42793 de TeamCity</div>",
-            "url": "https://github.com/LeHeron/TC_test",
-            "title": "LeHeron/TC_test: Test repo pour la CVE-2023-42793 de TeamCity",
-            "date_modified": "2023-10-16T12:52:17.000Z",
-            "date_published": "2023-10-16T12:52:17.000Z",
-            "author": {
-                "name": "LeHeron",
-                "url": "https://github.com/LeHeron"
             }
         }
     ]
