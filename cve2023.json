@@ -17,14 +17,36 @@
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/79263622?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>This script can identify if Cisco IOS XE devices are vulnerable to CVE-2023-20198</div>",
-            "url": "https://github.com/alekos3/CVE_2023_20198_Detector",
-            "title": "alekos3/CVE_2023_20198_Detector: This script can identify if Cisco IOS XE devices are vulnerable to CVE-2023-20198",
-            "date_modified": "2023-10-18T16:04:40.000Z",
-            "date_published": "2023-10-18T15:04:57.000Z",
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/68852354?u=19a4f8a59b3a32edafac26550dce38873da504d5&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>testing poc</div>",
+            "url": "https://github.com/hrtowii/cve-2023-41993-test",
+            "title": "hrtowii/cve-2023-41993-test: testing poc",
+            "date_modified": "2023-10-18T16:41:47.000Z",
+            "date_published": "2023-10-16T15:43:50.000Z",
+            "author": {
+                "name": "hrtowii",
+                "url": "https://github.com/hrtowii"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/79263622?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Remediate CVE_2023_20198 on Cisco IOS-XE devices.</div>",
+            "url": "https://github.com/alekos3/CVE_2023_20198_Remediator",
+            "title": "alekos3/CVE_2023_20198_Remediator: Remediate CVE_2023_20198 on Cisco IOS-XE devices.",
+            "date_modified": "2023-10-18T18:05:52.000Z",
+            "date_published": "2023-10-18T17:45:59.000Z",
             "author": {
                 "name": "alekos3",
                 "url": "https://github.com/alekos3"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/148376716?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Cisco IOS XE exploit CVE-2023-20198 </div>",
+            "url": "https://github.com/exp166/CVE-2023-20198",
+            "title": "exp166/CVE-2023-20198: Cisco IOS XE exploit CVE-2023-20198 ",
+            "date_modified": "2023-10-18T17:36:04.000Z",
+            "date_published": "2023-10-18T17:36:04.000Z",
+            "author": {
+                "name": "exp166",
+                "url": "https://github.com/exp166"
             }
         },
         {
@@ -39,14 +61,14 @@
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/68852354?u=19a4f8a59b3a32edafac26550dce38873da504d5&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>testing poc</div>",
-            "url": "https://github.com/hrtowii/cve-2023-41993-test",
-            "title": "hrtowii/cve-2023-41993-test: testing poc",
-            "date_modified": "2023-10-18T16:41:47.000Z",
-            "date_published": "2023-10-16T15:43:50.000Z",
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/79263622?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>This script can identify if Cisco IOS XE devices are vulnerable to CVE-2023-20198</div>",
+            "url": "https://github.com/alekos3/CVE_2023_20198_Detector",
+            "title": "alekos3/CVE_2023_20198_Detector: This script can identify if Cisco IOS XE devices are vulnerable to CVE-2023-20198",
+            "date_modified": "2023-10-18T16:04:40.000Z",
+            "date_published": "2023-10-18T15:04:57.000Z",
             "author": {
-                "name": "hrtowii",
-                "url": "https://github.com/hrtowii"
+                "name": "alekos3",
+                "url": "https://github.com/alekos3"
             }
         },
         {
@@ -201,28 +223,6 @@
             "author": {
                 "name": "hktalent",
                 "url": "https://github.com/hktalent"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/5783068?u=34c5d9103dd2775f6bc340237545f64e2be7786b&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2023-20198 &amp; 0Day Implant Scanner</div>",
-            "url": "https://github.com/ZephrFish/Cisco-IOS-XE-Scanner",
-            "title": "ZephrFish/Cisco-IOS-XE-Scanner: CVE-2023-20198 & 0Day Implant Scanner",
-            "date_modified": "2023-10-18T16:52:43.000Z",
-            "date_published": "2023-10-17T22:41:14.000Z",
-            "author": {
-                "name": "ZephrFish",
-                "url": "https://github.com/ZephrFish"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/102164992?u=54a160b093b8addee449c48e1cb2758418bb64c1&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
-            "url": "https://github.com/threatHNTR/CVE-2023-38646",
-            "title": "threatHNTR/CVE-2023-38646",
-            "date_modified": "2023-10-12T14:33:25.000Z",
-            "date_published": "2023-10-12T14:32:17.000Z",
-            "author": {
-                "name": "threatHNTR",
-                "url": "https://github.com/threatHNTR"
             }
         }
     ]

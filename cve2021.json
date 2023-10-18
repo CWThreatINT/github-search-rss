@@ -6,6 +6,17 @@
     "description": "CVE-2021 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/6735009?u=faef9e101e1f4fc516c099db031d7dae5df6987d&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A download of code without integrity check vulnerability in the \"execute restore src-vis\" command of FortiOS before 7.0.3.</div>",
+            "url": "https://github.com/0xhaggis/CVE-2021-44168",
+            "title": "0xhaggis/CVE-2021-44168: A download of code without integrity check vulnerability in the \"execute restore src-vis\" command of FortiOS before 7.0.3.",
+            "date_modified": "2023-10-18T17:18:27.000Z",
+            "date_published": "2023-02-08T07:30:52.000Z",
+            "author": {
+                "name": "0xhaggis",
+                "url": "https://github.com/0xhaggis"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/87991945?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Proxyshell for Exploiting CVE-2021-34473</div>",
             "url": "https://github.com/f4alireza/CVE",
             "title": "f4alireza/CVE: Proxyshell for Exploiting CVE-2021-34473",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "nanopathi",
                 "url": "https://github.com/nanopathi"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/65337905?u=54bead9601451d5c8023d79671bf64c712e388e3&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Python3 POC for CVE-2021-39165 in CachetHQ</div>",
-            "url": "https://github.com/manbolq/CVE-2021-39165",
-            "title": "manbolq/CVE-2021-39165: Python3 POC for CVE-2021-39165 in CachetHQ",
-            "date_modified": "2023-09-20T22:25:16.000Z",
-            "date_published": "2023-09-20T22:19:55.000Z",
-            "author": {
-                "name": "manbolq",
-                "url": "https://github.com/manbolq"
             }
         }
     ]
