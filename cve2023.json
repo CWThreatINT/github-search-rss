@@ -6,14 +6,14 @@
     "description": "CVE-2023 FEED on GitHub",
     "items": [
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/18223385?u=5ba29c1a9447ae88a6a0433f44038f47471e11c1&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>TOP All bugbounty pentesting CVE-2023- POC Exp  RCE example payload  Things</div>",
-            "url": "https://github.com/hktalent/TOP",
-            "title": "hktalent/TOP: TOP All bugbounty pentesting CVE-2023- POC Exp  RCE example payload  Things",
-            "date_modified": "2023-10-17T10:33:44.000Z",
-            "date_published": "2022-03-19T01:54:15.000Z",
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/56123966?u=55d526b31897558c9000bb30537ba8eddc630cce&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>锐捷RG-EW1200G登录绕过(CVE-2023-4415)</div>",
+            "url": "https://github.com/thedarknessdied/CVE-2023-4169_CVE-2023-3306_CVE-2023-4415",
+            "title": "thedarknessdied/CVE-2023-4169_CVE-2023-3306_CVE-2023-4415: 锐捷RG-EW1200G登录绕过(CVE-2023-4415)",
+            "date_modified": "2023-10-17T20:56:48.000Z",
+            "date_published": "2023-10-16T05:08:06.000Z",
             "author": {
-                "name": "hktalent",
-                "url": "https://github.com/hktalent"
+                "name": "thedarknessdied",
+                "url": "https://github.com/thedarknessdied"
             }
         },
         {
@@ -25,6 +25,28 @@
             "author": {
                 "name": "CVEProject",
                 "url": "https://github.com/CVEProject"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/83682793?u=3e71e6cd8d05ed49bbfeee045530a337abc9f822&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Openfire Console Authentication Bypass Vulnerability with RCE plugin</div>",
+            "url": "https://github.com/miko550/CVE-2023-32315",
+            "title": "miko550/CVE-2023-32315: Openfire Console Authentication Bypass Vulnerability with RCE plugin",
+            "date_modified": "2023-10-18T00:49:55.000Z",
+            "date_published": "2023-06-18T15:42:00.000Z",
+            "author": {
+                "name": "miko550",
+                "url": "https://github.com/miko550"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/18223385?u=5ba29c1a9447ae88a6a0433f44038f47471e11c1&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>TOP All bugbounty pentesting CVE-2023- POC Exp  RCE example payload  Things</div>",
+            "url": "https://github.com/hktalent/TOP",
+            "title": "hktalent/TOP: TOP All bugbounty pentesting CVE-2023- POC Exp  RCE example payload  Things",
+            "date_modified": "2023-10-17T10:33:44.000Z",
+            "date_published": "2022-03-19T01:54:15.000Z",
+            "author": {
+                "name": "hktalent",
+                "url": "https://github.com/hktalent"
             }
         },
         {
@@ -83,21 +105,10 @@
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/56123966?u=55d526b31897558c9000bb30537ba8eddc630cce&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>锐捷RG-EW1200G登录绕过(CVE-2023-4415)</div>",
-            "url": "https://github.com/thedarknessdied/CVE-2023-4169_CVE-2023-3306_CVE-2023-4415",
-            "title": "thedarknessdied/CVE-2023-4169_CVE-2023-3306_CVE-2023-4415: 锐捷RG-EW1200G登录绕过(CVE-2023-4415)",
-            "date_modified": "2023-10-17T20:56:48.000Z",
-            "date_published": "2023-10-16T05:08:06.000Z",
-            "author": {
-                "name": "thedarknessdied",
-                "url": "https://github.com/thedarknessdied"
-            }
-        },
-        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/68852354?u=19a4f8a59b3a32edafac26550dce38873da504d5&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>testing poc</div>",
             "url": "https://github.com/hrtowii/cve-2023-41993-test",
             "title": "hrtowii/cve-2023-41993-test: testing poc",
-            "date_modified": "2023-10-17T15:59:07.000Z",
+            "date_modified": "2023-10-18T00:32:55.000Z",
             "date_published": "2023-10-16T15:43:50.000Z",
             "author": {
                 "name": "hrtowii",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "RandomRobbieBF",
                 "url": "https://github.com/RandomRobbieBF"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/66072013?u=d9c2a1af9a18d2972b72111a1cd8deefc9b67077&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Exploit tool for CVE-2023-4911, targeting the 'Looney Tunables' glibc vulnerability in various Linux distributions.</div>",
-            "url": "https://github.com/chaudharyarjun/LooneyPwner",
-            "title": "chaudharyarjun/LooneyPwner: Exploit tool for CVE-2023-4911, targeting the 'Looney Tunables' glibc vulnerability in various Linux distributions.",
-            "date_modified": "2023-10-17T08:02:33.000Z",
-            "date_published": "2023-10-17T07:44:16.000Z",
-            "author": {
-                "name": "chaudharyarjun",
-                "url": "https://github.com/chaudharyarjun"
             }
         }
     ]
