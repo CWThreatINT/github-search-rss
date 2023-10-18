@@ -17,6 +17,17 @@
             }
         },
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/36384542?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Detect and mitigate the critical CVE-2023-20198 vulnerability in Cisco IOS XE Software. Our Python-based scanner helps security professionals identify potential implants and secure their systems. Scan for active exploitation, detect implants, and generate detailed logs.</div>",
+            "url": "https://github.com/moonrockcowboy/CVE-2023-20198-scanner",
+            "title": "moonrockcowboy/CVE-2023-20198-scanner: Detect and mitigate the critical CVE-2023-20198 vulnerability in Cisco IOS XE Software. Our Python-based scanner helps security professionals identify potential implants and secure their systems. Scan for active exploitation, detect implants, and generate detailed logs.",
+            "date_modified": "2023-10-18T03:12:40.000Z",
+            "date_published": "2023-10-18T03:12:40.000Z",
+            "author": {
+                "name": "moonrockcowboy",
+                "url": "https://github.com/moonrockcowboy"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/68852354?u=19a4f8a59b3a32edafac26550dce38873da504d5&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>testing poc</div>",
             "url": "https://github.com/hrtowii/cve-2023-41993-test",
             "title": "hrtowii/cve-2023-41993-test: testing poc",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "d0rb",
                 "url": "https://github.com/d0rb"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/51722811?u=a195458fc64bade6e8616d1d5c43883f0abde0c0&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>RumbleTalk Live Group Chat &lt;= 6.1.9 - Missing Authorization via handleRequest</div>",
-            "url": "https://github.com/RandomRobbieBF/CVE-2023-45828",
-            "title": "RandomRobbieBF/CVE-2023-45828: RumbleTalk Live Group Chat <= 6.1.9 - Missing Authorization via handleRequest",
-            "date_modified": "2023-10-17T08:41:55.000Z",
-            "date_published": "2023-10-17T08:41:54.000Z",
-            "author": {
-                "name": "RandomRobbieBF",
-                "url": "https://github.com/RandomRobbieBF"
             }
         }
     ]
