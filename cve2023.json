@@ -17,6 +17,17 @@
             }
         },
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/66072013?u=fdc83dd47a7a366cb11b9e32f9081f876c52ada5&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Exploit tool for CVE-2023-4911, targeting the 'Looney Tunables' glibc vulnerability in various Linux distributions.</div>",
+            "url": "https://github.com/chaudharyarjun/LooneyPwner",
+            "title": "chaudharyarjun/LooneyPwner: Exploit tool for CVE-2023-4911, targeting the 'Looney Tunables' glibc vulnerability in various Linux distributions.",
+            "date_modified": "2023-10-17T08:02:33.000Z",
+            "date_published": "2023-10-17T07:44:16.000Z",
+            "author": {
+                "name": "chaudharyarjun",
+                "url": "https://github.com/chaudharyarjun"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/36384542?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Detect and mitigate the critical CVE-2023-20198 vulnerability in Cisco IOS XE Software. Our Python-based scanner helps security professionals identify potential implants and secure their systems. Scan for active exploitation, detect implants, and generate detailed logs.</div>",
             "url": "https://github.com/moonrockcowboy/CVE-2023-20198-scanner",
             "title": "moonrockcowboy/CVE-2023-20198-scanner: Detect and mitigate the critical CVE-2023-20198 vulnerability in Cisco IOS XE Software. Our Python-based scanner helps security professionals identify potential implants and secure their systems. Scan for active exploitation, detect implants, and generate detailed logs.",
@@ -86,7 +97,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/5783068?u=34c5d9103dd2775f6bc340237545f64e2be7786b&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2023-20198 &amp; 0Day Implant Scanner</div>",
             "url": "https://github.com/ZephrFish/Cisco-IOS-XE-Scanner",
             "title": "ZephrFish/Cisco-IOS-XE-Scanner: CVE-2023-20198 & 0Day Implant Scanner",
-            "date_modified": "2023-10-18T02:33:13.000Z",
+            "date_modified": "2023-10-18T04:56:22.000Z",
             "date_published": "2023-10-17T22:41:14.000Z",
             "author": {
                 "name": "ZephrFish",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "deIndra",
                 "url": "https://github.com/deIndra"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/10403781?u=c3370c61f020003fff5927dac120ddb90683e079&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>socks5 heap buffer overflow</div>",
-            "url": "https://github.com/d0rb/CVE-2023-38545",
-            "title": "d0rb/CVE-2023-38545: socks5 heap buffer overflow",
-            "date_modified": "2023-10-17T09:03:45.000Z",
-            "date_published": "2023-10-17T09:03:15.000Z",
-            "author": {
-                "name": "d0rb",
-                "url": "https://github.com/d0rb"
             }
         }
     ]
