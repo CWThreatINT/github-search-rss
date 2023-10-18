@@ -17,6 +17,28 @@
             }
         },
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/63700910?u=d6321ec3d0ea98516d40a0a5ed6c0f95416a90b4&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
+            "url": "https://github.com/valentin-panov/CVE-2023-45857",
+            "title": "valentin-panov/CVE-2023-45857",
+            "date_modified": "2023-10-18T19:25:42.000Z",
+            "date_published": "2023-10-18T12:19:34.000Z",
+            "author": {
+                "name": "valentin-panov",
+                "url": "https://github.com/valentin-panov"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/61380567?u=a916ff49edac38004a8fb2bd9e1079fc353a8bd3&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
+            "url": "https://github.com/po6ix/POC-for-CVE-2023-41993",
+            "title": "po6ix/POC-for-CVE-2023-41993",
+            "date_modified": "2023-10-18T19:36:59.000Z",
+            "date_published": "2023-10-15T12:14:18.000Z",
+            "author": {
+                "name": "po6ix",
+                "url": "https://github.com/po6ix"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/71512502?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Blind SSRF in umputun/remark42 &lt;= 1.12.1</div>",
             "url": "https://github.com/jet-pentest/CVE-2023-45966",
             "title": "jet-pentest/CVE-2023-45966: Blind SSRF in umputun/remark42 <= 1.12.1",
@@ -102,17 +124,6 @@
             "author": {
                 "name": "thedarknessdied",
                 "url": "https://github.com/thedarknessdied"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/63700910?u=d6321ec3d0ea98516d40a0a5ed6c0f95416a90b4&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
-            "url": "https://github.com/valentin-panov/CVE-2023-45857",
-            "title": "valentin-panov/CVE-2023-45857",
-            "date_modified": "2023-10-18T12:19:55.000Z",
-            "date_published": "2023-10-18T12:19:34.000Z",
-            "author": {
-                "name": "valentin-panov",
-                "url": "https://github.com/valentin-panov"
             }
         },
         {
@@ -212,17 +223,6 @@
             "author": {
                 "name": "moonrockcowboy",
                 "url": "https://github.com/moonrockcowboy"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/83682793?u=3e71e6cd8d05ed49bbfeee045530a337abc9f822&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Openfire Console Authentication Bypass Vulnerability with RCE plugin</div>",
-            "url": "https://github.com/miko550/CVE-2023-32315",
-            "title": "miko550/CVE-2023-32315: Openfire Console Authentication Bypass Vulnerability with RCE plugin",
-            "date_modified": "2023-10-18T00:49:55.000Z",
-            "date_published": "2023-06-18T15:42:00.000Z",
-            "author": {
-                "name": "miko550",
-                "url": "https://github.com/miko550"
             }
         }
     ]
