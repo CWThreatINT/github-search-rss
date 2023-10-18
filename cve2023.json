@@ -17,10 +17,32 @@
             }
         },
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/71512502?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Blind SSRF in umputun/remark42 &lt;= 1.12.1</div>",
+            "url": "https://github.com/jet-pentest/CVE-2023-45966",
+            "title": "jet-pentest/CVE-2023-45966: Blind SSRF in umputun/remark42 <= 1.12.1",
+            "date_modified": "2023-10-18T18:18:25.000Z",
+            "date_published": "2023-10-18T18:18:25.000Z",
+            "author": {
+                "name": "jet-pentest",
+                "url": "https://github.com/jet-pentest"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/47062591?u=dbb19898eb60b03aadb9539550363d09401bcee8&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2023-41993</div>",
+            "url": "https://github.com/0x06060606/CVE-2023-41993",
+            "title": "0x06060606/CVE-2023-41993: CVE-2023-41993",
+            "date_modified": "2023-10-17T17:22:17.000Z",
+            "date_published": "2023-10-16T20:34:02.000Z",
+            "author": {
+                "name": "0x06060606",
+                "url": "https://github.com/0x06060606"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/68852354?u=19a4f8a59b3a32edafac26550dce38873da504d5&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>testing poc</div>",
             "url": "https://github.com/hrtowii/cve-2023-41993-test",
             "title": "hrtowii/cve-2023-41993-test: testing poc",
-            "date_modified": "2023-10-18T16:41:47.000Z",
+            "date_modified": "2023-10-18T18:47:45.000Z",
             "date_published": "2023-10-16T15:43:50.000Z",
             "author": {
                 "name": "hrtowii",
@@ -69,17 +91,6 @@
             "author": {
                 "name": "alekos3",
                 "url": "https://github.com/alekos3"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/47062591?u=dbb19898eb60b03aadb9539550363d09401bcee8&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2023-41993</div>",
-            "url": "https://github.com/0x06060606/CVE-2023-41993",
-            "title": "0x06060606/CVE-2023-41993: CVE-2023-41993",
-            "date_modified": "2023-10-17T17:22:17.000Z",
-            "date_published": "2023-10-16T20:34:02.000Z",
-            "author": {
-                "name": "0x06060606",
-                "url": "https://github.com/0x06060606"
             }
         },
         {
@@ -212,17 +223,6 @@
             "author": {
                 "name": "miko550",
                 "url": "https://github.com/miko550"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/18223385?u=5ba29c1a9447ae88a6a0433f44038f47471e11c1&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>TOP All bugbounty pentesting CVE-2023- POC Exp  RCE example payload  Things</div>",
-            "url": "https://github.com/hktalent/TOP",
-            "title": "hktalent/TOP: TOP All bugbounty pentesting CVE-2023- POC Exp  RCE example payload  Things",
-            "date_modified": "2023-10-18T14:26:01.000Z",
-            "date_published": "2022-03-19T01:54:15.000Z",
-            "author": {
-                "name": "hktalent",
-                "url": "https://github.com/hktalent"
             }
         }
     ]
