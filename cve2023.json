@@ -17,6 +17,28 @@
             }
         },
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/5493049?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
+            "url": "https://github.com/cert-orangecyberdefense/Cisco_CVE-2023-20198",
+            "title": "cert-orangecyberdefense/Cisco_CVE-2023-20198",
+            "date_modified": "2023-10-18T08:39:58.000Z",
+            "date_published": "2023-10-18T08:39:57.000Z",
+            "author": {
+                "name": "cert-orangecyberdefense",
+                "url": "https://github.com/cert-orangecyberdefense"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/68852354?u=19a4f8a59b3a32edafac26550dce38873da504d5&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>testing poc</div>",
+            "url": "https://github.com/hrtowii/cve-2023-41993-test",
+            "title": "hrtowii/cve-2023-41993-test: testing poc",
+            "date_modified": "2023-10-18T08:08:59.000Z",
+            "date_published": "2023-10-16T15:43:50.000Z",
+            "author": {
+                "name": "hrtowii",
+                "url": "https://github.com/hrtowii"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/22986332?u=40c2b502da84d82b4adeb67221788a917ece7c6a&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
             "url": "https://github.com/cli-ish/CVE-2023-5540",
             "title": "cli-ish/CVE-2023-5540",
@@ -116,21 +138,10 @@
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/68852354?u=19a4f8a59b3a32edafac26550dce38873da504d5&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>testing poc</div>",
-            "url": "https://github.com/hrtowii/cve-2023-41993-test",
-            "title": "hrtowii/cve-2023-41993-test: testing poc",
-            "date_modified": "2023-10-18T00:32:55.000Z",
-            "date_published": "2023-10-16T15:43:50.000Z",
-            "author": {
-                "name": "hrtowii",
-                "url": "https://github.com/hrtowii"
-            }
-        },
-        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/56123966?u=55d526b31897558c9000bb30537ba8eddc630cce&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>锐捷RG-EW1200G登录绕过(CVE-2023-4415)</div>",
             "url": "https://github.com/thedarknessdied/CVE-2023-4169_CVE-2023-3306_CVE-2023-4415",
             "title": "thedarknessdied/CVE-2023-4169_CVE-2023-3306_CVE-2023-4415: 锐捷RG-EW1200G登录绕过(CVE-2023-4415)",
-            "date_modified": "2023-10-18T07:15:08.000Z",
+            "date_modified": "2023-10-18T08:56:51.000Z",
             "date_published": "2023-10-16T05:08:06.000Z",
             "author": {
                 "name": "thedarknessdied",
@@ -185,7 +196,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/88535377?u=8282f1d8139691249d08a567a0a9ec513541ab09&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2023-22515: Confluence Broken Access Control Exploit</div>",
             "url": "https://github.com/Chocapikk/CVE-2023-22515",
             "title": "Chocapikk/CVE-2023-22515: CVE-2023-22515: Confluence Broken Access Control Exploit",
-            "date_modified": "2023-10-18T01:57:39.000Z",
+            "date_modified": "2023-10-18T08:43:45.000Z",
             "date_published": "2023-10-10T21:40:09.000Z",
             "author": {
                 "name": "Chocapikk",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "securityphoenix",
                 "url": "https://github.com/securityphoenix"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/10403781?u=c3370c61f020003fff5927dac120ddb90683e079&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2023-20198 PoC (!)</div>",
-            "url": "https://github.com/d0rb/CVE-2023-20198",
-            "title": "d0rb/CVE-2023-20198: CVE-2023-20198 PoC (!)",
-            "date_modified": "2023-10-18T07:38:44.000Z",
-            "date_published": "2023-10-17T13:59:48.000Z",
-            "author": {
-                "name": "d0rb",
-                "url": "https://github.com/d0rb"
             }
         }
     ]
