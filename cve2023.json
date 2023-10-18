@@ -6,6 +6,17 @@
     "description": "CVE-2023 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/79263622?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>This script can identify if Cisco IOS XE devices are vulnerable to CVE-2023-20198</div>",
+            "url": "https://github.com/alekos3/CVE_2023_20198_Detector",
+            "title": "alekos3/CVE_2023_20198_Detector: This script can identify if Cisco IOS XE devices are vulnerable to CVE-2023-20198",
+            "date_modified": "2023-10-18T15:04:58.000Z",
+            "date_published": "2023-10-18T15:04:57.000Z",
+            "author": {
+                "name": "alekos3",
+                "url": "https://github.com/alekos3"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/18195825?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023</div>",
             "url": "https://github.com/CVEProject/cvelist",
             "title": "CVEProject/cvelist: Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023",
@@ -20,11 +31,22 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/68852354?u=19a4f8a59b3a32edafac26550dce38873da504d5&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>testing poc</div>",
             "url": "https://github.com/hrtowii/cve-2023-41993-test",
             "title": "hrtowii/cve-2023-41993-test: testing poc",
-            "date_modified": "2023-10-18T08:08:59.000Z",
+            "date_modified": "2023-10-18T14:40:07.000Z",
             "date_published": "2023-10-16T15:43:50.000Z",
             "author": {
                 "name": "hrtowii",
                 "url": "https://github.com/hrtowii"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/47062591?u=dbb19898eb60b03aadb9539550363d09401bcee8&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2023-41993</div>",
+            "url": "https://github.com/0x06060606/CVE-2023-41993",
+            "title": "0x06060606/CVE-2023-41993: CVE-2023-41993",
+            "date_modified": "2023-10-17T17:22:17.000Z",
+            "date_published": "2023-10-16T20:34:02.000Z",
+            "author": {
+                "name": "0x06060606",
+                "url": "https://github.com/0x06060606"
             }
         },
         {
@@ -127,17 +149,6 @@
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/47062591?u=dbb19898eb60b03aadb9539550363d09401bcee8&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2023-41993</div>",
-            "url": "https://github.com/0x06060606/CVE-2023-41993",
-            "title": "0x06060606/CVE-2023-41993: CVE-2023-41993",
-            "date_modified": "2023-10-17T17:22:17.000Z",
-            "date_published": "2023-10-16T20:34:02.000Z",
-            "author": {
-                "name": "0x06060606",
-                "url": "https://github.com/0x06060606"
-            }
-        },
-        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/66072013?u=fdc83dd47a7a366cb11b9e32f9081f876c52ada5&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Exploit tool for CVE-2023-4911, targeting the 'Looney Tunables' glibc vulnerability in various Linux distributions.</div>",
             "url": "https://github.com/chaudharyarjun/LooneyPwner",
             "title": "chaudharyarjun/LooneyPwner: Exploit tool for CVE-2023-4911, targeting the 'Looney Tunables' glibc vulnerability in various Linux distributions.",
@@ -174,7 +185,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/18223385?u=5ba29c1a9447ae88a6a0433f44038f47471e11c1&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>TOP All bugbounty pentesting CVE-2023- POC Exp  RCE example payload  Things</div>",
             "url": "https://github.com/hktalent/TOP",
             "title": "hktalent/TOP: TOP All bugbounty pentesting CVE-2023- POC Exp  RCE example payload  Things",
-            "date_modified": "2023-10-17T10:33:44.000Z",
+            "date_modified": "2023-10-18T14:26:01.000Z",
             "date_published": "2022-03-19T01:54:15.000Z",
             "author": {
                 "name": "hktalent",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "Chocapikk",
                 "url": "https://github.com/Chocapikk"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/6424128?u=1a9e9984dee2e7f917c1e8d7bf1e551b3928b3da&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
-            "url": "https://github.com/emomeni/Simple-Ansible-for-CVE-2023-20198",
-            "title": "emomeni/Simple-Ansible-for-CVE-2023-20198",
-            "date_modified": "2023-10-17T18:46:22.000Z",
-            "date_published": "2023-10-17T18:46:21.000Z",
-            "author": {
-                "name": "emomeni",
-                "url": "https://github.com/emomeni"
             }
         }
     ]
