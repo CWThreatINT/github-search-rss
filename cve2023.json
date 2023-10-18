@@ -17,6 +17,72 @@
             }
         },
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/22986332?u=40c2b502da84d82b4adeb67221788a917ece7c6a&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
+            "url": "https://github.com/cli-ish/CVE-2023-5540",
+            "title": "cli-ish/CVE-2023-5540",
+            "date_modified": "2023-10-18T07:58:33.000Z",
+            "date_published": "2023-10-18T07:58:33.000Z",
+            "author": {
+                "name": "cli-ish",
+                "url": "https://github.com/cli-ish"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/36255129?u=50f48dc6d97215850039c026e428511e7dc1f1f9&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Checker for CVE-2023-20198 , Not a full POC Just checks the implementation and detects if hex is in response or not</div>",
+            "url": "https://github.com/JoyGhoshs/CVE-2023-20198",
+            "title": "JoyGhoshs/CVE-2023-20198: Checker for CVE-2023-20198 , Not a full POC Just checks the implementation and detects if hex is in response or not",
+            "date_modified": "2023-10-18T07:58:31.000Z",
+            "date_published": "2023-10-18T07:53:29.000Z",
+            "author": {
+                "name": "JoyGhoshs",
+                "url": "https://github.com/JoyGhoshs"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/22986332?u=40c2b502da84d82b4adeb67221788a917ece7c6a&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
+            "url": "https://github.com/cli-ish/CVE-2023-5539",
+            "title": "cli-ish/CVE-2023-5539",
+            "date_modified": "2023-10-18T07:58:25.000Z",
+            "date_published": "2023-10-18T07:58:25.000Z",
+            "author": {
+                "name": "cli-ish",
+                "url": "https://github.com/cli-ish"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/22986332?u=40c2b502da84d82b4adeb67221788a917ece7c6a&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
+            "url": "https://github.com/cli-ish/CVE-2023-28330",
+            "title": "cli-ish/CVE-2023-28330",
+            "date_modified": "2023-10-18T07:58:16.000Z",
+            "date_published": "2023-10-18T07:58:16.000Z",
+            "author": {
+                "name": "cli-ish",
+                "url": "https://github.com/cli-ish"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/22986332?u=40c2b502da84d82b4adeb67221788a917ece7c6a&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
+            "url": "https://github.com/cli-ish/CVE-2023-28329",
+            "title": "cli-ish/CVE-2023-28329",
+            "date_modified": "2023-10-18T07:58:05.000Z",
+            "date_published": "2023-10-18T07:58:04.000Z",
+            "author": {
+                "name": "cli-ish",
+                "url": "https://github.com/cli-ish"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/80873500?u=4c3da53f1a4d2eefea25b7399a2d7b2f21c8515d&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2023-42819</div>",
+            "url": "https://github.com/C1ph3rX13/CVE-2023-42819",
+            "title": "C1ph3rX13/CVE-2023-42819: CVE-2023-42819",
+            "date_modified": "2023-10-17T01:16:45.000Z",
+            "date_published": "2023-10-12T08:45:46.000Z",
+            "author": {
+                "name": "C1ph3rX13",
+                "url": "https://github.com/C1ph3rX13"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/47062591?u=dbb19898eb60b03aadb9539550363d09401bcee8&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2023-41993</div>",
             "url": "https://github.com/0x06060606/CVE-2023-41993",
             "title": "0x06060606/CVE-2023-41993: CVE-2023-41993",
@@ -61,21 +127,10 @@
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/80873500?u=4c3da53f1a4d2eefea25b7399a2d7b2f21c8515d&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2023-42819</div>",
-            "url": "https://github.com/C1ph3rX13/CVE-2023-42819",
-            "title": "C1ph3rX13/CVE-2023-42819: CVE-2023-42819",
-            "date_modified": "2023-10-17T01:16:45.000Z",
-            "date_published": "2023-10-12T08:45:46.000Z",
-            "author": {
-                "name": "C1ph3rX13",
-                "url": "https://github.com/C1ph3rX13"
-            }
-        },
-        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/56123966?u=55d526b31897558c9000bb30537ba8eddc630cce&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>锐捷RG-EW1200G登录绕过(CVE-2023-4415)</div>",
             "url": "https://github.com/thedarknessdied/CVE-2023-4169_CVE-2023-3306_CVE-2023-4415",
             "title": "thedarknessdied/CVE-2023-4169_CVE-2023-3306_CVE-2023-4415: 锐捷RG-EW1200G登录绕过(CVE-2023-4415)",
-            "date_modified": "2023-10-18T05:29:51.000Z",
+            "date_modified": "2023-10-18T07:15:08.000Z",
             "date_published": "2023-10-16T05:08:06.000Z",
             "author": {
                 "name": "thedarknessdied",
@@ -108,7 +163,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/5783068?u=34c5d9103dd2775f6bc340237545f64e2be7786b&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2023-20198 &amp; 0Day Implant Scanner</div>",
             "url": "https://github.com/ZephrFish/Cisco-IOS-XE-Scanner",
             "title": "ZephrFish/Cisco-IOS-XE-Scanner: CVE-2023-20198 & 0Day Implant Scanner",
-            "date_modified": "2023-10-18T06:08:04.000Z",
+            "date_modified": "2023-10-18T08:08:57.000Z",
             "date_published": "2023-10-17T22:41:14.000Z",
             "author": {
                 "name": "ZephrFish",
@@ -163,66 +218,11 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/10403781?u=c3370c61f020003fff5927dac120ddb90683e079&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2023-20198 PoC (!)</div>",
             "url": "https://github.com/d0rb/CVE-2023-20198",
             "title": "d0rb/CVE-2023-20198: CVE-2023-20198 PoC (!)",
-            "date_modified": "2023-10-17T14:00:22.000Z",
+            "date_modified": "2023-10-18T07:38:44.000Z",
             "date_published": "2023-10-17T13:59:48.000Z",
             "author": {
                 "name": "d0rb",
                 "url": "https://github.com/d0rb"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/74809607?u=4bbda8cdb5e369e3fda29a7d97ebba7aff24ec0f&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
-            "url": "https://github.com/ValentinPundikov/poc-CVE-2023-32784",
-            "title": "ValentinPundikov/poc-CVE-2023-32784",
-            "date_modified": "2023-10-17T13:18:50.000Z",
-            "date_published": "2023-10-17T13:17:08.000Z",
-            "author": {
-                "name": "ValentinPundikov",
-                "url": "https://github.com/ValentinPundikov"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/108491572?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2023-20198 Checkscript</div>",
-            "url": "https://github.com/Atea-Redteam/CVE-2023-20198",
-            "title": "Atea-Redteam/CVE-2023-20198: CVE-2023-20198 Checkscript",
-            "date_modified": "2023-10-18T06:27:02.000Z",
-            "date_published": "2023-10-17T08:00:18.000Z",
-            "author": {
-                "name": "Atea-Redteam",
-                "url": "https://github.com/Atea-Redteam"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/130330296?u=672fbd82b39a7b081cc61cca6306e6dd5b5b7963&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
-            "url": "https://github.com/S4muraiMelayu1337/CVE-2023-29489",
-            "title": "S4muraiMelayu1337/CVE-2023-29489",
-            "date_modified": "2023-10-17T11:21:12.000Z",
-            "date_published": "2023-10-17T11:18:53.000Z",
-            "author": {
-                "name": "S4muraiMelayu1337",
-                "url": "https://github.com/S4muraiMelayu1337"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/104689621?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>exploit CVE-2023-20198</div>",
-            "url": "https://github.com/pypcod/CVE-2023-20198",
-            "title": "pypcod/CVE-2023-20198: exploit CVE-2023-20198",
-            "date_modified": "2023-10-17T10:37:54.000Z",
-            "date_published": "2023-10-17T10:37:53.000Z",
-            "author": {
-                "name": "pypcod",
-                "url": "https://github.com/pypcod"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/73511417?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
-            "url": "https://github.com/deIndra/CVE-2023-36076",
-            "title": "deIndra/CVE-2023-36076",
-            "date_modified": "2023-10-17T08:09:39.000Z",
-            "date_published": "2023-10-17T07:37:24.000Z",
-            "author": {
-                "name": "deIndra",
-                "url": "https://github.com/deIndra"
             }
         }
     ]
