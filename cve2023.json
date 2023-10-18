@@ -17,6 +17,17 @@
             }
         },
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/61380567?u=a916ff49edac38004a8fb2bd9e1079fc353a8bd3&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
+            "url": "https://github.com/po6ix/POC-for-CVE-2023-41993",
+            "title": "po6ix/POC-for-CVE-2023-41993",
+            "date_modified": "2023-10-18T19:36:59.000Z",
+            "date_published": "2023-10-15T12:14:18.000Z",
+            "author": {
+                "name": "po6ix",
+                "url": "https://github.com/po6ix"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/47062591?u=dbb19898eb60b03aadb9539550363d09401bcee8&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2023-41993</div>",
             "url": "https://github.com/0x06060606/CVE-2023-41993",
             "title": "0x06060606/CVE-2023-41993: CVE-2023-41993",
@@ -39,17 +50,6 @@
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/61380567?u=a916ff49edac38004a8fb2bd9e1079fc353a8bd3&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
-            "url": "https://github.com/po6ix/POC-for-CVE-2023-41993",
-            "title": "po6ix/POC-for-CVE-2023-41993",
-            "date_modified": "2023-10-18T19:36:59.000Z",
-            "date_published": "2023-10-15T12:14:18.000Z",
-            "author": {
-                "name": "po6ix",
-                "url": "https://github.com/po6ix"
-            }
-        },
-        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/71512502?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Blind SSRF in umputun/remark42 &lt;= 1.12.1</div>",
             "url": "https://github.com/jet-pentest/CVE-2023-45966",
             "title": "jet-pentest/CVE-2023-45966: Blind SSRF in umputun/remark42 <= 1.12.1",
@@ -64,7 +64,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/68852354?u=19a4f8a59b3a32edafac26550dce38873da504d5&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>testing poc</div>",
             "url": "https://github.com/hrtowii/cve-2023-41993-test",
             "title": "hrtowii/cve-2023-41993-test: testing poc",
-            "date_modified": "2023-10-18T18:47:45.000Z",
+            "date_modified": "2023-10-18T22:53:04.000Z",
             "date_published": "2023-10-16T15:43:50.000Z",
             "author": {
                 "name": "hrtowii",
