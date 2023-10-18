@@ -6,17 +6,6 @@
     "description": "CVE-2023 FEED on GitHub",
     "items": [
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/5493049?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
-            "url": "https://github.com/cert-orangecyberdefense/Cisco_CVE-2023-20198",
-            "title": "cert-orangecyberdefense/Cisco_CVE-2023-20198",
-            "date_modified": "2023-10-18T10:52:40.000Z",
-            "date_published": "2023-10-18T08:39:57.000Z",
-            "author": {
-                "name": "cert-orangecyberdefense",
-                "url": "https://github.com/cert-orangecyberdefense"
-            }
-        },
-        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/18195825?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023</div>",
             "url": "https://github.com/CVEProject/cvelist",
             "title": "CVEProject/cvelist: Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023",
@@ -25,6 +14,17 @@
             "author": {
                 "name": "CVEProject",
                 "url": "https://github.com/CVEProject"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/5493049?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
+            "url": "https://github.com/cert-orangecyberdefense/Cisco_CVE-2023-20198",
+            "title": "cert-orangecyberdefense/Cisco_CVE-2023-20198",
+            "date_modified": "2023-10-18T10:52:40.000Z",
+            "date_published": "2023-10-18T08:39:57.000Z",
+            "author": {
+                "name": "cert-orangecyberdefense",
+                "url": "https://github.com/cert-orangecyberdefense"
             }
         },
         {
@@ -152,7 +152,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/56123966?u=55d526b31897558c9000bb30537ba8eddc630cce&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>锐捷RG-EW1200G登录绕过(CVE-2023-4415)</div>",
             "url": "https://github.com/thedarknessdied/CVE-2023-4169_CVE-2023-3306_CVE-2023-4415",
             "title": "thedarknessdied/CVE-2023-4169_CVE-2023-3306_CVE-2023-4415: 锐捷RG-EW1200G登录绕过(CVE-2023-4415)",
-            "date_modified": "2023-10-18T08:56:51.000Z",
+            "date_modified": "2023-10-18T12:00:59.000Z",
             "date_published": "2023-10-16T05:08:06.000Z",
             "author": {
                 "name": "thedarknessdied",
@@ -185,7 +185,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/5783068?u=34c5d9103dd2775f6bc340237545f64e2be7786b&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2023-20198 &amp; 0Day Implant Scanner</div>",
             "url": "https://github.com/ZephrFish/Cisco-IOS-XE-Scanner",
             "title": "ZephrFish/Cisco-IOS-XE-Scanner: CVE-2023-20198 & 0Day Implant Scanner",
-            "date_modified": "2023-10-18T09:31:03.000Z",
+            "date_modified": "2023-10-18T11:33:54.000Z",
             "date_published": "2023-10-17T22:41:14.000Z",
             "author": {
                 "name": "ZephrFish",
@@ -207,7 +207,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/88535377?u=8282f1d8139691249d08a567a0a9ec513541ab09&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2023-22515: Confluence Broken Access Control Exploit</div>",
             "url": "https://github.com/Chocapikk/CVE-2023-22515",
             "title": "Chocapikk/CVE-2023-22515: CVE-2023-22515: Confluence Broken Access Control Exploit",
-            "date_modified": "2023-10-18T08:43:45.000Z",
+            "date_modified": "2023-10-18T12:09:17.000Z",
             "date_published": "2023-10-10T21:40:09.000Z",
             "author": {
                 "name": "Chocapikk",
