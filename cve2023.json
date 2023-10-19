@@ -17,6 +17,17 @@
             }
         },
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/48417145?u=e11196f02db7e2e417db111167daca4b444495fd&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Exploit for CVE-2023-29360 targeting MSKSSRV.SYS driver</div>",
+            "url": "https://github.com/exotikcheat/cve-2023-29360",
+            "title": "exotikcheat/cve-2023-29360: Exploit for CVE-2023-29360 targeting MSKSSRV.SYS driver",
+            "date_modified": "2023-10-19T19:57:27.000Z",
+            "date_published": "2023-10-19T19:56:57.000Z",
+            "author": {
+                "name": "exotikcheat",
+                "url": "https://github.com/exotikcheat"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/61380567?u=a916ff49edac38004a8fb2bd9e1079fc353a8bd3&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
             "url": "https://github.com/po6ix/POC-for-CVE-2023-41993",
             "title": "po6ix/POC-for-CVE-2023-41993",
@@ -119,7 +130,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/47062591?u=dbb19898eb60b03aadb9539550363d09401bcee8&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2023-41993</div>",
             "url": "https://github.com/0x06060606/CVE-2023-41993",
             "title": "0x06060606/CVE-2023-41993: CVE-2023-41993",
-            "date_modified": "2023-10-19T03:09:28.000Z",
+            "date_modified": "2023-10-19T19:30:13.000Z",
             "date_published": "2023-10-16T20:34:02.000Z",
             "author": {
                 "name": "0x06060606",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "alekos3",
                 "url": "https://github.com/alekos3"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/56123966?u=55d526b31897558c9000bb30537ba8eddc630cce&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Ruijie-RG-EW1200G CVE-2023-4169_CVE-2023-3306_CVE-2023-4415</div>",
-            "url": "https://github.com/thedarknessdied/CVE-2023-4169_CVE-2023-3306_CVE-2023-4415",
-            "title": "thedarknessdied/CVE-2023-4169_CVE-2023-3306_CVE-2023-4415: Ruijie-RG-EW1200G CVE-2023-4169_CVE-2023-3306_CVE-2023-4415",
-            "date_modified": "2023-10-19T10:39:42.000Z",
-            "date_published": "2023-10-16T05:08:06.000Z",
-            "author": {
-                "name": "thedarknessdied",
-                "url": "https://github.com/thedarknessdied"
             }
         }
     ]
