@@ -6,14 +6,14 @@
     "description": "CVE-2023 FEED on GitHub",
     "items": [
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/18195825?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023</div>",
-            "url": "https://github.com/CVEProject/cvelist",
-            "title": "CVEProject/cvelist: Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023",
-            "date_modified": "2023-10-17T04:22:23.000Z",
-            "date_published": "2020-11-02T19:30:55.000Z",
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/106973537?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
+            "url": "https://github.com/nidhi7598/frameworks_base_AOSP_10_r33_CVE-2023-21109",
+            "title": "nidhi7598/frameworks_base_AOSP_10_r33_CVE-2023-21109",
+            "date_modified": "2023-10-19T07:00:41.000Z",
+            "date_published": "2023-10-19T06:53:50.000Z",
             "author": {
-                "name": "CVEProject",
-                "url": "https://github.com/CVEProject"
+                "name": "nidhi7598",
+                "url": "https://github.com/nidhi7598"
             }
         },
         {
@@ -25,6 +25,17 @@
             "author": {
                 "name": "ditekshen",
                 "url": "https://github.com/ditekshen"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/18195825?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023</div>",
+            "url": "https://github.com/CVEProject/cvelist",
+            "title": "CVEProject/cvelist: Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023",
+            "date_modified": "2023-10-17T04:22:23.000Z",
+            "date_published": "2020-11-02T19:30:55.000Z",
+            "author": {
+                "name": "CVEProject",
+                "url": "https://github.com/CVEProject"
             }
         },
         {
@@ -212,17 +223,6 @@
             "author": {
                 "name": "JoyGhoshs",
                 "url": "https://github.com/JoyGhoshs"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/22986332?u=40c2b502da84d82b4adeb67221788a917ece7c6a&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
-            "url": "https://github.com/cli-ish/CVE-2023-5539",
-            "title": "cli-ish/CVE-2023-5539",
-            "date_modified": "2023-10-18T07:58:25.000Z",
-            "date_published": "2023-10-18T07:58:25.000Z",
-            "author": {
-                "name": "cli-ish",
-                "url": "https://github.com/cli-ish"
             }
         }
     ]
