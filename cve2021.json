@@ -6,6 +6,17 @@
     "description": "CVE-2021 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/104125912?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
+            "url": "https://github.com/RubXkuB/PoC-Metabase-CVE-2021-41277",
+            "title": "RubXkuB/PoC-Metabase-CVE-2021-41277",
+            "date_modified": "2023-09-13T09:44:36.000Z",
+            "date_published": "2023-04-24T16:34:13.000Z",
+            "author": {
+                "name": "RubXkuB",
+                "url": "https://github.com/RubXkuB"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/65337905?u=54bead9601451d5c8023d79671bf64c712e388e3&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Python3 POC for CVE-2021-39165 in CachetHQ</div>",
             "url": "https://github.com/manbolq/CVE-2021-39165",
             "title": "manbolq/CVE-2021-39165: Python3 POC for CVE-2021-39165 in CachetHQ",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "navreet1425",
                 "url": "https://github.com/navreet1425"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/54280101?u=6c5859e9d05b81602ef9df73e2b18089080f90a2&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
-            "url": "https://github.com/jytmX/CVE-2021-24499",
-            "title": "jytmX/CVE-2021-24499",
-            "date_modified": "2023-09-29T04:54:46.000Z",
-            "date_published": "2023-09-29T04:53:56.000Z",
-            "author": {
-                "name": "jytmX",
-                "url": "https://github.com/jytmX"
             }
         }
     ]
