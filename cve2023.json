@@ -6,17 +6,6 @@
     "description": "CVE-2023 FEED on GitHub",
     "items": [
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/33852122?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
-            "url": "https://github.com/wushigudan/CVE-2023-33517",
-            "title": "wushigudan/CVE-2023-33517",
-            "date_modified": "2023-10-19T02:08:39.000Z",
-            "date_published": "2023-10-19T02:08:39.000Z",
-            "author": {
-                "name": "wushigudan",
-                "url": "https://github.com/wushigudan"
-            }
-        },
-        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/18195825?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023</div>",
             "url": "https://github.com/CVEProject/cvelist",
             "title": "CVEProject/cvelist: Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023",
@@ -25,6 +14,28 @@
             "author": {
                 "name": "CVEProject",
                 "url": "https://github.com/CVEProject"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/61380567?u=a916ff49edac38004a8fb2bd9e1079fc353a8bd3&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
+            "url": "https://github.com/po6ix/POC-for-CVE-2023-41993",
+            "title": "po6ix/POC-for-CVE-2023-41993",
+            "date_modified": "2023-10-19T02:51:22.000Z",
+            "date_published": "2023-10-15T12:14:18.000Z",
+            "author": {
+                "name": "po6ix",
+                "url": "https://github.com/po6ix"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/33852122?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
+            "url": "https://github.com/wushigudan/CVE-2023-33517",
+            "title": "wushigudan/CVE-2023-33517",
+            "date_modified": "2023-10-19T02:08:39.000Z",
+            "date_published": "2023-10-19T02:08:39.000Z",
+            "author": {
+                "name": "wushigudan",
+                "url": "https://github.com/wushigudan"
             }
         },
         {
@@ -58,17 +69,6 @@
             "author": {
                 "name": "hktalent",
                 "url": "https://github.com/hktalent"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/61380567?u=a916ff49edac38004a8fb2bd9e1079fc353a8bd3&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
-            "url": "https://github.com/po6ix/POC-for-CVE-2023-41993",
-            "title": "po6ix/POC-for-CVE-2023-41993",
-            "date_modified": "2023-10-19T01:56:00.000Z",
-            "date_published": "2023-10-15T12:14:18.000Z",
-            "author": {
-                "name": "po6ix",
-                "url": "https://github.com/po6ix"
             }
         },
         {
@@ -108,7 +108,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/68852354?u=19a4f8a59b3a32edafac26550dce38873da504d5&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>testing poc</div>",
             "url": "https://github.com/hrtowii/cve-2023-41993-test",
             "title": "hrtowii/cve-2023-41993-test: testing poc",
-            "date_modified": "2023-10-19T01:44:50.000Z",
+            "date_modified": "2023-10-19T02:44:18.000Z",
             "date_published": "2023-10-16T15:43:50.000Z",
             "author": {
                 "name": "hrtowii",
@@ -163,7 +163,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/56123966?u=55d526b31897558c9000bb30537ba8eddc630cce&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Ruijie-RG-EW1200G CVE-2023-4169_CVE-2023-3306_CVE-2023-4415</div>",
             "url": "https://github.com/thedarknessdied/CVE-2023-4169_CVE-2023-3306_CVE-2023-4415",
             "title": "thedarknessdied/CVE-2023-4169_CVE-2023-3306_CVE-2023-4415: Ruijie-RG-EW1200G CVE-2023-4169_CVE-2023-3306_CVE-2023-4415",
-            "date_modified": "2023-10-18T12:23:19.000Z",
+            "date_modified": "2023-10-19T02:39:07.000Z",
             "date_published": "2023-10-16T05:08:06.000Z",
             "author": {
                 "name": "thedarknessdied",
