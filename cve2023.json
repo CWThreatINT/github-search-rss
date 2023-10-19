@@ -6,14 +6,14 @@
     "description": "CVE-2023 FEED on GitHub",
     "items": [
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/135759201?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
-            "url": "https://github.com/codeb0ss/CVE-2023-44227-PoC",
-            "title": "codeb0ss/CVE-2023-44227-PoC",
-            "date_modified": "2023-10-19T01:37:25.000Z",
-            "date_published": "2023-10-19T01:33:08.000Z",
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/33852122?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
+            "url": "https://github.com/wushigudan/CVE-2023-33517",
+            "title": "wushigudan/CVE-2023-33517",
+            "date_modified": "2023-10-19T02:08:39.000Z",
+            "date_published": "2023-10-19T02:08:39.000Z",
             "author": {
-                "name": "codeb0ss",
-                "url": "https://github.com/codeb0ss"
+                "name": "wushigudan",
+                "url": "https://github.com/wushigudan"
             }
         },
         {
@@ -25,6 +25,17 @@
             "author": {
                 "name": "CVEProject",
                 "url": "https://github.com/CVEProject"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/135759201?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
+            "url": "https://github.com/codeb0ss/CVE-2023-44227-PoC",
+            "title": "codeb0ss/CVE-2023-44227-PoC",
+            "date_modified": "2023-10-19T01:37:25.000Z",
+            "date_published": "2023-10-19T01:33:08.000Z",
+            "author": {
+                "name": "codeb0ss",
+                "url": "https://github.com/codeb0ss"
             }
         },
         {
@@ -53,7 +64,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/61380567?u=a916ff49edac38004a8fb2bd9e1079fc353a8bd3&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
             "url": "https://github.com/po6ix/POC-for-CVE-2023-41993",
             "title": "po6ix/POC-for-CVE-2023-41993",
-            "date_modified": "2023-10-19T00:23:41.000Z",
+            "date_modified": "2023-10-19T01:56:00.000Z",
             "date_published": "2023-10-15T12:14:18.000Z",
             "author": {
                 "name": "po6ix",
@@ -97,7 +108,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/68852354?u=19a4f8a59b3a32edafac26550dce38873da504d5&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>testing poc</div>",
             "url": "https://github.com/hrtowii/cve-2023-41993-test",
             "title": "hrtowii/cve-2023-41993-test: testing poc",
-            "date_modified": "2023-10-19T00:13:22.000Z",
+            "date_modified": "2023-10-19T01:44:50.000Z",
             "date_published": "2023-10-16T15:43:50.000Z",
             "author": {
                 "name": "hrtowii",
@@ -209,17 +220,6 @@
             "title": "cli-ish/CVE-2023-28330",
             "date_modified": "2023-10-18T07:58:16.000Z",
             "date_published": "2023-10-18T07:58:16.000Z",
-            "author": {
-                "name": "cli-ish",
-                "url": "https://github.com/cli-ish"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/22986332?u=40c2b502da84d82b4adeb67221788a917ece7c6a&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
-            "url": "https://github.com/cli-ish/CVE-2023-28329",
-            "title": "cli-ish/CVE-2023-28329",
-            "date_modified": "2023-10-18T07:58:05.000Z",
-            "date_published": "2023-10-18T07:58:04.000Z",
             "author": {
                 "name": "cli-ish",
                 "url": "https://github.com/cli-ish"
