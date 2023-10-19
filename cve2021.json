@@ -141,7 +141,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/57404930?u=15c8c306eb2a82d233cacd9ae77893665db1de24&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>一款针对Vcenter的综合利用工具，包含目前最主流的CVE-2021-21972、CVE-2021-21985以及CVE-2021-22005、One Access的CVE-2022-22954、CVE-2022-22972/31656以及log4j，提供一键上传webshell，命令执行或者上传公钥使用SSH免密连接</div>",
             "url": "https://github.com/Schira4396/VcenterKiller",
             "title": "Schira4396/VcenterKiller: 一款针对Vcenter的综合利用工具，包含目前最主流的CVE-2021-21972、CVE-2021-21985以及CVE-2021-22005、One Access的CVE-2022-22954、CVE-2022-22972/31656以及log4j，提供一键上传webshell，命令执行或者上传公钥使用SSH免密连接",
-            "date_modified": "2023-10-17T07:16:46.000Z",
+            "date_modified": "2023-10-19T08:31:00.000Z",
             "date_published": "2022-10-04T03:39:27.000Z",
             "author": {
                 "name": "Schira4396",
@@ -215,14 +215,14 @@
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/80827394?u=da8f28ee982491242be9866be822828d84abcca2&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2021-3129 Exploit Checker By ./MrMad</div>",
-            "url": "https://github.com/MadExploits/Laravel-debug-Checker",
-            "title": "MadExploits/Laravel-debug-Checker: CVE-2021-3129 Exploit Checker By ./MrMad",
-            "date_modified": "2023-09-25T09:52:30.000Z",
-            "date_published": "2022-12-10T03:32:34.000Z",
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/3830775?u=ae6685722687541cd30b0f7f3357fe3eccb58af0&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Check and report for cve_2021_44228 (log4shell) on your system.</div>",
+            "url": "https://github.com/robertdebock/ansible-role-cve_2021_44228",
+            "title": "robertdebock/ansible-role-cve_2021_44228: Check and report for cve_2021_44228 (log4shell) on your system.",
+            "date_modified": "2023-06-13T06:13:27.000Z",
+            "date_published": "2021-12-15T14:53:17.000Z",
             "author": {
-                "name": "MadExploits",
-                "url": "https://github.com/MadExploits"
+                "name": "robertdebock",
+                "url": "https://github.com/robertdebock"
             }
         }
     ]
