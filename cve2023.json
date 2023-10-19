@@ -6,6 +6,28 @@
     "description": "CVE-2023 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/7810067?u=5554e7ff59246da316f14e389cf63bc036db0372&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Adtran SR400ac ping Command Injection Remote Code Execution Vulnerability</div>",
+            "url": "https://github.com/warber0x/CVE-2023-38120",
+            "title": "warber0x/CVE-2023-38120: Adtran SR400ac ping Command Injection Remote Code Execution Vulnerability",
+            "date_modified": "2023-10-19T04:02:31.000Z",
+            "date_published": "2023-10-19T04:00:47.000Z",
+            "author": {
+                "name": "warber0x",
+                "url": "https://github.com/warber0x"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/47062591?u=dbb19898eb60b03aadb9539550363d09401bcee8&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2023-41993</div>",
+            "url": "https://github.com/0x06060606/CVE-2023-41993",
+            "title": "0x06060606/CVE-2023-41993: CVE-2023-41993",
+            "date_modified": "2023-10-19T03:09:28.000Z",
+            "date_published": "2023-10-16T20:34:02.000Z",
+            "author": {
+                "name": "0x06060606",
+                "url": "https://github.com/0x06060606"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/18195825?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023</div>",
             "url": "https://github.com/CVEProject/cvelist",
             "title": "CVEProject/cvelist: Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023",
@@ -69,17 +91,6 @@
             "author": {
                 "name": "hktalent",
                 "url": "https://github.com/hktalent"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/47062591?u=dbb19898eb60b03aadb9539550363d09401bcee8&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2023-41993</div>",
-            "url": "https://github.com/0x06060606/CVE-2023-41993",
-            "title": "0x06060606/CVE-2023-41993: CVE-2023-41993",
-            "date_modified": "2023-10-17T17:22:17.000Z",
-            "date_published": "2023-10-16T20:34:02.000Z",
-            "author": {
-                "name": "0x06060606",
-                "url": "https://github.com/0x06060606"
             }
         },
         {
@@ -163,7 +174,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/56123966?u=55d526b31897558c9000bb30537ba8eddc630cce&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Ruijie-RG-EW1200G CVE-2023-4169_CVE-2023-3306_CVE-2023-4415</div>",
             "url": "https://github.com/thedarknessdied/CVE-2023-4169_CVE-2023-3306_CVE-2023-4415",
             "title": "thedarknessdied/CVE-2023-4169_CVE-2023-3306_CVE-2023-4415: Ruijie-RG-EW1200G CVE-2023-4169_CVE-2023-3306_CVE-2023-4415",
-            "date_modified": "2023-10-19T02:39:07.000Z",
+            "date_modified": "2023-10-19T03:07:35.000Z",
             "date_published": "2023-10-16T05:08:06.000Z",
             "author": {
                 "name": "thedarknessdied",
@@ -209,17 +220,6 @@
             "title": "cli-ish/CVE-2023-5539",
             "date_modified": "2023-10-18T07:58:25.000Z",
             "date_published": "2023-10-18T07:58:25.000Z",
-            "author": {
-                "name": "cli-ish",
-                "url": "https://github.com/cli-ish"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/22986332?u=40c2b502da84d82b4adeb67221788a917ece7c6a&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
-            "url": "https://github.com/cli-ish/CVE-2023-28330",
-            "title": "cli-ish/CVE-2023-28330",
-            "date_modified": "2023-10-18T07:58:16.000Z",
-            "date_published": "2023-10-18T07:58:16.000Z",
             "author": {
                 "name": "cli-ish",
                 "url": "https://github.com/cli-ish"
