@@ -6,14 +6,14 @@
     "description": "CVE-2023 FEED on GitHub",
     "items": [
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/18223385?u=5ba29c1a9447ae88a6a0433f44038f47471e11c1&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>TOP All bugbounty pentesting CVE-2023- POC Exp  RCE example payload  Things</div>",
-            "url": "https://github.com/hktalent/TOP",
-            "title": "hktalent/TOP: TOP All bugbounty pentesting CVE-2023- POC Exp  RCE example payload  Things",
-            "date_modified": "2023-10-18T14:26:01.000Z",
-            "date_published": "2022-03-19T01:54:15.000Z",
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/135759201?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
+            "url": "https://github.com/codeb0ss/CVE-2023-44227-PoC",
+            "title": "codeb0ss/CVE-2023-44227-PoC",
+            "date_modified": "2023-10-19T01:37:25.000Z",
+            "date_published": "2023-10-19T01:33:08.000Z",
             "author": {
-                "name": "hktalent",
-                "url": "https://github.com/hktalent"
+                "name": "codeb0ss",
+                "url": "https://github.com/codeb0ss"
             }
         },
         {
@@ -25,6 +25,28 @@
             "author": {
                 "name": "CVEProject",
                 "url": "https://github.com/CVEProject"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/135759201?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
+            "url": "https://github.com/codeb0ss/CVE-2023-5601-PoC",
+            "title": "codeb0ss/CVE-2023-5601-PoC",
+            "date_modified": "2023-10-19T01:11:28.000Z",
+            "date_published": "2023-10-19T00:47:06.000Z",
+            "author": {
+                "name": "codeb0ss",
+                "url": "https://github.com/codeb0ss"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/18223385?u=5ba29c1a9447ae88a6a0433f44038f47471e11c1&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>TOP All bugbounty pentesting CVE-2023- POC Exp  RCE example payload  Things</div>",
+            "url": "https://github.com/hktalent/TOP",
+            "title": "hktalent/TOP: TOP All bugbounty pentesting CVE-2023- POC Exp  RCE example payload  Things",
+            "date_modified": "2023-10-18T14:26:01.000Z",
+            "date_published": "2022-03-19T01:54:15.000Z",
+            "author": {
+                "name": "hktalent",
+                "url": "https://github.com/hktalent"
             }
         },
         {
@@ -201,28 +223,6 @@
             "author": {
                 "name": "cli-ish",
                 "url": "https://github.com/cli-ish"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/80873500?u=4c3da53f1a4d2eefea25b7399a2d7b2f21c8515d&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2023-42819</div>",
-            "url": "https://github.com/C1ph3rX13/CVE-2023-42819",
-            "title": "C1ph3rX13/CVE-2023-42819: CVE-2023-42819",
-            "date_modified": "2023-10-17T01:16:45.000Z",
-            "date_published": "2023-10-12T08:45:46.000Z",
-            "author": {
-                "name": "C1ph3rX13",
-                "url": "https://github.com/C1ph3rX13"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/66072013?u=fdc83dd47a7a366cb11b9e32f9081f876c52ada5&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Exploit tool for CVE-2023-4911, targeting the 'Looney Tunables' glibc vulnerability in various Linux distributions.</div>",
-            "url": "https://github.com/chaudharyarjun/LooneyPwner",
-            "title": "chaudharyarjun/LooneyPwner: Exploit tool for CVE-2023-4911, targeting the 'Looney Tunables' glibc vulnerability in various Linux distributions.",
-            "date_modified": "2023-10-17T08:02:33.000Z",
-            "date_published": "2023-10-17T07:44:16.000Z",
-            "author": {
-                "name": "chaudharyarjun",
-                "url": "https://github.com/chaudharyarjun"
             }
         }
     ]
