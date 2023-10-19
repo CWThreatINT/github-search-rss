@@ -127,17 +127,6 @@
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/122000611?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>This example is inspired by <a href=\"https://www.mitchellzakocs.com/blog/dbutil#exploitation-and-proof-of-concept\" rel=\"nofollow\">https://www.mitchellzakocs.com/blog/dbutil#exploitation-and-proof-of-concept</a> and used in my windows rootkit. an exploit that lets me free use of reading/write from/to any virtual/physical memory address in any size i want.</div>",
-            "url": "https://github.com/shaygitub/CVE-2021-21551",
-            "title": "shaygitub/CVE-2021-21551: This example is inspired by https://www.mitchellzakocs.com/blog/dbutil#exploitation-and-proof-of-concept and used in my windows rootkit. an exploit that lets me free use of reading/write from/to any virtual/physical memory address in any size i want.",
-            "date_modified": "2023-10-11T17:22:12.000Z",
-            "date_published": "2023-10-11T17:22:12.000Z",
-            "author": {
-                "name": "shaygitub",
-                "url": "https://github.com/shaygitub"
-            }
-        },
-        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/128500598?u=e152954138d2b82c1959d8c89e7d8e38bf143ae4&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2021-3560 Bypass su - root</div>",
             "url": "https://github.com/TieuLong21Prosper/CVE-2021-3560",
             "title": "TieuLong21Prosper/CVE-2021-3560: CVE-2021-3560 Bypass su - root",
@@ -223,6 +212,17 @@
             "author": {
                 "name": "navreet1425",
                 "url": "https://github.com/navreet1425"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/54280101?u=6c5859e9d05b81602ef9df73e2b18089080f90a2&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
+            "url": "https://github.com/jytmX/CVE-2021-24499",
+            "title": "jytmX/CVE-2021-24499",
+            "date_modified": "2023-09-29T04:54:46.000Z",
+            "date_published": "2023-09-29T04:53:56.000Z",
+            "author": {
+                "name": "jytmX",
+                "url": "https://github.com/jytmX"
             }
         }
     ]
