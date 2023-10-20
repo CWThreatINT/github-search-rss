@@ -28,6 +28,39 @@
             }
         },
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/28532286?u=31b13b135027b4829ad2b7f6135cdf1745be118f&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A Proof of Concept of Spring AMQP Deserialization Vulnerability (CVE-2023-34050)</div>",
+            "url": "https://github.com/X1r0z/spring-amqp-deserialization",
+            "title": "X1r0z/spring-amqp-deserialization: A Proof of Concept of Spring AMQP Deserialization Vulnerability (CVE-2023-34050)",
+            "date_modified": "2023-10-20T05:46:15.000Z",
+            "date_published": "2023-10-20T05:46:15.000Z",
+            "author": {
+                "name": "X1r0z",
+                "url": "https://github.com/X1r0z"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/73511417?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
+            "url": "https://github.com/deIndra/CVE-2023-36076",
+            "title": "deIndra/CVE-2023-36076",
+            "date_modified": "2023-10-17T08:09:39.000Z",
+            "date_published": "2023-10-17T07:37:24.000Z",
+            "author": {
+                "name": "deIndra",
+                "url": "https://github.com/deIndra"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/73511417?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
+            "url": "https://github.com/deIndra/CVE-2023-1698",
+            "title": "deIndra/CVE-2023-1698",
+            "date_modified": "2023-10-20T05:44:30.000Z",
+            "date_published": "2023-10-20T05:40:32.000Z",
+            "author": {
+                "name": "deIndra",
+                "url": "https://github.com/deIndra"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/29740744?u=96f0fcffdaaec1a176378ede50c9067623b0f04e&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>PoC for CVE-2023-36802 Microsoft Kernel Streaming Service Proxy</div>",
             "url": "https://github.com/x0rb3l/CVE-2023-36802-MSKSSRV-LPE",
             "title": "x0rb3l/CVE-2023-36802-MSKSSRV-LPE: PoC for CVE-2023-36802 Microsoft Kernel Streaming Service Proxy",
@@ -190,39 +223,6 @@
             "author": {
                 "name": "wushigudan",
                 "url": "https://github.com/wushigudan"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/135759201?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
-            "url": "https://github.com/codeb0ss/CVE-2023-44227-PoC",
-            "title": "codeb0ss/CVE-2023-44227-PoC",
-            "date_modified": "2023-10-19T01:37:25.000Z",
-            "date_published": "2023-10-19T01:33:08.000Z",
-            "author": {
-                "name": "codeb0ss",
-                "url": "https://github.com/codeb0ss"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/135759201?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
-            "url": "https://github.com/codeb0ss/CVE-2023-5601-PoC",
-            "title": "codeb0ss/CVE-2023-5601-PoC",
-            "date_modified": "2023-10-19T01:11:28.000Z",
-            "date_published": "2023-10-19T00:47:06.000Z",
-            "author": {
-                "name": "codeb0ss",
-                "url": "https://github.com/codeb0ss"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/71512502?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Blind SSRF in umputun/remark42 &lt;= 1.12.1</div>",
-            "url": "https://github.com/jet-pentest/CVE-2023-45966",
-            "title": "jet-pentest/CVE-2023-45966: Blind SSRF in umputun/remark42 <= 1.12.1",
-            "date_modified": "2023-10-18T18:18:25.000Z",
-            "date_published": "2023-10-18T18:18:25.000Z",
-            "author": {
-                "name": "jet-pentest",
-                "url": "https://github.com/jet-pentest"
             }
         }
     ]
