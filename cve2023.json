@@ -6,17 +6,6 @@
     "description": "CVE-2023 FEED on GitHub",
     "items": [
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/51722811?u=a195458fc64bade6e8616d1d5c43883f0abde0c0&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Nexter &lt;= 2.0.3 - Authenticated (Subscriber+) SQL Injection via 'to' and 'from'</div>",
-            "url": "https://github.com/RandomRobbieBF/CVE-2023-45657",
-            "title": "RandomRobbieBF/CVE-2023-45657: Nexter <= 2.0.3 - Authenticated (Subscriber+) SQL Injection via 'to' and 'from'",
-            "date_modified": "2023-10-20T12:01:59.000Z",
-            "date_published": "2023-10-20T12:01:15.000Z",
-            "author": {
-                "name": "RandomRobbieBF",
-                "url": "https://github.com/RandomRobbieBF"
-            }
-        },
-        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/18195825?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023</div>",
             "url": "https://github.com/CVEProject/cvelist",
             "title": "CVEProject/cvelist: Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023",
@@ -25,6 +14,28 @@
             "author": {
                 "name": "CVEProject",
                 "url": "https://github.com/CVEProject"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/56123966?u=55d526b31897558c9000bb30537ba8eddc630cce&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>WAGO系统远程代码执行漏洞(CVE-2023-1698)</div>",
+            "url": "https://github.com/thedarknessdied/WAGO-CVE-2023-1698",
+            "title": "thedarknessdied/WAGO-CVE-2023-1698: WAGO系统远程代码执行漏洞(CVE-2023-1698)",
+            "date_modified": "2023-10-20T12:32:19.000Z",
+            "date_published": "2023-10-20T12:15:39.000Z",
+            "author": {
+                "name": "thedarknessdied",
+                "url": "https://github.com/thedarknessdied"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/51722811?u=a195458fc64bade6e8616d1d5c43883f0abde0c0&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Nexter &lt;= 2.0.3 - Authenticated (Subscriber+) SQL Injection via 'to' and 'from'</div>",
+            "url": "https://github.com/RandomRobbieBF/CVE-2023-45657",
+            "title": "RandomRobbieBF/CVE-2023-45657: Nexter <= 2.0.3 - Authenticated (Subscriber+) SQL Injection via 'to' and 'from'",
+            "date_modified": "2023-10-20T12:01:59.000Z",
+            "date_published": "2023-10-20T12:01:15.000Z",
+            "author": {
+                "name": "RandomRobbieBF",
+                "url": "https://github.com/RandomRobbieBF"
             }
         },
         {
@@ -212,17 +223,6 @@
             "author": {
                 "name": "4zur-0312",
                 "url": "https://github.com/4zur-0312"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/48417145?u=0ef99f1e7d8307c9d1b2fd8302bc28a68868da76&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Exploit for CVE-2023-29360 targeting MSKSSRV.SYS driver</div>",
-            "url": "https://github.com/exotikcheat/cve-2023-29360",
-            "title": "exotikcheat/cve-2023-29360: Exploit for CVE-2023-29360 targeting MSKSSRV.SYS driver",
-            "date_modified": "2023-10-19T23:50:55.000Z",
-            "date_published": "2023-10-19T19:56:57.000Z",
-            "author": {
-                "name": "exotikcheat",
-                "url": "https://github.com/exotikcheat"
             }
         }
     ]
