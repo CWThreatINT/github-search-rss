@@ -6,6 +6,17 @@
     "description": "CVE-2023 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/28754633?u=b7315209fdb7bbcc242666e76759205ff25252f4&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>1vere$k POC on the CVE-2023-20198</div>",
+            "url": "https://github.com/iveresk/cve-2023-20198",
+            "title": "iveresk/cve-2023-20198: 1vere$k POC on the CVE-2023-20198",
+            "date_modified": "2023-10-20T16:01:17.000Z",
+            "date_published": "2023-10-20T16:01:17.000Z",
+            "author": {
+                "name": "iveresk",
+                "url": "https://github.com/iveresk"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/18195825?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023</div>",
             "url": "https://github.com/CVEProject/cvelist",
             "title": "CVEProject/cvelist: Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023",
@@ -14,6 +25,39 @@
             "author": {
                 "name": "CVEProject",
                 "url": "https://github.com/CVEProject"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/47062591?u=dbb19898eb60b03aadb9539550363d09401bcee8&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2023-41993</div>",
+            "url": "https://github.com/0x06060606/CVE-2023-41993",
+            "title": "0x06060606/CVE-2023-41993: CVE-2023-41993",
+            "date_modified": "2023-10-20T03:53:37.000Z",
+            "date_published": "2023-10-16T20:34:02.000Z",
+            "author": {
+                "name": "0x06060606",
+                "url": "https://github.com/0x06060606"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/64419387?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>RCE Exploit for CVE-2023-38646</div>",
+            "url": "https://github.com/AnvithLobo/CVE-2023-38646",
+            "title": "AnvithLobo/CVE-2023-38646: RCE Exploit for CVE-2023-38646",
+            "date_modified": "2023-10-20T15:21:15.000Z",
+            "date_published": "2023-10-20T15:21:08.000Z",
+            "author": {
+                "name": "AnvithLobo",
+                "url": "https://github.com/AnvithLobo"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/79593994?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>VMware Aria Operations for Logs CVE-2023-34051</div>",
+            "url": "https://github.com/horizon3ai/CVE-2023-34051",
+            "title": "horizon3ai/CVE-2023-34051: VMware Aria Operations for Logs CVE-2023-34051",
+            "date_modified": "2023-10-20T15:40:28.000Z",
+            "date_published": "2023-10-20T14:59:45.000Z",
+            "author": {
+                "name": "horizon3ai",
+                "url": "https://github.com/horizon3ai"
             }
         },
         {
@@ -64,7 +108,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/29740744?u=96f0fcffdaaec1a176378ede50c9067623b0f04e&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>PoC for CVE-2023-36802 Microsoft Kernel Streaming Service Proxy</div>",
             "url": "https://github.com/x0rb3l/CVE-2023-36802-MSKSSRV-LPE",
             "title": "x0rb3l/CVE-2023-36802-MSKSSRV-LPE: PoC for CVE-2023-36802 Microsoft Kernel Streaming Service Proxy",
-            "date_modified": "2023-10-20T15:03:25.000Z",
+            "date_modified": "2023-10-20T15:10:59.000Z",
             "date_published": "2023-10-20T02:05:27.000Z",
             "author": {
                 "name": "x0rb3l",
@@ -171,17 +215,6 @@
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/47062591?u=dbb19898eb60b03aadb9539550363d09401bcee8&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2023-41993</div>",
-            "url": "https://github.com/0x06060606/CVE-2023-41993",
-            "title": "0x06060606/CVE-2023-41993: CVE-2023-41993",
-            "date_modified": "2023-10-20T03:53:37.000Z",
-            "date_published": "2023-10-16T20:34:02.000Z",
-            "author": {
-                "name": "0x06060606",
-                "url": "https://github.com/0x06060606"
-            }
-        },
-        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/73511417?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
             "url": "https://github.com/deIndra/CVE-2023-36076",
             "title": "deIndra/CVE-2023-36076",
@@ -190,39 +223,6 @@
             "author": {
                 "name": "deIndra",
                 "url": "https://github.com/deIndra"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/73511417?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
-            "url": "https://github.com/deIndra/CVE-2023-1698",
-            "title": "deIndra/CVE-2023-1698",
-            "date_modified": "2023-10-20T05:44:30.000Z",
-            "date_published": "2023-10-20T05:40:32.000Z",
-            "author": {
-                "name": "deIndra",
-                "url": "https://github.com/deIndra"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/45155253?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
-            "url": "https://github.com/leekenghwa/CVE-2023-34537---XSS-reflected--found-in-HotelDruid-3.0.5",
-            "title": "leekenghwa/CVE-2023-34537---XSS-reflected--found-in-HotelDruid-3.0.5",
-            "date_modified": "2023-06-13T09:10:36.000Z",
-            "date_published": "2023-06-13T09:10:35.000Z",
-            "author": {
-                "name": "leekenghwa",
-                "url": "https://github.com/leekenghwa"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/45155253?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
-            "url": "https://github.com/leekenghwa/CVE-2023-46003",
-            "title": "leekenghwa/CVE-2023-46003",
-            "date_modified": "2023-10-19T08:17:54.000Z",
-            "date_published": "2023-10-19T08:17:53.000Z",
-            "author": {
-                "name": "leekenghwa",
-                "url": "https://github.com/leekenghwa"
             }
         }
     ]
