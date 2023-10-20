@@ -6,6 +6,17 @@
     "description": "CVE-2023 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/21020827?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>testing cve-2023-41993-test</div>",
+            "url": "https://github.com/Mangaia/cve-test",
+            "title": "Mangaia/cve-test: testing cve-2023-41993-test",
+            "date_modified": "2023-10-20T22:04:41.000Z",
+            "date_published": "2023-10-20T22:04:40.000Z",
+            "author": {
+                "name": "Mangaia",
+                "url": "https://github.com/Mangaia"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/18195825?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023</div>",
             "url": "https://github.com/CVEProject/cvelist",
             "title": "CVEProject/cvelist: Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023",
@@ -64,7 +75,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/79593994?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>VMware Aria Operations for Logs CVE-2023-34051</div>",
             "url": "https://github.com/horizon3ai/CVE-2023-34051",
             "title": "horizon3ai/CVE-2023-34051: VMware Aria Operations for Logs CVE-2023-34051",
-            "date_modified": "2023-10-20T15:40:28.000Z",
+            "date_modified": "2023-10-20T21:57:05.000Z",
             "date_published": "2023-10-20T14:59:45.000Z",
             "author": {
                 "name": "horizon3ai",
@@ -119,7 +130,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/29740744?u=96f0fcffdaaec1a176378ede50c9067623b0f04e&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>PoC for CVE-2023-36802 Microsoft Kernel Streaming Service Proxy</div>",
             "url": "https://github.com/x0rb3l/CVE-2023-36802-MSKSSRV-LPE",
             "title": "x0rb3l/CVE-2023-36802-MSKSSRV-LPE: PoC for CVE-2023-36802 Microsoft Kernel Streaming Service Proxy",
-            "date_modified": "2023-10-20T18:11:34.000Z",
+            "date_modified": "2023-10-20T21:55:46.000Z",
             "date_published": "2023-10-20T02:05:27.000Z",
             "author": {
                 "name": "x0rb3l",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "FzBacon",
                 "url": "https://github.com/FzBacon"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/28532286?u=31b13b135027b4829ad2b7f6135cdf1745be118f&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A Proof of Concept of Spring AMQP Deserialization Vulnerability (CVE-2023-34050)</div>",
-            "url": "https://github.com/X1r0z/spring-amqp-deserialization",
-            "title": "X1r0z/spring-amqp-deserialization: A Proof of Concept of Spring AMQP Deserialization Vulnerability (CVE-2023-34050)",
-            "date_modified": "2023-10-20T09:20:02.000Z",
-            "date_published": "2023-10-20T05:46:15.000Z",
-            "author": {
-                "name": "X1r0z",
-                "url": "https://github.com/X1r0z"
             }
         }
     ]
