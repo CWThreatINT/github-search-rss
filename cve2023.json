@@ -6,17 +6,6 @@
     "description": "CVE-2023 FEED on GitHub",
     "items": [
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/28754633?u=b7315209fdb7bbcc242666e76759205ff25252f4&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>1vere$k POC on the CVE-2023-20198</div>",
-            "url": "https://github.com/iveresk/cve-2023-20198",
-            "title": "iveresk/cve-2023-20198: 1vere$k POC on the CVE-2023-20198",
-            "date_modified": "2023-10-20T16:01:17.000Z",
-            "date_published": "2023-10-20T16:01:17.000Z",
-            "author": {
-                "name": "iveresk",
-                "url": "https://github.com/iveresk"
-            }
-        },
-        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/18195825?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023</div>",
             "url": "https://github.com/CVEProject/cvelist",
             "title": "CVEProject/cvelist: Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023",
@@ -25,6 +14,17 @@
             "author": {
                 "name": "CVEProject",
                 "url": "https://github.com/CVEProject"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/28754633?u=b7315209fdb7bbcc242666e76759205ff25252f4&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>1vere$k POC on the CVE-2023-20198</div>",
+            "url": "https://github.com/iveresk/cve-2023-20198",
+            "title": "iveresk/cve-2023-20198: 1vere$k POC on the CVE-2023-20198",
+            "date_modified": "2023-10-20T16:25:01.000Z",
+            "date_published": "2023-10-20T16:01:17.000Z",
+            "author": {
+                "name": "iveresk",
+                "url": "https://github.com/iveresk"
             }
         },
         {
@@ -108,7 +108,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/29740744?u=96f0fcffdaaec1a176378ede50c9067623b0f04e&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>PoC for CVE-2023-36802 Microsoft Kernel Streaming Service Proxy</div>",
             "url": "https://github.com/x0rb3l/CVE-2023-36802-MSKSSRV-LPE",
             "title": "x0rb3l/CVE-2023-36802-MSKSSRV-LPE: PoC for CVE-2023-36802 Microsoft Kernel Streaming Service Proxy",
-            "date_modified": "2023-10-20T15:10:59.000Z",
+            "date_modified": "2023-10-20T16:30:25.000Z",
             "date_published": "2023-10-20T02:05:27.000Z",
             "author": {
                 "name": "x0rb3l",
