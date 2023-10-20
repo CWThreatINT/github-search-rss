@@ -28,6 +28,17 @@
             }
         },
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/133530110?u=e74fe63813b07bad361c08bcc952386594170477&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>To find HTML injection and XSS </div>",
+            "url": "https://github.com/ashangp923/CVE-2023-3971",
+            "title": "ashangp923/CVE-2023-3971: To find HTML injection and XSS ",
+            "date_modified": "2023-10-20T18:26:57.000Z",
+            "date_published": "2023-10-20T18:11:22.000Z",
+            "author": {
+                "name": "ashangp923",
+                "url": "https://github.com/ashangp923"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/47062591?u=dbb19898eb60b03aadb9539550363d09401bcee8&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2023-41993</div>",
             "url": "https://github.com/0x06060606/CVE-2023-41993",
             "title": "0x06060606/CVE-2023-41993: CVE-2023-41993",
@@ -108,7 +119,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/29740744?u=96f0fcffdaaec1a176378ede50c9067623b0f04e&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>PoC for CVE-2023-36802 Microsoft Kernel Streaming Service Proxy</div>",
             "url": "https://github.com/x0rb3l/CVE-2023-36802-MSKSSRV-LPE",
             "title": "x0rb3l/CVE-2023-36802-MSKSSRV-LPE: PoC for CVE-2023-36802 Microsoft Kernel Streaming Service Proxy",
-            "date_modified": "2023-10-20T16:30:25.000Z",
+            "date_modified": "2023-10-20T18:11:34.000Z",
             "date_published": "2023-10-20T02:05:27.000Z",
             "author": {
                 "name": "x0rb3l",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "X1r0z",
                 "url": "https://github.com/X1r0z"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/73511417?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
-            "url": "https://github.com/deIndra/CVE-2023-36076",
-            "title": "deIndra/CVE-2023-36076",
-            "date_modified": "2023-10-17T08:09:39.000Z",
-            "date_published": "2023-10-17T07:37:24.000Z",
-            "author": {
-                "name": "deIndra",
-                "url": "https://github.com/deIndra"
             }
         }
     ]
