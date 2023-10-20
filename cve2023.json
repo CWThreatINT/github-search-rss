@@ -6,6 +6,17 @@
     "description": "CVE-2023 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/51722811?u=a195458fc64bade6e8616d1d5c43883f0abde0c0&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Nexter &lt;= 2.0.3 - Authenticated (Subscriber+) SQL Injection via 'to' and 'from'</div>",
+            "url": "https://github.com/RandomRobbieBF/CVE-2023-45657",
+            "title": "RandomRobbieBF/CVE-2023-45657: Nexter <= 2.0.3 - Authenticated (Subscriber+) SQL Injection via 'to' and 'from'",
+            "date_modified": "2023-10-20T12:01:59.000Z",
+            "date_published": "2023-10-20T12:01:15.000Z",
+            "author": {
+                "name": "RandomRobbieBF",
+                "url": "https://github.com/RandomRobbieBF"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/18195825?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023</div>",
             "url": "https://github.com/CVEProject/cvelist",
             "title": "CVEProject/cvelist: Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023",
@@ -14,6 +25,28 @@
             "author": {
                 "name": "CVEProject",
                 "url": "https://github.com/CVEProject"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/29740744?u=96f0fcffdaaec1a176378ede50c9067623b0f04e&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>PoC for CVE-2023-36802 Microsoft Kernel Streaming Service Proxy</div>",
+            "url": "https://github.com/x0rb3l/CVE-2023-36802-MSKSSRV-LPE",
+            "title": "x0rb3l/CVE-2023-36802-MSKSSRV-LPE: PoC for CVE-2023-36802 Microsoft Kernel Streaming Service Proxy",
+            "date_modified": "2023-10-20T02:06:54.000Z",
+            "date_published": "2023-10-20T02:05:27.000Z",
+            "author": {
+                "name": "x0rb3l",
+                "url": "https://github.com/x0rb3l"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/147946081?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2023-20198 straight RCE without implant</div>",
+            "url": "https://github.com/m474r5/CVE-2023-20198-RCE",
+            "title": "m474r5/CVE-2023-20198-RCE: CVE-2023-20198 straight RCE without implant",
+            "date_modified": "2023-10-20T11:30:45.000Z",
+            "date_published": "2023-10-20T11:30:44.000Z",
+            "author": {
+                "name": "m474r5",
+                "url": "https://github.com/m474r5"
             }
         },
         {
@@ -138,17 +171,6 @@
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/29740744?u=96f0fcffdaaec1a176378ede50c9067623b0f04e&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>PoC for CVE-2023-36802 Microsoft Kernel Streaming Service Proxy</div>",
-            "url": "https://github.com/x0rb3l/CVE-2023-36802-MSKSSRV-LPE",
-            "title": "x0rb3l/CVE-2023-36802-MSKSSRV-LPE: PoC for CVE-2023-36802 Microsoft Kernel Streaming Service Proxy",
-            "date_modified": "2023-10-20T02:06:54.000Z",
-            "date_published": "2023-10-20T02:05:27.000Z",
-            "author": {
-                "name": "x0rb3l",
-                "url": "https://github.com/x0rb3l"
-            }
-        },
-        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/45155253?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
             "url": "https://github.com/leekenghwa/CVE-2023-34537---XSS-reflected--found-in-HotelDruid-3.0.5",
             "title": "leekenghwa/CVE-2023-34537---XSS-reflected--found-in-HotelDruid-3.0.5",
@@ -201,28 +223,6 @@
             "author": {
                 "name": "exotikcheat",
                 "url": "https://github.com/exotikcheat"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/61380567?u=a916ff49edac38004a8fb2bd9e1079fc353a8bd3&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
-            "url": "https://github.com/po6ix/POC-for-CVE-2023-41993",
-            "title": "po6ix/POC-for-CVE-2023-41993",
-            "date_modified": "2023-10-20T09:24:48.000Z",
-            "date_published": "2023-10-15T12:14:18.000Z",
-            "author": {
-                "name": "po6ix",
-                "url": "https://github.com/po6ix"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/2310647?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
-            "url": "https://github.com/harry935/CVE-2023-45992",
-            "title": "harry935/CVE-2023-45992",
-            "date_modified": "2023-10-19T15:27:00.000Z",
-            "date_published": "2023-10-19T15:26:59.000Z",
-            "author": {
-                "name": "harry935",
-                "url": "https://github.com/harry935"
             }
         }
     ]
