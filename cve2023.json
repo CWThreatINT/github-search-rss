@@ -17,6 +17,28 @@
             }
         },
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/129133392?u=4df17cb68eea3e96ae8f0be0bfd12bf9ed7b5d59&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Joomla Unauthenticated Information Disclosure (CVE-2023-23752) exploit</div>",
+            "url": "https://github.com/AlissoftCodes/CVE-2023-23752",
+            "title": "AlissoftCodes/CVE-2023-23752: Joomla Unauthenticated Information Disclosure (CVE-2023-23752) exploit",
+            "date_modified": "2023-10-20T13:41:07.000Z",
+            "date_published": "2023-10-20T13:32:28.000Z",
+            "author": {
+                "name": "AlissoftCodes",
+                "url": "https://github.com/AlissoftCodes"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/66285128?u=4a7b490277748d47963c66d3df68036533afc817&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>SPIP before 4.2.1 allows Remote Code Execution via form values in the public area because serialization is mishandled. The fixed versions are 3.2.18, 4.0.10, 4.1.8, and 4.2.1.</div>",
+            "url": "https://github.com/nuts7/CVE-2023-27372",
+            "title": "nuts7/CVE-2023-27372: SPIP before 4.2.1 allows Remote Code Execution via form values in the public area because serialization is mishandled. The fixed versions are 3.2.18, 4.0.10, 4.1.8, and 4.2.1.",
+            "date_modified": "2023-09-22T11:53:57.000Z",
+            "date_published": "2023-06-19T14:36:47.000Z",
+            "author": {
+                "name": "nuts7",
+                "url": "https://github.com/nuts7"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/56123966?u=55d526b31897558c9000bb30537ba8eddc630cce&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>WAGO系统远程代码执行漏洞(CVE-2023-1698)</div>",
             "url": "https://github.com/thedarknessdied/WAGO-CVE-2023-1698",
             "title": "thedarknessdied/WAGO-CVE-2023-1698: WAGO系统远程代码执行漏洞(CVE-2023-1698)",
@@ -201,28 +223,6 @@
             "author": {
                 "name": "leekenghwa",
                 "url": "https://github.com/leekenghwa"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/18223385?u=5ba29c1a9447ae88a6a0433f44038f47471e11c1&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>TOP All bugbounty pentesting CVE-2023- POC Exp  RCE example payload  Things</div>",
-            "url": "https://github.com/hktalent/TOP",
-            "title": "hktalent/TOP: TOP All bugbounty pentesting CVE-2023- POC Exp  RCE example payload  Things",
-            "date_modified": "2023-10-20T10:29:28.000Z",
-            "date_published": "2022-03-19T01:54:15.000Z",
-            "author": {
-                "name": "hktalent",
-                "url": "https://github.com/hktalent"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/126742910?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2023-36802 ITW case</div>",
-            "url": "https://github.com/4zur-0312/CVE-2023-36802",
-            "title": "4zur-0312/CVE-2023-36802: CVE-2023-36802 ITW case",
-            "date_modified": "2023-10-19T23:35:55.000Z",
-            "date_published": "2023-10-19T23:34:37.000Z",
-            "author": {
-                "name": "4zur-0312",
-                "url": "https://github.com/4zur-0312"
             }
         }
     ]
