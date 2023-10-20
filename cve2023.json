@@ -17,6 +17,61 @@
             }
         },
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/80873500?u=4c3da53f1a4d2eefea25b7399a2d7b2f21c8515d&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2023-42819</div>",
+            "url": "https://github.com/C1ph3rX13/CVE-2023-42819",
+            "title": "C1ph3rX13/CVE-2023-42819: CVE-2023-42819",
+            "date_modified": "2023-10-17T01:16:45.000Z",
+            "date_published": "2023-10-12T08:45:46.000Z",
+            "author": {
+                "name": "C1ph3rX13",
+                "url": "https://github.com/C1ph3rX13"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/80873500?u=4c3da53f1a4d2eefea25b7399a2d7b2f21c8515d&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2023-42442</div>",
+            "url": "https://github.com/C1ph3rX13/CVE-2023-42442",
+            "title": "C1ph3rX13/CVE-2023-42442: CVE-2023-42442",
+            "date_modified": "2023-10-20T08:57:13.000Z",
+            "date_published": "2023-10-20T08:33:17.000Z",
+            "author": {
+                "name": "C1ph3rX13",
+                "url": "https://github.com/C1ph3rX13"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/100921463?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
+            "url": "https://github.com/yTxZx/CVE-2023-23752",
+            "title": "yTxZx/CVE-2023-23752",
+            "date_modified": "2023-10-20T08:19:57.000Z",
+            "date_published": "2023-10-20T08:17:48.000Z",
+            "author": {
+                "name": "yTxZx",
+                "url": "https://github.com/yTxZx"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/48853857?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Confluence后台rce</div>",
+            "url": "https://github.com/youcannotseemeagain/CVE-2023-22515_RCE",
+            "title": "youcannotseemeagain/CVE-2023-22515_RCE: Confluence后台rce",
+            "date_modified": "2023-10-20T08:26:30.000Z",
+            "date_published": "2023-10-20T08:23:47.000Z",
+            "author": {
+                "name": "youcannotseemeagain",
+                "url": "https://github.com/youcannotseemeagain"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/48304150?u=bbd31960a7db476492c52e48cd712765ba2a6100&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
+            "url": "https://github.com/FzBacon/CVE-2023-26976_tenda_AC6_stack_overflow",
+            "title": "FzBacon/CVE-2023-26976_tenda_AC6_stack_overflow",
+            "date_modified": "2023-04-18T05:24:22.000Z",
+            "date_published": "2023-04-11T11:02:48.000Z",
+            "author": {
+                "name": "FzBacon",
+                "url": "https://github.com/FzBacon"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/28532286?u=31b13b135027b4829ad2b7f6135cdf1745be118f&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A Proof of Concept of Spring AMQP Deserialization Vulnerability (CVE-2023-34050)</div>",
             "url": "https://github.com/X1r0z/spring-amqp-deserialization",
             "title": "X1r0z/spring-amqp-deserialization: A Proof of Concept of Spring AMQP Deserialization Vulnerability (CVE-2023-34050)",
@@ -161,68 +216,13 @@
         },
         {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/5493049?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
-            "url": "https://github.com/cert-orangecyberdefense/Cisco_CVE-2023-20198",
-            "title": "cert-orangecyberdefense/Cisco_CVE-2023-20198",
-            "date_modified": "2023-10-20T06:44:22.000Z",
+            "url": "https://github.com/cert-orangecyberdefense/Cisco_CVE-2023-20198_temp",
+            "title": "cert-orangecyberdefense/Cisco_CVE-2023-20198_temp",
+            "date_modified": "2023-10-20T08:57:42.000Z",
             "date_published": "2023-10-18T08:39:57.000Z",
             "author": {
                 "name": "cert-orangecyberdefense",
                 "url": "https://github.com/cert-orangecyberdefense"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/106973537?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
-            "url": "https://github.com/nidhi7598/Frameworks_native_AOSP_10_r33_CVE-2023-21118",
-            "title": "nidhi7598/Frameworks_native_AOSP_10_r33_CVE-2023-21118",
-            "date_modified": "2023-10-19T10:29:21.000Z",
-            "date_published": "2023-10-19T10:27:42.000Z",
-            "author": {
-                "name": "nidhi7598",
-                "url": "https://github.com/nidhi7598"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/106973537?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
-            "url": "https://github.com/nidhi7598/frameworks_base_AOSP_10_r33_CVE-2023-21109",
-            "title": "nidhi7598/frameworks_base_AOSP_10_r33_CVE-2023-21109",
-            "date_modified": "2023-10-19T07:00:41.000Z",
-            "date_published": "2023-10-19T06:53:50.000Z",
-            "author": {
-                "name": "nidhi7598",
-                "url": "https://github.com/nidhi7598"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/43088607?u=1f6f62e23f0e2868559b8fc902e0916c91d0749a&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Ansible Playbook for CVE-2023-20198</div>",
-            "url": "https://github.com/ditekshen/ansible-cve-2023-20198",
-            "title": "ditekshen/ansible-cve-2023-20198: Ansible Playbook for CVE-2023-20198",
-            "date_modified": "2023-10-19T05:47:54.000Z",
-            "date_published": "2023-10-18T16:49:51.000Z",
-            "author": {
-                "name": "ditekshen",
-                "url": "https://github.com/ditekshen"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/7810067?u=5554e7ff59246da316f14e389cf63bc036db0372&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Adtran SR400ac ping Command Injection Remote Code Execution Vulnerability</div>",
-            "url": "https://github.com/warber0x/CVE-2023-38120",
-            "title": "warber0x/CVE-2023-38120: Adtran SR400ac ping Command Injection Remote Code Execution Vulnerability",
-            "date_modified": "2023-10-19T04:02:31.000Z",
-            "date_published": "2023-10-19T04:00:47.000Z",
-            "author": {
-                "name": "warber0x",
-                "url": "https://github.com/warber0x"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/33852122?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
-            "url": "https://github.com/wushigudan/CVE-2023-33517",
-            "title": "wushigudan/CVE-2023-33517",
-            "date_modified": "2023-10-19T02:08:39.000Z",
-            "date_published": "2023-10-19T02:08:39.000Z",
-            "author": {
-                "name": "wushigudan",
-                "url": "https://github.com/wushigudan"
             }
         }
     ]
