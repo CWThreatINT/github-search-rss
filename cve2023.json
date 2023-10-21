@@ -6,6 +6,17 @@
     "description": "CVE-2023 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/18223385?u=5ba29c1a9447ae88a6a0433f44038f47471e11c1&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>TOP All bugbounty pentesting CVE-2023- POC Exp  RCE example payload  Things</div>",
+            "url": "https://github.com/hktalent/TOP",
+            "title": "hktalent/TOP: TOP All bugbounty pentesting CVE-2023- POC Exp  RCE example payload  Things",
+            "date_modified": "2023-10-20T10:29:28.000Z",
+            "date_published": "2022-03-19T01:54:15.000Z",
+            "author": {
+                "name": "hktalent",
+                "url": "https://github.com/hktalent"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/18195825?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023</div>",
             "url": "https://github.com/CVEProject/cvelist",
             "title": "CVEProject/cvelist: Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023",
@@ -14,6 +25,17 @@
             "author": {
                 "name": "CVEProject",
                 "url": "https://github.com/CVEProject"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/25540162?u=ee1be6e710364993823be29024e953c7d13e6d00&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CISCO CVE POC SCRIPT</div>",
+            "url": "https://github.com/sohaibeb/CVE-2023-20198",
+            "title": "sohaibeb/CVE-2023-20198: CISCO CVE POC SCRIPT",
+            "date_modified": "2023-10-20T23:35:30.000Z",
+            "date_published": "2023-10-20T23:34:12.000Z",
+            "author": {
+                "name": "sohaibeb",
+                "url": "https://github.com/sohaibeb"
             }
         },
         {
@@ -201,28 +223,6 @@
             "author": {
                 "name": "yTxZx",
                 "url": "https://github.com/yTxZx"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/48853857?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Confluence后台rce</div>",
-            "url": "https://github.com/youcannotseemeagain/CVE-2023-22515_RCE",
-            "title": "youcannotseemeagain/CVE-2023-22515_RCE: Confluence后台rce",
-            "date_modified": "2023-10-20T08:26:30.000Z",
-            "date_published": "2023-10-20T08:23:47.000Z",
-            "author": {
-                "name": "youcannotseemeagain",
-                "url": "https://github.com/youcannotseemeagain"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/48304150?u=bbd31960a7db476492c52e48cd712765ba2a6100&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
-            "url": "https://github.com/FzBacon/CVE-2023-26976_tenda_AC6_stack_overflow",
-            "title": "FzBacon/CVE-2023-26976_tenda_AC6_stack_overflow",
-            "date_modified": "2023-04-18T05:24:22.000Z",
-            "date_published": "2023-04-11T11:02:48.000Z",
-            "author": {
-                "name": "FzBacon",
-                "url": "https://github.com/FzBacon"
             }
         }
     ]
