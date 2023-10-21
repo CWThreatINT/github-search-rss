@@ -6,14 +6,14 @@
     "description": "CVE-2023 FEED on GitHub",
     "items": [
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/20487674?u=77863de2669001cfceb84198139cff81e20b5975&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
-            "url": "https://github.com/truonghuuphuc/CVE-2023-42120-Poc",
-            "title": "truonghuuphuc/CVE-2023-42120-Poc",
-            "date_modified": "2023-10-21T15:06:52.000Z",
-            "date_published": "2023-10-21T15:06:51.000Z",
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/67603819?u=f3f04db0c31fc64c5e1222e54b6aa7007dff8345&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
+            "url": "https://github.com/Nielk74/CVE-2023-38831",
+            "title": "Nielk74/CVE-2023-38831",
+            "date_modified": "2023-10-21T17:03:49.000Z",
+            "date_published": "2023-10-21T17:03:48.000Z",
             "author": {
-                "name": "truonghuuphuc",
-                "url": "https://github.com/truonghuuphuc"
+                "name": "Nielk74",
+                "url": "https://github.com/Nielk74"
             }
         },
         {
@@ -25,6 +25,17 @@
             "author": {
                 "name": "CVEProject",
                 "url": "https://github.com/CVEProject"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/20487674?u=77863de2669001cfceb84198139cff81e20b5975&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
+            "url": "https://github.com/truonghuuphuc/CVE-2023-42120-Poc",
+            "title": "truonghuuphuc/CVE-2023-42120-Poc",
+            "date_modified": "2023-10-21T15:06:52.000Z",
+            "date_published": "2023-10-21T15:06:51.000Z",
+            "author": {
+                "name": "truonghuuphuc",
+                "url": "https://github.com/truonghuuphuc"
             }
         },
         {
@@ -212,17 +223,6 @@
             "author": {
                 "name": "x0rb3l",
                 "url": "https://github.com/x0rb3l"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/147946081?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2023-20198 straight RCE without implant</div>",
-            "url": "https://github.com/m474r5/CVE-2023-20198-RCE",
-            "title": "m474r5/CVE-2023-20198-RCE: CVE-2023-20198 straight RCE without implant",
-            "date_modified": "2023-10-20T11:30:45.000Z",
-            "date_published": "2023-10-20T11:30:44.000Z",
-            "author": {
-                "name": "m474r5",
-                "url": "https://github.com/m474r5"
             }
         }
     ]
