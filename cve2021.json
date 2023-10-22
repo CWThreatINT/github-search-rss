@@ -6,11 +6,33 @@
     "description": "CVE-2021 FEED on GitHub",
     "items": [
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/52133074?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div><a href=\"https://github.com/dorkerdevil/CVE-2021-33044\">https://github.com/dorkerdevil/CVE-2021-33044</a></div>",
-            "url": "https://github.com/haingn/CVE-2021-33044",
-            "title": "haingn/CVE-2021-33044: https://github.com/dorkerdevil/CVE-2021-33044",
-            "date_modified": "2023-10-22T13:53:48.000Z",
-            "date_published": "2023-10-22T13:53:47.000Z",
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/113920644?u=ec478166609d78fac7022804682a7867388c5089&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
+            "url": "https://github.com/banyaksepuh/Mass-CVE-2021-3129-Scanner",
+            "title": "banyaksepuh/Mass-CVE-2021-3129-Scanner",
+            "date_modified": "2023-10-22T14:35:06.000Z",
+            "date_published": "2023-10-22T14:25:38.000Z",
+            "author": {
+                "name": "banyaksepuh",
+                "url": "https://github.com/banyaksepuh"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/52133074?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
+            "url": "https://github.com/haingn/HIK-CVE-2021-36260-Exploit",
+            "title": "haingn/HIK-CVE-2021-36260-Exploit",
+            "date_modified": "2023-10-22T14:09:32.000Z",
+            "date_published": "2023-10-22T14:09:18.000Z",
+            "author": {
+                "name": "haingn",
+                "url": "https://github.com/haingn"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/52133074?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
+            "url": "https://github.com/haingn/LoHongCam-CVE-2021-33044",
+            "title": "haingn/LoHongCam-CVE-2021-33044",
+            "date_modified": "2023-10-22T14:06:32.000Z",
+            "date_published": "2023-10-22T14:02:49.000Z",
             "author": {
                 "name": "haingn",
                 "url": "https://github.com/haingn"
@@ -201,28 +223,6 @@
             "author": {
                 "name": "W4RCL0UD",
                 "url": "https://github.com/W4RCL0UD"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/60771253?u=468fdb9d01b7b40cb299e163ac77f52811eecef2&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2021-3060</div>",
-            "url": "https://github.com/anmolksachan/CVE-2021-3060",
-            "title": "anmolksachan/CVE-2021-3060: CVE-2021-3060",
-            "date_modified": "2023-10-05T07:15:36.000Z",
-            "date_published": "2023-10-05T07:04:46.000Z",
-            "author": {
-                "name": "anmolksachan",
-                "url": "https://github.com/anmolksachan"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/5752114?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
-            "url": "https://github.com/nevermoe/CVE-2021-44906",
-            "title": "nevermoe/CVE-2021-44906",
-            "date_modified": "2023-10-02T15:22:00.000Z",
-            "date_published": "2023-10-02T15:20:35.000Z",
-            "author": {
-                "name": "nevermoe",
-                "url": "https://github.com/nevermoe"
             }
         }
     ]
