@@ -6,17 +6,6 @@
     "description": "CVE-2023 FEED on GitHub",
     "items": [
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/148614285?u=3cd5f642e1d54a36ee6a5000d6a97b20d49b821a&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
-            "url": "https://github.com/MMarch7/weblogic_CVE-2023-21839_POC-EXP",
-            "title": "MMarch7/weblogic_CVE-2023-21839_POC-EXP",
-            "date_modified": "2023-10-23T11:36:29.000Z",
-            "date_published": "2023-10-23T11:36:29.000Z",
-            "author": {
-                "name": "MMarch7",
-                "url": "https://github.com/MMarch7"
-            }
-        },
-        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/18195825?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023</div>",
             "url": "https://github.com/CVEProject/cvelist",
             "title": "CVEProject/cvelist: Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023",
@@ -25,6 +14,28 @@
             "author": {
                 "name": "CVEProject",
                 "url": "https://github.com/CVEProject"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/51722811?u=a195458fc64bade6e8616d1d5c43883f0abde0c0&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Popup by Supsystic &lt;= 1.10.19 - Missing Authorization to Sensitive Information Exposure</div>",
+            "url": "https://github.com/RandomRobbieBF/CVE-2023-46197",
+            "title": "RandomRobbieBF/CVE-2023-46197: Popup by Supsystic <= 1.10.19 - Missing Authorization to Sensitive Information Exposure",
+            "date_modified": "2023-10-23T12:38:37.000Z",
+            "date_published": "2023-10-23T12:38:37.000Z",
+            "author": {
+                "name": "RandomRobbieBF",
+                "url": "https://github.com/RandomRobbieBF"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/148614285?u=3cd5f642e1d54a36ee6a5000d6a97b20d49b821a&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
+            "url": "https://github.com/MMarch7/weblogic_CVE-2023-21839_POC-EXP",
+            "title": "MMarch7/weblogic_CVE-2023-21839_POC-EXP",
+            "date_modified": "2023-10-23T11:36:29.000Z",
+            "date_published": "2023-10-23T11:36:29.000Z",
+            "author": {
+                "name": "MMarch7",
+                "url": "https://github.com/MMarch7"
             }
         },
         {
@@ -53,7 +64,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/18223385?u=5ba29c1a9447ae88a6a0433f44038f47471e11c1&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>TOP All bugbounty pentesting CVE-2023- POC Exp  RCE example payload  Things</div>",
             "url": "https://github.com/hktalent/TOP",
             "title": "hktalent/TOP: TOP All bugbounty pentesting CVE-2023- POC Exp  RCE example payload  Things",
-            "date_modified": "2023-10-23T09:44:35.000Z",
+            "date_modified": "2023-10-23T12:42:17.000Z",
             "date_published": "2022-03-19T01:54:15.000Z",
             "author": {
                 "name": "hktalent",
@@ -163,7 +174,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/61380567?u=a916ff49edac38004a8fb2bd9e1079fc353a8bd3&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
             "url": "https://github.com/po6ix/POC-for-CVE-2023-41993",
             "title": "po6ix/POC-for-CVE-2023-41993",
-            "date_modified": "2023-10-23T11:02:10.000Z",
+            "date_modified": "2023-10-23T12:29:31.000Z",
             "date_published": "2023-10-15T12:14:18.000Z",
             "author": {
                 "name": "po6ix",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "0x06060606",
                 "url": "https://github.com/0x06060606"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/64419387?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>RCE Exploit for CVE-2023-38646</div>",
-            "url": "https://github.com/AnvithLobo/CVE-2023-38646",
-            "title": "AnvithLobo/CVE-2023-38646: RCE Exploit for CVE-2023-38646",
-            "date_modified": "2023-10-20T15:21:15.000Z",
-            "date_published": "2023-10-20T15:21:08.000Z",
-            "author": {
-                "name": "AnvithLobo",
-                "url": "https://github.com/AnvithLobo"
             }
         }
     ]
