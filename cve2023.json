@@ -17,6 +17,17 @@
             }
         },
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/75072113?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Repository contains description for CVE-2023-35794 discovered by Dodge Industrial Team for Dodge OPTIFY platfrom.</div>",
+            "url": "https://github.com/Dodge-MPTC/CVE-2023-35794-WebSSH-Hijacking",
+            "title": "Dodge-MPTC/CVE-2023-35794-WebSSH-Hijacking: Repository contains description for CVE-2023-35794 discovered by Dodge Industrial Team for Dodge OPTIFY platfrom.",
+            "date_modified": "2023-10-23T09:51:35.000Z",
+            "date_published": "2023-10-23T09:51:34.000Z",
+            "author": {
+                "name": "Dodge-MPTC",
+                "url": "https://github.com/Dodge-MPTC"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/5783068?u=34c5d9103dd2775f6bc340237545f64e2be7786b&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2023-20198 &amp; 0Day Implant Scanner</div>",
             "url": "https://github.com/ZephrFish/CVE-2023-20198-Checker",
             "title": "ZephrFish/CVE-2023-20198-Checker: CVE-2023-20198 & 0Day Implant Scanner",
@@ -31,7 +42,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/18223385?u=5ba29c1a9447ae88a6a0433f44038f47471e11c1&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>TOP All bugbounty pentesting CVE-2023- POC Exp  RCE example payload  Things</div>",
             "url": "https://github.com/hktalent/TOP",
             "title": "hktalent/TOP: TOP All bugbounty pentesting CVE-2023- POC Exp  RCE example payload  Things",
-            "date_modified": "2023-10-22T14:59:28.000Z",
+            "date_modified": "2023-10-23T09:44:35.000Z",
             "date_published": "2022-03-19T01:54:15.000Z",
             "author": {
                 "name": "hktalent",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "horizon3ai",
                 "url": "https://github.com/horizon3ai"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/129133392?u=4df17cb68eea3e96ae8f0be0bfd12bf9ed7b5d59&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Joomla Unauthenticated Information Disclosure (CVE-2023-23752) exploit</div>",
-            "url": "https://github.com/AlissoftCodes/CVE-2023-23752",
-            "title": "AlissoftCodes/CVE-2023-23752: Joomla Unauthenticated Information Disclosure (CVE-2023-23752) exploit",
-            "date_modified": "2023-10-20T13:41:07.000Z",
-            "date_published": "2023-10-20T13:32:28.000Z",
-            "author": {
-                "name": "AlissoftCodes",
-                "url": "https://github.com/AlissoftCodes"
             }
         }
     ]
