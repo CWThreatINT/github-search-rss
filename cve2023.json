@@ -17,6 +17,39 @@
             }
         },
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/148672587?u=45ae95d3d52464249941b3f5ef41173acf980498&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
+            "url": "https://github.com/Pushkarup/CVE-2023-20198",
+            "title": "Pushkarup/CVE-2023-20198",
+            "date_modified": "2023-10-23T18:48:12.000Z",
+            "date_published": "2023-10-23T16:04:23.000Z",
+            "author": {
+                "name": "Pushkarup",
+                "url": "https://github.com/Pushkarup"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/64486541?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Exploit for CVE-2023-36802 targeting MSKSSRV.SYS driver</div>",
+            "url": "https://github.com/Nero22k/cve-2023-36802",
+            "title": "Nero22k/cve-2023-36802: Exploit for CVE-2023-36802 targeting MSKSSRV.SYS driver",
+            "date_modified": "2023-10-23T18:35:41.000Z",
+            "date_published": "2023-10-23T18:33:41.000Z",
+            "author": {
+                "name": "Nero22k",
+                "url": "https://github.com/Nero22k"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/108491572?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2023-20198 Checkscript</div>",
+            "url": "https://github.com/Atea-Redteam/CVE-2023-20198",
+            "title": "Atea-Redteam/CVE-2023-20198: CVE-2023-20198 Checkscript",
+            "date_modified": "2023-10-20T12:29:48.000Z",
+            "date_published": "2023-10-17T08:00:18.000Z",
+            "author": {
+                "name": "Atea-Redteam",
+                "url": "https://github.com/Atea-Redteam"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/148614285?u=3cd5f642e1d54a36ee6a5000d6a97b20d49b821a&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
             "url": "https://github.com/MMarch7/weblogic_CVE-2023-21839_POC-EXP",
             "title": "MMarch7/weblogic_CVE-2023-21839_POC-EXP",
@@ -190,39 +223,6 @@
             "author": {
                 "name": "Mangaia",
                 "url": "https://github.com/Mangaia"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/28754633?u=b7315209fdb7bbcc242666e76759205ff25252f4&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>1vere$k POC on the CVE-2023-20198</div>",
-            "url": "https://github.com/iveresk/cve-2023-20198",
-            "title": "iveresk/cve-2023-20198: 1vere$k POC on the CVE-2023-20198",
-            "date_modified": "2023-10-20T16:25:01.000Z",
-            "date_published": "2023-10-20T16:01:17.000Z",
-            "author": {
-                "name": "iveresk",
-                "url": "https://github.com/iveresk"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/133530110?u=e74fe63813b07bad361c08bcc952386594170477&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>To find HTML injection and XSS </div>",
-            "url": "https://github.com/ashangp923/CVE-2023-3971",
-            "title": "ashangp923/CVE-2023-3971: To find HTML injection and XSS ",
-            "date_modified": "2023-10-20T18:26:57.000Z",
-            "date_published": "2023-10-20T18:11:22.000Z",
-            "author": {
-                "name": "ashangp923",
-                "url": "https://github.com/ashangp923"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/47062591?u=dbb19898eb60b03aadb9539550363d09401bcee8&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2023-41993</div>",
-            "url": "https://github.com/0x06060606/CVE-2023-41993",
-            "title": "0x06060606/CVE-2023-41993: CVE-2023-41993",
-            "date_modified": "2023-10-20T03:53:37.000Z",
-            "date_published": "2023-10-16T20:34:02.000Z",
-            "author": {
-                "name": "0x06060606",
-                "url": "https://github.com/0x06060606"
             }
         }
     ]
