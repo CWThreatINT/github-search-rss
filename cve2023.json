@@ -6,6 +6,28 @@
     "description": "CVE-2023 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/43127252?u=81ad10857253db14a4d7980739ea4091e65de20e&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2023-37478 showcases how a difference in npm and pnpm install packages that could be exploited by a well crafted tar.gz packge. This repo shows a demo. </div>",
+            "url": "https://github.com/TrevorGKann/CVE-2023-37478_npm_vs_pnpm",
+            "title": "TrevorGKann/CVE-2023-37478_npm_vs_pnpm: CVE-2023-37478 showcases how a difference in npm and pnpm install packages that could be exploited by a well crafted tar.gz packge. This repo shows a demo. ",
+            "date_modified": "2023-10-24T18:32:56.000Z",
+            "date_published": "2023-10-24T18:32:30.000Z",
+            "author": {
+                "name": "TrevorGKann",
+                "url": "https://github.com/TrevorGKann"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/6516174?u=5bad8958726087f4b81e16ffb75b128ed8e1a4df&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>This is a webshell fingerprinting scanner designed to identify implants on Cisco IOS XE WebUI's affected by CVE-2023-20198 and CVE-2023-20273</div>",
+            "url": "https://github.com/Shadow0ps/CVE-2023-20198-Scanner",
+            "title": "Shadow0ps/CVE-2023-20198-Scanner: This is a webshell fingerprinting scanner designed to identify implants on Cisco IOS XE WebUI's affected by CVE-2023-20198 and CVE-2023-20273",
+            "date_modified": "2023-10-24T17:40:05.000Z",
+            "date_published": "2023-10-23T19:25:29.000Z",
+            "author": {
+                "name": "Shadow0ps",
+                "url": "https://github.com/Shadow0ps"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/88535377?u=8282f1d8139691249d08a567a0a9ec513541ab09&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Sensitive information disclosure in NetScaler ADC and NetScaler Gateway when configured as a Gateway (VPN virtual server, ICA Proxy, CVPN, RDP Proxy) or AAA virtual server. </div>",
             "url": "https://github.com/Chocapikk/CVE-2023-4966",
             "title": "Chocapikk/CVE-2023-4966: Sensitive information disclosure in NetScaler ADC and NetScaler Gateway when configured as a Gateway (VPN virtual server, ICA Proxy, CVPN, RDP Proxy) or AAA virtual server. ",
@@ -83,21 +105,10 @@
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/6516174?u=5bad8958726087f4b81e16ffb75b128ed8e1a4df&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>This is a webshell fingerprinting scanner designed to identify implants on Cisco IOS XE WebUI's affected by CVE-2023-20198 and CVE-2023-20273</div>",
-            "url": "https://github.com/Shadow0ps/CVE-2023-20198-Scanner",
-            "title": "Shadow0ps/CVE-2023-20198-Scanner: This is a webshell fingerprinting scanner designed to identify implants on Cisco IOS XE WebUI's affected by CVE-2023-20198 and CVE-2023-20273",
-            "date_modified": "2023-10-24T17:40:05.000Z",
-            "date_published": "2023-10-23T19:25:29.000Z",
-            "author": {
-                "name": "Shadow0ps",
-                "url": "https://github.com/Shadow0ps"
-            }
-        },
-        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/18223385?u=5ba29c1a9447ae88a6a0433f44038f47471e11c1&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>TOP All bugbounty pentesting CVE-2023- POC Exp  RCE example payload  Things</div>",
             "url": "https://github.com/hktalent/TOP",
             "title": "hktalent/TOP: TOP All bugbounty pentesting CVE-2023- POC Exp  RCE example payload  Things",
-            "date_modified": "2023-10-23T12:42:17.000Z",
+            "date_modified": "2023-10-24T18:15:22.000Z",
             "date_published": "2022-03-19T01:54:15.000Z",
             "author": {
                 "name": "hktalent",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "joaoviictorti",
                 "url": "https://github.com/joaoviictorti"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/67603819?u=f3f04db0c31fc64c5e1222e54b6aa7007dff8345&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
-            "url": "https://github.com/Nielk74/CVE-2023-38831",
-            "title": "Nielk74/CVE-2023-38831",
-            "date_modified": "2023-10-21T17:07:51.000Z",
-            "date_published": "2023-10-21T17:03:48.000Z",
-            "author": {
-                "name": "Nielk74",
-                "url": "https://github.com/Nielk74"
             }
         }
     ]
