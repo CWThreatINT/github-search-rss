@@ -6,6 +6,17 @@
     "description": "CVE-2023 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/148666067?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
+            "url": "https://github.com/phucodeexp/CVE-2023-30033",
+            "title": "phucodeexp/CVE-2023-30033",
+            "date_modified": "2023-10-24T02:27:13.000Z",
+            "date_published": "2023-10-24T02:23:03.000Z",
+            "author": {
+                "name": "phucodeexp",
+                "url": "https://github.com/phucodeexp"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/9675317?u=fab06712d41c77ae940c1cbb192aa2b8cd8ec0b1&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2023-38831 is an RCE in WinRAR (&lt;6.23)</div>",
             "url": "https://github.com/kehrijksen/CVE-2023-38831",
             "title": "kehrijksen/CVE-2023-38831: CVE-2023-38831 is an RCE in WinRAR (<6.23)",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "sohaibeb",
                 "url": "https://github.com/sohaibeb"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/61380567?u=a916ff49edac38004a8fb2bd9e1079fc353a8bd3&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
-            "url": "https://github.com/po6ix/POC-for-CVE-2023-41993",
-            "title": "po6ix/POC-for-CVE-2023-41993",
-            "date_modified": "2023-10-24T01:04:22.000Z",
-            "date_published": "2023-10-15T12:14:18.000Z",
-            "author": {
-                "name": "po6ix",
-                "url": "https://github.com/po6ix"
             }
         }
     ]
