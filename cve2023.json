@@ -6,6 +6,17 @@
     "description": "CVE-2023 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/88535377?u=8282f1d8139691249d08a567a0a9ec513541ab09&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Sensitive information disclosure in NetScaler ADC and NetScaler Gateway when configured as a Gateway (VPN virtual server, ICA Proxy, CVPN, RDP Proxy) or AAA virtual server. </div>",
+            "url": "https://github.com/Chocapikk/CVE-2023-4966",
+            "title": "Chocapikk/CVE-2023-4966: Sensitive information disclosure in NetScaler ADC and NetScaler Gateway when configured as a Gateway (VPN virtual server, ICA Proxy, CVPN, RDP Proxy) or AAA virtual server. ",
+            "date_modified": "2023-10-24T17:23:56.000Z",
+            "date_published": "2023-10-24T17:19:32.000Z",
+            "author": {
+                "name": "Chocapikk",
+                "url": "https://github.com/Chocapikk"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/29740744?u=96f0fcffdaaec1a176378ede50c9067623b0f04e&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>PoC for CVE-2023-36802 Microsoft Kernel Streaming Service Proxy</div>",
             "url": "https://github.com/x0rb3l/CVE-2023-36802-MSKSSRV-LPE",
             "title": "x0rb3l/CVE-2023-36802-MSKSSRV-LPE: PoC for CVE-2023-36802 Microsoft Kernel Streaming Service Proxy",
@@ -75,7 +86,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/6516174?u=5bad8958726087f4b81e16ffb75b128ed8e1a4df&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>This is a webshell fingerprinting scanner designed to identify implants on Cisco IOS XE WebUI's affected by CVE-2023-20198 and CVE-2023-20273</div>",
             "url": "https://github.com/Shadow0ps/CVE-2023-20198-Scanner",
             "title": "Shadow0ps/CVE-2023-20198-Scanner: This is a webshell fingerprinting scanner designed to identify implants on Cisco IOS XE WebUI's affected by CVE-2023-20198 and CVE-2023-20273",
-            "date_modified": "2023-10-24T14:41:45.000Z",
+            "date_modified": "2023-10-24T17:40:05.000Z",
             "date_published": "2023-10-23T19:25:29.000Z",
             "author": {
                 "name": "Shadow0ps",
@@ -141,7 +152,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/72502573?u=a178291fe386b58dbffcb6196e9c4e4c106089a8&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
             "url": "https://github.com/N1k0la-T/CVE-2023-36745",
             "title": "N1k0la-T/CVE-2023-36745",
-            "date_modified": "2023-10-24T14:54:50.000Z",
+            "date_modified": "2023-10-24T17:23:13.000Z",
             "date_published": "2023-10-23T19:06:36.000Z",
             "author": {
                 "name": "N1k0la-T",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "Nielk74",
                 "url": "https://github.com/Nielk74"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/148614285?u=3cd5f642e1d54a36ee6a5000d6a97b20d49b821a&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
-            "url": "https://github.com/MMarch7/weblogic_CVE-2023-21931_POC-EXP",
-            "title": "MMarch7/weblogic_CVE-2023-21931_POC-EXP",
-            "date_modified": "2023-10-24T15:02:51.000Z",
-            "date_published": "2023-10-21T07:30:24.000Z",
-            "author": {
-                "name": "MMarch7",
-                "url": "https://github.com/MMarch7"
             }
         }
     ]
