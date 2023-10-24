@@ -6,6 +6,17 @@
     "description": "CVE-2023 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/29740744?u=96f0fcffdaaec1a176378ede50c9067623b0f04e&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>PoC for CVE-2023-36802 Microsoft Kernel Streaming Service Proxy</div>",
+            "url": "https://github.com/x0rb3l/CVE-2023-36802-MSKSSRV-LPE",
+            "title": "x0rb3l/CVE-2023-36802-MSKSSRV-LPE: PoC for CVE-2023-36802 Microsoft Kernel Streaming Service Proxy",
+            "date_modified": "2023-10-24T15:07:22.000Z",
+            "date_published": "2023-10-20T02:05:27.000Z",
+            "author": {
+                "name": "x0rb3l",
+                "url": "https://github.com/x0rb3l"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/43088607?u=1f6f62e23f0e2868559b8fc902e0916c91d0749a&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Ansible Playbook for CVE-2023-20198</div>",
             "url": "https://github.com/ditekshen/ansible-cve-2023-20198",
             "title": "ditekshen/ansible-cve-2023-20198: Ansible Playbook for CVE-2023-20198",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "MMarch7",
                 "url": "https://github.com/MMarch7"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/83688624?u=b104189eb4be698d93d9154cc8d500171afe9ef0&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>cve-2023-22515的python利用脚本</div>",
-            "url": "https://github.com/DsaHen/cve-2023-22515-exp",
-            "title": "DsaHen/cve-2023-22515-exp: cve-2023-22515的python利用脚本",
-            "date_modified": "2023-10-21T15:54:08.000Z",
-            "date_published": "2023-10-21T13:59:16.000Z",
-            "author": {
-                "name": "DsaHen",
-                "url": "https://github.com/DsaHen"
             }
         }
     ]
