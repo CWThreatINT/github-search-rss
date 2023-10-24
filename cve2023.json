@@ -6,17 +6,6 @@
     "description": "CVE-2023 FEED on GitHub",
     "items": [
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/18195825?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023</div>",
-            "url": "https://github.com/CVEProject/cvelist",
-            "title": "CVEProject/cvelist: Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023",
-            "date_modified": "2023-10-23T21:24:21.000Z",
-            "date_published": "2020-11-02T19:30:55.000Z",
-            "author": {
-                "name": "CVEProject",
-                "url": "https://github.com/CVEProject"
-            }
-        },
-        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/6516174?u=5bad8958726087f4b81e16ffb75b128ed8e1a4df&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>This is a webshell fingerprinting scanner designed to identify implants on Cisco IOS XE WebUI's affected by CVE-2023-20198 and CVE-2023-20273</div>",
             "url": "https://github.com/Shadow0ps/CVE-2023-20198-Scanner",
             "title": "Shadow0ps/CVE-2023-20198-Scanner: This is a webshell fingerprinting scanner designed to identify implants on Cisco IOS XE WebUI's affected by CVE-2023-20198 and CVE-2023-20273",
@@ -25,6 +14,28 @@
             "author": {
                 "name": "Shadow0ps",
                 "url": "https://github.com/Shadow0ps"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/18223385?u=5ba29c1a9447ae88a6a0433f44038f47471e11c1&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>TOP All bugbounty pentesting CVE-2023- POC Exp  RCE example payload  Things</div>",
+            "url": "https://github.com/hktalent/TOP",
+            "title": "hktalent/TOP: TOP All bugbounty pentesting CVE-2023- POC Exp  RCE example payload  Things",
+            "date_modified": "2023-10-23T12:42:17.000Z",
+            "date_published": "2022-03-19T01:54:15.000Z",
+            "author": {
+                "name": "hktalent",
+                "url": "https://github.com/hktalent"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/18195825?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023</div>",
+            "url": "https://github.com/CVEProject/cvelist",
+            "title": "CVEProject/cvelist: Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023",
+            "date_modified": "2023-10-23T21:24:21.000Z",
+            "date_published": "2020-11-02T19:30:55.000Z",
+            "author": {
+                "name": "CVEProject",
+                "url": "https://github.com/CVEProject"
             }
         },
         {
@@ -116,17 +127,6 @@
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/18223385?u=5ba29c1a9447ae88a6a0433f44038f47471e11c1&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>TOP All bugbounty pentesting CVE-2023- POC Exp  RCE example payload  Things</div>",
-            "url": "https://github.com/hktalent/TOP",
-            "title": "hktalent/TOP: TOP All bugbounty pentesting CVE-2023- POC Exp  RCE example payload  Things",
-            "date_modified": "2023-10-23T12:42:17.000Z",
-            "date_published": "2022-03-19T01:54:15.000Z",
-            "author": {
-                "name": "hktalent",
-                "url": "https://github.com/hktalent"
-            }
-        },
-        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/85838827?u=853f6885fc0f425af71a5eade7a78ffb4d763446&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2023-22515 (Confluence Broken Access Control Exploit)</div>",
             "url": "https://github.com/joaoviictorti/CVE-2023-22515",
             "title": "joaoviictorti/CVE-2023-22515: CVE-2023-22515 (Confluence Broken Access Control Exploit)",
@@ -135,17 +135,6 @@
             "author": {
                 "name": "joaoviictorti",
                 "url": "https://github.com/joaoviictorti"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/73120825?u=1f2ebdf1e3be332141fae02c63b0219ee703fa9a&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
-            "url": "https://github.com/entr0pie/CVE-2023-38646",
-            "title": "entr0pie/CVE-2023-38646",
-            "date_modified": "2023-10-22T23:24:29.000Z",
-            "date_published": "2023-10-22T23:24:28.000Z",
-            "author": {
-                "name": "entr0pie",
-                "url": "https://github.com/entr0pie"
             }
         },
         {
@@ -168,17 +157,6 @@
             "author": {
                 "name": "Nielk74",
                 "url": "https://github.com/Nielk74"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/20487674?u=77863de2669001cfceb84198139cff81e20b5975&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
-            "url": "https://github.com/truonghuuphuc/CVE-2023-42120-Poc",
-            "title": "truonghuuphuc/CVE-2023-42120-Poc",
-            "date_modified": "2023-10-23T06:50:43.000Z",
-            "date_published": "2023-10-21T15:06:51.000Z",
-            "author": {
-                "name": "truonghuuphuc",
-                "url": "https://github.com/truonghuuphuc"
             }
         },
         {
@@ -223,6 +201,28 @@
             "author": {
                 "name": "sohaibeb",
                 "url": "https://github.com/sohaibeb"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/61380567?u=a916ff49edac38004a8fb2bd9e1079fc353a8bd3&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
+            "url": "https://github.com/po6ix/POC-for-CVE-2023-41993",
+            "title": "po6ix/POC-for-CVE-2023-41993",
+            "date_modified": "2023-10-23T15:31:55.000Z",
+            "date_published": "2023-10-15T12:14:18.000Z",
+            "author": {
+                "name": "po6ix",
+                "url": "https://github.com/po6ix"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/21020827?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>testing cve-2023-41993-test</div>",
+            "url": "https://github.com/Mangaia/cve-test",
+            "title": "Mangaia/cve-test: testing cve-2023-41993-test",
+            "date_modified": "2023-10-20T22:04:41.000Z",
+            "date_published": "2023-10-20T22:04:40.000Z",
+            "author": {
+                "name": "Mangaia",
+                "url": "https://github.com/Mangaia"
             }
         }
     ]
