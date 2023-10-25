@@ -9,11 +9,22 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/76210733?u=0653c9a5b80c333252561cf8ca3d5a15a4073f7f&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Looney Tunables Local privilege escalation (CVE-2023-4911) workshop</div>",
             "url": "https://github.com/KernelKrise/CVE-2023-4911",
             "title": "KernelKrise/CVE-2023-4911: Looney Tunables Local privilege escalation (CVE-2023-4911) workshop",
-            "date_modified": "2023-10-25T12:00:30.000Z",
+            "date_modified": "2023-10-25T12:18:26.000Z",
             "date_published": "2023-10-25T11:59:34.000Z",
             "author": {
                 "name": "KernelKrise",
                 "url": "https://github.com/KernelKrise"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/116651808?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
+            "url": "https://github.com/Twil4/CVE-2023-29357",
+            "title": "Twil4/CVE-2023-29357",
+            "date_modified": "2023-10-25T12:34:22.000Z",
+            "date_published": "2023-10-25T12:34:22.000Z",
+            "author": {
+                "name": "Twil4",
+                "url": "https://github.com/Twil4"
             }
         },
         {
@@ -31,7 +42,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/14963690?u=4ca9228104c4349b125873f85bf58216cbc4b1b7&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
             "url": "https://github.com/mr-r3b00t/CVE-2023-20198-IOS-XE-Scanner",
             "title": "mr-r3b00t/CVE-2023-20198-IOS-XE-Scanner",
-            "date_modified": "2023-10-25T11:22:25.000Z",
+            "date_modified": "2023-10-25T12:20:24.000Z",
             "date_published": "2023-10-25T07:13:59.000Z",
             "author": {
                 "name": "mr-r3b00t",
@@ -141,7 +152,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/6516174?u=5bad8958726087f4b81e16ffb75b128ed8e1a4df&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>This is a webshell fingerprinting scanner designed to identify implants on Cisco IOS XE WebUI's affected by CVE-2023-20198 and CVE-2023-20273</div>",
             "url": "https://github.com/Shadow0ps/CVE-2023-20198-Scanner",
             "title": "Shadow0ps/CVE-2023-20198-Scanner: This is a webshell fingerprinting scanner designed to identify implants on Cisco IOS XE WebUI's affected by CVE-2023-20198 and CVE-2023-20273",
-            "date_modified": "2023-10-25T07:58:52.000Z",
+            "date_modified": "2023-10-25T12:26:37.000Z",
             "date_published": "2023-10-23T19:25:29.000Z",
             "author": {
                 "name": "Shadow0ps",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "kehrijksen",
                 "url": "https://github.com/kehrijksen"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/18195825?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023</div>",
-            "url": "https://github.com/CVEProject/cvelist",
-            "title": "CVEProject/cvelist: Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023",
-            "date_modified": "2023-10-23T21:24:21.000Z",
-            "date_published": "2020-11-02T19:30:55.000Z",
-            "author": {
-                "name": "CVEProject",
-                "url": "https://github.com/CVEProject"
             }
         }
     ]
