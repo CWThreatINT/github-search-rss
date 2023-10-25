@@ -6,6 +6,28 @@
     "description": "CVE-2023 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/18195825?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023</div>",
+            "url": "https://github.com/CVEProject/cvelist",
+            "title": "CVEProject/cvelist: Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023",
+            "date_modified": "2023-10-23T21:24:21.000Z",
+            "date_published": "2020-11-02T19:30:55.000Z",
+            "author": {
+                "name": "CVEProject",
+                "url": "https://github.com/CVEProject"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/58694886?u=8dbec6dabdb7f2b268d62ebf920f76be2fe16625&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Python script to exploit CVE-2023-38646 Metabase Pre-Auth RCE via SQL injection</div>",
+            "url": "https://github.com/Red-Amber/CVE-2023-38646",
+            "title": "Red-Amber/CVE-2023-38646: Python script to exploit CVE-2023-38646 Metabase Pre-Auth RCE via SQL injection",
+            "date_modified": "2023-10-25T17:13:25.000Z",
+            "date_published": "2023-10-25T17:10:53.000Z",
+            "author": {
+                "name": "Red-Amber",
+                "url": "https://github.com/Red-Amber"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/48997609?u=4f9dfd6b6f19731d3cb09852f966106009272a89&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2023-22074</div>",
             "url": "https://github.com/emad-almousa/CVE-2023-22074",
             "title": "emad-almousa/CVE-2023-22074: CVE-2023-22074",
@@ -94,14 +116,14 @@
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/98622787?u=a0be5532a6c07b4ebbf0bd6e84530558e0428d7d&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Proof Of Concept for te NetScaler Vuln</div>",
-            "url": "https://github.com/senpaisamp/CVE-2023-4966-POC",
-            "title": "senpaisamp/CVE-2023-4966-POC: Proof Of Concept for te NetScaler Vuln",
-            "date_modified": "2023-10-25T07:33:43.000Z",
-            "date_published": "2023-10-25T07:17:54.000Z",
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/28465939?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Proof Of Concept for te NetScaler Vuln</div>",
+            "url": "https://github.com/mlynchcogent/CVE-2023-4966-POC",
+            "title": "mlynchcogent/CVE-2023-4966-POC: Proof Of Concept for te NetScaler Vuln",
+            "date_modified": "2023-10-25T12:37:56.000Z",
+            "date_published": "2023-10-25T12:37:56.000Z",
             "author": {
-                "name": "senpaisamp",
-                "url": "https://github.com/senpaisamp"
+                "name": "mlynchcogent",
+                "url": "https://github.com/mlynchcogent"
             }
         },
         {
@@ -163,7 +185,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/6516174?u=5bad8958726087f4b81e16ffb75b128ed8e1a4df&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>This is a webshell fingerprinting scanner designed to identify implants on Cisco IOS XE WebUI's affected by CVE-2023-20198 and CVE-2023-20273</div>",
             "url": "https://github.com/Shadow0ps/CVE-2023-20198-Scanner",
             "title": "Shadow0ps/CVE-2023-20198-Scanner: This is a webshell fingerprinting scanner designed to identify implants on Cisco IOS XE WebUI's affected by CVE-2023-20198 and CVE-2023-20273",
-            "date_modified": "2023-10-25T16:16:32.000Z",
+            "date_modified": "2023-10-25T17:41:24.000Z",
             "date_published": "2023-10-23T19:25:29.000Z",
             "author": {
                 "name": "Shadow0ps",
@@ -201,28 +223,6 @@
             "author": {
                 "name": "C1ph3rX13",
                 "url": "https://github.com/C1ph3rX13"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/115718278?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Check a target IP for CVE-2023-20198</div>",
-            "url": "https://github.com/kacem-expereo/CVE-2023-20198",
-            "title": "kacem-expereo/CVE-2023-20198: Check a target IP for CVE-2023-20198",
-            "date_modified": "2023-10-24T09:42:42.000Z",
-            "date_published": "2023-10-24T09:36:37.000Z",
-            "author": {
-                "name": "kacem-expereo",
-                "url": "https://github.com/kacem-expereo"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/148666067?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
-            "url": "https://github.com/phucodeexp/CVE-2023-30033",
-            "title": "phucodeexp/CVE-2023-30033",
-            "date_modified": "2023-10-24T02:27:13.000Z",
-            "date_published": "2023-10-24T02:23:03.000Z",
-            "author": {
-                "name": "phucodeexp",
-                "url": "https://github.com/phucodeexp"
             }
         }
     ]
