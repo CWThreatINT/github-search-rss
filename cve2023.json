@@ -6,6 +6,28 @@
     "description": "CVE-2023 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/102574296?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
+            "url": "https://github.com/Trinadh465/packages_apps_Settings_CVE-2023-21086",
+            "title": "Trinadh465/packages_apps_Settings_CVE-2023-21086",
+            "date_modified": "2023-10-25T11:03:27.000Z",
+            "date_published": "2023-10-25T11:03:27.000Z",
+            "author": {
+                "name": "Trinadh465",
+                "url": "https://github.com/Trinadh465"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/74831697?u=acd9e7ebaa069be5299fc6357b6e5913b8b10bf6&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Document for IT-Security</div>",
+            "url": "https://github.com/ItsMagick/CVE-2023-43641",
+            "title": "ItsMagick/CVE-2023-43641: Document for IT-Security",
+            "date_modified": "2023-10-25T10:35:31.000Z",
+            "date_published": "2023-10-25T10:35:31.000Z",
+            "author": {
+                "name": "ItsMagick",
+                "url": "https://github.com/ItsMagick"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/148672587?u=45ae95d3d52464249941b3f5ef41173acf980498&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Exploit for CVE-2023-23752 (4.0.0 &lt;= Joomla &lt;= 4.2.7).</div>",
             "url": "https://github.com/Pushkarup/CVE-2023-23752",
             "title": "Pushkarup/CVE-2023-23752: Exploit for CVE-2023-23752 (4.0.0 <= Joomla <= 4.2.7).",
@@ -201,28 +223,6 @@
             "author": {
                 "name": "kehrijksen",
                 "url": "https://github.com/kehrijksen"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/18195825?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023</div>",
-            "url": "https://github.com/CVEProject/cvelist",
-            "title": "CVEProject/cvelist: Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023",
-            "date_modified": "2023-10-23T21:24:21.000Z",
-            "date_published": "2020-11-02T19:30:55.000Z",
-            "author": {
-                "name": "CVEProject",
-                "url": "https://github.com/CVEProject"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/108491572?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2023-20198 Checkscript</div>",
-            "url": "https://github.com/Atea-Redteam/CVE-2023-20198",
-            "title": "Atea-Redteam/CVE-2023-20198: CVE-2023-20198 Checkscript",
-            "date_modified": "2023-10-24T15:04:04.000Z",
-            "date_published": "2023-10-17T08:00:18.000Z",
-            "author": {
-                "name": "Atea-Redteam",
-                "url": "https://github.com/Atea-Redteam"
             }
         }
     ]
