@@ -17,6 +17,17 @@
             }
         },
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/54930117?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Demonstration of CVE-2022-0482</div>",
+            "url": "https://github.com/OwlsNightCatch/CVE-2022-0482-demo",
+            "title": "OwlsNightCatch/CVE-2022-0482-demo: Demonstration of CVE-2022-0482",
+            "date_modified": "2023-10-25T16:39:11.000Z",
+            "date_published": "2023-10-25T16:34:53.000Z",
+            "author": {
+                "name": "OwlsNightCatch",
+                "url": "https://github.com/OwlsNightCatch"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/113995024?u=76541b2fb3dc73fad8e69cea5e4c1401f3ff1013&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Bash script to check if kernel is vulnerable </div>",
             "url": "https://github.com/ayushx007/CVE-2022-0847-dirty-pipe-checker",
             "title": "ayushx007/CVE-2022-0847-dirty-pipe-checker: Bash script to check if kernel is vulnerable ",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "joaoviictorti",
                 "url": "https://github.com/joaoviictorti"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/121408851?u=3d371a74f95a88cb671c041cca6c12e4b2c609bf&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2022-46689</div>",
-            "url": "https://github.com/straight-tamago/NoCameraSound",
-            "title": "straight-tamago/NoCameraSound: CVE-2022-46689",
-            "date_modified": "2023-10-14T07:39:49.000Z",
-            "date_published": "2022-12-26T00:08:55.000Z",
-            "author": {
-                "name": "straight-tamago",
-                "url": "https://github.com/straight-tamago"
             }
         }
     ]
