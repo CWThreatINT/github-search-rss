@@ -6,6 +6,17 @@
     "description": "CVE-2023 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/102574296?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
+            "url": "https://github.com/Trinadh465/frameworks_base_AOSP10_r33_CVE-2023-21097",
+            "title": "Trinadh465/frameworks_base_AOSP10_r33_CVE-2023-21097",
+            "date_modified": "2023-10-25T06:49:17.000Z",
+            "date_published": "2023-10-25T06:43:18.000Z",
+            "author": {
+                "name": "Trinadh465",
+                "url": "https://github.com/Trinadh465"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/3851678?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Citrix CVE-2023-4966 from assetnote modified for parallel and file handling</div>",
             "url": "https://github.com/dinosn/citrix_cve-2023-4966",
             "title": "dinosn/citrix_cve-2023-4966: Citrix CVE-2023-4966 from assetnote modified for parallel and file handling",
@@ -42,7 +53,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/88535377?u=8282f1d8139691249d08a567a0a9ec513541ab09&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Sensitive information disclosure in NetScaler ADC and NetScaler Gateway when configured as a Gateway (VPN virtual server, ICA Proxy, CVPN, RDP Proxy) or AAA virtual server. </div>",
             "url": "https://github.com/Chocapikk/CVE-2023-4966",
             "title": "Chocapikk/CVE-2023-4966: Sensitive information disclosure in NetScaler ADC and NetScaler Gateway when configured as a Gateway (VPN virtual server, ICA Proxy, CVPN, RDP Proxy) or AAA virtual server. ",
-            "date_modified": "2023-10-25T05:40:01.000Z",
+            "date_modified": "2023-10-25T06:43:27.000Z",
             "date_published": "2023-10-24T17:19:32.000Z",
             "author": {
                 "name": "Chocapikk",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "MMarch7",
                 "url": "https://github.com/MMarch7"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/51722811?u=a195458fc64bade6e8616d1d5c43883f0abde0c0&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Popup by Supsystic &lt;= 1.10.19 - Missing Authorization to Sensitive Information Exposure</div>",
-            "url": "https://github.com/RandomRobbieBF/CVE-2023-46197",
-            "title": "RandomRobbieBF/CVE-2023-46197: Popup by Supsystic <= 1.10.19 - Missing Authorization to Sensitive Information Exposure",
-            "date_modified": "2023-10-23T12:38:37.000Z",
-            "date_published": "2023-10-23T12:38:37.000Z",
-            "author": {
-                "name": "RandomRobbieBF",
-                "url": "https://github.com/RandomRobbieBF"
             }
         }
     ]
