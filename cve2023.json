@@ -6,6 +6,17 @@
     "description": "CVE-2023 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/3851678?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Citrix CVE-2023-4966 from assetnote modified for parallel and file handling</div>",
+            "url": "https://github.com/dinosn/citrix_cve-2023-4966",
+            "title": "dinosn/citrix_cve-2023-4966: Citrix CVE-2023-4966 from assetnote modified for parallel and file handling",
+            "date_modified": "2023-10-25T05:04:07.000Z",
+            "date_published": "2023-10-25T04:15:17.000Z",
+            "author": {
+                "name": "dinosn",
+                "url": "https://github.com/dinosn"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/126742910?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2023-36802 ITW case</div>",
             "url": "https://github.com/4zur-0312/CVE-2023-36802",
             "title": "4zur-0312/CVE-2023-36802: CVE-2023-36802 ITW case",
@@ -163,7 +174,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/64486541?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Exploit for CVE-2023-36802 targeting MSKSSRV.SYS driver</div>",
             "url": "https://github.com/Nero22k/cve-2023-36802",
             "title": "Nero22k/cve-2023-36802: Exploit for CVE-2023-36802 targeting MSKSSRV.SYS driver",
-            "date_modified": "2023-10-23T18:35:41.000Z",
+            "date_modified": "2023-10-25T04:21:52.000Z",
             "date_published": "2023-10-23T18:33:41.000Z",
             "author": {
                 "name": "Nero22k",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "RandomRobbieBF",
                 "url": "https://github.com/RandomRobbieBF"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/75072113?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Repository contains description for CVE-2023-35794 discovered by Dodge Industrial Team for Dodge OPTIFY platfrom.</div>",
-            "url": "https://github.com/Dodge-MPTC/CVE-2023-35794-WebSSH-Hijacking",
-            "title": "Dodge-MPTC/CVE-2023-35794-WebSSH-Hijacking: Repository contains description for CVE-2023-35794 discovered by Dodge Industrial Team for Dodge OPTIFY platfrom.",
-            "date_modified": "2023-10-23T09:51:35.000Z",
-            "date_published": "2023-10-23T09:51:34.000Z",
-            "author": {
-                "name": "Dodge-MPTC",
-                "url": "https://github.com/Dodge-MPTC"
             }
         }
     ]
