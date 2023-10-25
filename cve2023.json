@@ -7,13 +7,24 @@
     "items": [
         {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/102574296?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
-            "url": "https://github.com/Trinadh465/frameworks_native_AOSP-10_r33_CVE-2023-21094",
-            "title": "Trinadh465/frameworks_native_AOSP-10_r33_CVE-2023-21094",
-            "date_modified": "2023-10-25T07:56:58.000Z",
-            "date_published": "2023-10-25T07:54:39.000Z",
+            "url": "https://github.com/Trinadh465/frameworks_base_AOSP10_r33_CVE-2023-21097",
+            "title": "Trinadh465/frameworks_base_AOSP10_r33_CVE-2023-21097",
+            "date_modified": "2023-10-25T07:15:28.000Z",
+            "date_published": "2023-10-25T07:08:56.000Z",
             "author": {
                 "name": "Trinadh465",
                 "url": "https://github.com/Trinadh465"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/148672587?u=45ae95d3d52464249941b3f5ef41173acf980498&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Exploit for CVE-2023-23752 (4.0.0 &lt;= Joomla &lt;= 4.2.7).</div>",
+            "url": "https://github.com/Pushkarup/CVE-2023-23752",
+            "title": "Pushkarup/CVE-2023-23752: Exploit for CVE-2023-23752 (4.0.0 <= Joomla <= 4.2.7).",
+            "date_modified": "2023-10-25T08:53:13.000Z",
+            "date_published": "2023-10-25T08:53:12.000Z",
+            "author": {
+                "name": "Pushkarup",
+                "url": "https://github.com/Pushkarup"
             }
         },
         {
@@ -28,6 +39,17 @@
             }
         },
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/102574296?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
+            "url": "https://github.com/Trinadh465/frameworks_native_AOSP-10_r33_CVE-2023-21094",
+            "title": "Trinadh465/frameworks_native_AOSP-10_r33_CVE-2023-21094",
+            "date_modified": "2023-10-25T07:56:58.000Z",
+            "date_published": "2023-10-25T07:54:39.000Z",
+            "author": {
+                "name": "Trinadh465",
+                "url": "https://github.com/Trinadh465"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/14963690?u=4ca9228104c4349b125873f85bf58216cbc4b1b7&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
             "url": "https://github.com/mr-r3b00t/CVE-2023-20198-IOS-XE-Scanner",
             "title": "mr-r3b00t/CVE-2023-20198-IOS-XE-Scanner",
@@ -39,21 +61,10 @@
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/102574296?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
-            "url": "https://github.com/Trinadh465/frameworks_base_AOSP10_r33_CVE-2023-21097",
-            "title": "Trinadh465/frameworks_base_AOSP10_r33_CVE-2023-21097",
-            "date_modified": "2023-10-25T07:15:28.000Z",
-            "date_published": "2023-10-25T07:08:56.000Z",
-            "author": {
-                "name": "Trinadh465",
-                "url": "https://github.com/Trinadh465"
-            }
-        },
-        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/3851678?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Citrix CVE-2023-4966 from assetnote modified for parallel and file handling</div>",
             "url": "https://github.com/dinosn/citrix_cve-2023-4966",
             "title": "dinosn/citrix_cve-2023-4966: Citrix CVE-2023-4966 from assetnote modified for parallel and file handling",
-            "date_modified": "2023-10-25T05:44:15.000Z",
+            "date_modified": "2023-10-25T08:53:42.000Z",
             "date_published": "2023-10-25T04:15:17.000Z",
             "author": {
                 "name": "dinosn",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "Atea-Redteam",
                 "url": "https://github.com/Atea-Redteam"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/64486541?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Exploit for CVE-2023-36802 targeting MSKSSRV.SYS driver</div>",
-            "url": "https://github.com/Nero22k/cve-2023-36802",
-            "title": "Nero22k/cve-2023-36802: Exploit for CVE-2023-36802 targeting MSKSSRV.SYS driver",
-            "date_modified": "2023-10-25T04:21:52.000Z",
-            "date_published": "2023-10-23T18:33:41.000Z",
-            "author": {
-                "name": "Nero22k",
-                "url": "https://github.com/Nero22k"
             }
         }
     ]
