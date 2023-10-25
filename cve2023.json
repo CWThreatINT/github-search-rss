@@ -6,6 +6,17 @@
     "description": "CVE-2023 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/48997609?u=4f9dfd6b6f19731d3cb09852f966106009272a89&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2023-22074</div>",
+            "url": "https://github.com/emad-almousa/CVE-2023-22074",
+            "title": "emad-almousa/CVE-2023-22074: CVE-2023-22074",
+            "date_modified": "2023-10-25T15:26:17.000Z",
+            "date_published": "2023-10-25T15:26:17.000Z",
+            "author": {
+                "name": "emad-almousa",
+                "url": "https://github.com/emad-almousa"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/102574296?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
             "url": "https://github.com/Trinadh465/frameworks_base_AOSP10_r33_CVE-2023-21097",
             "title": "Trinadh465/frameworks_base_AOSP10_r33_CVE-2023-21097",
@@ -108,7 +119,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/3851678?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Citrix CVE-2023-4966 from assetnote modified for parallel and file handling</div>",
             "url": "https://github.com/dinosn/citrix_cve-2023-4966",
             "title": "dinosn/citrix_cve-2023-4966: Citrix CVE-2023-4966 from assetnote modified for parallel and file handling",
-            "date_modified": "2023-10-25T09:55:56.000Z",
+            "date_modified": "2023-10-25T15:25:10.000Z",
             "date_published": "2023-10-25T04:15:17.000Z",
             "author": {
                 "name": "dinosn",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "phucodeexp",
                 "url": "https://github.com/phucodeexp"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/9675317?u=fab06712d41c77ae940c1cbb192aa2b8cd8ec0b1&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2023-38831 is an RCE in WinRAR (&lt;6.23)</div>",
-            "url": "https://github.com/kehrijksen/CVE-2023-38831",
-            "title": "kehrijksen/CVE-2023-38831: CVE-2023-38831 is an RCE in WinRAR (<6.23)",
-            "date_modified": "2023-10-24T01:19:35.000Z",
-            "date_published": "2023-10-24T01:14:03.000Z",
-            "author": {
-                "name": "kehrijksen",
-                "url": "https://github.com/kehrijksen"
             }
         }
     ]
