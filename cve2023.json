@@ -6,25 +6,36 @@
     "description": "CVE-2023 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/76210733?u=0653c9a5b80c333252561cf8ca3d5a15a4073f7f&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Looney Tunables Local privilege escalation (CVE-2023-4911) workshop</div>",
+            "url": "https://github.com/KernelKrise/CVE-2023-4911",
+            "title": "KernelKrise/CVE-2023-4911: Looney Tunables Local privilege escalation (CVE-2023-4911) workshop",
+            "date_modified": "2023-10-25T12:00:30.000Z",
+            "date_published": "2023-10-25T11:59:34.000Z",
+            "author": {
+                "name": "KernelKrise",
+                "url": "https://github.com/KernelKrise"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/102574296?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
             "url": "https://github.com/Trinadh465/packages_apps_Settings_CVE-2023-21086",
             "title": "Trinadh465/packages_apps_Settings_CVE-2023-21086",
-            "date_modified": "2023-10-25T11:03:27.000Z",
-            "date_published": "2023-10-25T11:03:27.000Z",
+            "date_modified": "2023-10-25T11:54:12.000Z",
+            "date_published": "2023-10-25T11:42:32.000Z",
             "author": {
                 "name": "Trinadh465",
                 "url": "https://github.com/Trinadh465"
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/74831697?u=acd9e7ebaa069be5299fc6357b6e5913b8b10bf6&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Document for IT-Security</div>",
-            "url": "https://github.com/ItsMagick/CVE-2023-43641",
-            "title": "ItsMagick/CVE-2023-43641: Document for IT-Security",
-            "date_modified": "2023-10-25T10:35:31.000Z",
-            "date_published": "2023-10-25T10:35:31.000Z",
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/14963690?u=4ca9228104c4349b125873f85bf58216cbc4b1b7&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
+            "url": "https://github.com/mr-r3b00t/CVE-2023-20198-IOS-XE-Scanner",
+            "title": "mr-r3b00t/CVE-2023-20198-IOS-XE-Scanner",
+            "date_modified": "2023-10-25T11:22:25.000Z",
+            "date_published": "2023-10-25T07:13:59.000Z",
             "author": {
-                "name": "ItsMagick",
-                "url": "https://github.com/ItsMagick"
+                "name": "mr-r3b00t",
+                "url": "https://github.com/mr-r3b00t"
             }
         },
         {
@@ -72,17 +83,6 @@
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/14963690?u=4ca9228104c4349b125873f85bf58216cbc4b1b7&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
-            "url": "https://github.com/mr-r3b00t/CVE-2023-20198-IOS-XE-Scanner",
-            "title": "mr-r3b00t/CVE-2023-20198-IOS-XE-Scanner",
-            "date_modified": "2023-10-25T07:57:48.000Z",
-            "date_published": "2023-10-25T07:13:59.000Z",
-            "author": {
-                "name": "mr-r3b00t",
-                "url": "https://github.com/mr-r3b00t"
-            }
-        },
-        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/3851678?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Citrix CVE-2023-4966 from assetnote modified for parallel and file handling</div>",
             "url": "https://github.com/dinosn/citrix_cve-2023-4966",
             "title": "dinosn/citrix_cve-2023-4966: Citrix CVE-2023-4966 from assetnote modified for parallel and file handling",
@@ -119,22 +119,11 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/88535377?u=8282f1d8139691249d08a567a0a9ec513541ab09&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Sensitive information disclosure in NetScaler ADC and NetScaler Gateway when configured as a Gateway (VPN virtual server, ICA Proxy, CVPN, RDP Proxy) or AAA virtual server. </div>",
             "url": "https://github.com/Chocapikk/CVE-2023-4966",
             "title": "Chocapikk/CVE-2023-4966: Sensitive information disclosure in NetScaler ADC and NetScaler Gateway when configured as a Gateway (VPN virtual server, ICA Proxy, CVPN, RDP Proxy) or AAA virtual server. ",
-            "date_modified": "2023-10-25T09:52:18.000Z",
+            "date_modified": "2023-10-25T11:50:26.000Z",
             "date_published": "2023-10-24T17:19:32.000Z",
             "author": {
                 "name": "Chocapikk",
                 "url": "https://github.com/Chocapikk"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/76210733?u=0653c9a5b80c333252561cf8ca3d5a15a4073f7f&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2023-4911 (Looney Tunables) explained</div>",
-            "url": "https://github.com/KernelKrise/Looney-Tunables-LPE-workshop-CVE-2023-4911-",
-            "title": "KernelKrise/Looney-Tunables-LPE-workshop-CVE-2023-4911-: CVE-2023-4911 (Looney Tunables) explained",
-            "date_modified": "2023-10-24T21:56:00.000Z",
-            "date_published": "2023-10-24T21:55:59.000Z",
-            "author": {
-                "name": "KernelKrise",
-                "url": "https://github.com/KernelKrise"
             }
         },
         {
@@ -223,6 +212,17 @@
             "author": {
                 "name": "kehrijksen",
                 "url": "https://github.com/kehrijksen"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/18195825?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023</div>",
+            "url": "https://github.com/CVEProject/cvelist",
+            "title": "CVEProject/cvelist: Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023",
+            "date_modified": "2023-10-23T21:24:21.000Z",
+            "date_published": "2020-11-02T19:30:55.000Z",
+            "author": {
+                "name": "CVEProject",
+                "url": "https://github.com/CVEProject"
             }
         }
     ]
