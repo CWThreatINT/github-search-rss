@@ -6,6 +6,17 @@
     "description": "CVE-2021 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/35977703?u=8f50b78e5a5d47abc50935bb0f9d04359ee6df47&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Vulnerability details and exploit for CVE-2021-3754</div>",
+            "url": "https://github.com/7Ragnarok7/CVE-2021-3754",
+            "title": "7Ragnarok7/CVE-2021-3754: Vulnerability details and exploit for CVE-2021-3754",
+            "date_modified": "2023-09-07T11:19:22.000Z",
+            "date_published": "2023-09-07T07:49:21.000Z",
+            "author": {
+                "name": "7Ragnarok7",
+                "url": "https://github.com/7Ragnarok7"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/5438659?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
             "url": "https://github.com/rwincey/CVE-2021-27198",
             "title": "rwincey/CVE-2021-27198",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "Schira4396",
                 "url": "https://github.com/Schira4396"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/100122463?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Utilize Tai-e to identify the Log4shell (a.k.a. CVE-2021-44228) Vulnerability</div>",
-            "url": "https://github.com/Tai-e/CVE-2021-44228",
-            "title": "Tai-e/CVE-2021-44228: Utilize Tai-e to identify the Log4shell (a.k.a. CVE-2021-44228) Vulnerability",
-            "date_modified": "2023-10-16T10:44:09.000Z",
-            "date_published": "2023-10-06T04:36:31.000Z",
-            "author": {
-                "name": "Tai-e",
-                "url": "https://github.com/Tai-e"
             }
         }
     ]
