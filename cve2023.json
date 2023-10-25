@@ -6,6 +6,28 @@
     "description": "CVE-2023 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/102574296?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
+            "url": "https://github.com/Trinadh465/frameworks_base_AOSP10_r33_CVE-2023-21097",
+            "title": "Trinadh465/frameworks_base_AOSP10_r33_CVE-2023-21097",
+            "date_modified": "2023-10-25T07:15:28.000Z",
+            "date_published": "2023-10-25T07:08:56.000Z",
+            "author": {
+                "name": "Trinadh465",
+                "url": "https://github.com/Trinadh465"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/116651808?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
+            "url": "https://github.com/Twil4/CVE-2023-29357-check",
+            "title": "Twil4/CVE-2023-29357-check",
+            "date_modified": "2023-10-25T13:29:13.000Z",
+            "date_published": "2023-10-25T12:34:22.000Z",
+            "author": {
+                "name": "Twil4",
+                "url": "https://github.com/Twil4"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/76210733?u=0653c9a5b80c333252561cf8ca3d5a15a4073f7f&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Looney Tunables Local privilege escalation (CVE-2023-4911) workshop</div>",
             "url": "https://github.com/KernelKrise/CVE-2023-4911",
             "title": "KernelKrise/CVE-2023-4911: Looney Tunables Local privilege escalation (CVE-2023-4911) workshop",
@@ -14,17 +36,6 @@
             "author": {
                 "name": "KernelKrise",
                 "url": "https://github.com/KernelKrise"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/116651808?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
-            "url": "https://github.com/Twil4/CVE-2023-29357",
-            "title": "Twil4/CVE-2023-29357",
-            "date_modified": "2023-10-25T12:34:22.000Z",
-            "date_published": "2023-10-25T12:34:22.000Z",
-            "author": {
-                "name": "Twil4",
-                "url": "https://github.com/Twil4"
             }
         },
         {
@@ -58,17 +69,6 @@
             "author": {
                 "name": "Pushkarup",
                 "url": "https://github.com/Pushkarup"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/102574296?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
-            "url": "https://github.com/Trinadh465/frameworks_base_AOSP10_r33_CVE-2023-21097",
-            "title": "Trinadh465/frameworks_base_AOSP10_r33_CVE-2023-21097",
-            "date_modified": "2023-10-25T07:15:28.000Z",
-            "date_published": "2023-10-25T07:08:56.000Z",
-            "author": {
-                "name": "Trinadh465",
-                "url": "https://github.com/Trinadh465"
             }
         },
         {
@@ -163,7 +163,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/29740744?u=96f0fcffdaaec1a176378ede50c9067623b0f04e&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>PoC for CVE-2023-36802 Microsoft Kernel Streaming Service Proxy</div>",
             "url": "https://github.com/x0rb3l/CVE-2023-36802-MSKSSRV-LPE",
             "title": "x0rb3l/CVE-2023-36802-MSKSSRV-LPE: PoC for CVE-2023-36802 Microsoft Kernel Streaming Service Proxy",
-            "date_modified": "2023-10-25T02:58:49.000Z",
+            "date_modified": "2023-10-25T14:02:11.000Z",
             "date_published": "2023-10-20T02:05:27.000Z",
             "author": {
                 "name": "x0rb3l",
