@@ -6,6 +6,17 @@
     "description": "CVE-2023 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/148672587?u=45ae95d3d52464249941b3f5ef41173acf980498&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Exploit for CVE-2023-23752 (4.0.0 &lt;= Joomla &lt;= 4.2.7).</div>",
+            "url": "https://github.com/Pushkarup/CVE-2023-23752",
+            "title": "Pushkarup/CVE-2023-23752: Exploit for CVE-2023-23752 (4.0.0 <= Joomla <= 4.2.7).",
+            "date_modified": "2023-10-25T09:39:14.000Z",
+            "date_published": "2023-10-25T08:53:12.000Z",
+            "author": {
+                "name": "Pushkarup",
+                "url": "https://github.com/Pushkarup"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/102574296?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
             "url": "https://github.com/Trinadh465/frameworks_base_AOSP10_r33_CVE-2023-21097",
             "title": "Trinadh465/frameworks_base_AOSP10_r33_CVE-2023-21097",
@@ -14,17 +25,6 @@
             "author": {
                 "name": "Trinadh465",
                 "url": "https://github.com/Trinadh465"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/148672587?u=45ae95d3d52464249941b3f5ef41173acf980498&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Exploit for CVE-2023-23752 (4.0.0 &lt;= Joomla &lt;= 4.2.7).</div>",
-            "url": "https://github.com/Pushkarup/CVE-2023-23752",
-            "title": "Pushkarup/CVE-2023-23752: Exploit for CVE-2023-23752 (4.0.0 <= Joomla <= 4.2.7).",
-            "date_modified": "2023-10-25T08:53:13.000Z",
-            "date_published": "2023-10-25T08:53:12.000Z",
-            "author": {
-                "name": "Pushkarup",
-                "url": "https://github.com/Pushkarup"
             }
         },
         {
@@ -64,7 +64,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/3851678?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Citrix CVE-2023-4966 from assetnote modified for parallel and file handling</div>",
             "url": "https://github.com/dinosn/citrix_cve-2023-4966",
             "title": "dinosn/citrix_cve-2023-4966: Citrix CVE-2023-4966 from assetnote modified for parallel and file handling",
-            "date_modified": "2023-10-25T08:53:42.000Z",
+            "date_modified": "2023-10-25T09:55:56.000Z",
             "date_published": "2023-10-25T04:15:17.000Z",
             "author": {
                 "name": "dinosn",
@@ -97,7 +97,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/88535377?u=8282f1d8139691249d08a567a0a9ec513541ab09&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Sensitive information disclosure in NetScaler ADC and NetScaler Gateway when configured as a Gateway (VPN virtual server, ICA Proxy, CVPN, RDP Proxy) or AAA virtual server. </div>",
             "url": "https://github.com/Chocapikk/CVE-2023-4966",
             "title": "Chocapikk/CVE-2023-4966: Sensitive information disclosure in NetScaler ADC and NetScaler Gateway when configured as a Gateway (VPN virtual server, ICA Proxy, CVPN, RDP Proxy) or AAA virtual server. ",
-            "date_modified": "2023-10-25T08:01:15.000Z",
+            "date_modified": "2023-10-25T09:52:18.000Z",
             "date_published": "2023-10-24T17:19:32.000Z",
             "author": {
                 "name": "Chocapikk",
