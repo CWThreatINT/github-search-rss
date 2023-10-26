@@ -17,6 +17,50 @@
             }
         },
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/20056452?u=87917e69597c431c2b7e3d2f8f268a0a49d211c3&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Metabase open source before 0.46.6.1 and Metabase Enterprise before 1.46.6.1 allow attackers to execute arbitrary commands on the server, at the server's privilege level. Authentication is not required for exploitation. The other fixed versions are 0.45.4.1, 1.45.4.1, 0.44.7.1, 1.44.7.1, 0.43.7.2, and 1.43.7.2.</div>",
+            "url": "https://github.com/junnythemarksman/CVE-2023-38646",
+            "title": "junnythemarksman/CVE-2023-38646: Metabase open source before 0.46.6.1 and Metabase Enterprise before 1.46.6.1 allow attackers to execute arbitrary commands on the server, at the server's privilege level. Authentication is not required for exploitation. The other fixed versions are 0.45.4.1, 1.45.4.1, 0.44.7.1, 1.44.7.1, 0.43.7.2, and 1.43.7.2.",
+            "date_modified": "2023-10-26T10:39:35.000Z",
+            "date_published": "2023-10-26T10:37:23.000Z",
+            "author": {
+                "name": "junnythemarksman",
+                "url": "https://github.com/junnythemarksman"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/88535377?u=8282f1d8139691249d08a567a0a9ec513541ab09&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Sensitive information disclosure in NetScaler ADC and NetScaler Gateway when configured as a Gateway (VPN virtual server, ICA Proxy, CVPN, RDP Proxy) or AAA virtual server. </div>",
+            "url": "https://github.com/Chocapikk/CVE-2023-4966",
+            "title": "Chocapikk/CVE-2023-4966: Sensitive information disclosure in NetScaler ADC and NetScaler Gateway when configured as a Gateway (VPN virtual server, ICA Proxy, CVPN, RDP Proxy) or AAA virtual server. ",
+            "date_modified": "2023-10-26T06:51:50.000Z",
+            "date_published": "2023-10-24T17:19:32.000Z",
+            "author": {
+                "name": "Chocapikk",
+                "url": "https://github.com/Chocapikk"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/58694886?u=8dbec6dabdb7f2b268d62ebf920f76be2fe16625&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Python script to exploit CVE-2023-38646 Metabase Pre-Auth RCE via SQL injection</div>",
+            "url": "https://github.com/Red4mber/CVE-2023-38646",
+            "title": "Red4mber/CVE-2023-38646: Python script to exploit CVE-2023-38646 Metabase Pre-Auth RCE via SQL injection",
+            "date_modified": "2023-10-26T10:35:14.000Z",
+            "date_published": "2023-10-25T17:10:53.000Z",
+            "author": {
+                "name": "Red4mber",
+                "url": "https://github.com/Red4mber"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/148672587?u=45ae95d3d52464249941b3f5ef41173acf980498&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>This script exploits CVE-2023-23397, a Zero-Day vulnerability in Microsoft Outlook, allowing the generation of malicious emails for testing and educational purposes.</div>",
+            "url": "https://github.com/Pushkarup/CVE-2023-23397",
+            "title": "Pushkarup/CVE-2023-23397: This script exploits CVE-2023-23397, a Zero-Day vulnerability in Microsoft Outlook, allowing the generation of malicious emails for testing and educational purposes.",
+            "date_modified": "2023-10-26T10:11:22.000Z",
+            "date_published": "2023-10-26T09:26:32.000Z",
+            "author": {
+                "name": "Pushkarup",
+                "url": "https://github.com/Pushkarup"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/43088607?u=1f6f62e23f0e2868559b8fc902e0916c91d0749a&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Ansible Playbook for CVE-2023-4966</div>",
             "url": "https://github.com/ditekshen/ansible-cve-2023-4966",
             "title": "ditekshen/ansible-cve-2023-4966: Ansible Playbook for CVE-2023-4966",
@@ -25,17 +69,6 @@
             "author": {
                 "name": "ditekshen",
                 "url": "https://github.com/ditekshen"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/148672587?u=45ae95d3d52464249941b3f5ef41173acf980498&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>This script exploits CVE-2023-23397, a Zero-Day vulnerability in Microsoft Outlook, allowing the generation of malicious emails for testing and educational purposes.</div>",
-            "url": "https://github.com/Pushkarup/CVE-2023-23397",
-            "title": "Pushkarup/CVE-2023-23397: This script exploits CVE-2023-23397, a Zero-Day vulnerability in Microsoft Outlook, allowing the generation of malicious emails for testing and educational purposes.",
-            "date_modified": "2023-10-26T09:26:33.000Z",
-            "date_published": "2023-10-26T09:26:32.000Z",
-            "author": {
-                "name": "Pushkarup",
-                "url": "https://github.com/Pushkarup"
             }
         },
         {
@@ -149,17 +182,6 @@
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/58694886?u=8dbec6dabdb7f2b268d62ebf920f76be2fe16625&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Python script to exploit CVE-2023-38646 Metabase Pre-Auth RCE via SQL injection</div>",
-            "url": "https://github.com/Red4mber/CVE-2023-38646",
-            "title": "Red4mber/CVE-2023-38646: Python script to exploit CVE-2023-38646 Metabase Pre-Auth RCE via SQL injection",
-            "date_modified": "2023-10-26T04:05:04.000Z",
-            "date_published": "2023-10-25T17:10:53.000Z",
-            "author": {
-                "name": "Red4mber",
-                "url": "https://github.com/Red4mber"
-            }
-        },
-        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/48997609?u=4f9dfd6b6f19731d3cb09852f966106009272a89&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2023-22074</div>",
             "url": "https://github.com/emad-almousa/CVE-2023-22074",
             "title": "emad-almousa/CVE-2023-22074: CVE-2023-22074",
@@ -168,17 +190,6 @@
             "author": {
                 "name": "emad-almousa",
                 "url": "https://github.com/emad-almousa"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/88535377?u=8282f1d8139691249d08a567a0a9ec513541ab09&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Sensitive information disclosure in NetScaler ADC and NetScaler Gateway when configured as a Gateway (VPN virtual server, ICA Proxy, CVPN, RDP Proxy) or AAA virtual server. </div>",
-            "url": "https://github.com/Chocapikk/CVE-2023-4966",
-            "title": "Chocapikk/CVE-2023-4966: Sensitive information disclosure in NetScaler ADC and NetScaler Gateway when configured as a Gateway (VPN virtual server, ICA Proxy, CVPN, RDP Proxy) or AAA virtual server. ",
-            "date_modified": "2023-10-26T06:51:50.000Z",
-            "date_published": "2023-10-24T17:19:32.000Z",
-            "author": {
-                "name": "Chocapikk",
-                "url": "https://github.com/Chocapikk"
             }
         },
         {
@@ -212,17 +223,6 @@
             "author": {
                 "name": "Trinadh465",
                 "url": "https://github.com/Trinadh465"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/14963690?u=4ca9228104c4349b125873f85bf58216cbc4b1b7&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
-            "url": "https://github.com/mr-r3b00t/CVE-2023-20198-IOS-XE-Scanner",
-            "title": "mr-r3b00t/CVE-2023-20198-IOS-XE-Scanner",
-            "date_modified": "2023-10-25T12:20:24.000Z",
-            "date_published": "2023-10-25T07:13:59.000Z",
-            "author": {
-                "name": "mr-r3b00t",
-                "url": "https://github.com/mr-r3b00t"
             }
         }
     ]
