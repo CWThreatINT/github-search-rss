@@ -17,6 +17,28 @@
             }
         },
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/43088607?u=1f6f62e23f0e2868559b8fc902e0916c91d0749a&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Ansible Playbook for CVE-2023-4966</div>",
+            "url": "https://github.com/ditekshen/ansible-cve-2023-4966",
+            "title": "ditekshen/ansible-cve-2023-4966: Ansible Playbook for CVE-2023-4966",
+            "date_modified": "2023-10-26T09:41:40.000Z",
+            "date_published": "2023-10-26T09:32:48.000Z",
+            "author": {
+                "name": "ditekshen",
+                "url": "https://github.com/ditekshen"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/148672587?u=45ae95d3d52464249941b3f5ef41173acf980498&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>This script exploits CVE-2023-23397, a Zero-Day vulnerability in Microsoft Outlook, allowing the generation of malicious emails for testing and educational purposes.</div>",
+            "url": "https://github.com/Pushkarup/CVE-2023-23397",
+            "title": "Pushkarup/CVE-2023-23397: This script exploits CVE-2023-23397, a Zero-Day vulnerability in Microsoft Outlook, allowing the generation of malicious emails for testing and educational purposes.",
+            "date_modified": "2023-10-26T09:26:33.000Z",
+            "date_published": "2023-10-26T09:26:32.000Z",
+            "author": {
+                "name": "Pushkarup",
+                "url": "https://github.com/Pushkarup"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/57721604?u=03954bd72bb8b02bc0ba5ef0f5981a50109814dd&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2023-5360</div>",
             "url": "https://github.com/nastar-id/CVE-2023-5360",
             "title": "nastar-id/CVE-2023-5360: CVE-2023-5360",
@@ -201,28 +223,6 @@
             "author": {
                 "name": "mr-r3b00t",
                 "url": "https://github.com/mr-r3b00t"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/148672587?u=45ae95d3d52464249941b3f5ef41173acf980498&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Exploit for CVE-2023-23752 (4.0.0 &lt;= Joomla &lt;= 4.2.7).</div>",
-            "url": "https://github.com/Pushkarup/CVE-2023-23752",
-            "title": "Pushkarup/CVE-2023-23752: Exploit for CVE-2023-23752 (4.0.0 <= Joomla <= 4.2.7).",
-            "date_modified": "2023-10-25T09:39:14.000Z",
-            "date_published": "2023-10-25T08:53:12.000Z",
-            "author": {
-                "name": "Pushkarup",
-                "url": "https://github.com/Pushkarup"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/28465939?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Proof Of Concept for te NetScaler Vuln</div>",
-            "url": "https://github.com/mlynchcogent/CVE-2023-4966-POC",
-            "title": "mlynchcogent/CVE-2023-4966-POC: Proof Of Concept for te NetScaler Vuln",
-            "date_modified": "2023-10-25T12:37:56.000Z",
-            "date_published": "2023-10-25T12:37:56.000Z",
-            "author": {
-                "name": "mlynchcogent",
-                "url": "https://github.com/mlynchcogent"
             }
         }
     ]
