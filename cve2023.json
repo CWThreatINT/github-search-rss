@@ -17,6 +17,17 @@
             }
         },
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/57721604?u=03954bd72bb8b02bc0ba5ef0f5981a50109814dd&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2023-5360</div>",
+            "url": "https://github.com/nastar-id/CVE-2023-5360",
+            "title": "nastar-id/CVE-2023-5360: CVE-2023-5360",
+            "date_modified": "2023-10-26T08:19:55.000Z",
+            "date_published": "2023-10-26T08:18:43.000Z",
+            "author": {
+                "name": "nastar-id",
+                "url": "https://github.com/nastar-id"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/128219249?u=eadd9700aa53de36fd4bdce9c71e0b8f123064c9&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Confluence未授权添加管理员用户漏洞利用脚本</div>",
             "url": "https://github.com/sincere9/CVE-2023-22515",
             "title": "sincere9/CVE-2023-22515: Confluence未授权添加管理员用户漏洞利用脚本",
@@ -64,7 +75,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/18223385?u=5ba29c1a9447ae88a6a0433f44038f47471e11c1&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>TOP All bugbounty pentesting CVE-2023- POC Exp  RCE example payload  Things</div>",
             "url": "https://github.com/hktalent/TOP",
             "title": "hktalent/TOP: TOP All bugbounty pentesting CVE-2023- POC Exp  RCE example payload  Things",
-            "date_modified": "2023-10-25T07:20:18.000Z",
+            "date_modified": "2023-10-26T08:36:19.000Z",
             "date_published": "2022-03-19T01:54:15.000Z",
             "author": {
                 "name": "hktalent",
@@ -117,13 +128,13 @@
         },
         {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/58694886?u=8dbec6dabdb7f2b268d62ebf920f76be2fe16625&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Python script to exploit CVE-2023-38646 Metabase Pre-Auth RCE via SQL injection</div>",
-            "url": "https://github.com/Red-Amber/CVE-2023-38646",
-            "title": "Red-Amber/CVE-2023-38646: Python script to exploit CVE-2023-38646 Metabase Pre-Auth RCE via SQL injection",
+            "url": "https://github.com/Red4mber/CVE-2023-38646",
+            "title": "Red4mber/CVE-2023-38646: Python script to exploit CVE-2023-38646 Metabase Pre-Auth RCE via SQL injection",
             "date_modified": "2023-10-26T04:05:04.000Z",
             "date_published": "2023-10-25T17:10:53.000Z",
             "author": {
-                "name": "Red-Amber",
-                "url": "https://github.com/Red-Amber"
+                "name": "Red4mber",
+                "url": "https://github.com/Red4mber"
             }
         },
         {
@@ -212,17 +223,6 @@
             "author": {
                 "name": "mlynchcogent",
                 "url": "https://github.com/mlynchcogent"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/102574296?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
-            "url": "https://github.com/Trinadh465/frameworks_native_AOSP-10_r33_CVE-2023-21094",
-            "title": "Trinadh465/frameworks_native_AOSP-10_r33_CVE-2023-21094",
-            "date_modified": "2023-10-25T07:56:58.000Z",
-            "date_published": "2023-10-25T07:54:39.000Z",
-            "author": {
-                "name": "Trinadh465",
-                "url": "https://github.com/Trinadh465"
             }
         }
     ]
