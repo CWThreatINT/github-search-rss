@@ -17,6 +17,39 @@
             }
         },
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/108727157?u=c6ddcb8d6e9aa87f820c1c4687cec66ee97ec2bd&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Stack-Overflow on Citrix</div>",
+            "url": "https://github.com/Mohammaddvd/CVE-2023-3519",
+            "title": "Mohammaddvd/CVE-2023-3519: Stack-Overflow on Citrix",
+            "date_modified": "2023-10-27T19:01:35.000Z",
+            "date_published": "2023-10-27T18:39:31.000Z",
+            "author": {
+                "name": "Mohammaddvd",
+                "url": "https://github.com/Mohammaddvd"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/55925786?u=d2f09684c76f9b90dc0fc48c7bdf991873d57b1c&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>PoC and Writeup for CVE-2023-46404.</div>",
+            "url": "https://github.com/windecks/CVE-2023-46404",
+            "title": "windecks/CVE-2023-46404: PoC and Writeup for CVE-2023-46404.",
+            "date_modified": "2023-10-26T15:07:18.000Z",
+            "date_published": "2023-10-26T15:01:32.000Z",
+            "author": {
+                "name": "windecks",
+                "url": "https://github.com/windecks"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/149197227?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>F5 BIG-IP unauthenticated remote code execution (RCE) and authentication bypass vulnerability!</div>",
+            "url": "https://github.com/r4pG0r/CVE-2023-46747-POC",
+            "title": "r4pG0r/CVE-2023-46747-POC: F5 BIG-IP unauthenticated remote code execution (RCE) and authentication bypass vulnerability!",
+            "date_modified": "2023-10-27T18:23:22.000Z",
+            "date_published": "2023-10-27T18:16:08.000Z",
+            "author": {
+                "name": "r4pG0r",
+                "url": "https://github.com/r4pG0r"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/58899228?u=d4824477f60b2a99e78dd5e5186a9cf56ee9d62c&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Check for CVE-2023-32629 \"GameOver(lay)\" vulnerability </div>",
             "url": "https://github.com/kaotickj/Check-for-CVE-2023-32629-GameOver-lay",
             "title": "kaotickj/Check-for-CVE-2023-32629-GameOver-lay: Check for CVE-2023-32629 \"GameOver(lay)\" vulnerability ",
@@ -97,7 +130,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/135759201?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
             "url": "https://github.com/codeb0ss/CVE-2023-5815-PoC",
             "title": "codeb0ss/CVE-2023-5815-PoC",
-            "date_modified": "2023-10-26T22:55:18.000Z",
+            "date_modified": "2023-10-27T18:07:50.000Z",
             "date_published": "2023-10-26T22:50:26.000Z",
             "author": {
                 "name": "codeb0ss",
@@ -149,17 +182,6 @@
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/55925786?u=d2f09684c76f9b90dc0fc48c7bdf991873d57b1c&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>PoC and Writeup for CVE-2023-46404.</div>",
-            "url": "https://github.com/windecks/CVE-2023-46404",
-            "title": "windecks/CVE-2023-46404: PoC and Writeup for CVE-2023-46404.",
-            "date_modified": "2023-10-26T15:07:18.000Z",
-            "date_published": "2023-10-26T15:01:32.000Z",
-            "author": {
-                "name": "windecks",
-                "url": "https://github.com/windecks"
-            }
-        },
-        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/16611466?u=6fe9206bd6eebe255f5b6d18005db30ae6d9a7e9&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
             "url": "https://github.com/ReToCode/golang-CVE-2023-44487",
             "title": "ReToCode/golang-CVE-2023-44487",
@@ -201,28 +223,6 @@
             "author": {
                 "name": "Nero22k",
                 "url": "https://github.com/Nero22k"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/20056452?u=87917e69597c431c2b7e3d2f8f268a0a49d211c3&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Metabase open source before 0.46.6.1 and Metabase Enterprise before 1.46.6.1 allow attackers to execute arbitrary commands on the server, at the server's privilege level. Authentication is not required for exploitation. The other fixed versions are 0.45.4.1, 1.45.4.1, 0.44.7.1, 1.44.7.1, 0.43.7.2, and 1.43.7.2.</div>",
-            "url": "https://github.com/junnythemarksman/CVE-2023-38646",
-            "title": "junnythemarksman/CVE-2023-38646: Metabase open source before 0.46.6.1 and Metabase Enterprise before 1.46.6.1 allow attackers to execute arbitrary commands on the server, at the server's privilege level. Authentication is not required for exploitation. The other fixed versions are 0.45.4.1, 1.45.4.1, 0.44.7.1, 1.44.7.1, 0.43.7.2, and 1.43.7.2.",
-            "date_modified": "2023-10-26T10:39:35.000Z",
-            "date_published": "2023-10-26T10:37:23.000Z",
-            "author": {
-                "name": "junnythemarksman",
-                "url": "https://github.com/junnythemarksman"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/58694886?u=8dbec6dabdb7f2b268d62ebf920f76be2fe16625&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Python script to exploit CVE-2023-38646 Metabase Pre-Auth RCE via SQL injection</div>",
-            "url": "https://github.com/Red4mber/CVE-2023-38646",
-            "title": "Red4mber/CVE-2023-38646: Python script to exploit CVE-2023-38646 Metabase Pre-Auth RCE via SQL injection",
-            "date_modified": "2023-10-26T10:35:14.000Z",
-            "date_published": "2023-10-25T17:10:53.000Z",
-            "author": {
-                "name": "Red4mber",
-                "url": "https://github.com/Red4mber"
             }
         }
     ]
