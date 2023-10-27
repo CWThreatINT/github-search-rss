@@ -17,6 +17,17 @@
             }
         },
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/58899228?u=d4824477f60b2a99e78dd5e5186a9cf56ee9d62c&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Check for CVE-2023-32629 \"GameOver(lay)\" vulnerability </div>",
+            "url": "https://github.com/kaotickj/Check-for-CVE-2023-32629-GameOver-lay",
+            "title": "kaotickj/Check-for-CVE-2023-32629-GameOver-lay: Check for CVE-2023-32629 \"GameOver(lay)\" vulnerability ",
+            "date_modified": "2023-10-18T14:12:42.000Z",
+            "date_published": "2023-08-11T21:08:38.000Z",
+            "author": {
+                "name": "kaotickj",
+                "url": "https://github.com/kaotickj"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/75072113?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Repository contains description for CVE-2023-35794 discovered by Dodge Industrial Team for Dodge OPTIFY platfrom.</div>",
             "url": "https://github.com/Dodge-MPTC/CVE-2023-35794-WebSSH-Hijacking",
             "title": "Dodge-MPTC/CVE-2023-35794-WebSSH-Hijacking: Repository contains description for CVE-2023-35794 discovered by Dodge Industrial Team for Dodge OPTIFY platfrom.",
@@ -185,7 +196,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/64486541?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Exploit for CVE-2023-36802 targeting MSKSSRV.SYS driver</div>",
             "url": "https://github.com/Nero22k/cve-2023-36802",
             "title": "Nero22k/cve-2023-36802: Exploit for CVE-2023-36802 targeting MSKSSRV.SYS driver",
-            "date_modified": "2023-10-27T13:50:55.000Z",
+            "date_modified": "2023-10-27T14:45:00.000Z",
             "date_published": "2023-10-23T18:33:41.000Z",
             "author": {
                 "name": "Nero22k",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "Red4mber",
                 "url": "https://github.com/Red4mber"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/148672587?u=45ae95d3d52464249941b3f5ef41173acf980498&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>This script exploits CVE-2023-23397, a Zero-Day vulnerability in Microsoft Outlook, allowing the generation of malicious emails for testing and educational purposes.</div>",
-            "url": "https://github.com/Pushkarup/CVE-2023-23397",
-            "title": "Pushkarup/CVE-2023-23397: This script exploits CVE-2023-23397, a Zero-Day vulnerability in Microsoft Outlook, allowing the generation of malicious emails for testing and educational purposes.",
-            "date_modified": "2023-10-26T10:11:22.000Z",
-            "date_published": "2023-10-26T09:26:32.000Z",
-            "author": {
-                "name": "Pushkarup",
-                "url": "https://github.com/Pushkarup"
             }
         }
     ]
