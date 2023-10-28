@@ -6,17 +6,6 @@
     "description": "CVE-2023 FEED on GitHub",
     "items": [
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/16838353?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2023-4966 - NetScaler ADC and NetScaler Gateway Memory Leak Exploit</div>",
-            "url": "https://github.com/0xKayala/CVE-2023-4966",
-            "title": "0xKayala/CVE-2023-4966: CVE-2023-4966 - NetScaler ADC and NetScaler Gateway Memory Leak Exploit",
-            "date_modified": "2023-10-28T06:02:58.000Z",
-            "date_published": "2023-10-27T11:00:09.000Z",
-            "author": {
-                "name": "0xKayala",
-                "url": "https://github.com/0xKayala"
-            }
-        },
-        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/18195825?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023</div>",
             "url": "https://github.com/CVEProject/cvelist",
             "title": "CVEProject/cvelist: Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023",
@@ -25,6 +14,17 @@
             "author": {
                 "name": "CVEProject",
                 "url": "https://github.com/CVEProject"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/16838353?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2023-4966 - NetScaler ADC and NetScaler Gateway Memory Leak Exploit</div>",
+            "url": "https://github.com/0xKayala/CVE-2023-4966",
+            "title": "0xKayala/CVE-2023-4966: CVE-2023-4966 - NetScaler ADC and NetScaler Gateway Memory Leak Exploit",
+            "date_modified": "2023-10-28T06:02:58.000Z",
+            "date_published": "2023-10-27T11:00:09.000Z",
+            "author": {
+                "name": "0xKayala",
+                "url": "https://github.com/0xKayala"
             }
         },
         {
