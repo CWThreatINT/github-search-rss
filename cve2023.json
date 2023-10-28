@@ -6,6 +6,28 @@
     "description": "CVE-2023 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/55925786?u=d2f09684c76f9b90dc0fc48c7bdf991873d57b1c&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>PoC and Writeup for CVE-2023-46404.</div>",
+            "url": "https://github.com/windecks/CVE-2023-46404",
+            "title": "windecks/CVE-2023-46404: PoC and Writeup for CVE-2023-46404.",
+            "date_modified": "2023-10-26T15:07:18.000Z",
+            "date_published": "2023-10-26T15:01:32.000Z",
+            "author": {
+                "name": "windecks",
+                "url": "https://github.com/windecks"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/82941858?u=6af58ff55af168b10475f5babc61d9f10a81e54c&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
+            "url": "https://github.com/ayhan-dev/CVE-2023-391",
+            "title": "ayhan-dev/CVE-2023-391",
+            "date_modified": "2023-10-28T17:45:41.000Z",
+            "date_published": "2023-10-28T17:39:36.000Z",
+            "author": {
+                "name": "ayhan-dev",
+                "url": "https://github.com/ayhan-dev"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/18195825?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023</div>",
             "url": "https://github.com/CVEProject/cvelist",
             "title": "CVEProject/cvelist: Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023",
@@ -105,17 +127,6 @@
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/55925786?u=d2f09684c76f9b90dc0fc48c7bdf991873d57b1c&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>PoC and Writeup for CVE-2023-46404.</div>",
-            "url": "https://github.com/windecks/CVE-2023-46404",
-            "title": "windecks/CVE-2023-46404: PoC and Writeup for CVE-2023-46404.",
-            "date_modified": "2023-10-26T15:07:18.000Z",
-            "date_published": "2023-10-26T15:01:32.000Z",
-            "author": {
-                "name": "windecks",
-                "url": "https://github.com/windecks"
-            }
-        },
-        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/149197227?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>F5 BIG-IP unauthenticated remote code execution (RCE) and authentication bypass vulnerability!</div>",
             "url": "https://github.com/r4pG0r/CVE-2023-46747-POC",
             "title": "r4pG0r/CVE-2023-46747-POC: F5 BIG-IP unauthenticated remote code execution (RCE) and authentication bypass vulnerability!",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "sajaljat",
                 "url": "https://github.com/sajaljat"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/55489792?u=c3c0c10f25e48c7ecca7d145b1dd43938bdf4437&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div> CVE-2023-46450 reference</div>",
-            "url": "https://github.com/yte121/-CVE-2023-46450",
-            "title": "yte121/-CVE-2023-46450:  CVE-2023-46450 reference",
-            "date_modified": "2023-10-26T12:30:21.000Z",
-            "date_published": "2023-10-26T12:30:21.000Z",
-            "author": {
-                "name": "yte121",
-                "url": "https://github.com/yte121"
             }
         }
     ]
