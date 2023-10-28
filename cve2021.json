@@ -6,6 +6,17 @@
     "description": "CVE-2021 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/128500598?u=e152954138d2b82c1959d8c89e7d8e38bf143ae4&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>detect bruteforce using for cve-2021-34527</div>",
+            "url": "https://github.com/TieuLong21Prosper/detect_bruteforce",
+            "title": "TieuLong21Prosper/detect_bruteforce: detect bruteforce using for cve-2021-34527",
+            "date_modified": "2023-10-28T08:20:15.000Z",
+            "date_published": "2023-10-28T08:16:36.000Z",
+            "author": {
+                "name": "TieuLong21Prosper",
+                "url": "https://github.com/TieuLong21Prosper"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/33046073?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2021-36260</div>",
             "url": "https://github.com/rabbitsafe/CVE-2021-36260",
             "title": "rabbitsafe/CVE-2021-36260: CVE-2021-36260",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "battleofthebots",
                 "url": "https://github.com/battleofthebots"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/8959898?u=856c9dc333cb1fac44f903988bafd7e6b01b7336&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2021-40444 - Fully Weaponized Microsoft Office Word RCE Exploit</div>",
-            "url": "https://github.com/klezVirus/CVE-2021-40444",
-            "title": "klezVirus/CVE-2021-40444: CVE-2021-40444 - Fully Weaponized Microsoft Office Word RCE Exploit",
-            "date_modified": "2023-10-28T02:52:02.000Z",
-            "date_published": "2021-09-15T22:34:35.000Z",
-            "author": {
-                "name": "klezVirus",
-                "url": "https://github.com/klezVirus"
             }
         }
     ]
