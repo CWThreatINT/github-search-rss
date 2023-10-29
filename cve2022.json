@@ -17,6 +17,17 @@
             }
         },
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/4406140?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Demonstration of CVE-2022-31692 authorization bypass in Spring Security</div>",
+            "url": "https://github.com/hotblac/cve-2022-31692",
+            "title": "hotblac/cve-2022-31692: Demonstration of CVE-2022-31692 authorization bypass in Spring Security",
+            "date_modified": "2023-10-29T17:31:49.000Z",
+            "date_published": "2023-10-29T17:31:23.000Z",
+            "author": {
+                "name": "hotblac",
+                "url": "https://github.com/hotblac"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/88584206?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Turning Your Computer Into a GPS Tracker With Apple Maps</div>",
             "url": "https://github.com/breakpointHQ/CVE-2022-32883",
             "title": "breakpointHQ/CVE-2022-32883: Turning Your Computer Into a GPS Tracker With Apple Maps",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "Vagebondcur",
                 "url": "https://github.com/Vagebondcur"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/98477272?u=4ea68a19a75adef68127762c009db8c850c1db46&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Example of CVE-2022-22817 </div>",
-            "url": "https://github.com/JawadPy/CVE-2022-22817-Exploit",
-            "title": "JawadPy/CVE-2022-22817-Exploit: Example of CVE-2022-22817 ",
-            "date_modified": "2023-10-13T07:44:28.000Z",
-            "date_published": "2023-10-05T22:57:37.000Z",
-            "author": {
-                "name": "JawadPy",
-                "url": "https://github.com/JawadPy"
             }
         }
     ]
