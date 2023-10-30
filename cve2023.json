@@ -6,6 +6,28 @@
     "description": "CVE-2023 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/149408980?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>F5 BIG-IP unauthenticated remote code execution (RCE) and authentication bypass vulnerability!</div>",
+            "url": "https://github.com/AliBrTab/CVE-2023-46747-POC",
+            "title": "AliBrTab/CVE-2023-46747-POC: F5 BIG-IP unauthenticated remote code execution (RCE) and authentication bypass vulnerability!",
+            "date_modified": "2023-10-30T16:00:27.000Z",
+            "date_published": "2023-10-30T15:50:46.000Z",
+            "author": {
+                "name": "AliBrTab",
+                "url": "https://github.com/AliBrTab"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/468621?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Cisco IOS XE implant scanning &amp; detection (CVE-2023-20198, CVE-2023-20273)</div>",
+            "url": "https://github.com/fox-it/cisco-ios-xe-implant-detection",
+            "title": "fox-it/cisco-ios-xe-implant-detection: Cisco IOS XE implant scanning & detection (CVE-2023-20198, CVE-2023-20273)",
+            "date_modified": "2023-10-30T16:02:36.000Z",
+            "date_published": "2023-10-23T14:52:18.000Z",
+            "author": {
+                "name": "fox-it",
+                "url": "https://github.com/fox-it"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/139291686?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Joomla Unauthorized Access Vulnerability</div>",
             "url": "https://github.com/cybernetwiz/CVE-2023-23752",
             "title": "cybernetwiz/CVE-2023-23752: Joomla Unauthorized Access Vulnerability",
@@ -47,17 +69,6 @@
             "author": {
                 "name": "k0zulzr",
                 "url": "https://github.com/k0zulzr"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/468621?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Cisco IOS XE implant scanning &amp; detection (CVE-2023-20198, CVE-2023-20273)</div>",
-            "url": "https://github.com/fox-it/cisco-ios-xe-implant-detection",
-            "title": "fox-it/cisco-ios-xe-implant-detection: Cisco IOS XE implant scanning & detection (CVE-2023-20198, CVE-2023-20273)",
-            "date_modified": "2023-10-30T14:55:14.000Z",
-            "date_published": "2023-10-23T14:52:18.000Z",
-            "author": {
-                "name": "fox-it",
-                "url": "https://github.com/fox-it"
             }
         },
         {
@@ -212,17 +223,6 @@
             "author": {
                 "name": "N1k0la-T",
                 "url": "https://github.com/N1k0la-T"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/55925786?u=d2f09684c76f9b90dc0fc48c7bdf991873d57b1c&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>PoC and Writeup for CVE-2023-46404.</div>",
-            "url": "https://github.com/windecks/CVE-2023-46404",
-            "title": "windecks/CVE-2023-46404: PoC and Writeup for CVE-2023-46404.",
-            "date_modified": "2023-10-26T15:07:18.000Z",
-            "date_published": "2023-10-26T15:01:32.000Z",
-            "author": {
-                "name": "windecks",
-                "url": "https://github.com/windecks"
             }
         }
     ]
