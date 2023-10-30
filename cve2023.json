@@ -6,6 +6,17 @@
     "description": "CVE-2023 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/80983900?u=80252898be77f64fffd78bd3c9dc7acf65c32b3b&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>PoC CVE-2023-5044</div>",
+            "url": "https://github.com/r0binak/CVE-2023-5044",
+            "title": "r0binak/CVE-2023-5044: PoC CVE-2023-5044",
+            "date_modified": "2023-10-30T07:59:11.000Z",
+            "date_published": "2023-10-30T07:59:11.000Z",
+            "author": {
+                "name": "r0binak",
+                "url": "https://github.com/r0binak"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/18195825?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023</div>",
             "url": "https://github.com/CVEProject/cvelist",
             "title": "CVEProject/cvelist: Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023",
@@ -53,7 +64,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/18223385?u=5ba29c1a9447ae88a6a0433f44038f47471e11c1&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>TOP All bugbounty pentesting CVE-2023- POC Exp  RCE example payload  Things</div>",
             "url": "https://github.com/hktalent/TOP",
             "title": "hktalent/TOP: TOP All bugbounty pentesting CVE-2023- POC Exp  RCE example payload  Things",
-            "date_modified": "2023-10-29T02:35:49.000Z",
+            "date_modified": "2023-10-30T07:48:09.000Z",
             "date_published": "2022-03-19T01:54:15.000Z",
             "author": {
                 "name": "hktalent",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "Mohammaddvd",
                 "url": "https://github.com/Mohammaddvd"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/149197227?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>F5 BIG-IP unauthenticated remote code execution (RCE) and authentication bypass vulnerability!</div>",
-            "url": "https://github.com/r4pG0r/CVE-2023-46747-POC",
-            "title": "r4pG0r/CVE-2023-46747-POC: F5 BIG-IP unauthenticated remote code execution (RCE) and authentication bypass vulnerability!",
-            "date_modified": "2023-10-27T18:23:22.000Z",
-            "date_published": "2023-10-27T18:16:08.000Z",
-            "author": {
-                "name": "r4pG0r",
-                "url": "https://github.com/r4pG0r"
             }
         }
     ]
