@@ -6,10 +6,32 @@
     "description": "CVE-2023 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/39941993?u=c467c7495787b1e881c8eab5642b7a6bff385afd&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Exploit for elevation of privilege vulnerability in QuickHeal's Seqrite EPS (CVE-2023-31497).</div>",
+            "url": "https://github.com/0xInfection/EPScalate",
+            "title": "0xInfection/EPScalate: Exploit for elevation of privilege vulnerability in QuickHeal's Seqrite EPS (CVE-2023-31497).",
+            "date_modified": "2023-08-20T05:27:08.000Z",
+            "date_published": "2023-04-09T05:26:40.000Z",
+            "author": {
+                "name": "0xInfection",
+                "url": "https://github.com/0xInfection"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/14126796?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Parse citrix netscaler logs to check for signs of CVE-2023-4966 exploitation</div>",
+            "url": "https://github.com/certat/citrix-logchecker",
+            "title": "certat/citrix-logchecker: Parse citrix netscaler logs to check for signs of CVE-2023-4966 exploitation",
+            "date_modified": "2023-10-30T08:13:17.000Z",
+            "date_published": "2023-10-28T11:44:42.000Z",
+            "author": {
+                "name": "certat",
+                "url": "https://github.com/certat"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/80983900?u=80252898be77f64fffd78bd3c9dc7acf65c32b3b&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>PoC CVE-2023-5044</div>",
             "url": "https://github.com/r0binak/CVE-2023-5044",
             "title": "r0binak/CVE-2023-5044: PoC CVE-2023-5044",
-            "date_modified": "2023-10-30T07:59:11.000Z",
+            "date_modified": "2023-10-30T09:02:08.000Z",
             "date_published": "2023-10-30T07:59:11.000Z",
             "author": {
                 "name": "r0binak",
@@ -160,17 +182,6 @@
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/14126796?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Parse citrix netscaler logs to check for signs of CVE-2023-4966 exploitation</div>",
-            "url": "https://github.com/certat/citrix-logchecker",
-            "title": "certat/citrix-logchecker: Parse citrix netscaler logs to check for signs of CVE-2023-4966 exploitation",
-            "date_modified": "2023-10-28T11:50:21.000Z",
-            "date_published": "2023-10-28T11:44:42.000Z",
-            "author": {
-                "name": "certat",
-                "url": "https://github.com/certat"
-            }
-        },
-        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/16838353?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2023-29552 - Service Location Protocol Vulnerability</div>",
             "url": "https://github.com/0xKayala/CVE-2023-29552",
             "title": "0xKayala/CVE-2023-29552: CVE-2023-29552 - Service Location Protocol Vulnerability",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "alekos3",
                 "url": "https://github.com/alekos3"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/108727157?u=c6ddcb8d6e9aa87f820c1c4687cec66ee97ec2bd&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Stack-Overflow on Citrix</div>",
-            "url": "https://github.com/Mohammaddvd/CVE-2023-3519",
-            "title": "Mohammaddvd/CVE-2023-3519: Stack-Overflow on Citrix",
-            "date_modified": "2023-10-27T19:01:35.000Z",
-            "date_published": "2023-10-27T18:39:31.000Z",
-            "author": {
-                "name": "Mohammaddvd",
-                "url": "https://github.com/Mohammaddvd"
             }
         }
     ]

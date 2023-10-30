@@ -6,6 +6,17 @@
     "description": "CVE-2021 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/42630259?u=b7dc52413e9eaceae1bb1f6c9f7c80aa5805c1a2&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
+            "url": "https://github.com/halkichi0308/CVE-2021-22880",
+            "title": "halkichi0308/CVE-2021-22880",
+            "date_modified": "2023-10-30T08:30:12.000Z",
+            "date_published": "2023-10-30T08:30:12.000Z",
+            "author": {
+                "name": "halkichi0308",
+                "url": "https://github.com/halkichi0308"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/130039321?u=01367c8710f0df7c26651d6a2469cd0f91805d8a&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>a Proof of Concept of cve-2021-43226,stack overflow in Windows driver clfs.sys</div>",
             "url": "https://github.com/Rosayxy/cve-2021-43226PoC",
             "title": "Rosayxy/cve-2021-43226PoC: a Proof of Concept of cve-2021-43226,stack overflow in Windows driver clfs.sys",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "0xhaggis",
                 "url": "https://github.com/0xhaggis"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/87991945?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Proxyshell for Exploiting CVE-2021-34473</div>",
-            "url": "https://github.com/f4alireza/CVE",
-            "title": "f4alireza/CVE: Proxyshell for Exploiting CVE-2021-34473",
-            "date_modified": "2023-10-17T08:40:37.000Z",
-            "date_published": "2023-10-17T08:38:08.000Z",
-            "author": {
-                "name": "f4alireza",
-                "url": "https://github.com/f4alireza"
             }
         }
     ]
