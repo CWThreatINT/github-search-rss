@@ -6,17 +6,6 @@
     "description": "CVE-2023 FEED on GitHub",
     "items": [
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/79393031?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
-            "url": "https://github.com/mr-xmen786/CVE-2023-46478",
-            "title": "mr-xmen786/CVE-2023-46478",
-            "date_modified": "2023-10-30T11:28:44.000Z",
-            "date_published": "2023-10-30T11:28:43.000Z",
-            "author": {
-                "name": "mr-xmen786",
-                "url": "https://github.com/mr-xmen786"
-            }
-        },
-        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/18195825?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023</div>",
             "url": "https://github.com/CVEProject/cvelist",
             "title": "CVEProject/cvelist: Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023",
@@ -25,6 +14,17 @@
             "author": {
                 "name": "CVEProject",
                 "url": "https://github.com/CVEProject"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/79393031?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
+            "url": "https://github.com/mr-xmen786/CVE-2023-46478",
+            "title": "mr-xmen786/CVE-2023-46478",
+            "date_modified": "2023-10-30T11:28:44.000Z",
+            "date_published": "2023-10-30T11:28:43.000Z",
+            "author": {
+                "name": "mr-xmen786",
+                "url": "https://github.com/mr-xmen786"
             }
         },
         {
@@ -163,7 +163,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/72502573?u=a178291fe386b58dbffcb6196e9c4e4c106089a8&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
             "url": "https://github.com/N1k0la-T/CVE-2023-36745",
             "title": "N1k0la-T/CVE-2023-36745",
-            "date_modified": "2023-10-30T11:59:35.000Z",
+            "date_modified": "2023-10-30T12:24:29.000Z",
             "date_published": "2023-10-23T19:06:36.000Z",
             "author": {
                 "name": "N1k0la-T",
