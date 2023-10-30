@@ -6,17 +6,6 @@
     "description": "CVE-2023 FEED on GitHub",
     "items": [
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/18195825?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023</div>",
-            "url": "https://github.com/CVEProject/cvelist",
-            "title": "CVEProject/cvelist: Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023",
-            "date_modified": "2023-10-30T07:02:29.000Z",
-            "date_published": "2020-11-02T19:30:55.000Z",
-            "author": {
-                "name": "CVEProject",
-                "url": "https://github.com/CVEProject"
-            }
-        },
-        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/79393031?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
             "url": "https://github.com/mr-xmen786/CVE-2023-46478",
             "title": "mr-xmen786/CVE-2023-46478",
@@ -28,14 +17,36 @@
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/39941993?u=c467c7495787b1e881c8eab5642b7a6bff385afd&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Exploit for elevation of privilege vulnerability in QuickHeal's Seqrite EPS (CVE-2023-31497).</div>",
-            "url": "https://github.com/0xInfection/EPScalate",
-            "title": "0xInfection/EPScalate: Exploit for elevation of privilege vulnerability in QuickHeal's Seqrite EPS (CVE-2023-31497).",
-            "date_modified": "2023-08-20T05:27:08.000Z",
-            "date_published": "2023-04-09T05:26:40.000Z",
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/101390984?u=81d97aded600b88f0a0acceff9416449099c8172&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2023-46747 (F5 BIG-IP) RCE</div>",
+            "url": "https://github.com/k0zulzr/CVE-2023-46747-Mass-RCE",
+            "title": "k0zulzr/CVE-2023-46747-Mass-RCE: CVE-2023-46747 (F5 BIG-IP) RCE",
+            "date_modified": "2023-10-30T14:01:31.000Z",
+            "date_published": "2023-10-30T13:25:45.000Z",
             "author": {
-                "name": "0xInfection",
-                "url": "https://github.com/0xInfection"
+                "name": "k0zulzr",
+                "url": "https://github.com/k0zulzr"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/18195825?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023</div>",
+            "url": "https://github.com/CVEProject/cvelist",
+            "title": "CVEProject/cvelist: Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023",
+            "date_modified": "2023-10-30T07:02:29.000Z",
+            "date_published": "2020-11-02T19:30:55.000Z",
+            "author": {
+                "name": "CVEProject",
+                "url": "https://github.com/CVEProject"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/468621?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Cisco IOS XE implant scanning &amp; detection (CVE-2023-20198, CVE-2023-20273)</div>",
+            "url": "https://github.com/fox-it/cisco-ios-xe-implant-detection",
+            "title": "fox-it/cisco-ios-xe-implant-detection: Cisco IOS XE implant scanning & detection (CVE-2023-20198, CVE-2023-20273)",
+            "date_modified": "2023-10-30T08:18:35.000Z",
+            "date_published": "2023-10-23T14:52:18.000Z",
+            "author": {
+                "name": "fox-it",
+                "url": "https://github.com/fox-it"
             }
         },
         {
@@ -47,6 +58,28 @@
             "author": {
                 "name": "certat",
                 "url": "https://github.com/certat"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/149389544?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>metasploit module for CVE-2023-46747 (F5 BIG-IP) RCE and the analyze</div>",
+            "url": "https://github.com/TomArn1/CVE-2023-46747-PoC",
+            "title": "TomArn1/CVE-2023-46747-PoC: metasploit module for CVE-2023-46747 (F5 BIG-IP) RCE and the analyze",
+            "date_modified": "2023-10-30T13:18:38.000Z",
+            "date_published": "2023-10-30T13:08:47.000Z",
+            "author": {
+                "name": "TomArn1",
+                "url": "https://github.com/TomArn1"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/39941993?u=c467c7495787b1e881c8eab5642b7a6bff385afd&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Exploit for elevation of privilege vulnerability in QuickHeal's Seqrite EPS (CVE-2023-31497).</div>",
+            "url": "https://github.com/0xInfection/EPScalate",
+            "title": "0xInfection/EPScalate: Exploit for elevation of privilege vulnerability in QuickHeal's Seqrite EPS (CVE-2023-31497).",
+            "date_modified": "2023-08-20T05:27:08.000Z",
+            "date_published": "2023-04-09T05:26:40.000Z",
+            "author": {
+                "name": "0xInfection",
+                "url": "https://github.com/0xInfection"
             }
         },
         {
@@ -190,39 +223,6 @@
             "author": {
                 "name": "secengjeff",
                 "url": "https://github.com/secengjeff"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/16838353?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2023-29552 - Service Location Protocol Vulnerability</div>",
-            "url": "https://github.com/0xKayala/CVE-2023-29552",
-            "title": "0xKayala/CVE-2023-29552: CVE-2023-29552 - Service Location Protocol Vulnerability",
-            "date_modified": "2023-10-28T07:49:52.000Z",
-            "date_published": "2023-10-27T09:17:21.000Z",
-            "author": {
-                "name": "0xKayala",
-                "url": "https://github.com/0xKayala"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/16838353?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2023-33246 - Apache RocketMQ config RCE</div>",
-            "url": "https://github.com/0xKayala/CVE-2023-33246",
-            "title": "0xKayala/CVE-2023-33246: CVE-2023-33246 - Apache RocketMQ config RCE",
-            "date_modified": "2023-10-28T07:30:56.000Z",
-            "date_published": "2023-10-28T07:08:19.000Z",
-            "author": {
-                "name": "0xKayala",
-                "url": "https://github.com/0xKayala"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/16838353?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2023-4966 - NetScaler ADC and NetScaler Gateway Memory Leak Exploit</div>",
-            "url": "https://github.com/0xKayala/CVE-2023-4966",
-            "title": "0xKayala/CVE-2023-4966: CVE-2023-4966 - NetScaler ADC and NetScaler Gateway Memory Leak Exploit",
-            "date_modified": "2023-10-28T06:02:58.000Z",
-            "date_published": "2023-10-27T11:00:09.000Z",
-            "author": {
-                "name": "0xKayala",
-                "url": "https://github.com/0xKayala"
             }
         }
     ]
