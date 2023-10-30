@@ -6,25 +6,14 @@
     "description": "CVE-2023 FEED on GitHub",
     "items": [
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/79393031?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
-            "url": "https://github.com/mr-xmen786/CVE-2023-46478",
-            "title": "mr-xmen786/CVE-2023-46478",
-            "date_modified": "2023-10-30T11:28:44.000Z",
-            "date_published": "2023-10-30T11:28:43.000Z",
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/139291686?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Joomla Unauthorized Access Vulnerability</div>",
+            "url": "https://github.com/cybernetwiz/CVE-2023-23752",
+            "title": "cybernetwiz/CVE-2023-23752: Joomla Unauthorized Access Vulnerability",
+            "date_modified": "2023-10-30T14:54:57.000Z",
+            "date_published": "2023-10-30T14:54:56.000Z",
             "author": {
-                "name": "mr-xmen786",
-                "url": "https://github.com/mr-xmen786"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/101390984?u=81d97aded600b88f0a0acceff9416449099c8172&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2023-46747 (F5 BIG-IP) RCE</div>",
-            "url": "https://github.com/k0zulzr/CVE-2023-46747-Mass-RCE",
-            "title": "k0zulzr/CVE-2023-46747-Mass-RCE: CVE-2023-46747 (F5 BIG-IP) RCE",
-            "date_modified": "2023-10-30T14:01:31.000Z",
-            "date_published": "2023-10-30T13:25:45.000Z",
-            "author": {
-                "name": "k0zulzr",
-                "url": "https://github.com/k0zulzr"
+                "name": "cybernetwiz",
+                "url": "https://github.com/cybernetwiz"
             }
         },
         {
@@ -39,10 +28,32 @@
             }
         },
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/79393031?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
+            "url": "https://github.com/mr-xmen786/CVE-2023-46478",
+            "title": "mr-xmen786/CVE-2023-46478",
+            "date_modified": "2023-10-30T11:28:44.000Z",
+            "date_published": "2023-10-30T11:28:43.000Z",
+            "author": {
+                "name": "mr-xmen786",
+                "url": "https://github.com/mr-xmen786"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/101390984?u=81d97aded600b88f0a0acceff9416449099c8172&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2023-46747 (F5 BIG-IP) RCE</div>",
+            "url": "https://github.com/k0zulzr/CVE-2023-46747-Mass-RCE",
+            "title": "k0zulzr/CVE-2023-46747-Mass-RCE: CVE-2023-46747 (F5 BIG-IP) RCE",
+            "date_modified": "2023-10-30T14:10:38.000Z",
+            "date_published": "2023-10-30T13:25:45.000Z",
+            "author": {
+                "name": "k0zulzr",
+                "url": "https://github.com/k0zulzr"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/468621?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Cisco IOS XE implant scanning &amp; detection (CVE-2023-20198, CVE-2023-20273)</div>",
             "url": "https://github.com/fox-it/cisco-ios-xe-implant-detection",
             "title": "fox-it/cisco-ios-xe-implant-detection: Cisco IOS XE implant scanning & detection (CVE-2023-20198, CVE-2023-20273)",
-            "date_modified": "2023-10-30T08:18:35.000Z",
+            "date_modified": "2023-10-30T14:55:14.000Z",
             "date_published": "2023-10-23T14:52:18.000Z",
             "author": {
                 "name": "fox-it",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "windecks",
                 "url": "https://github.com/windecks"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/146767590?u=1bd2784395bf6b86899f1c4fd336a965ed4da454&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Tool for testing mitigations and exposure to Rapid Reset DDoS (CVE-2023-44487)</div>",
-            "url": "https://github.com/secengjeff/rapidresetclient",
-            "title": "secengjeff/rapidresetclient: Tool for testing mitigations and exposure to Rapid Reset DDoS (CVE-2023-44487)",
-            "date_modified": "2023-10-29T18:37:21.000Z",
-            "date_published": "2023-10-13T23:55:32.000Z",
-            "author": {
-                "name": "secengjeff",
-                "url": "https://github.com/secengjeff"
             }
         }
     ]
