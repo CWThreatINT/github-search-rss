@@ -17,6 +17,17 @@
             }
         },
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/14126796?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Parse citrix netscaler logs to check for signs of CVE-2023-4966 exploitation</div>",
+            "url": "https://github.com/certat/citrix-logchecker",
+            "title": "certat/citrix-logchecker: Parse citrix netscaler logs to check for signs of CVE-2023-4966 exploitation",
+            "date_modified": "2023-10-30T09:34:35.000Z",
+            "date_published": "2023-10-28T11:44:42.000Z",
+            "author": {
+                "name": "certat",
+                "url": "https://github.com/certat"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/468621?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Cisco IOS XE implant scanning &amp; detection (CVE-2023-20198, CVE-2023-20273)</div>",
             "url": "https://github.com/fox-it/cisco-ios-xe-implant-detection",
             "title": "fox-it/cisco-ios-xe-implant-detection: Cisco IOS XE implant scanning & detection (CVE-2023-20198, CVE-2023-20273)",
@@ -152,7 +163,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/18223385?u=5ba29c1a9447ae88a6a0433f44038f47471e11c1&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>TOP All bugbounty pentesting CVE-2023- POC Exp  RCE example payload  Things</div>",
             "url": "https://github.com/hktalent/TOP",
             "title": "hktalent/TOP: TOP All bugbounty pentesting CVE-2023- POC Exp  RCE example payload  Things",
-            "date_modified": "2023-10-30T07:48:09.000Z",
+            "date_modified": "2023-10-31T20:52:26.000Z",
             "date_published": "2022-03-19T01:54:15.000Z",
             "author": {
                 "name": "hktalent",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "k0zulzr",
                 "url": "https://github.com/k0zulzr"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/14126796?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Parse citrix netscaler logs to check for signs of CVE-2023-4966 exploitation</div>",
-            "url": "https://github.com/certat/citrix-logchecker",
-            "title": "certat/citrix-logchecker: Parse citrix netscaler logs to check for signs of CVE-2023-4966 exploitation",
-            "date_modified": "2023-10-30T09:34:35.000Z",
-            "date_published": "2023-10-28T11:44:42.000Z",
-            "author": {
-                "name": "certat",
-                "url": "https://github.com/certat"
             }
         }
     ]
