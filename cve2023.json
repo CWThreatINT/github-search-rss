@@ -6,17 +6,6 @@
     "description": "CVE-2023 FEED on GitHub",
     "items": [
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/84672001?u=bc3ee517ce272bd60d598c36dcd07b742e2297f8&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
-            "url": "https://github.com/quantiano/cve-2023-47103",
-            "title": "quantiano/cve-2023-47103",
-            "date_modified": "2023-10-31T06:27:11.000Z",
-            "date_published": "2023-10-31T04:03:02.000Z",
-            "author": {
-                "name": "quantiano",
-                "url": "https://github.com/quantiano"
-            }
-        },
-        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/18195825?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023</div>",
             "url": "https://github.com/CVEProject/cvelist",
             "title": "CVEProject/cvelist: Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023",
@@ -25,6 +14,28 @@
             "author": {
                 "name": "CVEProject",
                 "url": "https://github.com/CVEProject"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/468621?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Cisco IOS XE implant scanning &amp; detection (CVE-2023-20198, CVE-2023-20273)</div>",
+            "url": "https://github.com/fox-it/cisco-ios-xe-implant-detection",
+            "title": "fox-it/cisco-ios-xe-implant-detection: Cisco IOS XE implant scanning & detection (CVE-2023-20198, CVE-2023-20273)",
+            "date_modified": "2023-10-30T17:31:54.000Z",
+            "date_published": "2023-10-23T14:52:18.000Z",
+            "author": {
+                "name": "fox-it",
+                "url": "https://github.com/fox-it"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/84672001?u=bc3ee517ce272bd60d598c36dcd07b742e2297f8&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
+            "url": "https://github.com/quantiano/cve-2023-47103",
+            "title": "quantiano/cve-2023-47103",
+            "date_modified": "2023-10-31T06:27:11.000Z",
+            "date_published": "2023-10-31T04:03:02.000Z",
+            "author": {
+                "name": "quantiano",
+                "url": "https://github.com/quantiano"
             }
         },
         {
@@ -113,17 +124,6 @@
             "author": {
                 "name": "AliBrTab",
                 "url": "https://github.com/AliBrTab"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/468621?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Cisco IOS XE implant scanning &amp; detection (CVE-2023-20198, CVE-2023-20273)</div>",
-            "url": "https://github.com/fox-it/cisco-ios-xe-implant-detection",
-            "title": "fox-it/cisco-ios-xe-implant-detection: Cisco IOS XE implant scanning & detection (CVE-2023-20198, CVE-2023-20273)",
-            "date_modified": "2023-10-30T17:31:54.000Z",
-            "date_published": "2023-10-23T14:52:18.000Z",
-            "author": {
-                "name": "fox-it",
-                "url": "https://github.com/fox-it"
             }
         },
         {
