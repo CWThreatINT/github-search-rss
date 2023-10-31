@@ -17,6 +17,28 @@
             }
         },
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/76010792?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2023-22515</div>",
+            "url": "https://github.com/AIex-3/confluence-hack",
+            "title": "AIex-3/confluence-hack: CVE-2023-22515",
+            "date_modified": "2023-10-30T22:16:03.000Z",
+            "date_published": "2023-10-30T00:17:45.000Z",
+            "author": {
+                "name": "AIex-3",
+                "url": "https://github.com/AIex-3"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/51722811?u=a195458fc64bade6e8616d1d5c43883f0abde0c0&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Image horizontal reel scroll slideshow &lt;= 13.2 -  Authenticated (Subscriber+) SQL Injection via Shortcode</div>",
+            "url": "https://github.com/RandomRobbieBF/CVE-2023-5412",
+            "title": "RandomRobbieBF/CVE-2023-5412: Image horizontal reel scroll slideshow <= 13.2 -  Authenticated (Subscriber+) SQL Injection via Shortcode",
+            "date_modified": "2023-10-31T09:26:22.000Z",
+            "date_published": "2023-10-31T09:26:21.000Z",
+            "author": {
+                "name": "RandomRobbieBF",
+                "url": "https://github.com/RandomRobbieBF"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/468621?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Cisco IOS XE implant scanning &amp; detection (CVE-2023-20198, CVE-2023-20273)</div>",
             "url": "https://github.com/fox-it/cisco-ios-xe-implant-detection",
             "title": "fox-it/cisco-ios-xe-implant-detection: Cisco IOS XE implant scanning & detection (CVE-2023-20198, CVE-2023-20273)",
@@ -42,7 +64,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/92352077?u=9e73661e13873d07e4d0bc33f84c119c8ccca7ca&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Improper Authorization Vulnerability in Confluence Data Center and Server</div>",
             "url": "https://github.com/ForceFledgling/CVE-2023-22518",
             "title": "ForceFledgling/CVE-2023-22518: Improper Authorization Vulnerability in Confluence Data Center and Server",
-            "date_modified": "2023-10-31T07:39:52.000Z",
+            "date_modified": "2023-10-31T09:37:15.000Z",
             "date_published": "2023-10-31T05:35:00.000Z",
             "author": {
                 "name": "ForceFledgling",
@@ -201,28 +223,6 @@
             "author": {
                 "name": "r0binak",
                 "url": "https://github.com/r0binak"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/43088607?u=1f6f62e23f0e2868559b8fc902e0916c91d0749a&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Ansible Playbook for CVE-2023-20198</div>",
-            "url": "https://github.com/ditekshen/ansible-cve-2023-20198",
-            "title": "ditekshen/ansible-cve-2023-20198: Ansible Playbook for CVE-2023-20198",
-            "date_modified": "2023-10-19T05:47:54.000Z",
-            "date_published": "2023-10-18T16:49:51.000Z",
-            "author": {
-                "name": "ditekshen",
-                "url": "https://github.com/ditekshen"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/116544941?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2023-27524</div>",
-            "url": "https://github.com/NguyenCongHaiNam/Research-CVE-2023-27524",
-            "title": "NguyenCongHaiNam/Research-CVE-2023-27524: CVE-2023-27524",
-            "date_modified": "2023-10-30T00:27:21.000Z",
-            "date_published": "2023-10-30T00:27:20.000Z",
-            "author": {
-                "name": "NguyenCongHaiNam",
-                "url": "https://github.com/NguyenCongHaiNam"
             }
         }
     ]
