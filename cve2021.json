@@ -6,6 +6,17 @@
     "description": "CVE-2021 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/144465258?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>jetty /CVE-2021-28164/분석 및 결과</div>",
+            "url": "https://github.com/jammy0903/-jettyCVE-2021-28164-",
+            "title": "jammy0903/-jettyCVE-2021-28164-: jetty /CVE-2021-28164/분석 및 결과",
+            "date_modified": "2023-10-31T14:59:30.000Z",
+            "date_published": "2023-10-31T14:59:29.000Z",
+            "author": {
+                "name": "jammy0903",
+                "url": "https://github.com/jammy0903"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/106973537?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
             "url": "https://github.com/nidhi7598/jetty-9.4.31_CVE-2021-28165",
             "title": "nidhi7598/jetty-9.4.31_CVE-2021-28165",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "RubXkuB",
                 "url": "https://github.com/RubXkuB"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/65337905?u=54bead9601451d5c8023d79671bf64c712e388e3&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Python3 POC for CVE-2021-39165 in CachetHQ</div>",
-            "url": "https://github.com/manbolq/CVE-2021-39165",
-            "title": "manbolq/CVE-2021-39165: Python3 POC for CVE-2021-39165 in CachetHQ",
-            "date_modified": "2023-09-20T22:25:16.000Z",
-            "date_published": "2023-09-20T22:19:55.000Z",
-            "author": {
-                "name": "manbolq",
-                "url": "https://github.com/manbolq"
             }
         }
     ]
