@@ -6,17 +6,6 @@
     "description": "CVE-2023 FEED on GitHub",
     "items": [
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/80873500?u=4c3da53f1a4d2eefea25b7399a2d7b2f21c8515d&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2023-42442</div>",
-            "url": "https://github.com/C1ph3rX13/CVE-2023-42442",
-            "title": "C1ph3rX13/CVE-2023-42442: CVE-2023-42442",
-            "date_modified": "2023-10-26T01:42:37.000Z",
-            "date_published": "2023-10-20T08:33:17.000Z",
-            "author": {
-                "name": "C1ph3rX13",
-                "url": "https://github.com/C1ph3rX13"
-            }
-        },
-        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/18195825?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023</div>",
             "url": "https://github.com/CVEProject/cvelist",
             "title": "CVEProject/cvelist: Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023",
@@ -25,6 +14,17 @@
             "author": {
                 "name": "CVEProject",
                 "url": "https://github.com/CVEProject"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/80873500?u=4c3da53f1a4d2eefea25b7399a2d7b2f21c8515d&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2023-42442</div>",
+            "url": "https://github.com/C1ph3rX13/CVE-2023-42442",
+            "title": "C1ph3rX13/CVE-2023-42442: CVE-2023-42442",
+            "date_modified": "2023-10-26T01:42:37.000Z",
+            "date_published": "2023-10-20T08:33:17.000Z",
+            "author": {
+                "name": "C1ph3rX13",
+                "url": "https://github.com/C1ph3rX13"
             }
         },
         {
@@ -86,7 +86,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/149408980?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>F5 BIG-IP unauthenticated remote code execution (RCE) and authentication bypass vulnerability!</div>",
             "url": "https://github.com/AliBrTab/CVE-2023-46747-POC",
             "title": "AliBrTab/CVE-2023-46747-POC: F5 BIG-IP unauthenticated remote code execution (RCE) and authentication bypass vulnerability!",
-            "date_modified": "2023-10-30T16:00:27.000Z",
+            "date_modified": "2023-10-31T03:57:47.000Z",
             "date_published": "2023-10-30T15:50:46.000Z",
             "author": {
                 "name": "AliBrTab",
