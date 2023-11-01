@@ -17,6 +17,28 @@
             }
         },
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/79870826?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
+            "url": "https://github.com/soy-oreocato/CVE-2023-46998",
+            "title": "soy-oreocato/CVE-2023-46998",
+            "date_modified": "2023-11-01T19:36:38.000Z",
+            "date_published": "2023-11-01T19:36:38.000Z",
+            "author": {
+                "name": "soy-oreocato",
+                "url": "https://github.com/soy-oreocato"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/59065125?u=4616a18903a605281c9552b32e897337ae7ce689&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Exploit Title:  WordPress Plugin Admin Bar &amp; Dashboard Access Control Version: 1.2.8 - \"Dashboard Redirect\" field  Stored Cross-Site Scripting (XSS)</div>",
+            "url": "https://github.com/rach1tarora/CVE-2023-47184",
+            "title": "rach1tarora/CVE-2023-47184: Exploit Title:  WordPress Plugin Admin Bar & Dashboard Access Control Version: 1.2.8 - \"Dashboard Redirect\" field  Stored Cross-Site Scripting (XSS)",
+            "date_modified": "2023-11-01T19:19:36.000Z",
+            "date_published": "2023-11-01T19:19:36.000Z",
+            "author": {
+                "name": "rach1tarora",
+                "url": "https://github.com/rach1tarora"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/92050069?u=c2203b8a43a88d599e26639f0f16e53174efb2be&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Reflected Cross Site Scripting (XSS) in Intermesh BV Group-Office version 6.6.145, allows attackers to gain escalated privileges and gain sensitive information via the GO_LANGUAGE cookie</div>",
             "url": "https://github.com/brainkok/CVE-2023-25292",
             "title": "brainkok/CVE-2023-25292: Reflected Cross Site Scripting (XSS) in Intermesh BV Group-Office version 6.6.145, allows attackers to gain escalated privileges and gain sensitive information via the GO_LANGUAGE cookie",
@@ -86,7 +108,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/101872898?u=ff91a9355029d7341ab430bfc2802eb4d72f92d7&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>exploit for cve-2023-46747</div>",
             "url": "https://github.com/W01fh4cker/CVE-2023-46747-RCE",
             "title": "W01fh4cker/CVE-2023-46747-RCE: exploit for cve-2023-46747",
-            "date_modified": "2023-11-01T16:59:01.000Z",
+            "date_modified": "2023-11-01T20:00:21.000Z",
             "date_published": "2023-11-01T09:31:05.000Z",
             "author": {
                 "name": "W01fh4cker",
@@ -201,28 +223,6 @@
             "author": {
                 "name": "C1ph3rX13",
                 "url": "https://github.com/C1ph3rX13"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/135759201?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
-            "url": "https://github.com/codeb0ss/CVE-2023-5843-PoC",
-            "title": "codeb0ss/CVE-2023-5843-PoC",
-            "date_modified": "2023-10-31T02:13:06.000Z",
-            "date_published": "2023-10-31T02:13:06.000Z",
-            "author": {
-                "name": "codeb0ss",
-                "url": "https://github.com/codeb0ss"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/79263622?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Remediate CVE_2023_20198 on Cisco IOS-XE devices.</div>",
-            "url": "https://github.com/alekos3/CVE_2023_20198_Remediator",
-            "title": "alekos3/CVE_2023_20198_Remediator: Remediate CVE_2023_20198 on Cisco IOS-XE devices.",
-            "date_modified": "2023-10-18T18:05:52.000Z",
-            "date_published": "2023-10-18T17:45:59.000Z",
-            "author": {
-                "name": "alekos3",
-                "url": "https://github.com/alekos3"
             }
         }
     ]
