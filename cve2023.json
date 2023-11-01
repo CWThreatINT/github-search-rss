@@ -6,6 +6,17 @@
     "description": "CVE-2023 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/76843512?u=7e698319ee90fec27da6c78b1118f3b897e490c2&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>SideCopy APT Group exploits CVE-2023-38831</div>",
+            "url": "https://github.com/seyit-sigirci/SideCopy-Exploits-CVE-2023-38831",
+            "title": "seyit-sigirci/SideCopy-Exploits-CVE-2023-38831: SideCopy APT Group exploits CVE-2023-38831",
+            "date_modified": "2023-11-01T08:57:16.000Z",
+            "date_published": "2023-11-01T08:57:15.000Z",
+            "author": {
+                "name": "seyit-sigirci",
+                "url": "https://github.com/seyit-sigirci"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/18195825?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023</div>",
             "url": "https://github.com/CVEProject/cvelist",
             "title": "CVEProject/cvelist: Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "0xInfection",
                 "url": "https://github.com/0xInfection"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/80983900?u=80252898be77f64fffd78bd3c9dc7acf65c32b3b&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>PoC CVE-2023-5044</div>",
-            "url": "https://github.com/r0binak/CVE-2023-5044",
-            "title": "r0binak/CVE-2023-5044: PoC CVE-2023-5044",
-            "date_modified": "2023-11-01T00:41:31.000Z",
-            "date_published": "2023-10-30T07:59:11.000Z",
-            "author": {
-                "name": "r0binak",
-                "url": "https://github.com/r0binak"
             }
         }
     ]
