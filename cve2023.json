@@ -61,17 +61,6 @@
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/102574296?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
-            "url": "https://github.com/Trinadh465/jetty_9.4.31_CVE-2023-26049",
-            "title": "Trinadh465/jetty_9.4.31_CVE-2023-26049",
-            "date_modified": "2023-10-31T10:55:11.000Z",
-            "date_published": "2023-10-31T10:53:27.000Z",
-            "author": {
-                "name": "Trinadh465",
-                "url": "https://github.com/Trinadh465"
-            }
-        },
-        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/76010792?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2023-22515</div>",
             "url": "https://github.com/AIex-3/confluence-hack",
             "title": "AIex-3/confluence-hack: CVE-2023-22515",
@@ -223,6 +212,17 @@
             "author": {
                 "name": "0xInfection",
                 "url": "https://github.com/0xInfection"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/80983900?u=80252898be77f64fffd78bd3c9dc7acf65c32b3b&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>PoC CVE-2023-5044</div>",
+            "url": "https://github.com/r0binak/CVE-2023-5044",
+            "title": "r0binak/CVE-2023-5044: PoC CVE-2023-5044",
+            "date_modified": "2023-11-01T00:41:31.000Z",
+            "date_published": "2023-10-30T07:59:11.000Z",
+            "author": {
+                "name": "r0binak",
+                "url": "https://github.com/r0binak"
             }
         }
     ]
