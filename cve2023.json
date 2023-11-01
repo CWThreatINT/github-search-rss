@@ -6,6 +6,28 @@
     "description": "CVE-2023 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/18195825?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023</div>",
+            "url": "https://github.com/CVEProject/cvelist",
+            "title": "CVEProject/cvelist: Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023",
+            "date_modified": "2023-11-01T07:30:39.000Z",
+            "date_published": "2020-11-02T19:30:55.000Z",
+            "author": {
+                "name": "CVEProject",
+                "url": "https://github.com/CVEProject"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/34998869?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2023-46747 Criticle Auth Bypass</div>",
+            "url": "https://github.com/fu2x2000/CVE-2023-46747",
+            "title": "fu2x2000/CVE-2023-46747: CVE-2023-46747 Criticle Auth Bypass",
+            "date_modified": "2023-11-01T13:17:31.000Z",
+            "date_published": "2023-11-01T13:16:13.000Z",
+            "author": {
+                "name": "fu2x2000",
+                "url": "https://github.com/fu2x2000"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/102574296?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
             "url": "https://github.com/Trinadh465/jetty_9.4.31_CVE-2023-26048",
             "title": "Trinadh465/jetty_9.4.31_CVE-2023-26048",
@@ -31,22 +53,11 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/101872898?u=ff91a9355029d7341ab430bfc2802eb4d72f92d7&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>exploit for cve-2023-46747</div>",
             "url": "https://github.com/W01fh4cker/CVE-2023-46747-RCE",
             "title": "W01fh4cker/CVE-2023-46747-RCE: exploit for cve-2023-46747",
-            "date_modified": "2023-11-01T12:59:50.000Z",
+            "date_modified": "2023-11-01T14:00:23.000Z",
             "date_published": "2023-11-01T09:31:05.000Z",
             "author": {
                 "name": "W01fh4cker",
                 "url": "https://github.com/W01fh4cker"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/18195825?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023</div>",
-            "url": "https://github.com/CVEProject/cvelist",
-            "title": "CVEProject/cvelist: Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023",
-            "date_modified": "2023-11-01T07:30:39.000Z",
-            "date_published": "2020-11-02T19:30:55.000Z",
-            "author": {
-                "name": "CVEProject",
-                "url": "https://github.com/CVEProject"
             }
         },
         {
@@ -212,17 +223,6 @@
             "author": {
                 "name": "AliBrTab",
                 "url": "https://github.com/AliBrTab"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/139291686?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Joomla Unauthorized Access Vulnerability</div>",
-            "url": "https://github.com/cybernetwiz/CVE-2023-23752",
-            "title": "cybernetwiz/CVE-2023-23752: Joomla Unauthorized Access Vulnerability",
-            "date_modified": "2023-10-30T14:54:57.000Z",
-            "date_published": "2023-10-30T14:54:56.000Z",
-            "author": {
-                "name": "cybernetwiz",
-                "url": "https://github.com/cybernetwiz"
             }
         }
     ]
