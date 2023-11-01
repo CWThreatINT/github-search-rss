@@ -61,17 +61,6 @@
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/23011166?u=28e1ba9514924db4b6ff058e9979eb1ac8a6dee9&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Improper Authorization Vulnerability in Confluence Data Center and Server</div>",
-            "url": "https://github.com/tonghuaroot/CVE-2023-22518",
-            "title": "tonghuaroot/CVE-2023-22518: Improper Authorization Vulnerability in Confluence Data Center and Server",
-            "date_modified": "2023-11-01T01:47:16.000Z",
-            "date_published": "2023-10-31T12:30:42.000Z",
-            "author": {
-                "name": "tonghuaroot",
-                "url": "https://github.com/tonghuaroot"
-            }
-        },
-        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/102574296?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
             "url": "https://github.com/Trinadh465/jetty_9.4.31_CVE-2023-26049",
             "title": "Trinadh465/jetty_9.4.31_CVE-2023-26049",
@@ -223,6 +212,17 @@
             "author": {
                 "name": "k0zulzr",
                 "url": "https://github.com/k0zulzr"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/39941993?u=c467c7495787b1e881c8eab5642b7a6bff385afd&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Exploit for elevation of privilege vulnerability in QuickHeal's Seqrite EPS (CVE-2023-31497).</div>",
+            "url": "https://github.com/0xInfection/EPScalate",
+            "title": "0xInfection/EPScalate: Exploit for elevation of privilege vulnerability in QuickHeal's Seqrite EPS (CVE-2023-31497).",
+            "date_modified": "2023-08-20T05:27:08.000Z",
+            "date_published": "2023-04-09T05:26:40.000Z",
+            "author": {
+                "name": "0xInfection",
+                "url": "https://github.com/0xInfection"
             }
         }
     ]
