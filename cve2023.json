@@ -6,6 +6,28 @@
     "description": "CVE-2023 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/88535377?u=8282f1d8139691249d08a567a0a9ec513541ab09&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Exploit for the unauthenticated file upload vulnerability in WordPress's Royal Elementor Addons and Templates plugin (&lt; 1.3.79). CVE-ID: CVE-2023-5360.</div>",
+            "url": "https://github.com/Chocapikk/CVE-2023-5360",
+            "title": "Chocapikk/CVE-2023-5360: Exploit for the unauthenticated file upload vulnerability in WordPress's Royal Elementor Addons and Templates plugin (< 1.3.79). CVE-ID: CVE-2023-5360.",
+            "date_modified": "2023-11-02T03:22:58.000Z",
+            "date_published": "2023-11-02T03:15:44.000Z",
+            "author": {
+                "name": "Chocapikk",
+                "url": "https://github.com/Chocapikk"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/28532286?u=31b13b135027b4829ad2b7f6135cdf1745be118f&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>ActiveMQ RCE (CVE-2023-46604) 漏洞利用工具, 基于 Go 语言</div>",
+            "url": "https://github.com/X1r0z/ActiveMQ-RCE",
+            "title": "X1r0z/ActiveMQ-RCE: ActiveMQ RCE (CVE-2023-46604) 漏洞利用工具, 基于 Go 语言",
+            "date_modified": "2023-11-02T03:08:43.000Z",
+            "date_published": "2023-10-27T05:57:21.000Z",
+            "author": {
+                "name": "X1r0z",
+                "url": "https://github.com/X1r0z"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/18195825?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023</div>",
             "url": "https://github.com/CVEProject/cvelist",
             "title": "CVEProject/cvelist: Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023",
@@ -119,7 +141,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/101872898?u=ff91a9355029d7341ab430bfc2802eb4d72f92d7&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>exploit for cve-2023-46747</div>",
             "url": "https://github.com/W01fh4cker/CVE-2023-46747-RCE",
             "title": "W01fh4cker/CVE-2023-46747-RCE: exploit for cve-2023-46747",
-            "date_modified": "2023-11-02T02:57:45.000Z",
+            "date_modified": "2023-11-02T03:53:09.000Z",
             "date_published": "2023-11-01T09:31:05.000Z",
             "author": {
                 "name": "W01fh4cker",
@@ -201,28 +223,6 @@
             "author": {
                 "name": "quantiano",
                 "url": "https://github.com/quantiano"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/92352077?u=9e73661e13873d07e4d0bc33f84c119c8ccca7ca&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Improper Authorization Vulnerability in Confluence Data Center and Server</div>",
-            "url": "https://github.com/ForceFledgling/CVE-2023-22518",
-            "title": "ForceFledgling/CVE-2023-22518: Improper Authorization Vulnerability in Confluence Data Center and Server",
-            "date_modified": "2023-11-02T02:18:37.000Z",
-            "date_published": "2023-10-31T05:35:00.000Z",
-            "author": {
-                "name": "ForceFledgling",
-                "url": "https://github.com/ForceFledgling"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/80873500?u=4c3da53f1a4d2eefea25b7399a2d7b2f21c8515d&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2023-42442</div>",
-            "url": "https://github.com/C1ph3rX13/CVE-2023-42442",
-            "title": "C1ph3rX13/CVE-2023-42442: CVE-2023-42442",
-            "date_modified": "2023-10-26T01:42:37.000Z",
-            "date_published": "2023-10-20T08:33:17.000Z",
-            "author": {
-                "name": "C1ph3rX13",
-                "url": "https://github.com/C1ph3rX13"
             }
         }
     ]
