@@ -6,14 +6,14 @@
     "description": "CVE-2023 FEED on GitHub",
     "items": [
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/92352077?u=9e73661e13873d07e4d0bc33f84c119c8ccca7ca&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Improper Authorization Vulnerability in Confluence Data Center and Server</div>",
-            "url": "https://github.com/ForceFledgling/CVE-2023-22518",
-            "title": "ForceFledgling/CVE-2023-22518: Improper Authorization Vulnerability in Confluence Data Center and Server",
-            "date_modified": "2023-11-02T19:33:58.000Z",
-            "date_published": "2023-10-31T05:35:00.000Z",
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/128548437?u=1945de542ce7a8b35329c25b78901eb2cb317ff6&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>custom nuclei  templates 2023 </div>",
+            "url": "https://github.com/zerbaliy3v/cusom-nuclei-templates",
+            "title": "zerbaliy3v/cusom-nuclei-templates: custom nuclei  templates 2023 ",
+            "date_modified": "2023-10-06T19:56:42.000Z",
+            "date_published": "2023-07-31T20:30:07.000Z",
             "author": {
-                "name": "ForceFledgling",
-                "url": "https://github.com/ForceFledgling"
+                "name": "zerbaliy3v",
+                "url": "https://github.com/zerbaliy3v"
             }
         },
         {
@@ -25,6 +25,17 @@
             "author": {
                 "name": "CVEProject",
                 "url": "https://github.com/CVEProject"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/92352077?u=9e73661e13873d07e4d0bc33f84c119c8ccca7ca&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Improper Authorization Vulnerability in Confluence Data Center and Server</div>",
+            "url": "https://github.com/ForceFledgling/CVE-2023-22518",
+            "title": "ForceFledgling/CVE-2023-22518: Improper Authorization Vulnerability in Confluence Data Center and Server",
+            "date_modified": "2023-11-02T19:33:58.000Z",
+            "date_published": "2023-10-31T05:35:00.000Z",
+            "author": {
+                "name": "ForceFledgling",
+                "url": "https://github.com/ForceFledgling"
             }
         },
         {
@@ -119,7 +130,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/101872898?u=ff91a9355029d7341ab430bfc2802eb4d72f92d7&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>exploit for cve-2023-46747</div>",
             "url": "https://github.com/W01fh4cker/CVE-2023-46747-RCE",
             "title": "W01fh4cker/CVE-2023-46747-RCE: exploit for cve-2023-46747",
-            "date_modified": "2023-11-02T18:59:41.000Z",
+            "date_modified": "2023-11-02T21:35:18.000Z",
             "date_published": "2023-11-01T09:31:05.000Z",
             "author": {
                 "name": "W01fh4cker",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "y4v4z",
                 "url": "https://github.com/y4v4z"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/34998869?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2023-46747 Criticle Auth Bypass</div>",
-            "url": "https://github.com/fu2x2000/CVE-2023-46747",
-            "title": "fu2x2000/CVE-2023-46747: CVE-2023-46747 Criticle Auth Bypass",
-            "date_modified": "2023-11-01T13:17:31.000Z",
-            "date_published": "2023-11-01T13:16:13.000Z",
-            "author": {
-                "name": "fu2x2000",
-                "url": "https://github.com/fu2x2000"
             }
         }
     ]
