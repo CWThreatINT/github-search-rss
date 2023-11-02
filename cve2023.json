@@ -6,17 +6,6 @@
     "description": "CVE-2023 FEED on GitHub",
     "items": [
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/128548437?u=1945de542ce7a8b35329c25b78901eb2cb317ff6&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>custom nuclei  templates 2023 </div>",
-            "url": "https://github.com/zerbaliy3v/cusom-nuclei-templates",
-            "title": "zerbaliy3v/cusom-nuclei-templates: custom nuclei  templates 2023 ",
-            "date_modified": "2023-10-06T19:56:42.000Z",
-            "date_published": "2023-07-31T20:30:07.000Z",
-            "author": {
-                "name": "zerbaliy3v",
-                "url": "https://github.com/zerbaliy3v"
-            }
-        },
-        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/18195825?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023</div>",
             "url": "https://github.com/CVEProject/cvelist",
             "title": "CVEProject/cvelist: Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023",
@@ -25,6 +14,17 @@
             "author": {
                 "name": "CVEProject",
                 "url": "https://github.com/CVEProject"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/85337431?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Checker for CVE-2023-22518 vulnerability on Confluence</div>",
+            "url": "https://github.com/davidfortytwo/CVE-2023-22518",
+            "title": "davidfortytwo/CVE-2023-22518: Checker for CVE-2023-22518 vulnerability on Confluence",
+            "date_modified": "2023-11-02T22:53:37.000Z",
+            "date_published": "2023-11-02T22:52:15.000Z",
+            "author": {
+                "name": "davidfortytwo",
+                "url": "https://github.com/davidfortytwo"
             }
         },
         {
