@@ -17,6 +17,17 @@
             }
         },
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/14126796?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Parse citrix netscaler logs to check for signs of CVE-2023-4966 exploitation</div>",
+            "url": "https://github.com/certat/citrix-logchecker",
+            "title": "certat/citrix-logchecker: Parse citrix netscaler logs to check for signs of CVE-2023-4966 exploitation",
+            "date_modified": "2023-11-01T10:58:13.000Z",
+            "date_published": "2023-10-28T11:44:42.000Z",
+            "author": {
+                "name": "certat",
+                "url": "https://github.com/certat"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/42498816?u=08c4092e757fc2588b734e8e09e355493e9126e9&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>MS Office and Windows HTML RCE (CVE-2023-36884) - PoC and exploit</div>",
             "url": "https://github.com/jakabakos/CVE-2023-36884-MS-Office-HTML-RCE",
             "title": "jakabakos/CVE-2023-36884-MS-Office-HTML-RCE: MS Office and Windows HTML RCE (CVE-2023-36884) - PoC and exploit",
@@ -31,7 +42,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/101872898?u=ff91a9355029d7341ab430bfc2802eb4d72f92d7&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>exploit for cve-2023-46747</div>",
             "url": "https://github.com/W01fh4cker/CVE-2023-46747-RCE",
             "title": "W01fh4cker/CVE-2023-46747-RCE: exploit for cve-2023-46747",
-            "date_modified": "2023-11-02T10:42:41.000Z",
+            "date_modified": "2023-11-02T11:20:15.000Z",
             "date_published": "2023-11-01T09:31:05.000Z",
             "author": {
                 "name": "W01fh4cker",
@@ -53,7 +64,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/28532286?u=31b13b135027b4829ad2b7f6135cdf1745be118f&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>ActiveMQ RCE (CVE-2023-46604) 漏洞利用工具, 基于 Go 语言</div>",
             "url": "https://github.com/X1r0z/ActiveMQ-RCE",
             "title": "X1r0z/ActiveMQ-RCE: ActiveMQ RCE (CVE-2023-46604) 漏洞利用工具, 基于 Go 语言",
-            "date_modified": "2023-11-02T10:42:06.000Z",
+            "date_modified": "2023-11-02T11:44:04.000Z",
             "date_published": "2023-10-27T05:57:21.000Z",
             "author": {
                 "name": "X1r0z",
@@ -168,17 +179,6 @@
             "author": {
                 "name": "seyit-sigirci",
                 "url": "https://github.com/seyit-sigirci"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/14126796?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Parse citrix netscaler logs to check for signs of CVE-2023-4966 exploitation</div>",
-            "url": "https://github.com/certat/citrix-logchecker",
-            "title": "certat/citrix-logchecker: Parse citrix netscaler logs to check for signs of CVE-2023-4966 exploitation",
-            "date_modified": "2023-11-01T10:58:13.000Z",
-            "date_published": "2023-10-28T11:44:42.000Z",
-            "author": {
-                "name": "certat",
-                "url": "https://github.com/certat"
             }
         },
         {
