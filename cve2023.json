@@ -17,6 +17,17 @@
             }
         },
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/44781280?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
+            "url": "https://github.com/jakedmurphy1/CVE-2023-46954",
+            "title": "jakedmurphy1/CVE-2023-46954",
+            "date_modified": "2023-11-02T13:09:52.000Z",
+            "date_published": "2023-11-02T13:09:52.000Z",
+            "author": {
+                "name": "jakedmurphy1",
+                "url": "https://github.com/jakedmurphy1"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/14126796?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Parse citrix netscaler logs to check for signs of CVE-2023-4966 exploitation</div>",
             "url": "https://github.com/certat/citrix-logchecker",
             "title": "certat/citrix-logchecker: Parse citrix netscaler logs to check for signs of CVE-2023-4966 exploitation",
@@ -42,7 +53,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/101872898?u=ff91a9355029d7341ab430bfc2802eb4d72f92d7&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>exploit for cve-2023-46747</div>",
             "url": "https://github.com/W01fh4cker/CVE-2023-46747-RCE",
             "title": "W01fh4cker/CVE-2023-46747-RCE: exploit for cve-2023-46747",
-            "date_modified": "2023-11-02T12:51:13.000Z",
+            "date_modified": "2023-11-02T13:37:04.000Z",
             "date_published": "2023-11-01T09:31:05.000Z",
             "author": {
                 "name": "W01fh4cker",
@@ -207,22 +218,11 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/76010792?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2023-22515</div>",
             "url": "https://github.com/AIex-3/confluence-hack",
             "title": "AIex-3/confluence-hack: CVE-2023-22515",
-            "date_modified": "2023-11-02T08:36:11.000Z",
+            "date_modified": "2023-11-02T13:35:23.000Z",
             "date_published": "2023-10-30T00:17:45.000Z",
             "author": {
                 "name": "AIex-3",
                 "url": "https://github.com/AIex-3"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/51722811?u=a195458fc64bade6e8616d1d5c43883f0abde0c0&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Image horizontal reel scroll slideshow &lt;= 13.2 -  Authenticated (Subscriber+) SQL Injection via Shortcode</div>",
-            "url": "https://github.com/RandomRobbieBF/CVE-2023-5412",
-            "title": "RandomRobbieBF/CVE-2023-5412: Image horizontal reel scroll slideshow <= 13.2 -  Authenticated (Subscriber+) SQL Injection via Shortcode",
-            "date_modified": "2023-11-02T13:05:20.000Z",
-            "date_published": "2023-10-31T09:26:21.000Z",
-            "author": {
-                "name": "RandomRobbieBF",
-                "url": "https://github.com/RandomRobbieBF"
             }
         }
     ]
