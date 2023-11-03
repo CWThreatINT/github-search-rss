@@ -17,6 +17,17 @@
             }
         },
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/143382993?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
+            "url": "https://github.com/fdevsectest/CVE-2023-4966",
+            "title": "fdevsectest/CVE-2023-4966",
+            "date_modified": "2023-11-03T05:59:27.000Z",
+            "date_published": "2023-11-03T05:59:14.000Z",
+            "author": {
+                "name": "fdevsectest",
+                "url": "https://github.com/fdevsectest"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/139291686?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Joomla Unauthorized Access Vulnerability</div>",
             "url": "https://github.com/cybernetwiz/CVE-2023-23752",
             "title": "cybernetwiz/CVE-2023-23752: Joomla Unauthorized Access Vulnerability",
@@ -75,7 +86,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/92352077?u=9e73661e13873d07e4d0bc33f84c119c8ccca7ca&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Improper Authorization Vulnerability in Confluence Data Center and Server</div>",
             "url": "https://github.com/ForceFledgling/CVE-2023-22518",
             "title": "ForceFledgling/CVE-2023-22518: Improper Authorization Vulnerability in Confluence Data Center and Server",
-            "date_modified": "2023-11-03T02:24:37.000Z",
+            "date_modified": "2023-11-03T05:26:14.000Z",
             "date_published": "2023-10-31T05:35:00.000Z",
             "author": {
                 "name": "ForceFledgling",
@@ -174,7 +185,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/101872898?u=ff91a9355029d7341ab430bfc2802eb4d72f92d7&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>exploit for cve-2023-46747</div>",
             "url": "https://github.com/W01fh4cker/CVE-2023-46747-RCE",
             "title": "W01fh4cker/CVE-2023-46747-RCE: exploit for cve-2023-46747",
-            "date_modified": "2023-11-03T04:54:18.000Z",
+            "date_modified": "2023-11-03T06:02:58.000Z",
             "date_published": "2023-11-01T09:31:05.000Z",
             "author": {
                 "name": "W01fh4cker",
@@ -196,7 +207,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/28532286?u=31b13b135027b4829ad2b7f6135cdf1745be118f&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>ActiveMQ RCE (CVE-2023-46604) 漏洞利用工具, 基于 Go 语言</div>",
             "url": "https://github.com/X1r0z/ActiveMQ-RCE",
             "title": "X1r0z/ActiveMQ-RCE: ActiveMQ RCE (CVE-2023-46604) 漏洞利用工具, 基于 Go 语言",
-            "date_modified": "2023-11-03T03:40:29.000Z",
+            "date_modified": "2023-11-03T05:57:34.000Z",
             "date_published": "2023-10-27T05:57:21.000Z",
             "author": {
                 "name": "X1r0z",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "soy-oreocato",
                 "url": "https://github.com/soy-oreocato"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/59065125?u=4616a18903a605281c9552b32e897337ae7ce689&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Exploit Title:  WordPress Plugin Admin Bar &amp; Dashboard Access Control Version: 1.2.8 - \"Dashboard Redirect\" field  Stored Cross-Site Scripting (XSS)</div>",
-            "url": "https://github.com/rach1tarora/CVE-2023-47184",
-            "title": "rach1tarora/CVE-2023-47184: Exploit Title:  WordPress Plugin Admin Bar & Dashboard Access Control Version: 1.2.8 - \"Dashboard Redirect\" field  Stored Cross-Site Scripting (XSS)",
-            "date_modified": "2023-11-02T05:40:01.000Z",
-            "date_published": "2023-11-01T19:19:36.000Z",
-            "author": {
-                "name": "rach1tarora",
-                "url": "https://github.com/rach1tarora"
             }
         }
     ]
