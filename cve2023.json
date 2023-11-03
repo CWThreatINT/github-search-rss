@@ -17,6 +17,17 @@
             }
         },
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/139291686?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Joomla Unauthorized Access Vulnerability</div>",
+            "url": "https://github.com/cybernetwiz/CVE-2023-23752",
+            "title": "cybernetwiz/CVE-2023-23752: Joomla Unauthorized Access Vulnerability",
+            "date_modified": "2023-10-30T14:54:57.000Z",
+            "date_published": "2023-10-30T14:54:56.000Z",
+            "author": {
+                "name": "cybernetwiz",
+                "url": "https://github.com/cybernetwiz"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/59664965?u=af474d734c7e906c2984623e75c6d306dcc87c5c&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Python 2.7</div>",
             "url": "https://github.com/Jenderal92/WP-CVE-2023-28121",
             "title": "Jenderal92/WP-CVE-2023-28121: Python 2.7",
@@ -163,7 +174,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/101872898?u=ff91a9355029d7341ab430bfc2802eb4d72f92d7&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>exploit for cve-2023-46747</div>",
             "url": "https://github.com/W01fh4cker/CVE-2023-46747-RCE",
             "title": "W01fh4cker/CVE-2023-46747-RCE: exploit for cve-2023-46747",
-            "date_modified": "2023-11-03T03:52:48.000Z",
+            "date_modified": "2023-11-03T04:54:18.000Z",
             "date_published": "2023-11-01T09:31:05.000Z",
             "author": {
                 "name": "W01fh4cker",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "rach1tarora",
                 "url": "https://github.com/rach1tarora"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/92050069?u=c2203b8a43a88d599e26639f0f16e53174efb2be&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Reflected Cross Site Scripting (XSS) in Intermesh BV Group-Office version 6.6.145, allows attackers to gain escalated privileges and gain sensitive information via the GO_LANGUAGE cookie</div>",
-            "url": "https://github.com/brainkok/CVE-2023-25292",
-            "title": "brainkok/CVE-2023-25292: Reflected Cross Site Scripting (XSS) in Intermesh BV Group-Office version 6.6.145, allows attackers to gain escalated privileges and gain sensitive information via the GO_LANGUAGE cookie",
-            "date_modified": "2023-04-25T19:27:54.000Z",
-            "date_published": "2023-04-25T19:27:53.000Z",
-            "author": {
-                "name": "brainkok",
-                "url": "https://github.com/brainkok"
             }
         }
     ]
