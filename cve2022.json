@@ -6,6 +6,17 @@
     "description": "CVE-2022 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/93882101?u=dad2e4600321bee5b739caaa4889aff2752c445d&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
+            "url": "https://github.com/AlexanderZinoni/CVE-2022-21449",
+            "title": "AlexanderZinoni/CVE-2022-21449",
+            "date_modified": "2023-11-03T15:22:18.000Z",
+            "date_published": "2022-09-04T11:56:58.000Z",
+            "author": {
+                "name": "AlexanderZinoni",
+                "url": "https://github.com/AlexanderZinoni"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/88584206?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Turning Your Computer Into a GPS Tracker With Apple Maps</div>",
             "url": "https://github.com/breakpointHQ/CVE-2022-32883",
             "title": "breakpointHQ/CVE-2022-32883: Turning Your Computer Into a GPS Tracker With Apple Maps",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "0range1337",
                 "url": "https://github.com/0range1337"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/12976017?u=6d3d423fda6a56643a0ca1acae5223cdf08a3c28&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>User can execute unsigned binaries with BootROM privileges, which can be used to unlock bootloader</div>",
-            "url": "https://github.com/TomKing062/CVE-2022-38694_unlock_bootloader",
-            "title": "TomKing062/CVE-2022-38694_unlock_bootloader: User can execute unsigned binaries with BootROM privileges, which can be used to unlock bootloader",
-            "date_modified": "2023-10-28T05:09:56.000Z",
-            "date_published": "2023-06-10T08:31:26.000Z",
-            "author": {
-                "name": "TomKing062",
-                "url": "https://github.com/TomKing062"
             }
         }
     ]
