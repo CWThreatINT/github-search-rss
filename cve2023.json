@@ -6,6 +6,17 @@
     "description": "CVE-2023 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/127576267?u=414363e946c5505150fb492d168e227ec6bd3fcf&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>This is an exploit file which is used to check CVE-2021-21716 vulnerability</div>",
+            "url": "https://github.com/MojithaR/CVE-2023-21716-EXPLOIT.py",
+            "title": "MojithaR/CVE-2023-21716-EXPLOIT.py: This is an exploit file which is used to check CVE-2021-21716 vulnerability",
+            "date_modified": "2023-11-04T08:52:03.000Z",
+            "date_published": "2023-11-04T08:49:14.000Z",
+            "author": {
+                "name": "MojithaR",
+                "url": "https://github.com/MojithaR"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/18195825?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023</div>",
             "url": "https://github.com/CVEProject/cvelist",
             "title": "CVEProject/cvelist: Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "Jenderal92",
                 "url": "https://github.com/Jenderal92"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/85337431?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Checker for CVE-2023-22518 vulnerability on Confluence</div>",
-            "url": "https://github.com/davidfortytwo/CVE-2023-22518",
-            "title": "davidfortytwo/CVE-2023-22518: Checker for CVE-2023-22518 vulnerability on Confluence",
-            "date_modified": "2023-11-02T22:53:37.000Z",
-            "date_published": "2023-11-02T22:52:15.000Z",
-            "author": {
-                "name": "davidfortytwo",
-                "url": "https://github.com/davidfortytwo"
             }
         }
     ]
