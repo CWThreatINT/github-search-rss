@@ -6,17 +6,6 @@
     "description": "CVE-2023 FEED on GitHub",
     "items": [
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/127576267?u=414363e946c5505150fb492d168e227ec6bd3fcf&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>This is an exploit file which is used to check CVE-2021-21716 vulnerability</div>",
-            "url": "https://github.com/MojithaR/CVE-2023-21716-EXPLOIT.py",
-            "title": "MojithaR/CVE-2023-21716-EXPLOIT.py: This is an exploit file which is used to check CVE-2021-21716 vulnerability",
-            "date_modified": "2023-11-04T15:15:13.000Z",
-            "date_published": "2023-11-04T08:49:14.000Z",
-            "author": {
-                "name": "MojithaR",
-                "url": "https://github.com/MojithaR"
-            }
-        },
-        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/18195825?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023</div>",
             "url": "https://github.com/CVEProject/cvelist",
             "title": "CVEProject/cvelist: Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023",
@@ -25,6 +14,28 @@
             "author": {
                 "name": "CVEProject",
                 "url": "https://github.com/CVEProject"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/78701239?u=9e68d2365d0c26e3994dc3e04864bc97ccb91348&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2023-42470</div>",
+            "url": "https://github.com/actuator/imou",
+            "title": "actuator/imou: CVE-2023-42470",
+            "date_modified": "2023-11-03T22:08:34.000Z",
+            "date_published": "2023-08-17T02:12:24.000Z",
+            "author": {
+                "name": "actuator",
+                "url": "https://github.com/actuator"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/127576267?u=414363e946c5505150fb492d168e227ec6bd3fcf&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>This is an exploit file which is used to check CVE-2021-21716 vulnerability</div>",
+            "url": "https://github.com/MojithaR/CVE-2023-21716-EXPLOIT.py",
+            "title": "MojithaR/CVE-2023-21716-EXPLOIT.py: This is an exploit file which is used to check CVE-2021-21716 vulnerability",
+            "date_modified": "2023-11-04T15:15:13.000Z",
+            "date_published": "2023-11-04T08:49:14.000Z",
+            "author": {
+                "name": "MojithaR",
+                "url": "https://github.com/MojithaR"
             }
         },
         {
@@ -212,17 +223,6 @@
             "author": {
                 "name": "fdevsectest",
                 "url": "https://github.com/fdevsectest"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/59664965?u=af474d734c7e906c2984623e75c6d306dcc87c5c&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Python 2.7</div>",
-            "url": "https://github.com/Jenderal92/WP-CVE-2023-28121",
-            "title": "Jenderal92/WP-CVE-2023-28121: Python 2.7",
-            "date_modified": "2023-11-03T01:21:19.000Z",
-            "date_published": "2023-11-03T01:19:09.000Z",
-            "author": {
-                "name": "Jenderal92",
-                "url": "https://github.com/Jenderal92"
             }
         }
     ]
