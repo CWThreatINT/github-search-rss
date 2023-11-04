@@ -17,6 +17,17 @@
             }
         },
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/101998818?u=c7e7219ad8058e62da043b6cd4be7f8b518a9648&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>HTTP/2 RAPID RESET </div>",
+            "url": "https://github.com/sigridou/CVE-2023-44487",
+            "title": "sigridou/CVE-2023-44487: HTTP/2 RAPID RESET ",
+            "date_modified": "2023-11-04T22:34:23.000Z",
+            "date_published": "2023-11-04T22:34:23.000Z",
+            "author": {
+                "name": "sigridou",
+                "url": "https://github.com/sigridou"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/53845683?u=10da7cb52f11aac53bec71b40976d6e0399ff0af&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
             "url": "https://github.com/Evan-Zhangyf/CVE-2023-45158",
             "title": "Evan-Zhangyf/CVE-2023-45158",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "RandomRobbieBF",
                 "url": "https://github.com/RandomRobbieBF"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/119099243?u=34780e71e406279b59bc9117f24c047cb5d334f6&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A crappy exploit script written for CVE-2023-38646. It works about as well as peace treaties between Israel and Hamas.</div>",
-            "url": "https://github.com/Itrekr/CVE-2023-38646-Crapsploit",
-            "title": "Itrekr/CVE-2023-38646-Crapsploit: A crappy exploit script written for CVE-2023-38646. It works about as well as peace treaties between Israel and Hamas.",
-            "date_modified": "2023-11-03T08:20:30.000Z",
-            "date_published": "2023-11-03T08:19:01.000Z",
-            "author": {
-                "name": "Itrekr",
-                "url": "https://github.com/Itrekr"
             }
         }
     ]
