@@ -17,6 +17,17 @@
             }
         },
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/10968322?u=46217bf0ecf37abfc72882768dd7a4b53fc5c9c8&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>An eBPF program to detect attacks on CVE-2022-0847</div>",
+            "url": "https://github.com/h4ckm310n/CVE-2022-0847-eBPF",
+            "title": "h4ckm310n/CVE-2022-0847-eBPF: An eBPF program to detect attacks on CVE-2022-0847",
+            "date_modified": "2023-11-04T15:51:02.000Z",
+            "date_published": "2023-07-06T01:31:01.000Z",
+            "author": {
+                "name": "h4ckm310n",
+                "url": "https://github.com/h4ckm310n"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/93882101?u=dad2e4600321bee5b739caaa4889aff2752c445d&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
             "url": "https://github.com/AlexanderZinoni/CVE-2022-21449",
             "title": "AlexanderZinoni/CVE-2022-21449",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "n3rada",
                 "url": "https://github.com/n3rada"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/30073895?u=4c15e9a8a39dee51475b957fb4b5709800bd7aa7&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Reflected Cross Site Scripting Vulnerability in PandoraFMS &lt;= v766</div>",
-            "url": "https://github.com/Argonx21/CVE-2022-47373",
-            "title": "Argonx21/CVE-2022-47373: Reflected Cross Site Scripting Vulnerability in PandoraFMS <= v766",
-            "date_modified": "2023-02-16T17:10:25.000Z",
-            "date_published": "2023-02-16T17:10:25.000Z",
-            "author": {
-                "name": "Argonx21",
-                "url": "https://github.com/Argonx21"
             }
         }
     ]
