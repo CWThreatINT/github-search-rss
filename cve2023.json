@@ -6,6 +6,17 @@
     "description": "CVE-2023 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/76691910?u=1d476af08f0335178af16e6d9f01d489e1aba51d&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
+            "url": "https://github.com/prodigiousMind/CVE-2023-41425",
+            "title": "prodigiousMind/CVE-2023-41425",
+            "date_modified": "2023-11-05T15:07:43.000Z",
+            "date_published": "2023-11-05T15:06:43.000Z",
+            "author": {
+                "name": "prodigiousMind",
+                "url": "https://github.com/prodigiousMind"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/127576267?u=414363e946c5505150fb492d168e227ec6bd3fcf&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
             "url": "https://github.com/MojithaR/CVE-2023-30190-FOLLINA",
             "title": "MojithaR/CVE-2023-30190-FOLLINA",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "JaneMandy",
                 "url": "https://github.com/JaneMandy"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/119435129?u=1dc71b52a113906260cd261e806b6ffeaca55a08&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>An Exploitation script developed to exploit the CVE-2023-20198 Cisco zero day vulnerability on their IOS routers </div>",
-            "url": "https://github.com/sanjai-AK47/CVE-2023-20198",
-            "title": "sanjai-AK47/CVE-2023-20198: An Exploitation script developed to exploit the CVE-2023-20198 Cisco zero day vulnerability on their IOS routers ",
-            "date_modified": "2023-11-03T16:42:38.000Z",
-            "date_published": "2023-11-03T13:05:59.000Z",
-            "author": {
-                "name": "sanjai-AK47",
-                "url": "https://github.com/sanjai-AK47"
             }
         }
     ]
