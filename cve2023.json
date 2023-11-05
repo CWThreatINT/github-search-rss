@@ -6,6 +6,28 @@
     "description": "CVE-2023 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/58929890?u=3943f44a8d8ded5c2665d634343df9ee4b281b5f&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Exploit for CVE-2023-37903 </div>",
+            "url": "https://github.com/7h3h4ckv157/CVE-2023-37903",
+            "title": "7h3h4ckv157/CVE-2023-37903: Exploit for CVE-2023-37903 ",
+            "date_modified": "2023-11-05T11:28:37.000Z",
+            "date_published": "2023-11-05T11:23:15.000Z",
+            "author": {
+                "name": "7h3h4ckv157",
+                "url": "https://github.com/7h3h4ckv157"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/84672001?u=bc3ee517ce272bd60d598c36dcd07b742e2297f8&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
+            "url": "https://github.com/quantiano/cve-2023-47102",
+            "title": "quantiano/cve-2023-47102",
+            "date_modified": "2023-11-03T21:12:31.000Z",
+            "date_published": "2023-10-31T04:03:02.000Z",
+            "author": {
+                "name": "quantiano",
+                "url": "https://github.com/quantiano"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/18195825?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023</div>",
             "url": "https://github.com/CVEProject/cvelist",
             "title": "CVEProject/cvelist: Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023",
@@ -127,17 +149,6 @@
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/84672001?u=bc3ee517ce272bd60d598c36dcd07b742e2297f8&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
-            "url": "https://github.com/quantiano/cve-2023-47102",
-            "title": "quantiano/cve-2023-47102",
-            "date_modified": "2023-11-03T21:12:31.000Z",
-            "date_published": "2023-10-31T04:03:02.000Z",
-            "author": {
-                "name": "quantiano",
-                "url": "https://github.com/quantiano"
-            }
-        },
-        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/55085686?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
             "url": "https://github.com/li-minhao/CVE-2023-37478-Demo",
             "title": "li-minhao/CVE-2023-37478-Demo",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "X1r0z",
                 "url": "https://github.com/X1r0z"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/101872898?u=ff91a9355029d7341ab430bfc2802eb4d72f92d7&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>exploit for cve-2023-46747</div>",
-            "url": "https://github.com/W01fh4cker/CVE-2023-46747-RCE",
-            "title": "W01fh4cker/CVE-2023-46747-RCE: exploit for cve-2023-46747",
-            "date_modified": "2023-11-05T09:10:03.000Z",
-            "date_published": "2023-11-01T09:31:05.000Z",
-            "author": {
-                "name": "W01fh4cker",
-                "url": "https://github.com/W01fh4cker"
             }
         }
     ]
