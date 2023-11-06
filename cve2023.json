@@ -6,6 +6,17 @@
     "description": "CVE-2023 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/33783361?u=a4f07dd3163919d4a8ead7deede08073c4f996ee&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
+            "url": "https://github.com/sule01u/CVE-2023-46604",
+            "title": "sule01u/CVE-2023-46604",
+            "date_modified": "2023-11-06T04:05:52.000Z",
+            "date_published": "2023-11-06T04:05:51.000Z",
+            "author": {
+                "name": "sule01u",
+                "url": "https://github.com/sule01u"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/18195825?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023</div>",
             "url": "https://github.com/CVEProject/cvelist",
             "title": "CVEProject/cvelist: Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "certat",
                 "url": "https://github.com/certat"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/119435129?u=1dc71b52a113906260cd261e806b6ffeaca55a08&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>An Exploitation script developed to exploit the CVE-2023-46747 which Pre Auth Remote Code Execution of f5-BIG Ip producs</div>",
-            "url": "https://github.com/sanjai-AK47/CVE-2023-46747",
-            "title": "sanjai-AK47/CVE-2023-46747: An Exploitation script developed to exploit the CVE-2023-46747 which Pre Auth Remote Code Execution of f5-BIG Ip producs",
-            "date_modified": "2023-11-03T13:37:29.000Z",
-            "date_published": "2023-11-03T13:31:11.000Z",
-            "author": {
-                "name": "sanjai-AK47",
-                "url": "https://github.com/sanjai-AK47"
             }
         }
     ]
