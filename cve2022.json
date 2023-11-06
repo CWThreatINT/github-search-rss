@@ -17,6 +17,17 @@
             }
         },
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/145161091?u=5dfccf41f45a9eed783064adb0d22ff4ef1f42d9&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
+            "url": "https://github.com/DimaMend/cve-2022-42889-text4shell",
+            "title": "DimaMend/cve-2022-42889-text4shell",
+            "date_modified": "2023-09-22T17:17:44.000Z",
+            "date_published": "2023-09-22T17:17:26.000Z",
+            "author": {
+                "name": "DimaMend",
+                "url": "https://github.com/DimaMend"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/149922113?u=769c6bce64c7002e480c23a4afd6329f7891e7ec&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
             "url": "https://github.com/d4rkb0n3/CVE-2022-24715-go",
             "title": "d4rkb0n3/CVE-2022-24715-go",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "jet-pentest",
                 "url": "https://github.com/jet-pentest"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/50722929?u=4704cefc237de016aad54bd61ae84965d1562b55&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>检测域内常见一把梭漏洞，包括：NoPac、ZeroLogon、CVE-2022-26923、PrintNightMare</div>",
-            "url": "https://github.com/evilashz/PIGADVulnScanner",
-            "title": "evilashz/PIGADVulnScanner: 检测域内常见一把梭漏洞，包括：NoPac、ZeroLogon、CVE-2022-26923、PrintNightMare",
-            "date_modified": "2023-10-27T13:49:11.000Z",
-            "date_published": "2023-10-17T06:29:44.000Z",
-            "author": {
-                "name": "evilashz",
-                "url": "https://github.com/evilashz"
             }
         }
     ]
