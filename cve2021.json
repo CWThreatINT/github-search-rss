@@ -6,6 +6,17 @@
     "description": "CVE-2021 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/127467140?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Proof of Concept Exploit for CVE-2021-43609</div>",
+            "url": "https://github.com/d5sec/CVE-2021-43609-POC",
+            "title": "d5sec/CVE-2021-43609-POC: Proof of Concept Exploit for CVE-2021-43609",
+            "date_modified": "2023-11-06T22:16:02.000Z",
+            "date_published": "2023-11-06T21:13:21.000Z",
+            "author": {
+                "name": "d5sec",
+                "url": "https://github.com/d5sec"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/3830775?u=ae6685722687541cd30b0f7f3357fe3eccb58af0&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Check and report for cve_2021_44228 (log4shell) on your system.</div>",
             "url": "https://github.com/robertdebock/ansible-role-cve_2021_44228",
             "title": "robertdebock/ansible-role-cve_2021_44228: Check and report for cve_2021_44228 (log4shell) on your system.",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "7Ragnarok7",
                 "url": "https://github.com/7Ragnarok7"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/5438659?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
-            "url": "https://github.com/rwincey/CVE-2021-27198",
-            "title": "rwincey/CVE-2021-27198",
-            "date_modified": "2023-10-25T01:28:07.000Z",
-            "date_published": "2023-10-25T01:22:07.000Z",
-            "author": {
-                "name": "rwincey",
-                "url": "https://github.com/rwincey"
             }
         }
     ]
