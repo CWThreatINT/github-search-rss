@@ -17,6 +17,17 @@
             }
         },
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/101872898?u=ff91a9355029d7341ab430bfc2802eb4d72f92d7&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>exploit for cve-2023-46747</div>",
+            "url": "https://github.com/W01fh4cker/CVE-2023-46747-RCE",
+            "title": "W01fh4cker/CVE-2023-46747-RCE: exploit for cve-2023-46747",
+            "date_modified": "2023-11-07T06:23:39.000Z",
+            "date_published": "2023-11-01T09:31:05.000Z",
+            "author": {
+                "name": "W01fh4cker",
+                "url": "https://github.com/W01fh4cker"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/114874332?u=0dfde71f1f476373352b963fe17a385f3b6fafb4&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>WinRAR cve-2023-38831-poc-generator</div>",
             "url": "https://github.com/s4m98/winrar-cve-2023-38831-poc-gen",
             "title": "s4m98/winrar-cve-2023-38831-poc-gen: WinRAR cve-2023-38831-poc-generator",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "sigridou",
                 "url": "https://github.com/sigridou"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/53845683?u=10da7cb52f11aac53bec71b40976d6e0399ff0af&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
-            "url": "https://github.com/Evan-Zhangyf/CVE-2023-45158",
-            "title": "Evan-Zhangyf/CVE-2023-45158",
-            "date_modified": "2023-11-05T09:02:18.000Z",
-            "date_published": "2023-11-04T21:14:09.000Z",
-            "author": {
-                "name": "Evan-Zhangyf",
-                "url": "https://github.com/Evan-Zhangyf"
             }
         }
     ]
