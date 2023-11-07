@@ -6,6 +6,28 @@
     "description": "CVE-2023 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/55085686?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
+            "url": "https://github.com/li-minhao/CVE-2023-37478-Demo",
+            "title": "li-minhao/CVE-2023-37478-Demo",
+            "date_modified": "2023-11-03T18:29:22.000Z",
+            "date_published": "2023-11-03T18:26:52.000Z",
+            "author": {
+                "name": "li-minhao",
+                "url": "https://github.com/li-minhao"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/18223385?u=5ba29c1a9447ae88a6a0433f44038f47471e11c1&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>TOP All bugbounty pentesting CVE-2023- POC Exp  RCE example payload  Things</div>",
+            "url": "https://github.com/hktalent/TOP",
+            "title": "hktalent/TOP: TOP All bugbounty pentesting CVE-2023- POC Exp  RCE example payload  Things",
+            "date_modified": "2023-11-06T06:13:44.000Z",
+            "date_published": "2022-03-19T01:54:15.000Z",
+            "author": {
+                "name": "hktalent",
+                "url": "https://github.com/hktalent"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/18195825?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023</div>",
             "url": "https://github.com/CVEProject/cvelist",
             "title": "CVEProject/cvelist: Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023",
@@ -14,6 +36,28 @@
             "author": {
                 "name": "CVEProject",
                 "url": "https://github.com/CVEProject"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/92352077?u=9e73661e13873d07e4d0bc33f84c119c8ccca7ca&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Bitrix24 Remote Command Execution (RCE) via Unsafe Variable Extraction</div>",
+            "url": "https://github.com/ForceFledgling/CVE-2023-1714",
+            "title": "ForceFledgling/CVE-2023-1714: Bitrix24 Remote Command Execution (RCE) via Unsafe Variable Extraction",
+            "date_modified": "2023-11-06T23:41:36.000Z",
+            "date_published": "2023-11-06T23:41:36.000Z",
+            "author": {
+                "name": "ForceFledgling",
+                "url": "https://github.com/ForceFledgling"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/92352077?u=9e73661e13873d07e4d0bc33f84c119c8ccca7ca&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Bitrix24 Remote Command Execution (RCE) via Insecure Temporary File Creation</div>",
+            "url": "https://github.com/ForceFledgling/CVE-2023-1713",
+            "title": "ForceFledgling/CVE-2023-1713: Bitrix24 Remote Command Execution (RCE) via Insecure Temporary File Creation",
+            "date_modified": "2023-11-06T23:35:44.000Z",
+            "date_published": "2023-11-06T23:35:44.000Z",
+            "author": {
+                "name": "ForceFledgling",
+                "url": "https://github.com/ForceFledgling"
             }
         },
         {
@@ -47,17 +91,6 @@
             "author": {
                 "name": "sule01u",
                 "url": "https://github.com/sule01u"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/18223385?u=5ba29c1a9447ae88a6a0433f44038f47471e11c1&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>TOP All bugbounty pentesting CVE-2023- POC Exp  RCE example payload  Things</div>",
-            "url": "https://github.com/hktalent/TOP",
-            "title": "hktalent/TOP: TOP All bugbounty pentesting CVE-2023- POC Exp  RCE example payload  Things",
-            "date_modified": "2023-11-06T06:13:44.000Z",
-            "date_published": "2022-03-19T01:54:15.000Z",
-            "author": {
-                "name": "hktalent",
-                "url": "https://github.com/hktalent"
             }
         },
         {
@@ -130,7 +163,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/119435129?u=1dc71b52a113906260cd261e806b6ffeaca55a08&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>An Exploitation tool to exploit the confluence server that are vulnerable to CVE-2023-22518 Improper Authorization</div>",
             "url": "https://github.com/sanjai-AK47/CVE-2023-22518",
             "title": "sanjai-AK47/CVE-2023-22518: An Exploitation tool to exploit the confluence server that are vulnerable to CVE-2023-22518 Improper Authorization",
-            "date_modified": "2023-11-06T18:56:01.000Z",
+            "date_modified": "2023-11-06T23:54:55.000Z",
             "date_published": "2023-11-05T06:45:33.000Z",
             "author": {
                 "name": "sanjai-AK47",
@@ -190,39 +223,6 @@
             "author": {
                 "name": "evkl1d",
                 "url": "https://github.com/evkl1d"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/66937297?u=f0ef38d9ae2b8e85038e2946b64728c0169435f6&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div> Achieving a Reverse Shell Exploit for Apache ActiveMQ (CVE_2023-46604) </div>",
-            "url": "https://github.com/SaumyajeetDas/CVE-2023-46604-RCE-Reverse-Shell-Apache-ActiveMQ",
-            "title": "SaumyajeetDas/CVE-2023-46604-RCE-Reverse-Shell-Apache-ActiveMQ:  Achieving a Reverse Shell Exploit for Apache ActiveMQ (CVE_2023-46604) ",
-            "date_modified": "2023-11-06T22:14:27.000Z",
-            "date_published": "2023-11-03T22:06:09.000Z",
-            "author": {
-                "name": "SaumyajeetDas",
-                "url": "https://github.com/SaumyajeetDas"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/55085686?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
-            "url": "https://github.com/li-minhao/CVE-2023-37478-Demo",
-            "title": "li-minhao/CVE-2023-37478-Demo",
-            "date_modified": "2023-11-03T18:29:22.000Z",
-            "date_published": "2023-11-03T18:26:52.000Z",
-            "author": {
-                "name": "li-minhao",
-                "url": "https://github.com/li-minhao"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/139291686?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Joomla Unauthorized Access Vulnerability</div>",
-            "url": "https://github.com/cybernetwiz/CVE-2023-23752",
-            "title": "cybernetwiz/CVE-2023-23752: Joomla Unauthorized Access Vulnerability",
-            "date_modified": "2023-10-30T14:54:57.000Z",
-            "date_published": "2023-10-30T14:54:56.000Z",
-            "author": {
-                "name": "cybernetwiz",
-                "url": "https://github.com/cybernetwiz"
             }
         }
     ]
