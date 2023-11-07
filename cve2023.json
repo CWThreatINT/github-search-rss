@@ -6,6 +6,28 @@
     "description": "CVE-2023 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/114874332?u=0dfde71f1f476373352b963fe17a385f3b6fafb4&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>WinRAR cve-2023-38831-poc-generator</div>",
+            "url": "https://github.com/s4m98/winrar-cve-2023-38831-poc-gen",
+            "title": "s4m98/winrar-cve-2023-38831-poc-gen: WinRAR cve-2023-38831-poc-generator",
+            "date_modified": "2023-11-07T04:21:41.000Z",
+            "date_published": "2023-11-07T04:14:04.000Z",
+            "author": {
+                "name": "s4m98",
+                "url": "https://github.com/s4m98"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/12004564?u=60faf665a98dd180f03e6439744ee4f60eb7c9d4&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Metabase Pre-Auth RCE POC</div>",
+            "url": "https://github.com/Mrunalkaran/CVE-2023-38646",
+            "title": "Mrunalkaran/CVE-2023-38646: Metabase Pre-Auth RCE POC",
+            "date_modified": "2023-11-07T04:17:08.000Z",
+            "date_published": "2023-11-07T03:57:15.000Z",
+            "author": {
+                "name": "Mrunalkaran",
+                "url": "https://github.com/Mrunalkaran"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/18195825?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023</div>",
             "url": "https://github.com/CVEProject/cvelist",
             "title": "CVEProject/cvelist: Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023",
@@ -14,17 +36,6 @@
             "author": {
                 "name": "CVEProject",
                 "url": "https://github.com/CVEProject"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/12004564?u=60faf665a98dd180f03e6439744ee4f60eb7c9d4&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Metabase Pre-Auth RCE POC</div>",
-            "url": "https://github.com/Mrunalkaran/CVE-2023-38646",
-            "title": "Mrunalkaran/CVE-2023-38646: Metabase Pre-Auth RCE POC",
-            "date_modified": "2023-11-07T03:57:40.000Z",
-            "date_published": "2023-11-07T03:57:15.000Z",
-            "author": {
-                "name": "Mrunalkaran",
-                "url": "https://github.com/Mrunalkaran"
             }
         },
         {
@@ -212,17 +223,6 @@
             "author": {
                 "name": "Evan-Zhangyf",
                 "url": "https://github.com/Evan-Zhangyf"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/78701239?u=9e68d2365d0c26e3994dc3e04864bc97ccb91348&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2023-42470</div>",
-            "url": "https://github.com/actuator/imou",
-            "title": "actuator/imou: CVE-2023-42470",
-            "date_modified": "2023-11-06T10:49:05.000Z",
-            "date_published": "2023-08-17T02:12:24.000Z",
-            "author": {
-                "name": "actuator",
-                "url": "https://github.com/actuator"
             }
         }
     ]
