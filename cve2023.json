@@ -17,17 +17,6 @@
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/150185819?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Juniper Junos exploit for CVE-2023-36844 (or CVE-2023-36845)</div>",
-            "url": "https://github.com/realcitril/CVE-2023-36844",
-            "title": "realcitril/CVE-2023-36844: Juniper Junos exploit for CVE-2023-36844 (or CVE-2023-36845)",
-            "date_modified": "2023-11-07T19:46:18.000Z",
-            "date_published": "2023-11-07T19:35:51.000Z",
-            "author": {
-                "name": "realcitril",
-                "url": "https://github.com/realcitril"
-            }
-        },
-        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/101872898?u=ff91a9355029d7341ab430bfc2802eb4d72f92d7&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>exploit for cve-2023-46747</div>",
             "url": "https://github.com/W01fh4cker/CVE-2023-46747-RCE",
             "title": "W01fh4cker/CVE-2023-46747-RCE: exploit for cve-2023-46747",
@@ -223,6 +212,17 @@
             "author": {
                 "name": "quantiano",
                 "url": "https://github.com/quantiano"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/119435129?u=1dc71b52a113906260cd261e806b6ffeaca55a08&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>An Exploitation tool to exploit the confluence server that are vulnerable to CVE-2023-22518 Improper Authorization</div>",
+            "url": "https://github.com/sanjai-AK47/CVE-2023-22518",
+            "title": "sanjai-AK47/CVE-2023-22518: An Exploitation tool to exploit the confluence server that are vulnerable to CVE-2023-22518 Improper Authorization",
+            "date_modified": "2023-11-07T19:27:11.000Z",
+            "date_published": "2023-11-05T06:45:33.000Z",
+            "author": {
+                "name": "sanjai-AK47",
+                "url": "https://github.com/sanjai-AK47"
             }
         }
     ]
