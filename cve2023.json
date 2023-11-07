@@ -6,6 +6,17 @@
     "description": "CVE-2023 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/18195825?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023</div>",
+            "url": "https://github.com/CVEProject/cvelist",
+            "title": "CVEProject/cvelist: Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023",
+            "date_modified": "2023-11-04T07:04:01.000Z",
+            "date_published": "2020-11-02T19:30:55.000Z",
+            "author": {
+                "name": "CVEProject",
+                "url": "https://github.com/CVEProject"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/55085686?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
             "url": "https://github.com/li-minhao/CVE-2023-37478-Demo",
             "title": "li-minhao/CVE-2023-37478-Demo",
@@ -25,17 +36,6 @@
             "author": {
                 "name": "hktalent",
                 "url": "https://github.com/hktalent"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/18195825?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023</div>",
-            "url": "https://github.com/CVEProject/cvelist",
-            "title": "CVEProject/cvelist: Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023",
-            "date_modified": "2023-11-04T07:04:01.000Z",
-            "date_published": "2020-11-02T19:30:55.000Z",
-            "author": {
-                "name": "CVEProject",
-                "url": "https://github.com/CVEProject"
             }
         },
         {
@@ -80,6 +80,17 @@
             "author": {
                 "name": "fox-it",
                 "url": "https://github.com/fox-it"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/33436708?u=55beb087dc8738fb7c2ca7cf1f1be8a7fea0bb55&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2023-38831 winrar exploit generator</div>",
+            "url": "https://github.com/b1tg/CVE-2023-38831-winrar-exploit",
+            "title": "b1tg/CVE-2023-38831-winrar-exploit: CVE-2023-38831 winrar exploit generator",
+            "date_modified": "2023-11-07T01:38:33.000Z",
+            "date_published": "2023-08-25T09:44:08.000Z",
+            "author": {
+                "name": "b1tg",
+                "url": "https://github.com/b1tg"
             }
         },
         {
@@ -212,17 +223,6 @@
             "author": {
                 "name": "z-jxy",
                 "url": "https://github.com/z-jxy"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/113887123?u=c0b0d56be8f0682adc1454bd73393d1985d7e436&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
-            "url": "https://github.com/evkl1d/CVE-2023-46604",
-            "title": "evkl1d/CVE-2023-46604",
-            "date_modified": "2023-11-04T13:24:02.000Z",
-            "date_published": "2023-11-04T11:58:21.000Z",
-            "author": {
-                "name": "evkl1d",
-                "url": "https://github.com/evkl1d"
             }
         }
     ]
