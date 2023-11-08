@@ -17,6 +17,17 @@
             }
         },
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/35891879?u=9c671dcb68e589a0c3a4911b2004dee261376378&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Looney Tunables CVE-2023-4911</div>",
+            "url": "https://github.com/teraGL/looneyCVE",
+            "title": "teraGL/looneyCVE: Looney Tunables CVE-2023-4911",
+            "date_modified": "2023-11-08T09:35:39.000Z",
+            "date_published": "2023-11-08T09:34:04.000Z",
+            "author": {
+                "name": "teraGL",
+                "url": "https://github.com/teraGL"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/126458073?u=6d02ade41f692be7cd96389b5b7106bb1eef26fb&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2023-46604 Apache ActiveMQ RCE exp 基于python</div>",
             "url": "https://github.com/justdoit-cai/CVE-2023-46604-Apache-ActiveMQ-RCE-exp",
             "title": "justdoit-cai/CVE-2023-46604-Apache-ActiveMQ-RCE-exp: CVE-2023-46604 Apache ActiveMQ RCE exp 基于python",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "1337nemojj",
                 "url": "https://github.com/1337nemojj"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/127576267?u=414363e946c5505150fb492d168e227ec6bd3fcf&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>This is an exploit file which is used to check CVE-2021-21716 vulnerability</div>",
-            "url": "https://github.com/MojithaR/CVE-2023-21716-EXPLOIT.py",
-            "title": "MojithaR/CVE-2023-21716-EXPLOIT.py: This is an exploit file which is used to check CVE-2021-21716 vulnerability",
-            "date_modified": "2023-11-04T15:15:13.000Z",
-            "date_published": "2023-11-04T08:49:14.000Z",
-            "author": {
-                "name": "MojithaR",
-                "url": "https://github.com/MojithaR"
             }
         }
     ]
