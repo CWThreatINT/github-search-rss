@@ -17,6 +17,28 @@
             }
         },
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/126458073?u=6d02ade41f692be7cd96389b5b7106bb1eef26fb&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2023-46604 Apache ActiveMQ RCE exp 基于python</div>",
+            "url": "https://github.com/justdoit-cai/CVE-2023-46604-Apache-ActiveMQ-RCE-exp",
+            "title": "justdoit-cai/CVE-2023-46604-Apache-ActiveMQ-RCE-exp: CVE-2023-46604 Apache ActiveMQ RCE exp 基于python",
+            "date_modified": "2023-11-08T07:53:20.000Z",
+            "date_published": "2023-11-08T07:48:00.000Z",
+            "author": {
+                "name": "justdoit-cai",
+                "url": "https://github.com/justdoit-cai"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/87495218?u=bfdf3366931c01ce2b2804692462b49baee0fbde&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>This Python script is designed to exploit a security vulnerability in Bitrix24, leading to a Denial of Service (DoS) attack. The vulnerability, identified as CVE-2023-1718, allows an attacker to disrupt the normal operation of a Bitrix24 instance.</div>",
+            "url": "https://github.com/jhonnybonny/Bitrix24DoS",
+            "title": "jhonnybonny/Bitrix24DoS: This Python script is designed to exploit a security vulnerability in Bitrix24, leading to a Denial of Service (DoS) attack. The vulnerability, identified as CVE-2023-1718, allows an attacker to disrupt the normal operation of a Bitrix24 instance.",
+            "date_modified": "2023-11-08T07:51:56.000Z",
+            "date_published": "2023-11-08T07:45:54.000Z",
+            "author": {
+                "name": "jhonnybonny",
+                "url": "https://github.com/jhonnybonny"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/57265360?u=5a0d0ca6c5153d7e41b9f498a12fe2b35498adf6&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Server Broken Access Control in Confluence - CVE-2023-22515</div>",
             "url": "https://github.com/LucasPDiniz/CVE-2023-22515",
             "title": "LucasPDiniz/CVE-2023-22515: Server Broken Access Control in Confluence - CVE-2023-22515",
@@ -201,28 +223,6 @@
             "author": {
                 "name": "MojithaR",
                 "url": "https://github.com/MojithaR"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/58929890?u=3943f44a8d8ded5c2665d634343df9ee4b281b5f&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Exploit for CVE-2023-37903 </div>",
-            "url": "https://github.com/7h3h4ckv157/CVE-2023-37903",
-            "title": "7h3h4ckv157/CVE-2023-37903: Exploit for CVE-2023-37903 ",
-            "date_modified": "2023-11-07T15:04:13.000Z",
-            "date_published": "2023-11-05T11:23:15.000Z",
-            "author": {
-                "name": "7h3h4ckv157",
-                "url": "https://github.com/7h3h4ckv157"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/84672001?u=bc3ee517ce272bd60d598c36dcd07b742e2297f8&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
-            "url": "https://github.com/quantiano/cve-2023-47102",
-            "title": "quantiano/cve-2023-47102",
-            "date_modified": "2023-11-03T21:12:31.000Z",
-            "date_published": "2023-10-31T04:03:02.000Z",
-            "author": {
-                "name": "quantiano",
-                "url": "https://github.com/quantiano"
             }
         }
     ]
