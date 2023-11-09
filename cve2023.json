@@ -6,17 +6,6 @@
     "description": "CVE-2023 FEED on GitHub",
     "items": [
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/52488475?u=87f4ff149246bbba8ac11f9a9bcf8247c340da27&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Ubuntu Privilege Escalation bash one-liner using CVE-2023-32629 &amp; CVE-2023-2640</div>",
-            "url": "https://github.com/ThrynSec/CVE-2023-32629-CVE-2023-2640---POC-Escalation",
-            "title": "ThrynSec/CVE-2023-32629-CVE-2023-2640---POC-Escalation: Ubuntu Privilege Escalation bash one-liner using CVE-2023-32629 & CVE-2023-2640",
-            "date_modified": "2023-11-09T09:27:03.000Z",
-            "date_published": "2023-11-09T09:19:23.000Z",
-            "author": {
-                "name": "ThrynSec",
-                "url": "https://github.com/ThrynSec"
-            }
-        },
-        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/18195825?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023</div>",
             "url": "https://github.com/CVEProject/cvelist",
             "title": "CVEProject/cvelist: Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023",
@@ -25,6 +14,17 @@
             "author": {
                 "name": "CVEProject",
                 "url": "https://github.com/CVEProject"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/52488475?u=87f4ff149246bbba8ac11f9a9bcf8247c340da27&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Ubuntu Privilege Escalation bash one-liner using CVE-2023-32629 &amp; CVE-2023-2640</div>",
+            "url": "https://github.com/ThrynSec/CVE-2023-32629-CVE-2023-2640---POC-Escalation",
+            "title": "ThrynSec/CVE-2023-32629-CVE-2023-2640---POC-Escalation: Ubuntu Privilege Escalation bash one-liner using CVE-2023-32629 & CVE-2023-2640",
+            "date_modified": "2023-11-09T09:27:03.000Z",
+            "date_published": "2023-11-09T09:19:23.000Z",
+            "author": {
+                "name": "ThrynSec",
+                "url": "https://github.com/ThrynSec"
             }
         },
         {
@@ -152,7 +152,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/33783361?u=a4f07dd3163919d4a8ead7deede08073c4f996ee&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div> CVE-2023-46604 ActiveMQ RCE vulnerability verification/exploitation tool</div>",
             "url": "https://github.com/sule01u/CVE-2023-46604",
             "title": "sule01u/CVE-2023-46604:  CVE-2023-46604 ActiveMQ RCE vulnerability verification/exploitation tool",
-            "date_modified": "2023-11-09T09:27:23.000Z",
+            "date_modified": "2023-11-09T10:18:56.000Z",
             "date_published": "2023-11-06T04:05:51.000Z",
             "author": {
                 "name": "sule01u",
