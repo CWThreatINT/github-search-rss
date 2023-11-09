@@ -17,6 +17,17 @@
             }
         },
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/143268493?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Code to detect/exploit vulnerable metabase application</div>",
+            "url": "https://github.com/j0yb0y0h/CVE-2023-38646",
+            "title": "j0yb0y0h/CVE-2023-38646: Code to detect/exploit vulnerable metabase application",
+            "date_modified": "2023-11-09T14:56:15.000Z",
+            "date_published": "2023-11-09T13:13:25.000Z",
+            "author": {
+                "name": "j0yb0y0h",
+                "url": "https://github.com/j0yb0y0h"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/147170429?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>配合 CVE-2023-22515 后台上传jar包实现RCE</div>",
             "url": "https://github.com/aaaademo/Confluence-EvilJar",
             "title": "aaaademo/Confluence-EvilJar: 配合 CVE-2023-22515 后台上传jar包实现RCE",
@@ -25,17 +36,6 @@
             "author": {
                 "name": "aaaademo",
                 "url": "https://github.com/aaaademo"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/143268493?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Code to detect/exploit vulnerable metabase application</div>",
-            "url": "https://github.com/j0yb0y0h/CVE-2023-38646",
-            "title": "j0yb0y0h/CVE-2023-38646: Code to detect/exploit vulnerable metabase application",
-            "date_modified": "2023-11-09T13:13:25.000Z",
-            "date_published": "2023-11-09T13:13:25.000Z",
-            "author": {
-                "name": "j0yb0y0h",
-                "url": "https://github.com/j0yb0y0h"
             }
         },
         {
@@ -75,7 +75,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/57265360?u=5a0d0ca6c5153d7e41b9f498a12fe2b35498adf6&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Takeover Account OpenSSH</div>",
             "url": "https://github.com/LucasPDiniz/CVE-2023-38408",
             "title": "LucasPDiniz/CVE-2023-38408: Takeover Account OpenSSH",
-            "date_modified": "2023-11-09T04:38:14.000Z",
+            "date_modified": "2023-11-09T14:21:16.000Z",
             "date_published": "2023-11-09T04:34:39.000Z",
             "author": {
                 "name": "LucasPDiniz",
