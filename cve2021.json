@@ -6,6 +6,17 @@
     "description": "CVE-2021 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/38591075?u=1738f1b0a1d1a33ebe9a0931c789329d8dd84085&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>PoC for Nginx 0.6.18 - 1.20.0 Memory Overwrite Vulnerability CVE-2021-23017</div>",
+            "url": "https://github.com/M507/CVE-2021-23017-PoC",
+            "title": "M507/CVE-2021-23017-PoC: PoC for Nginx 0.6.18 - 1.20.0 Memory Overwrite Vulnerability CVE-2021-23017",
+            "date_modified": "2023-10-27T11:22:01.000Z",
+            "date_published": "2022-06-30T04:39:58.000Z",
+            "author": {
+                "name": "M507",
+                "url": "https://github.com/M507"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/87979263?u=dd7f23490c7b9d1bd1dca84ccaf723402debf769&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A Proof-Of-Concept for the CVE-2021-44228 vulnerability. </div>",
             "url": "https://github.com/kozmer/log4j-shell-poc",
             "title": "kozmer/log4j-shell-poc: A Proof-Of-Concept for the CVE-2021-44228 vulnerability. ",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "Saboor-Hakimi-23",
                 "url": "https://github.com/Saboor-Hakimi-23"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/128500598?u=e152954138d2b82c1959d8c89e7d8e38bf143ae4&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>detect bruteforce using for cve-2021-34527</div>",
-            "url": "https://github.com/TieuLong21Prosper/detect_bruteforce",
-            "title": "TieuLong21Prosper/detect_bruteforce: detect bruteforce using for cve-2021-34527",
-            "date_modified": "2023-10-28T08:20:15.000Z",
-            "date_published": "2023-10-28T08:16:36.000Z",
-            "author": {
-                "name": "TieuLong21Prosper",
-                "url": "https://github.com/TieuLong21Prosper"
             }
         }
     ]
