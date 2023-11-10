@@ -6,17 +6,6 @@
     "description": "CVE-2023 FEED on GitHub",
     "items": [
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/13798539?u=c4b10747ce2fe4638b06cf7af21ac244f582cd76&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2023-32031 MS Exchange PowerShell backend RCE</div>",
-            "url": "https://github.com/Avento/CVE-2023-32031",
-            "title": "Avento/CVE-2023-32031: CVE-2023-32031 MS Exchange PowerShell backend RCE",
-            "date_modified": "2023-11-10T09:37:55.000Z",
-            "date_published": "2023-11-10T09:32:27.000Z",
-            "author": {
-                "name": "Avento",
-                "url": "https://github.com/Avento"
-            }
-        },
-        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/18195825?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023</div>",
             "url": "https://github.com/CVEProject/cvelist",
             "title": "CVEProject/cvelist: Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023",
@@ -28,10 +17,43 @@
             }
         },
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/43088607?u=1f6f62e23f0e2868559b8fc902e0916c91d0749a&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Ansible Playbook for CVE-2023-22518</div>",
+            "url": "https://github.com/ditekshen/ansible-cve-2023-22518",
+            "title": "ditekshen/ansible-cve-2023-22518: Ansible Playbook for CVE-2023-22518",
+            "date_modified": "2023-11-10T11:00:14.000Z",
+            "date_published": "2023-11-10T10:59:09.000Z",
+            "author": {
+                "name": "ditekshen",
+                "url": "https://github.com/ditekshen"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/92352077?u=9e73661e13873d07e4d0bc33f84c119c8ccca7ca&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Improper Authorization Vulnerability in Confluence Data Center and Server</div>",
+            "url": "https://github.com/ForceFledgling/CVE-2023-22518",
+            "title": "ForceFledgling/CVE-2023-22518: Improper Authorization Vulnerability in Confluence Data Center and Server",
+            "date_modified": "2023-11-10T02:30:44.000Z",
+            "date_published": "2023-10-31T05:35:00.000Z",
+            "author": {
+                "name": "ForceFledgling",
+                "url": "https://github.com/ForceFledgling"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/13798539?u=c4b10747ce2fe4638b06cf7af21ac244f582cd76&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2023-32031 MS Exchange PowerShell backend RCE</div>",
+            "url": "https://github.com/Avento/CVE-2023-32031",
+            "title": "Avento/CVE-2023-32031: CVE-2023-32031 MS Exchange PowerShell backend RCE",
+            "date_modified": "2023-11-10T09:37:55.000Z",
+            "date_published": "2023-11-10T09:32:27.000Z",
+            "author": {
+                "name": "Avento",
+                "url": "https://github.com/Avento"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/61124903?u=8b57f51b0b4a9e4b5cc19b32667c18a1591bf3c4&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Examples for Implementing cve-2023-44487 ( HTTP/2 Rapid Reset Attack ) Concept</div>",
             "url": "https://github.com/nxenon/cve-2023-44487",
             "title": "nxenon/cve-2023-44487: Examples for Implementing cve-2023-44487 ( HTTP/2 Rapid Reset Attack ) Concept",
-            "date_modified": "2023-11-10T09:07:40.000Z",
+            "date_modified": "2023-11-10T10:38:38.000Z",
             "date_published": "2023-11-10T08:38:51.000Z",
             "author": {
                 "name": "nxenon",
@@ -201,28 +223,6 @@
             "author": {
                 "name": "justdoit-cai",
                 "url": "https://github.com/justdoit-cai"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/87495218?u=bfdf3366931c01ce2b2804692462b49baee0fbde&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>This Python script is designed to exploit a security vulnerability in Bitrix24, leading to a Denial of Service (DoS) attack. The vulnerability, identified as CVE-2023-1718, allows an attacker to disrupt the normal operation of a Bitrix24 instance.</div>",
-            "url": "https://github.com/jhonnybonny/Bitrix24DoS",
-            "title": "jhonnybonny/Bitrix24DoS: This Python script is designed to exploit a security vulnerability in Bitrix24, leading to a Denial of Service (DoS) attack. The vulnerability, identified as CVE-2023-1718, allows an attacker to disrupt the normal operation of a Bitrix24 instance.",
-            "date_modified": "2023-11-08T07:51:56.000Z",
-            "date_published": "2023-11-08T07:45:54.000Z",
-            "author": {
-                "name": "jhonnybonny",
-                "url": "https://github.com/jhonnybonny"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/57265360?u=5a0d0ca6c5153d7e41b9f498a12fe2b35498adf6&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Server Broken Access Control in Confluence - CVE-2023-22515</div>",
-            "url": "https://github.com/LucasPDiniz/CVE-2023-22515",
-            "title": "LucasPDiniz/CVE-2023-22515: Server Broken Access Control in Confluence - CVE-2023-22515",
-            "date_modified": "2023-11-09T02:18:00.000Z",
-            "date_published": "2023-11-08T05:18:30.000Z",
-            "author": {
-                "name": "LucasPDiniz",
-                "url": "https://github.com/LucasPDiniz"
             }
         }
     ]
