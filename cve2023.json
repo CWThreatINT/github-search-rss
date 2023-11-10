@@ -17,6 +17,28 @@
             }
         },
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/61793886?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>exp</div>",
+            "url": "https://github.com/adminxb/CVE-2023-34039",
+            "title": "adminxb/CVE-2023-34039: exp",
+            "date_modified": "2023-11-10T07:32:28.000Z",
+            "date_published": "2023-11-10T07:23:11.000Z",
+            "author": {
+                "name": "adminxb",
+                "url": "https://github.com/adminxb"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/129875733?u=247133296001ae436b0c6541dd3662f49efbc0c4&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Exploit for the unauthenticated file upload vulnerability in WordPress's Royal Elementor Addons and Templates plugin (&lt; 1.3.79). CVE-ID: CVE-2023-5360.</div>",
+            "url": "https://github.com/tucommenceapousser/CVE-2023-5360",
+            "title": "tucommenceapousser/CVE-2023-5360: Exploit for the unauthenticated file upload vulnerability in WordPress's Royal Elementor Addons and Templates plugin (< 1.3.79). CVE-ID: CVE-2023-5360.",
+            "date_modified": "2023-11-10T07:15:19.000Z",
+            "date_published": "2023-11-02T03:28:59.000Z",
+            "author": {
+                "name": "tucommenceapousser",
+                "url": "https://github.com/tucommenceapousser"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/42887236?u=87cb6b315e66f3f50fe6a3523012e527d9fbf910&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2023-24706</div>",
             "url": "https://github.com/hatjwe/CVE-2023-24706",
             "title": "hatjwe/CVE-2023-24706: CVE-2023-24706",
@@ -86,7 +108,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/52488475?u=87f4ff149246bbba8ac11f9a9bcf8247c340da27&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Ubuntu Privilege Escalation bash one-liner using CVE-2023-32629 &amp; CVE-2023-2640</div>",
             "url": "https://github.com/ThrynSec/CVE-2023-32629-CVE-2023-2640---POC-Escalation",
             "title": "ThrynSec/CVE-2023-32629-CVE-2023-2640---POC-Escalation: Ubuntu Privilege Escalation bash one-liner using CVE-2023-32629 & CVE-2023-2640",
-            "date_modified": "2023-11-10T06:27:44.000Z",
+            "date_modified": "2023-11-10T07:42:20.000Z",
             "date_published": "2023-11-09T09:19:23.000Z",
             "author": {
                 "name": "ThrynSec",
@@ -196,33 +218,11 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/33783361?u=a4f07dd3163919d4a8ead7deede08073c4f996ee&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div> CVE-2023-46604 ActiveMQ RCE vulnerability verification/exploitation tool</div>",
             "url": "https://github.com/sule01u/CVE-2023-46604",
             "title": "sule01u/CVE-2023-46604:  CVE-2023-46604 ActiveMQ RCE vulnerability verification/exploitation tool",
-            "date_modified": "2023-11-09T19:51:05.000Z",
+            "date_modified": "2023-11-10T07:12:16.000Z",
             "date_published": "2023-11-06T04:05:51.000Z",
             "author": {
                 "name": "sule01u",
                 "url": "https://github.com/sule01u"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/26120550?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Password recovery easySoft and easyE4 (CVE-2023-43776 and CVE-2023-43777)</div>",
-            "url": "https://github.com/SySS-Research/easy-password-recovery",
-            "title": "SySS-Research/easy-password-recovery: Password recovery easySoft and easyE4 (CVE-2023-43776 and CVE-2023-43777)",
-            "date_modified": "2023-11-07T15:28:29.000Z",
-            "date_published": "2023-11-07T07:44:13.000Z",
-            "author": {
-                "name": "SySS-Research",
-                "url": "https://github.com/SySS-Research"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/114874332?u=0dfde71f1f476373352b963fe17a385f3b6fafb4&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>WinRAR cve-2023-38831-poc-generator</div>",
-            "url": "https://github.com/s4m98/winrar-cve-2023-38831-poc-gen",
-            "title": "s4m98/winrar-cve-2023-38831-poc-gen: WinRAR cve-2023-38831-poc-generator",
-            "date_modified": "2023-11-07T04:21:41.000Z",
-            "date_published": "2023-11-07T04:14:04.000Z",
-            "author": {
-                "name": "s4m98",
-                "url": "https://github.com/s4m98"
             }
         }
     ]
