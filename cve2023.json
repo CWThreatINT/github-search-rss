@@ -6,6 +6,17 @@
     "description": "CVE-2023 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/13798539?u=c4b10747ce2fe4638b06cf7af21ac244f582cd76&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2023-32031 MS Exchange PowerShell backend RCE</div>",
+            "url": "https://github.com/Avento/CVE-2023-32031",
+            "title": "Avento/CVE-2023-32031: CVE-2023-32031 MS Exchange PowerShell backend RCE",
+            "date_modified": "2023-11-10T09:37:55.000Z",
+            "date_published": "2023-11-10T09:32:27.000Z",
+            "author": {
+                "name": "Avento",
+                "url": "https://github.com/Avento"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/18195825?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023</div>",
             "url": "https://github.com/CVEProject/cvelist",
             "title": "CVEProject/cvelist: Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023",
@@ -17,10 +28,10 @@
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/61124903?u=8b57f51b0b4a9e4b5cc19b32667c18a1591bf3c4&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Examples for implementing cve-2023-44487 ( HTTP/2 Rapid Reset Attack ) Concept</div>",
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/61124903?u=8b57f51b0b4a9e4b5cc19b32667c18a1591bf3c4&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Examples for Implementing cve-2023-44487 ( HTTP/2 Rapid Reset Attack ) Concept</div>",
             "url": "https://github.com/nxenon/cve-2023-44487",
-            "title": "nxenon/cve-2023-44487: Examples for implementing cve-2023-44487 ( HTTP/2 Rapid Reset Attack ) Concept",
-            "date_modified": "2023-11-10T08:40:57.000Z",
+            "title": "nxenon/cve-2023-44487: Examples for Implementing cve-2023-44487 ( HTTP/2 Rapid Reset Attack ) Concept",
+            "date_modified": "2023-11-10T09:07:40.000Z",
             "date_published": "2023-11-10T08:38:51.000Z",
             "author": {
                 "name": "nxenon",
@@ -64,7 +75,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/101872898?u=ff91a9355029d7341ab430bfc2802eb4d72f92d7&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>exploit for cve-2023-46747</div>",
             "url": "https://github.com/W01fh4cker/CVE-2023-46747-RCE",
             "title": "W01fh4cker/CVE-2023-46747-RCE: exploit for cve-2023-46747",
-            "date_modified": "2023-11-09T12:34:42.000Z",
+            "date_modified": "2023-11-10T09:56:10.000Z",
             "date_published": "2023-11-01T09:31:05.000Z",
             "author": {
                 "name": "W01fh4cker",
@@ -119,7 +130,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/52488475?u=87f4ff149246bbba8ac11f9a9bcf8247c340da27&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Ubuntu Privilege Escalation bash one-liner using CVE-2023-32629 &amp; CVE-2023-2640</div>",
             "url": "https://github.com/ThrynSec/CVE-2023-32629-CVE-2023-2640---POC-Escalation",
             "title": "ThrynSec/CVE-2023-32629-CVE-2023-2640---POC-Escalation: Ubuntu Privilege Escalation bash one-liner using CVE-2023-32629 & CVE-2023-2640",
-            "date_modified": "2023-11-10T07:42:20.000Z",
+            "date_modified": "2023-11-10T09:22:09.000Z",
             "date_published": "2023-11-09T09:19:23.000Z",
             "author": {
                 "name": "ThrynSec",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "LucasPDiniz",
                 "url": "https://github.com/LucasPDiniz"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/468621?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Cisco IOS XE implant scanning &amp; detection (CVE-2023-20198, CVE-2023-20273)</div>",
-            "url": "https://github.com/fox-it/cisco-ios-xe-implant-detection",
-            "title": "fox-it/cisco-ios-xe-implant-detection: Cisco IOS XE implant scanning & detection (CVE-2023-20198, CVE-2023-20273)",
-            "date_modified": "2023-11-09T08:15:03.000Z",
-            "date_published": "2023-10-23T14:52:18.000Z",
-            "author": {
-                "name": "fox-it",
-                "url": "https://github.com/fox-it"
             }
         }
     ]
