@@ -6,17 +6,6 @@
     "description": "CVE-2023 FEED on GitHub",
     "items": [
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/101872898?u=ff91a9355029d7341ab430bfc2802eb4d72f92d7&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>exploit for cve-2023-46747</div>",
-            "url": "https://github.com/W01fh4cker/CVE-2023-46747-RCE",
-            "title": "W01fh4cker/CVE-2023-46747-RCE: exploit for cve-2023-46747",
-            "date_modified": "2023-11-09T12:34:42.000Z",
-            "date_published": "2023-11-01T09:31:05.000Z",
-            "author": {
-                "name": "W01fh4cker",
-                "url": "https://github.com/W01fh4cker"
-            }
-        },
-        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/18195825?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023</div>",
             "url": "https://github.com/CVEProject/cvelist",
             "title": "CVEProject/cvelist: Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023",
@@ -25,6 +14,17 @@
             "author": {
                 "name": "CVEProject",
                 "url": "https://github.com/CVEProject"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/101872898?u=ff91a9355029d7341ab430bfc2802eb4d72f92d7&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>exploit for cve-2023-46747</div>",
+            "url": "https://github.com/W01fh4cker/CVE-2023-46747-RCE",
+            "title": "W01fh4cker/CVE-2023-46747-RCE: exploit for cve-2023-46747",
+            "date_modified": "2023-11-09T12:34:42.000Z",
+            "date_published": "2023-11-01T09:31:05.000Z",
+            "author": {
+                "name": "W01fh4cker",
+                "url": "https://github.com/W01fh4cker"
             }
         },
         {
