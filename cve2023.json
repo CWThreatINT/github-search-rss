@@ -6,6 +6,17 @@
     "description": "CVE-2023 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/92352077?u=9e73661e13873d07e4d0bc33f84c119c8ccca7ca&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Improper Authorization Vulnerability in Confluence Data Center and Server</div>",
+            "url": "https://github.com/ForceFledgling/CVE-2023-22518",
+            "title": "ForceFledgling/CVE-2023-22518: Improper Authorization Vulnerability in Confluence Data Center and Server",
+            "date_modified": "2023-11-10T12:46:46.000Z",
+            "date_published": "2023-10-31T05:35:00.000Z",
+            "author": {
+                "name": "ForceFledgling",
+                "url": "https://github.com/ForceFledgling"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/43088607?u=1f6f62e23f0e2868559b8fc902e0916c91d0749a&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Ansible Playbook for CVE-2023-22518</div>",
             "url": "https://github.com/ditekshen/ansible-cve-2023-22518",
             "title": "ditekshen/ansible-cve-2023-22518: Ansible Playbook for CVE-2023-22518",
@@ -25,17 +36,6 @@
             "author": {
                 "name": "CVEProject",
                 "url": "https://github.com/CVEProject"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/92352077?u=9e73661e13873d07e4d0bc33f84c119c8ccca7ca&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Improper Authorization Vulnerability in Confluence Data Center and Server</div>",
-            "url": "https://github.com/ForceFledgling/CVE-2023-22518",
-            "title": "ForceFledgling/CVE-2023-22518: Improper Authorization Vulnerability in Confluence Data Center and Server",
-            "date_modified": "2023-11-10T11:05:58.000Z",
-            "date_published": "2023-10-31T05:35:00.000Z",
-            "author": {
-                "name": "ForceFledgling",
-                "url": "https://github.com/ForceFledgling"
             }
         },
         {
@@ -152,7 +152,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/52488475?u=87f4ff149246bbba8ac11f9a9bcf8247c340da27&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Ubuntu Privilege Escalation bash one-liner using CVE-2023-32629 &amp; CVE-2023-2640</div>",
             "url": "https://github.com/ThrynSec/CVE-2023-32629-CVE-2023-2640---POC-Escalation",
             "title": "ThrynSec/CVE-2023-32629-CVE-2023-2640---POC-Escalation: Ubuntu Privilege Escalation bash one-liner using CVE-2023-32629 & CVE-2023-2640",
-            "date_modified": "2023-11-10T11:46:27.000Z",
+            "date_modified": "2023-11-10T12:48:38.000Z",
             "date_published": "2023-11-09T09:19:23.000Z",
             "author": {
                 "name": "ThrynSec",
