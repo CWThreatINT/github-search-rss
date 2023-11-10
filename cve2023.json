@@ -17,6 +17,17 @@
             }
         },
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/61124903?u=8b57f51b0b4a9e4b5cc19b32667c18a1591bf3c4&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Examples for implementing cve-2023-44487 ( HTTP/2 Rapid Reset Attack ) Concept</div>",
+            "url": "https://github.com/nxenon/cve-2023-44487",
+            "title": "nxenon/cve-2023-44487: Examples for implementing cve-2023-44487 ( HTTP/2 Rapid Reset Attack ) Concept",
+            "date_modified": "2023-11-10T08:40:57.000Z",
+            "date_published": "2023-11-10T08:38:51.000Z",
+            "author": {
+                "name": "nxenon",
+                "url": "https://github.com/nxenon"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/61793886?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>exp</div>",
             "url": "https://github.com/adminxb/CVE-2023-34039",
             "title": "adminxb/CVE-2023-34039: exp",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "fox-it",
                 "url": "https://github.com/fox-it"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/33783361?u=a4f07dd3163919d4a8ead7deede08073c4f996ee&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div> CVE-2023-46604 ActiveMQ RCE vulnerability verification/exploitation tool</div>",
-            "url": "https://github.com/sule01u/CVE-2023-46604",
-            "title": "sule01u/CVE-2023-46604:  CVE-2023-46604 ActiveMQ RCE vulnerability verification/exploitation tool",
-            "date_modified": "2023-11-10T07:12:16.000Z",
-            "date_published": "2023-11-06T04:05:51.000Z",
-            "author": {
-                "name": "sule01u",
-                "url": "https://github.com/sule01u"
             }
         }
     ]
