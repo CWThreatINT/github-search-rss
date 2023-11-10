@@ -17,6 +17,17 @@
             }
         },
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/42887236?u=87cb6b315e66f3f50fe6a3523012e527d9fbf910&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2023-24706</div>",
+            "url": "https://github.com/hatjwe/CVE-2023-24706",
+            "title": "hatjwe/CVE-2023-24706: CVE-2023-24706",
+            "date_modified": "2023-11-10T05:50:25.000Z",
+            "date_published": "2023-11-10T05:43:52.000Z",
+            "author": {
+                "name": "hatjwe",
+                "url": "https://github.com/hatjwe"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/101872898?u=ff91a9355029d7341ab430bfc2802eb4d72f92d7&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>exploit for cve-2023-46747</div>",
             "url": "https://github.com/W01fh4cker/CVE-2023-46747-RCE",
             "title": "W01fh4cker/CVE-2023-46747-RCE: exploit for cve-2023-46747",
@@ -75,7 +86,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/52488475?u=87f4ff149246bbba8ac11f9a9bcf8247c340da27&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Ubuntu Privilege Escalation bash one-liner using CVE-2023-32629 &amp; CVE-2023-2640</div>",
             "url": "https://github.com/ThrynSec/CVE-2023-32629-CVE-2023-2640---POC-Escalation",
             "title": "ThrynSec/CVE-2023-32629-CVE-2023-2640---POC-Escalation: Ubuntu Privilege Escalation bash one-liner using CVE-2023-32629 & CVE-2023-2640",
-            "date_modified": "2023-11-09T09:27:03.000Z",
+            "date_modified": "2023-11-10T05:38:42.000Z",
             "date_published": "2023-11-09T09:19:23.000Z",
             "author": {
                 "name": "ThrynSec",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "s4m98",
                 "url": "https://github.com/s4m98"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/12004564?u=b9f4450bb30b84ae3761c6f09567ea301fcdaf2f&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Metabase Pre-Auth RCE POC</div>",
-            "url": "https://github.com/Mrunalkaran/CVE-2023-38646",
-            "title": "Mrunalkaran/CVE-2023-38646: Metabase Pre-Auth RCE POC",
-            "date_modified": "2023-11-07T04:17:08.000Z",
-            "date_published": "2023-11-07T03:57:15.000Z",
-            "author": {
-                "name": "Mrunalkaran",
-                "url": "https://github.com/Mrunalkaran"
             }
         }
     ]
