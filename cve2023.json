@@ -6,6 +6,17 @@
     "description": "CVE-2023 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/62386766?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Implementações de servidores HTML em GO para análise da vulnerabilidade CVE-2023-29406.</div>",
+            "url": "https://github.com/LuizGustavoP/EP3_Redes",
+            "title": "LuizGustavoP/EP3_Redes: Implementações de servidores HTML em GO para análise da vulnerabilidade CVE-2023-29406.",
+            "date_modified": "2023-11-11T16:28:22.000Z",
+            "date_published": "2023-11-11T16:28:22.000Z",
+            "author": {
+                "name": "LuizGustavoP",
+                "url": "https://github.com/LuizGustavoP"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/18195825?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023</div>",
             "url": "https://github.com/CVEProject/cvelist",
             "title": "CVEProject/cvelist: Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "ForceFledgling",
                 "url": "https://github.com/ForceFledgling"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/13798539?u=c4b10747ce2fe4638b06cf7af21ac244f582cd76&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2023-32031 MS Exchange PowerShell backend RCE</div>",
-            "url": "https://github.com/Avento/CVE-2023-32031",
-            "title": "Avento/CVE-2023-32031: CVE-2023-32031 MS Exchange PowerShell backend RCE",
-            "date_modified": "2023-11-11T13:03:50.000Z",
-            "date_published": "2023-11-10T09:32:27.000Z",
-            "author": {
-                "name": "Avento",
-                "url": "https://github.com/Avento"
             }
         }
     ]
