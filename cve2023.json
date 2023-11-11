@@ -6,6 +6,28 @@
     "description": "CVE-2023 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/18195825?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023</div>",
+            "url": "https://github.com/CVEProject/cvelist",
+            "title": "CVEProject/cvelist: Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023",
+            "date_modified": "2023-11-10T04:26:10.000Z",
+            "date_published": "2020-11-02T19:30:55.000Z",
+            "author": {
+                "name": "CVEProject",
+                "url": "https://github.com/CVEProject"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/113091631?u=a91c73f42967dd31c8dfb2b5fb92c890e68891f7&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
+            "url": "https://github.com/ersinerenler/CVE-2023-46020-Code-Projects-Blood-Bank-1.0-Stored-Cross-Site-Scripting-Vulnerability",
+            "title": "ersinerenler/CVE-2023-46020-Code-Projects-Blood-Bank-1.0-Stored-Cross-Site-Scripting-Vulnerability",
+            "date_modified": "2023-11-11T08:37:58.000Z",
+            "date_published": "2023-11-11T08:37:57.000Z",
+            "author": {
+                "name": "ersinerenler",
+                "url": "https://github.com/ersinerenler"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/113091631?u=a91c73f42967dd31c8dfb2b5fb92c890e68891f7&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
             "url": "https://github.com/ersinerenler/CVE-2023-46018-Code-Projects-Blood-Bank-1.0-SQL-Injection-Vulnerability",
             "title": "ersinerenler/CVE-2023-46018-Code-Projects-Blood-Bank-1.0-SQL-Injection-Vulnerability",
@@ -17,14 +39,14 @@
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/18195825?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023</div>",
-            "url": "https://github.com/CVEProject/cvelist",
-            "title": "CVEProject/cvelist: Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023",
-            "date_modified": "2023-11-10T04:26:10.000Z",
-            "date_published": "2020-11-02T19:30:55.000Z",
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/113091631?u=a91c73f42967dd31c8dfb2b5fb92c890e68891f7&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
+            "url": "https://github.com/ersinerenler/CVE-2023-46019-Code-Projects-Blood-Bank-1.0-Reflected-Cross-Site-Scripting-Vulnerability",
+            "title": "ersinerenler/CVE-2023-46019-Code-Projects-Blood-Bank-1.0-Reflected-Cross-Site-Scripting-Vulnerability",
+            "date_modified": "2023-11-11T08:23:31.000Z",
+            "date_published": "2023-11-11T08:23:30.000Z",
             "author": {
-                "name": "CVEProject",
-                "url": "https://github.com/CVEProject"
+                "name": "ersinerenler",
+                "url": "https://github.com/ersinerenler"
             }
         },
         {
@@ -201,28 +223,6 @@
             "author": {
                 "name": "hatjwe",
                 "url": "https://github.com/hatjwe"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/101872898?u=ff91a9355029d7341ab430bfc2802eb4d72f92d7&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>exploit for cve-2023-46747</div>",
-            "url": "https://github.com/W01fh4cker/CVE-2023-46747-RCE",
-            "title": "W01fh4cker/CVE-2023-46747-RCE: exploit for cve-2023-46747",
-            "date_modified": "2023-11-10T16:59:29.000Z",
-            "date_published": "2023-11-01T09:31:05.000Z",
-            "author": {
-                "name": "W01fh4cker",
-                "url": "https://github.com/W01fh4cker"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/143268493?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Code to detect/exploit vulnerable metabase application</div>",
-            "url": "https://github.com/j0yb0y0h/CVE-2023-38646",
-            "title": "j0yb0y0h/CVE-2023-38646: Code to detect/exploit vulnerable metabase application",
-            "date_modified": "2023-11-09T14:56:15.000Z",
-            "date_published": "2023-11-09T13:13:25.000Z",
-            "author": {
-                "name": "j0yb0y0h",
-                "url": "https://github.com/j0yb0y0h"
             }
         }
     ]
