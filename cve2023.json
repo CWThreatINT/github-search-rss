@@ -6,10 +6,21 @@
     "description": "CVE-2023 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/18195825?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023</div>",
+            "url": "https://github.com/CVEProject/cvelist",
+            "title": "CVEProject/cvelist: Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023",
+            "date_modified": "2023-11-10T04:26:10.000Z",
+            "date_published": "2020-11-02T19:30:55.000Z",
+            "author": {
+                "name": "CVEProject",
+                "url": "https://github.com/CVEProject"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/120293957?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>One-Liner CVE-2023-32629/CVE-2023-2640 Ubuntu Privilege Escalation</div>",
             "url": "https://github.com/k4but0/Ubuntu-LPE",
             "title": "k4but0/Ubuntu-LPE: One-Liner CVE-2023-32629/CVE-2023-2640 Ubuntu Privilege Escalation",
-            "date_modified": "2023-11-11T14:34:49.000Z",
+            "date_modified": "2023-11-11T15:41:41.000Z",
             "date_published": "2023-11-11T14:33:38.000Z",
             "author": {
                 "name": "k4but0",
@@ -58,17 +69,6 @@
             "author": {
                 "name": "ersinerenler",
                 "url": "https://github.com/ersinerenler"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/18195825?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023</div>",
-            "url": "https://github.com/CVEProject/cvelist",
-            "title": "CVEProject/cvelist: Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023",
-            "date_modified": "2023-11-10T04:26:10.000Z",
-            "date_published": "2020-11-02T19:30:55.000Z",
-            "author": {
-                "name": "CVEProject",
-                "url": "https://github.com/CVEProject"
             }
         },
         {
