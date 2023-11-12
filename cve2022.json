@@ -6,6 +6,17 @@
     "description": "CVE-2022 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/78447612?u=29da736f93ed4e1643ca154ed37e66c3fbe86174&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2022-29464 Exploit</div>",
+            "url": "https://github.com/Pasch0/WSO2RCE",
+            "title": "Pasch0/WSO2RCE: CVE-2022-29464 Exploit",
+            "date_modified": "2023-11-12T16:10:10.000Z",
+            "date_published": "2022-07-05T08:27:04.000Z",
+            "author": {
+                "name": "Pasch0",
+                "url": "https://github.com/Pasch0"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/95436708?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2022-32250-LPE</div>",
             "url": "https://github.com/Decstor5/2022-32250LPE",
             "title": "Decstor5/2022-32250LPE: CVE-2022-32250-LPE",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "r10lab",
                 "url": "https://github.com/r10lab"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/71512502?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2022-38601</div>",
-            "url": "https://github.com/jet-pentest/CVE-2022-38601",
-            "title": "jet-pentest/CVE-2022-38601: CVE-2022-38601",
-            "date_modified": "2023-10-23T14:13:40.000Z",
-            "date_published": "2023-10-23T13:34:53.000Z",
-            "author": {
-                "name": "jet-pentest",
-                "url": "https://github.com/jet-pentest"
             }
         }
     ]
