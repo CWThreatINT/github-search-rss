@@ -17,10 +17,21 @@
             }
         },
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/78701239?u=9e68d2365d0c26e3994dc3e04864bc97ccb91348&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2023-42468</div>",
+            "url": "https://github.com/actuator/com.cutestudio.colordialer",
+            "title": "actuator/com.cutestudio.colordialer: CVE-2023-42468",
+            "date_modified": "2023-09-11T21:00:49.000Z",
+            "date_published": "2023-09-02T14:48:07.000Z",
+            "author": {
+                "name": "actuator",
+                "url": "https://github.com/actuator"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/129839654?u=c66c0d35f4fe48086068c3b7bdeaaa20719e3cfa&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>This script leverages CVE-2023046604 (Apache ActiveMQ) to generate a pseudo shell. The vulnerability allows for remote code execution due to unsafe deserialization within the OpenWire protocol.</div>",
             "url": "https://github.com/duck-sec/CVE-2023-46604-ActiveMQ-RCE-pseudoshell",
             "title": "duck-sec/CVE-2023-46604-ActiveMQ-RCE-pseudoshell: This script leverages CVE-2023046604 (Apache ActiveMQ) to generate a pseudo shell. The vulnerability allows for remote code execution due to unsafe deserialization within the OpenWire protocol.",
-            "date_modified": "2023-11-12T14:07:23.000Z",
+            "date_modified": "2023-11-12T15:09:34.000Z",
             "date_published": "2023-11-12T11:26:46.000Z",
             "author": {
                 "name": "duck-sec",
@@ -69,17 +80,6 @@
             "author": {
                 "name": "k4but0",
                 "url": "https://github.com/k4but0"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/78701239?u=9e68d2365d0c26e3994dc3e04864bc97ccb91348&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2023-42468</div>",
-            "url": "https://github.com/actuator/com.cutestudio.colordialer",
-            "title": "actuator/com.cutestudio.colordialer: CVE-2023-42468",
-            "date_modified": "2023-09-11T21:00:49.000Z",
-            "date_published": "2023-09-02T14:48:07.000Z",
-            "author": {
-                "name": "actuator",
-                "url": "https://github.com/actuator"
             }
         },
         {
