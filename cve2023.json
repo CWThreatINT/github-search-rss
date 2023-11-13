@@ -17,6 +17,28 @@
             }
         },
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/84887432?u=971f0336ad60eacc95f3f5990218ea789768253d&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2023-5360 Exploit/POC</div>",
+            "url": "https://github.com/1337r0j4n/CVE-2023-5360",
+            "title": "1337r0j4n/CVE-2023-5360: CVE-2023-5360 Exploit/POC",
+            "date_modified": "2023-11-13T12:59:12.000Z",
+            "date_published": "2023-11-13T12:51:34.000Z",
+            "author": {
+                "name": "1337r0j4n",
+                "url": "https://github.com/1337r0j4n"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/148460873?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Statamic CMS versions &lt;4.33.0 vulnerable to \"Remote Code Execution\" </div>",
+            "url": "https://github.com/Cyber-Wo0dy/CVE-2023-47129",
+            "title": "Cyber-Wo0dy/CVE-2023-47129: Statamic CMS versions <4.33.0 vulnerable to \"Remote Code Execution\" ",
+            "date_modified": "2023-11-13T12:25:09.000Z",
+            "date_published": "2023-11-13T12:21:52.000Z",
+            "author": {
+                "name": "Cyber-Wo0dy",
+                "url": "https://github.com/Cyber-Wo0dy"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/51722811?u=a195458fc64bade6e8616d1d5c43883f0abde0c0&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Cloud Templates &amp; Patterns collection &lt;= 1.2.2 - Sensitive Information Exposure via Log File</div>",
             "url": "https://github.com/RandomRobbieBF/CVE-2023-47529",
             "title": "RandomRobbieBF/CVE-2023-47529: Cloud Templates & Patterns collection <= 1.2.2 - Sensitive Information Exposure via Log File",
@@ -198,28 +220,6 @@
             "title": "ersinerenler/CVE-2023-46014-Code-Projects-Blood-Bank-1.0-SQL-Injection-Vulnerability",
             "date_modified": "2023-11-10T17:40:37.000Z",
             "date_published": "2023-11-10T17:40:37.000Z",
-            "author": {
-                "name": "ersinerenler",
-                "url": "https://github.com/ersinerenler"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/113091631?u=a91c73f42967dd31c8dfb2b5fb92c890e68891f7&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
-            "url": "https://github.com/ersinerenler/CVE-2023-46015-Code-Projects-Blood-Bank-1.0-Reflected-Cross-Site-Scripting-Vulnerability",
-            "title": "ersinerenler/CVE-2023-46015-Code-Projects-Blood-Bank-1.0-Reflected-Cross-Site-Scripting-Vulnerability",
-            "date_modified": "2023-11-10T20:15:16.000Z",
-            "date_published": "2023-11-10T19:40:49.000Z",
-            "author": {
-                "name": "ersinerenler",
-                "url": "https://github.com/ersinerenler"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/113091631?u=a91c73f42967dd31c8dfb2b5fb92c890e68891f7&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
-            "url": "https://github.com/ersinerenler/CVE-2023-46016-Code-Projects-Blood-Bank-1.0-Reflected-Cross-Site-Scripting-Vulnerability",
-            "title": "ersinerenler/CVE-2023-46016-Code-Projects-Blood-Bank-1.0-Reflected-Cross-Site-Scripting-Vulnerability",
-            "date_modified": "2023-11-10T20:24:41.000Z",
-            "date_published": "2023-11-10T20:24:40.000Z",
             "author": {
                 "name": "ersinerenler",
                 "url": "https://github.com/ersinerenler"

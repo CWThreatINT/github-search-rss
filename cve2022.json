@@ -6,6 +6,17 @@
     "description": "CVE-2022 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/148460873?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2022-24227 [Updated]: BoltWire v8.00 vulnerable to \"Stored Cross-site Scripting (XSS)\"</div>",
+            "url": "https://github.com/Cyber-Wo0dy/CVE-2022-24227-updated",
+            "title": "Cyber-Wo0dy/CVE-2022-24227-updated: CVE-2022-24227 [Updated]: BoltWire v8.00 vulnerable to \"Stored Cross-site Scripting (XSS)\"",
+            "date_modified": "2023-11-13T12:56:26.000Z",
+            "date_published": "2023-11-13T12:53:56.000Z",
+            "author": {
+                "name": "Cyber-Wo0dy",
+                "url": "https://github.com/Cyber-Wo0dy"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/57265360?u=5a0d0ca6c5153d7e41b9f498a12fe2b35498adf6&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Spring4Shell Vulnerability RCE - CVE-2022-22965 </div>",
             "url": "https://github.com/LucasPDiniz/CVE-2022-22965",
             "title": "LucasPDiniz/CVE-2022-22965: Spring4Shell Vulnerability RCE - CVE-2022-22965 ",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "nidhi7598",
                 "url": "https://github.com/nidhi7598"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/148672587?u=45ae95d3d52464249941b3f5ef41173acf980498&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A PoC and Exploit for CVE 2022-29464</div>",
-            "url": "https://github.com/Pushkarup/CVE-2022-29464",
-            "title": "Pushkarup/CVE-2022-29464: A PoC and Exploit for CVE 2022-29464",
-            "date_modified": "2023-10-26T19:21:35.000Z",
-            "date_published": "2023-10-24T18:54:09.000Z",
-            "author": {
-                "name": "Pushkarup",
-                "url": "https://github.com/Pushkarup"
             }
         }
     ]
