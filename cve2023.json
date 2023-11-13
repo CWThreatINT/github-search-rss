@@ -6,6 +6,28 @@
     "description": "CVE-2023 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/72421091?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A POC for CVE-2023-47119</div>",
+            "url": "https://github.com/BaadMaro/CVE-2023-47119",
+            "title": "BaadMaro/CVE-2023-47119: A POC for CVE-2023-47119",
+            "date_modified": "2023-11-12T23:34:07.000Z",
+            "date_published": "2023-11-12T23:34:07.000Z",
+            "author": {
+                "name": "BaadMaro",
+                "url": "https://github.com/BaadMaro"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/18223385?u=5ba29c1a9447ae88a6a0433f44038f47471e11c1&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>TOP All bugbounty pentesting CVE-2023- POC Exp  RCE example payload  Things</div>",
+            "url": "https://github.com/hktalent/TOP",
+            "title": "hktalent/TOP: TOP All bugbounty pentesting CVE-2023- POC Exp  RCE example payload  Things",
+            "date_modified": "2023-11-12T14:36:30.000Z",
+            "date_published": "2022-03-19T01:54:15.000Z",
+            "author": {
+                "name": "hktalent",
+                "url": "https://github.com/hktalent"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/18195825?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023</div>",
             "url": "https://github.com/CVEProject/cvelist",
             "title": "CVEProject/cvelist: Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023",
@@ -47,17 +69,6 @@
             "author": {
                 "name": "sule01u",
                 "url": "https://github.com/sule01u"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/18223385?u=5ba29c1a9447ae88a6a0433f44038f47471e11c1&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>TOP All bugbounty pentesting CVE-2023- POC Exp  RCE example payload  Things</div>",
-            "url": "https://github.com/hktalent/TOP",
-            "title": "hktalent/TOP: TOP All bugbounty pentesting CVE-2023- POC Exp  RCE example payload  Things",
-            "date_modified": "2023-11-12T14:36:30.000Z",
-            "date_published": "2022-03-19T01:54:15.000Z",
-            "author": {
-                "name": "hktalent",
-                "url": "https://github.com/hktalent"
             }
         },
         {
@@ -209,17 +220,6 @@
             "title": "ditekshen/ansible-cve-2023-22518: Ansible Playbook for CVE-2023-22518",
             "date_modified": "2023-11-10T11:00:14.000Z",
             "date_published": "2023-11-10T10:59:09.000Z",
-            "author": {
-                "name": "ditekshen",
-                "url": "https://github.com/ditekshen"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/43088607?u=1f6f62e23f0e2868559b8fc902e0916c91d0749a&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Ansible Playbook for CVE-2023-20198</div>",
-            "url": "https://github.com/ditekshen/ansible-cve-2023-20198",
-            "title": "ditekshen/ansible-cve-2023-20198: Ansible Playbook for CVE-2023-20198",
-            "date_modified": "2023-10-19T05:47:54.000Z",
-            "date_published": "2023-10-18T16:49:51.000Z",
             "author": {
                 "name": "ditekshen",
                 "url": "https://github.com/ditekshen"
