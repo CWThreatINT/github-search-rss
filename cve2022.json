@@ -6,6 +6,17 @@
     "description": "CVE-2022 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/64825932?u=310c27596143f5dbcd65980ed12bdd9172d6fc77&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2022-22965\\Spring-Core-RCE核弹级别漏洞的rce图形化GUI一键利用工具，基于JavaFx开发，图形化操作更简单，提高效率。</div>",
+            "url": "https://github.com/zangcc/CVE-2022-22965-rexbb",
+            "title": "zangcc/CVE-2022-22965-rexbb: CVE-2022-22965\\Spring-Core-RCE核弹级别漏洞的rce图形化GUI一键利用工具，基于JavaFx开发，图形化操作更简单，提高效率。",
+            "date_modified": "2023-10-17T18:41:40.000Z",
+            "date_published": "2022-12-28T04:50:16.000Z",
+            "author": {
+                "name": "zangcc",
+                "url": "https://github.com/zangcc"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/5469666?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
             "url": "https://github.com/martinvks/CVE-2022-45059-poc",
             "title": "martinvks/CVE-2022-45059-poc",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "OwlsNightCatch",
                 "url": "https://github.com/OwlsNightCatch"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/113995024?u=76541b2fb3dc73fad8e69cea5e4c1401f3ff1013&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Bash script to check if kernel is vulnerable </div>",
-            "url": "https://github.com/ayushx007/CVE-2022-0847-dirty-pipe-checker",
-            "title": "ayushx007/CVE-2022-0847-dirty-pipe-checker: Bash script to check if kernel is vulnerable ",
-            "date_modified": "2023-10-25T11:29:25.000Z",
-            "date_published": "2023-10-25T11:28:22.000Z",
-            "author": {
-                "name": "ayushx007",
-                "url": "https://github.com/ayushx007"
             }
         }
     ]
