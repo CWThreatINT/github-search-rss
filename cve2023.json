@@ -17,6 +17,17 @@
             }
         },
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/47226783?u=19dd0cc8a01c437b782ab4b86dfe50fe7987e0ea&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>DoS vulnerability in AMD driver that corrupts the display.</div>",
+            "url": "https://github.com/whypet/CVE-2023-31320",
+            "title": "whypet/CVE-2023-31320: DoS vulnerability in AMD driver that corrupts the display.",
+            "date_modified": "2023-11-14T21:49:22.000Z",
+            "date_published": "2023-08-22T21:15:46.000Z",
+            "author": {
+                "name": "whypet",
+                "url": "https://github.com/whypet"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/1591209?u=5b4518c35a54210fb0e2cecebc9d74ed0df7f9f3&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
             "url": "https://github.com/gergelykalman/CVE-2023-32407-a-macOS-TCC-bypass-in-Metal",
             "title": "gergelykalman/CVE-2023-32407-a-macOS-TCC-bypass-in-Metal",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "Umutkgz",
                 "url": "https://github.com/Umutkgz"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/32299032?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
-            "url": "https://github.com/emirhanerdogu/CVE-2023-47014-Sticky-Notes-App-Using-PHP-with-Source-Code-v1.0-CSRF-to-CORS",
-            "title": "emirhanerdogu/CVE-2023-47014-Sticky-Notes-App-Using-PHP-with-Source-Code-v1.0-CSRF-to-CORS",
-            "date_modified": "2023-11-14T08:08:08.000Z",
-            "date_published": "2023-11-14T08:08:08.000Z",
-            "author": {
-                "name": "emirhanerdogu",
-                "url": "https://github.com/emirhanerdogu"
             }
         }
     ]

@@ -6,6 +6,17 @@
     "description": "CVE-2022 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/43733113?u=e5b75e0176e7f951c8ad42fff83a82d1fb45e069&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
+            "url": "https://github.com/NataliSemi/-CVE-2022-44268",
+            "title": "NataliSemi/-CVE-2022-44268",
+            "date_modified": "2023-11-14T22:02:19.000Z",
+            "date_published": "2023-11-14T21:54:17.000Z",
+            "author": {
+                "name": "NataliSemi",
+                "url": "https://github.com/NataliSemi"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/74200918?u=e06e9e9906c202d27e92ae2fb98b28af88038b44&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>An exploitation of CVE-2022-30190 (Follina)</div>",
             "url": "https://github.com/meowhua15/CVE-2022-30190",
             "title": "meowhua15/CVE-2022-30190: An exploitation of CVE-2022-30190 (Follina)",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "nidhi7598",
                 "url": "https://github.com/nidhi7598"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/118552753?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>This is a POC for CVE-2022-22963 </div>",
-            "url": "https://github.com/BearClaw96/CVE-2022-22963-Poc-Bearcules",
-            "title": "BearClaw96/CVE-2022-22963-Poc-Bearcules: This is a POC for CVE-2022-22963 ",
-            "date_modified": "2023-10-28T21:55:49.000Z",
-            "date_published": "2023-10-28T21:42:38.000Z",
-            "author": {
-                "name": "BearClaw96",
-                "url": "https://github.com/BearClaw96"
             }
         }
     ]
