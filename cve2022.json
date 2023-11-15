@@ -105,6 +105,17 @@
             }
         },
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/131438625?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
+            "url": "https://github.com/RSA-Demo/cve-2022-42889-text4shell",
+            "title": "RSA-Demo/cve-2022-42889-text4shell",
+            "date_modified": "2023-05-05T13:36:18.000Z",
+            "date_published": "2023-04-21T08:15:19.000Z",
+            "author": {
+                "name": "RSA-Demo",
+                "url": "https://github.com/RSA-Demo"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/95436708?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2022-32250-LPE</div>",
             "url": "https://github.com/Decstor5/2022-32250LPE",
             "title": "Decstor5/2022-32250LPE: CVE-2022-32250-LPE",
@@ -135,6 +146,17 @@
             "author": {
                 "name": "d4rkb0n3",
                 "url": "https://github.com/d4rkb0n3"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/121743489?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>ImageMagick LFI PoC [CVE-2022-44268]</div>",
+            "url": "https://github.com/Sybil-Scan/imagemagick-lfi-poc",
+            "title": "Sybil-Scan/imagemagick-lfi-poc: ImageMagick LFI PoC [CVE-2022-44268]",
+            "date_modified": "2023-10-30T01:37:28.000Z",
+            "date_published": "2023-02-06T10:44:43.000Z",
+            "author": {
+                "name": "Sybil-Scan",
+                "url": "https://github.com/Sybil-Scan"
             }
         },
         {
@@ -201,28 +223,6 @@
             "author": {
                 "name": "hotblac",
                 "url": "https://github.com/hotblac"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/38017709?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2020-20093; 20094; 20095; 20096, 2022-28345 RTLO Injection URI Spoofing </div>",
-            "url": "https://github.com/zadewg/RIUS",
-            "title": "zadewg/RIUS: CVE-2020-20093; 20094; 20095; 20096, 2022-28345 RTLO Injection URI Spoofing ",
-            "date_modified": "2023-10-31T02:36:52.000Z",
-            "date_published": "2019-08-15T18:22:18.000Z",
-            "author": {
-                "name": "zadewg",
-                "url": "https://github.com/zadewg"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/106973537?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
-            "url": "https://github.com/nidhi7598/OPENSSL_1.0.1g_G2.5_CVE-2022-0778",
-            "title": "nidhi7598/OPENSSL_1.0.1g_G2.5_CVE-2022-0778",
-            "date_modified": "2023-10-30T09:58:32.000Z",
-            "date_published": "2023-10-30T09:52:21.000Z",
-            "author": {
-                "name": "nidhi7598",
-                "url": "https://github.com/nidhi7598"
             }
         }
     ]
