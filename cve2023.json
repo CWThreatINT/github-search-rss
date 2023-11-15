@@ -6,17 +6,6 @@
     "description": "CVE-2023 FEED on GitHub",
     "items": [
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/77874955?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2023-38831、CNNVD-202308-1943、DM-202307-003730、QVD-2023-19572</div>",
-            "url": "https://github.com/xk-mt/winrar-Vulnerability-recurrence-tutorial",
-            "title": "xk-mt/winrar-Vulnerability-recurrence-tutorial: CVE-2023-38831、CNNVD-202308-1943、DM-202307-003730、QVD-2023-19572",
-            "date_modified": "2023-11-15T07:06:08.000Z",
-            "date_published": "2023-11-15T07:01:05.000Z",
-            "author": {
-                "name": "xk-mt",
-                "url": "https://github.com/xk-mt"
-            }
-        },
-        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/18195825?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023</div>",
             "url": "https://github.com/CVEProject/cvelist",
             "title": "CVEProject/cvelist: Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023",
@@ -28,10 +17,21 @@
             }
         },
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/77874955?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>WinRAR-6.22、CVE-2023-38831、CNNVD-202308-1943、DM-202307-003730、QVD-2023-19572漏洞复现</div>",
+            "url": "https://github.com/xk-mt/WinRAR-Vulnerability-recurrence-tutorial",
+            "title": "xk-mt/WinRAR-Vulnerability-recurrence-tutorial: WinRAR-6.22、CVE-2023-38831、CNNVD-202308-1943、DM-202307-003730、QVD-2023-19572漏洞复现",
+            "date_modified": "2023-11-15T07:15:49.000Z",
+            "date_published": "2023-11-15T07:01:05.000Z",
+            "author": {
+                "name": "xk-mt",
+                "url": "https://github.com/xk-mt"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/1620923?u=515f6d3996440a42b7caaa34e6d9214616d0cbd6&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Report and exploit of CVE-2023-36427</div>",
             "url": "https://github.com/tandasat/CVE-2023-36427",
             "title": "tandasat/CVE-2023-36427: Report and exploit of CVE-2023-36427",
-            "date_modified": "2023-11-15T06:39:20.000Z",
+            "date_modified": "2023-11-15T07:59:40.000Z",
             "date_published": "2023-10-09T16:55:18.000Z",
             "author": {
                 "name": "tandasat",
