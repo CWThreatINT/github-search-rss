@@ -6,6 +6,17 @@
     "description": "CVE-2023 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/124696286?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
+            "url": "https://github.com/a-bazi/test-CVE-2023-29325",
+            "title": "a-bazi/test-CVE-2023-29325",
+            "date_modified": "2023-06-07T07:51:59.000Z",
+            "date_published": "2023-06-07T07:51:59.000Z",
+            "author": {
+                "name": "a-bazi",
+                "url": "https://github.com/a-bazi"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/18195825?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023</div>",
             "url": "https://github.com/CVEProject/cvelist",
             "title": "CVEProject/cvelist: Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023",
@@ -17,10 +28,32 @@
             }
         },
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/113091631?u=a91c73f42967dd31c8dfb2b5fb92c890e68891f7&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
+            "url": "https://github.com/ersinerenler/CVE-2023-46022-Code-Projects-Blood-Bank-1.0-OOB-SQL-Injection-Vulnerability",
+            "title": "ersinerenler/CVE-2023-46022-Code-Projects-Blood-Bank-1.0-OOB-SQL-Injection-Vulnerability",
+            "date_modified": "2023-11-11T10:54:25.000Z",
+            "date_published": "2023-11-11T10:54:25.000Z",
+            "author": {
+                "name": "ersinerenler",
+                "url": "https://github.com/ersinerenler"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/52488475?u=87f4ff149246bbba8ac11f9a9bcf8247c340da27&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Ubuntu Privilege Escalation bash one-liner using CVE-2023-32629 &amp; CVE-2023-2640</div>",
+            "url": "https://github.com/ThrynSec/CVE-2023-32629-CVE-2023-2640---POC-Escalation",
+            "title": "ThrynSec/CVE-2023-32629-CVE-2023-2640---POC-Escalation: Ubuntu Privilege Escalation bash one-liner using CVE-2023-32629 & CVE-2023-2640",
+            "date_modified": "2023-11-15T08:58:30.000Z",
+            "date_published": "2023-11-09T09:19:23.000Z",
+            "author": {
+                "name": "ThrynSec",
+                "url": "https://github.com/ThrynSec"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/77874955?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>WinRAR-6.22、CVE-2023-38831、CNNVD-202308-1943、DM-202307-003730、QVD-2023-19572漏洞复现</div>",
             "url": "https://github.com/xk-mt/WinRAR-Vulnerability-recurrence-tutorial",
             "title": "xk-mt/WinRAR-Vulnerability-recurrence-tutorial: WinRAR-6.22、CVE-2023-38831、CNNVD-202308-1943、DM-202307-003730、QVD-2023-19572漏洞复现",
-            "date_modified": "2023-11-15T07:15:49.000Z",
+            "date_modified": "2023-11-15T08:47:43.000Z",
             "date_published": "2023-11-15T07:01:05.000Z",
             "author": {
                 "name": "xk-mt",
@@ -31,7 +64,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/1620923?u=515f6d3996440a42b7caaa34e6d9214616d0cbd6&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Report and exploit of CVE-2023-36427</div>",
             "url": "https://github.com/tandasat/CVE-2023-36427",
             "title": "tandasat/CVE-2023-36427: Report and exploit of CVE-2023-36427",
-            "date_modified": "2023-11-15T07:59:40.000Z",
+            "date_modified": "2023-11-15T09:03:18.000Z",
             "date_published": "2023-10-09T16:55:18.000Z",
             "author": {
                 "name": "tandasat",
@@ -187,39 +220,6 @@
             "title": "ersinerenler/CVE-2023-46019-Code-Projects-Blood-Bank-1.0-Reflected-Cross-Site-Scripting-Vulnerability",
             "date_modified": "2023-11-11T08:23:31.000Z",
             "date_published": "2023-11-11T08:23:30.000Z",
-            "author": {
-                "name": "ersinerenler",
-                "url": "https://github.com/ersinerenler"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/113091631?u=a91c73f42967dd31c8dfb2b5fb92c890e68891f7&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
-            "url": "https://github.com/ersinerenler/CVE-2023-46018-Code-Projects-Blood-Bank-1.0-SQL-Injection-Vulnerability",
-            "title": "ersinerenler/CVE-2023-46018-Code-Projects-Blood-Bank-1.0-SQL-Injection-Vulnerability",
-            "date_modified": "2023-11-11T07:37:57.000Z",
-            "date_published": "2023-11-11T07:37:57.000Z",
-            "author": {
-                "name": "ersinerenler",
-                "url": "https://github.com/ersinerenler"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/113091631?u=a91c73f42967dd31c8dfb2b5fb92c890e68891f7&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
-            "url": "https://github.com/ersinerenler/CVE-2023-46017-Code-Projects-Blood-Bank-1.0-SQL-Injection-Vulnerability",
-            "title": "ersinerenler/CVE-2023-46017-Code-Projects-Blood-Bank-1.0-SQL-Injection-Vulnerability",
-            "date_modified": "2023-11-10T20:46:30.000Z",
-            "date_published": "2023-11-10T20:46:29.000Z",
-            "author": {
-                "name": "ersinerenler",
-                "url": "https://github.com/ersinerenler"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/113091631?u=a91c73f42967dd31c8dfb2b5fb92c890e68891f7&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
-            "url": "https://github.com/ersinerenler/CVE-2023-46016-Code-Projects-Blood-Bank-1.0-Reflected-Cross-Site-Scripting-Vulnerability",
-            "title": "ersinerenler/CVE-2023-46016-Code-Projects-Blood-Bank-1.0-Reflected-Cross-Site-Scripting-Vulnerability",
-            "date_modified": "2023-11-10T20:24:41.000Z",
-            "date_published": "2023-11-10T20:24:40.000Z",
             "author": {
                 "name": "ersinerenler",
                 "url": "https://github.com/ersinerenler"
