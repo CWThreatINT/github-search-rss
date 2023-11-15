@@ -17,6 +17,28 @@
             }
         },
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/3177297?u=1dc4112dad2c6f5dbe118bba3031b9458cbd4d5e&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2023-6063 (WP Fastest Cache &lt; 1.2.2 - UnAuth SQL Injection)</div>",
+            "url": "https://github.com/motikan2010/CVE-2023-6063-PoC",
+            "title": "motikan2010/CVE-2023-6063-PoC: CVE-2023-6063 (WP Fastest Cache < 1.2.2 - UnAuth SQL Injection)",
+            "date_modified": "2023-11-15T15:06:39.000Z",
+            "date_published": "2023-11-15T14:53:03.000Z",
+            "author": {
+                "name": "motikan2010",
+                "url": "https://github.com/motikan2010"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/1620923?u=515f6d3996440a42b7caaa34e6d9214616d0cbd6&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Report and exploit of CVE-2023-36427</div>",
+            "url": "https://github.com/tandasat/CVE-2023-36427",
+            "title": "tandasat/CVE-2023-36427: Report and exploit of CVE-2023-36427",
+            "date_modified": "2023-11-15T14:35:37.000Z",
+            "date_published": "2023-10-09T16:55:18.000Z",
+            "author": {
+                "name": "tandasat",
+                "url": "https://github.com/tandasat"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/42366434?u=77563d3f2dcae75621bfb8e777b36a85982af059&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2023-54436</div>",
             "url": "https://github.com/NHPT/CVE-2023-54436",
             "title": "NHPT/CVE-2023-54436: CVE-2023-54436",
@@ -91,17 +113,6 @@
             "author": {
                 "name": "xk-mt",
                 "url": "https://github.com/xk-mt"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/1620923?u=515f6d3996440a42b7caaa34e6d9214616d0cbd6&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Report and exploit of CVE-2023-36427</div>",
-            "url": "https://github.com/tandasat/CVE-2023-36427",
-            "title": "tandasat/CVE-2023-36427: Report and exploit of CVE-2023-36427",
-            "date_modified": "2023-11-15T13:29:42.000Z",
-            "date_published": "2023-10-09T16:55:18.000Z",
-            "author": {
-                "name": "tandasat",
-                "url": "https://github.com/tandasat"
             }
         },
         {
@@ -212,17 +223,6 @@
             "author": {
                 "name": "nitipoom-jar",
                 "url": "https://github.com/nitipoom-jar"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/78701239?u=9e68d2365d0c26e3994dc3e04864bc97ccb91348&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2023-42471</div>",
-            "url": "https://github.com/actuator/wave.ai.browser",
-            "title": "actuator/wave.ai.browser: CVE-2023-42471",
-            "date_modified": "2023-09-11T20:59:38.000Z",
-            "date_published": "2023-08-28T05:34:04.000Z",
-            "author": {
-                "name": "actuator",
-                "url": "https://github.com/actuator"
             }
         }
     ]
