@@ -6,6 +6,17 @@
     "description": "CVE-2022 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/130330296?u=672fbd82b39a7b081cc61cca6306e6dd5b5b7963&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
+            "url": "https://github.com/S4muraiMelayu1337/CVE-2022-29469",
+            "title": "S4muraiMelayu1337/CVE-2022-29469",
+            "date_modified": "2023-11-15T18:49:58.000Z",
+            "date_published": "2023-11-15T18:47:44.000Z",
+            "author": {
+                "name": "S4muraiMelayu1337",
+                "url": "https://github.com/S4muraiMelayu1337"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/43733113?u=e5b75e0176e7f951c8ad42fff83a82d1fb45e069&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
             "url": "https://github.com/NataliSemi/-CVE-2022-44268",
             "title": "NataliSemi/-CVE-2022-44268",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "AlexanderZinoni",
                 "url": "https://github.com/AlexanderZinoni"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/4406140?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Demonstration of CVE-2022-31692 authorization bypass in Spring Security</div>",
-            "url": "https://github.com/hotblac/cve-2022-31692",
-            "title": "hotblac/cve-2022-31692: Demonstration of CVE-2022-31692 authorization bypass in Spring Security",
-            "date_modified": "2023-10-29T17:31:49.000Z",
-            "date_published": "2023-10-29T17:31:23.000Z",
-            "author": {
-                "name": "hotblac",
-                "url": "https://github.com/hotblac"
             }
         }
     ]
