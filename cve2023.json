@@ -6,17 +6,6 @@
     "description": "CVE-2023 FEED on GitHub",
     "items": [
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/1620923?u=515f6d3996440a42b7caaa34e6d9214616d0cbd6&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Report and exploit of CVE-2023-36427</div>",
-            "url": "https://github.com/tandasat/CVE-2023-36427",
-            "title": "tandasat/CVE-2023-36427: Report and exploit of CVE-2023-36427",
-            "date_modified": "2023-11-15T04:55:00.000Z",
-            "date_published": "2023-10-09T16:55:18.000Z",
-            "author": {
-                "name": "tandasat",
-                "url": "https://github.com/tandasat"
-            }
-        },
-        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/18195825?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023</div>",
             "url": "https://github.com/CVEProject/cvelist",
             "title": "CVEProject/cvelist: Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023",
@@ -25,6 +14,17 @@
             "author": {
                 "name": "CVEProject",
                 "url": "https://github.com/CVEProject"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/1620923?u=515f6d3996440a42b7caaa34e6d9214616d0cbd6&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Report and exploit of CVE-2023-36427</div>",
+            "url": "https://github.com/tandasat/CVE-2023-36427",
+            "title": "tandasat/CVE-2023-36427: Report and exploit of CVE-2023-36427",
+            "date_modified": "2023-11-15T04:55:00.000Z",
+            "date_published": "2023-10-09T16:55:18.000Z",
+            "author": {
+                "name": "tandasat",
+                "url": "https://github.com/tandasat"
             }
         },
         {
