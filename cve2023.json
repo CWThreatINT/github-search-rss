@@ -17,6 +17,17 @@
             }
         },
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/1620923?u=515f6d3996440a42b7caaa34e6d9214616d0cbd6&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Report and exploit of CVE-2023-36427</div>",
+            "url": "https://github.com/tandasat/CVE-2023-36427",
+            "title": "tandasat/CVE-2023-36427: Report and exploit of CVE-2023-36427",
+            "date_modified": "2023-11-16T05:02:14.000Z",
+            "date_published": "2023-10-09T16:55:18.000Z",
+            "author": {
+                "name": "tandasat",
+                "url": "https://github.com/tandasat"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/56113617?u=942dfaabc853016d7fa391ad212585a6dfae9934&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2023-46604环境复现包</div>",
             "url": "https://github.com/LiritoShawshark/CVE-2023-46604_ActiveMQ_RCE_Recurrence",
             "title": "LiritoShawshark/CVE-2023-46604_ActiveMQ_RCE_Recurrence: CVE-2023-46604环境复现包",
@@ -127,17 +138,6 @@
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/1620923?u=515f6d3996440a42b7caaa34e6d9214616d0cbd6&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Report and exploit of CVE-2023-36427</div>",
-            "url": "https://github.com/tandasat/CVE-2023-36427",
-            "title": "tandasat/CVE-2023-36427: Report and exploit of CVE-2023-36427",
-            "date_modified": "2023-11-16T03:32:08.000Z",
-            "date_published": "2023-10-09T16:55:18.000Z",
-            "author": {
-                "name": "tandasat",
-                "url": "https://github.com/tandasat"
-            }
-        },
-        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/42366434?u=77563d3f2dcae75621bfb8e777b36a85982af059&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2023-54436</div>",
             "url": "https://github.com/NHPT/CVE-2023-54436",
             "title": "NHPT/CVE-2023-54436: CVE-2023-54436",
@@ -196,7 +196,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/52488475?u=87f4ff149246bbba8ac11f9a9bcf8247c340da27&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Ubuntu Privilege Escalation bash one-liner using CVE-2023-32629 &amp; CVE-2023-2640</div>",
             "url": "https://github.com/ThrynSec/CVE-2023-32629-CVE-2023-2640---POC-Escalation",
             "title": "ThrynSec/CVE-2023-32629-CVE-2023-2640---POC-Escalation: Ubuntu Privilege Escalation bash one-liner using CVE-2023-32629 & CVE-2023-2640",
-            "date_modified": "2023-11-16T02:40:40.000Z",
+            "date_modified": "2023-11-16T04:51:17.000Z",
             "date_published": "2023-11-09T09:19:23.000Z",
             "author": {
                 "name": "ThrynSec",
