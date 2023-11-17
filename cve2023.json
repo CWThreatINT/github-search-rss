@@ -17,6 +17,17 @@
             }
         },
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/47226783?u=19dd0cc8a01c437b782ab4b86dfe50fe7987e0ea&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>DoS vulnerability in AMD driver that corrupts the display.</div>",
+            "url": "https://github.com/whypet/CVE-2023-31320",
+            "title": "whypet/CVE-2023-31320: DoS vulnerability in AMD driver that corrupts the display.",
+            "date_modified": "2023-11-17T10:36:56.000Z",
+            "date_published": "2023-08-22T21:15:46.000Z",
+            "author": {
+                "name": "whypet",
+                "url": "https://github.com/whypet"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/65826410?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>This code functionally approximates the Citrix Bleed vulnerability (CVE-2023-4699).</div>",
             "url": "https://github.com/Scottzxor/Citrix-Bleed-Buffer-Overread-Demo",
             "title": "Scottzxor/Citrix-Bleed-Buffer-Overread-Demo: This code functionally approximates the Citrix Bleed vulnerability (CVE-2023-4699).",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "nitipoom-jar",
                 "url": "https://github.com/nitipoom-jar"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/122823051?u=17cbf632ac4d05b6a990846748bf7b09db96ac49&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2023-6063 (WP Fastest Cache &lt; 1.2.2 - UnAuth SQL Injection)</div>",
-            "url": "https://github.com/thesafdari/CVE-2023-6063",
-            "title": "thesafdari/CVE-2023-6063: CVE-2023-6063 (WP Fastest Cache < 1.2.2 - UnAuth SQL Injection)",
-            "date_modified": "2023-11-16T17:54:07.000Z",
-            "date_published": "2023-11-16T17:41:59.000Z",
-            "author": {
-                "name": "thesafdari",
-                "url": "https://github.com/thesafdari"
             }
         }
     ]
