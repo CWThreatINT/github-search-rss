@@ -6,14 +6,14 @@
     "description": "CVE-2023 FEED on GitHub",
     "items": [
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/18195825?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023</div>",
-            "url": "https://github.com/CVEProject/cvelist",
-            "title": "CVEProject/cvelist: Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023",
-            "date_modified": "2023-11-14T06:08:26.000Z",
-            "date_published": "2020-11-02T19:30:55.000Z",
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/101872898?u=ff91a9355029d7341ab430bfc2802eb4d72f92d7&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>exploit for cve-2023-46747 (shell upload)</div>",
+            "url": "https://github.com/W01fh4cker/CVE-2023-47246-EXP",
+            "title": "W01fh4cker/CVE-2023-47246-EXP: exploit for cve-2023-46747 (shell upload)",
+            "date_modified": "2023-11-17T07:03:07.000Z",
+            "date_published": "2023-11-17T07:03:06.000Z",
             "author": {
-                "name": "CVEProject",
-                "url": "https://github.com/CVEProject"
+                "name": "W01fh4cker",
+                "url": "https://github.com/W01fh4cker"
             }
         },
         {
@@ -25,6 +25,28 @@
             "author": {
                 "name": "smokeintheshell",
                 "url": "https://github.com/smokeintheshell"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/18195825?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023</div>",
+            "url": "https://github.com/CVEProject/cvelist",
+            "title": "CVEProject/cvelist: Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023",
+            "date_modified": "2023-11-14T06:08:26.000Z",
+            "date_published": "2020-11-02T19:30:55.000Z",
+            "author": {
+                "name": "CVEProject",
+                "url": "https://github.com/CVEProject"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/66168888?u=1dd43e21bd5bfefef07eed73f3c1ed6fac18a692&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2023-44796</div>",
+            "url": "https://github.com/Hebing123/CVE-2023-44796",
+            "title": "Hebing123/CVE-2023-44796: CVE-2023-44796",
+            "date_modified": "2023-11-17T06:50:16.000Z",
+            "date_published": "2023-11-17T06:50:16.000Z",
+            "author": {
+                "name": "Hebing123",
+                "url": "https://github.com/Hebing123"
             }
         },
         {
@@ -152,7 +174,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/1620923?u=515f6d3996440a42b7caaa34e6d9214616d0cbd6&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Report and exploit of CVE-2023-36427</div>",
             "url": "https://github.com/tandasat/CVE-2023-36427",
             "title": "tandasat/CVE-2023-36427: Report and exploit of CVE-2023-36427",
-            "date_modified": "2023-11-17T04:43:40.000Z",
+            "date_modified": "2023-11-17T06:29:01.000Z",
             "date_published": "2023-10-09T16:55:18.000Z",
             "author": {
                 "name": "tandasat",
@@ -201,28 +223,6 @@
             "author": {
                 "name": "nitipoom-jar",
                 "url": "https://github.com/nitipoom-jar"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/149907798?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
-            "url": "https://github.com/nitipoom-jar/CVE-2023-47488",
-            "title": "nitipoom-jar/CVE-2023-47488",
-            "date_modified": "2023-11-15T16:47:44.000Z",
-            "date_published": "2023-11-15T16:32:01.000Z",
-            "author": {
-                "name": "nitipoom-jar",
-                "url": "https://github.com/nitipoom-jar"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/98520856?u=0ab2e4503490294b57f89faab6cf5673a2fd85f8&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
-            "url": "https://github.com/rubbxalc/CVE-2023-1521",
-            "title": "rubbxalc/CVE-2023-1521",
-            "date_modified": "2023-11-15T15:31:55.000Z",
-            "date_published": "2023-11-15T15:31:44.000Z",
-            "author": {
-                "name": "rubbxalc",
-                "url": "https://github.com/rubbxalc"
             }
         }
     ]
