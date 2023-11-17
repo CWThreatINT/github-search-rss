@@ -6,6 +6,28 @@
     "description": "CVE-2023 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/18195825?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023</div>",
+            "url": "https://github.com/CVEProject/cvelist",
+            "title": "CVEProject/cvelist: Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023",
+            "date_modified": "2023-11-17T15:33:12.000Z",
+            "date_published": "2020-11-02T19:30:55.000Z",
+            "author": {
+                "name": "CVEProject",
+                "url": "https://github.com/CVEProject"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/5593452?u=534b5f5fdc6bb4deb41551cde98fc055eec95b2c&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
+            "url": "https://github.com/ka7ana/CVE-2023-36025",
+            "title": "ka7ana/CVE-2023-36025",
+            "date_modified": "2023-11-17T15:48:59.000Z",
+            "date_published": "2023-11-17T15:46:44.000Z",
+            "author": {
+                "name": "ka7ana",
+                "url": "https://github.com/ka7ana"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/19311214?u=2c679aafd425dd6ec18db28ac8ff2dec279ce1c7&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2023-20198 Exploit PoC</div>",
             "url": "https://github.com/smokeintheshell/CVE-2023-20198",
             "title": "smokeintheshell/CVE-2023-20198: CVE-2023-20198 Exploit PoC",
@@ -17,14 +39,14 @@
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/18195825?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023</div>",
-            "url": "https://github.com/CVEProject/cvelist",
-            "title": "CVEProject/cvelist: Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023",
-            "date_modified": "2023-11-14T06:08:26.000Z",
-            "date_published": "2020-11-02T19:30:55.000Z",
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/41269324?u=ca57d9fa0ec1243f665b3f5e038fc6a7d17750de&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>LPE PoC of a vulnerability in the io_uring subsystem of the Linux Kernel.</div>",
+            "url": "https://github.com/ysanatomic/io_uring_LPE-CVE-2023-2598",
+            "title": "ysanatomic/io_uring_LPE-CVE-2023-2598: LPE PoC of a vulnerability in the io_uring subsystem of the Linux Kernel.",
+            "date_modified": "2023-11-17T15:13:01.000Z",
+            "date_published": "2023-11-16T23:41:27.000Z",
             "author": {
-                "name": "CVEProject",
-                "url": "https://github.com/CVEProject"
+                "name": "ysanatomic",
+                "url": "https://github.com/ysanatomic"
             }
         },
         {
@@ -75,7 +97,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/101872898?u=ff91a9355029d7341ab430bfc2802eb4d72f92d7&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>exploit for cve-2023-47246 SysAid RCE (shell upload)</div>",
             "url": "https://github.com/W01fh4cker/CVE-2023-47246-EXP",
             "title": "W01fh4cker/CVE-2023-47246-EXP: exploit for cve-2023-47246 SysAid RCE (shell upload)",
-            "date_modified": "2023-11-17T14:47:54.000Z",
+            "date_modified": "2023-11-17T16:08:35.000Z",
             "date_published": "2023-11-17T07:03:06.000Z",
             "author": {
                 "name": "W01fh4cker",
@@ -201,28 +223,6 @@
             "author": {
                 "name": "hackersroot",
                 "url": "https://github.com/hackersroot"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/1620923?u=515f6d3996440a42b7caaa34e6d9214616d0cbd6&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Report and exploit of CVE-2023-36427</div>",
-            "url": "https://github.com/tandasat/CVE-2023-36427",
-            "title": "tandasat/CVE-2023-36427: Report and exploit of CVE-2023-36427",
-            "date_modified": "2023-11-17T08:13:09.000Z",
-            "date_published": "2023-10-09T16:55:18.000Z",
-            "author": {
-                "name": "tandasat",
-                "url": "https://github.com/tandasat"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/56113617?u=942dfaabc853016d7fa391ad212585a6dfae9934&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2023-46604环境复现包</div>",
-            "url": "https://github.com/LiritoShawshark/CVE-2023-46604_ActiveMQ_RCE_Recurrence",
-            "title": "LiritoShawshark/CVE-2023-46604_ActiveMQ_RCE_Recurrence: CVE-2023-46604环境复现包",
-            "date_modified": "2023-11-16T02:38:04.000Z",
-            "date_published": "2023-11-16T02:36:07.000Z",
-            "author": {
-                "name": "LiritoShawshark",
-                "url": "https://github.com/LiritoShawshark"
             }
         }
     ]
