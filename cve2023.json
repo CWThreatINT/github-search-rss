@@ -17,10 +17,32 @@
             }
         },
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/72421091?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A POC for CVE-2023-47119</div>",
+            "url": "https://github.com/BaadMaro/CVE-2023-47119",
+            "title": "BaadMaro/CVE-2023-47119: A POC for CVE-2023-47119",
+            "date_modified": "2023-11-16T13:35:52.000Z",
+            "date_published": "2023-11-12T23:34:07.000Z",
+            "author": {
+                "name": "BaadMaro",
+                "url": "https://github.com/BaadMaro"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/41269324?u=ca57d9fa0ec1243f665b3f5e038fc6a7d17750de&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>LPE PoC of a vulnerability in the io_uring subsystem of the Linux Kernel.</div>",
+            "url": "https://github.com/ysanatomic/io_uring_LPE-CVE-2023-2598",
+            "title": "ysanatomic/io_uring_LPE-CVE-2023-2598: LPE PoC of a vulnerability in the io_uring subsystem of the Linux Kernel.",
+            "date_modified": "2023-11-17T15:13:01.000Z",
+            "date_published": "2023-11-16T23:41:27.000Z",
+            "author": {
+                "name": "ysanatomic",
+                "url": "https://github.com/ysanatomic"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/5593452?u=534b5f5fdc6bb4deb41551cde98fc055eec95b2c&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
             "url": "https://github.com/ka7ana/CVE-2023-36025",
             "title": "ka7ana/CVE-2023-36025",
-            "date_modified": "2023-11-17T15:48:59.000Z",
+            "date_modified": "2023-11-17T16:13:52.000Z",
             "date_published": "2023-11-17T15:46:44.000Z",
             "author": {
                 "name": "ka7ana",
@@ -36,17 +58,6 @@
             "author": {
                 "name": "smokeintheshell",
                 "url": "https://github.com/smokeintheshell"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/41269324?u=ca57d9fa0ec1243f665b3f5e038fc6a7d17750de&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>LPE PoC of a vulnerability in the io_uring subsystem of the Linux Kernel.</div>",
-            "url": "https://github.com/ysanatomic/io_uring_LPE-CVE-2023-2598",
-            "title": "ysanatomic/io_uring_LPE-CVE-2023-2598: LPE PoC of a vulnerability in the io_uring subsystem of the Linux Kernel.",
-            "date_modified": "2023-11-17T15:13:01.000Z",
-            "date_published": "2023-11-16T23:41:27.000Z",
-            "author": {
-                "name": "ysanatomic",
-                "url": "https://github.com/ysanatomic"
             }
         },
         {
@@ -212,17 +223,6 @@
             "author": {
                 "name": "ndrscodes",
                 "url": "https://github.com/ndrscodes"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/128667885?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Exploiting SQL Injection Vulnerability in WP Fastest Cache (CVE-2023-6063)</div>",
-            "url": "https://github.com/hackersroot/CVE-2023-6063-PoC",
-            "title": "hackersroot/CVE-2023-6063-PoC: Exploiting SQL Injection Vulnerability in WP Fastest Cache (CVE-2023-6063)",
-            "date_modified": "2023-11-16T16:36:45.000Z",
-            "date_published": "2023-11-16T16:36:44.000Z",
-            "author": {
-                "name": "hackersroot",
-                "url": "https://github.com/hackersroot"
             }
         }
     ]
