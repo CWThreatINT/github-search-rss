@@ -6,6 +6,39 @@
     "description": "CVE-2023 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/14187349?u=8aabec383eccc0f67119f8254da522f9ff8354e0&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Chrome XXE 漏洞 POC，实现对访客者本地文件读取</div>",
+            "url": "https://github.com/xcanwin/CVE-2023-4357-Chrome-XXE",
+            "title": "xcanwin/CVE-2023-4357-Chrome-XXE: Chrome XXE 漏洞 POC，实现对访客者本地文件读取",
+            "date_modified": "2023-11-18T12:54:25.000Z",
+            "date_published": "2023-11-17T10:32:31.000Z",
+            "author": {
+                "name": "xcanwin",
+                "url": "https://github.com/xcanwin"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/151177833?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
+            "url": "https://github.com/NKeshawarz/CVE-2023-46604-RCE",
+            "title": "NKeshawarz/CVE-2023-46604-RCE",
+            "date_modified": "2023-11-18T12:51:03.000Z",
+            "date_published": "2023-11-18T12:51:03.000Z",
+            "author": {
+                "name": "NKeshawarz",
+                "url": "https://github.com/NKeshawarz"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/149907798?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
+            "url": "https://github.com/nitipoom-jar/CVE-2023-47102",
+            "title": "nitipoom-jar/CVE-2023-47102",
+            "date_modified": "2023-11-18T12:30:55.000Z",
+            "date_published": "2023-11-18T10:52:40.000Z",
+            "author": {
+                "name": "nitipoom-jar",
+                "url": "https://github.com/nitipoom-jar"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/102574296?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
             "url": "https://github.com/Trinadh465/frameworks_base_AOSP10_r33_CVE-2023-21109",
             "title": "Trinadh465/frameworks_base_AOSP10_r33_CVE-2023-21109",
@@ -25,28 +58,6 @@
             "author": {
                 "name": "CVEProject",
                 "url": "https://github.com/CVEProject"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/149907798?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
-            "url": "https://github.com/nitipoom-jar/CVE-2023-47102",
-            "title": "nitipoom-jar/CVE-2023-47102",
-            "date_modified": "2023-11-18T10:52:40.000Z",
-            "date_published": "2023-11-18T10:52:40.000Z",
-            "author": {
-                "name": "nitipoom-jar",
-                "url": "https://github.com/nitipoom-jar"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/14187349?u=8aabec383eccc0f67119f8254da522f9ff8354e0&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Chrome XXE 漏洞 POC，实现对访客者本地文件读取</div>",
-            "url": "https://github.com/xcanwin/CVE-2023-4357-Chrome-XXE",
-            "title": "xcanwin/CVE-2023-4357-Chrome-XXE: Chrome XXE 漏洞 POC，实现对访客者本地文件读取",
-            "date_modified": "2023-11-18T09:51:40.000Z",
-            "date_published": "2023-11-17T10:32:31.000Z",
-            "author": {
-                "name": "xcanwin",
-                "url": "https://github.com/xcanwin"
             }
         },
         {
@@ -75,7 +86,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/93105314?u=81213b7483ce5dae44413665a7098e8e42551f27&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
             "url": "https://github.com/Tris0n/CVE-2023-32571-POC",
             "title": "Tris0n/CVE-2023-32571-POC",
-            "date_modified": "2023-11-18T06:11:53.000Z",
+            "date_modified": "2023-11-18T12:43:05.000Z",
             "date_published": "2023-11-18T04:35:37.000Z",
             "author": {
                 "name": "Tris0n",
@@ -130,7 +141,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/41269324?u=ca57d9fa0ec1243f665b3f5e038fc6a7d17750de&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>LPE PoC of a vulnerability in the io_uring subsystem of the Linux Kernel.</div>",
             "url": "https://github.com/ysanatomic/io_uring_LPE-CVE-2023-2598",
             "title": "ysanatomic/io_uring_LPE-CVE-2023-2598: LPE PoC of a vulnerability in the io_uring subsystem of the Linux Kernel.",
-            "date_modified": "2023-11-17T15:13:01.000Z",
+            "date_modified": "2023-11-18T12:17:52.000Z",
             "date_published": "2023-11-16T23:41:27.000Z",
             "author": {
                 "name": "ysanatomic",
@@ -196,7 +207,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/101872898?u=ff91a9355029d7341ab430bfc2802eb4d72f92d7&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>exploit for cve-2023-47246 SysAid RCE (shell upload)</div>",
             "url": "https://github.com/W01fh4cker/CVE-2023-47246-EXP",
             "title": "W01fh4cker/CVE-2023-47246-EXP: exploit for cve-2023-47246 SysAid RCE (shell upload)",
-            "date_modified": "2023-11-18T10:58:49.000Z",
+            "date_modified": "2023-11-18T12:20:04.000Z",
             "date_published": "2023-11-17T07:03:06.000Z",
             "author": {
                 "name": "W01fh4cker",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "Hebing123",
                 "url": "https://github.com/Hebing123"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/42366434?u=77563d3f2dcae75621bfb8e777b36a85982af059&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2023-54436 Exp</div>",
-            "url": "https://github.com/NHPT/CVE-2023-48123",
-            "title": "NHPT/CVE-2023-48123: CVE-2023-54436 Exp",
-            "date_modified": "2023-11-17T04:12:44.000Z",
-            "date_published": "2023-11-17T02:56:26.000Z",
-            "author": {
-                "name": "NHPT",
-                "url": "https://github.com/NHPT"
             }
         }
     ]
