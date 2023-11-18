@@ -6,25 +6,25 @@
     "description": "CVE-2023 FEED on GitHub",
     "items": [
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/14187349?u=8aabec383eccc0f67119f8254da522f9ff8354e0&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Chrome XXE 漏洞 POC，实现对访客者本地文件读取</div>",
-            "url": "https://github.com/xcanwin/CVE-2023-4357-Chrome-XXE",
-            "title": "xcanwin/CVE-2023-4357-Chrome-XXE: Chrome XXE 漏洞 POC，实现对访客者本地文件读取",
-            "date_modified": "2023-11-18T12:54:25.000Z",
-            "date_published": "2023-11-17T10:32:31.000Z",
-            "author": {
-                "name": "xcanwin",
-                "url": "https://github.com/xcanwin"
-            }
-        },
-        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/151177833?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
             "url": "https://github.com/NKeshawarz/CVE-2023-46604-RCE",
             "title": "NKeshawarz/CVE-2023-46604-RCE",
-            "date_modified": "2023-11-18T12:51:03.000Z",
+            "date_modified": "2023-11-18T13:14:04.000Z",
             "date_published": "2023-11-18T12:51:03.000Z",
             "author": {
                 "name": "NKeshawarz",
                 "url": "https://github.com/NKeshawarz"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/14187349?u=8aabec383eccc0f67119f8254da522f9ff8354e0&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Chrome XXE 漏洞 POC，实现对访客者本地文件读取</div>",
+            "url": "https://github.com/xcanwin/CVE-2023-4357-Chrome-XXE",
+            "title": "xcanwin/CVE-2023-4357-Chrome-XXE: Chrome XXE 漏洞 POC，实现对访客者本地文件读取",
+            "date_modified": "2023-11-18T13:59:43.000Z",
+            "date_published": "2023-11-17T10:32:31.000Z",
+            "author": {
+                "name": "xcanwin",
+                "url": "https://github.com/xcanwin"
             }
         },
         {
