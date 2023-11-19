@@ -6,6 +6,17 @@
     "description": "CVE-2023 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/14187349?u=8aabec383eccc0f67119f8254da522f9ff8354e0&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Chrome XXE 漏洞 POC，实现对访客者本地文件读取</div>",
+            "url": "https://github.com/xcanwin/CVE-2023-4357-Chrome-XXE",
+            "title": "xcanwin/CVE-2023-4357-Chrome-XXE: Chrome XXE 漏洞 POC，实现对访客者本地文件读取",
+            "date_modified": "2023-11-19T15:03:08.000Z",
+            "date_published": "2023-11-17T10:32:31.000Z",
+            "author": {
+                "name": "xcanwin",
+                "url": "https://github.com/xcanwin"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/18195825?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023</div>",
             "url": "https://github.com/CVEProject/cvelist",
             "title": "CVEProject/cvelist: Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023",
@@ -47,17 +58,6 @@
             "author": {
                 "name": "ysanatomic",
                 "url": "https://github.com/ysanatomic"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/14187349?u=8aabec383eccc0f67119f8254da522f9ff8354e0&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Chrome XXE 漏洞 POC，实现对访客者本地文件读取</div>",
-            "url": "https://github.com/xcanwin/CVE-2023-4357-Chrome-XXE",
-            "title": "xcanwin/CVE-2023-4357-Chrome-XXE: Chrome XXE 漏洞 POC，实现对访客者本地文件读取",
-            "date_modified": "2023-11-19T15:03:08.000Z",
-            "date_published": "2023-11-17T10:32:31.000Z",
-            "author": {
-                "name": "xcanwin",
-                "url": "https://github.com/xcanwin"
             }
         },
         {
