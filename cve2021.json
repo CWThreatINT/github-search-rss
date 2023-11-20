@@ -61,17 +61,6 @@
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/15993614?u=4fb826844f3cf27ca05099e8af2d645127c3c7f8&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A demo of the Log4Shell (CVE-2021-44228) vulnerability.</div>",
-            "url": "https://github.com/roshanshibu/Odysseus",
-            "title": "roshanshibu/Odysseus: A demo of the Log4Shell (CVE-2021-44228) vulnerability.",
-            "date_modified": "2023-11-16T10:24:42.000Z",
-            "date_published": "2023-10-25T19:27:00.000Z",
-            "author": {
-                "name": "roshanshibu",
-                "url": "https://github.com/roshanshibu"
-            }
-        },
-        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/74200918?u=e06e9e9906c202d27e92ae2fb98b28af88038b44&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
             "url": "https://github.com/meowhua15/CVE-2021-3156",
             "title": "meowhua15/CVE-2021-3156",
@@ -223,6 +212,17 @@
             "author": {
                 "name": "uthrasri",
                 "url": "https://github.com/uthrasri"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/9376673?u=8015b1ef5a46bb249b1645bd1e17fec91d155060&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A simple bash script that exploits CVE-2021-22205 against vulnerable instances of gitlab</div>",
+            "url": "https://github.com/NukingDragons/gitlab-cve-2021-22205",
+            "title": "NukingDragons/gitlab-cve-2021-22205: A simple bash script that exploits CVE-2021-22205 against vulnerable instances of gitlab",
+            "date_modified": "2023-11-06T00:16:03.000Z",
+            "date_published": "2023-11-01T15:19:01.000Z",
+            "author": {
+                "name": "NukingDragons",
+                "url": "https://github.com/NukingDragons"
             }
         }
     ]
