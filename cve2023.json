@@ -6,6 +6,50 @@
     "description": "CVE-2023 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/18195825?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023</div>",
+            "url": "https://github.com/CVEProject/cvelist",
+            "title": "CVEProject/cvelist: Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023",
+            "date_modified": "2023-11-20T07:54:36.000Z",
+            "date_published": "2020-11-02T19:30:55.000Z",
+            "author": {
+                "name": "CVEProject",
+                "url": "https://github.com/CVEProject"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/151569508?u=2dd516746848fcef787eeffc9c2c62d0f386a707&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE_2023_22518_Checker</div>",
+            "url": "https://github.com/0x00sector/CVE_2023_22518_Checker",
+            "title": "0x00sector/CVE_2023_22518_Checker: CVE_2023_22518_Checker",
+            "date_modified": "2023-11-20T18:58:54.000Z",
+            "date_published": "2023-11-20T18:58:54.000Z",
+            "author": {
+                "name": "0x00sector",
+                "url": "https://github.com/0x00sector"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/70669787?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Weak encryption in Acer Wireless Keyboard SK-9662 allows attacker in physical proximity to both decrypt wireless keystrokes and inject wireless arbitrary keystrokes.</div>",
+            "url": "https://github.com/aprkr/CVE-2023-48034",
+            "title": "aprkr/CVE-2023-48034: Weak encryption in Acer Wireless Keyboard SK-9662 allows attacker in physical proximity to both decrypt wireless keystrokes and inject wireless arbitrary keystrokes.",
+            "date_modified": "2023-11-20T18:31:46.000Z",
+            "date_published": "2023-11-20T16:04:24.000Z",
+            "author": {
+                "name": "aprkr",
+                "url": "https://github.com/aprkr"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/77606941?u=44e937c20af20305e7a32ae3413b01b0bc5a638a&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Learn more things, not suck all things</div>",
+            "url": "https://github.com/tiyeume25112004/CVE-2023-1177-rebuild",
+            "title": "tiyeume25112004/CVE-2023-1177-rebuild: Learn more things, not suck all things",
+            "date_modified": "2023-11-20T18:37:25.000Z",
+            "date_published": "2023-11-20T18:32:46.000Z",
+            "author": {
+                "name": "tiyeume25112004",
+                "url": "https://github.com/tiyeume25112004"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/48731760?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Scripts to get infos</div>",
             "url": "https://github.com/s-bt/CVE-2023-4966",
             "title": "s-bt/CVE-2023-4966: Scripts to get infos",
@@ -36,28 +80,6 @@
             "author": {
                 "name": "ndrscodes",
                 "url": "https://github.com/ndrscodes"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/70669787?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Weak encryption in Acer Wireless Keyboard SK-9662 allows attacker in physical proximity to both decrypt wireless keystrokes and inject wireless arbitrary keystrokes.</div>",
-            "url": "https://github.com/aprkr/CVE-2023-48034",
-            "title": "aprkr/CVE-2023-48034: Weak encryption in Acer Wireless Keyboard SK-9662 allows attacker in physical proximity to both decrypt wireless keystrokes and inject wireless arbitrary keystrokes.",
-            "date_modified": "2023-11-20T16:04:25.000Z",
-            "date_published": "2023-11-20T16:04:24.000Z",
-            "author": {
-                "name": "aprkr",
-                "url": "https://github.com/aprkr"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/18195825?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023</div>",
-            "url": "https://github.com/CVEProject/cvelist",
-            "title": "CVEProject/cvelist: Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023",
-            "date_modified": "2023-11-20T07:54:36.000Z",
-            "date_published": "2020-11-02T19:30:55.000Z",
-            "author": {
-                "name": "CVEProject",
-                "url": "https://github.com/CVEProject"
             }
         },
         {
@@ -119,7 +141,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/41269324?u=ca57d9fa0ec1243f665b3f5e038fc6a7d17750de&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>LPE PoC of a vulnerability in the io_uring subsystem of the Linux Kernel.</div>",
             "url": "https://github.com/ysanatomic/io_uring_LPE-CVE-2023-2598",
             "title": "ysanatomic/io_uring_LPE-CVE-2023-2598: LPE PoC of a vulnerability in the io_uring subsystem of the Linux Kernel.",
-            "date_modified": "2023-11-20T15:21:07.000Z",
+            "date_modified": "2023-11-20T18:34:51.000Z",
             "date_published": "2023-11-16T23:41:27.000Z",
             "author": {
                 "name": "ysanatomic",
@@ -201,28 +223,6 @@
             "author": {
                 "name": "Tris0n",
                 "url": "https://github.com/Tris0n"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/47226783?u=19dd0cc8a01c437b782ab4b86dfe50fe7987e0ea&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>DoS vulnerability in AMD driver that corrupts the display.</div>",
-            "url": "https://github.com/whypet/CVE-2023-31320",
-            "title": "whypet/CVE-2023-31320: DoS vulnerability in AMD driver that corrupts the display.",
-            "date_modified": "2023-11-17T10:36:56.000Z",
-            "date_published": "2023-08-22T21:15:46.000Z",
-            "author": {
-                "name": "whypet",
-                "url": "https://github.com/whypet"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/65826410?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>This code functionally approximates the Citrix Bleed vulnerability (CVE-2023-4699).</div>",
-            "url": "https://github.com/Scottzxor/Citrix-Bleed-Buffer-Overread-Demo",
-            "title": "Scottzxor/Citrix-Bleed-Buffer-Overread-Demo: This code functionally approximates the Citrix Bleed vulnerability (CVE-2023-4699).",
-            "date_modified": "2023-11-20T06:22:48.000Z",
-            "date_published": "2023-11-17T19:55:30.000Z",
-            "author": {
-                "name": "Scottzxor",
-                "url": "https://github.com/Scottzxor"
             }
         }
     ]
