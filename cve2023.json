@@ -17,6 +17,17 @@
             }
         },
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/51722811?u=a195458fc64bade6e8616d1d5c43883f0abde0c0&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>EWWW Image Optimizer &lt;= 7.2.0 - Unauthenticated Sensitive Information Exposure via Debug Log</div>",
+            "url": "https://github.com/RandomRobbieBF/CVE-2023-40600",
+            "title": "RandomRobbieBF/CVE-2023-40600: EWWW Image Optimizer <= 7.2.0 - Unauthenticated Sensitive Information Exposure via Debug Log",
+            "date_modified": "2023-11-20T19:05:51.000Z",
+            "date_published": "2023-11-20T19:05:50.000Z",
+            "author": {
+                "name": "RandomRobbieBF",
+                "url": "https://github.com/RandomRobbieBF"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/151569508?u=2dd516746848fcef787eeffc9c2c62d0f386a707&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE_2023_22518_Checker</div>",
             "url": "https://github.com/0x00sector/CVE_2023_22518_Checker",
             "title": "0x00sector/CVE_2023_22518_Checker: CVE_2023_22518_Checker",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "wshinkle",
                 "url": "https://github.com/wshinkle"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/93105314?u=81213b7483ce5dae44413665a7098e8e42551f27&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
-            "url": "https://github.com/Tris0n/CVE-2023-32571-POC",
-            "title": "Tris0n/CVE-2023-32571-POC",
-            "date_modified": "2023-11-18T12:43:05.000Z",
-            "date_published": "2023-11-18T04:35:37.000Z",
-            "author": {
-                "name": "Tris0n",
-                "url": "https://github.com/Tris0n"
             }
         }
     ]
