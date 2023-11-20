@@ -72,6 +72,17 @@
             }
         },
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/74200918?u=e06e9e9906c202d27e92ae2fb98b28af88038b44&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>An exploitation of CVE-2022-30190 (Follina)</div>",
+            "url": "https://github.com/meowhua15/CVE-2022-30190",
+            "title": "meowhua15/CVE-2022-30190: An exploitation of CVE-2022-30190 (Follina)",
+            "date_modified": "2023-07-26T14:55:29.000Z",
+            "date_published": "2023-05-02T07:56:28.000Z",
+            "author": {
+                "name": "meowhua15",
+                "url": "https://github.com/meowhua15"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/102573923?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
             "url": "https://github.com/Satheesh575555/frameworks_base_AOSP_06_r22_CVE-2022-20338",
             "title": "Satheesh575555/frameworks_base_AOSP_06_r22_CVE-2022-20338",
@@ -102,6 +113,17 @@
             "author": {
                 "name": "nidhi7598",
                 "url": "https://github.com/nidhi7598"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/64825932?u=310c27596143f5dbcd65980ed12bdd9172d6fc77&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2022-22965\\Spring-Core-RCE核弹级别漏洞的rce图形化GUI一键利用工具，基于JavaFx开发，图形化操作更简单，提高效率。</div>",
+            "url": "https://github.com/zangcc/CVE-2022-22965-rexbb",
+            "title": "zangcc/CVE-2022-22965-rexbb: CVE-2022-22965\\Spring-Core-RCE核弹级别漏洞的rce图形化GUI一键利用工具，基于JavaFx开发，图形化操作更简单，提高效率。",
+            "date_modified": "2023-11-16T02:15:30.000Z",
+            "date_published": "2022-12-28T04:50:16.000Z",
+            "author": {
+                "name": "zangcc",
+                "url": "https://github.com/zangcc"
             }
         },
         {
@@ -193,36 +215,14 @@
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/113995024?u=76541b2fb3dc73fad8e69cea5e4c1401f3ff1013&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
-            "url": "https://github.com/ayushx007/CVE-2022-0847-DirtyPipe-Exploits",
-            "title": "ayushx007/CVE-2022-0847-DirtyPipe-Exploits",
-            "date_modified": "2023-11-05T15:35:50.000Z",
-            "date_published": "2023-11-05T15:34:54.000Z",
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/88584206?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Turning Your Computer Into a GPS Tracker With Apple Maps</div>",
+            "url": "https://github.com/breakpointHQ/CVE-2022-32883",
+            "title": "breakpointHQ/CVE-2022-32883: Turning Your Computer Into a GPS Tracker With Apple Maps",
+            "date_modified": "2023-06-12T22:39:24.000Z",
+            "date_published": "2022-09-18T15:51:52.000Z",
             "author": {
-                "name": "ayushx007",
-                "url": "https://github.com/ayushx007"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/12976017?u=6d3d423fda6a56643a0ca1acae5223cdf08a3c28&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>User can execute unsigned binaries with BootROM privileges, which can be used to unlock bootloader</div>",
-            "url": "https://github.com/TomKing062/CVE-2022-38694_unlock_bootloader",
-            "title": "TomKing062/CVE-2022-38694_unlock_bootloader: User can execute unsigned binaries with BootROM privileges, which can be used to unlock bootloader",
-            "date_modified": "2023-11-19T12:37:15.000Z",
-            "date_published": "2023-06-10T08:31:26.000Z",
-            "author": {
-                "name": "TomKing062",
-                "url": "https://github.com/TomKing062"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/10968322?u=46217bf0ecf37abfc72882768dd7a4b53fc5c9c8&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>An eBPF program to detect attacks on CVE-2022-0847</div>",
-            "url": "https://github.com/h4ckm310n/CVE-2022-0847-eBPF",
-            "title": "h4ckm310n/CVE-2022-0847-eBPF: An eBPF program to detect attacks on CVE-2022-0847",
-            "date_modified": "2023-11-19T02:28:51.000Z",
-            "date_published": "2023-07-06T01:31:01.000Z",
-            "author": {
-                "name": "h4ckm310n",
-                "url": "https://github.com/h4ckm310n"
+                "name": "breakpointHQ",
+                "url": "https://github.com/breakpointHQ"
             }
         }
     ]
