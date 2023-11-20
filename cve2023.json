@@ -6,6 +6,17 @@
     "description": "CVE-2023 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/62462135?u=1cffbda3d4ccc4b3e4f5b918e7955bc6c1d81d1d&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Highly configurable tool to check a server's vulnerability against CVE-2023-44487 by rapidly sending HEADERS and RST_STREAM frames and documenting the server's responses.</div>",
+            "url": "https://github.com/ndrscodes/http2-rst-stream-attacker",
+            "title": "ndrscodes/http2-rst-stream-attacker: Highly configurable tool to check a server's vulnerability against CVE-2023-44487 by rapidly sending HEADERS and RST_STREAM frames and documenting the server's responses.",
+            "date_modified": "2023-11-15T19:55:23.000Z",
+            "date_published": "2023-11-08T20:56:22.000Z",
+            "author": {
+                "name": "ndrscodes",
+                "url": "https://github.com/ndrscodes"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/18195825?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023</div>",
             "url": "https://github.com/CVEProject/cvelist",
             "title": "CVEProject/cvelist: Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023",
@@ -31,7 +42,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/14187349?u=8aabec383eccc0f67119f8254da522f9ff8354e0&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2023-4357，Chrome XXE 漏洞 POC，实现对访客者本地文件读取。CVE-20123-4357, Chrome XXE vulnerability POC, allowing attackers to obtain local files of visitors.</div>",
             "url": "https://github.com/xcanwin/CVE-2023-4357-Chrome-XXE",
             "title": "xcanwin/CVE-2023-4357-Chrome-XXE: CVE-2023-4357，Chrome XXE 漏洞 POC，实现对访客者本地文件读取。CVE-20123-4357, Chrome XXE vulnerability POC, allowing attackers to obtain local files of visitors.",
-            "date_modified": "2023-11-20T08:34:21.000Z",
+            "date_modified": "2023-11-20T10:32:13.000Z",
             "date_published": "2023-11-17T10:32:31.000Z",
             "author": {
                 "name": "xcanwin",
@@ -75,7 +86,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/41269324?u=ca57d9fa0ec1243f665b3f5e038fc6a7d17750de&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>LPE PoC of a vulnerability in the io_uring subsystem of the Linux Kernel.</div>",
             "url": "https://github.com/ysanatomic/io_uring_LPE-CVE-2023-2598",
             "title": "ysanatomic/io_uring_LPE-CVE-2023-2598: LPE PoC of a vulnerability in the io_uring subsystem of the Linux Kernel.",
-            "date_modified": "2023-11-20T08:03:01.000Z",
+            "date_modified": "2023-11-20T10:49:52.000Z",
             "date_published": "2023-11-16T23:41:27.000Z",
             "author": {
                 "name": "ysanatomic",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "smokeintheshell",
                 "url": "https://github.com/smokeintheshell"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/48909214?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>POC for cve 2023 41320 GLPI</div>",
-            "url": "https://github.com/Guilhem7/CVE_2023_41320",
-            "title": "Guilhem7/CVE_2023_41320: POC for cve 2023 41320 GLPI",
-            "date_modified": "2023-11-16T16:22:36.000Z",
-            "date_published": "2023-11-16T16:21:51.000Z",
-            "author": {
-                "name": "Guilhem7",
-                "url": "https://github.com/Guilhem7"
             }
         }
     ]
