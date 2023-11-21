@@ -6,6 +6,17 @@
     "description": "CVE-2022 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/71746399?u=f12ce773cd6753024fbe116cce753cbe9f7e8426&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
+            "url": "https://github.com/zer0ne1/CVE-2022-0337-RePoC",
+            "title": "zer0ne1/CVE-2022-0337-RePoC",
+            "date_modified": "2023-11-21T02:36:09.000Z",
+            "date_published": "2023-11-21T02:34:32.000Z",
+            "author": {
+                "name": "zer0ne1",
+                "url": "https://github.com/zer0ne1"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/104529423?u=ae24d651d73ed5645a8e1b5b761e3eecb92894df&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
             "url": "https://github.com/rhymsc/CVE-2022-44877-RCE",
             "title": "rhymsc/CVE-2022-44877-RCE",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "Sybil-Scan",
                 "url": "https://github.com/Sybil-Scan"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/88584206?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Turning Your Computer Into a GPS Tracker With Apple Maps</div>",
-            "url": "https://github.com/breakpointHQ/CVE-2022-32883",
-            "title": "breakpointHQ/CVE-2022-32883: Turning Your Computer Into a GPS Tracker With Apple Maps",
-            "date_modified": "2023-06-12T22:39:24.000Z",
-            "date_published": "2022-09-18T15:51:52.000Z",
-            "author": {
-                "name": "breakpointHQ",
-                "url": "https://github.com/breakpointHQ"
             }
         }
     ]
