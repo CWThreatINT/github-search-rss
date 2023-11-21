@@ -6,6 +6,17 @@
     "description": "CVE-2021 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/79058712?u=5f15a8cf842c520ea59c80c0a05dbbdf4904f99d&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Log4Shell (CVE-2021-44228) minecraft demo. Used for education fairs</div>",
+            "url": "https://github.com/felixslama/log4shell-minecraft-demo",
+            "title": "felixslama/log4shell-minecraft-demo: Log4Shell (CVE-2021-44228) minecraft demo. Used for education fairs",
+            "date_modified": "2023-11-21T15:45:31.000Z",
+            "date_published": "2023-11-21T15:45:31.000Z",
+            "author": {
+                "name": "felixslama",
+                "url": "https://github.com/felixslama"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/101178777?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
             "url": "https://github.com/Iris288/CVE-2021-43798",
             "title": "Iris288/CVE-2021-43798",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "T0X1Cx",
                 "url": "https://github.com/T0X1Cx"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/145666390?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
-            "url": "https://github.com/uthrasri/CVE-2021-28165",
-            "title": "uthrasri/CVE-2021-28165",
-            "date_modified": "2023-11-02T11:10:22.000Z",
-            "date_published": "2023-11-02T11:08:06.000Z",
-            "author": {
-                "name": "uthrasri",
-                "url": "https://github.com/uthrasri"
             }
         }
     ]
