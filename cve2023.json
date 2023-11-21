@@ -6,6 +6,17 @@
     "description": "CVE-2023 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/102574296?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
+            "url": "https://github.com/Trinadh465/frameworks_base_AOSP10_r33_CVE-2023-20911",
+            "title": "Trinadh465/frameworks_base_AOSP10_r33_CVE-2023-20911",
+            "date_modified": "2023-11-21T13:05:01.000Z",
+            "date_published": "2023-11-21T13:05:00.000Z",
+            "author": {
+                "name": "Trinadh465",
+                "url": "https://github.com/Trinadh465"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/18195825?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023</div>",
             "url": "https://github.com/CVEProject/cvelist",
             "title": "CVEProject/cvelist: Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023",
@@ -14,6 +25,17 @@
             "author": {
                 "name": "CVEProject",
                 "url": "https://github.com/CVEProject"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/106973537?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
+            "url": "https://github.com/nidhi7598/linux-4.19.72_net_CVE-2023-4622",
+            "title": "nidhi7598/linux-4.19.72_net_CVE-2023-4622",
+            "date_modified": "2023-11-21T12:22:14.000Z",
+            "date_published": "2023-11-21T11:53:18.000Z",
+            "author": {
+                "name": "nidhi7598",
+                "url": "https://github.com/nidhi7598"
             }
         },
         {
@@ -174,7 +196,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/41269324?u=ca57d9fa0ec1243f665b3f5e038fc6a7d17750de&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>LPE PoC of a vulnerability in the io_uring subsystem of the Linux Kernel.</div>",
             "url": "https://github.com/ysanatomic/io_uring_LPE-CVE-2023-2598",
             "title": "ysanatomic/io_uring_LPE-CVE-2023-2598: LPE PoC of a vulnerability in the io_uring subsystem of the Linux Kernel.",
-            "date_modified": "2023-11-21T09:59:55.000Z",
+            "date_modified": "2023-11-21T12:41:36.000Z",
             "date_published": "2023-11-16T23:41:27.000Z",
             "author": {
                 "name": "ysanatomic",
@@ -201,28 +223,6 @@
             "author": {
                 "name": "NKeshawarz",
                 "url": "https://github.com/NKeshawarz"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/149907798?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
-            "url": "https://github.com/nitipoom-jar/CVE-2023-47102",
-            "title": "nitipoom-jar/CVE-2023-47102",
-            "date_modified": "2023-11-18T12:30:55.000Z",
-            "date_published": "2023-11-18T10:52:40.000Z",
-            "author": {
-                "name": "nitipoom-jar",
-                "url": "https://github.com/nitipoom-jar"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/102574296?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
-            "url": "https://github.com/Trinadh465/frameworks_base_AOSP10_r33_CVE-2023-21109",
-            "title": "Trinadh465/frameworks_base_AOSP10_r33_CVE-2023-21109",
-            "date_modified": "2023-11-18T08:39:11.000Z",
-            "date_published": "2023-11-18T07:56:12.000Z",
-            "author": {
-                "name": "Trinadh465",
-                "url": "https://github.com/Trinadh465"
             }
         }
     ]
