@@ -6,6 +6,17 @@
     "description": "CVE-2022 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/14269425?u=b60a6cd2e1c942d26653ad795ca943443cea928e&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
+            "url": "https://github.com/sunichi/cve-2022-4543-wrapper",
+            "title": "sunichi/cve-2022-4543-wrapper",
+            "date_modified": "2023-07-11T01:38:50.000Z",
+            "date_published": "2023-07-10T02:34:01.000Z",
+            "author": {
+                "name": "sunichi",
+                "url": "https://github.com/sunichi"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/71746399?u=f12ce773cd6753024fbe116cce753cbe9f7e8426&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
             "url": "https://github.com/zer0ne1/CVE-2022-0337-RePoC",
             "title": "zer0ne1/CVE-2022-0337-RePoC",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "d4rkb0n3",
                 "url": "https://github.com/d4rkb0n3"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/121743489?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>ImageMagick LFI PoC [CVE-2022-44268]</div>",
-            "url": "https://github.com/Sybil-Scan/imagemagick-lfi-poc",
-            "title": "Sybil-Scan/imagemagick-lfi-poc: ImageMagick LFI PoC [CVE-2022-44268]",
-            "date_modified": "2023-10-30T01:37:28.000Z",
-            "date_published": "2023-02-06T10:44:43.000Z",
-            "author": {
-                "name": "Sybil-Scan",
-                "url": "https://github.com/Sybil-Scan"
             }
         }
     ]
