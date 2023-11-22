@@ -17,6 +17,28 @@
             }
         },
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/129875733?u=247133296001ae436b0c6541dd3662f49efbc0c4&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
+            "url": "https://github.com/tucommenceapousser/CVE-2023-47246",
+            "title": "tucommenceapousser/CVE-2023-47246",
+            "date_modified": "2023-11-22T08:22:58.000Z",
+            "date_published": "2023-11-22T08:18:11.000Z",
+            "author": {
+                "name": "tucommenceapousser",
+                "url": "https://github.com/tucommenceapousser"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/147452376?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>exploit for cve-2023-47246 SysAid RCE (shell upload)</div>",
+            "url": "https://github.com/rainbowhatrkn/CVE-2023-47246",
+            "title": "rainbowhatrkn/CVE-2023-47246: exploit for cve-2023-47246 SysAid RCE (shell upload)",
+            "date_modified": "2023-11-22T08:13:52.000Z",
+            "date_published": "2023-11-22T08:13:51.000Z",
+            "author": {
+                "name": "rainbowhatrkn",
+                "url": "https://github.com/rainbowhatrkn"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/18223385?u=5ba29c1a9447ae88a6a0433f44038f47471e11c1&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>TOP All bugbounty pentesting CVE-2023- POC Exp  RCE example payload  Things</div>",
             "url": "https://github.com/hktalent/TOP",
             "title": "hktalent/TOP: TOP All bugbounty pentesting CVE-2023- POC Exp  RCE example payload  Things",
@@ -185,7 +207,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/112496046?u=a61a243c9a9ea6eab57a2247e70eddcf02d99032&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Apt style exploitation of Chrome 0day CVE-2023-4357</div>",
             "url": "https://github.com/OgulcanUnveren/CVE-2023-4357-APT-Style-exploitation",
             "title": "OgulcanUnveren/CVE-2023-4357-APT-Style-exploitation: Apt style exploitation of Chrome 0day CVE-2023-4357",
-            "date_modified": "2023-11-21T14:02:19.000Z",
+            "date_modified": "2023-11-22T08:11:35.000Z",
             "date_published": "2023-11-19T22:20:10.000Z",
             "author": {
                 "name": "OgulcanUnveren",
@@ -201,28 +223,6 @@
             "author": {
                 "name": "MojithaR",
                 "url": "https://github.com/MojithaR"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/41269324?u=ca57d9fa0ec1243f665b3f5e038fc6a7d17750de&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>LPE PoC of a vulnerability in the io_uring subsystem of the Linux Kernel.</div>",
-            "url": "https://github.com/ysanatomic/io_uring_LPE-CVE-2023-2598",
-            "title": "ysanatomic/io_uring_LPE-CVE-2023-2598: LPE PoC of a vulnerability in the io_uring subsystem of the Linux Kernel.",
-            "date_modified": "2023-11-22T04:20:20.000Z",
-            "date_published": "2023-11-16T23:41:27.000Z",
-            "author": {
-                "name": "ysanatomic",
-                "url": "https://github.com/ysanatomic"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/1620923?u=515f6d3996440a42b7caaa34e6d9214616d0cbd6&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Report and exploit of CVE-2023-36427</div>",
-            "url": "https://github.com/tandasat/CVE-2023-36427",
-            "title": "tandasat/CVE-2023-36427: Report and exploit of CVE-2023-36427",
-            "date_modified": "2023-11-21T15:49:52.000Z",
-            "date_published": "2023-10-09T16:55:18.000Z",
-            "author": {
-                "name": "tandasat",
-                "url": "https://github.com/tandasat"
             }
         }
     ]
