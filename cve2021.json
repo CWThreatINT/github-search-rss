@@ -6,6 +6,17 @@
     "description": "CVE-2021 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/16516497?u=6a2ac7105f7f69d56cc8171e3980948ba5c3c34c&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Laravel RCE (CVE-2021-3129)</div>",
+            "url": "https://github.com/joshuavanderpoll/CVE-2021-3129",
+            "title": "joshuavanderpoll/CVE-2021-3129: Laravel RCE (CVE-2021-3129)",
+            "date_modified": "2023-11-22T09:18:56.000Z",
+            "date_published": "2022-04-16T17:22:55.000Z",
+            "author": {
+                "name": "joshuavanderpoll",
+                "url": "https://github.com/joshuavanderpoll"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/21004514?u=8531037bb58ad26cc797206d1dae79bebeb35d3c&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Working in Progress POC for CVE2021-38297</div>",
             "url": "https://github.com/gkrishnan724/CVE-2021-38297",
             "title": "gkrishnan724/CVE-2021-38297: Working in Progress POC for CVE2021-38297",
@@ -36,17 +47,6 @@
             "author": {
                 "name": "Iris288",
                 "url": "https://github.com/Iris288"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/16516497?u=6a2ac7105f7f69d56cc8171e3980948ba5c3c34c&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Laravel RCE (CVE-2021-3129)</div>",
-            "url": "https://github.com/joshuavanderpoll/CVE-2021-3129",
-            "title": "joshuavanderpoll/CVE-2021-3129: Laravel RCE (CVE-2021-3129)",
-            "date_modified": "2023-11-22T05:11:26.000Z",
-            "date_published": "2022-04-16T17:22:55.000Z",
-            "author": {
-                "name": "joshuavanderpoll",
-                "url": "https://github.com/joshuavanderpoll"
             }
         },
         {
