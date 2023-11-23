@@ -17,6 +17,28 @@
             }
         },
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/41269324?u=ca57d9fa0ec1243f665b3f5e038fc6a7d17750de&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>LPE PoC of a vulnerability in the io_uring subsystem of the Linux Kernel.</div>",
+            "url": "https://github.com/ysanatomic/io_uring_LPE-CVE-2023-2598",
+            "title": "ysanatomic/io_uring_LPE-CVE-2023-2598: LPE PoC of a vulnerability in the io_uring subsystem of the Linux Kernel.",
+            "date_modified": "2023-11-23T08:06:42.000Z",
+            "date_published": "2023-11-16T23:41:27.000Z",
+            "author": {
+                "name": "ysanatomic",
+                "url": "https://github.com/ysanatomic"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/36929806?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Wordpress Plugin Canto &lt; 3.0.5 - Remote File Inclusion (RFI) and Remote Code Execution (RCE)</div>",
+            "url": "https://github.com/leoanggal1/CVE-2023-3452-PoC",
+            "title": "leoanggal1/CVE-2023-3452-PoC: Wordpress Plugin Canto < 3.0.5 - Remote File Inclusion (RFI) and Remote Code Execution (RCE)",
+            "date_modified": "2023-11-23T18:33:27.000Z",
+            "date_published": "2023-11-05T16:33:32.000Z",
+            "author": {
+                "name": "leoanggal1",
+                "url": "https://github.com/leoanggal1"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/106973537?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
             "url": "https://github.com/nidhi7598/linux-4.19.72_net_CVE-2023-4207",
             "title": "nidhi7598/linux-4.19.72_net_CVE-2023-4207",
@@ -185,7 +207,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/14187349?u=8aabec383eccc0f67119f8254da522f9ff8354e0&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>全球首款单文件利用 CVE-2023-4357 Chrome XXE 漏洞 EXP, 实现对访客者本地文件窃取. Chrome XXE vulnerability EXP, allowing attackers to obtain local files of visitors.</div>",
             "url": "https://github.com/xcanwin/CVE-2023-4357-Chrome-XXE",
             "title": "xcanwin/CVE-2023-4357-Chrome-XXE: 全球首款单文件利用 CVE-2023-4357 Chrome XXE 漏洞 EXP, 实现对访客者本地文件窃取. Chrome XXE vulnerability EXP, allowing attackers to obtain local files of visitors.",
-            "date_modified": "2023-11-23T15:41:30.000Z",
+            "date_modified": "2023-11-23T19:03:14.000Z",
             "date_published": "2023-11-17T10:32:31.000Z",
             "author": {
                 "name": "xcanwin",
@@ -201,28 +223,6 @@
             "author": {
                 "name": "passwa11",
                 "url": "https://github.com/passwa11"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/84887432?u=971f0336ad60eacc95f3f5990218ea789768253d&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2023-5360 Exploit/POC</div>",
-            "url": "https://github.com/1337r0j4n/CVE-2023-5360",
-            "title": "1337r0j4n/CVE-2023-5360: CVE-2023-5360 Exploit/POC",
-            "date_modified": "2023-11-23T17:18:40.000Z",
-            "date_published": "2023-11-13T12:51:34.000Z",
-            "author": {
-                "name": "1337r0j4n",
-                "url": "https://github.com/1337r0j4n"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/151569508?u=2dd516746848fcef787eeffc9c2c62d0f386a707&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE_2023_22518_Checker</div>",
-            "url": "https://github.com/0x00sector/CVE_2023_22518_Checker",
-            "title": "0x00sector/CVE_2023_22518_Checker: CVE_2023_22518_Checker",
-            "date_modified": "2023-11-22T14:05:11.000Z",
-            "date_published": "2023-11-20T18:58:54.000Z",
-            "author": {
-                "name": "0x00sector",
-                "url": "https://github.com/0x00sector"
             }
         }
     ]
