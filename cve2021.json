@@ -6,6 +6,17 @@
     "description": "CVE-2021 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/18383407?u=c9d1276bd9ccb8b06b724c3057b1ef683fa81de7&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2021-46364: YAML Deserialization in Magnolia CMS</div>",
+            "url": "https://github.com/mbadanoiu/CVE-2021-46364",
+            "title": "mbadanoiu/CVE-2021-46364: CVE-2021-46364: YAML Deserialization in Magnolia CMS",
+            "date_modified": "2023-11-23T22:59:49.000Z",
+            "date_published": "2023-11-23T22:37:01.000Z",
+            "author": {
+                "name": "mbadanoiu",
+                "url": "https://github.com/mbadanoiu"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/16516497?u=6a2ac7105f7f69d56cc8171e3980948ba5c3c34c&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Laravel RCE (CVE-2021-3129)</div>",
             "url": "https://github.com/joshuavanderpoll/CVE-2021-3129",
             "title": "joshuavanderpoll/CVE-2021-3129: Laravel RCE (CVE-2021-3129)",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "A-D-Team",
                 "url": "https://github.com/A-D-Team"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/127576267?u=414363e946c5505150fb492d168e227ec6bd3fcf&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>This is an exploit file which is used to check CVE-2021-21716 vulnerability</div>",
-            "url": "https://github.com/MojithaR/CVE-2023-21716-EXPLOIT.py",
-            "title": "MojithaR/CVE-2023-21716-EXPLOIT.py: This is an exploit file which is used to check CVE-2021-21716 vulnerability",
-            "date_modified": "2023-11-04T15:15:13.000Z",
-            "date_published": "2023-11-04T08:49:14.000Z",
-            "author": {
-                "name": "MojithaR",
-                "url": "https://github.com/MojithaR"
             }
         }
     ]
