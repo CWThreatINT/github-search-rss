@@ -6,6 +6,17 @@
     "description": "CVE-2022 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/106408899?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Somewhat Reliable PoC Exploit for CVE-2022-36804 (BitBucket Critical Command Injection)</div>",
+            "url": "https://github.com/benjaminhays/CVE-2022-36804-PoC-Exploit",
+            "title": "benjaminhays/CVE-2022-36804-PoC-Exploit: Somewhat Reliable PoC Exploit for CVE-2022-36804 (BitBucket Critical Command Injection)",
+            "date_modified": "2023-10-14T03:31:30.000Z",
+            "date_published": "2022-09-20T02:35:53.000Z",
+            "author": {
+                "name": "benjaminhays",
+                "url": "https://github.com/benjaminhays"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/22007644?u=378413a2648ccd25a4be5bd648e0c95133e6408f&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
             "url": "https://github.com/A1Lin/cve-2022-1364",
             "title": "A1Lin/cve-2022-1364",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "Decstor5",
                 "url": "https://github.com/Decstor5"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/145161091?u=5dfccf41f45a9eed783064adb0d22ff4ef1f42d9&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
-            "url": "https://github.com/DimaMend/cve-2022-42889-text4shell",
-            "title": "DimaMend/cve-2022-42889-text4shell",
-            "date_modified": "2023-09-22T17:17:44.000Z",
-            "date_published": "2023-09-22T17:17:26.000Z",
-            "author": {
-                "name": "DimaMend",
-                "url": "https://github.com/DimaMend"
             }
         }
     ]
