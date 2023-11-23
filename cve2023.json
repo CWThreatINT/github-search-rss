@@ -17,6 +17,17 @@
             }
         },
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/62462135?u=1cffbda3d4ccc4b3e4f5b918e7955bc6c1d81d1d&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Highly configurable tool to check a server's vulnerability against CVE-2023-44487 by rapidly sending HEADERS and RST_STREAM frames and documenting the server's responses.</div>",
+            "url": "https://github.com/ndrscodes/http2-rst-stream-attacker",
+            "title": "ndrscodes/http2-rst-stream-attacker: Highly configurable tool to check a server's vulnerability against CVE-2023-44487 by rapidly sending HEADERS and RST_STREAM frames and documenting the server's responses.",
+            "date_modified": "2023-11-15T19:55:23.000Z",
+            "date_published": "2023-11-08T20:56:22.000Z",
+            "author": {
+                "name": "ndrscodes",
+                "url": "https://github.com/ndrscodes"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/41269324?u=ca57d9fa0ec1243f665b3f5e038fc6a7d17750de&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>LPE PoC of a vulnerability in the io_uring subsystem of the Linux Kernel.</div>",
             "url": "https://github.com/ysanatomic/io_uring_LPE-CVE-2023-2598",
             "title": "ysanatomic/io_uring_LPE-CVE-2023-2598: LPE PoC of a vulnerability in the io_uring subsystem of the Linux Kernel.",
@@ -31,7 +42,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/36929806?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Wordpress Plugin Canto &lt; 3.0.5 - Remote File Inclusion (RFI) and Remote Code Execution (RCE)</div>",
             "url": "https://github.com/leoanggal1/CVE-2023-3452-PoC",
             "title": "leoanggal1/CVE-2023-3452-PoC: Wordpress Plugin Canto < 3.0.5 - Remote File Inclusion (RFI) and Remote Code Execution (RCE)",
-            "date_modified": "2023-11-23T18:33:27.000Z",
+            "date_modified": "2023-11-23T19:06:49.000Z",
             "date_published": "2023-11-05T16:33:32.000Z",
             "author": {
                 "name": "leoanggal1",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "xcanwin",
                 "url": "https://github.com/xcanwin"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/112363374?u=70ea8282709585c39f78be76f2b11882eb06197c&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
-            "url": "https://github.com/passwa11/CVE-2023-4357-APT-Style-exploitation",
-            "title": "passwa11/CVE-2023-4357-APT-Style-exploitation",
-            "date_modified": "2023-11-21T05:39:35.000Z",
-            "date_published": "2023-11-21T05:39:15.000Z",
-            "author": {
-                "name": "passwa11",
-                "url": "https://github.com/passwa11"
             }
         }
     ]
