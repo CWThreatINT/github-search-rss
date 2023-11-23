@@ -97,11 +97,22 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/151768625?u=0721e07350f7a846003eee8a36cab0d5ca728dc0&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>PoC for the CVE-2023-49103</div>",
             "url": "https://github.com/creacitysec/CVE-2023-49103",
             "title": "creacitysec/CVE-2023-49103: PoC for the CVE-2023-49103",
-            "date_modified": "2023-11-23T06:43:54.000Z",
+            "date_modified": "2023-11-23T14:51:32.000Z",
             "date_published": "2023-11-22T17:00:23.000Z",
             "author": {
                 "name": "creacitysec",
                 "url": "https://github.com/creacitysec"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/93105314?u=81213b7483ce5dae44413665a7098e8e42551f27&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
+            "url": "https://github.com/Tris0n/CVE-2023-32571-POC",
+            "title": "Tris0n/CVE-2023-32571-POC",
+            "date_modified": "2023-11-23T14:41:24.000Z",
+            "date_published": "2023-11-18T04:35:37.000Z",
+            "author": {
+                "name": "Tris0n",
+                "url": "https://github.com/Tris0n"
             }
         },
         {
@@ -174,7 +185,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/14187349?u=8aabec383eccc0f67119f8254da522f9ff8354e0&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>全球首款单文件利用 CVE-2023-4357 Chrome XXE 漏洞 EXP, 实现对访客者本地文件窃取. Chrome XXE vulnerability EXP, allowing attackers to obtain local files of visitors.</div>",
             "url": "https://github.com/xcanwin/CVE-2023-4357-Chrome-XXE",
             "title": "xcanwin/CVE-2023-4357-Chrome-XXE: 全球首款单文件利用 CVE-2023-4357 Chrome XXE 漏洞 EXP, 实现对访客者本地文件窃取. Chrome XXE vulnerability EXP, allowing attackers to obtain local files of visitors.",
-            "date_modified": "2023-11-23T14:03:15.000Z",
+            "date_modified": "2023-11-23T14:23:35.000Z",
             "date_published": "2023-11-17T10:32:31.000Z",
             "author": {
                 "name": "xcanwin",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "0x00sector",
                 "url": "https://github.com/0x00sector"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/51722811?u=a195458fc64bade6e8616d1d5c43883f0abde0c0&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>EWWW Image Optimizer &lt;= 7.2.0 - Unauthenticated Sensitive Information Exposure via Debug Log</div>",
-            "url": "https://github.com/RandomRobbieBF/CVE-2023-40600",
-            "title": "RandomRobbieBF/CVE-2023-40600: EWWW Image Optimizer <= 7.2.0 - Unauthenticated Sensitive Information Exposure via Debug Log",
-            "date_modified": "2023-11-20T19:05:51.000Z",
-            "date_published": "2023-11-20T19:05:50.000Z",
-            "author": {
-                "name": "RandomRobbieBF",
-                "url": "https://github.com/RandomRobbieBF"
             }
         }
     ]
