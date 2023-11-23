@@ -6,6 +6,17 @@
     "description": "CVE-2022 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/70061541?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Exploit for CVE-2022-46169 </div>",
+            "url": "https://github.com/0xN7y/CVE-2022-46169",
+            "title": "0xN7y/CVE-2022-46169: Exploit for CVE-2022-46169 ",
+            "date_modified": "2023-11-23T17:36:21.000Z",
+            "date_published": "2023-11-23T17:36:20.000Z",
+            "author": {
+                "name": "0xN7y",
+                "url": "https://github.com/0xN7y"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/106408899?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Somewhat Reliable PoC Exploit for CVE-2022-36804 (BitBucket Critical Command Injection)</div>",
             "url": "https://github.com/benjaminhays/CVE-2022-36804-PoC-Exploit",
             "title": "benjaminhays/CVE-2022-36804-PoC-Exploit: Somewhat Reliable PoC Exploit for CVE-2022-36804 (BitBucket Critical Command Injection)",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "RSA-Demo",
                 "url": "https://github.com/RSA-Demo"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/95436708?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2022-32250-LPE</div>",
-            "url": "https://github.com/Decstor5/2022-32250LPE",
-            "title": "Decstor5/2022-32250LPE: CVE-2022-32250-LPE",
-            "date_modified": "2023-11-09T12:27:26.000Z",
-            "date_published": "2023-11-09T12:27:26.000Z",
-            "author": {
-                "name": "Decstor5",
-                "url": "https://github.com/Decstor5"
             }
         }
     ]
