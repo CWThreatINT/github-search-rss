@@ -17,6 +17,17 @@
             }
         },
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/63489501?u=94e33ac35f3dfb91fd04007d7ff68b8ee9649cb4&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>longitudes de código para desencadenar esta vulnerabilidad</div>",
+            "url": "https://github.com/MrR0b0t19/vulnerabilidad-LibWebP-CVE-2023-41064",
+            "title": "MrR0b0t19/vulnerabilidad-LibWebP-CVE-2023-41064: longitudes de código para desencadenar esta vulnerabilidad",
+            "date_modified": "2023-10-30T17:19:13.000Z",
+            "date_published": "2023-10-30T17:03:24.000Z",
+            "author": {
+                "name": "MrR0b0t19",
+                "url": "https://github.com/MrR0b0t19"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/62462135?u=1cffbda3d4ccc4b3e4f5b918e7955bc6c1d81d1d&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Highly configurable tool to check a server's vulnerability against CVE-2023-44487 by rapidly sending HEADERS and RST_STREAM frames and documenting the server's responses.</div>",
             "url": "https://github.com/ndrscodes/http2-rst-stream-attacker",
             "title": "ndrscodes/http2-rst-stream-attacker: Highly configurable tool to check a server's vulnerability against CVE-2023-44487 by rapidly sending HEADERS and RST_STREAM frames and documenting the server's responses.",
@@ -163,7 +174,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/1620923?u=515f6d3996440a42b7caaa34e6d9214616d0cbd6&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Report and exploit of CVE-2023-36427</div>",
             "url": "https://github.com/tandasat/CVE-2023-36427",
             "title": "tandasat/CVE-2023-36427: Report and exploit of CVE-2023-36427",
-            "date_modified": "2023-11-22T11:43:28.000Z",
+            "date_modified": "2023-11-23T21:20:34.000Z",
             "date_published": "2023-10-09T16:55:18.000Z",
             "author": {
                 "name": "tandasat",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "rothilion26",
                 "url": "https://github.com/rothilion26"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/106973537?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
-            "url": "https://github.com/nidhi7598/linux-4.19.72_net_CVE-2023-4622",
-            "title": "nidhi7598/linux-4.19.72_net_CVE-2023-4622",
-            "date_modified": "2023-11-21T12:22:14.000Z",
-            "date_published": "2023-11-21T11:53:18.000Z",
-            "author": {
-                "name": "nidhi7598",
-                "url": "https://github.com/nidhi7598"
             }
         }
     ]
