@@ -6,6 +6,17 @@
     "description": "CVE-2023 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/151829119?u=c496cf9858815cab8f9bed0e165aafb148ba1762&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
+            "url": "https://github.com/fuyuooumi1027/CVE-2023-45857-Demo",
+            "title": "fuyuooumi1027/CVE-2023-45857-Demo",
+            "date_modified": "2023-11-24T22:43:16.000Z",
+            "date_published": "2023-11-24T22:42:56.000Z",
+            "author": {
+                "name": "fuyuooumi1027",
+                "url": "https://github.com/fuyuooumi1027"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/18195825?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023</div>",
             "url": "https://github.com/CVEProject/cvelist",
             "title": "CVEProject/cvelist: Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023",
@@ -20,7 +31,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/108696846?u=097672ab049e9f77364f2e62a64782629290c9f1&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A tool to check how well a system can handle Rapid Reset DDoS attacks (CVE-2023-44487).</div>",
             "url": "https://github.com/terrorist/HTTP-2-Rapid-Reset-Client",
             "title": "terrorist/HTTP-2-Rapid-Reset-Client: A tool to check how well a system can handle Rapid Reset DDoS attacks (CVE-2023-44487).",
-            "date_modified": "2023-11-24T20:49:42.000Z",
+            "date_modified": "2023-11-24T22:16:43.000Z",
             "date_published": "2023-11-24T18:26:36.000Z",
             "author": {
                 "name": "terrorist",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "creacitysec",
                 "url": "https://github.com/creacitysec"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/93105314?u=81213b7483ce5dae44413665a7098e8e42551f27&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
-            "url": "https://github.com/Tris0n/CVE-2023-32571-POC",
-            "title": "Tris0n/CVE-2023-32571-POC",
-            "date_modified": "2023-11-23T14:41:24.000Z",
-            "date_published": "2023-11-18T04:35:37.000Z",
-            "author": {
-                "name": "Tris0n",
-                "url": "https://github.com/Tris0n"
             }
         }
     ]
