@@ -6,6 +6,17 @@
     "description": "CVE-2022 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/18383407?u=c9d1276bd9ccb8b06b724c3057b1ef683fa81de7&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Research into CVE-2022-41853. Using static functions to obtian RCE via Java Deserialization</div>",
+            "url": "https://github.com/mbadanoiu/CVE-2022-41853",
+            "title": "mbadanoiu/CVE-2022-41853: Research into CVE-2022-41853. Using static functions to obtian RCE via Java Deserialization",
+            "date_modified": "2023-11-24T11:51:45.000Z",
+            "date_published": "2023-11-24T10:30:56.000Z",
+            "author": {
+                "name": "mbadanoiu",
+                "url": "https://github.com/mbadanoiu"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/70061541?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Exploit for CVE-2022-46169 </div>",
             "url": "https://github.com/0xN7y/CVE-2022-46169",
             "title": "0xN7y/CVE-2022-46169: Exploit for CVE-2022-46169 ",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "RSA-Demo",
                 "url": "https://github.com/RSA-Demo"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/95436708?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2022-32250-LPE</div>",
-            "url": "https://github.com/Decstor5/2022-32250LPE",
-            "title": "Decstor5/2022-32250LPE: CVE-2022-32250-LPE",
-            "date_modified": "2023-11-09T12:27:26.000Z",
-            "date_published": "2023-11-09T12:27:26.000Z",
-            "author": {
-                "name": "Decstor5",
-                "url": "https://github.com/Decstor5"
             }
         }
     ]
