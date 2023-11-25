@@ -39,6 +39,17 @@
             }
         },
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/106408899?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Somewhat Reliable PoC Exploit for CVE-2022-36804 (BitBucket Critical Command Injection)</div>",
+            "url": "https://github.com/benjaminhays/CVE-2022-36804-PoC-Exploit",
+            "title": "benjaminhays/CVE-2022-36804-PoC-Exploit: Somewhat Reliable PoC Exploit for CVE-2022-36804 (BitBucket Critical Command Injection)",
+            "date_modified": "2023-10-14T03:31:30.000Z",
+            "date_published": "2022-09-20T02:35:53.000Z",
+            "author": {
+                "name": "benjaminhays",
+                "url": "https://github.com/benjaminhays"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/14269425?u=b60a6cd2e1c942d26653ad795ca943443cea928e&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
             "url": "https://github.com/sunichi/cve-2022-4543-wrapper",
             "title": "sunichi/cve-2022-4543-wrapper",
@@ -113,6 +124,17 @@
             "author": {
                 "name": "SynixCyberCrimeMy",
                 "url": "https://github.com/SynixCyberCrimeMy"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/130330296?u=672fbd82b39a7b081cc61cca6306e6dd5b5b7963&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
+            "url": "https://github.com/S4muraiMelayu1337/CVE-2022-29469",
+            "title": "S4muraiMelayu1337/CVE-2022-29469",
+            "date_modified": "2023-11-15T18:49:58.000Z",
+            "date_published": "2023-11-15T18:47:44.000Z",
+            "author": {
+                "name": "S4muraiMelayu1337",
+                "url": "https://github.com/S4muraiMelayu1337"
             }
         },
         {
@@ -201,28 +223,6 @@
             "author": {
                 "name": "Pasch0",
                 "url": "https://github.com/Pasch0"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/131438625?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
-            "url": "https://github.com/RSA-Demo/cve-2022-42889-text4shell",
-            "title": "RSA-Demo/cve-2022-42889-text4shell",
-            "date_modified": "2023-05-05T13:36:18.000Z",
-            "date_published": "2023-04-21T08:15:19.000Z",
-            "author": {
-                "name": "RSA-Demo",
-                "url": "https://github.com/RSA-Demo"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/95436708?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2022-32250-LPE</div>",
-            "url": "https://github.com/Decstor5/2022-32250LPE",
-            "title": "Decstor5/2022-32250LPE: CVE-2022-32250-LPE",
-            "date_modified": "2023-11-09T12:27:26.000Z",
-            "date_published": "2023-11-09T12:27:26.000Z",
-            "author": {
-                "name": "Decstor5",
-                "url": "https://github.com/Decstor5"
             }
         }
     ]
