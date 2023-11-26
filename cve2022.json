@@ -6,6 +6,17 @@
     "description": "CVE-2022 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/4923784?u=efb47615db2289b6ff9e2bf1056c93dadc692d19&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
+            "url": "https://github.com/elsvital/cve-2022-33891-fix",
+            "title": "elsvital/cve-2022-33891-fix",
+            "date_modified": "2023-11-26T13:47:47.000Z",
+            "date_published": "2023-11-26T13:09:28.000Z",
+            "author": {
+                "name": "elsvital",
+                "url": "https://github.com/elsvital"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/47447167?u=c365357721a8979a4c06ec0290eda3c4349575a3&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
             "url": "https://github.com/Benasin/CVE-2022-22720",
             "title": "Benasin/CVE-2022-22720",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "LucasPDiniz",
                 "url": "https://github.com/LucasPDiniz"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/78447612?u=29da736f93ed4e1643ca154ed37e66c3fbe86174&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2022-29464 Exploit</div>",
-            "url": "https://github.com/Pasch0/WSO2RCE",
-            "title": "Pasch0/WSO2RCE: CVE-2022-29464 Exploit",
-            "date_modified": "2023-11-12T16:10:10.000Z",
-            "date_published": "2022-07-05T08:27:04.000Z",
-            "author": {
-                "name": "Pasch0",
-                "url": "https://github.com/Pasch0"
             }
         }
     ]
