@@ -204,17 +204,6 @@
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/41269324?u=ca57d9fa0ec1243f665b3f5e038fc6a7d17750de&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>LPE PoC of a vulnerability in the io_uring subsystem of the Linux Kernel.</div>",
-            "url": "https://github.com/ysanatomic/io_uring_LPE-CVE-2023-2598",
-            "title": "ysanatomic/io_uring_LPE-CVE-2023-2598: LPE PoC of a vulnerability in the io_uring subsystem of the Linux Kernel.",
-            "date_modified": "2023-11-23T08:06:42.000Z",
-            "date_published": "2023-11-16T23:41:27.000Z",
-            "author": {
-                "name": "ysanatomic",
-                "url": "https://github.com/ysanatomic"
-            }
-        },
-        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/106973537?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
             "url": "https://github.com/nidhi7598/linux-4.19.72_net_CVE-2023-4207",
             "title": "nidhi7598/linux-4.19.72_net_CVE-2023-4207",
@@ -223,6 +212,17 @@
             "author": {
                 "name": "nidhi7598",
                 "url": "https://github.com/nidhi7598"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/151795545?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2023-36553 unauthenticated RCE PoC for Fortinet Fortisiem</div>",
+            "url": "https://github.com/kenit7s/CVE-2023-36553-RCE",
+            "title": "kenit7s/CVE-2023-36553-RCE: CVE-2023-36553 unauthenticated RCE PoC for Fortinet Fortisiem",
+            "date_modified": "2023-11-23T05:05:30.000Z",
+            "date_published": "2023-11-23T04:55:52.000Z",
+            "author": {
+                "name": "kenit7s",
+                "url": "https://github.com/kenit7s"
             }
         }
     ]
