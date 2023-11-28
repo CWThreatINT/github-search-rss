@@ -6,6 +6,17 @@
     "description": "CVE-2022 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/69379868?u=811d22569877da0e674552ad28f44d0d698a05be&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>An automated attack chain based on CVE-2022-30190, 163 email backdoor, and image steganography.</div>",
+            "url": "https://github.com/Jump-Wang-111/AmzWord",
+            "title": "Jump-Wang-111/AmzWord: An automated attack chain based on CVE-2022-30190, 163 email backdoor, and image steganography.",
+            "date_modified": "2023-11-28T03:49:03.000Z",
+            "date_published": "2023-11-28T03:47:32.000Z",
+            "author": {
+                "name": "Jump-Wang-111",
+                "url": "https://github.com/Jump-Wang-111"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/4923784?u=efb47615db2289b6ff9e2bf1056c93dadc692d19&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
             "url": "https://github.com/elsvital/cve-2022-33891-fix",
             "title": "elsvital/cve-2022-33891-fix",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "Cyber-Wo0dy",
                 "url": "https://github.com/Cyber-Wo0dy"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/57265360?u=5a0d0ca6c5153d7e41b9f498a12fe2b35498adf6&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Spring4Shell Vulnerability RCE - CVE-2022-22965 </div>",
-            "url": "https://github.com/LucasPDiniz/CVE-2022-22965",
-            "title": "LucasPDiniz/CVE-2022-22965: Spring4Shell Vulnerability RCE - CVE-2022-22965 ",
-            "date_modified": "2023-11-12T22:37:36.000Z",
-            "date_published": "2023-11-12T22:15:32.000Z",
-            "author": {
-                "name": "LucasPDiniz",
-                "url": "https://github.com/LucasPDiniz"
             }
         }
     ]

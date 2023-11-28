@@ -6,6 +6,17 @@
     "description": "CVE-2023 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/80873500?u=4c3da53f1a4d2eefea25b7399a2d7b2f21c8515d&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Confluence CVE-2023-22518</div>",
+            "url": "https://github.com/C1ph3rX13/CVE-2023-22518",
+            "title": "C1ph3rX13/CVE-2023-22518: Confluence CVE-2023-22518",
+            "date_modified": "2023-11-28T03:33:16.000Z",
+            "date_published": "2023-11-28T03:33:16.000Z",
+            "author": {
+                "name": "C1ph3rX13",
+                "url": "https://github.com/C1ph3rX13"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/18195825?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023</div>",
             "url": "https://github.com/CVEProject/cvelist",
             "title": "CVEProject/cvelist: Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023",
@@ -47,17 +58,6 @@
             "author": {
                 "name": "louiselalanne",
                 "url": "https://github.com/louiselalanne"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/83751620?u=839e0b5f5ed163f06399dcf05fc4ad723aca2cab&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Privilege Escalation - Heap Buffer Overflow Vulnerability</div>",
-            "url": "https://github.com/WhiteH4T-Dev/CVE-2023-4911-Looney-Tunables",
-            "title": "WhiteH4T-Dev/CVE-2023-4911-Looney-Tunables: Privilege Escalation - Heap Buffer Overflow Vulnerability",
-            "date_modified": "2023-11-27T23:43:40.000Z",
-            "date_published": "2023-11-27T23:26:55.000Z",
-            "author": {
-                "name": "WhiteH4T-Dev",
-                "url": "https://github.com/WhiteH4T-Dev"
             }
         },
         {
@@ -152,7 +152,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/4628017?u=9100428fdc244e89b6e61c068c39ce78d5a9981c&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Bluetooth Forward and Future Secrecy Attacks and Defenses (BLUFFS) [CVE 2023-24023] </div>",
             "url": "https://github.com/francozappa/bluffs",
             "title": "francozappa/bluffs: Bluetooth Forward and Future Secrecy Attacks and Defenses (BLUFFS) [CVE 2023-24023] ",
-            "date_modified": "2023-11-27T21:42:37.000Z",
+            "date_modified": "2023-11-28T03:07:43.000Z",
             "date_published": "2023-11-10T09:37:31.000Z",
             "author": {
                 "name": "francozappa",
