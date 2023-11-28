@@ -6,6 +6,17 @@
     "description": "CVE-2023 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/100588945?u=3006679d6b23170651a08055cb32d67c74acce69&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A dylib injection vulnerability in XMachOViewer 0.04 allows attackers to compromise integrity. By exploiting this, unauthorized code can be injected into the product's processes, potentially leading to remote control and unauthorized access to sensitive user data.</div>",
+            "url": "https://github.com/louiselalanne/CVE-2023-49313",
+            "title": "louiselalanne/CVE-2023-49313: A dylib injection vulnerability in XMachOViewer 0.04 allows attackers to compromise integrity. By exploiting this, unauthorized code can be injected into the product's processes, potentially leading to remote control and unauthorized access to sensitive user data.",
+            "date_modified": "2023-11-27T23:59:35.000Z",
+            "date_published": "2023-11-27T23:59:35.000Z",
+            "author": {
+                "name": "louiselalanne",
+                "url": "https://github.com/louiselalanne"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/100588945?u=3006679d6b23170651a08055cb32d67c74acce69&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Asana Desktop 2.1.0 on macOS allows code injection because of specific Electron Fuses. There is inadequate protection against code injection through settings such as RunAsNode and  enableNodeCliInspectArguments, and thus r3ggi/electroniz3r can be used to perform an attack.</div>",
             "url": "https://github.com/louiselalanne/CVE-2023-49314",
             "title": "louiselalanne/CVE-2023-49314: Asana Desktop 2.1.0 on macOS allows code injection because of specific Electron Fuses. There is inadequate protection against code injection through settings such as RunAsNode and  enableNodeCliInspectArguments, and thus r3ggi/electroniz3r can be used to perform an attack.",
@@ -25,17 +36,6 @@
             "author": {
                 "name": "J466Y",
                 "url": "https://github.com/J466Y"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/100588945?u=3006679d6b23170651a08055cb32d67c74acce69&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A dylib injection vulnerability in XMachOViewer 0.04 allows attackers to compromise integrity. By exploiting this, unauthorized code can be injected into the product's processes, potentially leading to remote control and unauthorized access to sensitive user data.</div>",
-            "url": "https://github.com/louiselalanne/CVE-2023-49313",
-            "title": "louiselalanne/CVE-2023-49313: A dylib injection vulnerability in XMachOViewer 0.04 allows attackers to compromise integrity. By exploiting this, unauthorized code can be injected into the product's processes, potentially leading to remote control and unauthorized access to sensitive user data.",
-            "date_modified": "2023-11-27T23:59:35.000Z",
-            "date_published": "2023-11-27T23:59:35.000Z",
-            "author": {
-                "name": "louiselalanne",
-                "url": "https://github.com/louiselalanne"
             }
         },
         {
@@ -207,7 +207,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/33436708?u=55beb087dc8738fb7c2ca7cf1f1be8a7fea0bb55&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2023-38831 winrar exploit generator</div>",
             "url": "https://github.com/b1tg/CVE-2023-38831-winrar-exploit",
             "title": "b1tg/CVE-2023-38831-winrar-exploit: CVE-2023-38831 winrar exploit generator",
-            "date_modified": "2023-11-25T16:37:20.000Z",
+            "date_modified": "2023-11-28T12:49:53.000Z",
             "date_published": "2023-08-25T09:44:08.000Z",
             "author": {
                 "name": "b1tg",
