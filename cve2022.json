@@ -6,6 +6,17 @@
     "description": "CVE-2022 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/51345640?u=ac76ed6d5a99dc3a44d9eb88e997f98052cfba3d&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>bash script for automated discovery and exploitation of machines with the CVE-2022-39986 vulnerability</div>",
+            "url": "https://github.com/mind2hex/RaspAP_Hunter",
+            "title": "mind2hex/RaspAP_Hunter: bash script for automated discovery and exploitation of machines with the CVE-2022-39986 vulnerability",
+            "date_modified": "2023-08-24T17:00:19.000Z",
+            "date_published": "2023-08-24T16:48:27.000Z",
+            "author": {
+                "name": "mind2hex",
+                "url": "https://github.com/mind2hex"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/110426701?u=1d9cd4a72fb499897f3292aee90523b3d2f2250f&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A proof of concept exploiting CVE-2022-26923.</div>",
             "url": "https://github.com/Gh-Badr/CVE-2022-26923",
             "title": "Gh-Badr/CVE-2022-26923: A proof of concept exploiting CVE-2022-26923.",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "martinvks",
                 "url": "https://github.com/martinvks"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/106973537?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
-            "url": "https://github.com/nidhi7598/frameworks_base_AOSP_10_r33_CVE-2022-20338",
-            "title": "nidhi7598/frameworks_base_AOSP_10_r33_CVE-2022-20338",
-            "date_modified": "2023-11-14T07:37:13.000Z",
-            "date_published": "2023-11-14T05:02:59.000Z",
-            "author": {
-                "name": "nidhi7598",
-                "url": "https://github.com/nidhi7598"
             }
         }
     ]
