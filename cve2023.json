@@ -6,10 +6,21 @@
     "description": "CVE-2023 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/18195825?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023</div>",
+            "url": "https://github.com/CVEProject/cvelist",
+            "title": "CVEProject/cvelist: Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023",
+            "date_modified": "2023-11-24T20:08:38.000Z",
+            "date_published": "2020-11-02T19:30:55.000Z",
+            "author": {
+                "name": "CVEProject",
+                "url": "https://github.com/CVEProject"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/56968891?u=24d1a0ed5d887c00c0ed501d77dfda7462a1dffd&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2023-23752 </div>",
             "url": "https://github.com/Youns92/Joomla-v4.2.8---CVE-2023-23752",
             "title": "Youns92/Joomla-v4.2.8---CVE-2023-23752: CVE-2023-23752 ",
-            "date_modified": "2023-11-28T16:08:16.000Z",
+            "date_modified": "2023-11-28T16:09:42.000Z",
             "date_published": "2023-11-28T16:08:16.000Z",
             "author": {
                 "name": "Youns92",
@@ -80,17 +91,6 @@
             "author": {
                 "name": "C1ph3rX13",
                 "url": "https://github.com/C1ph3rX13"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/18195825?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023</div>",
-            "url": "https://github.com/CVEProject/cvelist",
-            "title": "CVEProject/cvelist: Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023",
-            "date_modified": "2023-11-24T20:08:38.000Z",
-            "date_published": "2020-11-02T19:30:55.000Z",
-            "author": {
-                "name": "CVEProject",
-                "url": "https://github.com/CVEProject"
             }
         },
         {

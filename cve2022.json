@@ -6,6 +6,17 @@
     "description": "CVE-2022 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/110426701?u=1d9cd4a72fb499897f3292aee90523b3d2f2250f&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A proof of concept exploiting CVE-2022-26923.</div>",
+            "url": "https://github.com/Gh-Badr/CVE-2022-26923",
+            "title": "Gh-Badr/CVE-2022-26923: A proof of concept exploiting CVE-2022-26923.",
+            "date_modified": "2023-11-28T16:13:36.000Z",
+            "date_published": "2023-11-28T16:13:36.000Z",
+            "author": {
+                "name": "Gh-Badr",
+                "url": "https://github.com/Gh-Badr"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/16787873?u=b437103c51a98558816a1ff2caa8e5d438da91b6&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Study and exploit the vulnerability CVE-2022-21661 that allows SQL Injections through plugins POST requests to WordPress versions below 5.8.3.</div>",
             "url": "https://github.com/WellingtonEspindula/SSI-CVE-2022-21661",
             "title": "WellingtonEspindula/SSI-CVE-2022-21661: Study and exploit the vulnerability CVE-2022-21661 that allows SQL Injections through plugins POST requests to WordPress versions below 5.8.3.",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "nidhi7598",
                 "url": "https://github.com/nidhi7598"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/64825932?u=310c27596143f5dbcd65980ed12bdd9172d6fc77&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2022-22965\\Spring-Core-RCE核弹级别漏洞的rce图形化GUI一键利用工具，基于JavaFx开发，图形化操作更简单，提高效率。</div>",
-            "url": "https://github.com/zangcc/CVE-2022-22965-rexbb",
-            "title": "zangcc/CVE-2022-22965-rexbb: CVE-2022-22965\\Spring-Core-RCE核弹级别漏洞的rce图形化GUI一键利用工具，基于JavaFx开发，图形化操作更简单，提高效率。",
-            "date_modified": "2023-11-24T12:33:30.000Z",
-            "date_published": "2022-12-28T04:50:16.000Z",
-            "author": {
-                "name": "zangcc",
-                "url": "https://github.com/zangcc"
             }
         }
     ]
