@@ -6,6 +6,39 @@
     "description": "CVE-2023 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/100588945?u=3006679d6b23170651a08055cb32d67c74acce69&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Asana Desktop 2.1.0 on macOS allows code injection because of specific Electron Fuses. There is inadequate protection against code injection through settings such as RunAsNode and  enableNodeCliInspectArguments, and thus r3ggi/electroniz3r can be used to perform an attack.</div>",
+            "url": "https://github.com/louiselalanne/CVE-2023-49314",
+            "title": "louiselalanne/CVE-2023-49314: Asana Desktop 2.1.0 on macOS allows code injection because of specific Electron Fuses. There is inadequate protection against code injection through settings such as RunAsNode and  enableNodeCliInspectArguments, and thus r3ggi/electroniz3r can be used to perform an attack.",
+            "date_modified": "2023-11-28T10:39:20.000Z",
+            "date_published": "2023-11-28T10:39:19.000Z",
+            "author": {
+                "name": "louiselalanne",
+                "url": "https://github.com/louiselalanne"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/61787998?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>test repo for CVE-2023-36025</div>",
+            "url": "https://github.com/J466Y/test_CVE-2023-36025",
+            "title": "J466Y/test_CVE-2023-36025: test repo for CVE-2023-36025",
+            "date_modified": "2023-11-28T10:35:35.000Z",
+            "date_published": "2023-11-28T10:34:50.000Z",
+            "author": {
+                "name": "J466Y",
+                "url": "https://github.com/J466Y"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/100588945?u=3006679d6b23170651a08055cb32d67c74acce69&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A dylib injection vulnerability in XMachOViewer 0.04 allows attackers to compromise integrity. By exploiting this, unauthorized code can be injected into the product's processes, potentially leading to remote control and unauthorized access to sensitive user data.</div>",
+            "url": "https://github.com/louiselalanne/CVE-2023-49313",
+            "title": "louiselalanne/CVE-2023-49313: A dylib injection vulnerability in XMachOViewer 0.04 allows attackers to compromise integrity. By exploiting this, unauthorized code can be injected into the product's processes, potentially leading to remote control and unauthorized access to sensitive user data.",
+            "date_modified": "2023-11-27T23:59:35.000Z",
+            "date_published": "2023-11-27T23:59:35.000Z",
+            "author": {
+                "name": "louiselalanne",
+                "url": "https://github.com/louiselalanne"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/152005084?u=796fb1e00ed914962bfc4aa2634d7185939aca03&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Geoserver SQL Injection Exploit</div>",
             "url": "https://github.com/dr-cable-tv/Geoserver-CVE-2023-25157",
             "title": "dr-cable-tv/Geoserver-CVE-2023-25157: Geoserver SQL Injection Exploit",
@@ -69,17 +102,6 @@
             "author": {
                 "name": "ZZY3312",
                 "url": "https://github.com/ZZY3312"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/100588945?u=3006679d6b23170651a08055cb32d67c74acce69&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A dylib injection vulnerability in XMachOViewer 0.04 allows attackers to compromise integrity. By exploiting this, unauthorized code can be injected into the product's processes, potentially leading to remote control and unauthorized access to sensitive user data.</div>",
-            "url": "https://github.com/louiselalanne/CVE-2023-49313",
-            "title": "louiselalanne/CVE-2023-49313: A dylib injection vulnerability in XMachOViewer 0.04 allows attackers to compromise integrity. By exploiting this, unauthorized code can be injected into the product's processes, potentially leading to remote control and unauthorized access to sensitive user data.",
-            "date_modified": "2023-11-27T23:59:35.000Z",
-            "date_published": "2023-11-27T23:59:35.000Z",
-            "author": {
-                "name": "louiselalanne",
-                "url": "https://github.com/louiselalanne"
             }
         },
         {
@@ -201,28 +223,6 @@
             "author": {
                 "name": "Ego1stoo",
                 "url": "https://github.com/Ego1stoo"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/18383407?u=c9d1276bd9ccb8b06b724c3057b1ef683fa81de7&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2023-34212: Java Deserialization via JNDI Components in Apache NiFi</div>",
-            "url": "https://github.com/mbadanoiu/CVE-2023-34212",
-            "title": "mbadanoiu/CVE-2023-34212: CVE-2023-34212: Java Deserialization via JNDI Components in Apache NiFi",
-            "date_modified": "2023-11-25T21:37:15.000Z",
-            "date_published": "2023-11-23T22:14:49.000Z",
-            "author": {
-                "name": "mbadanoiu",
-                "url": "https://github.com/mbadanoiu"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/18383407?u=c9d1276bd9ccb8b06b724c3057b1ef683fa81de7&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2023-34468: Remote Code Execution via DB Components in Apache NiFi</div>",
-            "url": "https://github.com/mbadanoiu/CVE-2023-34468",
-            "title": "mbadanoiu/CVE-2023-34468: CVE-2023-34468: Remote Code Execution via DB Components in Apache NiFi",
-            "date_modified": "2023-11-27T08:22:33.000Z",
-            "date_published": "2023-11-25T12:21:48.000Z",
-            "author": {
-                "name": "mbadanoiu",
-                "url": "https://github.com/mbadanoiu"
             }
         }
     ]
