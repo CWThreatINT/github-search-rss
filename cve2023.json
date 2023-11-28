@@ -17,6 +17,28 @@
             }
         },
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/100588945?u=3006679d6b23170651a08055cb32d67c74acce69&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A dylib injection vulnerability in XMachOViewer 0.04 allows attackers to compromise integrity. By exploiting this, unauthorized code can be injected into the product's processes, potentially leading to remote control and unauthorized access to sensitive user data.</div>",
+            "url": "https://github.com/louiselalanne/CVE-2023-49313",
+            "title": "louiselalanne/CVE-2023-49313: A dylib injection vulnerability in XMachOViewer 0.04 allows attackers to compromise integrity. By exploiting this, unauthorized code can be injected into the product's processes, potentially leading to remote control and unauthorized access to sensitive user data.",
+            "date_modified": "2023-11-27T23:59:35.000Z",
+            "date_published": "2023-11-27T23:59:35.000Z",
+            "author": {
+                "name": "louiselalanne",
+                "url": "https://github.com/louiselalanne"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/83751620?u=839e0b5f5ed163f06399dcf05fc4ad723aca2cab&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Privilege Escalation - Heap Buffer Overflow Vulnerability</div>",
+            "url": "https://github.com/WhiteH4T-Dev/CVE-2023-4911-Looney-Tunables",
+            "title": "WhiteH4T-Dev/CVE-2023-4911-Looney-Tunables: Privilege Escalation - Heap Buffer Overflow Vulnerability",
+            "date_modified": "2023-11-27T23:43:40.000Z",
+            "date_published": "2023-11-27T23:26:55.000Z",
+            "author": {
+                "name": "WhiteH4T-Dev",
+                "url": "https://github.com/WhiteH4T-Dev"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/148460873?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Microweber version 2.0.4 vulnerable to \"Uploading Malicious Files\" </div>",
             "url": "https://github.com/Cyber-Wo0dy/CVE-2023-49052",
             "title": "Cyber-Wo0dy/CVE-2023-49052: Microweber version 2.0.4 vulnerable to \"Uploading Malicious Files\" ",
@@ -201,28 +223,6 @@
             "author": {
                 "name": "Mav3r1ck0x1",
                 "url": "https://github.com/Mav3r1ck0x1"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/36929806?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Wordpress Plugin Canto &lt; 3.0.5 - Remote File Inclusion (RFI) and Remote Code Execution (RCE)</div>",
-            "url": "https://github.com/leoanggal1/CVE-2023-3452-PoC",
-            "title": "leoanggal1/CVE-2023-3452-PoC: Wordpress Plugin Canto < 3.0.5 - Remote File Inclusion (RFI) and Remote Code Execution (RCE)",
-            "date_modified": "2023-11-26T12:24:31.000Z",
-            "date_published": "2023-11-05T16:33:32.000Z",
-            "author": {
-                "name": "leoanggal1",
-                "url": "https://github.com/leoanggal1"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/18383407?u=c9d1276bd9ccb8b06b724c3057b1ef683fa81de7&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2023-40037: Incomplete Validation of JDBC and JNDI Connection URLs in Apache NiFi</div>",
-            "url": "https://github.com/mbadanoiu/CVE-2023-40037",
-            "title": "mbadanoiu/CVE-2023-40037: CVE-2023-40037: Incomplete Validation of JDBC and JNDI Connection URLs in Apache NiFi",
-            "date_modified": "2023-11-26T15:20:22.000Z",
-            "date_published": "2023-11-23T22:26:21.000Z",
-            "author": {
-                "name": "mbadanoiu",
-                "url": "https://github.com/mbadanoiu"
             }
         }
     ]
