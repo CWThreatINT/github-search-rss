@@ -6,6 +6,17 @@
     "description": "CVE-2022 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/16787873?u=b437103c51a98558816a1ff2caa8e5d438da91b6&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Study and exploit the vulnerability CVE-2022-21661 that allows SQL Injections through plugins POST requests to WordPress versions below 5.8.3.</div>",
+            "url": "https://github.com/WellingtonEspindula/SSI-CVE-2022-21661",
+            "title": "WellingtonEspindula/SSI-CVE-2022-21661: Study and exploit the vulnerability CVE-2022-21661 that allows SQL Injections through plugins POST requests to WordPress versions below 5.8.3.",
+            "date_modified": "2023-05-05T22:45:42.000Z",
+            "date_published": "2023-01-13T13:31:34.000Z",
+            "author": {
+                "name": "WellingtonEspindula",
+                "url": "https://github.com/WellingtonEspindula"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/69379868?u=811d22569877da0e674552ad28f44d0d698a05be&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>An automated attack chain based on CVE-2022-30190, 163 email backdoor, and image steganography.</div>",
             "url": "https://github.com/Jump-Wang-111/AmzWord",
             "title": "Jump-Wang-111/AmzWord: An automated attack chain based on CVE-2022-30190, 163 email backdoor, and image steganography.",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "zangcc",
                 "url": "https://github.com/zangcc"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/148460873?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2022-24227 [Updated]: BoltWire v8.00 vulnerable to \"Stored Cross-site Scripting (XSS)\"</div>",
-            "url": "https://github.com/Cyber-Wo0dy/CVE-2022-24227-updated",
-            "title": "Cyber-Wo0dy/CVE-2022-24227-updated: CVE-2022-24227 [Updated]: BoltWire v8.00 vulnerable to \"Stored Cross-site Scripting (XSS)\"",
-            "date_modified": "2023-11-13T12:56:26.000Z",
-            "date_published": "2023-11-13T12:53:56.000Z",
-            "author": {
-                "name": "Cyber-Wo0dy",
-                "url": "https://github.com/Cyber-Wo0dy"
             }
         }
     ]

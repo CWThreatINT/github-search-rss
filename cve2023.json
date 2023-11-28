@@ -6,6 +6,17 @@
     "description": "CVE-2023 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/56968891?u=24d1a0ed5d887c00c0ed501d77dfda7462a1dffd&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2023-23752 </div>",
+            "url": "https://github.com/Youns92/Joomla-v4.2.8---CVE-2023-23752",
+            "title": "Youns92/Joomla-v4.2.8---CVE-2023-23752: CVE-2023-23752 ",
+            "date_modified": "2023-11-28T16:08:16.000Z",
+            "date_published": "2023-11-28T16:08:16.000Z",
+            "author": {
+                "name": "Youns92",
+                "url": "https://github.com/Youns92"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/100588945?u=3006679d6b23170651a08055cb32d67c74acce69&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A dylib injection vulnerability in XMachOViewer 0.04 allows attackers to compromise integrity. By exploiting this, unauthorized code can be injected into the product's processes, potentially leading to remote control and unauthorized access to sensitive user data.</div>",
             "url": "https://github.com/louiselalanne/CVE-2023-49313",
             "title": "louiselalanne/CVE-2023-49313: A dylib injection vulnerability in XMachOViewer 0.04 allows attackers to compromise integrity. By exploiting this, unauthorized code can be injected into the product's processes, potentially leading to remote control and unauthorized access to sensitive user data.",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "b1tg",
                 "url": "https://github.com/b1tg"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/53305928?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Metabase open source before 0.46.6.1 and Metabase Enterprise before 1.46.6.1 allow attackers to execute arbitrary commands on the server, at the server's privilege level. Authentication is not required for exploitation. The other fixed versions are 0.45.4.1, 1.45.4.1, 0.44.7.1, 1.44.7.1, 0.43.7.2, and 1.43.7.2.</div>",
-            "url": "https://github.com/Ego1stoo/CVE-2023-38646",
-            "title": "Ego1stoo/CVE-2023-38646: Metabase open source before 0.46.6.1 and Metabase Enterprise before 1.46.6.1 allow attackers to execute arbitrary commands on the server, at the server's privilege level. Authentication is not required for exploitation. The other fixed versions are 0.45.4.1, 1.45.4.1, 0.44.7.1, 1.44.7.1, 0.43.7.2, and 1.43.7.2.",
-            "date_modified": "2023-11-26T03:22:51.000Z",
-            "date_published": "2023-11-25T17:22:22.000Z",
-            "author": {
-                "name": "Ego1stoo",
-                "url": "https://github.com/Ego1stoo"
             }
         }
     ]
