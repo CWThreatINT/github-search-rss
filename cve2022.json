@@ -6,6 +6,17 @@
     "description": "CVE-2022 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/69733777?u=8cb01fa2772cf72ad1cc6f50e6753fcdcd49aef4&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2022-22965 poc including reverse-shell support</div>",
+            "url": "https://github.com/viniciuspereiras/CVE-2022-22965-poc",
+            "title": "viniciuspereiras/CVE-2022-22965-poc: CVE-2022-22965 poc including reverse-shell support",
+            "date_modified": "2023-09-28T11:37:34.000Z",
+            "date_published": "2022-03-31T19:19:52.000Z",
+            "author": {
+                "name": "viniciuspereiras",
+                "url": "https://github.com/viniciuspereiras"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/78447612?u=29da736f93ed4e1643ca154ed37e66c3fbe86174&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2022-29464 Exploit</div>",
             "url": "https://github.com/Pasch0/WSO2RCE",
             "title": "Pasch0/WSO2RCE: CVE-2022-29464 Exploit",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "meowhua15",
                 "url": "https://github.com/meowhua15"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/102573923?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
-            "url": "https://github.com/Satheesh575555/frameworks_base_AOSP_06_r22_CVE-2022-20338",
-            "title": "Satheesh575555/frameworks_base_AOSP_06_r22_CVE-2022-20338",
-            "date_modified": "2023-11-14T10:03:13.000Z",
-            "date_published": "2023-11-14T09:21:58.000Z",
-            "author": {
-                "name": "Satheesh575555",
-                "url": "https://github.com/Satheesh575555"
             }
         }
     ]
