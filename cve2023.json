@@ -6,6 +6,17 @@
     "description": "CVE-2023 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/8098943?u=f59f78deb3d225faede35cf68bfa451072d98aa5&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Joomla CVE-2023-23752 Exploit Script</div>",
+            "url": "https://github.com/Ly0kha/Joomla-CVE-2023-23752-Exploit-Script",
+            "title": "Ly0kha/Joomla-CVE-2023-23752-Exploit-Script: Joomla CVE-2023-23752 Exploit Script",
+            "date_modified": "2023-11-29T17:03:00.000Z",
+            "date_published": "2023-11-29T17:01:08.000Z",
+            "author": {
+                "name": "Ly0kha",
+                "url": "https://github.com/Ly0kha"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/18195825?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023</div>",
             "url": "https://github.com/CVEProject/cvelist",
             "title": "CVEProject/cvelist: Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023",
@@ -42,7 +53,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/4628017?u=9100428fdc244e89b6e61c068c39ce78d5a9981c&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Bluetooth Forward and Future Secrecy Attacks and Defenses (BLUFFS) [CVE 2023-24023] </div>",
             "url": "https://github.com/francozappa/bluffs",
             "title": "francozappa/bluffs: Bluetooth Forward and Future Secrecy Attacks and Defenses (BLUFFS) [CVE 2023-24023] ",
-            "date_modified": "2023-11-29T15:59:18.000Z",
+            "date_modified": "2023-11-29T17:00:38.000Z",
             "date_published": "2023-11-10T09:37:31.000Z",
             "author": {
                 "name": "francozappa",
@@ -119,7 +130,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/100588945?u=3006679d6b23170651a08055cb32d67c74acce69&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Asana Desktop 2.1.0 on macOS allows code injection because of specific Electron Fuses. There is inadequate protection against code injection through settings such as RunAsNode and  enableNodeCliInspectArguments, and thus r3ggi/electroniz3r can be used to perform an attack.</div>",
             "url": "https://github.com/louiselalanne/CVE-2023-49314",
             "title": "louiselalanne/CVE-2023-49314: Asana Desktop 2.1.0 on macOS allows code injection because of specific Electron Fuses. There is inadequate protection against code injection through settings such as RunAsNode and  enableNodeCliInspectArguments, and thus r3ggi/electroniz3r can be used to perform an attack.",
-            "date_modified": "2023-11-29T13:14:17.000Z",
+            "date_modified": "2023-11-29T16:47:08.000Z",
             "date_published": "2023-11-28T10:39:19.000Z",
             "author": {
                 "name": "louiselalanne",
@@ -130,7 +141,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/61787998?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>test repo for CVE-2023-36025</div>",
             "url": "https://github.com/J466Y/test_CVE-2023-36025",
             "title": "J466Y/test_CVE-2023-36025: test repo for CVE-2023-36025",
-            "date_modified": "2023-11-29T08:33:07.000Z",
+            "date_modified": "2023-11-29T16:47:04.000Z",
             "date_published": "2023-11-28T10:34:50.000Z",
             "author": {
                 "name": "J466Y",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "JeanChpt",
                 "url": "https://github.com/JeanChpt"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/148983455?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
-            "url": "https://github.com/AzraelsBlade/CVE-2023-46948",
-            "title": "AzraelsBlade/CVE-2023-46948",
-            "date_modified": "2023-11-27T12:31:44.000Z",
-            "date_published": "2023-10-25T13:50:41.000Z",
-            "author": {
-                "name": "AzraelsBlade",
-                "url": "https://github.com/AzraelsBlade"
             }
         }
     ]
