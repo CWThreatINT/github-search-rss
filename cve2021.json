@@ -6,6 +6,17 @@
     "description": "CVE-2021 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/30971092?u=5e5b6c1558a0b981fead9fa1330b70805144056f&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
+            "url": "https://github.com/maixuany/detect_CVE_2021_31166",
+            "title": "maixuany/detect_CVE_2021_31166",
+            "date_modified": "2023-11-29T05:54:39.000Z",
+            "date_published": "2023-11-29T05:51:21.000Z",
+            "author": {
+                "name": "maixuany",
+                "url": "https://github.com/maixuany"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/3830775?u=ae6685722687541cd30b0f7f3357fe3eccb58af0&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Check and report for cve_2021_44228 (log4shell) on your system.</div>",
             "url": "https://github.com/robertdebock/ansible-role-cve_2021_44228",
             "title": "robertdebock/ansible-role-cve_2021_44228: Check and report for cve_2021_44228 (log4shell) on your system.",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "d5sec",
                 "url": "https://github.com/d5sec"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/64716083?u=a006cb82d22bb58321fd66aecc6f3fe4aad6fdf5&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>个人挖掘出来的漏洞CVE-2021-43503</div>",
-            "url": "https://github.com/guoyanan1g/Laravel-vul",
-            "title": "guoyanan1g/Laravel-vul: 个人挖掘出来的漏洞CVE-2021-43503",
-            "date_modified": "2023-10-07T03:57:30.000Z",
-            "date_published": "2021-11-05T09:59:34.000Z",
-            "author": {
-                "name": "guoyanan1g",
-                "url": "https://github.com/guoyanan1g"
             }
         }
     ]
