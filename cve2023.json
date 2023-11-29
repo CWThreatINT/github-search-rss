@@ -17,10 +17,32 @@
             }
         },
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/23350775?u=a4533f0582679f5fa9be0c2d1d54dcd183ba2e79&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>poc</div>",
+            "url": "https://github.com/sunu11/chrome-CVE-2023-4357",
+            "title": "sunu11/chrome-CVE-2023-4357: poc",
+            "date_modified": "2023-11-29T09:54:41.000Z",
+            "date_published": "2023-11-29T09:52:36.000Z",
+            "author": {
+                "name": "sunu11",
+                "url": "https://github.com/sunu11"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/5593452?u=534b5f5fdc6bb4deb41551cde98fc055eec95b2c&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
+            "url": "https://github.com/ka7ana/CVE-2023-36025",
+            "title": "ka7ana/CVE-2023-36025",
+            "date_modified": "2023-11-27T01:17:35.000Z",
+            "date_published": "2023-11-17T15:46:44.000Z",
+            "author": {
+                "name": "ka7ana",
+                "url": "https://github.com/ka7ana"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/4628017?u=9100428fdc244e89b6e61c068c39ce78d5a9981c&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Bluetooth Forward and Future Secrecy Attacks and Defenses (BLUFFS) [CVE 2023-24023] </div>",
             "url": "https://github.com/francozappa/bluffs",
             "title": "francozappa/bluffs: Bluetooth Forward and Future Secrecy Attacks and Defenses (BLUFFS) [CVE 2023-24023] ",
-            "date_modified": "2023-11-29T08:41:08.000Z",
+            "date_modified": "2023-11-29T10:07:13.000Z",
             "date_published": "2023-11-10T09:37:31.000Z",
             "author": {
                 "name": "francozappa",
@@ -201,28 +223,6 @@
             "author": {
                 "name": "AzraelsBlade",
                 "url": "https://github.com/AzraelsBlade"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/121404035?u=6f5c1a01e208038ff39f8533af2e454d00861dc9&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Programm to exploit a range of ip adresses</div>",
-            "url": "https://github.com/byte4RR4Y/CVE-2023-4966",
-            "title": "byte4RR4Y/CVE-2023-4966: Programm to exploit a range of ip adresses",
-            "date_modified": "2023-11-27T09:52:07.000Z",
-            "date_published": "2023-11-27T09:51:30.000Z",
-            "author": {
-                "name": "byte4RR4Y",
-                "url": "https://github.com/byte4RR4Y"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/67005408?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
-            "url": "https://github.com/hshivhare67/Jetty-v9.4.31_CVE-2023-26048",
-            "title": "hshivhare67/Jetty-v9.4.31_CVE-2023-26048",
-            "date_modified": "2023-11-27T07:20:44.000Z",
-            "date_published": "2023-11-27T07:19:49.000Z",
-            "author": {
-                "name": "hshivhare67",
-                "url": "https://github.com/hshivhare67"
             }
         }
     ]
