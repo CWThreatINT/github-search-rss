@@ -6,6 +6,28 @@
     "description": "CVE-2023 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/102574296?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
+            "url": "https://github.com/Trinadh465/frameworks_base_android-6.0.1_r22_CVE-2023-20921",
+            "title": "Trinadh465/frameworks_base_android-6.0.1_r22_CVE-2023-20921",
+            "date_modified": "2023-11-29T06:50:59.000Z",
+            "date_published": "2023-11-29T06:42:43.000Z",
+            "author": {
+                "name": "Trinadh465",
+                "url": "https://github.com/Trinadh465"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/106973537?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
+            "url": "https://github.com/nidhi7598/frameworks_base_AOSP_06_r22_core_CVE-2023-20944",
+            "title": "nidhi7598/frameworks_base_AOSP_06_r22_core_CVE-2023-20944",
+            "date_modified": "2023-11-29T06:25:25.000Z",
+            "date_published": "2023-11-29T06:09:52.000Z",
+            "author": {
+                "name": "nidhi7598",
+                "url": "https://github.com/nidhi7598"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/18195825?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023</div>",
             "url": "https://github.com/CVEProject/cvelist",
             "title": "CVEProject/cvelist: Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023",
@@ -201,28 +223,6 @@
             "author": {
                 "name": "actuator",
                 "url": "https://github.com/actuator"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/27496739?u=e981d899ad905af58740aa6870da7e68aaba7387&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
-            "url": "https://github.com/edsonjt81/CVE-2023-22515-Scan.",
-            "title": "edsonjt81/CVE-2023-22515-Scan.",
-            "date_modified": "2023-11-26T21:25:08.000Z",
-            "date_published": "2023-11-26T21:24:55.000Z",
-            "author": {
-                "name": "edsonjt81",
-                "url": "https://github.com/edsonjt81"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/66824584?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div><a href=\"https://github.com/AbelChe/evil_minio/tree/main\">https://github.com/AbelChe/evil_minio/tree/main</a> 打包留存</div>",
-            "url": "https://github.com/Fw-fW-fw/CVE-2023-28432-minio_update_rce",
-            "title": "Fw-fW-fw/CVE-2023-28432-minio_update_rce: https://github.com/AbelChe/evil_minio/tree/main 打包留存",
-            "date_modified": "2023-11-26T18:35:08.000Z",
-            "date_published": "2023-11-26T18:23:33.000Z",
-            "author": {
-                "name": "Fw-fW-fw",
-                "url": "https://github.com/Fw-fW-fw"
             }
         }
     ]
