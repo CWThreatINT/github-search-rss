@@ -17,6 +17,28 @@
             }
         },
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/87021051?u=6428d57d8ee9e13bee11a77ff1ad6c6172d38088&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Repository to exploit CVE-2023-46604 reported for ActiveMQ</div>",
+            "url": "https://github.com/tomasmussi-mulesoft/activemq-cve-2023-46604",
+            "title": "tomasmussi-mulesoft/activemq-cve-2023-46604: Repository to exploit CVE-2023-46604 reported for ActiveMQ",
+            "date_modified": "2023-11-29T18:30:02.000Z",
+            "date_published": "2023-11-29T18:30:02.000Z",
+            "author": {
+                "name": "tomasmussi-mulesoft",
+                "url": "https://github.com/tomasmussi-mulesoft"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/127287794?u=a735436fdb5041f2d66e326b5ba19fcf8d8770fb&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>JetBrains TeamCity Authentication Bypass CVE-2023-42793 Exploit</div>",
+            "url": "https://github.com/H454NSec/CVE-2023-42793",
+            "title": "H454NSec/CVE-2023-42793: JetBrains TeamCity Authentication Bypass CVE-2023-42793 Exploit",
+            "date_modified": "2023-11-29T18:16:03.000Z",
+            "date_published": "2023-09-29T06:43:35.000Z",
+            "author": {
+                "name": "H454NSec",
+                "url": "https://github.com/H454NSec"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/8098943?u=f59f78deb3d225faede35cf68bfa451072d98aa5&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Joomla CVE-2023-23752 Exploit Script</div>",
             "url": "https://github.com/Ly0kha/Joomla-CVE-2023-23752-Exploit-Script",
             "title": "Ly0kha/Joomla-CVE-2023-23752-Exploit-Script: Joomla CVE-2023-23752 Exploit Script",
@@ -53,7 +75,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/4628017?u=9100428fdc244e89b6e61c068c39ce78d5a9981c&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Bluetooth Forward and Future Secrecy Attacks and Defenses (BLUFFS) [CVE 2023-24023] </div>",
             "url": "https://github.com/francozappa/bluffs",
             "title": "francozappa/bluffs: Bluetooth Forward and Future Secrecy Attacks and Defenses (BLUFFS) [CVE 2023-24023] ",
-            "date_modified": "2023-11-29T17:58:12.000Z",
+            "date_modified": "2023-11-29T19:04:17.000Z",
             "date_published": "2023-11-10T09:37:31.000Z",
             "author": {
                 "name": "francozappa",
@@ -201,28 +223,6 @@
             "author": {
                 "name": "ZZY3312",
                 "url": "https://github.com/ZZY3312"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/148460873?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Microweber version 2.0.4 vulnerable to \"Uploading Malicious Files\" </div>",
-            "url": "https://github.com/Cyber-Wo0dy/CVE-2023-49052",
-            "title": "Cyber-Wo0dy/CVE-2023-49052: Microweber version 2.0.4 vulnerable to \"Uploading Malicious Files\" ",
-            "date_modified": "2023-11-27T14:33:10.000Z",
-            "date_published": "2023-11-27T14:29:32.000Z",
-            "author": {
-                "name": "Cyber-Wo0dy",
-                "url": "https://github.com/Cyber-Wo0dy"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/57096518?u=cd63b01e12181cd7da3d1fb04e099f6c28d403de&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Proof of concept developed for the CVE-2023-36664</div>",
-            "url": "https://github.com/JeanChpt/CVE-2023-36664",
-            "title": "JeanChpt/CVE-2023-36664: Proof of concept developed for the CVE-2023-36664",
-            "date_modified": "2023-11-27T20:57:39.000Z",
-            "date_published": "2023-11-27T12:47:43.000Z",
-            "author": {
-                "name": "JeanChpt",
-                "url": "https://github.com/JeanChpt"
             }
         }
     ]
