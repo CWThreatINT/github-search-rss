@@ -6,17 +6,6 @@
     "description": "CVE-2023 FEED on GitHub",
     "items": [
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/151768625?u=0721e07350f7a846003eee8a36cab0d5ca728dc0&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>PoC for the CVE-2023-49103</div>",
-            "url": "https://github.com/creacitysec/CVE-2023-49103",
-            "title": "creacitysec/CVE-2023-49103: PoC for the CVE-2023-49103",
-            "date_modified": "2023-11-30T08:22:35.000Z",
-            "date_published": "2023-11-22T17:00:23.000Z",
-            "author": {
-                "name": "creacitysec",
-                "url": "https://github.com/creacitysec"
-            }
-        },
-        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/18195825?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023</div>",
             "url": "https://github.com/CVEProject/cvelist",
             "title": "CVEProject/cvelist: Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023",
@@ -25,6 +14,28 @@
             "author": {
                 "name": "CVEProject",
                 "url": "https://github.com/CVEProject"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/51722811?u=a195458fc64bade6e8616d1d5c43883f0abde0c0&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>KD Coming Soon &lt;= 1.7 - Unauthenticated PHP Object Injection via cetitle</div>",
+            "url": "https://github.com/RandomRobbieBF/CVE-2023-46615",
+            "title": "RandomRobbieBF/CVE-2023-46615: KD Coming Soon <= 1.7 - Unauthenticated PHP Object Injection via cetitle",
+            "date_modified": "2023-11-30T14:46:21.000Z",
+            "date_published": "2023-11-30T14:46:21.000Z",
+            "author": {
+                "name": "RandomRobbieBF",
+                "url": "https://github.com/RandomRobbieBF"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/151768625?u=0721e07350f7a846003eee8a36cab0d5ca728dc0&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>PoC for the CVE-2023-49103</div>",
+            "url": "https://github.com/creacitysec/CVE-2023-49103",
+            "title": "creacitysec/CVE-2023-49103: PoC for the CVE-2023-49103",
+            "date_modified": "2023-11-30T08:22:35.000Z",
+            "date_published": "2023-11-22T17:00:23.000Z",
+            "author": {
+                "name": "creacitysec",
+                "url": "https://github.com/creacitysec"
             }
         },
         {
@@ -141,7 +152,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/4628017?u=9100428fdc244e89b6e61c068c39ce78d5a9981c&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Bluetooth Forward and Future Secrecy Attacks and Defenses (BLUFFS) [CVE 2023-24023] </div>",
             "url": "https://github.com/francozappa/bluffs",
             "title": "francozappa/bluffs: Bluetooth Forward and Future Secrecy Attacks and Defenses (BLUFFS) [CVE 2023-24023] ",
-            "date_modified": "2023-11-30T13:43:09.000Z",
+            "date_modified": "2023-11-30T15:04:01.000Z",
             "date_published": "2023-11-10T09:37:31.000Z",
             "author": {
                 "name": "francozappa",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "louiselalanne",
                 "url": "https://github.com/louiselalanne"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/61787998?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>test repo for CVE-2023-36025</div>",
-            "url": "https://github.com/J466Y/test_CVE-2023-36025",
-            "title": "J466Y/test_CVE-2023-36025: test repo for CVE-2023-36025",
-            "date_modified": "2023-11-30T00:52:33.000Z",
-            "date_published": "2023-11-28T10:34:50.000Z",
-            "author": {
-                "name": "J466Y",
-                "url": "https://github.com/J466Y"
             }
         }
     ]
