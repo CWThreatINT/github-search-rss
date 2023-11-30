@@ -6,10 +6,21 @@
     "description": "CVE-2023 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/152495093?u=91dc4ab185a9217437d569dbd49dbe63ed8b8470&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
+            "url": "https://github.com/r3dston3/CVE-2023-23752",
+            "title": "r3dston3/CVE-2023-23752",
+            "date_modified": "2023-11-30T18:07:52.000Z",
+            "date_published": "2023-11-30T17:55:38.000Z",
+            "author": {
+                "name": "r3dston3",
+                "url": "https://github.com/r3dston3"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/18195825?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023</div>",
             "url": "https://github.com/CVEProject/cvelist",
             "title": "CVEProject/cvelist: Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023",
-            "date_modified": "2023-11-24T20:08:38.000Z",
+            "date_modified": "2023-11-30T17:09:49.000Z",
             "date_published": "2020-11-02T19:30:55.000Z",
             "author": {
                 "name": "CVEProject",
@@ -163,7 +174,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/4628017?u=9100428fdc244e89b6e61c068c39ce78d5a9981c&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Bluetooth Forward and Future Secrecy Attacks and Defenses (BLUFFS) [CVE 2023-24023] </div>",
             "url": "https://github.com/francozappa/bluffs",
             "title": "francozappa/bluffs: Bluetooth Forward and Future Secrecy Attacks and Defenses (BLUFFS) [CVE 2023-24023] ",
-            "date_modified": "2023-11-30T16:53:01.000Z",
+            "date_modified": "2023-11-30T18:04:40.000Z",
             "date_published": "2023-11-10T09:37:31.000Z",
             "author": {
                 "name": "francozappa",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "Youns92",
                 "url": "https://github.com/Youns92"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/100588945?u=3006679d6b23170651a08055cb32d67c74acce69&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A dylib injection vulnerability in XMachOViewer 0.04 allows attackers to compromise integrity. By exploiting this, unauthorized code can be injected into the product's processes, potentially leading to remote control and unauthorized access to sensitive user data.</div>",
-            "url": "https://github.com/louiselalanne/CVE-2023-49313",
-            "title": "louiselalanne/CVE-2023-49313: A dylib injection vulnerability in XMachOViewer 0.04 allows attackers to compromise integrity. By exploiting this, unauthorized code can be injected into the product's processes, potentially leading to remote control and unauthorized access to sensitive user data.",
-            "date_modified": "2023-11-27T23:59:35.000Z",
-            "date_published": "2023-11-27T23:59:35.000Z",
-            "author": {
-                "name": "louiselalanne",
-                "url": "https://github.com/louiselalanne"
             }
         }
     ]
