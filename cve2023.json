@@ -6,6 +6,17 @@
     "description": "CVE-2023 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/151768625?u=0721e07350f7a846003eee8a36cab0d5ca728dc0&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>PoC for the CVE-2023-49103</div>",
+            "url": "https://github.com/creacitysec/CVE-2023-49103",
+            "title": "creacitysec/CVE-2023-49103: PoC for the CVE-2023-49103",
+            "date_modified": "2023-11-30T08:22:35.000Z",
+            "date_published": "2023-11-22T17:00:23.000Z",
+            "author": {
+                "name": "creacitysec",
+                "url": "https://github.com/creacitysec"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/18195825?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023</div>",
             "url": "https://github.com/CVEProject/cvelist",
             "title": "CVEProject/cvelist: Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023",
@@ -130,7 +141,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/4628017?u=9100428fdc244e89b6e61c068c39ce78d5a9981c&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Bluetooth Forward and Future Secrecy Attacks and Defenses (BLUFFS) [CVE 2023-24023] </div>",
             "url": "https://github.com/francozappa/bluffs",
             "title": "francozappa/bluffs: Bluetooth Forward and Future Secrecy Attacks and Defenses (BLUFFS) [CVE 2023-24023] ",
-            "date_modified": "2023-11-30T13:05:08.000Z",
+            "date_modified": "2023-11-30T13:43:09.000Z",
             "date_published": "2023-11-10T09:37:31.000Z",
             "author": {
                 "name": "francozappa",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "J466Y",
                 "url": "https://github.com/J466Y"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/152005084?u=796fb1e00ed914962bfc4aa2634d7185939aca03&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Geoserver SQL Injection Exploit</div>",
-            "url": "https://github.com/dr-cable-tv/Geoserver-CVE-2023-25157",
-            "title": "dr-cable-tv/Geoserver-CVE-2023-25157: Geoserver SQL Injection Exploit",
-            "date_modified": "2023-11-28T10:06:33.000Z",
-            "date_published": "2023-11-28T07:23:00.000Z",
-            "author": {
-                "name": "dr-cable-tv",
-                "url": "https://github.com/dr-cable-tv"
             }
         }
     ]
