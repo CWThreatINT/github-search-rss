@@ -6,6 +6,17 @@
     "description": "CVE-2022 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/12976017?u=6d3d423fda6a56643a0ca1acae5223cdf08a3c28&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Let's control Secure Boot Chain ourselves.</div>",
+            "url": "https://github.com/TomKing062/CVE-2022-38691_38692",
+            "title": "TomKing062/CVE-2022-38691_38692: Let's control Secure Boot Chain ourselves.",
+            "date_modified": "2023-12-01T17:38:51.000Z",
+            "date_published": "2023-12-01T07:32:18.000Z",
+            "author": {
+                "name": "TomKing062",
+                "url": "https://github.com/TomKing062"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/12976017?u=6d3d423fda6a56643a0ca1acae5223cdf08a3c28&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>User can execute unsigned binaries with BootROM privileges, which can be used to unlock bootloader</div>",
             "url": "https://github.com/TomKing062/CVE-2022-38694_unlock_bootloader",
             "title": "TomKing062/CVE-2022-38694_unlock_bootloader: User can execute unsigned binaries with BootROM privileges, which can be used to unlock bootloader",
@@ -36,17 +47,6 @@
             "author": {
                 "name": "mbadanoiu",
                 "url": "https://github.com/mbadanoiu"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/12976017?u=6d3d423fda6a56643a0ca1acae5223cdf08a3c28&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
-            "url": "https://github.com/TomKing062/CVE-2022-38691_38692",
-            "title": "TomKing062/CVE-2022-38691_38692",
-            "date_modified": "2023-12-01T08:20:08.000Z",
-            "date_published": "2023-12-01T07:32:18.000Z",
-            "author": {
-                "name": "TomKing062",
-                "url": "https://github.com/TomKing062"
             }
         },
         {
