@@ -6,6 +6,17 @@
     "description": "CVE-2022 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/12976017?u=6d3d423fda6a56643a0ca1acae5223cdf08a3c28&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>User can execute unsigned binaries with BootROM privileges, which can be used to unlock bootloader</div>",
+            "url": "https://github.com/TomKing062/CVE-2022-38694_unlock_bootloader",
+            "title": "TomKing062/CVE-2022-38694_unlock_bootloader: User can execute unsigned binaries with BootROM privileges, which can be used to unlock bootloader",
+            "date_modified": "2023-12-01T13:31:38.000Z",
+            "date_published": "2023-06-10T08:31:26.000Z",
+            "author": {
+                "name": "TomKing062",
+                "url": "https://github.com/TomKing062"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/18383407?u=c9d1276bd9ccb8b06b724c3057b1ef683fa81de7&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2022-40635: Groovy Sandbox Bypass in CrafterCMS</div>",
             "url": "https://github.com/mbadanoiu/CVE-2022-40635",
             "title": "mbadanoiu/CVE-2022-40635: CVE-2022-40635: Groovy Sandbox Bypass in CrafterCMS",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "Trinadh465",
                 "url": "https://github.com/Trinadh465"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/43733113?u=e5b75e0176e7f951c8ad42fff83a82d1fb45e069&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
-            "url": "https://github.com/NataliSemi/-CVE-2022-44268",
-            "title": "NataliSemi/-CVE-2022-44268",
-            "date_modified": "2023-11-14T22:02:19.000Z",
-            "date_published": "2023-11-14T21:54:17.000Z",
-            "author": {
-                "name": "NataliSemi",
-                "url": "https://github.com/NataliSemi"
             }
         }
     ]
