@@ -6,6 +6,17 @@
     "description": "CVE-2022 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/12976017?u=6d3d423fda6a56643a0ca1acae5223cdf08a3c28&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
+            "url": "https://github.com/TomKing062/CVE-2022-38691_38692",
+            "title": "TomKing062/CVE-2022-38691_38692",
+            "date_modified": "2023-12-01T07:35:05.000Z",
+            "date_published": "2023-12-01T07:32:18.000Z",
+            "author": {
+                "name": "TomKing062",
+                "url": "https://github.com/TomKing062"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/16787873?u=b437103c51a98558816a1ff2caa8e5d438da91b6&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Study and exploit the vulnerability CVE-2022-21661 that allows SQL Injections through plugins POST requests to WordPress versions below 5.8.3.</div>",
             "url": "https://github.com/WellingtonEspindula/SSI-CVE-2022-21661",
             "title": "WellingtonEspindula/SSI-CVE-2022-21661: Study and exploit the vulnerability CVE-2022-21661 that allows SQL Injections through plugins POST requests to WordPress versions below 5.8.3.",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "S4muraiMelayu1337",
                 "url": "https://github.com/S4muraiMelayu1337"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/74200918?u=e06e9e9906c202d27e92ae2fb98b28af88038b44&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>An exploitation of CVE-2022-30190 (Follina)</div>",
-            "url": "https://github.com/meowhua15/CVE-2022-30190",
-            "title": "meowhua15/CVE-2022-30190: An exploitation of CVE-2022-30190 (Follina)",
-            "date_modified": "2023-07-26T14:55:29.000Z",
-            "date_published": "2023-05-02T07:56:28.000Z",
-            "author": {
-                "name": "meowhua15",
-                "url": "https://github.com/meowhua15"
             }
         }
     ]
