@@ -6,6 +6,17 @@
     "description": "CVE-2021 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/96992046?u=10ff657463449006c9ad8d00672aeff375f7d18c&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Log4j2 LDAP 취약점 테스트 (CVE-2021-44228)</div>",
+            "url": "https://github.com/mklinkj/log4j2-test",
+            "title": "mklinkj/log4j2-test: Log4j2 LDAP 취약점 테스트 (CVE-2021-44228)",
+            "date_modified": "2022-01-09T19:59:25.000Z",
+            "date_published": "2022-01-03T04:36:41.000Z",
+            "author": {
+                "name": "mklinkj",
+                "url": "https://github.com/mklinkj"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/30971092?u=5e5b6c1558a0b981fead9fa1330b70805144056f&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
             "url": "https://github.com/maixuany/detect_CVE_2021_31166",
             "title": "maixuany/detect_CVE_2021_31166",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "LucasPDiniz",
                 "url": "https://github.com/LucasPDiniz"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/127467140?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Proof of Concept Exploit for CVE-2021-43609</div>",
-            "url": "https://github.com/d5sec/CVE-2021-43609-POC",
-            "title": "d5sec/CVE-2021-43609-POC: Proof of Concept Exploit for CVE-2021-43609",
-            "date_modified": "2023-11-11T17:57:10.000Z",
-            "date_published": "2023-11-06T21:13:21.000Z",
-            "author": {
-                "name": "d5sec",
-                "url": "https://github.com/d5sec"
             }
         }
     ]
