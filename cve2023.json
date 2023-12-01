@@ -6,6 +6,17 @@
     "description": "CVE-2023 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/70062249?u=e58d66c3b6e17e58a4d014bc83e7fb0780d05b57&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>This Python implementation serves an educational purpose by demonstrating the exploitation of CVE-2023-23752. The code provides insight into the vulnerability's exploitation.</div>",
+            "url": "https://github.com/Fernando-olv/Joomla-CVE-2023-23752",
+            "title": "Fernando-olv/Joomla-CVE-2023-23752: This Python implementation serves an educational purpose by demonstrating the exploitation of CVE-2023-23752. The code provides insight into the vulnerability's exploitation.",
+            "date_modified": "2023-12-01T02:25:04.000Z",
+            "date_published": "2023-12-01T02:25:04.000Z",
+            "author": {
+                "name": "Fernando-olv",
+                "url": "https://github.com/Fernando-olv"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/18195825?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023</div>",
             "url": "https://github.com/CVEProject/cvelist",
             "title": "CVEProject/cvelist: Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023",
@@ -196,7 +207,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/4628017?u=9100428fdc244e89b6e61c068c39ce78d5a9981c&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Bluetooth Forward and Future Secrecy Attacks and Defenses (BLUFFS) [CVE 2023-24023] </div>",
             "url": "https://github.com/francozappa/bluffs",
             "title": "francozappa/bluffs: Bluetooth Forward and Future Secrecy Attacks and Defenses (BLUFFS) [CVE 2023-24023] ",
-            "date_modified": "2023-12-01T01:55:21.000Z",
+            "date_modified": "2023-12-01T02:15:11.000Z",
             "date_published": "2023-11-10T09:37:31.000Z",
             "author": {
                 "name": "francozappa",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "Trinadh465",
                 "url": "https://github.com/Trinadh465"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/106973537?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
-            "url": "https://github.com/nidhi7598/frameworks_base_AOSP_06_r22_core_CVE-2023-20944",
-            "title": "nidhi7598/frameworks_base_AOSP_06_r22_core_CVE-2023-20944",
-            "date_modified": "2023-11-29T06:25:25.000Z",
-            "date_published": "2023-11-29T06:09:52.000Z",
-            "author": {
-                "name": "nidhi7598",
-                "url": "https://github.com/nidhi7598"
             }
         }
     ]
