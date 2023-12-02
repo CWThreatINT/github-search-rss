@@ -6,28 +6,6 @@
     "description": "CVE-2023 FEED on GitHub",
     "items": [
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/134201910?u=711d129cdbca2a87278e1eee662120522ad749bf&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2023-49103 scanner for shodan.io downloaded json files</div>",
-            "url": "https://github.com/MixColumns/CVE-2023-49103",
-            "title": "MixColumns/CVE-2023-49103: CVE-2023-49103 scanner for shodan.io downloaded json files",
-            "date_modified": "2023-12-02T11:03:20.000Z",
-            "date_published": "2023-12-02T11:03:19.000Z",
-            "author": {
-                "name": "MixColumns",
-                "url": "https://github.com/MixColumns"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/18195825?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023</div>",
-            "url": "https://github.com/CVEProject/cvelist",
-            "title": "CVEProject/cvelist: Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023",
-            "date_modified": "2023-12-01T15:18:14.000Z",
-            "date_published": "2020-11-02T19:30:55.000Z",
-            "author": {
-                "name": "CVEProject",
-                "url": "https://github.com/CVEProject"
-            }
-        },
-        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/4406140?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Demonstration of CVE-2023-24034 authorization bypass in Spring Security </div>",
             "url": "https://github.com/hotblac/cve-2023-34034",
             "title": "hotblac/cve-2023-34034: Demonstration of CVE-2023-24034 authorization bypass in Spring Security ",
@@ -39,6 +17,17 @@
             }
         },
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/134201910?u=711d129cdbca2a87278e1eee662120522ad749bf&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2023-49103 scanner for shodan.io downloaded json files</div>",
+            "url": "https://github.com/MixColumns/CVE-2023-49103",
+            "title": "MixColumns/CVE-2023-49103: CVE-2023-49103 scanner for shodan.io downloaded json files",
+            "date_modified": "2023-12-02T11:23:30.000Z",
+            "date_published": "2023-12-02T11:03:19.000Z",
+            "author": {
+                "name": "MixColumns",
+                "url": "https://github.com/MixColumns"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/57096518?u=cd63b01e12181cd7da3d1fb04e099f6c28d403de&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Proof of concept developed for the CVE-2023-36664</div>",
             "url": "https://github.com/JeanChpt/CVE-2023-36664",
             "title": "JeanChpt/CVE-2023-36664: Proof of concept developed for the CVE-2023-36664",
@@ -47,6 +36,17 @@
             "author": {
                 "name": "JeanChpt",
                 "url": "https://github.com/JeanChpt"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/18195825?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023</div>",
+            "url": "https://github.com/CVEProject/cvelist",
+            "title": "CVEProject/cvelist: Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023",
+            "date_modified": "2023-12-01T15:18:14.000Z",
+            "date_published": "2020-11-02T19:30:55.000Z",
+            "author": {
+                "name": "CVEProject",
+                "url": "https://github.com/CVEProject"
             }
         },
         {
