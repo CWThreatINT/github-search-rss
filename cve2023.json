@@ -6,6 +6,17 @@
     "description": "CVE-2023 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/151768625?u=0721e07350f7a846003eee8a36cab0d5ca728dc0&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
+            "url": "https://github.com/creacitysec/CVE-2023-48842",
+            "title": "creacitysec/CVE-2023-48842",
+            "date_modified": "2023-12-02T23:23:33.000Z",
+            "date_published": "2023-12-02T23:21:44.000Z",
+            "author": {
+                "name": "creacitysec",
+                "url": "https://github.com/creacitysec"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/18195825?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023</div>",
             "url": "https://github.com/CVEProject/cvelist",
             "title": "CVEProject/cvelist: Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "INTfinityConsulting",
                 "url": "https://github.com/INTfinityConsulting"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/51722811?u=a195458fc64bade6e8616d1d5c43883f0abde0c0&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Qode Essential Addons &lt;= 1.5.2 - Missing Authorization to Authenticated (Subscriber+) Arbitrary Plugin Installation/Activation</div>",
-            "url": "https://github.com/RandomRobbieBF/CVE-2023-47840",
-            "title": "RandomRobbieBF/CVE-2023-47840: Qode Essential Addons <= 1.5.2 - Missing Authorization to Authenticated (Subscriber+) Arbitrary Plugin Installation/Activation",
-            "date_modified": "2023-12-02T13:07:38.000Z",
-            "date_published": "2023-11-29T20:14:39.000Z",
-            "author": {
-                "name": "RandomRobbieBF",
-                "url": "https://github.com/RandomRobbieBF"
             }
         }
     ]
