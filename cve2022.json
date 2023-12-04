@@ -6,17 +6,6 @@
     "description": "CVE-2022 FEED on GitHub",
     "items": [
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/42686923?u=f8e370f29568ee77f02a16565ee853b6588957c2&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
-            "url": "https://github.com/CygnusX-26/CVE-2022-44268-fixed-PoC",
-            "title": "CygnusX-26/CVE-2022-44268-fixed-PoC",
-            "date_modified": "2023-12-04T08:48:34.000Z",
-            "date_published": "2023-12-04T08:48:28.000Z",
-            "author": {
-                "name": "CygnusX-26",
-                "url": "https://github.com/CygnusX-26"
-            }
-        },
-        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/55196564?u=fb7be49975566d7cc91200773cbe059eff758836&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A testing tool for CobaltStrike-RCE:CVE-2022-39197; Weblogic-RCE:CVE-2023-21839; MinIO:CVE-2023-28432</div>",
             "url": "https://github.com/Romanc9/Gui-poc-test",
             "title": "Romanc9/Gui-poc-test: A testing tool for CobaltStrike-RCE:CVE-2022-39197; Weblogic-RCE:CVE-2023-21839; MinIO:CVE-2023-28432",
@@ -25,6 +14,17 @@
             "author": {
                 "name": "Romanc9",
                 "url": "https://github.com/Romanc9"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/42686923?u=f8e370f29568ee77f02a16565ee853b6588957c2&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
+            "url": "https://github.com/CygnusX-26/CVE-2022-44268-fixed-PoC",
+            "title": "CygnusX-26/CVE-2022-44268-fixed-PoC",
+            "date_modified": "2023-12-04T08:48:34.000Z",
+            "date_published": "2023-12-04T08:48:28.000Z",
+            "author": {
+                "name": "CygnusX-26",
+                "url": "https://github.com/CygnusX-26"
             }
         },
         {
@@ -53,7 +53,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/12976017?u=6d3d423fda6a56643a0ca1acae5223cdf08a3c28&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>User can execute unsigned binaries with BootROM privileges, which can be used to unlock bootloader</div>",
             "url": "https://github.com/TomKing062/CVE-2022-38694_unlock_bootloader",
             "title": "TomKing062/CVE-2022-38694_unlock_bootloader: User can execute unsigned binaries with BootROM privileges, which can be used to unlock bootloader",
-            "date_modified": "2023-12-01T13:31:38.000Z",
+            "date_modified": "2023-12-04T09:17:49.000Z",
             "date_published": "2023-06-10T08:31:26.000Z",
             "author": {
                 "name": "TomKing062",
