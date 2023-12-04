@@ -17,6 +17,17 @@
             }
         },
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/26263598?u=963fb99cd49431c91994dbd1977cd29c967fc472&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A script, written in golang. POC for CVE-2023-25157</div>",
+            "url": "https://github.com/7imbitz/CVE-2023-25157-checker",
+            "title": "7imbitz/CVE-2023-25157-checker: A script, written in golang. POC for CVE-2023-25157",
+            "date_modified": "2023-09-02T16:36:53.000Z",
+            "date_published": "2023-06-12T14:34:14.000Z",
+            "author": {
+                "name": "7imbitz",
+                "url": "https://github.com/7imbitz"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/70062249?u=e58d66c3b6e17e58a4d014bc83e7fb0780d05b57&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>This Python implementation serves an educational purpose by demonstrating the exploitation of CVE-2023-23752. The code provides insight into the vulnerability's exploitation.</div>",
             "url": "https://github.com/Fernando-olv/Joomla-CVE-2023-23752",
             "title": "Fernando-olv/Joomla-CVE-2023-23752: This Python implementation serves an educational purpose by demonstrating the exploitation of CVE-2023-23752. The code provides insight into the vulnerability's exploitation.",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "X1r0z",
                 "url": "https://github.com/X1r0z"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/149907798?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
-            "url": "https://github.com/nitipoom-jar/CVE-2023-48866",
-            "title": "nitipoom-jar/CVE-2023-48866",
-            "date_modified": "2023-11-30T16:01:02.000Z",
-            "date_published": "2023-11-30T15:59:16.000Z",
-            "author": {
-                "name": "nitipoom-jar",
-                "url": "https://github.com/nitipoom-jar"
             }
         }
     ]
