@@ -17,6 +17,28 @@
             }
         },
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/73236689?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Proof-of-concept of CVE-2023-38831</div>",
+            "url": "https://github.com/MyStuffYT/CVE-2023-38831-POC",
+            "title": "MyStuffYT/CVE-2023-38831-POC: Proof-of-concept of CVE-2023-38831",
+            "date_modified": "2023-12-04T11:16:10.000Z",
+            "date_published": "2023-12-04T11:13:43.000Z",
+            "author": {
+                "name": "MyStuffYT",
+                "url": "https://github.com/MyStuffYT"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/62462135?u=1cffbda3d4ccc4b3e4f5b918e7955bc6c1d81d1d&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Highly configurable tool to check a server's vulnerability against CVE-2023-44487 by rapidly sending HEADERS and RST_STREAM frames and documenting the server's responses.</div>",
+            "url": "https://github.com/ndrscodes/http2-rst-stream-attacker",
+            "title": "ndrscodes/http2-rst-stream-attacker: Highly configurable tool to check a server's vulnerability against CVE-2023-44487 by rapidly sending HEADERS and RST_STREAM frames and documenting the server's responses.",
+            "date_modified": "2023-11-15T19:55:23.000Z",
+            "date_published": "2023-11-08T20:56:22.000Z",
+            "author": {
+                "name": "ndrscodes",
+                "url": "https://github.com/ndrscodes"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/55196564?u=fb7be49975566d7cc91200773cbe059eff758836&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A testing tool for CobaltStrike-RCE:CVE-2022-39197; Weblogic-RCE:CVE-2023-21839; MinIO:CVE-2023-28432</div>",
             "url": "https://github.com/Romanc9/Gui-poc-test",
             "title": "Romanc9/Gui-poc-test: A testing tool for CobaltStrike-RCE:CVE-2022-39197; Weblogic-RCE:CVE-2023-21839; MinIO:CVE-2023-28432",
@@ -201,28 +223,6 @@
             "author": {
                 "name": "TrevorGKann",
                 "url": "https://github.com/TrevorGKann"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/152495093?u=91dc4ab185a9217437d569dbd49dbe63ed8b8470&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
-            "url": "https://github.com/r3dston3/CVE-2023-23752",
-            "title": "r3dston3/CVE-2023-23752",
-            "date_modified": "2023-11-30T18:07:52.000Z",
-            "date_published": "2023-11-30T17:55:38.000Z",
-            "author": {
-                "name": "r3dston3",
-                "url": "https://github.com/r3dston3"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/28532286?u=31b13b135027b4829ad2b7f6135cdf1745be118f&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>ActiveMQ RCE (CVE-2023-46604) 漏洞利用工具, 基于 Go 语言</div>",
-            "url": "https://github.com/X1r0z/ActiveMQ-RCE",
-            "title": "X1r0z/ActiveMQ-RCE: ActiveMQ RCE (CVE-2023-46604) 漏洞利用工具, 基于 Go 语言",
-            "date_modified": "2023-12-01T06:31:39.000Z",
-            "date_published": "2023-10-27T05:57:21.000Z",
-            "author": {
-                "name": "X1r0z",
-                "url": "https://github.com/X1r0z"
             }
         }
     ]
