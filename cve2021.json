@@ -6,6 +6,17 @@
     "description": "CVE-2021 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/21004514?u=8531037bb58ad26cc797206d1dae79bebeb35d3c&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A Proof of concept scenario for exploitation of CVE2021-38297 GO WASM buffer-overflow</div>",
+            "url": "https://github.com/gkrishnan724/CVE-2021-38297",
+            "title": "gkrishnan724/CVE-2021-38297: A Proof of concept scenario for exploitation of CVE2021-38297 GO WASM buffer-overflow",
+            "date_modified": "2023-12-05T21:42:32.000Z",
+            "date_published": "2023-11-15T20:52:36.000Z",
+            "author": {
+                "name": "gkrishnan724",
+                "url": "https://github.com/gkrishnan724"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/127914517?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Thực nghiệm CVE-2021-44790</div>",
             "url": "https://github.com/nuPacaChi/-CVE-2021-44790",
             "title": "nuPacaChi/-CVE-2021-44790: Thực nghiệm CVE-2021-44790",
@@ -14,17 +25,6 @@
             "author": {
                 "name": "nuPacaChi",
                 "url": "https://github.com/nuPacaChi"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/21004514?u=8531037bb58ad26cc797206d1dae79bebeb35d3c&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Working in Progress POC for CVE2021-38297</div>",
-            "url": "https://github.com/gkrishnan724/CVE-2021-38297",
-            "title": "gkrishnan724/CVE-2021-38297: Working in Progress POC for CVE2021-38297",
-            "date_modified": "2023-11-18T07:46:50.000Z",
-            "date_published": "2023-11-15T20:52:36.000Z",
-            "author": {
-                "name": "gkrishnan724",
-                "url": "https://github.com/gkrishnan724"
             }
         },
         {
