@@ -6,6 +6,17 @@
     "description": "CVE-2022 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/4098538?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Foxit PDF Reader Remote Code Execution Exploit</div>",
+            "url": "https://github.com/hacksysteam/CVE-2022-28672",
+            "title": "hacksysteam/CVE-2022-28672: Foxit PDF Reader Remote Code Execution Exploit",
+            "date_modified": "2023-11-19T20:36:17.000Z",
+            "date_published": "2022-12-02T18:52:20.000Z",
+            "author": {
+                "name": "hacksysteam",
+                "url": "https://github.com/hacksysteam"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/55196564?u=fb7be49975566d7cc91200773cbe059eff758836&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A testing tool for CobaltStrike-RCE:CVE-2022-39197; Weblogic-RCE:CVE-2023-21839; MinIO:CVE-2023-28432</div>",
             "url": "https://github.com/Romanc9/Gui-poc-test",
             "title": "Romanc9/Gui-poc-test: A testing tool for CobaltStrike-RCE:CVE-2022-39197; Weblogic-RCE:CVE-2023-21839; MinIO:CVE-2023-28432",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "sunichi",
                 "url": "https://github.com/sunichi"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/71746399?u=f12ce773cd6753024fbe116cce753cbe9f7e8426&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
-            "url": "https://github.com/zer0ne1/CVE-2022-0337-RePoC",
-            "title": "zer0ne1/CVE-2022-0337-RePoC",
-            "date_modified": "2023-11-21T02:36:09.000Z",
-            "date_published": "2023-11-21T02:34:32.000Z",
-            "author": {
-                "name": "zer0ne1",
-                "url": "https://github.com/zer0ne1"
             }
         }
     ]
