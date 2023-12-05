@@ -28,6 +28,17 @@
             }
         },
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/29630660?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>ownCloud exploits for CVE-2023-49105</div>",
+            "url": "https://github.com/ambionics/owncloud-exploits",
+            "title": "ambionics/owncloud-exploits: ownCloud exploits for CVE-2023-49105",
+            "date_modified": "2023-12-05T13:25:13.000Z",
+            "date_published": "2023-12-05T11:35:12.000Z",
+            "author": {
+                "name": "ambionics",
+                "url": "https://github.com/ambionics"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/82941858?u=6af58ff55af168b10475f5babc61d9f10a81e54c&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>list CVE - 2023</div>",
             "url": "https://github.com/ayhan-dev/CVE-LIST",
             "title": "ayhan-dev/CVE-LIST: list CVE - 2023",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "l00neyhacker",
                 "url": "https://github.com/l00neyhacker"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/151768625?u=0721e07350f7a846003eee8a36cab0d5ca728dc0&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>PoC for the CVE-2023-49103</div>",
-            "url": "https://github.com/creacitysec/CVE-2023-49103",
-            "title": "creacitysec/CVE-2023-49103: PoC for the CVE-2023-49103",
-            "date_modified": "2023-12-04T07:30:15.000Z",
-            "date_published": "2023-11-22T17:00:23.000Z",
-            "author": {
-                "name": "creacitysec",
-                "url": "https://github.com/creacitysec"
             }
         }
     ]
