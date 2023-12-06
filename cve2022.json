@@ -6,6 +6,17 @@
     "description": "CVE-2022 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/57404930?u=15c8c306eb2a82d233cacd9ae77893665db1de24&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>一款针对Vcenter的综合利用工具，包含目前最主流的CVE-2021-21972、CVE-2021-21985以及CVE-2021-22005、One Access的CVE-2022-22954、CVE-2022-22972/31656以及log4j，提供一键上传webshell，命令执行或者上传公钥使用SSH免密连接</div>",
+            "url": "https://github.com/Schira4396/VcenterKiller",
+            "title": "Schira4396/VcenterKiller: 一款针对Vcenter的综合利用工具，包含目前最主流的CVE-2021-21972、CVE-2021-21985以及CVE-2021-22005、One Access的CVE-2022-22954、CVE-2022-22972/31656以及log4j，提供一键上传webshell，命令执行或者上传公钥使用SSH免密连接",
+            "date_modified": "2023-12-06T08:17:53.000Z",
+            "date_published": "2022-10-04T03:39:27.000Z",
+            "author": {
+                "name": "Schira4396",
+                "url": "https://github.com/Schira4396"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/1588395?u=36f801f30d7d5180e1f78dfc8d72d1f2f33ef24a&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Detect images that likely exploit CVE-2022-44268</div>",
             "url": "https://github.com/jnschaeffer/cve-2022-44268-detector",
             "title": "jnschaeffer/cve-2022-44268-detector: Detect images that likely exploit CVE-2022-44268",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "0xN7y",
                 "url": "https://github.com/0xN7y"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/106408899?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Somewhat Reliable PoC Exploit for CVE-2022-36804 (BitBucket Critical Command Injection)</div>",
-            "url": "https://github.com/benjaminhays/CVE-2022-36804-PoC-Exploit",
-            "title": "benjaminhays/CVE-2022-36804-PoC-Exploit: Somewhat Reliable PoC Exploit for CVE-2022-36804 (BitBucket Critical Command Injection)",
-            "date_modified": "2023-10-14T03:31:30.000Z",
-            "date_published": "2022-09-20T02:35:53.000Z",
-            "author": {
-                "name": "benjaminhays",
-                "url": "https://github.com/benjaminhays"
             }
         }
     ]
