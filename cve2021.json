@@ -171,6 +171,17 @@
             }
         },
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/36891477?u=37acb00c37736142e220ceaf9596d52c9b158124&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>MASS CVE-2021-41773</div>",
+            "url": "https://github.com/justakazh/mass_cve-2021-41773",
+            "title": "justakazh/mass_cve-2021-41773: MASS CVE-2021-41773",
+            "date_modified": "2023-12-06T02:22:56.000Z",
+            "date_published": "2021-10-07T15:13:18.000Z",
+            "author": {
+                "name": "justakazh",
+                "url": "https://github.com/justakazh"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/57265360?u=5a0d0ca6c5153d7e41b9f498a12fe2b35498adf6&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Log4j Vulnerability RCE - CVE-2021-44228</div>",
             "url": "https://github.com/LucasPDiniz/CVE-2021-44228",
             "title": "LucasPDiniz/CVE-2021-44228: Log4j Vulnerability RCE - CVE-2021-44228",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "nickswink",
                 "url": "https://github.com/nickswink"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/87979263?u=dd7f23490c7b9d1bd1dca84ccaf723402debf769&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A Proof-Of-Concept for the CVE-2021-44228 vulnerability. </div>",
-            "url": "https://github.com/kozmer/log4j-shell-poc",
-            "title": "kozmer/log4j-shell-poc: A Proof-Of-Concept for the CVE-2021-44228 vulnerability. ",
-            "date_modified": "2023-12-05T15:59:19.000Z",
-            "date_published": "2021-12-10T23:19:28.000Z",
-            "author": {
-                "name": "kozmer",
-                "url": "https://github.com/kozmer"
             }
         }
     ]
