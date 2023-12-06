@@ -6,6 +6,17 @@
     "description": "CVE-2023 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/62462135?u=1cffbda3d4ccc4b3e4f5b918e7955bc6c1d81d1d&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Highly configurable tool to check a server's vulnerability against CVE-2023-44487 by rapidly sending HEADERS and RST_STREAM frames and documenting the server's responses.</div>",
+            "url": "https://github.com/ndrscodes/http2-rst-stream-attacker",
+            "title": "ndrscodes/http2-rst-stream-attacker: Highly configurable tool to check a server's vulnerability against CVE-2023-44487 by rapidly sending HEADERS and RST_STREAM frames and documenting the server's responses.",
+            "date_modified": "2023-12-06T21:53:51.000Z",
+            "date_published": "2023-11-08T20:56:22.000Z",
+            "author": {
+                "name": "ndrscodes",
+                "url": "https://github.com/ndrscodes"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/18195825?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023</div>",
             "url": "https://github.com/CVEProject/cvelist",
             "title": "CVEProject/cvelist: Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023",
@@ -190,17 +201,6 @@
             "author": {
                 "name": "MyStuffYT",
                 "url": "https://github.com/MyStuffYT"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/62462135?u=1cffbda3d4ccc4b3e4f5b918e7955bc6c1d81d1d&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Highly configurable tool to check a server's vulnerability against CVE-2023-44487 by rapidly sending HEADERS and RST_STREAM frames and documenting the server's responses.</div>",
-            "url": "https://github.com/ndrscodes/http2-rst-stream-attacker",
-            "title": "ndrscodes/http2-rst-stream-attacker: Highly configurable tool to check a server's vulnerability against CVE-2023-44487 by rapidly sending HEADERS and RST_STREAM frames and documenting the server's responses.",
-            "date_modified": "2023-12-06T13:30:06.000Z",
-            "date_published": "2023-11-08T20:56:22.000Z",
-            "author": {
-                "name": "ndrscodes",
-                "url": "https://github.com/ndrscodes"
             }
         },
         {
