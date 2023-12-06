@@ -6,17 +6,6 @@
     "description": "CVE-2023 FEED on GitHub",
     "items": [
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/70545257?u=cec04443cc57aa6d58534455a68753e817012629&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A proof of concept for CVE-2023–1326 in apport-cli 2.26.0</div>",
-            "url": "https://github.com/diego-tella/CVE-2023-1326-PoC",
-            "title": "diego-tella/CVE-2023-1326-PoC: A proof of concept for CVE-2023–1326 in apport-cli 2.26.0",
-            "date_modified": "2023-12-06T00:07:41.000Z",
-            "date_published": "2023-12-06T00:07:40.000Z",
-            "author": {
-                "name": "diego-tella",
-                "url": "https://github.com/diego-tella"
-            }
-        },
-        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/18195825?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023</div>",
             "url": "https://github.com/CVEProject/cvelist",
             "title": "CVEProject/cvelist: Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023",
@@ -25,6 +14,28 @@
             "author": {
                 "name": "CVEProject",
                 "url": "https://github.com/CVEProject"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/19311214?u=2c679aafd425dd6ec18db28ac8ff2dec279ce1c7&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2023-20198 Exploit PoC</div>",
+            "url": "https://github.com/smokeintheshell/CVE-2023-20198",
+            "title": "smokeintheshell/CVE-2023-20198: CVE-2023-20198 Exploit PoC",
+            "date_modified": "2023-12-05T07:23:00.000Z",
+            "date_published": "2023-11-16T16:39:38.000Z",
+            "author": {
+                "name": "smokeintheshell",
+                "url": "https://github.com/smokeintheshell"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/70545257?u=cec04443cc57aa6d58534455a68753e817012629&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A proof of concept for CVE-2023–1326 in apport-cli 2.26.0</div>",
+            "url": "https://github.com/diego-tella/CVE-2023-1326-PoC",
+            "title": "diego-tella/CVE-2023-1326-PoC: A proof of concept for CVE-2023–1326 in apport-cli 2.26.0",
+            "date_modified": "2023-12-06T00:07:41.000Z",
+            "date_published": "2023-12-06T00:07:40.000Z",
+            "author": {
+                "name": "diego-tella",
+                "url": "https://github.com/diego-tella"
             }
         },
         {
@@ -212,17 +223,6 @@
             "author": {
                 "name": "MixColumns",
                 "url": "https://github.com/MixColumns"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/57096518?u=cd63b01e12181cd7da3d1fb04e099f6c28d403de&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Proof of concept developed for the CVE-2023-36664</div>",
-            "url": "https://github.com/JeanChpt/CVE-2023-36664",
-            "title": "JeanChpt/CVE-2023-36664: Proof of concept developed for the CVE-2023-36664",
-            "date_modified": "2023-12-02T10:33:28.000Z",
-            "date_published": "2023-12-02T10:28:10.000Z",
-            "author": {
-                "name": "JeanChpt",
-                "url": "https://github.com/JeanChpt"
             }
         }
     ]
