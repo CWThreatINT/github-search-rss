@@ -17,6 +17,17 @@
             }
         },
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/101872898?u=ff91a9355029d7341ab430bfc2802eb4d72f92d7&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>exploit for cve-2023-47246 SysAid RCE (shell upload)</div>",
+            "url": "https://github.com/W01fh4cker/CVE-2023-47246-EXP",
+            "title": "W01fh4cker/CVE-2023-47246-EXP: exploit for cve-2023-47246 SysAid RCE (shell upload)",
+            "date_modified": "2023-12-04T12:59:59.000Z",
+            "date_published": "2023-11-17T07:03:06.000Z",
+            "author": {
+                "name": "W01fh4cker",
+                "url": "https://github.com/W01fh4cker"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/62462135?u=1cffbda3d4ccc4b3e4f5b918e7955bc6c1d81d1d&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Highly configurable tool to check a server's vulnerability against CVE-2023-44487 by rapidly sending HEADERS and RST_STREAM frames and documenting the server's responses.</div>",
             "url": "https://github.com/ndrscodes/http2-rst-stream-attacker",
             "title": "ndrscodes/http2-rst-stream-attacker: Highly configurable tool to check a server's vulnerability against CVE-2023-44487 by rapidly sending HEADERS and RST_STREAM frames and documenting the server's responses.",
@@ -130,7 +141,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/29630660?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>ownCloud exploits for CVE-2023-49105</div>",
             "url": "https://github.com/ambionics/owncloud-exploits",
             "title": "ambionics/owncloud-exploits: ownCloud exploits for CVE-2023-49105",
-            "date_modified": "2023-12-07T02:16:39.000Z",
+            "date_modified": "2023-12-07T02:45:47.000Z",
             "date_published": "2023-12-05T11:35:12.000Z",
             "author": {
                 "name": "ambionics",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "7imbitz",
                 "url": "https://github.com/7imbitz"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/70062249?u=e58d66c3b6e17e58a4d014bc83e7fb0780d05b57&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>This Python implementation serves an educational purpose by demonstrating the exploitation of CVE-2023-23752. The code provides insight into the vulnerability's exploitation.</div>",
-            "url": "https://github.com/Fernando-olv/Joomla-CVE-2023-23752",
-            "title": "Fernando-olv/Joomla-CVE-2023-23752: This Python implementation serves an educational purpose by demonstrating the exploitation of CVE-2023-23752. The code provides insight into the vulnerability's exploitation.",
-            "date_modified": "2023-12-04T21:33:52.000Z",
-            "date_published": "2023-12-01T02:25:04.000Z",
-            "author": {
-                "name": "Fernando-olv",
-                "url": "https://github.com/Fernando-olv"
             }
         }
     ]
