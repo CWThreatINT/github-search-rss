@@ -28,6 +28,17 @@
             }
         },
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/48909214?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>POC for cve 2023 41320 GLPI</div>",
+            "url": "https://github.com/Guilhem7/CVE_2023_41320",
+            "title": "Guilhem7/CVE_2023_41320: POC for cve 2023 41320 GLPI",
+            "date_modified": "2023-11-16T16:22:36.000Z",
+            "date_published": "2023-11-16T16:21:51.000Z",
+            "author": {
+                "name": "Guilhem7",
+                "url": "https://github.com/Guilhem7"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/145666390?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
             "url": "https://github.com/uthrasri/framework_base_CVE-2023-21285_NoPatch",
             "title": "uthrasri/framework_base_CVE-2023-21285_NoPatch",
@@ -204,25 +215,14 @@
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/82941858?u=6af58ff55af168b10475f5babc61d9f10a81e54c&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>list CVE - 2023</div>",
-            "url": "https://github.com/ayhan-dev/CVE-LIST",
-            "title": "ayhan-dev/CVE-LIST: list CVE - 2023",
-            "date_modified": "2023-12-01T12:17:23.000Z",
-            "date_published": "2023-11-28T06:54:25.000Z",
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/4098538?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Adobe Acrobat Reader - CVE-2023-21608 - Remote Code Execution Exploit</div>",
+            "url": "https://github.com/hacksysteam/CVE-2023-21608",
+            "title": "hacksysteam/CVE-2023-21608: Adobe Acrobat Reader - CVE-2023-21608 - Remote Code Execution Exploit",
+            "date_modified": "2023-11-28T12:49:15.000Z",
+            "date_published": "2023-01-30T12:57:48.000Z",
             "author": {
-                "name": "ayhan-dev",
-                "url": "https://github.com/ayhan-dev"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/127108998?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
-            "url": "https://github.com/delsploit/CVE-2023-48849",
-            "title": "delsploit/CVE-2023-48849",
-            "date_modified": "2023-12-01T11:24:26.000Z",
-            "date_published": "2023-12-01T11:24:26.000Z",
-            "author": {
-                "name": "delsploit",
-                "url": "https://github.com/delsploit"
+                "name": "hacksysteam",
+                "url": "https://github.com/hacksysteam"
             }
         }
     ]
