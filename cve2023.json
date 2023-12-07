@@ -6,17 +6,6 @@
     "description": "CVE-2023 FEED on GitHub",
     "items": [
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/48909214?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>POC for cve 2023 41320 GLPI</div>",
-            "url": "https://github.com/Guilhem7/CVE_2023_41320",
-            "title": "Guilhem7/CVE_2023_41320: POC for cve 2023 41320 GLPI",
-            "date_modified": "2023-11-16T16:22:36.000Z",
-            "date_published": "2023-11-16T16:21:51.000Z",
-            "author": {
-                "name": "Guilhem7",
-                "url": "https://github.com/Guilhem7"
-            }
-        },
-        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/18195825?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023</div>",
             "url": "https://github.com/CVEProject/cvelist",
             "title": "CVEProject/cvelist: Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023",
@@ -25,6 +14,17 @@
             "author": {
                 "name": "CVEProject",
                 "url": "https://github.com/CVEProject"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/48909214?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>POC for cve 2023 41320 GLPI</div>",
+            "url": "https://github.com/Guilhem7/CVE_2023_41320",
+            "title": "Guilhem7/CVE_2023_41320: POC for cve 2023 41320 GLPI",
+            "date_modified": "2023-11-16T16:22:36.000Z",
+            "date_published": "2023-11-16T16:21:51.000Z",
+            "author": {
+                "name": "Guilhem7",
+                "url": "https://github.com/Guilhem7"
             }
         },
         {
