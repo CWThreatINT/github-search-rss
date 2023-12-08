@@ -6,6 +6,17 @@
     "description": "CVE-2023 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/35109470?u=82e8244e0342a9af265206297240c5cabbf532f6&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Exploits for GL.iNet CVE-2023-46454, CVE-2023-46455 and CVE-2023-46456</div>",
+            "url": "https://github.com/cyberaz0r/GL.iNet-Multiple-Vulnerabilities",
+            "title": "cyberaz0r/GL.iNet-Multiple-Vulnerabilities: Exploits for GL.iNet CVE-2023-46454, CVE-2023-46455 and CVE-2023-46456",
+            "date_modified": "2023-12-08T01:45:48.000Z",
+            "date_published": "2023-12-08T01:45:16.000Z",
+            "author": {
+                "name": "cyberaz0r",
+                "url": "https://github.com/cyberaz0r"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/18195825?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023</div>",
             "url": "https://github.com/CVEProject/cvelist",
             "title": "CVEProject/cvelist: Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "thanhlam-attt",
                 "url": "https://github.com/thanhlam-attt"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/4098538?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Adobe Acrobat Reader - CVE-2023-21608 - Remote Code Execution Exploit</div>",
-            "url": "https://github.com/hacksysteam/CVE-2023-21608",
-            "title": "hacksysteam/CVE-2023-21608: Adobe Acrobat Reader - CVE-2023-21608 - Remote Code Execution Exploit",
-            "date_modified": "2023-12-07T21:09:01.000Z",
-            "date_published": "2023-01-30T12:57:48.000Z",
-            "author": {
-                "name": "hacksysteam",
-                "url": "https://github.com/hacksysteam"
             }
         }
     ]
