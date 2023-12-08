@@ -6,6 +6,17 @@
     "description": "CVE-2022 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/59371515?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Drivers for HP EliteDesk 800 G2 Mini - inc missing Intel Bluetooth driver &amp; HP Drivers that address CVE's eg CVE-2022-27635</div>",
+            "url": "https://github.com/rhyslhardy/HP-EliteDesk-800-G2-Mini-Drivers",
+            "title": "rhyslhardy/HP-EliteDesk-800-G2-Mini-Drivers: Drivers for HP EliteDesk 800 G2 Mini - inc missing Intel Bluetooth driver & HP Drivers that address CVE's eg CVE-2022-27635",
+            "date_modified": "2023-12-08T06:06:23.000Z",
+            "date_published": "2023-12-08T06:06:22.000Z",
+            "author": {
+                "name": "rhyslhardy",
+                "url": "https://github.com/rhyslhardy"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/70061541?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Exploit for CVE-2022-46169 </div>",
             "url": "https://github.com/0xN7y/CVE-2022-46169",
             "title": "0xN7y/CVE-2022-46169: Exploit for CVE-2022-46169 ",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "Benasin",
                 "url": "https://github.com/Benasin"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/18383407?u=c9d1276bd9ccb8b06b724c3057b1ef683fa81de7&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Research into CVE-2022-41853. Using static functions to obtian RCE via Java Deserialization</div>",
-            "url": "https://github.com/mbadanoiu/CVE-2022-41853",
-            "title": "mbadanoiu/CVE-2022-41853: Research into CVE-2022-41853. Using static functions to obtian RCE via Java Deserialization",
-            "date_modified": "2023-12-03T18:38:12.000Z",
-            "date_published": "2023-11-24T10:30:56.000Z",
-            "author": {
-                "name": "mbadanoiu",
-                "url": "https://github.com/mbadanoiu"
             }
         }
     ]
