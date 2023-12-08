@@ -215,10 +215,10 @@
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/18383407?u=c9d1276bd9ccb8b06b724c3057b1ef683fa81de7&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Research into CVE-2022-41853. Using static functions to obtian RCE via Java Deserialization</div>",
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/18383407?u=c9d1276bd9ccb8b06b724c3057b1ef683fa81de7&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Research into CVE-2022-41853: Using static functions to obtian RCE via Java Deserialization &amp; Remote Codebase Attack</div>",
             "url": "https://github.com/mbadanoiu/CVE-2022-41853",
-            "title": "mbadanoiu/CVE-2022-41853: Research into CVE-2022-41853. Using static functions to obtian RCE via Java Deserialization",
-            "date_modified": "2023-12-03T18:38:12.000Z",
+            "title": "mbadanoiu/CVE-2022-41853: Research into CVE-2022-41853: Using static functions to obtian RCE via Java Deserialization & Remote Codebase Attack",
+            "date_modified": "2023-12-08T10:02:05.000Z",
             "date_published": "2023-11-24T10:30:56.000Z",
             "author": {
                 "name": "mbadanoiu",
