@@ -17,6 +17,17 @@
             }
         },
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/19311214?u=2c679aafd425dd6ec18db28ac8ff2dec279ce1c7&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2023-20273 Exploit PoC</div>",
+            "url": "https://github.com/smokeintheshell/CVE-2023-20273",
+            "title": "smokeintheshell/CVE-2023-20273: CVE-2023-20273 Exploit PoC",
+            "date_modified": "2023-12-09T07:28:44.000Z",
+            "date_published": "2023-12-09T07:25:43.000Z",
+            "author": {
+                "name": "smokeintheshell",
+                "url": "https://github.com/smokeintheshell"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/47117028?u=2314f6149c58c1780e98e94beecdf43fe8cb842c&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Check for and remediate conditions that make an IOS-XE device vulnerable to CVE-2023-20198</div>",
             "url": "https://github.com/netbell/CVE-2023-20198-Fix",
             "title": "netbell/CVE-2023-20198-Fix: Check for and remediate conditions that make an IOS-XE device vulnerable to CVE-2023-20198",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "nidhi7598",
                 "url": "https://github.com/nidhi7598"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/80873500?u=4c3da53f1a4d2eefea25b7399a2d7b2f21c8515d&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2023-28432 Minio Information isclosure Exploit</div>",
-            "url": "https://github.com/C1ph3rX13/CVE-2023-28432",
-            "title": "C1ph3rX13/CVE-2023-28432: CVE-2023-28432 Minio Information isclosure Exploit",
-            "date_modified": "2023-12-07T19:37:00.000Z",
-            "date_published": "2023-12-07T03:33:37.000Z",
-            "author": {
-                "name": "C1ph3rX13",
-                "url": "https://github.com/C1ph3rX13"
             }
         }
     ]
