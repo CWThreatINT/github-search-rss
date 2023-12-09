@@ -6,14 +6,14 @@
     "description": "CVE-2023 FEED on GitHub",
     "items": [
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/59448077?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
-            "url": "https://github.com/J0rgeM/CVE-2023-2138",
-            "title": "J0rgeM/CVE-2023-2138",
-            "date_modified": "2023-12-09T15:56:39.000Z",
-            "date_published": "2023-12-09T15:47:55.000Z",
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/47117028?u=2314f6149c58c1780e98e94beecdf43fe8cb842c&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Check for and remediate conditions that make an IOS-XE device vulnerable to CVE-2023-20198</div>",
+            "url": "https://github.com/netbell/CVE-2023-20198-Fix",
+            "title": "netbell/CVE-2023-20198-Fix: Check for and remediate conditions that make an IOS-XE device vulnerable to CVE-2023-20198",
+            "date_modified": "2023-12-08T21:12:00.000Z",
+            "date_published": "2023-12-08T21:12:00.000Z",
             "author": {
-                "name": "J0rgeM",
-                "url": "https://github.com/J0rgeM"
+                "name": "netbell",
+                "url": "https://github.com/netbell"
             }
         },
         {
@@ -25,6 +25,17 @@
             "author": {
                 "name": "CVEProject",
                 "url": "https://github.com/CVEProject"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/4406140?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Demonstration of CVE-2023-24034 authorization bypass in Spring Security </div>",
+            "url": "https://github.com/hotblac/cve-2023-34034",
+            "title": "hotblac/cve-2023-34034: Demonstration of CVE-2023-24034 authorization bypass in Spring Security ",
+            "date_modified": "2023-12-02T10:52:18.000Z",
+            "date_published": "2023-12-02T10:51:39.000Z",
+            "author": {
+                "name": "hotblac",
+                "url": "https://github.com/hotblac"
             }
         },
         {
@@ -58,17 +69,6 @@
             "author": {
                 "name": "smokeintheshell",
                 "url": "https://github.com/smokeintheshell"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/47117028?u=2314f6149c58c1780e98e94beecdf43fe8cb842c&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Check for and remediate conditions that make an IOS-XE device vulnerable to CVE-2023-20198</div>",
-            "url": "https://github.com/netbell/CVE-2023-20198-Fix",
-            "title": "netbell/CVE-2023-20198-Fix: Check for and remediate conditions that make an IOS-XE device vulnerable to CVE-2023-20198",
-            "date_modified": "2023-12-08T21:12:00.000Z",
-            "date_published": "2023-12-08T21:12:00.000Z",
-            "author": {
-                "name": "netbell",
-                "url": "https://github.com/netbell"
             }
         },
         {
