@@ -6,6 +6,17 @@
     "description": "CVE-2023 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/24474138?u=caef76859ecfbcba554c2941c1636be275e57a04&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Python script to search Citrix NetScaler logs for possible CVE-2023-4966 exploitation.</div>",
+            "url": "https://github.com/jmussmann/cve-2023-4966-iocs",
+            "title": "jmussmann/cve-2023-4966-iocs: Python script to search Citrix NetScaler logs for possible CVE-2023-4966 exploitation.",
+            "date_modified": "2023-12-08T10:34:06.000Z",
+            "date_published": "2023-12-08T10:28:15.000Z",
+            "author": {
+                "name": "jmussmann",
+                "url": "https://github.com/jmussmann"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/18383407?u=c9d1276bd9ccb8b06b724c3057b1ef683fa81de7&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2023-49964: FreeMarker Server-Side Template Injection in Alfresco</div>",
             "url": "https://github.com/mbadanoiu/CVE-2023-49964",
             "title": "mbadanoiu/CVE-2023-49964: CVE-2023-49964: FreeMarker Server-Side Template Injection in Alfresco",
@@ -124,17 +135,6 @@
             "author": {
                 "name": "Trinadh465",
                 "url": "https://github.com/Trinadh465"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/24474138?u=caef76859ecfbcba554c2941c1636be275e57a04&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Python script to search Citrix NetScaler logs for possible CVE-2023-4966 exploitation.</div>",
-            "url": "https://github.com/jmussmann/cve-2023-4966-iocs",
-            "title": "jmussmann/cve-2023-4966-iocs: Python script to search Citrix NetScaler logs for possible CVE-2023-4966 exploitation.",
-            "date_modified": "2023-12-08T10:34:06.000Z",
-            "date_published": "2023-12-08T10:28:15.000Z",
-            "author": {
-                "name": "jmussmann",
-                "url": "https://github.com/jmussmann"
             }
         },
         {
