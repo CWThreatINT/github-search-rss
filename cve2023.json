@@ -17,6 +17,17 @@
             }
         },
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/21281361?u=4bfcd3e934fb8631ae9dc58ff35a6943986b8089&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>PoC for CVE-2023-4911 LooneyTuneables</div>",
+            "url": "https://github.com/guffre/CVE-2023-4911",
+            "title": "guffre/CVE-2023-4911: PoC for CVE-2023-4911 LooneyTuneables",
+            "date_modified": "2023-10-14T02:25:44.000Z",
+            "date_published": "2023-10-14T02:24:52.000Z",
+            "author": {
+                "name": "guffre",
+                "url": "https://github.com/guffre"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/85231870?u=ed187399ef310bb5353c8729a36b0b55ee81e658&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Exploit for CVE-2023-46604</div>",
             "url": "https://github.com/mrpentst/CVE-2023-46604",
             "title": "mrpentst/CVE-2023-46604: Exploit for CVE-2023-46604",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "Guilhem7",
                 "url": "https://github.com/Guilhem7"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/94959126?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>POC for CVE-2023-38646</div>",
-            "url": "https://github.com/securezeron/CVE-2023-38646",
-            "title": "securezeron/CVE-2023-38646: POC for CVE-2023-38646",
-            "date_modified": "2023-12-08T20:21:14.000Z",
-            "date_published": "2023-07-30T09:56:52.000Z",
-            "author": {
-                "name": "securezeron",
-                "url": "https://github.com/securezeron"
             }
         }
     ]
