@@ -6,6 +6,17 @@
     "description": "CVE-2021 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/109800286?u=76368a6bd330396824a1c0d87ad2af68a2ae4b9d&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Error-based blind SQL injection with bit-shifting approach for Moodle 3.10.4</div>",
+            "url": "https://github.com/StackOverflowExcept1on/CVE-2021-36393",
+            "title": "StackOverflowExcept1on/CVE-2021-36393: Error-based blind SQL injection with bit-shifting approach for Moodle 3.10.4",
+            "date_modified": "2023-12-09T10:39:00.000Z",
+            "date_published": "2023-10-27T17:13:55.000Z",
+            "author": {
+                "name": "StackOverflowExcept1on",
+                "url": "https://github.com/StackOverflowExcept1on"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/2387841?u=082c1655d763023ea65049680617a2af381c6b50&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Tool that runs a test to check whether one of your applications is affected by the recent vulnerabilities in log4j: CVE-2021-44228 and CVE-2021-45046</div>",
             "url": "https://github.com/alexbakker/log4shell-tools",
             "title": "alexbakker/log4shell-tools: Tool that runs a test to check whether one of your applications is affected by the recent vulnerabilities in log4j: CVE-2021-44228 and CVE-2021-45046",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "meowhua15",
                 "url": "https://github.com/meowhua15"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/36891477?u=37acb00c37736142e220ceaf9596d52c9b158124&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>MASS CVE-2021-41773</div>",
-            "url": "https://github.com/justakazh/mass_cve-2021-41773",
-            "title": "justakazh/mass_cve-2021-41773: MASS CVE-2021-41773",
-            "date_modified": "2023-12-06T02:22:56.000Z",
-            "date_published": "2021-10-07T15:13:18.000Z",
-            "author": {
-                "name": "justakazh",
-                "url": "https://github.com/justakazh"
             }
         }
     ]
