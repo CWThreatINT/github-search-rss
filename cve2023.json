@@ -17,6 +17,17 @@
             }
         },
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/85231870?u=ed187399ef310bb5353c8729a36b0b55ee81e658&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Exploit for CVE-2023-46604</div>",
+            "url": "https://github.com/mrpentst/CVE-2023-46604",
+            "title": "mrpentst/CVE-2023-46604: Exploit for CVE-2023-46604",
+            "date_modified": "2023-12-09T19:32:34.000Z",
+            "date_published": "2023-12-09T19:19:03.000Z",
+            "author": {
+                "name": "mrpentst",
+                "url": "https://github.com/mrpentst"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/47117028?u=2314f6149c58c1780e98e94beecdf43fe8cb842c&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Check for and remediate conditions that make an IOS-XE device vulnerable to CVE-2023-20198</div>",
             "url": "https://github.com/netbell/CVE-2023-20198-Fix",
             "title": "netbell/CVE-2023-20198-Fix: Check for and remediate conditions that make an IOS-XE device vulnerable to CVE-2023-20198",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "securezeron",
                 "url": "https://github.com/securezeron"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/145666390?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
-            "url": "https://github.com/uthrasri/framework_base_CVE-2023-21285_NoPatch",
-            "title": "uthrasri/framework_base_CVE-2023-21285_NoPatch",
-            "date_modified": "2023-12-07T08:08:52.000Z",
-            "date_published": "2023-12-07T08:03:03.000Z",
-            "author": {
-                "name": "uthrasri",
-                "url": "https://github.com/uthrasri"
             }
         }
     ]
