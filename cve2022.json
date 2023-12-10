@@ -6,6 +6,17 @@
     "description": "CVE-2022 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/128580194?u=dcfb08618137f8a260d7fab2d3efac4121f362c4&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
+            "url": "https://github.com/qailanet/cve-2022-41352-zimbra-rce",
+            "title": "qailanet/cve-2022-41352-zimbra-rce",
+            "date_modified": "2023-12-10T23:02:12.000Z",
+            "date_published": "2023-12-10T22:29:21.000Z",
+            "author": {
+                "name": "qailanet",
+                "url": "https://github.com/qailanet"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/110986028?u=3ab80eb54f7c446398903b11d6681ec27830e54d&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Vulnerability in HTTP Protocol Stack Enabling Remote Code Execution and Potential System Crash.</div>",
             "url": "https://github.com/kamal-marouane/CVE-2022-21907",
             "title": "kamal-marouane/CVE-2022-21907: Vulnerability in HTTP Protocol Stack Enabling Remote Code Execution and Potential System Crash.",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "Jump-Wang-111",
                 "url": "https://github.com/Jump-Wang-111"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/4923784?u=efb47615db2289b6ff9e2bf1056c93dadc692d19&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
-            "url": "https://github.com/elsvital/cve-2022-33891-fix",
-            "title": "elsvital/cve-2022-33891-fix",
-            "date_modified": "2023-11-26T13:47:47.000Z",
-            "date_published": "2023-11-26T13:09:28.000Z",
-            "author": {
-                "name": "elsvital",
-                "url": "https://github.com/elsvital"
             }
         }
     ]

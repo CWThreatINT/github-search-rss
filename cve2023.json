@@ -6,17 +6,6 @@
     "description": "CVE-2023 FEED on GitHub",
     "items": [
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/117042369?u=ff01b24529086a79de108255d2b1c6f8f1fdf1e6&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Metabase postgres (org.h2.Driver)  RCE without INIT</div>",
-            "url": "https://github.com/0utl4nder/Another-Metabase-RCE-CVE-2023-38646-",
-            "title": "0utl4nder/Another-Metabase-RCE-CVE-2023-38646-: Metabase postgres (org.h2.Driver)  RCE without INIT",
-            "date_modified": "2023-12-10T21:07:10.000Z",
-            "date_published": "2023-12-10T21:07:10.000Z",
-            "author": {
-                "name": "0utl4nder",
-                "url": "https://github.com/0utl4nder"
-            }
-        },
-        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/18195825?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023</div>",
             "url": "https://github.com/CVEProject/cvelist",
             "title": "CVEProject/cvelist: Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023",
@@ -25,6 +14,17 @@
             "author": {
                 "name": "CVEProject",
                 "url": "https://github.com/CVEProject"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/117042369?u=ff01b24529086a79de108255d2b1c6f8f1fdf1e6&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Metabase postgres (org.h2.Driver)  RCE without INIT</div>",
+            "url": "https://github.com/0utl4nder/Another-Metabase-RCE-CVE-2023-38646",
+            "title": "0utl4nder/Another-Metabase-RCE-CVE-2023-38646: Metabase postgres (org.h2.Driver)  RCE without INIT",
+            "date_modified": "2023-12-10T22:17:34.000Z",
+            "date_published": "2023-12-10T21:07:10.000Z",
+            "author": {
+                "name": "0utl4nder",
+                "url": "https://github.com/0utl4nder"
             }
         },
         {
