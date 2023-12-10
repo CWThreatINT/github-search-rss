@@ -17,6 +17,28 @@
             }
         },
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/43088607?u=1f6f62e23f0e2868559b8fc902e0916c91d0749a&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Ansible Playbook for CVE-2023-4966</div>",
+            "url": "https://github.com/ditekshen/ansible-cve-2023-4966",
+            "title": "ditekshen/ansible-cve-2023-4966: Ansible Playbook for CVE-2023-4966",
+            "date_modified": "2023-10-26T09:41:40.000Z",
+            "date_published": "2023-10-26T09:32:48.000Z",
+            "author": {
+                "name": "ditekshen",
+                "url": "https://github.com/ditekshen"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/143163794?u=5904ba8bcf721f00627ce81909d9152c623eab2a&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Python  version of <a href=\"https://www.exploit-db.com/exploits/15222\" rel=\"nofollow\">https://www.exploit-db.com/exploits/15222</a> by ALEXANDRE ZANNI</div>",
+            "url": "https://github.com/raystr-atearedteam/CVE2023-23752",
+            "title": "raystr-atearedteam/CVE2023-23752: Python  version of https://www.exploit-db.com/exploits/15222 by ALEXANDRE ZANNI",
+            "date_modified": "2023-12-10T16:14:01.000Z",
+            "date_published": "2023-12-10T16:11:37.000Z",
+            "author": {
+                "name": "raystr-atearedteam",
+                "url": "https://github.com/raystr-atearedteam"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/84989569?u=b027e9a8785b58ab40097521d634b7ebf24aa3e7&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>PoC Exploit  for VM2 Sandbox Escape Vulnerability</div>",
             "url": "https://github.com/rvizx/CVE-2023-30547",
             "title": "rvizx/CVE-2023-30547: PoC Exploit  for VM2 Sandbox Escape Vulnerability",
@@ -201,28 +223,6 @@
             "author": {
                 "name": "Jnnshschl",
                 "url": "https://github.com/Jnnshschl"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/102574296?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
-            "url": "https://github.com/Trinadh465/frameworks_native_AOSP-10_r33_CVE-2023-21118",
-            "title": "Trinadh465/frameworks_native_AOSP-10_r33_CVE-2023-21118",
-            "date_modified": "2023-12-08T11:31:11.000Z",
-            "date_published": "2023-12-08T11:29:23.000Z",
-            "author": {
-                "name": "Trinadh465",
-                "url": "https://github.com/Trinadh465"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/136776282?u=a9fb3560f61ee42f36325b34e6044c39750d36c7&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2023-41623</div>",
-            "url": "https://github.com/GhostBalladw/wuhaozhe-s-CVE",
-            "title": "GhostBalladw/wuhaozhe-s-CVE: CVE-2023-41623",
-            "date_modified": "2023-12-08T04:15:06.000Z",
-            "date_published": "2023-12-08T04:15:06.000Z",
-            "author": {
-                "name": "GhostBalladw",
-                "url": "https://github.com/GhostBalladw"
             }
         }
     ]
