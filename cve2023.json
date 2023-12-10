@@ -17,6 +17,17 @@
             }
         },
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/70603096?u=1ef8b4a64027c99100af4caf2edd99f32b85aa1e&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>PoC of CVE-2023-4911</div>",
+            "url": "https://github.com/snurkeburk/Looney-Tunables",
+            "title": "snurkeburk/Looney-Tunables: PoC of CVE-2023-4911",
+            "date_modified": "2023-12-10T18:14:12.000Z",
+            "date_published": "2023-12-10T18:05:27.000Z",
+            "author": {
+                "name": "snurkeburk",
+                "url": "https://github.com/snurkeburk"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/43088607?u=1f6f62e23f0e2868559b8fc902e0916c91d0749a&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Ansible Playbook for CVE-2023-4966</div>",
             "url": "https://github.com/ditekshen/ansible-cve-2023-4966",
             "title": "ditekshen/ansible-cve-2023-4966: Ansible Playbook for CVE-2023-4966",
@@ -42,7 +53,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/84989569?u=b027e9a8785b58ab40097521d634b7ebf24aa3e7&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>PoC Exploit  for VM2 Sandbox Escape Vulnerability</div>",
             "url": "https://github.com/rvizx/CVE-2023-30547",
             "title": "rvizx/CVE-2023-30547: PoC Exploit  for VM2 Sandbox Escape Vulnerability",
-            "date_modified": "2023-12-10T15:15:25.000Z",
+            "date_modified": "2023-12-10T18:38:10.000Z",
             "date_published": "2023-12-10T08:32:26.000Z",
             "author": {
                 "name": "rvizx",
@@ -141,7 +152,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/18383407?u=c9d1276bd9ccb8b06b724c3057b1ef683fa81de7&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2023-49964: FreeMarker Server-Side Template Injection in Alfresco</div>",
             "url": "https://github.com/mbadanoiu/CVE-2023-49964",
             "title": "mbadanoiu/CVE-2023-49964: CVE-2023-49964: FreeMarker Server-Side Template Injection in Alfresco",
-            "date_modified": "2023-12-09T10:20:17.000Z",
+            "date_modified": "2023-12-10T18:13:57.000Z",
             "date_published": "2023-12-08T20:47:52.000Z",
             "author": {
                 "name": "mbadanoiu",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "tovbumacius",
                 "url": "https://github.com/tovbumacius"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/26087286?u=d975315f71c4dc9527fc32696db0745bd40e40fc&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>PoC for the ThemeBleed Windows 11 CVE-2023-38146 written in python using impacket</div>",
-            "url": "https://github.com/Jnnshschl/CVE-2023-38146",
-            "title": "Jnnshschl/CVE-2023-38146: PoC for the ThemeBleed Windows 11 CVE-2023-38146 written in python using impacket",
-            "date_modified": "2023-12-06T10:06:59.000Z",
-            "date_published": "2023-10-13T15:33:42.000Z",
-            "author": {
-                "name": "Jnnshschl",
-                "url": "https://github.com/Jnnshschl"
             }
         }
     ]
