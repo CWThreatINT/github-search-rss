@@ -6,6 +6,17 @@
     "description": "CVE-2023 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/117042369?u=ff01b24529086a79de108255d2b1c6f8f1fdf1e6&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Metabase postgres (org.h2.Driver)  RCE without INIT</div>",
+            "url": "https://github.com/0utl4nder/Another-Metabase-RCE-CVE-2023-38646-",
+            "title": "0utl4nder/Another-Metabase-RCE-CVE-2023-38646-: Metabase postgres (org.h2.Driver)  RCE without INIT",
+            "date_modified": "2023-12-10T21:07:10.000Z",
+            "date_published": "2023-12-10T21:07:10.000Z",
+            "author": {
+                "name": "0utl4nder",
+                "url": "https://github.com/0utl4nder"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/18195825?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023</div>",
             "url": "https://github.com/CVEProject/cvelist",
             "title": "CVEProject/cvelist: Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023",
@@ -53,7 +64,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/84989569?u=b027e9a8785b58ab40097521d634b7ebf24aa3e7&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>PoC Exploit  for VM2 Sandbox Escape Vulnerability</div>",
             "url": "https://github.com/rvizx/CVE-2023-30547",
             "title": "rvizx/CVE-2023-30547: PoC Exploit  for VM2 Sandbox Escape Vulnerability",
-            "date_modified": "2023-12-10T18:38:10.000Z",
+            "date_modified": "2023-12-10T21:19:45.000Z",
             "date_published": "2023-12-10T08:32:26.000Z",
             "author": {
                 "name": "rvizx",
@@ -207,17 +218,6 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/152794884?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>In the hushed galleries of the Silent JPG Exploit, a symphony shrouded in enigma unfurls—an opus named silent-jpg-exploit-2018—a title that reverberates through the annals of intrigue.</div>",
             "url": "https://github.com/tovbumacius/Jpg-Png-Exploit-Slient--Builder-Exploit-Database-Cve-2023-Malware",
             "title": "tovbumacius/Jpg-Png-Exploit-Slient--Builder-Exploit-Database-Cve-2023-Malware: In the hushed galleries of the Silent JPG Exploit, a symphony shrouded in enigma unfurls—an opus named silent-jpg-exploit-2018—a title that reverberates through the annals of intrigue.",
-            "date_modified": "2023-12-08T20:53:45.000Z",
-            "date_published": "2023-12-08T20:53:33.000Z",
-            "author": {
-                "name": "tovbumacius",
-                "url": "https://github.com/tovbumacius"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/152794884?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Microsoft Windows HTA (HTML Application) - Pinnacle of Remote Code Execution</div>",
-            "url": "https://github.com/tovbumacius/Hta-Exploit-Builder-Slient--Builder-Exploit-Database-Cve-2023-Malware",
-            "title": "tovbumacius/Hta-Exploit-Builder-Slient--Builder-Exploit-Database-Cve-2023-Malware: Microsoft Windows HTA (HTML Application) - Pinnacle of Remote Code Execution",
             "date_modified": "2023-12-08T20:53:45.000Z",
             "date_published": "2023-12-08T20:53:33.000Z",
             "author": {
