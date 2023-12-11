@@ -17,6 +17,28 @@
             }
         },
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/10055256?u=c95ea0c5f0201a0ad1b949120e5c6293070a1f4e&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>proof-of-concept for CVE-2023-28197</div>",
+            "url": "https://github.com/spotlightishere/inputcontrol",
+            "title": "spotlightishere/inputcontrol: proof-of-concept for CVE-2023-28197",
+            "date_modified": "2023-12-11T20:56:18.000Z",
+            "date_published": "2023-12-11T20:55:21.000Z",
+            "author": {
+                "name": "spotlightishere",
+                "url": "https://github.com/spotlightishere"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/84989569?u=b027e9a8785b58ab40097521d634b7ebf24aa3e7&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Unauthenticated RCE in ZoneMinder Snapshots - Poc Exploit</div>",
+            "url": "https://github.com/rvizx/CVE-2023-26035",
+            "title": "rvizx/CVE-2023-26035: Unauthenticated RCE in ZoneMinder Snapshots - Poc Exploit",
+            "date_modified": "2023-12-11T20:37:38.000Z",
+            "date_published": "2023-12-11T19:23:13.000Z",
+            "author": {
+                "name": "rvizx",
+                "url": "https://github.com/rvizx"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/71423134?u=83651cb571e2a15a551016f74c1d5bf562178bc7&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
             "url": "https://github.com/hadrian3689/CVE-2023-23752_Joomla",
             "title": "hadrian3689/CVE-2023-23752_Joomla",
@@ -201,28 +223,6 @@
             "author": {
                 "name": "hotblac",
                 "url": "https://github.com/hotblac"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/24474138?u=caef76859ecfbcba554c2941c1636be275e57a04&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Python script to search Citrix NetScaler logs for possible CVE-2023-4966 exploitation.</div>",
-            "url": "https://github.com/jmussmann/cve-2023-4966-iocs",
-            "title": "jmussmann/cve-2023-4966-iocs: Python script to search Citrix NetScaler logs for possible CVE-2023-4966 exploitation.",
-            "date_modified": "2023-12-08T10:34:06.000Z",
-            "date_published": "2023-12-08T10:28:15.000Z",
-            "author": {
-                "name": "jmussmann",
-                "url": "https://github.com/jmussmann"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/18383407?u=c9d1276bd9ccb8b06b724c3057b1ef683fa81de7&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2023-49964: FreeMarker Server-Side Template Injection in Alfresco</div>",
-            "url": "https://github.com/mbadanoiu/CVE-2023-49964",
-            "title": "mbadanoiu/CVE-2023-49964: CVE-2023-49964: FreeMarker Server-Side Template Injection in Alfresco",
-            "date_modified": "2023-12-11T10:07:53.000Z",
-            "date_published": "2023-12-08T20:47:52.000Z",
-            "author": {
-                "name": "mbadanoiu",
-                "url": "https://github.com/mbadanoiu"
             }
         }
     ]
