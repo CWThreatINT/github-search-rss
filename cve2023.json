@@ -6,6 +6,17 @@
     "description": "CVE-2023 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/79006904?u=d544474742698d9962b7bee4c9f1883ecd7ed130&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Cisco CVE-2023-20198</div>",
+            "url": "https://github.com/Vulnmachines/Cisco_CVE-2023-20198",
+            "title": "Vulnmachines/Cisco_CVE-2023-20198: Cisco CVE-2023-20198",
+            "date_modified": "2023-12-11T10:41:48.000Z",
+            "date_published": "2023-12-11T10:41:48.000Z",
+            "author": {
+                "name": "Vulnmachines",
+                "url": "https://github.com/Vulnmachines"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/18195825?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023</div>",
             "url": "https://github.com/CVEProject/cvelist",
             "title": "CVEProject/cvelist: Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023",
@@ -36,17 +47,6 @@
             "author": {
                 "name": "Trinadh465",
                 "url": "https://github.com/Trinadh465"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/84989569?u=b027e9a8785b58ab40097521d634b7ebf24aa3e7&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>PoC Exploit  for VM2 Sandbox Escape Vulnerability</div>",
-            "url": "https://github.com/rvizx/CVE-2023-30547",
-            "title": "rvizx/CVE-2023-30547: PoC Exploit  for VM2 Sandbox Escape Vulnerability",
-            "date_modified": "2023-12-11T10:07:57.000Z",
-            "date_published": "2023-12-10T08:32:26.000Z",
-            "author": {
-                "name": "rvizx",
-                "url": "https://github.com/rvizx"
             }
         },
         {
@@ -149,17 +149,6 @@
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/47117028?u=2314f6149c58c1780e98e94beecdf43fe8cb842c&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Check for and remediate conditions that make an IOS-XE device vulnerable to CVE-2023-20198</div>",
-            "url": "https://github.com/netbell/CVE-2023-20198-Fix",
-            "title": "netbell/CVE-2023-20198-Fix: Check for and remediate conditions that make an IOS-XE device vulnerable to CVE-2023-20198",
-            "date_modified": "2023-12-08T21:12:00.000Z",
-            "date_published": "2023-12-08T21:12:00.000Z",
-            "author": {
-                "name": "netbell",
-                "url": "https://github.com/netbell"
-            }
-        },
-        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/4406140?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Demonstration of CVE-2023-24034 authorization bypass in Spring Security </div>",
             "url": "https://github.com/hotblac/cve-2023-34034",
             "title": "hotblac/cve-2023-34034: Demonstration of CVE-2023-24034 authorization bypass in Spring Security ",
@@ -196,7 +185,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/19311214?u=2c679aafd425dd6ec18db28ac8ff2dec279ce1c7&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2023-20273 Exploit PoC</div>",
             "url": "https://github.com/smokeintheshell/CVE-2023-20273",
             "title": "smokeintheshell/CVE-2023-20273: CVE-2023-20273 Exploit PoC",
-            "date_modified": "2023-12-09T20:27:10.000Z",
+            "date_modified": "2023-12-11T10:09:34.000Z",
             "date_published": "2023-12-09T07:25:43.000Z",
             "author": {
                 "name": "smokeintheshell",
@@ -220,6 +209,17 @@
             "title": "tovbumacius/Slient-Url-Exploit-Slient--Builder-Exploit-Database-Cve-2023-Malware: URL Contamination Exploit Muted Java Drive-By downloads can transpire during the act of perusing a website, inaugurating an electronic mail communication.",
             "date_modified": "2023-12-08T20:53:45.000Z",
             "date_published": "2023-12-08T20:53:31.000Z",
+            "author": {
+                "name": "tovbumacius",
+                "url": "https://github.com/tovbumacius"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/152794884?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A meticulous scrutiny of the Exploit PDFs innards exposes a network of malevolence, unveiling both the nefarious hyperlink and the URL that precipitates</div>",
+            "url": "https://github.com/tovbumacius/Slient-PDF-FUD-Exploit-Slient--Builder-Exploit-Database-Cve-2023-Malware",
+            "title": "tovbumacius/Slient-PDF-FUD-Exploit-Slient--Builder-Exploit-Database-Cve-2023-Malware: A meticulous scrutiny of the Exploit PDFs innards exposes a network of malevolence, unveiling both the nefarious hyperlink and the URL that precipitates",
+            "date_modified": "2023-12-08T20:53:45.000Z",
+            "date_published": "2023-12-08T20:53:33.000Z",
             "author": {
                 "name": "tovbumacius",
                 "url": "https://github.com/tovbumacius"
