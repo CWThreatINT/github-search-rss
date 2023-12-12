@@ -17,6 +17,17 @@
             }
         },
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/117042369?u=ff01b24529086a79de108255d2b1c6f8f1fdf1e6&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Metabase postgres (org.h2.Driver)  RCE without INIT</div>",
+            "url": "https://github.com/0utl4nder/Another-Metabase-RCE-CVE-2023-38646",
+            "title": "0utl4nder/Another-Metabase-RCE-CVE-2023-38646: Metabase postgres (org.h2.Driver)  RCE without INIT",
+            "date_modified": "2023-12-12T03:26:37.000Z",
+            "date_published": "2023-12-10T21:07:10.000Z",
+            "author": {
+                "name": "0utl4nder",
+                "url": "https://github.com/0utl4nder"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/130102748?u=798a2b777bf34b319dfb3e38b4575ba400514a6a&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>This is a script written in Python that allows the exploitation of the Zoneminder's security flaw in the described in CVE 2023-26035. </div>",
             "url": "https://github.com/m3m0o/zoneminder-snapshots-rce-poc",
             "title": "m3m0o/zoneminder-snapshots-rce-poc: This is a script written in Python that allows the exploitation of the Zoneminder's security flaw in the described in CVE 2023-26035. ",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "hadrian3689",
                 "url": "https://github.com/hadrian3689"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/127287794?u=a735436fdb5041f2d66e326b5ba19fcf8d8770fb&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>JetBrains TeamCity Authentication Bypass CVE-2023-42793 Exploit</div>",
-            "url": "https://github.com/H454NSec/CVE-2023-42793",
-            "title": "H454NSec/CVE-2023-42793: JetBrains TeamCity Authentication Bypass CVE-2023-42793 Exploit",
-            "date_modified": "2023-11-29T18:16:03.000Z",
-            "date_published": "2023-09-29T06:43:35.000Z",
-            "author": {
-                "name": "H454NSec",
-                "url": "https://github.com/H454NSec"
             }
         }
     ]
