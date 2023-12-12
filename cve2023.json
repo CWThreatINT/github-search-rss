@@ -6,6 +6,17 @@
     "description": "CVE-2023 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/110767603?u=9f9a8688ed3a4a8ca1ae50d9ded2906919bb5953&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>cve-2023-test</div>",
+            "url": "https://github.com/iceberg-N/cve-2023-test11",
+            "title": "iceberg-N/cve-2023-test11: cve-2023-test",
+            "date_modified": "2023-10-10T00:52:19.000Z",
+            "date_published": "2023-10-10T00:52:18.000Z",
+            "author": {
+                "name": "iceberg-N",
+                "url": "https://github.com/iceberg-N"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/80873500?u=4c3da53f1a4d2eefea25b7399a2d7b2f21c8515d&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2023-22515</div>",
             "url": "https://github.com/C1ph3rX13/CVE-2023-22515",
             "title": "C1ph3rX13/CVE-2023-22515: CVE-2023-22515",
@@ -141,7 +152,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/117042369?u=ff01b24529086a79de108255d2b1c6f8f1fdf1e6&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Metabase postgres (org.h2.Driver)  RCE without INIT</div>",
             "url": "https://github.com/0utl4nder/Another-Metabase-RCE-CVE-2023-38646",
             "title": "0utl4nder/Another-Metabase-RCE-CVE-2023-38646: Metabase postgres (org.h2.Driver)  RCE without INIT",
-            "date_modified": "2023-12-10T22:17:34.000Z",
+            "date_modified": "2023-12-12T03:26:37.000Z",
             "date_published": "2023-12-10T21:07:10.000Z",
             "author": {
                 "name": "0utl4nder",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "guffre",
                 "url": "https://github.com/guffre"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/85231870?u=ed187399ef310bb5353c8729a36b0b55ee81e658&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Exploit for CVE-2023-46604</div>",
-            "url": "https://github.com/mrpentst/CVE-2023-46604",
-            "title": "mrpentst/CVE-2023-46604: Exploit for CVE-2023-46604",
-            "date_modified": "2023-12-09T19:32:34.000Z",
-            "date_published": "2023-12-09T19:19:03.000Z",
-            "author": {
-                "name": "mrpentst",
-                "url": "https://github.com/mrpentst"
             }
         }
     ]
