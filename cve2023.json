@@ -17,6 +17,17 @@
             }
         },
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/57096518?u=cd63b01e12181cd7da3d1fb04e099f6c28d403de&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Proof of concept developed for the CVE-2023-36664</div>",
+            "url": "https://github.com/JeanChpt/CVE-2023-36664",
+            "title": "JeanChpt/CVE-2023-36664: Proof of concept developed for the CVE-2023-36664",
+            "date_modified": "2023-12-02T10:33:28.000Z",
+            "date_published": "2023-12-02T10:28:10.000Z",
+            "author": {
+                "name": "JeanChpt",
+                "url": "https://github.com/JeanChpt"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/136776282?u=a9fb3560f61ee42f36325b34e6044c39750d36c7&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2023-41623</div>",
             "url": "https://github.com/GhostBalladw/wuhaozhe-s-CVE",
             "title": "GhostBalladw/wuhaozhe-s-CVE: CVE-2023-41623",
@@ -174,7 +185,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/84989569?u=b027e9a8785b58ab40097521d634b7ebf24aa3e7&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>PoC Exploit  for VM2 Sandbox Escape Vulnerability</div>",
             "url": "https://github.com/rvizx/CVE-2023-30547",
             "title": "rvizx/CVE-2023-30547: PoC Exploit  for VM2 Sandbox Escape Vulnerability",
-            "date_modified": "2023-12-12T09:56:02.000Z",
+            "date_modified": "2023-12-12T12:26:48.000Z",
             "date_published": "2023-12-10T08:32:26.000Z",
             "author": {
                 "name": "rvizx",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "snurkeburk",
                 "url": "https://github.com/snurkeburk"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/43088607?u=1f6f62e23f0e2868559b8fc902e0916c91d0749a&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Ansible Playbook for CVE-2023-4966</div>",
-            "url": "https://github.com/ditekshen/ansible-cve-2023-4966",
-            "title": "ditekshen/ansible-cve-2023-4966: Ansible Playbook for CVE-2023-4966",
-            "date_modified": "2023-10-26T09:41:40.000Z",
-            "date_published": "2023-10-26T09:32:48.000Z",
-            "author": {
-                "name": "ditekshen",
-                "url": "https://github.com/ditekshen"
             }
         }
     ]
