@@ -6,6 +6,17 @@
     "description": "CVE-2022 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/71746399?u=f12ce773cd6753024fbe116cce753cbe9f7e8426&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
+            "url": "https://github.com/zer0ne1/CVE-2022-0337-RePoC",
+            "title": "zer0ne1/CVE-2022-0337-RePoC",
+            "date_modified": "2023-11-21T02:36:09.000Z",
+            "date_published": "2023-11-21T02:34:32.000Z",
+            "author": {
+                "name": "zer0ne1",
+                "url": "https://github.com/zer0ne1"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/56998716?u=b47aef06c1c408f41d0640fb6d027da9a61d0e74&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A proof of concept for CVE-2022-30190 (Follina).</div>",
             "url": "https://github.com/winstxnhdw/CVE-2022-30190",
             "title": "winstxnhdw/CVE-2022-30190: A proof of concept for CVE-2022-30190 (Follina).",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "Pasch0",
                 "url": "https://github.com/Pasch0"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/51345640?u=ac76ed6d5a99dc3a44d9eb88e997f98052cfba3d&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>bash script for automated discovery and exploitation of machines with the CVE-2022-39986 vulnerability</div>",
-            "url": "https://github.com/mind2hex/RaspAP_Hunter",
-            "title": "mind2hex/RaspAP_Hunter: bash script for automated discovery and exploitation of machines with the CVE-2022-39986 vulnerability",
-            "date_modified": "2023-08-24T17:00:19.000Z",
-            "date_published": "2023-08-24T16:48:27.000Z",
-            "author": {
-                "name": "mind2hex",
-                "url": "https://github.com/mind2hex"
             }
         }
     ]
