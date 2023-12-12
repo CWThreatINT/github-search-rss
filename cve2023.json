@@ -17,6 +17,17 @@
             }
         },
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/130102748?u=798a2b777bf34b319dfb3e38b4575ba400514a6a&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>This is a script written in Python that allows the exploitation of the Zoneminder's security flaw in the described in CVE 2023-26035. </div>",
+            "url": "https://github.com/m3m0o/zoneminder-snapshots-rce",
+            "title": "m3m0o/zoneminder-snapshots-rce: This is a script written in Python that allows the exploitation of the Zoneminder's security flaw in the described in CVE 2023-26035. ",
+            "date_modified": "2023-12-12T14:56:27.000Z",
+            "date_published": "2023-12-12T14:44:19.000Z",
+            "author": {
+                "name": "m3m0o",
+                "url": "https://github.com/m3m0o"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/57096518?u=cd63b01e12181cd7da3d1fb04e099f6c28d403de&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Proof of concept developed for the CVE-2023-36664</div>",
             "url": "https://github.com/JeanChpt/CVE-2023-36664",
             "title": "JeanChpt/CVE-2023-36664: Proof of concept developed for the CVE-2023-36664",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "0utl4nder",
                 "url": "https://github.com/0utl4nder"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/70603096?u=1ef8b4a64027c99100af4caf2edd99f32b85aa1e&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>PoC of CVE-2023-4911</div>",
-            "url": "https://github.com/snurkeburk/Looney-Tunables",
-            "title": "snurkeburk/Looney-Tunables: PoC of CVE-2023-4911",
-            "date_modified": "2023-12-10T18:14:12.000Z",
-            "date_published": "2023-12-10T18:05:27.000Z",
-            "author": {
-                "name": "snurkeburk",
-                "url": "https://github.com/snurkeburk"
             }
         }
     ]
