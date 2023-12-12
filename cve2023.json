@@ -6,6 +6,17 @@
     "description": "CVE-2023 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/75822365?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
+            "url": "https://github.com/ran9ege/CVE-2023-31546",
+            "title": "ran9ege/CVE-2023-31546",
+            "date_modified": "2023-12-12T07:41:07.000Z",
+            "date_published": "2023-12-12T07:41:07.000Z",
+            "author": {
+                "name": "ran9ege",
+                "url": "https://github.com/ran9ege"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/18195825?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023</div>",
             "url": "https://github.com/CVEProject/cvelist",
             "title": "CVEProject/cvelist: Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "ZZY3312",
                 "url": "https://github.com/ZZY3312"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/107409127?u=6c48fa6467f87bbff457fba7b38809e411ede4e5&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
-            "url": "https://github.com/80r1ng/CVE-2023-38831-EXP",
-            "title": "80r1ng/CVE-2023-38831-EXP",
-            "date_modified": "2023-12-10T07:19:06.000Z",
-            "date_published": "2023-12-10T07:13:38.000Z",
-            "author": {
-                "name": "80r1ng",
-                "url": "https://github.com/80r1ng"
             }
         }
     ]
