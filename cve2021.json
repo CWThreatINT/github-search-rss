@@ -6,6 +6,17 @@
     "description": "CVE-2021 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/118485549?u=660cd0918dabc52d048fd3f2a128cd15c6aa4a04&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2021-40438 Apache &lt;= 2.4.48 SSRF exploit</div>",
+            "url": "https://github.com/sergiovks/CVE-2021-40438-Apache-2.4.48-SSRF-exploit",
+            "title": "sergiovks/CVE-2021-40438-Apache-2.4.48-SSRF-exploit: CVE-2021-40438 Apache <= 2.4.48 SSRF exploit",
+            "date_modified": "2023-12-12T12:09:49.000Z",
+            "date_published": "2023-12-12T11:56:23.000Z",
+            "author": {
+                "name": "sergiovks",
+                "url": "https://github.com/sergiovks"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/109800286?u=76368a6bd330396824a1c0d87ad2af68a2ae4b9d&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Error-based blind SQL injection with bit-shifting approach for Moodle 3.10.4</div>",
             "url": "https://github.com/StackOverflowExcept1on/CVE-2021-36393",
             "title": "StackOverflowExcept1on/CVE-2021-36393: Error-based blind SQL injection with bit-shifting approach for Moodle 3.10.4",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "hshivhare67",
                 "url": "https://github.com/hshivhare67"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/74200918?u=e06e9e9906c202d27e92ae2fb98b28af88038b44&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
-            "url": "https://github.com/meowhua15/CVE-2021-3156",
-            "title": "meowhua15/CVE-2021-3156",
-            "date_modified": "2022-12-25T06:19:54.000Z",
-            "date_published": "2022-12-25T03:58:20.000Z",
-            "author": {
-                "name": "meowhua15",
-                "url": "https://github.com/meowhua15"
             }
         }
     ]
