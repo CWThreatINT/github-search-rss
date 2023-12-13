@@ -94,6 +94,17 @@
             }
         },
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/57404930?u=15c8c306eb2a82d233cacd9ae77893665db1de24&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>一款针对Vcenter的综合利用工具，包含目前最主流的CVE-2021-21972、CVE-2021-21985以及CVE-2021-22005、One Access的CVE-2022-22954、CVE-2022-22972/31656以及log4j，提供一键上传webshell，命令执行或者上传公钥使用SSH免密连接</div>",
+            "url": "https://github.com/Schira4396/VcenterKiller",
+            "title": "Schira4396/VcenterKiller: 一款针对Vcenter的综合利用工具，包含目前最主流的CVE-2021-21972、CVE-2021-21985以及CVE-2021-22005、One Access的CVE-2022-22954、CVE-2022-22972/31656以及log4j，提供一键上传webshell，命令执行或者上传公钥使用SSH免密连接",
+            "date_modified": "2023-12-13T06:57:22.000Z",
+            "date_published": "2022-10-04T03:39:27.000Z",
+            "author": {
+                "name": "Schira4396",
+                "url": "https://github.com/Schira4396"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/1588395?u=36f801f30d7d5180e1f78dfc8d72d1f2f33ef24a&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Detect images that likely exploit CVE-2022-44268</div>",
             "url": "https://github.com/jnschaeffer/cve-2022-44268-detector",
             "title": "jnschaeffer/cve-2022-44268-detector: Detect images that likely exploit CVE-2022-44268",
@@ -113,6 +124,17 @@
             "author": {
                 "name": "Romanc9",
                 "url": "https://github.com/Romanc9"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/4098538?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Foxit PDF Reader Remote Code Execution Exploit</div>",
+            "url": "https://github.com/hacksysteam/CVE-2022-28672",
+            "title": "hacksysteam/CVE-2022-28672: Foxit PDF Reader Remote Code Execution Exploit",
+            "date_modified": "2023-12-11T06:17:46.000Z",
+            "date_published": "2022-12-02T18:52:20.000Z",
+            "author": {
+                "name": "hacksysteam",
+                "url": "https://github.com/hacksysteam"
             }
         },
         {
@@ -201,28 +223,6 @@
             "author": {
                 "name": "Pasch0",
                 "url": "https://github.com/Pasch0"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/51345640?u=ac76ed6d5a99dc3a44d9eb88e997f98052cfba3d&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>bash script for automated discovery and exploitation of machines with the CVE-2022-39986 vulnerability</div>",
-            "url": "https://github.com/mind2hex/RaspAP_Hunter",
-            "title": "mind2hex/RaspAP_Hunter: bash script for automated discovery and exploitation of machines with the CVE-2022-39986 vulnerability",
-            "date_modified": "2023-08-24T17:00:19.000Z",
-            "date_published": "2023-08-24T16:48:27.000Z",
-            "author": {
-                "name": "mind2hex",
-                "url": "https://github.com/mind2hex"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/69379868?u=811d22569877da0e674552ad28f44d0d698a05be&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>An automated attack chain based on CVE-2022-30190, 163 email backdoor, and image steganography.</div>",
-            "url": "https://github.com/Jump-Wang-111/AmzWord",
-            "title": "Jump-Wang-111/AmzWord: An automated attack chain based on CVE-2022-30190, 163 email backdoor, and image steganography.",
-            "date_modified": "2023-11-28T07:49:28.000Z",
-            "date_published": "2023-11-28T03:47:32.000Z",
-            "author": {
-                "name": "Jump-Wang-111",
-                "url": "https://github.com/Jump-Wang-111"
             }
         }
     ]
