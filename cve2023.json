@@ -152,7 +152,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/42498816?u=08c4092e757fc2588b734e8e09e355493e9126e9&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A critical security vulnerability, identified as CVE-2023-50164 (CVE: 9.8) was found in Apache Struts, allowing attackers to manipulate file upload parameters that can potentially lead to unauthorized path traversal and remote code execution (RCE).</div>",
             "url": "https://github.com/jakabakos/CVE-2023-50164-Apache-Struts-RCE",
             "title": "jakabakos/CVE-2023-50164-Apache-Struts-RCE: A critical security vulnerability, identified as CVE-2023-50164 (CVE: 9.8) was found in Apache Struts, allowing attackers to manipulate file upload parameters that can potentially lead to unauthorized path traversal and remote code execution (RCE).",
-            "date_modified": "2023-12-14T15:32:00.000Z",
+            "date_modified": "2023-12-14T16:15:07.000Z",
             "date_published": "2023-12-13T09:31:36.000Z",
             "author": {
                 "name": "jakabakos",
