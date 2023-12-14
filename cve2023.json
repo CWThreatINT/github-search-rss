@@ -17,6 +17,17 @@
             }
         },
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/22531478?u=6fe0d76b0a92da894b9573b4743461a5ed2d37a3&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2023-49038</div>",
+            "url": "https://github.com/christopher-pace/CVE-2023-49038",
+            "title": "christopher-pace/CVE-2023-49038: CVE-2023-49038",
+            "date_modified": "2023-12-14T01:49:52.000Z",
+            "date_published": "2023-12-14T01:49:52.000Z",
+            "author": {
+                "name": "christopher-pace",
+                "url": "https://github.com/christopher-pace"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/135759201?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2023-20198 / 0day - Cisco - Authentication Bypass/RCE</div>",
             "url": "https://github.com/codeb0ss/CVE-2023-20198-PoC",
             "title": "codeb0ss/CVE-2023-20198-PoC: CVE-2023-20198 / 0day - Cisco - Authentication Bypass/RCE",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "WhiteOwl-Pub",
                 "url": "https://github.com/WhiteOwl-Pub"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/57096518?u=cd63b01e12181cd7da3d1fb04e099f6c28d403de&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Proof of concept developed for the CVE-2023-36664</div>",
-            "url": "https://github.com/JeanChpt/CVE-2023-36664",
-            "title": "JeanChpt/CVE-2023-36664: Proof of concept developed for the CVE-2023-36664",
-            "date_modified": "2023-12-02T10:33:28.000Z",
-            "date_published": "2023-12-02T10:28:10.000Z",
-            "author": {
-                "name": "JeanChpt",
-                "url": "https://github.com/JeanChpt"
             }
         }
     ]
