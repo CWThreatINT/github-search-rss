@@ -6,10 +6,21 @@
     "description": "CVE-2023 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/18195825?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023</div>",
+            "url": "https://github.com/CVEProject/cvelist",
+            "title": "CVEProject/cvelist: Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023",
+            "date_modified": "2023-12-13T09:40:11.000Z",
+            "date_published": "2020-11-02T19:30:55.000Z",
+            "author": {
+                "name": "CVEProject",
+                "url": "https://github.com/CVEProject"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/127287794?u=a735436fdb5041f2d66e326b5ba19fcf8d8770fb&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>JetBrains TeamCity Authentication Bypass CVE-2023-42793 Exploit</div>",
             "url": "https://github.com/H454NSec/CVE-2023-42793",
             "title": "H454NSec/CVE-2023-42793: JetBrains TeamCity Authentication Bypass CVE-2023-42793 Exploit",
-            "date_modified": "2023-11-29T18:16:03.000Z",
+            "date_modified": "2023-12-14T06:50:48.000Z",
             "date_published": "2023-09-29T06:43:35.000Z",
             "author": {
                 "name": "H454NSec",
@@ -25,17 +36,6 @@
             "author": {
                 "name": "GhostBalladw",
                 "url": "https://github.com/GhostBalladw"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/18195825?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023</div>",
-            "url": "https://github.com/CVEProject/cvelist",
-            "title": "CVEProject/cvelist: Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023",
-            "date_modified": "2023-12-13T09:40:11.000Z",
-            "date_published": "2020-11-02T19:30:55.000Z",
-            "author": {
-                "name": "CVEProject",
-                "url": "https://github.com/CVEProject"
             }
         },
         {
@@ -64,7 +64,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/88535377?u=8a48a963ff9041c5b6823c72395159e958a4c5b2&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Backup Migration &lt;= 1.3.7 - Unauthenticated Remote Code Execution</div>",
             "url": "https://github.com/Chocapikk/CVE-2023-6553",
             "title": "Chocapikk/CVE-2023-6553: Backup Migration <= 1.3.7 - Unauthenticated Remote Code Execution",
-            "date_modified": "2023-12-13T20:30:51.000Z",
+            "date_modified": "2023-12-14T07:03:41.000Z",
             "date_published": "2023-12-13T20:26:59.000Z",
             "author": {
                 "name": "Chocapikk",
