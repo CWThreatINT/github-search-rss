@@ -17,17 +17,6 @@
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/84989569?u=b027e9a8785b58ab40097521d634b7ebf24aa3e7&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>PoC Exploit  for VM2 Sandbox Escape Vulnerability</div>",
-            "url": "https://github.com/rvizx/CVE-2023-30547",
-            "title": "rvizx/CVE-2023-30547: PoC Exploit  for VM2 Sandbox Escape Vulnerability",
-            "date_modified": "2023-12-14T10:03:07.000Z",
-            "date_published": "2023-12-10T08:32:26.000Z",
-            "author": {
-                "name": "rvizx",
-                "url": "https://github.com/rvizx"
-            }
-        },
-        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/153858003?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>SQL Injection in 3CX CRM Integration</div>",
             "url": "https://github.com/CVE-2023-49954/CVE-2023-49954.github.io",
             "title": "CVE-2023-49954/CVE-2023-49954.github.io: SQL Injection in 3CX CRM Integration",
@@ -36,6 +25,17 @@
             "author": {
                 "name": "CVE-2023-49954",
                 "url": "https://github.com/CVE-2023-49954"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/84989569?u=b027e9a8785b58ab40097521d634b7ebf24aa3e7&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>PoC Exploit  for VM2 Sandbox Escape Vulnerability</div>",
+            "url": "https://github.com/rvizx/CVE-2023-30547",
+            "title": "rvizx/CVE-2023-30547: PoC Exploit  for VM2 Sandbox Escape Vulnerability",
+            "date_modified": "2023-12-14T10:03:07.000Z",
+            "date_published": "2023-12-10T08:32:26.000Z",
+            "author": {
+                "name": "rvizx",
+                "url": "https://github.com/rvizx"
             }
         },
         {
@@ -119,7 +119,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/135759201?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2023-20198 / 0day - Cisco - Authentication Bypass/RCE</div>",
             "url": "https://github.com/codeb0ss/CVE-2023-20198-PoC",
             "title": "codeb0ss/CVE-2023-20198-PoC: CVE-2023-20198 / 0day - Cisco - Authentication Bypass/RCE",
-            "date_modified": "2023-12-13T22:51:13.000Z",
+            "date_modified": "2023-12-14T20:23:00.000Z",
             "date_published": "2023-12-13T22:45:25.000Z",
             "author": {
                 "name": "codeb0ss",
@@ -174,7 +174,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/42498816?u=08c4092e757fc2588b734e8e09e355493e9126e9&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A critical security vulnerability, identified as CVE-2023-50164 (CVE: 9.8) was found in Apache Struts, allowing attackers to manipulate file upload parameters that can potentially lead to unauthorized path traversal and remote code execution (RCE).</div>",
             "url": "https://github.com/jakabakos/CVE-2023-50164-Apache-Struts-RCE",
             "title": "jakabakos/CVE-2023-50164-Apache-Struts-RCE: A critical security vulnerability, identified as CVE-2023-50164 (CVE: 9.8) was found in Apache Struts, allowing attackers to manipulate file upload parameters that can potentially lead to unauthorized path traversal and remote code execution (RCE).",
-            "date_modified": "2023-12-14T19:09:40.000Z",
+            "date_modified": "2023-12-14T20:17:51.000Z",
             "date_published": "2023-12-13T09:31:36.000Z",
             "author": {
                 "name": "jakabakos",
