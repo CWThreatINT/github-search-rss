@@ -6,6 +6,17 @@
     "description": "CVE-2022 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/56551382?u=b54c8f77d83f8b0ab5a4ba7865714eb0c55218c6&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2022-4047 poc</div>",
+            "url": "https://github.com/entroychang/CVE-2022-4047",
+            "title": "entroychang/CVE-2022-4047: CVE-2022-4047 poc",
+            "date_modified": "2023-12-14T07:51:06.000Z",
+            "date_published": "2023-12-14T07:36:01.000Z",
+            "author": {
+                "name": "entroychang",
+                "url": "https://github.com/entroychang"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/71746399?u=f12ce773cd6753024fbe116cce753cbe9f7e8426&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
             "url": "https://github.com/zer0ne1/CVE-2022-0337-RePoC",
             "title": "zer0ne1/CVE-2022-0337-RePoC",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "viniciuspereiras",
                 "url": "https://github.com/viniciuspereiras"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/78447612?u=29da736f93ed4e1643ca154ed37e66c3fbe86174&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2022-29464 Exploit</div>",
-            "url": "https://github.com/Pasch0/WSO2RCE",
-            "title": "Pasch0/WSO2RCE: CVE-2022-29464 Exploit",
-            "date_modified": "2023-11-12T16:10:10.000Z",
-            "date_published": "2022-07-05T08:27:04.000Z",
-            "author": {
-                "name": "Pasch0",
-                "url": "https://github.com/Pasch0"
             }
         }
     ]
