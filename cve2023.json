@@ -17,14 +17,36 @@
             }
         },
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/153858003?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>SQL Injection in 3CX CRM Integration</div>",
+            "url": "https://github.com/CVE-2023-49954/CVE-2023-49954.github.io",
+            "title": "CVE-2023-49954/CVE-2023-49954.github.io: SQL Injection in 3CX CRM Integration",
+            "date_modified": "2023-12-14T20:06:19.000Z",
+            "date_published": "2023-12-14T18:38:28.000Z",
+            "author": {
+                "name": "CVE-2023-49954",
+                "url": "https://github.com/CVE-2023-49954"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/12553297?u=22a2c5ee1bf5b1bf2f6b95e9df052efe6c2aa791&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A scanning utility and PoC for CVE-2023-50164</div>",
             "url": "https://github.com/bcdannyboy/CVE-2023-50164",
             "title": "bcdannyboy/CVE-2023-50164: A scanning utility and PoC for CVE-2023-50164",
-            "date_modified": "2023-12-15T21:19:51.000Z",
+            "date_modified": "2023-12-15T22:11:48.000Z",
             "date_published": "2023-12-15T21:19:51.000Z",
             "author": {
                 "name": "bcdannyboy",
                 "url": "https://github.com/bcdannyboy"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/152064551?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Multiple SQL injection vulnerabilities in /customer_support/ajax.php?action=save_ticket in Customer Support System 1.0 allow authenticated attackers to execute arbitrary SQL commands via department_id, customer_id and subject.</div>",
+            "url": "https://github.com/geraldoalcantara/CVE-2023-50070",
+            "title": "geraldoalcantara/CVE-2023-50070: Multiple SQL injection vulnerabilities in /customer_support/ajax.php?action=save_ticket in Customer Support System 1.0 allow authenticated attackers to execute arbitrary SQL commands via department_id, customer_id and subject.",
+            "date_modified": "2023-12-15T22:08:02.000Z",
+            "date_published": "2023-12-15T20:37:39.000Z",
+            "author": {
+                "name": "geraldoalcantara",
+                "url": "https://github.com/geraldoalcantara"
             }
         },
         {
@@ -102,17 +124,6 @@
             "author": {
                 "name": "nightowl642",
                 "url": "https://github.com/nightowl642"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/153858003?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>SQL Injection in 3CX CRM Integration</div>",
-            "url": "https://github.com/CVE-2023-49954/CVE-2023-49954.github.io",
-            "title": "CVE-2023-49954/CVE-2023-49954.github.io: SQL Injection in 3CX CRM Integration",
-            "date_modified": "2023-12-14T20:06:19.000Z",
-            "date_published": "2023-12-14T18:38:28.000Z",
-            "author": {
-                "name": "CVE-2023-49954",
-                "url": "https://github.com/CVE-2023-49954"
             }
         },
         {
@@ -212,17 +223,6 @@
             "author": {
                 "name": "H454NSec",
                 "url": "https://github.com/H454NSec"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/22531478?u=6fe0d76b0a92da894b9573b4743461a5ed2d37a3&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2023-49038</div>",
-            "url": "https://github.com/christopher-pace/CVE-2023-49038",
-            "title": "christopher-pace/CVE-2023-49038: CVE-2023-49038",
-            "date_modified": "2023-12-14T01:49:52.000Z",
-            "date_published": "2023-12-14T01:49:52.000Z",
-            "author": {
-                "name": "christopher-pace",
-                "url": "https://github.com/christopher-pace"
             }
         }
     ]
