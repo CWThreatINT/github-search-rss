@@ -6,6 +6,17 @@
     "description": "CVE-2021 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/60618569?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
+            "url": "https://github.com/markyu0401/CVE-2021-3560-Polkit-Privilege-Escalation",
+            "title": "markyu0401/CVE-2021-3560-Polkit-Privilege-Escalation",
+            "date_modified": "2023-12-15T03:38:41.000Z",
+            "date_published": "2023-12-15T03:38:41.000Z",
+            "author": {
+                "name": "markyu0401",
+                "url": "https://github.com/markyu0401"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/118485549?u=660cd0918dabc52d048fd3f2a128cd15c6aa4a04&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2021-40438 Apache &lt;= 2.4.48 SSRF exploit</div>",
             "url": "https://github.com/sergiovks/CVE-2021-40438-Apache-2.4.48-SSRF-exploit",
             "title": "sergiovks/CVE-2021-40438-Apache-2.4.48-SSRF-exploit: CVE-2021-40438 Apache <= 2.4.48 SSRF exploit",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "fbkcs",
                 "url": "https://github.com/fbkcs"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/67005408?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
-            "url": "https://github.com/hshivhare67/Jetty_v9.4.31_CVE-2021-28165",
-            "title": "hshivhare67/Jetty_v9.4.31_CVE-2021-28165",
-            "date_modified": "2023-11-16T07:19:45.000Z",
-            "date_published": "2023-11-16T07:15:37.000Z",
-            "author": {
-                "name": "hshivhare67",
-                "url": "https://github.com/hshivhare67"
             }
         }
     ]
