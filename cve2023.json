@@ -6,17 +6,6 @@
     "description": "CVE-2023 FEED on GitHub",
     "items": [
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/105647610?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>IBM i Access Client Solution &lt; 1.1.9.4 - Local server broken access control.</div>",
-            "url": "https://github.com/afine-com/CVE-2023-45184",
-            "title": "afine-com/CVE-2023-45184: IBM i Access Client Solution < 1.1.9.4 - Local server broken access control.",
-            "date_modified": "2023-12-15T14:06:24.000Z",
-            "date_published": "2023-12-15T14:04:32.000Z",
-            "author": {
-                "name": "afine-com",
-                "url": "https://github.com/afine-com"
-            }
-        },
-        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/18195825?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023</div>",
             "url": "https://github.com/CVEProject/cvelist",
             "title": "CVEProject/cvelist: Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023",
@@ -25,6 +14,17 @@
             "author": {
                 "name": "CVEProject",
                 "url": "https://github.com/CVEProject"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/105647610?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>IBM i Access Client Solution &lt; 1.1.9.4 - Local server broken access control.</div>",
+            "url": "https://github.com/afine-com/CVE-2023-45184",
+            "title": "afine-com/CVE-2023-45184: IBM i Access Client Solution < 1.1.9.4 - Local server broken access control.",
+            "date_modified": "2023-12-15T14:06:24.000Z",
+            "date_published": "2023-12-15T14:04:32.000Z",
+            "author": {
+                "name": "afine-com",
+                "url": "https://github.com/afine-com"
             }
         },
         {
@@ -108,7 +108,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/80413188?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Atlassian Companion RCE Vulnerability Proof of Concept</div>",
             "url": "https://github.com/ron-imperva/CVE-2023-22524",
             "title": "ron-imperva/CVE-2023-22524: Atlassian Companion RCE Vulnerability Proof of Concept",
-            "date_modified": "2023-12-15T11:14:41.000Z",
+            "date_modified": "2023-12-15T14:25:53.000Z",
             "date_published": "2023-12-14T15:33:11.000Z",
             "author": {
                 "name": "ron-imperva",
