@@ -6,17 +6,6 @@
     "description": "CVE-2023 FEED on GitHub",
     "items": [
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/88535377?u=8a48a963ff9041c5b6823c72395159e958a4c5b2&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Backup Migration &lt;= 1.3.7 - Unauthenticated Remote Code Execution</div>",
-            "url": "https://github.com/Chocapikk/CVE-2023-6553",
-            "title": "Chocapikk/CVE-2023-6553: Backup Migration <= 1.3.7 - Unauthenticated Remote Code Execution",
-            "date_modified": "2023-12-15T17:12:55.000Z",
-            "date_published": "2023-12-13T20:26:59.000Z",
-            "author": {
-                "name": "Chocapikk",
-                "url": "https://github.com/Chocapikk"
-            }
-        },
-        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/18195825?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023</div>",
             "url": "https://github.com/CVEProject/cvelist",
             "title": "CVEProject/cvelist: Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023",
@@ -28,14 +17,14 @@
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/118485549?u=660cd0918dabc52d048fd3f2a128cd15c6aa4a04&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2023-25690 - mod_proxy vulnerable configuration on Apache HTTP Server versions 2.4.0 to 2.4.55 leads to HTTP Request Smuggling.</div>",
-            "url": "https://github.com/sergiovks/CVE-2023-25690-exploit",
-            "title": "sergiovks/CVE-2023-25690-exploit: CVE-2023-25690 - mod_proxy vulnerable configuration on Apache HTTP Server versions 2.4.0 to 2.4.55 leads to HTTP Request Smuggling.",
-            "date_modified": "2023-12-15T17:57:01.000Z",
-            "date_published": "2023-12-15T17:57:00.000Z",
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/88535377?u=8a48a963ff9041c5b6823c72395159e958a4c5b2&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Backup Migration &lt;= 1.3.7 - Unauthenticated Remote Code Execution</div>",
+            "url": "https://github.com/Chocapikk/CVE-2023-6553",
+            "title": "Chocapikk/CVE-2023-6553: Backup Migration <= 1.3.7 - Unauthenticated Remote Code Execution",
+            "date_modified": "2023-12-15T17:12:55.000Z",
+            "date_published": "2023-12-13T20:26:59.000Z",
             "author": {
-                "name": "sergiovks",
-                "url": "https://github.com/sergiovks"
+                "name": "Chocapikk",
+                "url": "https://github.com/Chocapikk"
             }
         },
         {
@@ -141,7 +130,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/80413188?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Atlassian Companion RCE Vulnerability Proof of Concept</div>",
             "url": "https://github.com/ron-imperva/CVE-2023-22524",
             "title": "ron-imperva/CVE-2023-22524: Atlassian Companion RCE Vulnerability Proof of Concept",
-            "date_modified": "2023-12-15T16:54:54.000Z",
+            "date_modified": "2023-12-15T18:58:32.000Z",
             "date_published": "2023-12-14T15:33:11.000Z",
             "author": {
                 "name": "ron-imperva",
@@ -223,6 +212,17 @@
             "author": {
                 "name": "codeb0ss",
                 "url": "https://github.com/codeb0ss"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/99183771?u=8642579309fee5a036586d9bf8007ea26e78e0f9&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2023-38831 Proof-of-concept code</div>",
+            "url": "https://github.com/SpamixOfficial/CVE-2023-38831",
+            "title": "SpamixOfficial/CVE-2023-38831: CVE-2023-38831 Proof-of-concept code",
+            "date_modified": "2023-12-13T20:06:39.000Z",
+            "date_published": "2023-12-12T14:54:30.000Z",
+            "author": {
+                "name": "SpamixOfficial",
+                "url": "https://github.com/SpamixOfficial"
             }
         }
     ]
