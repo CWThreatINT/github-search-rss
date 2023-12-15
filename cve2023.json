@@ -17,6 +17,17 @@
             }
         },
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/130102748?u=798a2b777bf34b319dfb3e38b4575ba400514a6a&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>This is a script written in Python that allows the exploitation of the Zoneminder's security flaw in the described in CVE 2023-26035. </div>",
+            "url": "https://github.com/m3m0o/zoneminder-snapshots-rce-poc",
+            "title": "m3m0o/zoneminder-snapshots-rce-poc: This is a script written in Python that allows the exploitation of the Zoneminder's security flaw in the described in CVE 2023-26035. ",
+            "date_modified": "2023-12-13T14:58:52.000Z",
+            "date_published": "2023-12-12T14:44:19.000Z",
+            "author": {
+                "name": "m3m0o",
+                "url": "https://github.com/m3m0o"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/153858003?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>SQL Injection in 3CX CRM Integration</div>",
             "url": "https://github.com/CVE-2023-49954/CVE-2023-49954.github.io",
             "title": "CVE-2023-49954/CVE-2023-49954.github.io: SQL Injection in 3CX CRM Integration",
@@ -64,7 +75,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/88535377?u=8a48a963ff9041c5b6823c72395159e958a4c5b2&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Backup Migration &lt;= 1.3.7 - Unauthenticated Remote Code Execution</div>",
             "url": "https://github.com/Chocapikk/CVE-2023-6553",
             "title": "Chocapikk/CVE-2023-6553: Backup Migration <= 1.3.7 - Unauthenticated Remote Code Execution",
-            "date_modified": "2023-12-14T19:17:28.000Z",
+            "date_modified": "2023-12-14T23:13:54.000Z",
             "date_published": "2023-12-13T20:26:59.000Z",
             "author": {
                 "name": "Chocapikk",
@@ -174,7 +185,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/42498816?u=08c4092e757fc2588b734e8e09e355493e9126e9&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A critical security vulnerability, identified as CVE-2023-50164 (CVE: 9.8) was found in Apache Struts, allowing attackers to manipulate file upload parameters that can potentially lead to unauthorized path traversal and remote code execution (RCE).</div>",
             "url": "https://github.com/jakabakos/CVE-2023-50164-Apache-Struts-RCE",
             "title": "jakabakos/CVE-2023-50164-Apache-Struts-RCE: A critical security vulnerability, identified as CVE-2023-50164 (CVE: 9.8) was found in Apache Struts, allowing attackers to manipulate file upload parameters that can potentially lead to unauthorized path traversal and remote code execution (RCE).",
-            "date_modified": "2023-12-14T20:17:51.000Z",
+            "date_modified": "2023-12-15T00:31:50.000Z",
             "date_published": "2023-12-13T09:31:36.000Z",
             "author": {
                 "name": "jakabakos",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "0utl4nder",
                 "url": "https://github.com/0utl4nder"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/130102748?u=798a2b777bf34b319dfb3e38b4575ba400514a6a&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>This is a script written in Python that allows the exploitation of the Zoneminder's security flaw in the described in CVE 2023-26035. </div>",
-            "url": "https://github.com/m3m0o/zoneminder-snapshots-rce-poc",
-            "title": "m3m0o/zoneminder-snapshots-rce-poc: This is a script written in Python that allows the exploitation of the Zoneminder's security flaw in the described in CVE 2023-26035. ",
-            "date_modified": "2023-12-13T14:58:52.000Z",
-            "date_published": "2023-12-12T14:44:19.000Z",
-            "author": {
-                "name": "m3m0o",
-                "url": "https://github.com/m3m0o"
             }
         }
     ]
