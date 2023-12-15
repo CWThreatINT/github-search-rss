@@ -6,10 +6,32 @@
     "description": "CVE-2023 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/78701239?u=9e68d2365d0c26e3994dc3e04864bc97ccb91348&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2023-42470</div>",
+            "url": "https://github.com/actuator/imou",
+            "title": "actuator/imou: CVE-2023-42470",
+            "date_modified": "2023-11-06T10:49:05.000Z",
+            "date_published": "2023-08-17T02:12:24.000Z",
+            "author": {
+                "name": "actuator",
+                "url": "https://github.com/actuator"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/136776282?u=a9fb3560f61ee42f36325b34e6044c39750d36c7&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2023-41623</div>",
+            "url": "https://github.com/GhostBalladw/wuhaozhe-s-CVE",
+            "title": "GhostBalladw/wuhaozhe-s-CVE: CVE-2023-41623",
+            "date_modified": "2023-12-08T04:15:06.000Z",
+            "date_published": "2023-12-08T04:15:06.000Z",
+            "author": {
+                "name": "GhostBalladw",
+                "url": "https://github.com/GhostBalladw"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/18195825?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023</div>",
             "url": "https://github.com/CVEProject/cvelist",
             "title": "CVEProject/cvelist: Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023",
-            "date_modified": "2023-12-14T18:16:07.000Z",
+            "date_modified": "2023-12-15T01:13:55.000Z",
             "date_published": "2020-11-02T19:30:55.000Z",
             "author": {
                 "name": "CVEProject",
@@ -75,7 +97,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/88535377?u=8a48a963ff9041c5b6823c72395159e958a4c5b2&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Backup Migration &lt;= 1.3.7 - Unauthenticated Remote Code Execution</div>",
             "url": "https://github.com/Chocapikk/CVE-2023-6553",
             "title": "Chocapikk/CVE-2023-6553: Backup Migration <= 1.3.7 - Unauthenticated Remote Code Execution",
-            "date_modified": "2023-12-14T23:13:54.000Z",
+            "date_modified": "2023-12-15T01:49:06.000Z",
             "date_published": "2023-12-13T20:26:59.000Z",
             "author": {
                 "name": "Chocapikk",
@@ -102,17 +124,6 @@
             "author": {
                 "name": "H454NSec",
                 "url": "https://github.com/H454NSec"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/136776282?u=a9fb3560f61ee42f36325b34e6044c39750d36c7&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2023-41623</div>",
-            "url": "https://github.com/GhostBalladw/wuhaozhe-s-CVE",
-            "title": "GhostBalladw/wuhaozhe-s-CVE: CVE-2023-41623",
-            "date_modified": "2023-12-08T04:15:06.000Z",
-            "date_published": "2023-12-08T04:15:06.000Z",
-            "author": {
-                "name": "GhostBalladw",
-                "url": "https://github.com/GhostBalladw"
             }
         },
         {
@@ -185,7 +196,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/42498816?u=08c4092e757fc2588b734e8e09e355493e9126e9&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A critical security vulnerability, identified as CVE-2023-50164 (CVE: 9.8) was found in Apache Struts, allowing attackers to manipulate file upload parameters that can potentially lead to unauthorized path traversal and remote code execution (RCE).</div>",
             "url": "https://github.com/jakabakos/CVE-2023-50164-Apache-Struts-RCE",
             "title": "jakabakos/CVE-2023-50164-Apache-Struts-RCE: A critical security vulnerability, identified as CVE-2023-50164 (CVE: 9.8) was found in Apache Struts, allowing attackers to manipulate file upload parameters that can potentially lead to unauthorized path traversal and remote code execution (RCE).",
-            "date_modified": "2023-12-15T00:31:50.000Z",
+            "date_modified": "2023-12-15T00:55:25.000Z",
             "date_published": "2023-12-13T09:31:36.000Z",
             "author": {
                 "name": "jakabakos",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "C1ph3rX13",
                 "url": "https://github.com/C1ph3rX13"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/117042369?u=ff01b24529086a79de108255d2b1c6f8f1fdf1e6&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Metabase postgres (org.h2.Driver)  RCE without INIT</div>",
-            "url": "https://github.com/0utl4nder/Another-Metabase-RCE-CVE-2023-38646",
-            "title": "0utl4nder/Another-Metabase-RCE-CVE-2023-38646: Metabase postgres (org.h2.Driver)  RCE without INIT",
-            "date_modified": "2023-12-12T03:26:37.000Z",
-            "date_published": "2023-12-10T21:07:10.000Z",
-            "author": {
-                "name": "0utl4nder",
-                "url": "https://github.com/0utl4nder"
             }
         }
     ]
