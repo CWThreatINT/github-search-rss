@@ -17,17 +17,6 @@
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/153858003?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>SQL Injection in 3CX CRM Integration</div>",
-            "url": "https://github.com/CVE-2023-49954/CVE-2023-49954.github.io",
-            "title": "CVE-2023-49954/CVE-2023-49954.github.io: SQL Injection in 3CX CRM Integration",
-            "date_modified": "2023-12-14T20:06:19.000Z",
-            "date_published": "2023-12-14T18:38:28.000Z",
-            "author": {
-                "name": "CVE-2023-49954",
-                "url": "https://github.com/CVE-2023-49954"
-            }
-        },
-        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/12553297?u=22a2c5ee1bf5b1bf2f6b95e9df052efe6c2aa791&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A scanning utility and PoC for CVE-2023-50164</div>",
             "url": "https://github.com/bcdannyboy/CVE-2023-50164",
             "title": "bcdannyboy/CVE-2023-50164: A scanning utility and PoC for CVE-2023-50164",
@@ -36,6 +25,17 @@
             "author": {
                 "name": "bcdannyboy",
                 "url": "https://github.com/bcdannyboy"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/153858003?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>SQL Injection in 3CX CRM Integration</div>",
+            "url": "https://github.com/CVE-2023-49954/CVE-2023-49954.github.io",
+            "title": "CVE-2023-49954/CVE-2023-49954.github.io: SQL Injection in 3CX CRM Integration",
+            "date_modified": "2023-12-14T20:06:19.000Z",
+            "date_published": "2023-12-14T18:38:28.000Z",
+            "author": {
+                "name": "CVE-2023-49954",
+                "url": "https://github.com/CVE-2023-49954"
             }
         },
         {
@@ -163,7 +163,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/80413188?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Atlassian Companion RCE Vulnerability Proof of Concept</div>",
             "url": "https://github.com/ron-imperva/CVE-2023-22524",
             "title": "ron-imperva/CVE-2023-22524: Atlassian Companion RCE Vulnerability Proof of Concept",
-            "date_modified": "2023-12-15T20:01:05.000Z",
+            "date_modified": "2023-12-16T00:23:13.000Z",
             "date_published": "2023-12-14T15:33:11.000Z",
             "author": {
                 "name": "ron-imperva",
