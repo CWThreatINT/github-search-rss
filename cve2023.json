@@ -6,6 +6,28 @@
     "description": "CVE-2023 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/152064551?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Multiple SQL injection vulnerabilities in /customer_support/ajax.php?action=save_ticket in Customer Support System 1.0 allow authenticated attackers to execute arbitrary SQL commands via department_id, customer_id and subject.</div>",
+            "url": "https://github.com/geraldoalcantara/CVE-2023-50070",
+            "title": "geraldoalcantara/CVE-2023-50070: Multiple SQL injection vulnerabilities in /customer_support/ajax.php?action=save_ticket in Customer Support System 1.0 allow authenticated attackers to execute arbitrary SQL commands via department_id, customer_id and subject.",
+            "date_modified": "2023-12-15T22:08:02.000Z",
+            "date_published": "2023-12-15T20:37:39.000Z",
+            "author": {
+                "name": "geraldoalcantara",
+                "url": "https://github.com/geraldoalcantara"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/4434533?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Simulates CVE-2023-4966 Citrix Bleed overread bug</div>",
+            "url": "https://github.com/morganwdavis/overread",
+            "title": "morganwdavis/overread: Simulates CVE-2023-4966 Citrix Bleed overread bug",
+            "date_modified": "2023-12-16T21:56:07.000Z",
+            "date_published": "2023-12-16T21:55:04.000Z",
+            "author": {
+                "name": "morganwdavis",
+                "url": "https://github.com/morganwdavis"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/18195825?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023</div>",
             "url": "https://github.com/CVEProject/cvelist",
             "title": "CVEProject/cvelist: Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023",
@@ -36,17 +58,6 @@
             "author": {
                 "name": "m3m0o",
                 "url": "https://github.com/m3m0o"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/152064551?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Multiple SQL injection vulnerabilities in /customer_support/ajax.php?action=save_ticket in Customer Support System 1.0 allow authenticated attackers to execute arbitrary SQL commands via department_id, customer_id and subject.</div>",
-            "url": "https://github.com/geraldoalcantara/CVE-2023-50070",
-            "title": "geraldoalcantara/CVE-2023-50070: Multiple SQL injection vulnerabilities in /customer_support/ajax.php?action=save_ticket in Customer Support System 1.0 allow authenticated attackers to execute arbitrary SQL commands via department_id, customer_id and subject.",
-            "date_modified": "2023-12-15T22:08:02.000Z",
-            "date_published": "2023-12-15T20:37:39.000Z",
-            "author": {
-                "name": "geraldoalcantara",
-                "url": "https://github.com/geraldoalcantara"
             }
         },
         {
@@ -212,17 +223,6 @@
             "author": {
                 "name": "abdoghazy2015",
                 "url": "https://github.com/abdoghazy2015"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/80413188?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Atlassian Companion RCE Vulnerability Proof of Concept</div>",
-            "url": "https://github.com/ron-imperva/CVE-2023-22524",
-            "title": "ron-imperva/CVE-2023-22524: Atlassian Companion RCE Vulnerability Proof of Concept",
-            "date_modified": "2023-12-16T18:55:22.000Z",
-            "date_published": "2023-12-14T15:33:11.000Z",
-            "author": {
-                "name": "ron-imperva",
-                "url": "https://github.com/ron-imperva"
             }
         }
     ]
