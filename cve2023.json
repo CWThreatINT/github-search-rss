@@ -17,6 +17,17 @@
             }
         },
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/25837540?u=a0b1cc915fef96820c1f053cfbf8094d2acf36c4&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Proof of Concept for Path Traversal in Apache Struts (\"CVE-2023-50164\")</div>",
+            "url": "https://github.com/dwisiswant0/cve-2023-50164-poc",
+            "title": "dwisiswant0/cve-2023-50164-poc: Proof of Concept for Path Traversal in Apache Struts (\"CVE-2023-50164\")",
+            "date_modified": "2023-12-17T15:56:24.000Z",
+            "date_published": "2023-12-17T14:18:54.000Z",
+            "author": {
+                "name": "dwisiswant0",
+                "url": "https://github.com/dwisiswant0"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/152064551?u=edccd632a5a85be84ac80ed10a3bf6b713aadd4f&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Multiple SQL injection vulnerabilities in /customer_support/ajax.php?action=save_ticket in Customer Support System 1.0 allow authenticated attackers to execute arbitrary SQL commands via department_id, customer_id and subject.</div>",
             "url": "https://github.com/geraldoalcantara/CVE-2023-50070",
             "title": "geraldoalcantara/CVE-2023-50070: Multiple SQL injection vulnerabilities in /customer_support/ajax.php?action=save_ticket in Customer Support System 1.0 allow authenticated attackers to execute arbitrary SQL commands via department_id, customer_id and subject.",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "hshivhare67",
                 "url": "https://github.com/hshivhare67"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/136776282?u=a9fb3560f61ee42f36325b34e6044c39750d36c7&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2023-41623</div>",
-            "url": "https://github.com/GhostBalladw/wuhaozhe-s-CVE",
-            "title": "GhostBalladw/wuhaozhe-s-CVE: CVE-2023-41623",
-            "date_modified": "2023-12-08T04:15:06.000Z",
-            "date_published": "2023-12-08T04:15:06.000Z",
-            "author": {
-                "name": "GhostBalladw",
-                "url": "https://github.com/GhostBalladw"
             }
         }
     ]
