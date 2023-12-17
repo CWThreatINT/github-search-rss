@@ -6,6 +6,17 @@
     "description": "CVE-2022 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/18383407?u=c9d1276bd9ccb8b06b724c3057b1ef683fa81de7&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2022-25813: FreeMarker Server-Side Template Injection in Apache OfBiz </div>",
+            "url": "https://github.com/mbadanoiu/CVE-2022-25813",
+            "title": "mbadanoiu/CVE-2022-25813: CVE-2022-25813: FreeMarker Server-Side Template Injection in Apache OfBiz ",
+            "date_modified": "2023-12-17T20:56:52.000Z",
+            "date_published": "2023-12-17T20:43:26.000Z",
+            "author": {
+                "name": "mbadanoiu",
+                "url": "https://github.com/mbadanoiu"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/72038577?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>LFI in the Essential Addons for Elementor WordPress plugin</div>",
             "url": "https://github.com/0x9567b/CVE-2022-0320",
             "title": "0x9567b/CVE-2022-0320: LFI in the Essential Addons for Elementor WordPress plugin",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "mbadanoiu",
                 "url": "https://github.com/mbadanoiu"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/16787873?u=b437103c51a98558816a1ff2caa8e5d438da91b6&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Study and exploit the vulnerability CVE-2022-21661 that allows SQL Injections through plugins POST requests to WordPress versions below 5.8.3.</div>",
-            "url": "https://github.com/WellingtonEspindula/SSI-CVE-2022-21661",
-            "title": "WellingtonEspindula/SSI-CVE-2022-21661: Study and exploit the vulnerability CVE-2022-21661 that allows SQL Injections through plugins POST requests to WordPress versions below 5.8.3.",
-            "date_modified": "2023-05-05T22:45:42.000Z",
-            "date_published": "2023-01-13T13:31:34.000Z",
-            "author": {
-                "name": "WellingtonEspindula",
-                "url": "https://github.com/WellingtonEspindula"
             }
         }
     ]
