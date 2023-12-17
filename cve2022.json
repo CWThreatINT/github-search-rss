@@ -6,6 +6,17 @@
     "description": "CVE-2022 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/72038577?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>LFI in the Essential Addons for Elementor WordPress plugin</div>",
+            "url": "https://github.com/0x9567b/CVE-2022-0320",
+            "title": "0x9567b/CVE-2022-0320: LFI in the Essential Addons for Elementor WordPress plugin",
+            "date_modified": "2023-12-17T08:48:08.000Z",
+            "date_published": "2023-12-17T08:38:49.000Z",
+            "author": {
+                "name": "0x9567b",
+                "url": "https://github.com/0x9567b"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/12976017?u=6d3d423fda6a56643a0ca1acae5223cdf08a3c28&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Let's control Secure Boot Chain ourselves.</div>",
             "url": "https://github.com/TomKing062/CVE-2022-38691_38692",
             "title": "TomKing062/CVE-2022-38691_38692: Let's control Secure Boot Chain ourselves.",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "WellingtonEspindula",
                 "url": "https://github.com/WellingtonEspindula"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/69733777?u=8cb01fa2772cf72ad1cc6f50e6753fcdcd49aef4&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2022-22965 poc including reverse-shell support</div>",
-            "url": "https://github.com/viniciuspereiras/CVE-2022-22965-poc",
-            "title": "viniciuspereiras/CVE-2022-22965-poc: CVE-2022-22965 poc including reverse-shell support",
-            "date_modified": "2023-09-28T11:37:34.000Z",
-            "date_published": "2022-03-31T19:19:52.000Z",
-            "author": {
-                "name": "viniciuspereiras",
-                "url": "https://github.com/viniciuspereiras"
             }
         }
     ]
