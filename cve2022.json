@@ -6,6 +6,17 @@
     "description": "CVE-2022 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/18383407?u=c9d1276bd9ccb8b06b724c3057b1ef683fa81de7&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2022-29063: Java Deserialization via RMI Connection in Apache OfBiz</div>",
+            "url": "https://github.com/mbadanoiu/CVE-2022-29063",
+            "title": "mbadanoiu/CVE-2022-29063: CVE-2022-29063: Java Deserialization via RMI Connection in Apache OfBiz",
+            "date_modified": "2023-12-17T21:26:06.000Z",
+            "date_published": "2023-12-17T21:11:30.000Z",
+            "author": {
+                "name": "mbadanoiu",
+                "url": "https://github.com/mbadanoiu"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/18383407?u=c9d1276bd9ccb8b06b724c3057b1ef683fa81de7&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2022-25813: FreeMarker Server-Side Template Injection in Apache OfBiz </div>",
             "url": "https://github.com/mbadanoiu/CVE-2022-25813",
             "title": "mbadanoiu/CVE-2022-25813: CVE-2022-25813: FreeMarker Server-Side Template Injection in Apache OfBiz ",
@@ -209,17 +220,6 @@
             "title": "mbadanoiu/CVE-2022-40635: CVE-2022-40635: Groovy Sandbox Bypass in CrafterCMS",
             "date_modified": "2023-12-08T07:22:30.000Z",
             "date_published": "2023-12-01T10:28:27.000Z",
-            "author": {
-                "name": "mbadanoiu",
-                "url": "https://github.com/mbadanoiu"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/18383407?u=c9d1276bd9ccb8b06b724c3057b1ef683fa81de7&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2022-40634: FreeMarker Server-Side Template Injection in CrafterCMS</div>",
-            "url": "https://github.com/mbadanoiu/CVE-2022-40634",
-            "title": "mbadanoiu/CVE-2022-40634: CVE-2022-40634: FreeMarker Server-Side Template Injection in CrafterCMS",
-            "date_modified": "2023-12-01T10:26:02.000Z",
-            "date_published": "2023-12-01T10:06:17.000Z",
             "author": {
                 "name": "mbadanoiu",
                 "url": "https://github.com/mbadanoiu"
