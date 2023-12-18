@@ -6,17 +6,6 @@
     "description": "CVE-2023 FEED on GitHub",
     "items": [
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/153858003?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>SQL Injection in 3CX CRM Integration</div>",
-            "url": "https://github.com/CVE-2023-49954/CVE-2023-49954.github.io",
-            "title": "CVE-2023-49954/CVE-2023-49954.github.io: SQL Injection in 3CX CRM Integration",
-            "date_modified": "2023-12-17T07:13:24.000Z",
-            "date_published": "2023-12-14T18:38:28.000Z",
-            "author": {
-                "name": "CVE-2023-49954",
-                "url": "https://github.com/CVE-2023-49954"
-            }
-        },
-        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/18195825?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023</div>",
             "url": "https://github.com/CVEProject/cvelist",
             "title": "CVEProject/cvelist: Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023",
@@ -25,6 +14,17 @@
             "author": {
                 "name": "CVEProject",
                 "url": "https://github.com/CVEProject"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/153858003?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>SQL Injection in 3CX CRM Integration</div>",
+            "url": "https://github.com/CVE-2023-49954/CVE-2023-49954.github.io",
+            "title": "CVE-2023-49954/CVE-2023-49954.github.io: SQL Injection in 3CX CRM Integration",
+            "date_modified": "2023-12-17T07:13:24.000Z",
+            "date_published": "2023-12-14T18:38:28.000Z",
+            "author": {
+                "name": "CVE-2023-49954",
+                "url": "https://github.com/CVE-2023-49954"
             }
         },
         {
@@ -86,7 +86,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/25837540?u=a0b1cc915fef96820c1f053cfbf8094d2acf36c4&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Proof of Concept for Path Traversal in Apache Struts (\"CVE-2023-50164\")</div>",
             "url": "https://github.com/dwisiswant0/cve-2023-50164-poc",
             "title": "dwisiswant0/cve-2023-50164-poc: Proof of Concept for Path Traversal in Apache Struts (\"CVE-2023-50164\")",
-            "date_modified": "2023-12-18T06:19:54.000Z",
+            "date_modified": "2023-12-18T07:59:58.000Z",
             "date_published": "2023-12-17T14:18:54.000Z",
             "author": {
                 "name": "dwisiswant0",
