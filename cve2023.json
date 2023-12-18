@@ -17,17 +17,6 @@
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/25837540?u=a0b1cc915fef96820c1f053cfbf8094d2acf36c4&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Proof of Concept for Path Traversal in Apache Struts (\"CVE-2023-50164\")</div>",
-            "url": "https://github.com/dwisiswant0/cve-2023-50164-poc",
-            "title": "dwisiswant0/cve-2023-50164-poc: Proof of Concept for Path Traversal in Apache Struts (\"CVE-2023-50164\")",
-            "date_modified": "2023-12-18T03:00:55.000Z",
-            "date_published": "2023-12-17T14:18:54.000Z",
-            "author": {
-                "name": "dwisiswant0",
-                "url": "https://github.com/dwisiswant0"
-            }
-        },
-        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/60910202?u=77c9085a194240a2ec0ae277dbef0e00430cd0c6&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>An access control flaw was identified, potentially leading to unauthorized access to critical webservice endpoints within Joomla! CMS versions 4.0.0 through 4.2.7. This vulnerability could be exploited by attackers to gain unauthorized access to sensitive information or perform unauthorized actions.</div>",
             "url": "https://github.com/JeneralMotors/CVE-2023-23752",
             "title": "JeneralMotors/CVE-2023-23752: An access control flaw was identified, potentially leading to unauthorized access to critical webservice endpoints within Joomla! CMS versions 4.0.0 through 4.2.7. This vulnerability could be exploited by attackers to gain unauthorized access to sensitive information or perform unauthorized actions.",
@@ -39,10 +28,21 @@
             }
         },
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/25837540?u=a0b1cc915fef96820c1f053cfbf8094d2acf36c4&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Proof of Concept for Path Traversal in Apache Struts (\"CVE-2023-50164\")</div>",
+            "url": "https://github.com/dwisiswant0/cve-2023-50164-poc",
+            "title": "dwisiswant0/cve-2023-50164-poc: Proof of Concept for Path Traversal in Apache Struts (\"CVE-2023-50164\")",
+            "date_modified": "2023-12-18T03:00:55.000Z",
+            "date_published": "2023-12-17T14:18:54.000Z",
+            "author": {
+                "name": "dwisiswant0",
+                "url": "https://github.com/dwisiswant0"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/88535377?u=8a48a963ff9041c5b6823c72395159e958a4c5b2&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>MajorDoMo Unauthenticated RCE: Deep Dive &amp; Exploitation Techniques</div>",
             "url": "https://github.com/Chocapikk/CVE-2023-50917",
             "title": "Chocapikk/CVE-2023-50917: MajorDoMo Unauthenticated RCE: Deep Dive & Exploitation Techniques",
-            "date_modified": "2023-12-18T02:37:44.000Z",
+            "date_modified": "2023-12-18T03:08:27.000Z",
             "date_published": "2023-10-29T05:10:09.000Z",
             "author": {
                 "name": "Chocapikk",
