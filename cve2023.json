@@ -17,6 +17,17 @@
             }
         },
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/4434533?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Simulates CVE-2023-4966 Citrix Bleed overread bug</div>",
+            "url": "https://github.com/morganwdavis/overread",
+            "title": "morganwdavis/overread: Simulates CVE-2023-4966 Citrix Bleed overread bug",
+            "date_modified": "2023-12-17T12:48:40.000Z",
+            "date_published": "2023-12-16T21:55:04.000Z",
+            "author": {
+                "name": "morganwdavis",
+                "url": "https://github.com/morganwdavis"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/60910202?u=77c9085a194240a2ec0ae277dbef0e00430cd0c6&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>An access control flaw was identified, potentially leading to unauthorized access to critical webservice endpoints within Joomla! CMS versions 4.0.0 through 4.2.7. This vulnerability could be exploited by attackers to gain unauthorized access to sensitive information or perform unauthorized actions.</div>",
             "url": "https://github.com/JeneralMotors/CVE-2023-23752",
             "title": "JeneralMotors/CVE-2023-23752: An access control flaw was identified, potentially leading to unauthorized access to critical webservice endpoints within Joomla! CMS versions 4.0.0 through 4.2.7. This vulnerability could be exploited by attackers to gain unauthorized access to sensitive information or perform unauthorized actions.",
@@ -42,7 +53,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/25837540?u=a0b1cc915fef96820c1f053cfbf8094d2acf36c4&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Proof of Concept for Path Traversal in Apache Struts (\"CVE-2023-50164\")</div>",
             "url": "https://github.com/dwisiswant0/cve-2023-50164-poc",
             "title": "dwisiswant0/cve-2023-50164-poc: Proof of Concept for Path Traversal in Apache Struts (\"CVE-2023-50164\")",
-            "date_modified": "2023-12-18T03:00:55.000Z",
+            "date_modified": "2023-12-18T06:06:29.000Z",
             "date_published": "2023-12-17T14:18:54.000Z",
             "author": {
                 "name": "dwisiswant0",
@@ -80,17 +91,6 @@
             "author": {
                 "name": "geraldoalcantara",
                 "url": "https://github.com/geraldoalcantara"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/4434533?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Simulates CVE-2023-4966 Citrix Bleed overread bug</div>",
-            "url": "https://github.com/morganwdavis/overread",
-            "title": "morganwdavis/overread: Simulates CVE-2023-4966 Citrix Bleed overread bug",
-            "date_modified": "2023-12-17T12:48:40.000Z",
-            "date_published": "2023-12-16T21:55:04.000Z",
-            "author": {
-                "name": "morganwdavis",
-                "url": "https://github.com/morganwdavis"
             }
         },
         {
