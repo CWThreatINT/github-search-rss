@@ -6,6 +6,28 @@
     "description": "CVE-2023 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/60910202?u=77c9085a194240a2ec0ae277dbef0e00430cd0c6&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>An access control flaw was identified, potentially leading to unauthorized access to critical webservice endpoints within Joomla! CMS versions 4.0.0 through 4.2.7. This vulnerability could be exploited by attackers to gain unauthorized access to sensitive information or perform unauthorized actions.</div>",
+            "url": "https://github.com/JeneralMotors/CVE-2023-23752",
+            "title": "JeneralMotors/CVE-2023-23752: An access control flaw was identified, potentially leading to unauthorized access to critical webservice endpoints within Joomla! CMS versions 4.0.0 through 4.2.7. This vulnerability could be exploited by attackers to gain unauthorized access to sensitive information or perform unauthorized actions.",
+            "date_modified": "2023-12-18T01:42:50.000Z",
+            "date_published": "2023-12-18T00:47:27.000Z",
+            "author": {
+                "name": "JeneralMotors",
+                "url": "https://github.com/JeneralMotors"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/88535377?u=8a48a963ff9041c5b6823c72395159e958a4c5b2&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>MajorDoMo Unauthenticated RCE: Deep Dive &amp; Exploitation Techniques</div>",
+            "url": "https://github.com/Chocapikk/CVE-2023-50917",
+            "title": "Chocapikk/CVE-2023-50917: MajorDoMo Unauthenticated RCE: Deep Dive & Exploitation Techniques",
+            "date_modified": "2023-12-18T01:14:47.000Z",
+            "date_published": "2023-10-29T05:10:09.000Z",
+            "author": {
+                "name": "Chocapikk",
+                "url": "https://github.com/Chocapikk"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/18195825?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023</div>",
             "url": "https://github.com/CVEProject/cvelist",
             "title": "CVEProject/cvelist: Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023",
@@ -31,7 +53,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/25837540?u=a0b1cc915fef96820c1f053cfbf8094d2acf36c4&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Proof of Concept for Path Traversal in Apache Struts (\"CVE-2023-50164\")</div>",
             "url": "https://github.com/dwisiswant0/cve-2023-50164-poc",
             "title": "dwisiswant0/cve-2023-50164-poc: Proof of Concept for Path Traversal in Apache Struts (\"CVE-2023-50164\")",
-            "date_modified": "2023-12-18T00:12:04.000Z",
+            "date_modified": "2023-12-18T00:59:06.000Z",
             "date_published": "2023-12-17T14:18:54.000Z",
             "author": {
                 "name": "dwisiswant0",
@@ -201,28 +223,6 @@
             "author": {
                 "name": "Chocapikk",
                 "url": "https://github.com/Chocapikk"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/70909693?u=623cdd16249501e7d4f74b743a81017fc3b4de3a&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A PoC exploit for CVE-2023-32315 - Openfire Authentication Bypass</div>",
-            "url": "https://github.com/K3ysTr0K3R/CVE-2023-32315-EXPLOIT",
-            "title": "K3ysTr0K3R/CVE-2023-32315-EXPLOIT: A PoC exploit for CVE-2023-32315 - Openfire Authentication Bypass",
-            "date_modified": "2023-12-15T17:39:52.000Z",
-            "date_published": "2023-12-15T16:30:51.000Z",
-            "author": {
-                "name": "K3ysTr0K3R",
-                "url": "https://github.com/K3ysTr0K3R"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/105647610?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>IBM i Access Client Solution &lt; 1.1.9.4 - Local server broken access control.</div>",
-            "url": "https://github.com/afine-com/CVE-2023-45184",
-            "title": "afine-com/CVE-2023-45184: IBM i Access Client Solution < 1.1.9.4 - Local server broken access control.",
-            "date_modified": "2023-12-15T14:06:24.000Z",
-            "date_published": "2023-12-15T14:04:32.000Z",
-            "author": {
-                "name": "afine-com",
-                "url": "https://github.com/afine-com"
             }
         }
     ]
