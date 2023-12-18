@@ -6,10 +6,21 @@
     "description": "CVE-2023 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/18195825?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023</div>",
+            "url": "https://github.com/CVEProject/cvelist",
+            "title": "CVEProject/cvelist: Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023",
+            "date_modified": "2023-12-16T23:02:24.000Z",
+            "date_published": "2020-11-02T19:30:55.000Z",
+            "author": {
+                "name": "CVEProject",
+                "url": "https://github.com/CVEProject"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/25837540?u=a0b1cc915fef96820c1f053cfbf8094d2acf36c4&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Proof of Concept for Path Traversal in Apache Struts (\"CVE-2023-50164\")</div>",
             "url": "https://github.com/dwisiswant0/cve-2023-50164-poc",
             "title": "dwisiswant0/cve-2023-50164-poc: Proof of Concept for Path Traversal in Apache Struts (\"CVE-2023-50164\")",
-            "date_modified": "2023-12-18T02:16:08.000Z",
+            "date_modified": "2023-12-18T03:00:55.000Z",
             "date_published": "2023-12-17T14:18:54.000Z",
             "author": {
                 "name": "dwisiswant0",
@@ -31,22 +42,11 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/88535377?u=8a48a963ff9041c5b6823c72395159e958a4c5b2&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>MajorDoMo Unauthenticated RCE: Deep Dive &amp; Exploitation Techniques</div>",
             "url": "https://github.com/Chocapikk/CVE-2023-50917",
             "title": "Chocapikk/CVE-2023-50917: MajorDoMo Unauthenticated RCE: Deep Dive & Exploitation Techniques",
-            "date_modified": "2023-12-18T01:14:47.000Z",
+            "date_modified": "2023-12-18T02:37:44.000Z",
             "date_published": "2023-10-29T05:10:09.000Z",
             "author": {
                 "name": "Chocapikk",
                 "url": "https://github.com/Chocapikk"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/18195825?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023</div>",
-            "url": "https://github.com/CVEProject/cvelist",
-            "title": "CVEProject/cvelist: Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023",
-            "date_modified": "2023-12-16T23:02:24.000Z",
-            "date_published": "2020-11-02T19:30:55.000Z",
-            "author": {
-                "name": "CVEProject",
-                "url": "https://github.com/CVEProject"
             }
         },
         {
