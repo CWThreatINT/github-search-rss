@@ -6,6 +6,17 @@
     "description": "CVE-2023 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/34535031?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
+            "url": "https://github.com/imperva/CVE-2023-22524",
+            "title": "imperva/CVE-2023-22524",
+            "date_modified": "2023-12-15T16:41:50.000Z",
+            "date_published": "2023-12-14T09:12:11.000Z",
+            "author": {
+                "name": "imperva",
+                "url": "https://github.com/imperva"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/63901950?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
             "url": "https://github.com/Thirukrishnan/CVE-2023-50164-Apache-Struts-RCE",
             "title": "Thirukrishnan/CVE-2023-50164-Apache-Struts-RCE",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "geraldoalcantara",
                 "url": "https://github.com/geraldoalcantara"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/47448636?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>this is a script that exploits the CVE-2023-27163 vulnerability which is request-basket SSRF</div>",
-            "url": "https://github.com/KharimMchatta/basketcraft",
-            "title": "KharimMchatta/basketcraft: this is a script that exploits the CVE-2023-27163 vulnerability which is request-basket SSRF",
-            "date_modified": "2023-12-20T06:44:09.000Z",
-            "date_published": "2023-12-20T06:29:18.000Z",
-            "author": {
-                "name": "KharimMchatta",
-                "url": "https://github.com/KharimMchatta"
             }
         }
     ]
