@@ -138,17 +138,6 @@
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/30971092?u=5e5b6c1558a0b981fead9fa1330b70805144056f&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
-            "url": "https://github.com/maixuany/detect_CVE_2021_31166",
-            "title": "maixuany/detect_CVE_2021_31166",
-            "date_modified": "2023-11-29T05:54:39.000Z",
-            "date_published": "2023-11-29T05:51:21.000Z",
-            "author": {
-                "name": "maixuany",
-                "url": "https://github.com/maixuany"
-            }
-        },
-        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/18383407?u=c9d1276bd9ccb8b06b724c3057b1ef683fa81de7&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2021-20253: Privilege Escalation via Job Isolation Escape in Ansible Tower</div>",
             "url": "https://github.com/mbadanoiu/CVE-2021-20253",
             "title": "mbadanoiu/CVE-2021-20253: CVE-2021-20253: Privilege Escalation via Job Isolation Escape in Ansible Tower",
@@ -223,6 +212,17 @@
             "author": {
                 "name": "Part01-Pai",
                 "url": "https://github.com/Part01-Pai"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/44971422?u=ef8e1ea0a2d161599febbca2a7d1492bedd125e4&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Path Traversal Vulnerability in Systematica SMTP Adapter and other sub-products</div>",
+            "url": "https://github.com/fbkcs/CVE-2021-35975",
+            "title": "fbkcs/CVE-2021-35975: Path Traversal Vulnerability in Systematica SMTP Adapter and other sub-products",
+            "date_modified": "2023-11-17T08:47:21.000Z",
+            "date_published": "2023-11-17T08:47:20.000Z",
+            "author": {
+                "name": "fbkcs",
+                "url": "https://github.com/fbkcs"
             }
         }
     ]
