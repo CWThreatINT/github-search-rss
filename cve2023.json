@@ -6,6 +6,28 @@
     "description": "CVE-2023 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/47448636?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>this is a script that exploits the CVE-2023-27163 vulnerability which is request-basket SSRF</div>",
+            "url": "https://github.com/KharimMchatta/basketcraft",
+            "title": "KharimMchatta/basketcraft: this is a script that exploits the CVE-2023-27163 vulnerability which is request-basket SSRF",
+            "date_modified": "2023-12-20T06:44:09.000Z",
+            "date_published": "2023-12-20T06:29:18.000Z",
+            "author": {
+                "name": "KharimMchatta",
+                "url": "https://github.com/KharimMchatta"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/82941858?u=6af58ff55af168b10475f5babc61d9f10a81e54c&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>list CVE - 2023</div>",
+            "url": "https://github.com/ayhan-dev/CVE-LIST",
+            "title": "ayhan-dev/CVE-LIST: list CVE - 2023",
+            "date_modified": "2023-12-01T12:17:23.000Z",
+            "date_published": "2023-11-28T06:54:25.000Z",
+            "author": {
+                "name": "ayhan-dev",
+                "url": "https://github.com/ayhan-dev"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/141289960?u=3436c95febbf97e9a7d470f024cb0aa57a6b6f49&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2023-32629 &amp; CVE-2023-2640  Ubuntu Privilege Escalation POC</div>",
             "url": "https://github.com/Umutkgz/CVE-2023-32629-CVE-2023-2640-Ubuntu-Privilege-Escalation-POC",
             "title": "Umutkgz/CVE-2023-32629-CVE-2023-2640-Ubuntu-Privilege-Escalation-POC: CVE-2023-32629 & CVE-2023-2640  Ubuntu Privilege Escalation POC",
@@ -53,7 +75,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/63357997?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
             "url": "https://github.com/R41N3RZUF477/CVE-2023-41772",
             "title": "R41N3RZUF477/CVE-2023-41772",
-            "date_modified": "2023-12-19T14:10:49.000Z",
+            "date_modified": "2023-12-20T06:24:25.000Z",
             "date_published": "2023-12-19T11:21:12.000Z",
             "author": {
                 "name": "R41N3RZUF477",
@@ -97,7 +119,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/5418686?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>This tool calculates tricky canonical huffman histogram for CVE-2023-4863.</div>",
             "url": "https://github.com/caoweiquan322/NotEnough",
             "title": "caoweiquan322/NotEnough: This tool calculates tricky canonical huffman histogram for CVE-2023-4863.",
-            "date_modified": "2023-12-20T02:18:04.000Z",
+            "date_modified": "2023-12-20T06:26:51.000Z",
             "date_published": "2023-12-19T01:32:45.000Z",
             "author": {
                 "name": "caoweiquan322",
@@ -201,28 +223,6 @@
             "author": {
                 "name": "geraldoalcantara",
                 "url": "https://github.com/geraldoalcantara"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/152064551?u=edccd632a5a85be84ac80ed10a3bf6b713aadd4f&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Multiple SQL injection vulnerabilities in /customer_support/ajax.php?action=save_ticket in Customer Support System 1.0 allow authenticated attackers to execute arbitrary SQL commands via department_id, customer_id and subject.</div>",
-            "url": "https://github.com/geraldoalcantara/CVE-2023-50070",
-            "title": "geraldoalcantara/CVE-2023-50070: Multiple SQL injection vulnerabilities in /customer_support/ajax.php?action=save_ticket in Customer Support System 1.0 allow authenticated attackers to execute arbitrary SQL commands via department_id, customer_id and subject.",
-            "date_modified": "2023-12-15T22:08:02.000Z",
-            "date_published": "2023-12-15T20:37:39.000Z",
-            "author": {
-                "name": "geraldoalcantara",
-                "url": "https://github.com/geraldoalcantara"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/4434533?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Simulates CVE-2023-4966 Citrix Bleed overread bug</div>",
-            "url": "https://github.com/morganwdavis/overread",
-            "title": "morganwdavis/overread: Simulates CVE-2023-4966 Citrix Bleed overread bug",
-            "date_modified": "2023-12-17T12:48:40.000Z",
-            "date_published": "2023-12-16T21:55:04.000Z",
-            "author": {
-                "name": "morganwdavis",
-                "url": "https://github.com/morganwdavis"
             }
         }
     ]
