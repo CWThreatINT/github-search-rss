@@ -6,6 +6,28 @@
     "description": "CVE-2022 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/33234808?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2022-32118 - Arox-XSS</div>",
+            "url": "https://github.com/JC175/CVE-2022-32118",
+            "title": "JC175/CVE-2022-32118: CVE-2022-32118 - Arox-XSS",
+            "date_modified": "2023-04-04T14:09:56.000Z",
+            "date_published": "2022-04-06T04:12:03.000Z",
+            "author": {
+                "name": "JC175",
+                "url": "https://github.com/JC175"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/33234808?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2022-32119 - Arox-Unrestricted-File-Upload</div>",
+            "url": "https://github.com/JC175/CVE-2022-32119",
+            "title": "JC175/CVE-2022-32119: CVE-2022-32119 - Arox-Unrestricted-File-Upload",
+            "date_modified": "2023-09-28T11:37:43.000Z",
+            "date_published": "2022-04-06T04:33:47.000Z",
+            "author": {
+                "name": "JC175",
+                "url": "https://github.com/JC175"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/18383407?u=c9d1276bd9ccb8b06b724c3057b1ef683fa81de7&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2022-29063: Java Deserialization via RMI Connection in Apache OfBiz</div>",
             "url": "https://github.com/mbadanoiu/CVE-2022-29063",
             "title": "mbadanoiu/CVE-2022-29063: CVE-2022-29063: Java Deserialization via RMI Connection in Apache OfBiz",
@@ -201,28 +223,6 @@
             "author": {
                 "name": "hotblac",
                 "url": "https://github.com/hotblac"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/12976017?u=6d3d423fda6a56643a0ca1acae5223cdf08a3c28&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>This is a one-time signature verification bypass. For persistent signature verification bypass, check <a href=\"https://github.com/TomKing062/CVE-2022-38691_38692\">https://github.com/TomKing062/CVE-2022-38691_38692</a></div>",
-            "url": "https://github.com/TomKing062/CVE-2022-38694_unlock_bootloader",
-            "title": "TomKing062/CVE-2022-38694_unlock_bootloader: This is a one-time signature verification bypass. For persistent signature verification bypass, check https://github.com/TomKing062/CVE-2022-38691_38692",
-            "date_modified": "2023-12-18T11:21:06.000Z",
-            "date_published": "2023-06-10T08:31:26.000Z",
-            "author": {
-                "name": "TomKing062",
-                "url": "https://github.com/TomKing062"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/18383407?u=c9d1276bd9ccb8b06b724c3057b1ef683fa81de7&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2022-40635: Groovy Sandbox Bypass in CrafterCMS</div>",
-            "url": "https://github.com/mbadanoiu/CVE-2022-40635",
-            "title": "mbadanoiu/CVE-2022-40635: CVE-2022-40635: Groovy Sandbox Bypass in CrafterCMS",
-            "date_modified": "2023-12-08T07:22:30.000Z",
-            "date_published": "2023-12-01T10:28:27.000Z",
-            "author": {
-                "name": "mbadanoiu",
-                "url": "https://github.com/mbadanoiu"
             }
         }
     ]
