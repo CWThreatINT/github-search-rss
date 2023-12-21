@@ -94,6 +94,17 @@
             }
         },
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/106772368?u=f46a99713b05334e4443c804d113e5ca1c3bee3e&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Instructions for exploiting vulnerabilities CVE-2021-44228 and CVE-2023-46604</div>",
+            "url": "https://github.com/dcm2406/CVE-Lab",
+            "title": "dcm2406/CVE-Lab: Instructions for exploiting vulnerabilities CVE-2021-44228 and CVE-2023-46604",
+            "date_modified": "2023-12-21T18:13:35.000Z",
+            "date_published": "2023-12-07T08:02:53.000Z",
+            "author": {
+                "name": "dcm2406",
+                "url": "https://github.com/dcm2406"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/62462135?u=1cffbda3d4ccc4b3e4f5b918e7955bc6c1d81d1d&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Highly configurable tool to check a server's vulnerability against CVE-2023-44487 by rapidly sending HEADERS and RST_STREAM frames and documenting the server's responses.</div>",
             "url": "https://github.com/ndrscodes/http2-rst-stream-attacker",
             "title": "ndrscodes/http2-rst-stream-attacker: Highly configurable tool to check a server's vulnerability against CVE-2023-44487 by rapidly sending HEADERS and RST_STREAM frames and documenting the server's responses.",
@@ -102,17 +113,6 @@
             "author": {
                 "name": "ndrscodes",
                 "url": "https://github.com/ndrscodes"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/106772368?u=f46a99713b05334e4443c804d113e5ca1c3bee3e&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Instructions for exploiting vulnerabilities CVE-2021-44228 and CVE-2023-46604</div>",
-            "url": "https://github.com/dcm2406/CVELab",
-            "title": "dcm2406/CVELab: Instructions for exploiting vulnerabilities CVE-2021-44228 and CVE-2023-46604",
-            "date_modified": "2023-12-19T03:56:52.000Z",
-            "date_published": "2023-12-07T08:02:53.000Z",
-            "author": {
-                "name": "dcm2406",
-                "url": "https://github.com/dcm2406"
             }
         },
         {
