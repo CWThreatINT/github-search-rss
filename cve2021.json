@@ -6,6 +6,17 @@
     "description": "CVE-2021 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/47946047?u=803a3c1ff50db92b0755cf61835b2ab0f784bb73&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Apache 2.4.50 - Path Traversal or Remote Code Execution</div>",
+            "url": "https://github.com/Rubikcuv5/cve-2021-42013",
+            "title": "Rubikcuv5/cve-2021-42013: Apache 2.4.50 - Path Traversal or Remote Code Execution",
+            "date_modified": "2023-12-21T11:20:39.000Z",
+            "date_published": "2023-12-21T11:20:39.000Z",
+            "author": {
+                "name": "Rubikcuv5",
+                "url": "https://github.com/Rubikcuv5"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/2387841?u=082c1655d763023ea65049680617a2af381c6b50&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Tool that runs a test to check whether one of your applications is affected by the recent vulnerabilities in log4j: CVE-2021-44228 and CVE-2021-45046</div>",
             "url": "https://github.com/alexbakker/log4shell-tools",
             "title": "alexbakker/log4shell-tools: Tool that runs a test to check whether one of your applications is affected by the recent vulnerabilities in log4j: CVE-2021-44228 and CVE-2021-45046",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "Part01-Pai",
                 "url": "https://github.com/Part01-Pai"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/44971422?u=ef8e1ea0a2d161599febbca2a7d1492bedd125e4&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Path Traversal Vulnerability in Systematica SMTP Adapter and other sub-products</div>",
-            "url": "https://github.com/fbkcs/CVE-2021-35975",
-            "title": "fbkcs/CVE-2021-35975: Path Traversal Vulnerability in Systematica SMTP Adapter and other sub-products",
-            "date_modified": "2023-11-17T08:47:21.000Z",
-            "date_published": "2023-11-17T08:47:20.000Z",
-            "author": {
-                "name": "fbkcs",
-                "url": "https://github.com/fbkcs"
             }
         }
     ]
