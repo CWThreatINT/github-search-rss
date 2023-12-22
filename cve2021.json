@@ -9,7 +9,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/106772368?u=f46a99713b05334e4443c804d113e5ca1c3bee3e&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Instructions for exploiting vulnerabilities CVE-2021-44228 and CVE-2023-46604</div>",
             "url": "https://github.com/dcm2406/CVE-Lab",
             "title": "dcm2406/CVE-Lab: Instructions for exploiting vulnerabilities CVE-2021-44228 and CVE-2023-46604",
-            "date_modified": "2023-12-21T18:13:35.000Z",
+            "date_modified": "2023-12-22T02:16:15.000Z",
             "date_published": "2023-12-07T08:02:53.000Z",
             "author": {
                 "name": "dcm2406",
@@ -25,17 +25,6 @@
             "author": {
                 "name": "dcm2406",
                 "url": "https://github.com/dcm2406"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/5523049?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Directory Traversal and Arbitrary File Read on Grafana</div>",
-            "url": "https://github.com/wagneralves/CVE-2021-43798",
-            "title": "wagneralves/CVE-2021-43798: Directory Traversal and Arbitrary File Read on Grafana",
-            "date_modified": "2023-12-21T15:44:04.000Z",
-            "date_published": "2023-12-21T14:24:53.000Z",
-            "author": {
-                "name": "wagneralves",
-                "url": "https://github.com/wagneralves"
             }
         },
         {
@@ -149,17 +138,6 @@
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/96992046?u=10ff657463449006c9ad8d00672aeff375f7d18c&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Log4j2 LDAP 취약점 테스트 (CVE-2021-44228)</div>",
-            "url": "https://github.com/mklinkj/log4j2-test",
-            "title": "mklinkj/log4j2-test: Log4j2 LDAP 취약점 테스트 (CVE-2021-44228)",
-            "date_modified": "2022-01-09T19:59:25.000Z",
-            "date_published": "2022-01-03T04:36:41.000Z",
-            "author": {
-                "name": "mklinkj",
-                "url": "https://github.com/mklinkj"
-            }
-        },
-        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/18383407?u=c9d1276bd9ccb8b06b724c3057b1ef683fa81de7&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2021-20253: Privilege Escalation via Job Isolation Escape in Ansible Tower</div>",
             "url": "https://github.com/mbadanoiu/CVE-2021-20253",
             "title": "mbadanoiu/CVE-2021-20253: CVE-2021-20253: Privilege Escalation via Job Isolation Escape in Ansible Tower",
@@ -223,6 +201,28 @@
             "author": {
                 "name": "Iris288",
                 "url": "https://github.com/Iris288"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/45894602?u=9bf83fdd13c8bbb215229fb7ddda3d3ab8a2b40a&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Polkit提权包 CVE-2021-4034 （供需要的人方便使用</div>",
+            "url": "https://github.com/Part01-Pai/Polkit-Permission-promotion-compiled",
+            "title": "Part01-Pai/Polkit-Permission-promotion-compiled: Polkit提权包 CVE-2021-4034 （供需要的人方便使用",
+            "date_modified": "2023-11-20T03:30:46.000Z",
+            "date_published": "2023-11-20T03:24:05.000Z",
+            "author": {
+                "name": "Part01-Pai",
+                "url": "https://github.com/Part01-Pai"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/44971422?u=ef8e1ea0a2d161599febbca2a7d1492bedd125e4&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Path Traversal Vulnerability in Systematica SMTP Adapter and other sub-products</div>",
+            "url": "https://github.com/fbkcs/CVE-2021-35975",
+            "title": "fbkcs/CVE-2021-35975: Path Traversal Vulnerability in Systematica SMTP Adapter and other sub-products",
+            "date_modified": "2023-11-17T08:47:21.000Z",
+            "date_published": "2023-11-17T08:47:20.000Z",
+            "author": {
+                "name": "fbkcs",
+                "url": "https://github.com/fbkcs"
             }
         }
     ]
