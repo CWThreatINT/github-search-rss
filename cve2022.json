@@ -6,6 +6,17 @@
     "description": "CVE-2022 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/107951097?u=f034b606ebb16efd2fb6d8f16e986957765f1b52&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Exploit for CVE-2022-36779 authenticated Command Injection</div>",
+            "url": "https://github.com/rootDR/CVE-2022-36779",
+            "title": "rootDR/CVE-2022-36779: Exploit for CVE-2022-36779 authenticated Command Injection",
+            "date_modified": "2023-12-24T10:49:43.000Z",
+            "date_published": "2023-12-24T10:46:50.000Z",
+            "author": {
+                "name": "rootDR",
+                "url": "https://github.com/rootDR"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/33234808?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2022-32118 - Arox-XSS</div>",
             "url": "https://github.com/JC175/CVE-2022-32118",
             "title": "JC175/CVE-2022-32118: CVE-2022-32118 - Arox-XSS",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "CygnusX-26",
                 "url": "https://github.com/CygnusX-26"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/4406140?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Demonstration of CVE-2022-31692 authorization bypass in Spring Security</div>",
-            "url": "https://github.com/hotblac/cve-2022-31692",
-            "title": "hotblac/cve-2022-31692: Demonstration of CVE-2022-31692 authorization bypass in Spring Security",
-            "date_modified": "2023-10-29T17:31:49.000Z",
-            "date_published": "2023-10-29T17:31:23.000Z",
-            "author": {
-                "name": "hotblac",
-                "url": "https://github.com/hotblac"
             }
         }
     ]
