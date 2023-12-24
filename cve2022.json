@@ -6,6 +6,17 @@
     "description": "CVE-2022 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/19479860?u=04677f490e98d90064fe473310aa361e4275e780&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>SnakeYAML-CVE-2022-1471-POC</div>",
+            "url": "https://github.com/falconkei/snakeyaml_cve_poc",
+            "title": "falconkei/snakeyaml_cve_poc: SnakeYAML-CVE-2022-1471-POC",
+            "date_modified": "2023-05-08T14:47:41.000Z",
+            "date_published": "2023-05-08T14:46:22.000Z",
+            "author": {
+                "name": "falconkei",
+                "url": "https://github.com/falconkei"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/107951097?u=f034b606ebb16efd2fb6d8f16e986957765f1b52&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Exploit for CVE-2022-36779 authenticated Command Injection</div>",
             "url": "https://github.com/rootDR/CVE-2022-36779",
             "title": "rootDR/CVE-2022-36779: Exploit for CVE-2022-36779 authenticated Command Injection",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "hacksysteam",
                 "url": "https://github.com/hacksysteam"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/42686923?u=f8e370f29568ee77f02a16565ee853b6588957c2&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
-            "url": "https://github.com/CygnusX-26/CVE-2022-44268-fixed-PoC",
-            "title": "CygnusX-26/CVE-2022-44268-fixed-PoC",
-            "date_modified": "2023-12-04T08:48:34.000Z",
-            "date_published": "2023-12-04T08:48:28.000Z",
-            "author": {
-                "name": "CygnusX-26",
-                "url": "https://github.com/CygnusX-26"
             }
         }
     ]
