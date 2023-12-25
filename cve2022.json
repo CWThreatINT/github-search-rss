@@ -6,22 +6,33 @@
     "description": "CVE-2022 FEED on GitHub",
     "items": [
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/5091265?u=87dc5059a1638cd35535cde142cd4e3248b02eb4&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2022-40347: Intern Record System - 'phone', 'email', 'deptType' and 'name' SQL Injection (Unauthenticated)</div>",
-            "url": "https://github.com/h4md153v63n/CVE-2022-40347_Intern-Record-System-phone-V1.0-SQL-Injection-Vulnerability-Unauthenticated",
-            "title": "h4md153v63n/CVE-2022-40347_Intern-Record-System-phone-V1.0-SQL-Injection-Vulnerability-Unauthenticated: CVE-2022-40347: Intern Record System - 'phone', 'email', 'deptType' and 'name' SQL Injection (Unauthenticated)",
-            "date_modified": "2023-04-08T19:29:19.000Z",
-            "date_published": "2023-02-16T02:16:51.000Z",
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/5091265?u=87dc5059a1638cd35535cde142cd4e3248b02eb4&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2022-40032: Simple Task Managing System - 'login' and 'password' SQL Injection (Unauthenticated)</div>",
+            "url": "https://github.com/h4md153v63n/CVE-2022-40032_Simple-Task-Managing-System-V1.0-SQL-Injection-Vulnerability-Unauthenticated",
+            "title": "h4md153v63n/CVE-2022-40032_Simple-Task-Managing-System-V1.0-SQL-Injection-Vulnerability-Unauthenticated: CVE-2022-40032: Simple Task Managing System - 'login' and 'password' SQL Injection (Unauthenticated)",
+            "date_modified": "2023-04-08T19:29:21.000Z",
+            "date_published": "2023-02-16T01:42:48.000Z",
             "author": {
                 "name": "h4md153v63n",
                 "url": "https://github.com/h4md153v63n"
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/5091265?u=87dc5059a1638cd35535cde142cd4e3248b02eb4&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2022-40032: Simple Task Managing System - 'login' and 'password' SQL Injection (Unauthenticated)</div>",
-            "url": "https://github.com/h4md153v63n/CVE-2022-40032_Simple-Task-Managing-System-V1.0-SQL-Injection-Vulnerability-Unauthenticated",
-            "title": "h4md153v63n/CVE-2022-40032_Simple-Task-Managing-System-V1.0-SQL-Injection-Vulnerability-Unauthenticated: CVE-2022-40032: Simple Task Managing System - 'login' and 'password' SQL Injection (Unauthenticated)",
-            "date_modified": "2023-04-08T19:29:21.000Z",
-            "date_published": "2023-02-16T01:42:48.000Z",
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/5091265?u=87dc5059a1638cd35535cde142cd4e3248b02eb4&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2022-40348: Intern Record System - 'name' and 'email' Cross-site Scripting (Unauthenticated)</div>",
+            "url": "https://github.com/h4md153v63n/CVE-2022-40348_Intern-Record-System-Cross-site-Scripting-V1.0-Vulnerability-Unauthenticated",
+            "title": "h4md153v63n/CVE-2022-40348_Intern-Record-System-Cross-site-Scripting-V1.0-Vulnerability-Unauthenticated: CVE-2022-40348: Intern Record System - 'name' and 'email' Cross-site Scripting (Unauthenticated)",
+            "date_modified": "2023-04-08T19:29:16.000Z",
+            "date_published": "2023-02-16T02:29:33.000Z",
+            "author": {
+                "name": "h4md153v63n",
+                "url": "https://github.com/h4md153v63n"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/5091265?u=87dc5059a1638cd35535cde142cd4e3248b02eb4&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2022-40347: Intern Record System - 'phone', 'email', 'deptType' and 'name' SQL Injection (Unauthenticated)</div>",
+            "url": "https://github.com/h4md153v63n/CVE-2022-40347_Intern-Record-System-phone-V1.0-SQL-Injection-Vulnerability-Unauthenticated",
+            "title": "h4md153v63n/CVE-2022-40347_Intern-Record-System-phone-V1.0-SQL-Injection-Vulnerability-Unauthenticated: CVE-2022-40347: Intern Record System - 'phone', 'email', 'deptType' and 'name' SQL Injection (Unauthenticated)",
+            "date_modified": "2023-04-08T19:29:19.000Z",
+            "date_published": "2023-02-16T02:16:51.000Z",
             "author": {
                 "name": "h4md153v63n",
                 "url": "https://github.com/h4md153v63n"
@@ -212,17 +223,6 @@
             "author": {
                 "name": "Schira4396",
                 "url": "https://github.com/Schira4396"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/1588395?u=36f801f30d7d5180e1f78dfc8d72d1f2f33ef24a&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Detect images that likely exploit CVE-2022-44268</div>",
-            "url": "https://github.com/jnschaeffer/cve-2022-44268-detector",
-            "title": "jnschaeffer/cve-2022-44268-detector: Detect images that likely exploit CVE-2022-44268",
-            "date_modified": "2023-04-14T14:13:05.000Z",
-            "date_published": "2023-02-04T01:35:08.000Z",
-            "author": {
-                "name": "jnschaeffer",
-                "url": "https://github.com/jnschaeffer"
             }
         }
     ]
