@@ -6,14 +6,47 @@
     "description": "CVE-2023 FEED on GitHub",
     "items": [
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/18195825?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023</div>",
-            "url": "https://github.com/CVEProject/cvelist",
-            "title": "CVEProject/cvelist: Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023",
-            "date_modified": "2023-12-23T18:59:33.000Z",
-            "date_published": "2020-11-02T19:30:55.000Z",
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/80873500?u=4c3da53f1a4d2eefea25b7399a2d7b2f21c8515d&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2023-23752 Joomla Unauthenticated Information Disclosure</div>",
+            "url": "https://github.com/C1ph3rX13/CVE-2023-23752",
+            "title": "C1ph3rX13/CVE-2023-23752: CVE-2023-23752 Joomla Unauthenticated Information Disclosure",
+            "date_modified": "2023-12-13T03:32:32.000Z",
+            "date_published": "2023-12-13T03:13:54.000Z",
             "author": {
-                "name": "CVEProject",
-                "url": "https://github.com/CVEProject"
+                "name": "C1ph3rX13",
+                "url": "https://github.com/C1ph3rX13"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/154428592?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>URL Contamination Exploit Muted Java Drive-By downloads can transpire during the act of perusing a website, inaugurating an electronic mail communication.</div>",
+            "url": "https://github.com/desquezzee/Slient-Url-Exploit-Slient-Builder-Exploit-Database-Cve-2023-Malware",
+            "title": "desquezzee/Slient-Url-Exploit-Slient-Builder-Exploit-Database-Cve-2023-Malware: URL Contamination Exploit Muted Java Drive-By downloads can transpire during the act of perusing a website, inaugurating an electronic mail communication.",
+            "date_modified": "2023-12-20T11:50:41.000Z",
+            "date_published": "2023-12-20T11:48:22.000Z",
+            "author": {
+                "name": "desquezzee",
+                "url": "https://github.com/desquezzee"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/154428592?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A meticulous scrutiny of the Exploit PDFs innards exposes a network of malevolence, unveiling both the nefarious hyperlink and the URL that precipitates</div>",
+            "url": "https://github.com/desquezzee/Slient-PDF-FUD-Exploit-Slient-Builder-Exploit-Database-Cve-2023-Malware",
+            "title": "desquezzee/Slient-PDF-FUD-Exploit-Slient-Builder-Exploit-Database-Cve-2023-Malware: A meticulous scrutiny of the Exploit PDFs innards exposes a network of malevolence, unveiling both the nefarious hyperlink and the URL that precipitates",
+            "date_modified": "2023-12-20T11:50:26.000Z",
+            "date_published": "2023-12-20T11:48:22.000Z",
+            "author": {
+                "name": "desquezzee",
+                "url": "https://github.com/desquezzee"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/154523984?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>In the hushed galleries of the Silent JPG Exploit, a symphony shrouded in enigma unfurls—an opus named silent-jpg-exploit-2018—a title that reverberates through the annals of intrigue.</div>",
+            "url": "https://github.com/Mxcoders2s/Jpg-Png-Exploit-Slient-Builder-Exploit-Database-Cve-2023-Malware",
+            "title": "Mxcoders2s/Jpg-Png-Exploit-Slient-Builder-Exploit-Database-Cve-2023-Malware: In the hushed galleries of the Silent JPG Exploit, a symphony shrouded in enigma unfurls—an opus named silent-jpg-exploit-2018—a title that reverberates through the annals of intrigue.",
+            "date_modified": "2023-12-21T12:57:32.000Z",
+            "date_published": "2023-12-21T12:55:34.000Z",
+            "author": {
+                "name": "Mxcoders2s",
+                "url": "https://github.com/Mxcoders2s"
             }
         },
         {
@@ -50,14 +83,14 @@
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/154428592?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A meticulous scrutiny of the Exploit PDFs innards exposes a network of malevolence, unveiling both the nefarious hyperlink and the URL that precipitates</div>",
-            "url": "https://github.com/desquezzee/Slient-PDF-FUD-Exploit-Slient-Builder-Exploit-Database-Cve-2023-Malware",
-            "title": "desquezzee/Slient-PDF-FUD-Exploit-Slient-Builder-Exploit-Database-Cve-2023-Malware: A meticulous scrutiny of the Exploit PDFs innards exposes a network of malevolence, unveiling both the nefarious hyperlink and the URL that precipitates",
-            "date_modified": "2023-12-20T11:50:26.000Z",
-            "date_published": "2023-12-20T11:48:22.000Z",
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/154718593?u=45846793b1fbfe37160272ad945358e5d7477c1f&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Explore the depths of CVE-2023-6710 with our comprehensive Proof of Concept (PoC). This CVE, identified as a potential security vulnerability, has been meticulously examined to demonstrate its impact and provide a hands-on understanding of the associated risks.</div>",
+            "url": "https://github.com/DedSec-47/CVE-2023-6710",
+            "title": "DedSec-47/CVE-2023-6710: Explore the depths of CVE-2023-6710 with our comprehensive Proof of Concept (PoC). This CVE, identified as a potential security vulnerability, has been meticulously examined to demonstrate its impact and provide a hands-on understanding of the associated risks.",
+            "date_modified": "2023-12-25T09:50:24.000Z",
+            "date_published": "2023-12-25T09:50:23.000Z",
             "author": {
-                "name": "desquezzee",
-                "url": "https://github.com/desquezzee"
+                "name": "DedSec-47",
+                "url": "https://github.com/DedSec-47"
             }
         },
         {
@@ -72,25 +105,25 @@
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/154523984?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>In the hushed galleries of the Silent JPG Exploit, a symphony shrouded in enigma unfurls—an opus named silent-jpg-exploit-2018—a title that reverberates through the annals of intrigue.</div>",
-            "url": "https://github.com/Mxcoders2s/Jpg-Png-Exploit-Slient-Builder-Exploit-Database-Cve-2023-Malware",
-            "title": "Mxcoders2s/Jpg-Png-Exploit-Slient-Builder-Exploit-Database-Cve-2023-Malware: In the hushed galleries of the Silent JPG Exploit, a symphony shrouded in enigma unfurls—an opus named silent-jpg-exploit-2018—a title that reverberates through the annals of intrigue.",
-            "date_modified": "2023-12-21T12:57:32.000Z",
-            "date_published": "2023-12-21T12:55:34.000Z",
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/80873500?u=4c3da53f1a4d2eefea25b7399a2d7b2f21c8515d&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2023-28432 Minio Information isclosure Exploit</div>",
+            "url": "https://github.com/C1ph3rX13/CVE-2023-28432",
+            "title": "C1ph3rX13/CVE-2023-28432: CVE-2023-28432 Minio Information isclosure Exploit",
+            "date_modified": "2023-12-07T19:37:00.000Z",
+            "date_published": "2023-12-07T03:33:37.000Z",
             "author": {
-                "name": "Mxcoders2s",
-                "url": "https://github.com/Mxcoders2s"
+                "name": "C1ph3rX13",
+                "url": "https://github.com/C1ph3rX13"
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/154428592?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>URL Contamination Exploit Muted Java Drive-By downloads can transpire during the act of perusing a website, inaugurating an electronic mail communication.</div>",
-            "url": "https://github.com/desquezzee/Slient-Url-Exploit-Slient-Builder-Exploit-Database-Cve-2023-Malware",
-            "title": "desquezzee/Slient-Url-Exploit-Slient-Builder-Exploit-Database-Cve-2023-Malware: URL Contamination Exploit Muted Java Drive-By downloads can transpire during the act of perusing a website, inaugurating an electronic mail communication.",
-            "date_modified": "2023-12-20T11:50:41.000Z",
-            "date_published": "2023-12-20T11:48:22.000Z",
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/62462135?u=1cffbda3d4ccc4b3e4f5b918e7955bc6c1d81d1d&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Highly configurable tool to check a server's vulnerability against CVE-2023-44487 by rapidly sending HEADERS and RST_STREAM frames and documenting the server's responses.</div>",
+            "url": "https://github.com/ndrscodes/http2-rst-stream-attacker",
+            "title": "ndrscodes/http2-rst-stream-attacker: Highly configurable tool to check a server's vulnerability against CVE-2023-44487 by rapidly sending HEADERS and RST_STREAM frames and documenting the server's responses.",
+            "date_modified": "2023-12-21T07:11:51.000Z",
+            "date_published": "2023-11-08T20:56:22.000Z",
             "author": {
-                "name": "desquezzee",
-                "url": "https://github.com/desquezzee"
+                "name": "ndrscodes",
+                "url": "https://github.com/ndrscodes"
             }
         },
         {
@@ -102,6 +135,17 @@
             "author": {
                 "name": "Tachanka-zz",
                 "url": "https://github.com/Tachanka-zz"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/18195825?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023</div>",
+            "url": "https://github.com/CVEProject/cvelist",
+            "title": "CVEProject/cvelist: Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023",
+            "date_modified": "2023-12-23T18:59:33.000Z",
+            "date_published": "2020-11-02T19:30:55.000Z",
+            "author": {
+                "name": "CVEProject",
+                "url": "https://github.com/CVEProject"
             }
         },
         {
@@ -179,50 +223,6 @@
             "author": {
                 "name": "ayhan-dev",
                 "url": "https://github.com/ayhan-dev"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/57447087?u=2e58f256b5e58a9c37c0da352eaa27cc6fa1f8b8&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
-            "url": "https://github.com/puckiestyle/CVE-2023-4911",
-            "title": "puckiestyle/CVE-2023-4911",
-            "date_modified": "2023-12-23T11:54:52.000Z",
-            "date_published": "2023-12-23T11:54:40.000Z",
-            "author": {
-                "name": "puckiestyle",
-                "url": "https://github.com/puckiestyle"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/22986332?u=40c2b502da84d82b4adeb67221788a917ece7c6a&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
-            "url": "https://github.com/cli-ish/CVE-2023-6663",
-            "title": "cli-ish/CVE-2023-6663",
-            "date_modified": "2023-12-23T11:39:58.000Z",
-            "date_published": "2023-12-23T11:39:57.000Z",
-            "author": {
-                "name": "cli-ish",
-                "url": "https://github.com/cli-ish"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/22986332?u=40c2b502da84d82b4adeb67221788a917ece7c6a&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
-            "url": "https://github.com/cli-ish/CVE-2023-6661",
-            "title": "cli-ish/CVE-2023-6661",
-            "date_modified": "2023-12-23T11:39:51.000Z",
-            "date_published": "2023-12-23T11:39:50.000Z",
-            "author": {
-                "name": "cli-ish",
-                "url": "https://github.com/cli-ish"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/57447087?u=2e58f256b5e58a9c37c0da352eaa27cc6fa1f8b8&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
-            "url": "https://github.com/puckiestyle/CVE-2023-0386",
-            "title": "puckiestyle/CVE-2023-0386",
-            "date_modified": "2023-12-23T11:02:08.000Z",
-            "date_published": "2023-12-23T11:01:55.000Z",
-            "author": {
-                "name": "puckiestyle",
-                "url": "https://github.com/puckiestyle"
             }
         }
     ]
