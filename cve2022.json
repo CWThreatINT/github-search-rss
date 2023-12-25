@@ -6,6 +6,28 @@
     "description": "CVE-2022 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/5091265?u=87dc5059a1638cd35535cde142cd4e3248b02eb4&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2022-40347: Intern Record System - 'phone', 'email', 'deptType' and 'name' SQL Injection (Unauthenticated)</div>",
+            "url": "https://github.com/h4md153v63n/CVE-2022-40347_Intern-Record-System-phone-V1.0-SQL-Injection-Vulnerability-Unauthenticated",
+            "title": "h4md153v63n/CVE-2022-40347_Intern-Record-System-phone-V1.0-SQL-Injection-Vulnerability-Unauthenticated: CVE-2022-40347: Intern Record System - 'phone', 'email', 'deptType' and 'name' SQL Injection (Unauthenticated)",
+            "date_modified": "2023-04-08T19:29:19.000Z",
+            "date_published": "2023-02-16T02:16:51.000Z",
+            "author": {
+                "name": "h4md153v63n",
+                "url": "https://github.com/h4md153v63n"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/5091265?u=87dc5059a1638cd35535cde142cd4e3248b02eb4&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2022-40032: Simple Task Managing System - 'login' and 'password' SQL Injection (Unauthenticated)</div>",
+            "url": "https://github.com/h4md153v63n/CVE-2022-40032_Simple-Task-Managing-System-V1.0-SQL-Injection-Vulnerability-Unauthenticated",
+            "title": "h4md153v63n/CVE-2022-40032_Simple-Task-Managing-System-V1.0-SQL-Injection-Vulnerability-Unauthenticated: CVE-2022-40032: Simple Task Managing System - 'login' and 'password' SQL Injection (Unauthenticated)",
+            "date_modified": "2023-04-08T19:29:21.000Z",
+            "date_published": "2023-02-16T01:42:48.000Z",
+            "author": {
+                "name": "h4md153v63n",
+                "url": "https://github.com/h4md153v63n"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/19479860?u=04677f490e98d90064fe473310aa361e4275e780&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>SnakeYAML-CVE-2022-1471-POC</div>",
             "url": "https://github.com/falconkei/snakeyaml_cve_poc",
             "title": "falconkei/snakeyaml_cve_poc: SnakeYAML-CVE-2022-1471-POC",
@@ -201,28 +223,6 @@
             "author": {
                 "name": "jnschaeffer",
                 "url": "https://github.com/jnschaeffer"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/55196564?u=fb7be49975566d7cc91200773cbe059eff758836&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A testing tool for CobaltStrike-RCE:CVE-2022-39197; Weblogic-RCE:CVE-2023-21839; MinIO:CVE-2023-28432</div>",
-            "url": "https://github.com/Romanc9/Gui-poc-test",
-            "title": "Romanc9/Gui-poc-test: A testing tool for CobaltStrike-RCE:CVE-2022-39197; Weblogic-RCE:CVE-2023-21839; MinIO:CVE-2023-28432",
-            "date_modified": "2023-12-05T08:43:25.000Z",
-            "date_published": "2023-12-03T13:45:34.000Z",
-            "author": {
-                "name": "Romanc9",
-                "url": "https://github.com/Romanc9"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/4098538?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Foxit PDF Reader Remote Code Execution Exploit</div>",
-            "url": "https://github.com/hacksysteam/CVE-2022-28672",
-            "title": "hacksysteam/CVE-2022-28672: Foxit PDF Reader Remote Code Execution Exploit",
-            "date_modified": "2023-12-11T06:17:46.000Z",
-            "date_published": "2022-12-02T18:52:20.000Z",
-            "author": {
-                "name": "hacksysteam",
-                "url": "https://github.com/hacksysteam"
             }
         }
     ]
