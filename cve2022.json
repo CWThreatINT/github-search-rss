@@ -6,6 +6,17 @@
     "description": "CVE-2022 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/23279002?u=5ad4f2fdc10e11457a16df052b6e943db59a4ddd&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
+            "url": "https://github.com/kimstars/POC-CVE-2022-28117",
+            "title": "kimstars/POC-CVE-2022-28117",
+            "date_modified": "2023-12-26T06:52:12.000Z",
+            "date_published": "2023-12-26T06:51:54.000Z",
+            "author": {
+                "name": "kimstars",
+                "url": "https://github.com/kimstars"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/5091265?u=87dc5059a1638cd35535cde142cd4e3248b02eb4&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2022-40032: Simple Task Managing System - 'login' and 'password' SQL Injection (Unauthenticated)</div>",
             "url": "https://github.com/h4md153v63n/CVE-2022-40032_Simple-Task-Managing-System-V1.0-SQL-Injection-Vulnerability-Unauthenticated",
             "title": "h4md153v63n/CVE-2022-40032_Simple-Task-Managing-System-V1.0-SQL-Injection-Vulnerability-Unauthenticated: CVE-2022-40032: Simple Task Managing System - 'login' and 'password' SQL Injection (Unauthenticated)",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "0xN7y",
                 "url": "https://github.com/0xN7y"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/57404930?u=15c8c306eb2a82d233cacd9ae77893665db1de24&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>一款针对Vcenter的综合利用工具，包含目前最主流的CVE-2021-21972、CVE-2021-21985以及CVE-2021-22005、One Access的CVE-2022-22954、CVE-2022-22972/31656以及log4j，提供一键上传webshell，命令执行或者上传公钥使用SSH免密连接</div>",
-            "url": "https://github.com/Schira4396/VcenterKiller",
-            "title": "Schira4396/VcenterKiller: 一款针对Vcenter的综合利用工具，包含目前最主流的CVE-2021-21972、CVE-2021-21985以及CVE-2021-22005、One Access的CVE-2022-22954、CVE-2022-22972/31656以及log4j，提供一键上传webshell，命令执行或者上传公钥使用SSH免密连接",
-            "date_modified": "2023-12-25T11:28:59.000Z",
-            "date_published": "2022-10-04T03:39:27.000Z",
-            "author": {
-                "name": "Schira4396",
-                "url": "https://github.com/Schira4396"
             }
         }
     ]
