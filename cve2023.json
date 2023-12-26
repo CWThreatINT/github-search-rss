@@ -6,17 +6,6 @@
     "description": "CVE-2023 FEED on GitHub",
     "items": [
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/4268373?u=44766c6e4621ca4efc11b47b6f9a9aa59ddea0d5&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Exploit for the CVE 2023-12-26 affecting Craft CMS</div>",
-            "url": "https://github.com/Faelian/CraftCMS_CVE-2023-12-26",
-            "title": "Faelian/CraftCMS_CVE-2023-12-26: Exploit for the CVE 2023-12-26 affecting Craft CMS",
-            "date_modified": "2023-12-26T18:06:35.000Z",
-            "date_published": "2023-12-26T18:05:23.000Z",
-            "author": {
-                "name": "Faelian",
-                "url": "https://github.com/Faelian"
-            }
-        },
-        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/18195825?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023</div>",
             "url": "https://github.com/CVEProject/cvelist",
             "title": "CVEProject/cvelist: Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023",
@@ -25,17 +14,6 @@
             "author": {
                 "name": "CVEProject",
                 "url": "https://github.com/CVEProject"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/154523984?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Microsoft Windows HTA (HTML Application) - Pinnacle of Remote Code Execution</div>",
-            "url": "https://github.com/Mxcoders2s/Hta-Exploit-Builder-Slient-Builder-Exploit-Database-Cve-2023-Malware",
-            "title": "Mxcoders2s/Hta-Exploit-Builder-Slient-Builder-Exploit-Database-Cve-2023-Malware: Microsoft Windows HTA (HTML Application) - Pinnacle of Remote Code Execution",
-            "date_modified": "2023-12-21T12:56:47.000Z",
-            "date_published": "2023-12-21T12:55:32.000Z",
-            "author": {
-                "name": "Mxcoders2s",
-                "url": "https://github.com/Mxcoders2s"
             }
         },
         {
@@ -55,6 +33,17 @@
             "title": "Mxcoders2s/Jpg-Png-Exploit-Slient-Builder-Exploit-Database-Cve-2023-Malware: In the hushed galleries of the Silent JPG Exploit, a symphony shrouded in enigma unfurls—an opus named silent-jpg-exploit-2018—a title that reverberates through the annals of intrigue.",
             "date_modified": "2023-12-21T12:57:32.000Z",
             "date_published": "2023-12-21T12:55:34.000Z",
+            "author": {
+                "name": "Mxcoders2s",
+                "url": "https://github.com/Mxcoders2s"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/154523984?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Microsoft Windows HTA (HTML Application) - Pinnacle of Remote Code Execution</div>",
+            "url": "https://github.com/Mxcoders2s/Hta-Exploit-Builder-Slient-Builder-Exploit-Database-Cve-2023-Malware",
+            "title": "Mxcoders2s/Hta-Exploit-Builder-Slient-Builder-Exploit-Database-Cve-2023-Malware: Microsoft Windows HTA (HTML Application) - Pinnacle of Remote Code Execution",
+            "date_modified": "2023-12-21T12:56:47.000Z",
+            "date_published": "2023-12-21T12:55:32.000Z",
             "author": {
                 "name": "Mxcoders2s",
                 "url": "https://github.com/Mxcoders2s"
@@ -102,6 +91,17 @@
             "author": {
                 "name": "desquezzee",
                 "url": "https://github.com/desquezzee"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/4268373?u=44766c6e4621ca4efc11b47b6f9a9aa59ddea0d5&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
+            "url": "https://github.com/Faelian/CraftCMS_CVE-2023-41892",
+            "title": "Faelian/CraftCMS_CVE-2023-41892",
+            "date_modified": "2023-12-26T18:49:17.000Z",
+            "date_published": "2023-12-26T18:31:27.000Z",
+            "author": {
+                "name": "Faelian",
+                "url": "https://github.com/Faelian"
             }
         },
         {
