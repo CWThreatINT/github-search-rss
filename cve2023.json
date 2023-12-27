@@ -6,6 +6,28 @@
     "description": "CVE-2023 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/69497874?u=77f8144d8299721095586075b311dbfade77c1f8&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
+            "url": "https://github.com/WLaoDuo/CVE-2023-51385_poc-windows",
+            "title": "WLaoDuo/CVE-2023-51385_poc-windows",
+            "date_modified": "2023-12-27T01:24:01.000Z",
+            "date_published": "2023-12-27T01:24:01.000Z",
+            "author": {
+                "name": "WLaoDuo",
+                "url": "https://github.com/WLaoDuo"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/78701239?u=9e68d2365d0c26e3994dc3e04864bc97ccb91348&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2023-42468</div>",
+            "url": "https://github.com/actuator/com.cutestudio.colordialer",
+            "title": "actuator/com.cutestudio.colordialer: CVE-2023-42468",
+            "date_modified": "2023-09-11T21:00:49.000Z",
+            "date_published": "2023-09-02T14:48:07.000Z",
+            "author": {
+                "name": "actuator",
+                "url": "https://github.com/actuator"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/70683790?u=6381f232bd870de2c201c4bf5cff884939db3fdf&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CrushFTP &lt;= 10.5.1 Remote Code Execution. Researchers: Ryan Emmons, Evan Malamis</div>",
             "url": "https://github.com/the-emmons/CVE-2023-43177",
             "title": "the-emmons/CVE-2023-43177: CrushFTP <= 10.5.1 Remote Code Execution. Researchers: Ryan Emmons, Evan Malamis",
@@ -105,17 +127,6 @@
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/78701239?u=9e68d2365d0c26e3994dc3e04864bc97ccb91348&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2023-42468</div>",
-            "url": "https://github.com/actuator/com.cutestudio.colordialer",
-            "title": "actuator/com.cutestudio.colordialer: CVE-2023-42468",
-            "date_modified": "2023-09-11T21:00:49.000Z",
-            "date_published": "2023-09-02T14:48:07.000Z",
-            "author": {
-                "name": "actuator",
-                "url": "https://github.com/actuator"
-            }
-        },
-        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/4268373?u=44766c6e4621ca4efc11b47b6f9a9aa59ddea0d5&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
             "url": "https://github.com/Faelian/CraftCMS_CVE-2023-41892",
             "title": "Faelian/CraftCMS_CVE-2023-41892",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "WLaoDuo",
                 "url": "https://github.com/WLaoDuo"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/97610822?u=5b8029251583f2f00d86acfb466b3b0cec99f930&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>OpenSSH ProxyCommand RCE</div>",
-            "url": "https://github.com/Le1a/CVE-2023-51385",
-            "title": "Le1a/CVE-2023-51385: OpenSSH ProxyCommand RCE",
-            "date_modified": "2023-12-26T08:03:19.000Z",
-            "date_published": "2023-12-25T12:51:05.000Z",
-            "author": {
-                "name": "Le1a",
-                "url": "https://github.com/Le1a"
             }
         }
     ]
