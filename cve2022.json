@@ -6,6 +6,17 @@
     "description": "CVE-2022 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/154115874?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>simple application with a CVE-2022-45688 vulnerability</div>",
+            "url": "https://github.com/scabench/jsonorg-tp1",
+            "title": "scabench/jsonorg-tp1: simple application with a CVE-2022-45688 vulnerability",
+            "date_modified": "2023-12-27T22:58:41.000Z",
+            "date_published": "2023-12-27T22:05:06.000Z",
+            "author": {
+                "name": "scabench",
+                "url": "https://github.com/scabench"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/100078094?u=a1532e1c68fd76ea849ebd706cea09e740cc469c&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Exploit Of Spring4Shell!</div>",
             "url": "https://github.com/0xrobiul/CVE-2022-22965",
             "title": "0xrobiul/CVE-2022-22965: Exploit Of Spring4Shell!",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "Gh-Badr",
                 "url": "https://github.com/Gh-Badr"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/18383407?u=c9d1276bd9ccb8b06b724c3057b1ef683fa81de7&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2022-21392: Local Privilege Escalation via NMR SUID in Oracle Enterprise Manager </div>",
-            "url": "https://github.com/mbadanoiu/CVE-2022-21392",
-            "title": "mbadanoiu/CVE-2022-21392: CVE-2022-21392: Local Privilege Escalation via NMR SUID in Oracle Enterprise Manager ",
-            "date_modified": "2023-12-11T10:07:36.000Z",
-            "date_published": "2023-12-08T20:13:23.000Z",
-            "author": {
-                "name": "mbadanoiu",
-                "url": "https://github.com/mbadanoiu"
             }
         }
     ]

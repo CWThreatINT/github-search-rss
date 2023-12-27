@@ -6,6 +6,28 @@
     "description": "CVE-2021 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/154115874?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>jee web project with sanitised log4shell (CVE-2021-44228) vulnerability</div>",
+            "url": "https://github.com/scabench/l4j-fp1",
+            "title": "scabench/l4j-fp1: jee web project with sanitised log4shell (CVE-2021-44228) vulnerability",
+            "date_modified": "2023-12-27T22:59:37.000Z",
+            "date_published": "2023-12-27T08:49:38.000Z",
+            "author": {
+                "name": "scabench",
+                "url": "https://github.com/scabench"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/154115874?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>jee web project with log4shell (CVE-2021-44228) vulnerability</div>",
+            "url": "https://github.com/scabench/l4j-tp1",
+            "title": "scabench/l4j-tp1: jee web project with log4shell (CVE-2021-44228) vulnerability",
+            "date_modified": "2023-12-27T22:59:23.000Z",
+            "date_published": "2023-12-18T05:07:59.000Z",
+            "author": {
+                "name": "scabench",
+                "url": "https://github.com/scabench"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/62325297?u=38b1e9eacf854853974585f6f3dfb623c40a9539&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>🔐 \"PWNTAPO: Unveiling Command Injection in TP-Link Tapo C200 Cameras (&lt;= v1.1.16 Build 211209)\" 🔓</div>",
             "url": "https://github.com/B3nj4h/CVE-2021-4045",
             "title": "B3nj4h/CVE-2021-4045: 🔐 \"PWNTAPO: Unveiling Command Injection in TP-Link Tapo C200 Cameras (<= v1.1.16 Build 211209)\" 🔓",
@@ -201,28 +223,6 @@
             "author": {
                 "name": "Schira4396",
                 "url": "https://github.com/Schira4396"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/21004514?u=8531037bb58ad26cc797206d1dae79bebeb35d3c&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A Proof of concept scenario for exploitation of CVE2021-38297 GO WASM buffer-overflow</div>",
-            "url": "https://github.com/gkrishnan724/CVE-2021-38297",
-            "title": "gkrishnan724/CVE-2021-38297: A Proof of concept scenario for exploitation of CVE2021-38297 GO WASM buffer-overflow",
-            "date_modified": "2023-12-05T21:42:32.000Z",
-            "date_published": "2023-11-15T20:52:36.000Z",
-            "author": {
-                "name": "gkrishnan724",
-                "url": "https://github.com/gkrishnan724"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/127914517?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Thực nghiệm CVE-2021-44790</div>",
-            "url": "https://github.com/nuPacaChi/-CVE-2021-44790",
-            "title": "nuPacaChi/-CVE-2021-44790: Thực nghiệm CVE-2021-44790",
-            "date_modified": "2023-12-05T17:08:43.000Z",
-            "date_published": "2023-12-05T05:54:47.000Z",
-            "author": {
-                "name": "nuPacaChi",
-                "url": "https://github.com/nuPacaChi"
             }
         }
     ]
