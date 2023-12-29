@@ -17,6 +17,17 @@
             }
         },
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/85401867?u=37a8fd9da23127a2414bd4e3e25123b250bf161e&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Request Baskets vulnerable exploit to Server-Side Request Forgery up to version 1.2.1</div>",
+            "url": "https://github.com/mathias-mrsn/CVE-2023-27163",
+            "title": "mathias-mrsn/CVE-2023-27163: Request Baskets vulnerable exploit to Server-Side Request Forgery up to version 1.2.1",
+            "date_modified": "2023-12-29T21:14:50.000Z",
+            "date_published": "2023-12-29T21:10:48.000Z",
+            "author": {
+                "name": "mathias-mrsn",
+                "url": "https://github.com/mathias-mrsn"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/70909693?u=623cdd16249501e7d4f74b743a81017fc3b4de3a&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
             "url": "https://github.com/K3ysTr0K3R/CVE-2023-51467-EXPLOIT",
             "title": "K3ysTr0K3R/CVE-2023-51467-EXPLOIT",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "C1ph3rX13",
                 "url": "https://github.com/C1ph3rX13"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/49790977?u=25473519cb9cbae0a7a4ae96a215960845ec9c1f&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>PoC CVE-2023-51764 </div>",
-            "url": "https://github.com/eeenvik1/CVE-2023-51764",
-            "title": "eeenvik1/CVE-2023-51764: PoC CVE-2023-51764 ",
-            "date_modified": "2023-12-28T10:21:13.000Z",
-            "date_published": "2023-12-28T06:20:13.000Z",
-            "author": {
-                "name": "eeenvik1",
-                "url": "https://github.com/eeenvik1"
             }
         }
     ]
