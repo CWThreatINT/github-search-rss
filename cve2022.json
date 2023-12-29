@@ -6,14 +6,25 @@
     "description": "CVE-2022 FEED on GitHub",
     "items": [
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/109729013?u=98d1b044a51128528bc4286d9a2cb4dbb6f607da&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
-            "url": "https://github.com/DARKSTUFF-LAB/-CVE-2022-26134",
-            "title": "DARKSTUFF-LAB/-CVE-2022-26134",
-            "date_modified": "2023-12-29T06:51:51.000Z",
-            "date_published": "2023-12-29T06:51:38.000Z",
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/84257391?u=9b1bc8c543c0ea2365114136e242ac5dadefc803&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
+            "url": "https://github.com/solomon12354/CVE-2022-0847-Dirty_Pipe_virus",
+            "title": "solomon12354/CVE-2022-0847-Dirty_Pipe_virus",
+            "date_modified": "2023-12-29T08:38:32.000Z",
+            "date_published": "2023-12-28T16:52:42.000Z",
             "author": {
-                "name": "DARKSTUFF-LAB",
-                "url": "https://github.com/DARKSTUFF-LAB"
+                "name": "solomon12354",
+                "url": "https://github.com/solomon12354"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/154115874?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>simple application with a (unreachable!) CVE-2022-45688 vulnerability</div>",
+            "url": "https://github.com/scabench/jsonorg-fp3",
+            "title": "scabench/jsonorg-fp3: simple application with a (unreachable!) CVE-2022-45688 vulnerability",
+            "date_modified": "2023-12-29T08:19:56.000Z",
+            "date_published": "2023-12-29T02:01:22.000Z",
+            "author": {
+                "name": "scabench",
+                "url": "https://github.com/scabench"
             }
         },
         {
@@ -28,14 +39,14 @@
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/154115874?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>simple application with a (unreachable!) CVE-2022-45688 vulnerability</div>",
-            "url": "https://github.com/scabench/jsonorg-fp3",
-            "title": "scabench/jsonorg-fp3: simple application with a (unreachable!) CVE-2022-45688 vulnerability",
-            "date_modified": "2023-12-29T02:01:22.000Z",
-            "date_published": "2023-12-29T02:01:22.000Z",
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/109729013?u=98d1b044a51128528bc4286d9a2cb4dbb6f607da&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
+            "url": "https://github.com/DARKSTUFF-LAB/-CVE-2022-26134",
+            "title": "DARKSTUFF-LAB/-CVE-2022-26134",
+            "date_modified": "2023-12-29T06:51:51.000Z",
+            "date_published": "2023-12-29T06:51:38.000Z",
             "author": {
-                "name": "scabench",
-                "url": "https://github.com/scabench"
+                "name": "DARKSTUFF-LAB",
+                "url": "https://github.com/DARKSTUFF-LAB"
             }
         },
         {
@@ -212,17 +223,6 @@
             "author": {
                 "name": "entroychang",
                 "url": "https://github.com/entroychang"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/71746399?u=f12ce773cd6753024fbe116cce753cbe9f7e8426&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
-            "url": "https://github.com/zer0ne1/CVE-2022-0337-RePoC",
-            "title": "zer0ne1/CVE-2022-0337-RePoC",
-            "date_modified": "2023-11-21T02:36:09.000Z",
-            "date_published": "2023-11-21T02:34:32.000Z",
-            "author": {
-                "name": "zer0ne1",
-                "url": "https://github.com/zer0ne1"
             }
         }
     ]
