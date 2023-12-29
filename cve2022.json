@@ -6,6 +6,17 @@
     "description": "CVE-2022 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/154115874?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>About simple application with a (unreachable!) CVE-2022-45688 vulnerability</div>",
+            "url": "https://github.com/scabench/jsonorg-fp2",
+            "title": "scabench/jsonorg-fp2: About simple application with a (unreachable!) CVE-2022-45688 vulnerability",
+            "date_modified": "2023-12-29T00:14:20.000Z",
+            "date_published": "2023-12-29T00:14:20.000Z",
+            "author": {
+                "name": "scabench",
+                "url": "https://github.com/scabench"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/50257557?u=ce820e1226e22da19537b5137b96b13e5aaed24f&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2022-22963-poc</div>",
             "url": "https://github.com/xmqaq/CVE-2022-22963",
             "title": "xmqaq/CVE-2022-22963: CVE-2022-22963-poc",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "qailanet",
                 "url": "https://github.com/qailanet"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/110986028?u=3ab80eb54f7c446398903b11d6681ec27830e54d&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Vulnerability in HTTP Protocol Stack Enabling Remote Code Execution and Potential System Crash.</div>",
-            "url": "https://github.com/kamal-marouane/CVE-2022-21907",
-            "title": "kamal-marouane/CVE-2022-21907: Vulnerability in HTTP Protocol Stack Enabling Remote Code Execution and Potential System Crash.",
-            "date_modified": "2023-12-11T20:32:49.000Z",
-            "date_published": "2023-12-09T22:26:49.000Z",
-            "author": {
-                "name": "kamal-marouane",
-                "url": "https://github.com/kamal-marouane"
             }
         }
     ]
