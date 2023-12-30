@@ -204,17 +204,6 @@
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/60383315?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2023-51385_test-star-main</div>",
-            "url": "https://github.com/siyi-star/CVE-2023-51385_test-star-main",
-            "title": "siyi-star/CVE-2023-51385_test-star-main: CVE-2023-51385_test-star-main",
-            "date_modified": "2023-12-28T16:56:13.000Z",
-            "date_published": "2023-12-28T16:56:13.000Z",
-            "author": {
-                "name": "siyi-star",
-                "url": "https://github.com/siyi-star"
-            }
-        },
-        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/154718593?u=45846793b1fbfe37160272ad945358e5d7477c1f&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Welcome to the Metasploit Exploits Repository, your go-to resource for a comprehensive collection of cutting-edge exploits designed for penetration testing and ethical hacking. Developed and maintained by Mohamed Mounir Boudjema, this repository is crafted with a deep understanding of the evolving landscape of cybersecurity.</div>",
             "url": "https://github.com/DedSec-47/Metasploit-Exploits-CVE-2023-6710",
             "title": "DedSec-47/Metasploit-Exploits-CVE-2023-6710: Welcome to the Metasploit Exploits Repository, your go-to resource for a comprehensive collection of cutting-edge exploits designed for penetration testing and ethical hacking. Developed and maintained by Mohamed Mounir Boudjema, this repository is crafted with a deep understanding of the evolving landscape of cybersecurity.",
@@ -223,6 +212,17 @@
             "author": {
                 "name": "DedSec-47",
                 "url": "https://github.com/DedSec-47"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/105772414?u=00df549f3ff62959402fcda5bd219d886125fbc0&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Proof of Concept for Server Side Request Forgery (SSRF) in request-baskets (V&lt;= v.1.2.1)</div>",
+            "url": "https://github.com/MasterCode112/CVE-2023-27163",
+            "title": "MasterCode112/CVE-2023-27163: Proof of Concept for Server Side Request Forgery (SSRF) in request-baskets (V<= v.1.2.1)",
+            "date_modified": "2023-12-28T11:45:13.000Z",
+            "date_published": "2023-12-28T11:36:37.000Z",
+            "author": {
+                "name": "MasterCode112",
+                "url": "https://github.com/MasterCode112"
             }
         }
     ]
