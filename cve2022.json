@@ -6,6 +6,17 @@
     "description": "CVE-2022 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/15659223?u=39daa098c0ee0ba81c8946215f1e32e1af2a5e3c&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2022-36883</div>",
+            "url": "https://github.com/EmreOvunc/jenkins-poc",
+            "title": "EmreOvunc/jenkins-poc: CVE-2022-36883",
+            "date_modified": "2023-12-30T23:05:31.000Z",
+            "date_published": "2023-12-30T23:02:34.000Z",
+            "author": {
+                "name": "EmreOvunc",
+                "url": "https://github.com/EmreOvunc"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/17493969?u=fea8c7a8573be0ec31a1628d86f5265b6ef1c4e7&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div> CVE-2022-45699 - APSystems ECU-R is vulnerable to command injection in the timezone field</div>",
             "url": "https://github.com/0xst4n/APSystems-ECU-R-RCE-Timezone",
             "title": "0xst4n/APSystems-ECU-R-RCE-Timezone:  CVE-2022-45699 - APSystems ECU-R is vulnerable to command injection in the timezone field",
@@ -209,17 +220,6 @@
             "title": "mbadanoiu/CVE-2022-29063: CVE-2022-29063: Java Deserialization via RMI Connection in Apache OfBiz",
             "date_modified": "2023-12-17T21:26:06.000Z",
             "date_published": "2023-12-17T21:11:30.000Z",
-            "author": {
-                "name": "mbadanoiu",
-                "url": "https://github.com/mbadanoiu"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/18383407?u=c9d1276bd9ccb8b06b724c3057b1ef683fa81de7&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2022-25813: FreeMarker Server-Side Template Injection in Apache OfBiz </div>",
-            "url": "https://github.com/mbadanoiu/CVE-2022-25813",
-            "title": "mbadanoiu/CVE-2022-25813: CVE-2022-25813: FreeMarker Server-Side Template Injection in Apache OfBiz ",
-            "date_modified": "2023-12-17T20:56:52.000Z",
-            "date_published": "2023-12-17T20:43:26.000Z",
             "author": {
                 "name": "mbadanoiu",
                 "url": "https://github.com/mbadanoiu"
