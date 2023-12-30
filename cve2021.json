@@ -6,6 +6,17 @@
     "description": "CVE-2021 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/121667935?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Dell dbutil_2_3.sys driver Win11 23H2 exploit</div>",
+            "url": "https://github.com/houseofxyz/CVE-2021-21551",
+            "title": "houseofxyz/CVE-2021-21551: Dell dbutil_2_3.sys driver Win11 23H2 exploit",
+            "date_modified": "2023-12-30T12:41:28.000Z",
+            "date_published": "2023-12-30T12:23:23.000Z",
+            "author": {
+                "name": "houseofxyz",
+                "url": "https://github.com/houseofxyz"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/109800286?u=76368a6bd330396824a1c0d87ad2af68a2ae4b9d&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Error-based blind SQL injection with bit-shifting approach for Moodle 3.10.4</div>",
             "url": "https://github.com/StackOverflowExcept1on/CVE-2021-36393",
             "title": "StackOverflowExcept1on/CVE-2021-36393: Error-based blind SQL injection with bit-shifting approach for Moodle 3.10.4",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "sergiovks",
                 "url": "https://github.com/sergiovks"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/56496067?u=576ae88730573c947aaab13899fe33ba1575bc46&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Local Privilege Escalation (LPE) vulnerability found on Polkit's pkexec utility</div>",
-            "url": "https://github.com/azazelm3dj3d/CVE-2021-4034",
-            "title": "azazelm3dj3d/CVE-2021-4034: Local Privilege Escalation (LPE) vulnerability found on Polkit's pkexec utility",
-            "date_modified": "2023-03-17T12:55:55.000Z",
-            "date_published": "2022-03-16T23:05:53.000Z",
-            "author": {
-                "name": "azazelm3dj3d",
-                "url": "https://github.com/azazelm3dj3d"
             }
         }
     ]
