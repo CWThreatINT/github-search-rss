@@ -6,6 +6,17 @@
     "description": "CVE-2023 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/37863351?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>一个验证对CVE-2023-51385</div>",
+            "url": "https://github.com/power1314520/CVE-2023-51385_test",
+            "title": "power1314520/CVE-2023-51385_test: 一个验证对CVE-2023-51385",
+            "date_modified": "2023-12-30T01:08:29.000Z",
+            "date_published": "2023-12-30T01:08:29.000Z",
+            "author": {
+                "name": "power1314520",
+                "url": "https://github.com/power1314520"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/18195825?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023</div>",
             "url": "https://github.com/CVEProject/cvelist",
             "title": "CVEProject/cvelist: Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "MasterCode112",
                 "url": "https://github.com/MasterCode112"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/154718593?u=45846793b1fbfe37160272ad945358e5d7477c1f&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Explore the depths of CVE-2023-6710 with our comprehensive Proof of Concept (PoC). This CVE, identified as a potential security vulnerability, has been meticulously examined to demonstrate its impact and provide a hands-on understanding of the associated risks.</div>",
-            "url": "https://github.com/DedSec-47/CVE-2023-6710",
-            "title": "DedSec-47/CVE-2023-6710: Explore the depths of CVE-2023-6710 with our comprehensive Proof of Concept (PoC). This CVE, identified as a potential security vulnerability, has been meticulously examined to demonstrate its impact and provide a hands-on understanding of the associated risks.",
-            "date_modified": "2023-12-28T11:39:27.000Z",
-            "date_published": "2023-12-25T09:50:23.000Z",
-            "author": {
-                "name": "DedSec-47",
-                "url": "https://github.com/DedSec-47"
             }
         }
     ]
