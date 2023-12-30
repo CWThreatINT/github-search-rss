@@ -6,14 +6,14 @@
     "description": "CVE-2023 FEED on GitHub",
     "items": [
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/37863351?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>一个验证对CVE-2023-51385</div>",
-            "url": "https://github.com/power1314520/CVE-2023-51385_test",
-            "title": "power1314520/CVE-2023-51385_test: 一个验证对CVE-2023-51385",
-            "date_modified": "2023-12-30T01:08:29.000Z",
-            "date_published": "2023-12-30T01:08:29.000Z",
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/126433368?u=5a79f6b974421aabf170077fecc1d0a44ab81f74&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2023-49438 - Open Redirect Vulnerability in Flask-Security-Too</div>",
+            "url": "https://github.com/brandon-t-elliott/CVE-2023-49438",
+            "title": "brandon-t-elliott/CVE-2023-49438: CVE-2023-49438 - Open Redirect Vulnerability in Flask-Security-Too",
+            "date_modified": "2023-12-24T18:50:17.000Z",
+            "date_published": "2023-12-14T23:58:42.000Z",
             "author": {
-                "name": "power1314520",
-                "url": "https://github.com/power1314520"
+                "name": "brandon-t-elliott",
+                "url": "https://github.com/brandon-t-elliott"
             }
         },
         {
@@ -25,6 +25,17 @@
             "author": {
                 "name": "CVEProject",
                 "url": "https://github.com/CVEProject"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/37863351?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>一个验证对CVE-2023-51385</div>",
+            "url": "https://github.com/power1314520/CVE-2023-51385_test",
+            "title": "power1314520/CVE-2023-51385_test: 一个验证对CVE-2023-51385",
+            "date_modified": "2023-12-30T01:08:29.000Z",
+            "date_published": "2023-12-30T01:08:29.000Z",
+            "author": {
+                "name": "power1314520",
+                "url": "https://github.com/power1314520"
             }
         },
         {
@@ -212,17 +223,6 @@
             "author": {
                 "name": "DedSec-47",
                 "url": "https://github.com/DedSec-47"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/105772414?u=00df549f3ff62959402fcda5bd219d886125fbc0&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Proof of Concept for Server Side Request Forgery (SSRF) in request-baskets (V&lt;= v.1.2.1)</div>",
-            "url": "https://github.com/MasterCode112/CVE-2023-27163",
-            "title": "MasterCode112/CVE-2023-27163: Proof of Concept for Server Side Request Forgery (SSRF) in request-baskets (V<= v.1.2.1)",
-            "date_modified": "2023-12-28T11:45:13.000Z",
-            "date_published": "2023-12-28T11:36:37.000Z",
-            "author": {
-                "name": "MasterCode112",
-                "url": "https://github.com/MasterCode112"
             }
         }
     ]
