@@ -6,17 +6,6 @@
     "description": "CVE-2023 FEED on GitHub",
     "items": [
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/126433368?u=5a79f6b974421aabf170077fecc1d0a44ab81f74&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2023-49438 - Open Redirect Vulnerability in Flask-Security-Too</div>",
-            "url": "https://github.com/brandon-t-elliott/CVE-2023-49438",
-            "title": "brandon-t-elliott/CVE-2023-49438: CVE-2023-49438 - Open Redirect Vulnerability in Flask-Security-Too",
-            "date_modified": "2023-12-24T18:50:17.000Z",
-            "date_published": "2023-12-14T23:58:42.000Z",
-            "author": {
-                "name": "brandon-t-elliott",
-                "url": "https://github.com/brandon-t-elliott"
-            }
-        },
-        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/18195825?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023</div>",
             "url": "https://github.com/CVEProject/cvelist",
             "title": "CVEProject/cvelist: Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023",
@@ -25,6 +14,17 @@
             "author": {
                 "name": "CVEProject",
                 "url": "https://github.com/CVEProject"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/126433368?u=5a79f6b974421aabf170077fecc1d0a44ab81f74&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2023-49438 - Open Redirect Vulnerability in Flask-Security-Too</div>",
+            "url": "https://github.com/brandon-t-elliott/CVE-2023-49438",
+            "title": "brandon-t-elliott/CVE-2023-49438: CVE-2023-49438 - Open Redirect Vulnerability in Flask-Security-Too",
+            "date_modified": "2023-12-24T18:50:17.000Z",
+            "date_published": "2023-12-14T23:58:42.000Z",
+            "author": {
+                "name": "brandon-t-elliott",
+                "url": "https://github.com/brandon-t-elliott"
             }
         },
         {
