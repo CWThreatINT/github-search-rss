@@ -17,17 +17,6 @@
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/17493969?u=fea8c7a8573be0ec31a1628d86f5265b6ef1c4e7&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div> CVE-2022-45699 - APSystems ECU-R is vulnerable to command injection in the timezone field</div>",
-            "url": "https://github.com/0xst4n/APSystems-ECU-R-RCE-Timezone",
-            "title": "0xst4n/APSystems-ECU-R-RCE-Timezone:  CVE-2022-45699 - APSystems ECU-R is vulnerable to command injection in the timezone field",
-            "date_modified": "2023-03-31T10:48:47.000Z",
-            "date_published": "2022-11-17T14:55:54.000Z",
-            "author": {
-                "name": "0xst4n",
-                "url": "https://github.com/0xst4n"
-            }
-        },
-        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/104329412?u=53e9af635644b8896df7de1ba33ef14aeeae490d&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Apache commons text - CVE-2022-42889 Text4Shell proof of concept exploit.</div>",
             "url": "https://github.com/kljunowsky/CVE-2022-42889-text4shell",
             "title": "kljunowsky/CVE-2022-42889-text4shell: Apache commons text - CVE-2022-42889 Text4Shell proof of concept exploit.",
@@ -182,17 +171,6 @@
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/107951097?u=f034b606ebb16efd2fb6d8f16e986957765f1b52&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Exploit for CVE-2022-36779 authenticated Command Injection</div>",
-            "url": "https://github.com/rootDR/CVE-2022-36779",
-            "title": "rootDR/CVE-2022-36779: Exploit for CVE-2022-36779 authenticated Command Injection",
-            "date_modified": "2023-12-24T11:11:04.000Z",
-            "date_published": "2023-12-24T10:46:50.000Z",
-            "author": {
-                "name": "rootDR",
-                "url": "https://github.com/rootDR"
-            }
-        },
-        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/33234808?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2022-32118 - Arox-XSS</div>",
             "url": "https://github.com/JC175/CVE-2022-32118",
             "title": "JC175/CVE-2022-32118: CVE-2022-32118 - Arox-XSS",
@@ -223,6 +201,28 @@
             "author": {
                 "name": "mbadanoiu",
                 "url": "https://github.com/mbadanoiu"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/18383407?u=c9d1276bd9ccb8b06b724c3057b1ef683fa81de7&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2022-25813: FreeMarker Server-Side Template Injection in Apache OfBiz </div>",
+            "url": "https://github.com/mbadanoiu/CVE-2022-25813",
+            "title": "mbadanoiu/CVE-2022-25813: CVE-2022-25813: FreeMarker Server-Side Template Injection in Apache OfBiz ",
+            "date_modified": "2023-12-17T20:56:52.000Z",
+            "date_published": "2023-12-17T20:43:26.000Z",
+            "author": {
+                "name": "mbadanoiu",
+                "url": "https://github.com/mbadanoiu"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/72038577?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>LFI in the Essential Addons for Elementor WordPress plugin</div>",
+            "url": "https://github.com/0x9567b/CVE-2022-0320",
+            "title": "0x9567b/CVE-2022-0320: LFI in the Essential Addons for Elementor WordPress plugin",
+            "date_modified": "2023-12-17T08:48:08.000Z",
+            "date_published": "2023-12-17T08:38:49.000Z",
+            "author": {
+                "name": "0x9567b",
+                "url": "https://github.com/0x9567b"
             }
         }
     ]
