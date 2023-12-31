@@ -6,6 +6,17 @@
     "description": "CVE-2021 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/82715493?u=25efe2210c06c3d0bf57dde75102ea9ce567ff6b&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Remote Access Shell for Windows (based on cve-2021-30190)</div>",
+            "url": "https://github.com/AbdulRKB/Follina",
+            "title": "AbdulRKB/Follina: Remote Access Shell for Windows (based on cve-2021-30190)",
+            "date_modified": "2023-09-28T11:39:24.000Z",
+            "date_published": "2022-06-04T14:18:38.000Z",
+            "author": {
+                "name": "AbdulRKB",
+                "url": "https://github.com/AbdulRKB"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/45089292?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
             "url": "https://github.com/afaq1337/CVE-2021-41946",
             "title": "afaq1337/CVE-2021-41946",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "alexbakker",
                 "url": "https://github.com/alexbakker"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/39941993?u=c467c7495787b1e881c8eab5642b7a6bff385afd&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A fully automated, reliable, super-fast, mass scanning and validation toolkit for the Log4J RCE CVE-2021-44228 vulnerability.</div>",
-            "url": "https://github.com/0xInfection/LogMePwn",
-            "title": "0xInfection/LogMePwn: A fully automated, reliable, super-fast, mass scanning and validation toolkit for the Log4J RCE CVE-2021-44228 vulnerability.",
-            "date_modified": "2023-12-27T09:54:27.000Z",
-            "date_published": "2021-12-14T06:37:59.000Z",
-            "author": {
-                "name": "0xInfection",
-                "url": "https://github.com/0xInfection"
             }
         }
     ]
