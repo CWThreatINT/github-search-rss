@@ -6,6 +6,17 @@
     "description": "CVE-2021 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/65211256?u=17202d98ee387a1d9c2ef8571ffa2dba32837e78&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>  CVE-2021-26855, also known as Proxylogon, is a server-side request forgery (SSRF) vulnerability in Exchange that allows an attacker to send arbitrary HTTP requests and authenticate as the Exchange server.</div>",
+            "url": "https://github.com/raheel0x01/CVE-2021-26855",
+            "title": "raheel0x01/CVE-2021-26855:   CVE-2021-26855, also known as Proxylogon, is a server-side request forgery (SSRF) vulnerability in Exchange that allows an attacker to send arbitrary HTTP requests and authenticate as the Exchange server.",
+            "date_modified": "2024-01-01T17:05:07.000Z",
+            "date_published": "2021-03-11T19:35:35.000Z",
+            "author": {
+                "name": "raheel0x01",
+                "url": "https://github.com/raheel0x01"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/82715493?u=25efe2210c06c3d0bf57dde75102ea9ce567ff6b&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Remote Access Shell for Windows (based on cve-2021-30190)</div>",
             "url": "https://github.com/AbdulRKB/Follina",
             "title": "AbdulRKB/Follina: Remote Access Shell for Windows (based on cve-2021-30190)",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "Rubikcuv5",
                 "url": "https://github.com/Rubikcuv5"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/2387841?u=082c1655d763023ea65049680617a2af381c6b50&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Tool that runs a test to check whether one of your applications is affected by the recent vulnerabilities in log4j: CVE-2021-44228 and CVE-2021-45046</div>",
-            "url": "https://github.com/alexbakker/log4shell-tools",
-            "title": "alexbakker/log4shell-tools: Tool that runs a test to check whether one of your applications is affected by the recent vulnerabilities in log4j: CVE-2021-44228 and CVE-2021-45046",
-            "date_modified": "2023-12-27T16:56:49.000Z",
-            "date_published": "2021-12-13T21:47:41.000Z",
-            "author": {
-                "name": "alexbakker",
-                "url": "https://github.com/alexbakker"
             }
         }
     ]
