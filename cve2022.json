@@ -116,17 +116,6 @@
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/50257557?u=ce820e1226e22da19537b5137b96b13e5aaed24f&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2022-22963-poc</div>",
-            "url": "https://github.com/xmqaq/CVE-2022-22963",
-            "title": "xmqaq/CVE-2022-22963: CVE-2022-22963-poc",
-            "date_modified": "2023-12-28T07:37:44.000Z",
-            "date_published": "2023-12-28T06:58:17.000Z",
-            "author": {
-                "name": "xmqaq",
-                "url": "https://github.com/xmqaq"
-            }
-        },
-        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/100078094?u=a1532e1c68fd76ea849ebd706cea09e740cc469c&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Exploit Of Spring4Shell!</div>",
             "url": "https://github.com/0xrobiul/CVE-2022-22965",
             "title": "0xrobiul/CVE-2022-22965: Exploit Of Spring4Shell!",
@@ -223,6 +212,17 @@
             "author": {
                 "name": "JC175",
                 "url": "https://github.com/JC175"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/18383407?u=c9d1276bd9ccb8b06b724c3057b1ef683fa81de7&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2022-29063: Java Deserialization via RMI Connection in Apache OfBiz</div>",
+            "url": "https://github.com/mbadanoiu/CVE-2022-29063",
+            "title": "mbadanoiu/CVE-2022-29063: CVE-2022-29063: Java Deserialization via RMI Connection in Apache OfBiz",
+            "date_modified": "2023-12-17T21:26:06.000Z",
+            "date_published": "2023-12-17T21:11:30.000Z",
+            "author": {
+                "name": "mbadanoiu",
+                "url": "https://github.com/mbadanoiu"
             }
         }
     ]
