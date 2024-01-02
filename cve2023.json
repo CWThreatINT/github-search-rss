@@ -61,6 +61,17 @@
             }
         },
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/42498816?u=08c4092e757fc2588b734e8e09e355493e9126e9&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>This repo is a PoC with to exploit CVE-2023-51467 and CVE-2023-49070 preauth RCE vulnerabilities found in Apache OFBiz.</div>",
+            "url": "https://github.com/jakabakos/Apache-OFBiz-Authentication-Bypass",
+            "title": "jakabakos/Apache-OFBiz-Authentication-Bypass: This repo is a PoC with to exploit CVE-2023-51467 and CVE-2023-49070 preauth RCE vulnerabilities found in Apache OFBiz.",
+            "date_modified": "2024-01-02T14:25:38.000Z",
+            "date_published": "2024-01-02T14:20:10.000Z",
+            "author": {
+                "name": "jakabakos",
+                "url": "https://github.com/jakabakos"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/96077889?u=3e281155203fced47f66dacafd9649f26b35913f&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>File Read Arbrtary Exploit for CVE-2023-26360 - Adobe Coldfusion</div>",
             "url": "https://github.com/yosef0x01/CVE-2023-26360",
             "title": "yosef0x01/CVE-2023-26360: File Read Arbrtary Exploit for CVE-2023-26360 - Adobe Coldfusion",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "aaronm-sysdig",
                 "url": "https://github.com/aaronm-sysdig"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/85675608?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A video presentation analysing the technical details, scale and lessons to be learned from the MOVEit CVE-2023=3462(CS50 Introduction to Cyber Security Finale Project)</div>",
-            "url": "https://github.com/Chinyemba-ck/MOVEit-CVE-2023-34362",
-            "title": "Chinyemba-ck/MOVEit-CVE-2023-34362: A video presentation analysing the technical details, scale and lessons to be learned from the MOVEit CVE-2023=3462(CS50 Introduction to Cyber Security Finale Project)",
-            "date_modified": "2024-01-01T00:55:07.000Z",
-            "date_published": "2024-01-01T00:55:07.000Z",
-            "author": {
-                "name": "Chinyemba-ck",
-                "url": "https://github.com/Chinyemba-ck"
             }
         }
     ]
