@@ -6,6 +6,17 @@
     "description": "CVE-2021 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/118418447?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
+            "url": "https://github.com/Locj41/demo-cve2021-45105",
+            "title": "Locj41/demo-cve2021-45105",
+            "date_modified": "2024-01-02T13:52:19.000Z",
+            "date_published": "2024-01-02T13:52:19.000Z",
+            "author": {
+                "name": "Locj41",
+                "url": "https://github.com/Locj41"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/65211256?u=17202d98ee387a1d9c2ef8571ffa2dba32837e78&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>  CVE-2021-26855, also known as Proxylogon, is a server-side request forgery (SSRF) vulnerability in Exchange that allows an attacker to send arbitrary HTTP requests and authenticate as the Exchange server.</div>",
             "url": "https://github.com/raheel0x01/CVE-2021-26855",
             "title": "raheel0x01/CVE-2021-26855:   CVE-2021-26855, also known as Proxylogon, is a server-side request forgery (SSRF) vulnerability in Exchange that allows an attacker to send arbitrary HTTP requests and authenticate as the Exchange server.",
@@ -47,17 +58,6 @@
             "author": {
                 "name": "afaq1337",
                 "url": "https://github.com/afaq1337"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/121667935?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Dell dbutil_2_3.sys driver Win11 23H2 exploit</div>",
-            "url": "https://github.com/houseofxyz/CVE-2021-21551",
-            "title": "houseofxyz/CVE-2021-21551: Dell dbutil_2_3.sys driver Win11 23H2 exploit",
-            "date_modified": "2023-12-30T12:41:28.000Z",
-            "date_published": "2023-12-30T12:23:23.000Z",
-            "author": {
-                "name": "houseofxyz",
-                "url": "https://github.com/houseofxyz"
             }
         },
         {
@@ -163,7 +163,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/101269191?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A demo exploit for CVE-2021-44026, a SQL injection in Roundcube</div>",
             "url": "https://github.com/pentesttoolscom/roundcube-cve-2021-44026",
             "title": "pentesttoolscom/roundcube-cve-2021-44026: A demo exploit for CVE-2021-44026, a SQL injection in Roundcube",
-            "date_modified": "2023-12-28T18:03:55.000Z",
+            "date_modified": "2024-01-02T13:10:55.000Z",
             "date_published": "2023-11-14T11:32:36.000Z",
             "author": {
                 "name": "pentesttoolscom",
