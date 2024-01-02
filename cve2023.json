@@ -6,6 +6,28 @@
     "description": "CVE-2023 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/128315553?u=0465dd8108f57b560d481b19a2d37b6db22bf3da&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
+            "url": "https://github.com/kiddenta/CVE-2023-6553",
+            "title": "kiddenta/CVE-2023-6553",
+            "date_modified": "2024-01-01T16:57:17.000Z",
+            "date_published": "2024-01-01T16:57:17.000Z",
+            "author": {
+                "name": "kiddenta",
+                "url": "https://github.com/kiddenta"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/63504490?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
+            "url": "https://github.com/sharathc213/CVE-2023-7172",
+            "title": "sharathc213/CVE-2023-7172",
+            "date_modified": "2024-01-02T07:30:17.000Z",
+            "date_published": "2024-01-02T07:28:25.000Z",
+            "author": {
+                "name": "sharathc213",
+                "url": "https://github.com/sharathc213"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/18195825?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023</div>",
             "url": "https://github.com/CVEProject/cvelist",
             "title": "CVEProject/cvelist: Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023",
@@ -17,10 +39,10 @@
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/155260607?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A meticulous scrutiny of the Exploit PDFs innards exposes a network of malevolence, unveiling both the nefarious hyperlink and the URL that precipitates</div>",
-            "url": "https://github.com/RelyDelay/Slient-PDF-FUD-Exploit-Slient-Builder-Exploit-Database-Cve-2023-Malware",
-            "title": "RelyDelay/Slient-PDF-FUD-Exploit-Slient-Builder-Exploit-Database-Cve-2023-Malware: A meticulous scrutiny of the Exploit PDFs innards exposes a network of malevolence, unveiling both the nefarious hyperlink and the URL that precipitates",
-            "date_modified": "2023-12-30T19:49:54.000Z",
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/155260607?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Microsoft Windows HTA (HTML Application) - Pinnacle of Remote Code Execution</div>",
+            "url": "https://github.com/RelyDelay/Hta-Exploit-Builder-Slient-Builder-Exploit-Database-Cve-2023-Malware",
+            "title": "RelyDelay/Hta-Exploit-Builder-Slient-Builder-Exploit-Database-Cve-2023-Malware: Microsoft Windows HTA (HTML Application) - Pinnacle of Remote Code Execution",
+            "date_modified": "2023-12-30T19:51:32.000Z",
             "date_published": "2023-12-30T19:47:45.000Z",
             "author": {
                 "name": "RelyDelay",
@@ -28,10 +50,21 @@
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/155260607?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Microsoft Windows HTA (HTML Application) - Pinnacle of Remote Code Execution</div>",
-            "url": "https://github.com/RelyDelay/Hta-Exploit-Builder-Slient-Builder-Exploit-Database-Cve-2023-Malware",
-            "title": "RelyDelay/Hta-Exploit-Builder-Slient-Builder-Exploit-Database-Cve-2023-Malware: Microsoft Windows HTA (HTML Application) - Pinnacle of Remote Code Execution",
-            "date_modified": "2023-12-30T19:51:32.000Z",
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/155260607?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>URL Contamination Exploit Muted Java Drive-By downloads can transpire during the act of perusing a website, inaugurating an electronic mail communication.</div>",
+            "url": "https://github.com/RelyDelay/Slient-Url-Exploit-Slient-Builder-Exploit-Database-Cve-2023-Malware",
+            "title": "RelyDelay/Slient-Url-Exploit-Slient-Builder-Exploit-Database-Cve-2023-Malware: URL Contamination Exploit Muted Java Drive-By downloads can transpire during the act of perusing a website, inaugurating an electronic mail communication.",
+            "date_modified": "2023-12-30T19:50:36.000Z",
+            "date_published": "2023-12-30T19:47:44.000Z",
+            "author": {
+                "name": "RelyDelay",
+                "url": "https://github.com/RelyDelay"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/155260607?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A meticulous scrutiny of the Exploit PDFs innards exposes a network of malevolence, unveiling both the nefarious hyperlink and the URL that precipitates</div>",
+            "url": "https://github.com/RelyDelay/Slient-PDF-FUD-Exploit-Slient-Builder-Exploit-Database-Cve-2023-Malware",
+            "title": "RelyDelay/Slient-PDF-FUD-Exploit-Slient-Builder-Exploit-Database-Cve-2023-Malware: A meticulous scrutiny of the Exploit PDFs innards exposes a network of malevolence, unveiling both the nefarious hyperlink and the URL that precipitates",
+            "date_modified": "2023-12-30T19:49:54.000Z",
             "date_published": "2023-12-30T19:47:45.000Z",
             "author": {
                 "name": "RelyDelay",
@@ -50,14 +83,14 @@
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/155260607?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>URL Contamination Exploit Muted Java Drive-By downloads can transpire during the act of perusing a website, inaugurating an electronic mail communication.</div>",
-            "url": "https://github.com/RelyDelay/Slient-Url-Exploit-Slient-Builder-Exploit-Database-Cve-2023-Malware",
-            "title": "RelyDelay/Slient-Url-Exploit-Slient-Builder-Exploit-Database-Cve-2023-Malware: URL Contamination Exploit Muted Java Drive-By downloads can transpire during the act of perusing a website, inaugurating an electronic mail communication.",
-            "date_modified": "2023-12-30T19:50:36.000Z",
-            "date_published": "2023-12-30T19:47:44.000Z",
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/36792635?u=634be135a2dfcb58bc3fd65b54ee3bfa1273ce5f&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2023-51467 POC</div>",
+            "url": "https://github.com/JaneMandy/CVE-2023-51467",
+            "title": "JaneMandy/CVE-2023-51467: CVE-2023-51467 POC",
+            "date_modified": "2023-12-29T11:55:08.000Z",
+            "date_published": "2023-12-29T02:25:43.000Z",
             "author": {
-                "name": "RelyDelay",
-                "url": "https://github.com/RelyDelay"
+                "name": "JaneMandy",
+                "url": "https://github.com/JaneMandy"
             }
         },
         {
@@ -105,17 +138,6 @@
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/128315553?u=0465dd8108f57b560d481b19a2d37b6db22bf3da&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
-            "url": "https://github.com/kiddenta/CVE-2023-6553",
-            "title": "kiddenta/CVE-2023-6553",
-            "date_modified": "2024-01-01T16:57:17.000Z",
-            "date_published": "2024-01-01T16:57:17.000Z",
-            "author": {
-                "name": "kiddenta",
-                "url": "https://github.com/kiddenta"
-            }
-        },
-        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/47793611?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
             "url": "https://github.com/snyk-labs/CVE-2023-50164-POC",
             "title": "snyk-labs/CVE-2023-50164-POC",
@@ -141,7 +163,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/101610912?u=873360bea259a3be95f35f6b9e788ce91e28ffe4&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>POC CVE-2023-48983</div>",
             "url": "https://github.com/tristao-marinho/CVE-2023-48983",
             "title": "tristao-marinho/CVE-2023-48983: POC CVE-2023-48983",
-            "date_modified": "2024-01-01T13:19:54.000Z",
+            "date_modified": "2024-01-02T07:27:43.000Z",
             "date_published": "2024-01-01T13:19:54.000Z",
             "author": {
                 "name": "tristao-marinho",
@@ -201,28 +223,6 @@
             "author": {
                 "name": "K3ysTr0K3R",
                 "url": "https://github.com/K3ysTr0K3R"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/11721930?u=136ad1404ad4018ccc270cbec1cdc6c700b8ca07&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>just idea, no cp pls</div>",
-            "url": "https://github.com/d4op/CVE-2023-51764-POC",
-            "title": "d4op/CVE-2023-51764-POC: just idea, no cp pls",
-            "date_modified": "2023-12-31T14:34:34.000Z",
-            "date_published": "2023-12-31T14:33:26.000Z",
-            "author": {
-                "name": "d4op",
-                "url": "https://github.com/d4op"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/4434533?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Simulates CVE-2023-4966 Citrix Bleed overread bug</div>",
-            "url": "https://github.com/morganwdavis/overread",
-            "title": "morganwdavis/overread: Simulates CVE-2023-4966 Citrix Bleed overread bug",
-            "date_modified": "2023-12-17T12:48:40.000Z",
-            "date_published": "2023-12-16T21:55:04.000Z",
-            "author": {
-                "name": "morganwdavis",
-                "url": "https://github.com/morganwdavis"
             }
         }
     ]
