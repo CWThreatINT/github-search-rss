@@ -6,6 +6,28 @@
     "description": "CVE-2022 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/82314652?u=1d236fae4b498a146c48f2ecab2820c9df8694f8&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Educational Follina PoC Tool</div>",
+            "url": "https://github.com/ethicalblue/Follina-CVE-2022-30190-Sample",
+            "title": "ethicalblue/Follina-CVE-2022-30190-Sample: Educational Follina PoC Tool",
+            "date_modified": "2024-01-02T10:32:01.000Z",
+            "date_published": "2022-06-25T16:27:59.000Z",
+            "author": {
+                "name": "ethicalblue",
+                "url": "https://github.com/ethicalblue"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/22233431?u=51f995c77e6c93f5851e0dd7b8c9b9d7249378c7&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>exploit poc</div>",
+            "url": "https://github.com/nvk0x/CVE-2022-1388-exploit",
+            "title": "nvk0x/CVE-2022-1388-exploit: exploit poc",
+            "date_modified": "2024-01-03T12:28:57.000Z",
+            "date_published": "2024-01-03T12:28:06.000Z",
+            "author": {
+                "name": "nvk0x",
+                "url": "https://github.com/nvk0x"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/29899371?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2022-0995 exploit</div>",
             "url": "https://github.com/1nzag/CVE-2022-0995",
             "title": "1nzag/CVE-2022-0995: CVE-2022-0995 exploit",
@@ -201,28 +223,6 @@
             "author": {
                 "name": "h4md153v63n",
                 "url": "https://github.com/h4md153v63n"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/5091265?u=87dc5059a1638cd35535cde142cd4e3248b02eb4&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2022-40347: Intern Record System - 'phone', 'email', 'deptType' and 'name' SQL Injection (Unauthenticated)</div>",
-            "url": "https://github.com/h4md153v63n/CVE-2022-40347_Intern-Record-System-phone-V1.0-SQL-Injection-Vulnerability-Unauthenticated",
-            "title": "h4md153v63n/CVE-2022-40347_Intern-Record-System-phone-V1.0-SQL-Injection-Vulnerability-Unauthenticated: CVE-2022-40347: Intern Record System - 'phone', 'email', 'deptType' and 'name' SQL Injection (Unauthenticated)",
-            "date_modified": "2023-04-08T19:29:19.000Z",
-            "date_published": "2023-02-16T02:16:51.000Z",
-            "author": {
-                "name": "h4md153v63n",
-                "url": "https://github.com/h4md153v63n"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/19479860?u=04677f490e98d90064fe473310aa361e4275e780&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>SnakeYAML-CVE-2022-1471-POC</div>",
-            "url": "https://github.com/falconkei/snakeyaml_cve_poc",
-            "title": "falconkei/snakeyaml_cve_poc: SnakeYAML-CVE-2022-1471-POC",
-            "date_modified": "2023-05-08T14:47:41.000Z",
-            "date_published": "2023-05-08T14:46:22.000Z",
-            "author": {
-                "name": "falconkei",
-                "url": "https://github.com/falconkei"
             }
         }
     ]
