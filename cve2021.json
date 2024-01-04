@@ -6,6 +6,17 @@
     "description": "CVE-2021 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/84082748?u=012d3c8ca7ca670da569d243b298c91ea1d3dd6e&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>touch 生成文件</div>",
+            "url": "https://github.com/cdxiaodong/CVE-2021-4034-touch",
+            "title": "cdxiaodong/CVE-2021-4034-touch: touch 生成文件",
+            "date_modified": "2024-01-04T07:43:29.000Z",
+            "date_published": "2024-01-04T07:43:02.000Z",
+            "author": {
+                "name": "cdxiaodong",
+                "url": "https://github.com/cdxiaodong"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/118418447?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
             "url": "https://github.com/Locj41/demo-cve2021-45105",
             "title": "Locj41/demo-cve2021-45105",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "wagneralves",
                 "url": "https://github.com/wagneralves"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/47946047?u=803a3c1ff50db92b0755cf61835b2ab0f784bb73&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Apache 2.4.50 - Path Traversal or Remote Code Execution</div>",
-            "url": "https://github.com/Rubikcuv5/cve-2021-42013",
-            "title": "Rubikcuv5/cve-2021-42013: Apache 2.4.50 - Path Traversal or Remote Code Execution",
-            "date_modified": "2023-12-21T11:20:39.000Z",
-            "date_published": "2023-12-21T11:20:39.000Z",
-            "author": {
-                "name": "Rubikcuv5",
-                "url": "https://github.com/Rubikcuv5"
             }
         }
     ]
