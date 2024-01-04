@@ -6,6 +6,17 @@
     "description": "CVE-2022 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/52469263?u=bde28f77b25ad4904d40c752e85f630b732c1f7f&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Script to validate WordPress CVE-2022-21661</div>",
+            "url": "https://github.com/p4ncontomat3/CVE-2022-21661",
+            "title": "p4ncontomat3/CVE-2022-21661: Script to validate WordPress CVE-2022-21661",
+            "date_modified": "2024-01-04T15:52:21.000Z",
+            "date_published": "2024-01-04T15:49:00.000Z",
+            "author": {
+                "name": "p4ncontomat3",
+                "url": "https://github.com/p4ncontomat3"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/82314652?u=1d236fae4b498a146c48f2ecab2820c9df8694f8&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Educational Follina PoC Tool</div>",
             "url": "https://github.com/ethicalblue/Follina-CVE-2022-30190-Sample",
             "title": "ethicalblue/Follina-CVE-2022-30190-Sample: Educational Follina PoC Tool",
@@ -209,17 +220,6 @@
             "title": "h4md153v63n/CVE-2022-40348_Intern-Record-System-Cross-site-Scripting-V1.0-Vulnerability-Unauthenticated: CVE-2022-40348: Intern Record System - 'name' and 'email' Cross-site Scripting (Unauthenticated)",
             "date_modified": "2023-04-08T19:29:16.000Z",
             "date_published": "2023-02-16T02:29:33.000Z",
-            "author": {
-                "name": "h4md153v63n",
-                "url": "https://github.com/h4md153v63n"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/5091265?u=87dc5059a1638cd35535cde142cd4e3248b02eb4&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2022-40347: Intern Record System - 'phone', 'email', 'deptType' and 'name' SQL Injection (Unauthenticated)</div>",
-            "url": "https://github.com/h4md153v63n/CVE-2022-40347_Intern-Record-System-phone-V1.0-SQL-Injection-Vulnerability-Unauthenticated",
-            "title": "h4md153v63n/CVE-2022-40347_Intern-Record-System-phone-V1.0-SQL-Injection-Vulnerability-Unauthenticated: CVE-2022-40347: Intern Record System - 'phone', 'email', 'deptType' and 'name' SQL Injection (Unauthenticated)",
-            "date_modified": "2023-04-08T19:29:19.000Z",
-            "date_published": "2023-02-16T02:16:51.000Z",
             "author": {
                 "name": "h4md153v63n",
                 "url": "https://github.com/h4md153v63n"
