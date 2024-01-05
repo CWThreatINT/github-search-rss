@@ -6,6 +6,17 @@
     "description": "CVE-2022 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/132866139?u=1c979224156b600307ff7b92e5f8859fb5846f78&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Dockerized POC for CVE-2022-42889 Text4Shell</div>",
+            "url": "https://github.com/aaronm-sysdig/text4shell-docker",
+            "title": "aaronm-sysdig/text4shell-docker: Dockerized POC for CVE-2022-42889 Text4Shell",
+            "date_modified": "2023-05-23T07:32:45.000Z",
+            "date_published": "2023-05-22T06:57:55.000Z",
+            "author": {
+                "name": "aaronm-sysdig",
+                "url": "https://github.com/aaronm-sysdig"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/154115874?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>simple application with a CVE-2022-45688 vulnerability</div>",
             "url": "https://github.com/scabench/jsonorg-tp1",
             "title": "scabench/jsonorg-tp1: simple application with a CVE-2022-45688 vulnerability",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "kimstars",
                 "url": "https://github.com/kimstars"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/5091265?u=87dc5059a1638cd35535cde142cd4e3248b02eb4&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2022-40032: Simple Task Managing System - 'login' and 'password' SQL Injection (Unauthenticated)</div>",
-            "url": "https://github.com/h4md153v63n/CVE-2022-40032_Simple-Task-Managing-System-V1.0-SQL-Injection-Vulnerability-Unauthenticated",
-            "title": "h4md153v63n/CVE-2022-40032_Simple-Task-Managing-System-V1.0-SQL-Injection-Vulnerability-Unauthenticated: CVE-2022-40032: Simple Task Managing System - 'login' and 'password' SQL Injection (Unauthenticated)",
-            "date_modified": "2023-04-08T19:29:21.000Z",
-            "date_published": "2023-02-16T01:42:48.000Z",
-            "author": {
-                "name": "h4md153v63n",
-                "url": "https://github.com/h4md153v63n"
             }
         }
     ]
