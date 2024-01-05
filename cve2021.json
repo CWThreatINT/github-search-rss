@@ -127,17 +127,6 @@
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/62325297?u=38b1e9eacf854853974585f6f3dfb623c40a9539&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>🔐 \"PWNTAPO: Unveiling Command Injection in TP-Link Tapo C200 Cameras (&lt;= v1.1.16 Build 211209)\" 🔓</div>",
-            "url": "https://github.com/B3nj4h/CVE-2021-4045",
-            "title": "B3nj4h/CVE-2021-4045: 🔐 \"PWNTAPO: Unveiling Command Injection in TP-Link Tapo C200 Cameras (<= v1.1.16 Build 211209)\" 🔓",
-            "date_modified": "2023-12-26T09:59:16.000Z",
-            "date_published": "2023-12-26T08:20:49.000Z",
-            "author": {
-                "name": "B3nj4h",
-                "url": "https://github.com/B3nj4h"
-            }
-        },
-        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/154918019?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
             "url": "https://github.com/DDayLuong/CVE-2021-3156",
             "title": "DDayLuong/CVE-2021-3156",
@@ -223,6 +212,17 @@
             "author": {
                 "name": "dcm2406",
                 "url": "https://github.com/dcm2406"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/5523049?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Directory Traversal and Arbitrary File Read on Grafana</div>",
+            "url": "https://github.com/wagneralves/CVE-2021-43798",
+            "title": "wagneralves/CVE-2021-43798: Directory Traversal and Arbitrary File Read on Grafana",
+            "date_modified": "2023-12-21T15:44:04.000Z",
+            "date_published": "2023-12-21T14:24:53.000Z",
+            "author": {
+                "name": "wagneralves",
+                "url": "https://github.com/wagneralves"
             }
         }
     ]
