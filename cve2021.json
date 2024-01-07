@@ -6,6 +6,17 @@
     "description": "CVE-2021 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/109766416?u=6a6f2dc80d83821e02df55a56ab299acc79a4844&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
+            "url": "https://github.com/imhunterand/CVE-2021-42013",
+            "title": "imhunterand/CVE-2021-42013",
+            "date_modified": "2024-01-07T16:07:13.000Z",
+            "date_published": "2024-01-07T15:58:03.000Z",
+            "author": {
+                "name": "imhunterand",
+                "url": "https://github.com/imhunterand"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/57265360?u=5a0d0ca6c5153d7e41b9f498a12fe2b35498adf6&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Local Privilege Escalation (LPE) vulnerability in Polkit - Pwnkit</div>",
             "url": "https://github.com/LucasPDiniz/CVE-2021-4034",
             "title": "LucasPDiniz/CVE-2021-4034: Local Privilege Escalation (LPE) vulnerability in Polkit - Pwnkit",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "robertdebock",
                 "url": "https://github.com/robertdebock"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/106772368?u=f46a99713b05334e4443c804d113e5ca1c3bee3e&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Instructions for exploiting vulnerabilities CVE-2021-44228 and CVE-2023-46604</div>",
-            "url": "https://github.com/dcm2406/CVE-Lab",
-            "title": "dcm2406/CVE-Lab: Instructions for exploiting vulnerabilities CVE-2021-44228 and CVE-2023-46604",
-            "date_modified": "2023-12-22T02:16:15.000Z",
-            "date_published": "2023-12-07T08:02:53.000Z",
-            "author": {
-                "name": "dcm2406",
-                "url": "https://github.com/dcm2406"
             }
         }
     ]

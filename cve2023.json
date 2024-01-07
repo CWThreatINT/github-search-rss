@@ -72,6 +72,17 @@
             }
         },
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/14952658?u=fdd9b6ecb3668634a950d2831127bc14b4a1e4a9&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
+            "url": "https://github.com/Freax13/cve-2023-46813-poc",
+            "title": "Freax13/cve-2023-46813-poc",
+            "date_modified": "2024-01-07T15:48:21.000Z",
+            "date_published": "2023-05-29T15:10:43.000Z",
+            "author": {
+                "name": "Freax13",
+                "url": "https://github.com/Freax13"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/66470049?u=4c5f92a1e305fffe341221b6bd9c288d85797fdc&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
             "url": "https://github.com/srinathkarli7/CVE-2023-26035-exploit.sh.sh.sh",
             "title": "srinathkarli7/CVE-2023-26035-exploit.sh.sh.sh",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "Double-q1015",
                 "url": "https://github.com/Double-q1015"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/40408435?u=6ccda7eb4298b144879d0aba25f74343b242b302&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Original PoC for CVE-2023-30367</div>",
-            "url": "https://github.com/S1lkys/CVE-2023-30367-mRemoteNG-password-dumper",
-            "title": "S1lkys/CVE-2023-30367-mRemoteNG-password-dumper: Original PoC for CVE-2023-30367",
-            "date_modified": "2023-12-17T12:30:34.000Z",
-            "date_published": "2023-07-08T18:16:39.000Z",
-            "author": {
-                "name": "S1lkys",
-                "url": "https://github.com/S1lkys"
             }
         }
     ]
