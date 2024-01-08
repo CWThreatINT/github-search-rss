@@ -9,8 +9,19 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/122338332?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>PoC Script for CVE-2022-36553: Exploits an unauthenticated remote command injection vulnerability in Hytec Inter HWL-2511-SS device.</div>",
             "url": "https://github.com/0xNslabs/CVE-2022-36553-PoC",
             "title": "0xNslabs/CVE-2022-36553-PoC: PoC Script for CVE-2022-36553: Exploits an unauthenticated remote command injection vulnerability in Hytec Inter HWL-2511-SS device.",
-            "date_modified": "2024-01-08T21:53:47.000Z",
+            "date_modified": "2024-01-08T22:10:59.000Z",
             "date_published": "2024-01-08T21:53:46.000Z",
+            "author": {
+                "name": "0xNslabs",
+                "url": "https://github.com/0xNslabs"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/122338332?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>PoC Script for CVE-2022-36267: Exploits an unauthenticated remote command injection vulnerability in Airspan AirSpot 5410 antenna.</div>",
+            "url": "https://github.com/0xNslabs/CVE-2022-36267-PoC",
+            "title": "0xNslabs/CVE-2022-36267-PoC: PoC Script for CVE-2022-36267: Exploits an unauthenticated remote command injection vulnerability in Airspan AirSpot 5410 antenna.",
+            "date_modified": "2024-01-08T22:41:33.000Z",
+            "date_published": "2024-01-08T22:23:57.000Z",
             "author": {
                 "name": "0xNslabs",
                 "url": "https://github.com/0xNslabs"
@@ -209,17 +220,6 @@
             "title": "kljunowsky/CVE-2022-42889-text4shell: Apache commons text - CVE-2022-42889 Text4Shell proof of concept exploit.",
             "date_modified": "2023-12-29T14:54:50.000Z",
             "date_published": "2022-10-19T11:49:08.000Z",
-            "author": {
-                "name": "kljunowsky",
-                "url": "https://github.com/kljunowsky"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/104329412?u=53e9af635644b8896df7de1ba33ef14aeeae490d&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2022-44268 ImageMagick Arbitrary File Read - Proof of Concept exploit</div>",
-            "url": "https://github.com/kljunowsky/CVE-2022-44268",
-            "title": "kljunowsky/CVE-2022-44268: CVE-2022-44268 ImageMagick Arbitrary File Read - Proof of Concept exploit",
-            "date_modified": "2023-12-29T14:53:40.000Z",
-            "date_published": "2023-02-13T02:00:51.000Z",
             "author": {
                 "name": "kljunowsky",
                 "url": "https://github.com/kljunowsky"
