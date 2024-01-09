@@ -6,6 +6,17 @@
     "description": "CVE-2022 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/55981787?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>PoC for CVE-2022-1388 affecting F5 BIG-IP.</div>",
+            "url": "https://github.com/nico989/CVE-2022-1388",
+            "title": "nico989/CVE-2022-1388: PoC for CVE-2022-1388 affecting F5 BIG-IP.",
+            "date_modified": "2024-01-09T19:56:11.000Z",
+            "date_published": "2024-01-09T19:52:36.000Z",
+            "author": {
+                "name": "nico989",
+                "url": "https://github.com/nico989"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/122338332?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>PoC Script for CVE-2022-36553: Exploits an unauthenticated remote command injection vulnerability in Hytec Inter HWL-2511-SS device.</div>",
             "url": "https://github.com/0xNslabs/CVE-2022-36553-PoC",
             "title": "0xNslabs/CVE-2022-36553-PoC: PoC Script for CVE-2022-36553: Exploits an unauthenticated remote command injection vulnerability in Hytec Inter HWL-2511-SS device.",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "0xst4n",
                 "url": "https://github.com/0xst4n"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/104329412?u=53e9af635644b8896df7de1ba33ef14aeeae490d&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Apache commons text - CVE-2022-42889 Text4Shell proof of concept exploit.</div>",
-            "url": "https://github.com/kljunowsky/CVE-2022-42889-text4shell",
-            "title": "kljunowsky/CVE-2022-42889-text4shell: Apache commons text - CVE-2022-42889 Text4Shell proof of concept exploit.",
-            "date_modified": "2023-12-29T14:54:50.000Z",
-            "date_published": "2022-10-19T11:49:08.000Z",
-            "author": {
-                "name": "kljunowsky",
-                "url": "https://github.com/kljunowsky"
             }
         }
     ]
