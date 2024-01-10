@@ -17,6 +17,17 @@
             }
         },
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/84010223?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2023-48022 exploit modified from Bishop Fox work</div>",
+            "url": "https://github.com/0x656565/CVE-2023-48022",
+            "title": "0x656565/CVE-2023-48022: CVE-2023-48022 exploit modified from Bishop Fox work",
+            "date_modified": "2024-01-10T06:33:09.000Z",
+            "date_published": "2024-01-10T06:26:01.000Z",
+            "author": {
+                "name": "0x656565",
+                "url": "https://github.com/0x656565"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/16118028?u=72ae608b7edb2080f703b434390d04c2695c06fc&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A short tutorial about how to find and verify FortiOS vulnerablility. </div>",
             "url": "https://github.com/awchjimmy/CVE-2023-27997-tutorial",
             "title": "awchjimmy/CVE-2023-27997-tutorial: A short tutorial about how to find and verify FortiOS vulnerablility. ",
@@ -209,17 +220,6 @@
             "title": "X1r0z/spring-amqp-deserialization: PoC of Spring AMQP Deserialization Vulnerability (CVE-2023-34050)",
             "date_modified": "2024-01-07T04:37:30.000Z",
             "date_published": "2023-10-20T05:46:15.000Z",
-            "author": {
-                "name": "X1r0z",
-                "url": "https://github.com/X1r0z"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/28532286?u=31b13b135027b4829ad2b7f6135cdf1745be118f&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>PoC of Apache Dubbo CVE-2023-23638</div>",
-            "url": "https://github.com/X1r0z/Dubbo-RCE",
-            "title": "X1r0z/Dubbo-RCE: PoC of Apache Dubbo CVE-2023-23638",
-            "date_modified": "2024-01-07T04:36:46.000Z",
-            "date_published": "2023-03-22T11:23:44.000Z",
             "author": {
                 "name": "X1r0z",
                 "url": "https://github.com/X1r0z"
