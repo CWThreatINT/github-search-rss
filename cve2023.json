@@ -6,6 +6,17 @@
     "description": "CVE-2023 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/73059812?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>JeecgBoot SQL（CVE-2023-1454）</div>",
+            "url": "https://github.com/shad0w0sec/CVE-2023-1454-EXP",
+            "title": "shad0w0sec/CVE-2023-1454-EXP: JeecgBoot SQL（CVE-2023-1454）",
+            "date_modified": "2023-12-31T06:49:23.000Z",
+            "date_published": "2023-12-31T06:47:01.000Z",
+            "author": {
+                "name": "shad0w0sec",
+                "url": "https://github.com/shad0w0sec"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/18195825?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023</div>",
             "url": "https://github.com/CVEProject/cvelist",
             "title": "CVEProject/cvelist: Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023",
@@ -14,6 +25,17 @@
             "author": {
                 "name": "CVEProject",
                 "url": "https://github.com/CVEProject"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/105772414?u=00df549f3ff62959402fcda5bd219d886125fbc0&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Proof of Concept for Server Side Request Forgery (SSRF) in request-baskets (V&lt;= v.1.2.1)</div>",
+            "url": "https://github.com/MasterCode112/CVE-2023-27163",
+            "title": "MasterCode112/CVE-2023-27163: Proof of Concept for Server Side Request Forgery (SSRF) in request-baskets (V<= v.1.2.1)",
+            "date_modified": "2023-12-28T11:45:13.000Z",
+            "date_published": "2023-12-28T11:36:37.000Z",
+            "author": {
+                "name": "MasterCode112",
+                "url": "https://github.com/MasterCode112"
             }
         },
         {
@@ -201,28 +223,6 @@
             "author": {
                 "name": "netuseradministrator",
                 "url": "https://github.com/netuseradministrator"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/14952658?u=fdd9b6ecb3668634a950d2831127bc14b4a1e4a9&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
-            "url": "https://github.com/Freax13/cve-2023-46813-poc",
-            "title": "Freax13/cve-2023-46813-poc",
-            "date_modified": "2024-01-07T16:35:42.000Z",
-            "date_published": "2023-05-29T15:10:43.000Z",
-            "author": {
-                "name": "Freax13",
-                "url": "https://github.com/Freax13"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/28532286?u=31b13b135027b4829ad2b7f6135cdf1745be118f&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>PoC of Spring AMQP Deserialization Vulnerability (CVE-2023-34050)</div>",
-            "url": "https://github.com/X1r0z/spring-amqp-deserialization",
-            "title": "X1r0z/spring-amqp-deserialization: PoC of Spring AMQP Deserialization Vulnerability (CVE-2023-34050)",
-            "date_modified": "2024-01-07T04:37:30.000Z",
-            "date_published": "2023-10-20T05:46:15.000Z",
-            "author": {
-                "name": "X1r0z",
-                "url": "https://github.com/X1r0z"
             }
         }
     ]
