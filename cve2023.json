@@ -17,6 +17,17 @@
             }
         },
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/16118028?u=72ae608b7edb2080f703b434390d04c2695c06fc&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A short tutorial about how to find and verify FortiOS vulnerablility. </div>",
+            "url": "https://github.com/awchjimmy/CVE-2023-27997-tutorial",
+            "title": "awchjimmy/CVE-2023-27997-tutorial: A short tutorial about how to find and verify FortiOS vulnerablility. ",
+            "date_modified": "2024-01-10T02:36:35.000Z",
+            "date_published": "2024-01-10T02:36:35.000Z",
+            "author": {
+                "name": "awchjimmy",
+                "url": "https://github.com/awchjimmy"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/91593280?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
             "url": "https://github.com/hh-hunter/ml-CVE-2023-1177",
             "title": "hh-hunter/ml-CVE-2023-1177",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "X1r0z",
                 "url": "https://github.com/X1r0z"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/22531478?u=6fe0d76b0a92da894b9573b4743461a5ed2d37a3&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Command Injection in Ping Utility on Buffalo LS210D Version 1.78-0.03</div>",
-            "url": "https://github.com/christopher-pace/CVE-2023-49038",
-            "title": "christopher-pace/CVE-2023-49038: Command Injection in Ping Utility on Buffalo LS210D Version 1.78-0.03",
-            "date_modified": "2024-01-07T03:38:02.000Z",
-            "date_published": "2023-12-14T01:49:52.000Z",
-            "author": {
-                "name": "christopher-pace",
-                "url": "https://github.com/christopher-pace"
             }
         }
     ]
