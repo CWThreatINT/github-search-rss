@@ -39,6 +39,17 @@
             }
         },
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/55981787?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>PoC for CVE-2022-1388 affecting F5 BIG-IP.</div>",
+            "url": "https://github.com/nico989/CVE-2022-1388",
+            "title": "nico989/CVE-2022-1388: PoC for CVE-2022-1388 affecting F5 BIG-IP.",
+            "date_modified": "2024-01-09T20:13:12.000Z",
+            "date_published": "2024-01-09T19:52:36.000Z",
+            "author": {
+                "name": "nico989",
+                "url": "https://github.com/nico989"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/122338332?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>PoC Script for CVE-2022-36553: Exploits an unauthenticated remote command injection vulnerability in Hytec Inter HWL-2511-SS device.</div>",
             "url": "https://github.com/0xNslabs/CVE-2022-36553-PoC",
             "title": "0xNslabs/CVE-2022-36553-PoC: PoC Script for CVE-2022-36553: Exploits an unauthenticated remote command injection vulnerability in Hytec Inter HWL-2511-SS device.",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "afaq1337",
                 "url": "https://github.com/afaq1337"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/17493969?u=fea8c7a8573be0ec31a1628d86f5265b6ef1c4e7&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div> CVE-2022-45699 - APSystems ECU-R is vulnerable to command injection in the timezone field</div>",
-            "url": "https://github.com/0xst4n/APSystems-ECU-R-RCE-Timezone",
-            "title": "0xst4n/APSystems-ECU-R-RCE-Timezone:  CVE-2022-45699 - APSystems ECU-R is vulnerable to command injection in the timezone field",
-            "date_modified": "2023-03-31T10:48:47.000Z",
-            "date_published": "2022-11-17T14:55:54.000Z",
-            "author": {
-                "name": "0xst4n",
-                "url": "https://github.com/0xst4n"
             }
         }
     ]
