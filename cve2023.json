@@ -17,6 +17,17 @@
             }
         },
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/77874955?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>minio系统存在信息泄露漏洞，未经身份认证的远程攻击，通过发送特殊POST请求到/minio/bootstrap/v1/verify即可获取所有敏感信息，其中包括MINIO_SECRET_KEY和MINIO_ROOT_PASSWORD，可能导致管理员账号密码泄露。</div>",
+            "url": "https://github.com/xk-mt/CVE-2023-28432",
+            "title": "xk-mt/CVE-2023-28432: minio系统存在信息泄露漏洞，未经身份认证的远程攻击，通过发送特殊POST请求到/minio/bootstrap/v1/verify即可获取所有敏感信息，其中包括MINIO_SECRET_KEY和MINIO_ROOT_PASSWORD，可能导致管理员账号密码泄露。",
+            "date_modified": "2024-01-11T14:56:48.000Z",
+            "date_published": "2024-01-11T13:41:20.000Z",
+            "author": {
+                "name": "xk-mt",
+                "url": "https://github.com/xk-mt"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/156245437?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Microsoft Windows HTA (HTML Application) - Pinnacle of Remote Code Execution</div>",
             "url": "https://github.com/Maskiow/Hta-Exploit-Builder-Slient-Builder-Exploit-Database-Cve-2023-Malware",
             "title": "Maskiow/Hta-Exploit-Builder-Slient-Builder-Exploit-Database-Cve-2023-Malware: Microsoft Windows HTA (HTML Application) - Pinnacle of Remote Code Execution",
@@ -58,17 +69,6 @@
             "author": {
                 "name": "Maskiow",
                 "url": "https://github.com/Maskiow"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/77874955?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>minio系统存在信息泄露漏洞，未经身份认证的远程攻击，通过发送特殊POST请求到/minio/bootstrap/v1/verify即可获取所有敏感信息，其中包括MINIO_SECRET_KEY和MINIO_ROOT_PASSWORD，可能导致管理员账号密码泄露。</div>",
-            "url": "https://github.com/xk-mt/CVE-2023-28432",
-            "title": "xk-mt/CVE-2023-28432: minio系统存在信息泄露漏洞，未经身份认证的远程攻击，通过发送特殊POST请求到/minio/bootstrap/v1/verify即可获取所有敏感信息，其中包括MINIO_SECRET_KEY和MINIO_ROOT_PASSWORD，可能导致管理员账号密码泄露。",
-            "date_modified": "2024-01-11T13:41:21.000Z",
-            "date_published": "2024-01-11T13:41:20.000Z",
-            "author": {
-                "name": "xk-mt",
-                "url": "https://github.com/xk-mt"
             }
         },
         {
