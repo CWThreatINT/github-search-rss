@@ -6,28 +6,6 @@
     "description": "CVE-2023 FEED on GitHub",
     "items": [
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/137430106?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Arbitrary File Upload Vulnerability in ROS2 Foxy Fitzroy</div>",
-            "url": "https://github.com/16yashpatel/CVE-2023-51208",
-            "title": "16yashpatel/CVE-2023-51208: Arbitrary File Upload Vulnerability in ROS2 Foxy Fitzroy",
-            "date_modified": "2024-01-10T18:12:26.000Z",
-            "date_published": "2024-01-10T18:08:37.000Z",
-            "author": {
-                "name": "16yashpatel",
-                "url": "https://github.com/16yashpatel"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/137430106?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Insecure Deserialization Vulnerability in ROS2 Foxy Fitzroy</div>",
-            "url": "https://github.com/16yashpatel/CVE-2023-51204",
-            "title": "16yashpatel/CVE-2023-51204: Insecure Deserialization Vulnerability in ROS2 Foxy Fitzroy",
-            "date_modified": "2024-01-10T18:08:19.000Z",
-            "date_published": "2024-01-10T17:54:59.000Z",
-            "author": {
-                "name": "16yashpatel",
-                "url": "https://github.com/16yashpatel"
-            }
-        },
-        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/18195825?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023</div>",
             "url": "https://github.com/CVEProject/cvelist",
             "title": "CVEProject/cvelist: Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023",
@@ -36,50 +14,6 @@
             "author": {
                 "name": "CVEProject",
                 "url": "https://github.com/CVEProject"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/137430106?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>OS Command Injection Vulnerability in ROS2 Foxy Fitzroy</div>",
-            "url": "https://github.com/16yashpatel/CVE-2023-51202",
-            "title": "16yashpatel/CVE-2023-51202: OS Command Injection Vulnerability in ROS2 Foxy Fitzroy",
-            "date_modified": "2024-01-10T17:43:05.000Z",
-            "date_published": "2024-01-10T17:33:19.000Z",
-            "author": {
-                "name": "16yashpatel",
-                "url": "https://github.com/16yashpatel"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/156245437?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>In the hushed galleries of the Silent JPG Exploit, a symphony shrouded in enigma unfurls—an opus named silent-jpg-exploit-2018—a title that reverberates through the annals of intrigue.</div>",
-            "url": "https://github.com/Maskiow/Jpg-Png-Exploit-Slient-Builder-Exploit-Database-Cve-2023-Malware",
-            "title": "Maskiow/Jpg-Png-Exploit-Slient-Builder-Exploit-Database-Cve-2023-Malware: In the hushed galleries of the Silent JPG Exploit, a symphony shrouded in enigma unfurls—an opus named silent-jpg-exploit-2018—a title that reverberates through the annals of intrigue.",
-            "date_modified": "2024-01-10T20:48:06.000Z",
-            "date_published": "2024-01-10T20:46:05.000Z",
-            "author": {
-                "name": "Maskiow",
-                "url": "https://github.com/Maskiow"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/137430106?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Information Leakage in ROS2 Foxy Fitzroy via Plaintext Message Transmission</div>",
-            "url": "https://github.com/16yashpatel/CVE-2023-51201",
-            "title": "16yashpatel/CVE-2023-51201: Information Leakage in ROS2 Foxy Fitzroy via Plaintext Message Transmission",
-            "date_modified": "2024-01-10T16:54:06.000Z",
-            "date_published": "2024-01-10T16:46:56.000Z",
-            "author": {
-                "name": "16yashpatel",
-                "url": "https://github.com/16yashpatel"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/137430106?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Security Misconfiguration in ROS2 Foxy Fitzroy</div>",
-            "url": "https://github.com/16yashpatel/CVE-2023-51200",
-            "title": "16yashpatel/CVE-2023-51200: Security Misconfiguration in ROS2 Foxy Fitzroy",
-            "date_modified": "2024-01-10T16:32:49.000Z",
-            "date_published": "2024-01-10T16:17:59.000Z",
-            "author": {
-                "name": "16yashpatel",
-                "url": "https://github.com/16yashpatel"
             }
         },
         {
@@ -102,6 +36,83 @@
             "author": {
                 "name": "Maskiow",
                 "url": "https://github.com/Maskiow"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/156245437?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>URL Contamination Exploit Muted Java Drive-By downloads can transpire during the act of perusing a website, inaugurating an electronic mail communication.</div>",
+            "url": "https://github.com/Maskiow/Slient-Url-Exploit-Slient-Builder-Exploit-Database-Cve-2023-Malware",
+            "title": "Maskiow/Slient-Url-Exploit-Slient-Builder-Exploit-Database-Cve-2023-Malware: URL Contamination Exploit Muted Java Drive-By downloads can transpire during the act of perusing a website, inaugurating an electronic mail communication.",
+            "date_modified": "2024-01-10T20:48:11.000Z",
+            "date_published": "2024-01-10T20:46:05.000Z",
+            "author": {
+                "name": "Maskiow",
+                "url": "https://github.com/Maskiow"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/156245437?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>In the hushed galleries of the Silent JPG Exploit, a symphony shrouded in enigma unfurls—an opus named silent-jpg-exploit-2018—a title that reverberates through the annals of intrigue.</div>",
+            "url": "https://github.com/Maskiow/Jpg-Png-Exploit-Slient-Builder-Exploit-Database-Cve-2023-Malware",
+            "title": "Maskiow/Jpg-Png-Exploit-Slient-Builder-Exploit-Database-Cve-2023-Malware: In the hushed galleries of the Silent JPG Exploit, a symphony shrouded in enigma unfurls—an opus named silent-jpg-exploit-2018—a title that reverberates through the annals of intrigue.",
+            "date_modified": "2024-01-10T20:48:06.000Z",
+            "date_published": "2024-01-10T20:46:05.000Z",
+            "author": {
+                "name": "Maskiow",
+                "url": "https://github.com/Maskiow"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/137430106?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Arbitrary File Upload Vulnerability in ROS2 Foxy Fitzroy</div>",
+            "url": "https://github.com/16yashpatel/CVE-2023-51208",
+            "title": "16yashpatel/CVE-2023-51208: Arbitrary File Upload Vulnerability in ROS2 Foxy Fitzroy",
+            "date_modified": "2024-01-10T18:12:26.000Z",
+            "date_published": "2024-01-10T18:08:37.000Z",
+            "author": {
+                "name": "16yashpatel",
+                "url": "https://github.com/16yashpatel"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/137430106?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Insecure Deserialization Vulnerability in ROS2 Foxy Fitzroy</div>",
+            "url": "https://github.com/16yashpatel/CVE-2023-51204",
+            "title": "16yashpatel/CVE-2023-51204: Insecure Deserialization Vulnerability in ROS2 Foxy Fitzroy",
+            "date_modified": "2024-01-10T18:08:19.000Z",
+            "date_published": "2024-01-10T17:54:59.000Z",
+            "author": {
+                "name": "16yashpatel",
+                "url": "https://github.com/16yashpatel"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/137430106?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>OS Command Injection Vulnerability in ROS2 Foxy Fitzroy</div>",
+            "url": "https://github.com/16yashpatel/CVE-2023-51202",
+            "title": "16yashpatel/CVE-2023-51202: OS Command Injection Vulnerability in ROS2 Foxy Fitzroy",
+            "date_modified": "2024-01-10T17:43:05.000Z",
+            "date_published": "2024-01-10T17:33:19.000Z",
+            "author": {
+                "name": "16yashpatel",
+                "url": "https://github.com/16yashpatel"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/137430106?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Information Leakage in ROS2 Foxy Fitzroy via Plaintext Message Transmission</div>",
+            "url": "https://github.com/16yashpatel/CVE-2023-51201",
+            "title": "16yashpatel/CVE-2023-51201: Information Leakage in ROS2 Foxy Fitzroy via Plaintext Message Transmission",
+            "date_modified": "2024-01-10T16:54:06.000Z",
+            "date_published": "2024-01-10T16:46:56.000Z",
+            "author": {
+                "name": "16yashpatel",
+                "url": "https://github.com/16yashpatel"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/137430106?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Security Misconfiguration in ROS2 Foxy Fitzroy</div>",
+            "url": "https://github.com/16yashpatel/CVE-2023-51200",
+            "title": "16yashpatel/CVE-2023-51200: Security Misconfiguration in ROS2 Foxy Fitzroy",
+            "date_modified": "2024-01-10T16:32:49.000Z",
+            "date_published": "2024-01-10T16:17:59.000Z",
+            "author": {
+                "name": "16yashpatel",
+                "url": "https://github.com/16yashpatel"
             }
         },
         {
@@ -138,17 +149,6 @@
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/156245437?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>URL Contamination Exploit Muted Java Drive-By downloads can transpire during the act of perusing a website, inaugurating an electronic mail communication.</div>",
-            "url": "https://github.com/Maskiow/Slient-Url-Exploit-Slient-Builder-Exploit-Database-Cve-2023-Malware",
-            "title": "Maskiow/Slient-Url-Exploit-Slient-Builder-Exploit-Database-Cve-2023-Malware: URL Contamination Exploit Muted Java Drive-By downloads can transpire during the act of perusing a website, inaugurating an electronic mail communication.",
-            "date_modified": "2024-01-10T20:48:11.000Z",
-            "date_published": "2024-01-10T20:46:05.000Z",
-            "author": {
-                "name": "Maskiow",
-                "url": "https://github.com/Maskiow"
-            }
-        },
-        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/19215931?u=da57ef0a19eac3f346f5db6e37895e43ba4d45ae&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Technical details for CVE-2023-46474</div>",
             "url": "https://github.com/Xn2/CVE-2023-46474",
             "title": "Xn2/CVE-2023-46474: Technical details for CVE-2023-46474",
@@ -182,6 +182,17 @@
             }
         },
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/134310220?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A go-exploit for Apache OFBiz CVE-2023-51467</div>",
+            "url": "https://github.com/vulncheck-oss/cve-2023-51467",
+            "title": "vulncheck-oss/cve-2023-51467: A go-exploit for Apache OFBiz CVE-2023-51467",
+            "date_modified": "2024-01-11T10:55:16.000Z",
+            "date_published": "2024-01-09T16:58:06.000Z",
+            "author": {
+                "name": "vulncheck-oss",
+                "url": "https://github.com/vulncheck-oss"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/134239936?u=cfc5412a0de4e4b70de31b4a1ce5f4fbec39cc01&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>HTML Injection in Alinto/SOGo Web Client</div>",
             "url": "https://github.com/E1tex/CVE-2023-48104",
             "title": "E1tex/CVE-2023-48104: HTML Injection in Alinto/SOGo Web Client",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "shad0w0sec",
                 "url": "https://github.com/shad0w0sec"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/105772414?u=00df549f3ff62959402fcda5bd219d886125fbc0&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Proof of Concept for Server Side Request Forgery (SSRF) in request-baskets (V&lt;= v.1.2.1)</div>",
-            "url": "https://github.com/MasterCode112/CVE-2023-27163",
-            "title": "MasterCode112/CVE-2023-27163: Proof of Concept for Server Side Request Forgery (SSRF) in request-baskets (V<= v.1.2.1)",
-            "date_modified": "2023-12-28T11:45:13.000Z",
-            "date_published": "2023-12-28T11:36:37.000Z",
-            "author": {
-                "name": "MasterCode112",
-                "url": "https://github.com/MasterCode112"
             }
         }
     ]
