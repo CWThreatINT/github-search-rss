@@ -6,10 +6,21 @@
     "description": "CVE-2023 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/20819326?u=1f4ec1146b3f841376038f2a984109416ced5c2d&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>An issue has been discovered in GitLab CE/EE affecting all versions from 16.1 prior to 16.1.6, 16.2 prior to 16.2.9, 16.3 prior to 16.3.7, 16.4 prior to 16.4.5, 16.5 prior to 16.5.6, 16.6 prior to 16.6.4, and 16.7 prior to 16.7.2 in which user account password reset emails could be delivered to an unverified email address.</div>",
+            "url": "https://github.com/duy-31/CVE-2023-7028",
+            "title": "duy-31/CVE-2023-7028: An issue has been discovered in GitLab CE/EE affecting all versions from 16.1 prior to 16.1.6, 16.2 prior to 16.2.9, 16.3 prior to 16.3.7, 16.4 prior to 16.4.5, 16.5 prior to 16.5.6, 16.6 prior to 16.6.4, and 16.7 prior to 16.7.2 in which user account password reset emails could be delivered to an unverified email address.",
+            "date_modified": "2024-01-12T15:20:29.000Z",
+            "date_published": "2024-01-12T15:17:59.000Z",
+            "author": {
+                "name": "duy-31",
+                "url": "https://github.com/duy-31"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/18195825?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023</div>",
             "url": "https://github.com/CVEProject/cvelist",
             "title": "CVEProject/cvelist: Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023",
-            "date_modified": "2024-01-12T14:49:55.000Z",
+            "date_modified": "2024-01-12T18:34:54.000Z",
             "date_published": "2020-11-02T19:30:55.000Z",
             "author": {
                 "name": "CVEProject",
@@ -39,6 +50,17 @@
             }
         },
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/44291039?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2023-50164 (Apache Struts path traversal to RCE vulnerability) - Proof of Concept</div>",
+            "url": "https://github.com/sunnyvale-it/CVE-2023-50164-PoC",
+            "title": "sunnyvale-it/CVE-2023-50164-PoC: CVE-2023-50164 (Apache Struts path traversal to RCE vulnerability) - Proof of Concept",
+            "date_modified": "2024-01-12T18:47:53.000Z",
+            "date_published": "2024-01-12T09:34:57.000Z",
+            "author": {
+                "name": "sunnyvale-it",
+                "url": "https://github.com/sunnyvale-it"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/156245437?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>URL Contamination Exploit Muted Java Drive-By downloads can transpire during the act of perusing a website, inaugurating an electronic mail communication.</div>",
             "url": "https://github.com/Maskiow/Slient-Url-Exploit-Slient-Builder-Exploit-Database-Cve-2023-Malware",
             "title": "Maskiow/Slient-Url-Exploit-Slient-Builder-Exploit-Database-Cve-2023-Malware: URL Contamination Exploit Muted Java Drive-By downloads can transpire during the act of perusing a website, inaugurating an electronic mail communication.",
@@ -58,17 +80,6 @@
             "author": {
                 "name": "Maskiow",
                 "url": "https://github.com/Maskiow"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/20819326?u=1f4ec1146b3f841376038f2a984109416ced5c2d&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>An issue has been discovered in GitLab CE/EE affecting all versions from 16.1 prior to 16.1.6, 16.2 prior to 16.2.9, 16.3 prior to 16.3.7, 16.4 prior to 16.4.5, 16.5 prior to 16.5.6, 16.6 prior to 16.6.4, and 16.7 prior to 16.7.2 in which user account password reset emails could be delivered to an unverified email address.</div>",
-            "url": "https://github.com/duy-31/CVE-2023-7028",
-            "title": "duy-31/CVE-2023-7028: An issue has been discovered in GitLab CE/EE affecting all versions from 16.1 prior to 16.1.6, 16.2 prior to 16.2.9, 16.3 prior to 16.3.7, 16.4 prior to 16.4.5, 16.5 prior to 16.5.6, 16.6 prior to 16.6.4, and 16.7 prior to 16.7.2 in which user account password reset emails could be delivered to an unverified email address.",
-            "date_modified": "2024-01-12T15:20:29.000Z",
-            "date_published": "2024-01-12T15:17:59.000Z",
-            "author": {
-                "name": "duy-31",
-                "url": "https://github.com/duy-31"
             }
         },
         {
@@ -124,17 +135,6 @@
             "author": {
                 "name": "yukselberkay",
                 "url": "https://github.com/yukselberkay"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/44291039?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2023-50164 (Apache Struts path traversal to RCE vulnerability) - Proof of Concept</div>",
-            "url": "https://github.com/sunnyvale-it/CVE-2023-50164-PoC",
-            "title": "sunnyvale-it/CVE-2023-50164-PoC: CVE-2023-50164 (Apache Struts path traversal to RCE vulnerability) - Proof of Concept",
-            "date_modified": "2024-01-12T09:40:17.000Z",
-            "date_published": "2024-01-12T09:34:57.000Z",
-            "author": {
-                "name": "sunnyvale-it",
-                "url": "https://github.com/sunnyvale-it"
             }
         },
         {
