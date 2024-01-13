@@ -6,6 +6,17 @@
     "description": "CVE-2021 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/96992046?u=10ff657463449006c9ad8d00672aeff375f7d18c&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Log4j2 LDAP 취약점 테스트 (CVE-2021-44228)</div>",
+            "url": "https://github.com/mklinkj/log4j2-test",
+            "title": "mklinkj/log4j2-test: Log4j2 LDAP 취약점 테스트 (CVE-2021-44228)",
+            "date_modified": "2022-01-09T19:59:25.000Z",
+            "date_published": "2022-01-03T04:36:41.000Z",
+            "author": {
+                "name": "mklinkj",
+                "url": "https://github.com/mklinkj"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/102907425?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Tool for finding CVE-2021-20323</div>",
             "url": "https://github.com/Cappricio-Securities/CVE-2021-20323",
             "title": "Cappricio-Securities/CVE-2021-20323: Tool for finding CVE-2021-20323",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "FredBrave",
                 "url": "https://github.com/FredBrave"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/100078094?u=a1532e1c68fd76ea849ebd706cea09e740cc469c&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Microsoft Exchange Server Spoofing Vulnerability Exploit!</div>",
-            "url": "https://github.com/0xrobiul/CVE-2021-41349",
-            "title": "0xrobiul/CVE-2021-41349: Microsoft Exchange Server Spoofing Vulnerability Exploit!",
-            "date_modified": "2023-08-23T18:22:27.000Z",
-            "date_published": "2022-07-30T10:51:55.000Z",
-            "author": {
-                "name": "0xrobiul",
-                "url": "https://github.com/0xrobiul"
             }
         }
     ]
