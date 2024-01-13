@@ -61,6 +61,17 @@
             }
         },
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/156511157?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
+            "url": "https://github.com/Team-Byerus/CVE-2023-51000",
+            "title": "Team-Byerus/CVE-2023-51000",
+            "date_modified": "2024-01-13T10:11:18.000Z",
+            "date_published": "2024-01-13T10:11:18.000Z",
+            "author": {
+                "name": "Team-Byerus",
+                "url": "https://github.com/Team-Byerus"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/39099220?u=4098eb7a6112f6fe218049b830f5d09586ae4a70&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Auto exploit script for the Java web framework OF Biz under CVE-2023-51467. </div>",
             "url": "https://github.com/Jake123otte1/BadBizness",
             "title": "Jake123otte1/BadBizness: Auto exploit script for the Java web framework OF Biz under CVE-2023-51467. ",
@@ -75,7 +86,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/61807609?u=13024490cd109f3ca0ec602ef1107fdf3fd5c5e8&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>This repository presents a proof-of-concept of CVE-2023-7028</div>",
             "url": "https://github.com/Vozec/CVE-2023-7028",
             "title": "Vozec/CVE-2023-7028: This repository presents a proof-of-concept of CVE-2023-7028",
-            "date_modified": "2024-01-13T10:03:23.000Z",
+            "date_modified": "2024-01-13T10:42:17.000Z",
             "date_published": "2024-01-12T18:29:27.000Z",
             "author": {
                 "name": "Vozec",
@@ -196,7 +207,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/4129781?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Privilege escalation using the XAML diagnostics API (CVE-2023-36003)</div>",
             "url": "https://github.com/m417z/CVE-2023-36003-POC",
             "title": "m417z/CVE-2023-36003-POC: Privilege escalation using the XAML diagnostics API (CVE-2023-36003)",
-            "date_modified": "2024-01-13T08:38:19.000Z",
+            "date_modified": "2024-01-13T10:51:42.000Z",
             "date_published": "2024-01-11T19:17:13.000Z",
             "author": {
                 "name": "m417z",
@@ -209,17 +220,6 @@
             "title": "geraldoalcantara/CVE-2023-51800: Multiple cross-site scripting (XSS) vulnerabilities in School Fees Management System v1.0.",
             "date_modified": "2024-01-13T07:55:05.000Z",
             "date_published": "2024-01-11T16:28:04.000Z",
-            "author": {
-                "name": "geraldoalcantara",
-                "url": "https://github.com/geraldoalcantara"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/152064551?u=edccd632a5a85be84ac80ed10a3bf6b713aadd4f&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Simple Student Attendance System v.1.0 - Cross-site scripting (XSS) vulnerabilities in attendance_report</div>",
-            "url": "https://github.com/geraldoalcantara/CVE-2023-51802",
-            "title": "geraldoalcantara/CVE-2023-51802: Simple Student Attendance System v.1.0 - Cross-site scripting (XSS) vulnerabilities in attendance_report",
-            "date_modified": "2024-01-11T18:25:58.000Z",
-            "date_published": "2024-01-11T17:28:16.000Z",
             "author": {
                 "name": "geraldoalcantara",
                 "url": "https://github.com/geraldoalcantara"

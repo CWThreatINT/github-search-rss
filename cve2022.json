@@ -17,6 +17,17 @@
             }
         },
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/18383407?u=c9d1276bd9ccb8b06b724c3057b1ef683fa81de7&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2022-20818: Local Privilege Escalation via Partial File Read in Cisco SD-WAN</div>",
+            "url": "https://github.com/mbadanoiu/CVE-2022-20818",
+            "title": "mbadanoiu/CVE-2022-20818: CVE-2022-20818: Local Privilege Escalation via Partial File Read in Cisco SD-WAN",
+            "date_modified": "2024-01-13T10:19:51.000Z",
+            "date_published": "2024-01-13T00:17:53.000Z",
+            "author": {
+                "name": "mbadanoiu",
+                "url": "https://github.com/mbadanoiu"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/55981787?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>PoC for CVE-2022-1388 affecting F5 BIG-IP.</div>",
             "url": "https://github.com/nico989/CVE-2022-1388",
             "title": "nico989/CVE-2022-1388: PoC for CVE-2022-1388 affecting F5 BIG-IP.",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "cosad3s",
                 "url": "https://github.com/cosad3s"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/12976017?u=6d3d423fda6a56643a0ca1acae5223cdf08a3c28&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>This is a one-time signature verification bypass. For persistent signature verification bypass, check <a href=\"https://github.com/TomKing062/CVE-2022-38691_38692\">https://github.com/TomKing062/CVE-2022-38691_38692</a></div>",
-            "url": "https://github.com/TomKing062/CVE-2022-38694_unlock_bootloader",
-            "title": "TomKing062/CVE-2022-38694_unlock_bootloader: This is a one-time signature verification bypass. For persistent signature verification bypass, check https://github.com/TomKing062/CVE-2022-38691_38692",
-            "date_modified": "2024-01-12T01:49:22.000Z",
-            "date_published": "2023-06-10T08:31:26.000Z",
-            "author": {
-                "name": "TomKing062",
-                "url": "https://github.com/TomKing062"
             }
         }
     ]
