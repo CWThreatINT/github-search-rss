@@ -6,6 +6,17 @@
     "description": "CVE-2022 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/107668520?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Program ini adalah alat (tool) yang dibuat untuk memeriksa keamanan sistem Minio terkait dengan kerentanan CVE-2022-35919</div>",
+            "url": "https://github.com/ifulxploit/Minio-Security-Vulnerability-Checker",
+            "title": "ifulxploit/Minio-Security-Vulnerability-Checker: Program ini adalah alat (tool) yang dibuat untuk memeriksa keamanan sistem Minio terkait dengan kerentanan CVE-2022-35919",
+            "date_modified": "2024-01-13T00:56:58.000Z",
+            "date_published": "2024-01-13T00:49:51.000Z",
+            "author": {
+                "name": "ifulxploit",
+                "url": "https://github.com/ifulxploit"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/55981787?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>PoC for CVE-2022-1388 affecting F5 BIG-IP.</div>",
             "url": "https://github.com/nico989/CVE-2022-1388",
             "title": "nico989/CVE-2022-1388: PoC for CVE-2022-1388 affecting F5 BIG-IP.",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "TomKing062",
                 "url": "https://github.com/TomKing062"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/45089292?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2022-36200 PoC</div>",
-            "url": "https://github.com/afaq1337/CVE-2022-36200",
-            "title": "afaq1337/CVE-2022-36200: CVE-2022-36200 PoC",
-            "date_modified": "2023-09-28T11:42:19.000Z",
-            "date_published": "2022-08-29T11:03:09.000Z",
-            "author": {
-                "name": "afaq1337",
-                "url": "https://github.com/afaq1337"
             }
         }
     ]
