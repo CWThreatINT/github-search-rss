@@ -6,14 +6,14 @@
     "description": "CVE-2023 FEED on GitHub",
     "items": [
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/18195825?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023</div>",
-            "url": "https://github.com/CVEProject/cvelist",
-            "title": "CVEProject/cvelist: Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023",
-            "date_modified": "2024-01-12T18:34:54.000Z",
-            "date_published": "2020-11-02T19:30:55.000Z",
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/156245437?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Microsoft Windows HTA (HTML Application) - Pinnacle of Remote Code Execution</div>",
+            "url": "https://github.com/Maskiow/Hta-Exploit-Builder-Slient-Builder-Exploit-Database-Cve-2023-Malware",
+            "title": "Maskiow/Hta-Exploit-Builder-Slient-Builder-Exploit-Database-Cve-2023-Malware: Microsoft Windows HTA (HTML Application) - Pinnacle of Remote Code Execution",
+            "date_modified": "2024-01-10T20:47:21.000Z",
+            "date_published": "2024-01-10T20:46:04.000Z",
             "author": {
-                "name": "CVEProject",
-                "url": "https://github.com/CVEProject"
+                "name": "Maskiow",
+                "url": "https://github.com/Maskiow"
             }
         },
         {
@@ -22,17 +22,6 @@
             "title": "Maskiow/Slient-PDF-FUD-Exploit-Slient-Builder-Exploit-Database-Cve-2023-Malware: A meticulous scrutiny of the Exploit PDFs innards exposes a network of malevolence, unveiling both the nefarious hyperlink and the URL that precipitates",
             "date_modified": "2024-01-10T20:47:59.000Z",
             "date_published": "2024-01-10T20:46:03.000Z",
-            "author": {
-                "name": "Maskiow",
-                "url": "https://github.com/Maskiow"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/156245437?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Microsoft Windows HTA (HTML Application) - Pinnacle of Remote Code Execution</div>",
-            "url": "https://github.com/Maskiow/Hta-Exploit-Builder-Slient-Builder-Exploit-Database-Cve-2023-Malware",
-            "title": "Maskiow/Hta-Exploit-Builder-Slient-Builder-Exploit-Database-Cve-2023-Malware: Microsoft Windows HTA (HTML Application) - Pinnacle of Remote Code Execution",
-            "date_modified": "2024-01-10T20:47:21.000Z",
-            "date_published": "2024-01-10T20:46:04.000Z",
             "author": {
                 "name": "Maskiow",
                 "url": "https://github.com/Maskiow"
@@ -61,6 +50,17 @@
             }
         },
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/18195825?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023</div>",
+            "url": "https://github.com/CVEProject/cvelist",
+            "title": "CVEProject/cvelist: Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023",
+            "date_modified": "2024-01-12T18:34:54.000Z",
+            "date_published": "2020-11-02T19:30:55.000Z",
+            "author": {
+                "name": "CVEProject",
+                "url": "https://github.com/CVEProject"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/70921512?u=803ab8a444a68a702c33edfd02c2f17269e530e5&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2023-6875 PoC</div>",
             "url": "https://github.com/UlyssesSaicha/CVE-2023-6875",
             "title": "UlyssesSaicha/CVE-2023-6875: CVE-2023-6875 PoC",
@@ -75,7 +75,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/61807609?u=13024490cd109f3ca0ec602ef1107fdf3fd5c5e8&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>This repository presents a proof-of-concept of CVE-2023-7028</div>",
             "url": "https://github.com/Vozec/CVE-2023-7028",
             "title": "Vozec/CVE-2023-7028: This repository presents a proof-of-concept of CVE-2023-7028",
-            "date_modified": "2024-01-13T21:41:07.000Z",
+            "date_modified": "2024-01-13T22:56:17.000Z",
             "date_published": "2024-01-12T18:29:27.000Z",
             "author": {
                 "name": "Vozec",
@@ -174,7 +174,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/51722811?u=a195458fc64bade6e8616d1d5c43883f0abde0c0&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2023-7028</div>",
             "url": "https://github.com/RandomRobbieBF/CVE-2023-7028",
             "title": "RandomRobbieBF/CVE-2023-7028: CVE-2023-7028",
-            "date_modified": "2024-01-13T16:24:51.000Z",
+            "date_modified": "2024-01-13T22:32:41.000Z",
             "date_published": "2024-01-12T10:53:50.000Z",
             "author": {
                 "name": "RandomRobbieBF",
@@ -218,7 +218,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/4129781?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Privilege escalation using the XAML diagnostics API (CVE-2023-36003)</div>",
             "url": "https://github.com/m417z/CVE-2023-36003-POC",
             "title": "m417z/CVE-2023-36003-POC: Privilege escalation using the XAML diagnostics API (CVE-2023-36003)",
-            "date_modified": "2024-01-13T20:57:50.000Z",
+            "date_modified": "2024-01-13T22:29:12.000Z",
             "date_published": "2024-01-11T19:17:13.000Z",
             "author": {
                 "name": "m417z",
