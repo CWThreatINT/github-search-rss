@@ -6,14 +6,14 @@
     "description": "CVE-2023 FEED on GitHub",
     "items": [
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/88535377?u=6b8983d2cd12765fbbfa53e35463d9ef97ab495a&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Backup Migration &lt;= 1.3.7 - Unauthenticated Remote Code Execution</div>",
-            "url": "https://github.com/Chocapikk/CVE-2023-6553",
-            "title": "Chocapikk/CVE-2023-6553: Backup Migration <= 1.3.7 - Unauthenticated Remote Code Execution",
-            "date_modified": "2024-01-11T12:54:06.000Z",
-            "date_published": "2023-12-13T20:26:59.000Z",
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/18195825?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023</div>",
+            "url": "https://github.com/CVEProject/cvelist",
+            "title": "CVEProject/cvelist: Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023",
+            "date_modified": "2024-01-12T18:34:54.000Z",
+            "date_published": "2020-11-02T19:30:55.000Z",
             "author": {
-                "name": "Chocapikk",
-                "url": "https://github.com/Chocapikk"
+                "name": "CVEProject",
+                "url": "https://github.com/CVEProject"
             }
         },
         {
@@ -22,17 +22,6 @@
             "title": "Maskiow/Hta-Exploit-Builder-Slient-Builder-Exploit-Database-Cve-2023-Malware: Microsoft Windows HTA (HTML Application) - Pinnacle of Remote Code Execution",
             "date_modified": "2024-01-10T20:47:21.000Z",
             "date_published": "2024-01-10T20:46:04.000Z",
-            "author": {
-                "name": "Maskiow",
-                "url": "https://github.com/Maskiow"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/156245437?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>URL Contamination Exploit Muted Java Drive-By downloads can transpire during the act of perusing a website, inaugurating an electronic mail communication.</div>",
-            "url": "https://github.com/Maskiow/Slient-Url-Exploit-Slient-Builder-Exploit-Database-Cve-2023-Malware",
-            "title": "Maskiow/Slient-Url-Exploit-Slient-Builder-Exploit-Database-Cve-2023-Malware: URL Contamination Exploit Muted Java Drive-By downloads can transpire during the act of perusing a website, inaugurating an electronic mail communication.",
-            "date_modified": "2024-01-10T20:48:11.000Z",
-            "date_published": "2024-01-10T20:46:05.000Z",
             "author": {
                 "name": "Maskiow",
                 "url": "https://github.com/Maskiow"
@@ -50,6 +39,17 @@
             }
         },
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/156245437?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>URL Contamination Exploit Muted Java Drive-By downloads can transpire during the act of perusing a website, inaugurating an electronic mail communication.</div>",
+            "url": "https://github.com/Maskiow/Slient-Url-Exploit-Slient-Builder-Exploit-Database-Cve-2023-Malware",
+            "title": "Maskiow/Slient-Url-Exploit-Slient-Builder-Exploit-Database-Cve-2023-Malware: URL Contamination Exploit Muted Java Drive-By downloads can transpire during the act of perusing a website, inaugurating an electronic mail communication.",
+            "date_modified": "2024-01-10T20:48:11.000Z",
+            "date_published": "2024-01-10T20:46:05.000Z",
+            "author": {
+                "name": "Maskiow",
+                "url": "https://github.com/Maskiow"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/156245437?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>In the hushed galleries of the Silent JPG Exploit, a symphony shrouded in enigma unfurls—an opus named silent-jpg-exploit-2018—a title that reverberates through the annals of intrigue.</div>",
             "url": "https://github.com/Maskiow/Jpg-Png-Exploit-Slient-Builder-Exploit-Database-Cve-2023-Malware",
             "title": "Maskiow/Jpg-Png-Exploit-Slient-Builder-Exploit-Database-Cve-2023-Malware: In the hushed galleries of the Silent JPG Exploit, a symphony shrouded in enigma unfurls—an opus named silent-jpg-exploit-2018—a title that reverberates through the annals of intrigue.",
@@ -61,6 +61,17 @@
             }
         },
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/88535377?u=6b8983d2cd12765fbbfa53e35463d9ef97ab495a&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Backup Migration &lt;= 1.3.7 - Unauthenticated Remote Code Execution</div>",
+            "url": "https://github.com/Chocapikk/CVE-2023-6553",
+            "title": "Chocapikk/CVE-2023-6553: Backup Migration <= 1.3.7 - Unauthenticated Remote Code Execution",
+            "date_modified": "2024-01-11T12:54:06.000Z",
+            "date_published": "2023-12-13T20:26:59.000Z",
+            "author": {
+                "name": "Chocapikk",
+                "url": "https://github.com/Chocapikk"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/134471901?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Quick scanner for possible vulnerable Ivanti Connect Secure appliances by country using Shodan.</div>",
             "url": "https://github.com/yoryio/CVE-2023-46805_CVE-2024-21887_Scanner",
             "title": "yoryio/CVE-2023-46805_CVE-2024-21887_Scanner: Quick scanner for possible vulnerable Ivanti Connect Secure appliances by country using Shodan.",
@@ -69,17 +80,6 @@
             "author": {
                 "name": "yoryio",
                 "url": "https://github.com/yoryio"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/18195825?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023</div>",
-            "url": "https://github.com/CVEProject/cvelist",
-            "title": "CVEProject/cvelist: Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023",
-            "date_modified": "2024-01-12T18:34:54.000Z",
-            "date_published": "2020-11-02T19:30:55.000Z",
-            "author": {
-                "name": "CVEProject",
-                "url": "https://github.com/CVEProject"
             }
         },
         {
@@ -97,7 +97,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/70921512?u=803ab8a444a68a702c33edfd02c2f17269e530e5&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2023-6875 PoC</div>",
             "url": "https://github.com/UlyssesSaicha/CVE-2023-6875",
             "title": "UlyssesSaicha/CVE-2023-6875: CVE-2023-6875 PoC",
-            "date_modified": "2024-01-14T17:55:39.000Z",
+            "date_modified": "2024-01-14T23:00:06.000Z",
             "date_published": "2024-01-13T15:23:17.000Z",
             "author": {
                 "name": "UlyssesSaicha",
@@ -108,7 +108,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/61807609?u=13024490cd109f3ca0ec602ef1107fdf3fd5c5e8&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>This repository presents a proof-of-concept of CVE-2023-7028</div>",
             "url": "https://github.com/Vozec/CVE-2023-7028",
             "title": "Vozec/CVE-2023-7028: This repository presents a proof-of-concept of CVE-2023-7028",
-            "date_modified": "2024-01-14T21:51:35.000Z",
+            "date_modified": "2024-01-14T22:57:01.000Z",
             "date_published": "2024-01-12T18:29:27.000Z",
             "author": {
                 "name": "Vozec",
@@ -207,7 +207,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/51722811?u=a195458fc64bade6e8616d1d5c43883f0abde0c0&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2023-7028</div>",
             "url": "https://github.com/RandomRobbieBF/CVE-2023-7028",
             "title": "RandomRobbieBF/CVE-2023-7028: CVE-2023-7028",
-            "date_modified": "2024-01-14T16:18:07.000Z",
+            "date_modified": "2024-01-14T23:00:54.000Z",
             "date_published": "2024-01-12T10:53:50.000Z",
             "author": {
                 "name": "RandomRobbieBF",
