@@ -6,28 +6,6 @@
     "description": "CVE-2023 FEED on GitHub",
     "items": [
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/113109389?u=89b5ef8d641e6dd476290118605978b41488e766&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Exploit information for CVE-2023-26609</div>",
-            "url": "https://github.com/d1gg0r/CVE-2023-26609",
-            "title": "d1gg0r/CVE-2023-26609: Exploit information for CVE-2023-26609",
-            "date_modified": "2024-01-15T14:03:19.000Z",
-            "date_published": "2024-01-15T14:03:19.000Z",
-            "author": {
-                "name": "d1gg0r",
-                "url": "https://github.com/d1gg0r"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/113109389?u=89b5ef8d641e6dd476290118605978b41488e766&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Exploit information for CVE-2023-26602</div>",
-            "url": "https://github.com/d1gg0r/CVE-2023-26602",
-            "title": "d1gg0r/CVE-2023-26602: Exploit information for CVE-2023-26602",
-            "date_modified": "2024-01-15T13:58:11.000Z",
-            "date_published": "2024-01-15T13:58:11.000Z",
-            "author": {
-                "name": "d1gg0r",
-                "url": "https://github.com/d1gg0r"
-            }
-        },
-        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/18195825?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023</div>",
             "url": "https://github.com/CVEProject/cvelist",
             "title": "CVEProject/cvelist: Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023",
@@ -39,33 +17,22 @@
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/156245437?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A meticulous scrutiny of the Exploit PDFs innards exposes a network of malevolence, unveiling both the nefarious hyperlink and the URL that precipitates</div>",
-            "url": "https://github.com/Maskiow/Slient-PDF-FUD-Exploit-Slient-Builder-Exploit-Database-Cve-2023-Malware",
-            "title": "Maskiow/Slient-PDF-FUD-Exploit-Slient-Builder-Exploit-Database-Cve-2023-Malware: A meticulous scrutiny of the Exploit PDFs innards exposes a network of malevolence, unveiling both the nefarious hyperlink and the URL that precipitates",
-            "date_modified": "2024-01-10T20:47:59.000Z",
-            "date_published": "2024-01-10T20:46:03.000Z",
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/156245437?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Microsoft Windows HTA (HTML Application) - Pinnacle of Remote Code Execution</div>",
+            "url": "https://github.com/Maskiow/Hta-Exploit-Builder-Slient-Builder-Exploit-Database-Cve-2023-Malware",
+            "title": "Maskiow/Hta-Exploit-Builder-Slient-Builder-Exploit-Database-Cve-2023-Malware: Microsoft Windows HTA (HTML Application) - Pinnacle of Remote Code Execution",
+            "date_modified": "2024-01-10T20:47:21.000Z",
+            "date_published": "2024-01-10T20:46:04.000Z",
             "author": {
                 "name": "Maskiow",
                 "url": "https://github.com/Maskiow"
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/123927299?u=6758ef1f63148028688ebf1ec59a3531b156dd23&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2023-31756 Proof of Concept - Remote Code Execution for Archer V1/V2 Routers</div>",
-            "url": "https://github.com/StanleyJobsonAU/LongBow",
-            "title": "StanleyJobsonAU/LongBow: CVE-2023-31756 Proof of Concept - Remote Code Execution for Archer V1/V2 Routers",
-            "date_modified": "2024-01-15T13:33:46.000Z",
-            "date_published": "2024-01-15T13:32:38.000Z",
-            "author": {
-                "name": "StanleyJobsonAU",
-                "url": "https://github.com/StanleyJobsonAU"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/156245437?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Microsoft Windows HTA (HTML Application) - Pinnacle of Remote Code Execution</div>",
-            "url": "https://github.com/Maskiow/Hta-Exploit-Builder-Slient-Builder-Exploit-Database-Cve-2023-Malware",
-            "title": "Maskiow/Hta-Exploit-Builder-Slient-Builder-Exploit-Database-Cve-2023-Malware: Microsoft Windows HTA (HTML Application) - Pinnacle of Remote Code Execution",
-            "date_modified": "2024-01-10T20:47:21.000Z",
-            "date_published": "2024-01-10T20:46:04.000Z",
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/156245437?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A meticulous scrutiny of the Exploit PDFs innards exposes a network of malevolence, unveiling both the nefarious hyperlink and the URL that precipitates</div>",
+            "url": "https://github.com/Maskiow/Slient-PDF-FUD-Exploit-Slient-Builder-Exploit-Database-Cve-2023-Malware",
+            "title": "Maskiow/Slient-PDF-FUD-Exploit-Slient-Builder-Exploit-Database-Cve-2023-Malware: A meticulous scrutiny of the Exploit PDFs innards exposes a network of malevolence, unveiling both the nefarious hyperlink and the URL that precipitates",
+            "date_modified": "2024-01-10T20:47:59.000Z",
+            "date_published": "2024-01-10T20:46:03.000Z",
             "author": {
                 "name": "Maskiow",
                 "url": "https://github.com/Maskiow"
@@ -91,6 +58,50 @@
             "author": {
                 "name": "Maskiow",
                 "url": "https://github.com/Maskiow"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/4058027?u=793c9eb0aeb64adda98b0a8c277e16531dad6cd1&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>An exploit for the Sitecore Remote Code Execution Vulnerability</div>",
+            "url": "https://github.com/BagheeraAltered/CVE-2023-35813-PoC",
+            "title": "BagheeraAltered/CVE-2023-35813-PoC: An exploit for the Sitecore Remote Code Execution Vulnerability",
+            "date_modified": "2024-01-15T14:15:38.000Z",
+            "date_published": "2024-01-15T14:14:42.000Z",
+            "author": {
+                "name": "BagheeraAltered",
+                "url": "https://github.com/BagheeraAltered"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/113109389?u=89b5ef8d641e6dd476290118605978b41488e766&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Exploit information for CVE-2023-26609</div>",
+            "url": "https://github.com/d1gg0r/CVE-2023-26609",
+            "title": "d1gg0r/CVE-2023-26609: Exploit information for CVE-2023-26609",
+            "date_modified": "2024-01-15T14:03:19.000Z",
+            "date_published": "2024-01-15T14:03:19.000Z",
+            "author": {
+                "name": "d1gg0r",
+                "url": "https://github.com/d1gg0r"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/113109389?u=89b5ef8d641e6dd476290118605978b41488e766&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Exploit information for CVE-2023-26602</div>",
+            "url": "https://github.com/d1gg0r/CVE-2023-26602",
+            "title": "d1gg0r/CVE-2023-26602: Exploit information for CVE-2023-26602",
+            "date_modified": "2024-01-15T13:58:11.000Z",
+            "date_published": "2024-01-15T13:58:11.000Z",
+            "author": {
+                "name": "d1gg0r",
+                "url": "https://github.com/d1gg0r"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/123927299?u=6758ef1f63148028688ebf1ec59a3531b156dd23&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2023-31756 Proof of Concept - Remote Code Execution for Archer V1/V2 Routers</div>",
+            "url": "https://github.com/StanleyJobsonAU/LongBow",
+            "title": "StanleyJobsonAU/LongBow: CVE-2023-31756 Proof of Concept - Remote Code Execution for Archer V1/V2 Routers",
+            "date_modified": "2024-01-15T13:33:46.000Z",
+            "date_published": "2024-01-15T13:32:38.000Z",
+            "author": {
+                "name": "StanleyJobsonAU",
+                "url": "https://github.com/StanleyJobsonAU"
             }
         },
         {
@@ -212,17 +223,6 @@
             "author": {
                 "name": "UlyssesSaicha",
                 "url": "https://github.com/UlyssesSaicha"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/61807609?u=13024490cd109f3ca0ec602ef1107fdf3fd5c5e8&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>This repository presents a proof-of-concept of CVE-2023-7028</div>",
-            "url": "https://github.com/Vozec/CVE-2023-7028",
-            "title": "Vozec/CVE-2023-7028: This repository presents a proof-of-concept of CVE-2023-7028",
-            "date_modified": "2024-01-15T13:32:26.000Z",
-            "date_published": "2024-01-12T18:29:27.000Z",
-            "author": {
-                "name": "Vozec",
-                "url": "https://github.com/Vozec"
             }
         }
     ]
