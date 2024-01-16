@@ -6,6 +6,17 @@
     "description": "CVE-2021 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/151052652?u=d6a068ea725e6872cfd94b78ae772ec634f0fefc&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
+            "url": "https://github.com/Pol-Ruiz/CVE-2021-4034",
+            "title": "Pol-Ruiz/CVE-2021-4034",
+            "date_modified": "2024-01-16T10:19:27.000Z",
+            "date_published": "2024-01-16T10:18:38.000Z",
+            "author": {
+                "name": "Pol-Ruiz",
+                "url": "https://github.com/Pol-Ruiz"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/70909693?u=623cdd16249501e7d4f74b743a81017fc3b4de3a&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A PoC exploit for CVE-2021-42013 - Apache 2.4.49 &amp; 2.4.50 Remote Code Execution</div>",
             "url": "https://github.com/K3ysTr0K3R/CVE-2021-42013-EXPLOIT",
             "title": "K3ysTr0K3R/CVE-2021-42013-EXPLOIT: A PoC exploit for CVE-2021-42013 - Apache 2.4.49 & 2.4.50 Remote Code Execution",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "huydung26",
                 "url": "https://github.com/huydung26"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/62325297?u=38b1e9eacf854853974585f6f3dfb623c40a9539&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>🔐 \"PWNTAPO: Unveiling Command Injection in TP-Link Tapo C200 Cameras (&lt;= v1.1.16 Build 211209)\" 🔓</div>",
-            "url": "https://github.com/pl4int3xt/CVE-2021-4045",
-            "title": "pl4int3xt/CVE-2021-4045: 🔐 \"PWNTAPO: Unveiling Command Injection in TP-Link Tapo C200 Cameras (<= v1.1.16 Build 211209)\" 🔓",
-            "date_modified": "2023-12-26T09:59:16.000Z",
-            "date_published": "2023-12-26T08:20:49.000Z",
-            "author": {
-                "name": "pl4int3xt",
-                "url": "https://github.com/pl4int3xt"
             }
         }
     ]
