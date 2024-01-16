@@ -6,6 +6,28 @@
     "description": "CVE-2022 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/96908273?u=ba447ba948bfe88edf9055a818c8678822ba7980&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2022-0543_RCE,Redis Lua沙盒绕过 命令执行</div>",
+            "url": "https://github.com/0x7eTeam/CVE-2022-0543",
+            "title": "0x7eTeam/CVE-2022-0543: CVE-2022-0543_RCE,Redis Lua沙盒绕过 命令执行",
+            "date_modified": "2024-01-08T05:24:14.000Z",
+            "date_published": "2022-03-16T06:41:50.000Z",
+            "author": {
+                "name": "0x7eTeam",
+                "url": "https://github.com/0x7eTeam"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/12976017?u=6d3d423fda6a56643a0ca1acae5223cdf08a3c28&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>This is a one-time signature verification bypass. For persistent signature verification bypass, check <a href=\"https://github.com/TomKing062/CVE-2022-38691_38692\">https://github.com/TomKing062/CVE-2022-38691_38692</a></div>",
+            "url": "https://github.com/TomKing062/CVE-2022-38694_unlock_bootloader",
+            "title": "TomKing062/CVE-2022-38694_unlock_bootloader: This is a one-time signature verification bypass. For persistent signature verification bypass, check https://github.com/TomKing062/CVE-2022-38691_38692",
+            "date_modified": "2024-01-13T23:47:46.000Z",
+            "date_published": "2023-06-10T08:31:26.000Z",
+            "author": {
+                "name": "TomKing062",
+                "url": "https://github.com/TomKing062"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/107668520?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Program ini adalah alat (tool) yang dibuat untuk memeriksa keamanan sistem Minio terkait dengan kerentanan CVE-2022-35919</div>",
             "url": "https://github.com/ifulxploit/Minio-Security-Vulnerability-Checker",
             "title": "ifulxploit/Minio-Security-Vulnerability-Checker: Program ini adalah alat (tool) yang dibuat untuk memeriksa keamanan sistem Minio terkait dengan kerentanan CVE-2022-35919",
@@ -201,28 +223,6 @@
             "author": {
                 "name": "p4ncontomat3",
                 "url": "https://github.com/p4ncontomat3"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/22233431?u=51f995c77e6c93f5851e0dd7b8c9b9d7249378c7&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>exploit poc</div>",
-            "url": "https://github.com/nvk0x/CVE-2022-1388-exploit",
-            "title": "nvk0x/CVE-2022-1388-exploit: exploit poc",
-            "date_modified": "2024-01-09T07:31:14.000Z",
-            "date_published": "2024-01-03T12:28:06.000Z",
-            "author": {
-                "name": "nvk0x",
-                "url": "https://github.com/nvk0x"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/29899371?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2022-0995 exploit</div>",
-            "url": "https://github.com/1nzag/CVE-2022-0995",
-            "title": "1nzag/CVE-2022-0995: CVE-2022-0995 exploit",
-            "date_modified": "2024-01-03T11:20:25.000Z",
-            "date_published": "2024-01-03T11:03:45.000Z",
-            "author": {
-                "name": "1nzag",
-                "url": "https://github.com/1nzag"
             }
         }
     ]
