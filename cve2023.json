@@ -6,6 +6,17 @@
     "description": "CVE-2023 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/499942?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
+            "url": "https://github.com/jfrog/jfrog-CVE-2023-43786-libX11_DoS",
+            "title": "jfrog/jfrog-CVE-2023-43786-libX11_DoS",
+            "date_modified": "2024-01-16T20:04:05.000Z",
+            "date_published": "2024-01-16T20:04:05.000Z",
+            "author": {
+                "name": "jfrog",
+                "url": "https://github.com/jfrog"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/18195825?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023</div>",
             "url": "https://github.com/CVEProject/cvelist",
             "title": "CVEProject/cvelist: Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023",
@@ -14,6 +25,39 @@
             "author": {
                 "name": "CVEProject",
                 "url": "https://github.com/CVEProject"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/156245437?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A meticulous scrutiny of the Exploit PDFs innards exposes a network of malevolence, unveiling both the nefarious hyperlink and the URL that precipitates</div>",
+            "url": "https://github.com/Maskiow/Slient-PDF-FUD-Exploit-Slient-Builder-Exploit-Database-Cve-2023-Malware",
+            "title": "Maskiow/Slient-PDF-FUD-Exploit-Slient-Builder-Exploit-Database-Cve-2023-Malware: A meticulous scrutiny of the Exploit PDFs innards exposes a network of malevolence, unveiling both the nefarious hyperlink and the URL that precipitates",
+            "date_modified": "2024-01-10T20:47:59.000Z",
+            "date_published": "2024-01-10T20:46:03.000Z",
+            "author": {
+                "name": "Maskiow",
+                "url": "https://github.com/Maskiow"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/156704363?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>URL Contamination Exploit Muted Java Drive-By downloads can transpire during the act of perusing a website, inaugurating an electronic mail communication.</div>",
+            "url": "https://github.com/Checkdos/Slient-Url-Exploit-Slient-Builder-Exploit-Database-Cve-2023-Malware",
+            "title": "Checkdos/Slient-Url-Exploit-Slient-Builder-Exploit-Database-Cve-2023-Malware: URL Contamination Exploit Muted Java Drive-By downloads can transpire during the act of perusing a website, inaugurating an electronic mail communication.",
+            "date_modified": "2024-01-15T17:59:42.000Z",
+            "date_published": "2024-01-15T17:57:38.000Z",
+            "author": {
+                "name": "Checkdos",
+                "url": "https://github.com/Checkdos"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/156704363?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Microsoft Windows HTA (HTML Application) - Pinnacle of Remote Code Execution</div>",
+            "url": "https://github.com/Checkdos/Hta-Exploit-Builder-Slient-Builder-Exploit-Database-Cve-2023-Malware",
+            "title": "Checkdos/Hta-Exploit-Builder-Slient-Builder-Exploit-Database-Cve-2023-Malware: Microsoft Windows HTA (HTML Application) - Pinnacle of Remote Code Execution",
+            "date_modified": "2024-01-15T17:58:54.000Z",
+            "date_published": "2024-01-15T17:57:38.000Z",
+            "author": {
+                "name": "Checkdos",
+                "url": "https://github.com/Checkdos"
             }
         },
         {
@@ -39,33 +83,11 @@
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/156245437?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A meticulous scrutiny of the Exploit PDFs innards exposes a network of malevolence, unveiling both the nefarious hyperlink and the URL that precipitates</div>",
-            "url": "https://github.com/Maskiow/Slient-PDF-FUD-Exploit-Slient-Builder-Exploit-Database-Cve-2023-Malware",
-            "title": "Maskiow/Slient-PDF-FUD-Exploit-Slient-Builder-Exploit-Database-Cve-2023-Malware: A meticulous scrutiny of the Exploit PDFs innards exposes a network of malevolence, unveiling both the nefarious hyperlink and the URL that precipitates",
-            "date_modified": "2024-01-10T20:47:59.000Z",
-            "date_published": "2024-01-10T20:46:03.000Z",
-            "author": {
-                "name": "Maskiow",
-                "url": "https://github.com/Maskiow"
-            }
-        },
-        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/156704363?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A meticulous scrutiny of the Exploit PDFs innards exposes a network of malevolence, unveiling both the nefarious hyperlink and the URL that precipitates</div>",
             "url": "https://github.com/Checkdos/Slient-PDF-FUD-Exploit-Slient-Builder-Exploit-Database-Cve-2023-Malware",
             "title": "Checkdos/Slient-PDF-FUD-Exploit-Slient-Builder-Exploit-Database-Cve-2023-Malware: A meticulous scrutiny of the Exploit PDFs innards exposes a network of malevolence, unveiling both the nefarious hyperlink and the URL that precipitates",
             "date_modified": "2024-01-15T17:59:29.000Z",
             "date_published": "2024-01-15T17:57:37.000Z",
-            "author": {
-                "name": "Checkdos",
-                "url": "https://github.com/Checkdos"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/156704363?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>URL Contamination Exploit Muted Java Drive-By downloads can transpire during the act of perusing a website, inaugurating an electronic mail communication.</div>",
-            "url": "https://github.com/Checkdos/Slient-Url-Exploit-Slient-Builder-Exploit-Database-Cve-2023-Malware",
-            "title": "Checkdos/Slient-Url-Exploit-Slient-Builder-Exploit-Database-Cve-2023-Malware: URL Contamination Exploit Muted Java Drive-By downloads can transpire during the act of perusing a website, inaugurating an electronic mail communication.",
-            "date_modified": "2024-01-15T17:59:42.000Z",
-            "date_published": "2024-01-15T17:57:38.000Z",
             "author": {
                 "name": "Checkdos",
                 "url": "https://github.com/Checkdos"
@@ -94,14 +116,25 @@
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/156704363?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Microsoft Windows HTA (HTML Application) - Pinnacle of Remote Code Execution</div>",
-            "url": "https://github.com/Checkdos/Hta-Exploit-Builder-Slient-Builder-Exploit-Database-Cve-2023-Malware",
-            "title": "Checkdos/Hta-Exploit-Builder-Slient-Builder-Exploit-Database-Cve-2023-Malware: Microsoft Windows HTA (HTML Application) - Pinnacle of Remote Code Execution",
-            "date_modified": "2024-01-15T17:58:54.000Z",
-            "date_published": "2024-01-15T17:57:38.000Z",
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/20819326?u=1f4ec1146b3f841376038f2a984109416ced5c2d&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
+            "url": "https://github.com/duy-31/CVE-2023-46805_CVE-2024-21887",
+            "title": "duy-31/CVE-2023-46805_CVE-2024-21887",
+            "date_modified": "2024-01-16T19:44:44.000Z",
+            "date_published": "2024-01-16T19:40:59.000Z",
             "author": {
-                "name": "Checkdos",
-                "url": "https://github.com/Checkdos"
+                "name": "duy-31",
+                "url": "https://github.com/duy-31"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/2202542?u=c204fdc6f1a34e70bf30e80fae126e3d5f338f77&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Tool for checking the Ivanti Connect Secure System Snapshot for IOCs related to CVE-2023-46805 and CVE-2024-21887</div>",
+            "url": "https://github.com/rxwx/pulse-meter",
+            "title": "rxwx/pulse-meter: Tool for checking the Ivanti Connect Secure System Snapshot for IOCs related to CVE-2023-46805 and CVE-2024-21887",
+            "date_modified": "2024-01-16T19:24:24.000Z",
+            "date_published": "2024-01-16T19:19:52.000Z",
+            "author": {
+                "name": "rxwx",
+                "url": "https://github.com/rxwx"
             }
         },
         {
@@ -190,39 +223,6 @@
             "author": {
                 "name": "d1gg0r",
                 "url": "https://github.com/d1gg0r"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/44291039?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2023-50164 (Apache Struts path traversal to RCE vulnerability) - Proof of Concept</div>",
-            "url": "https://github.com/sunnyvale-it/CVE-2023-50164-PoC",
-            "title": "sunnyvale-it/CVE-2023-50164-PoC: CVE-2023-50164 (Apache Struts path traversal to RCE vulnerability) - Proof of Concept",
-            "date_modified": "2024-01-13T09:36:42.000Z",
-            "date_published": "2024-01-12T09:34:57.000Z",
-            "author": {
-                "name": "sunnyvale-it",
-                "url": "https://github.com/sunnyvale-it"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/151052652?u=d6a068ea725e6872cfd94b78ae772ec634f0fefc&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Esto es una prueba de concepto propia i basica de la vulneravilidad CVE-2023-1326</div>",
-            "url": "https://github.com/Pol-Ruiz/CVE-2023-1326",
-            "title": "Pol-Ruiz/CVE-2023-1326: Esto es una prueba de concepto propia i basica de la vulneravilidad CVE-2023-1326",
-            "date_modified": "2024-01-16T10:20:53.000Z",
-            "date_published": "2024-01-16T10:20:53.000Z",
-            "author": {
-                "name": "Pol-Ruiz",
-                "url": "https://github.com/Pol-Ruiz"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/13798539?u=c4b10747ce2fe4638b06cf7af21ac244f582cd76&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2023-22527 - RCE (Remote Code Execution) Vulnerability In Confluence Data Center and Confluence Server PoC</div>",
-            "url": "https://github.com/Avento/CVE-2023-22527_Confluence_RCE",
-            "title": "Avento/CVE-2023-22527_Confluence_RCE: CVE-2023-22527 - RCE (Remote Code Execution) Vulnerability In Confluence Data Center and Confluence Server PoC",
-            "date_modified": "2024-01-16T08:46:22.000Z",
-            "date_published": "2024-01-16T08:46:21.000Z",
-            "author": {
-                "name": "Avento",
-                "url": "https://github.com/Avento"
             }
         }
     ]
