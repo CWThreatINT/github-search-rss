@@ -6,17 +6,6 @@
     "description": "CVE-2023 FEED on GitHub",
     "items": [
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/117099647?u=9b16ff09483bdcbd749371ebfdb085b48861619f&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Simple scanner for scanning a list of ip-addresses for vulnerable Ivanti Pulse Secure devices</div>",
-            "url": "https://github.com/cbeek-r7/CVE-2023-46805",
-            "title": "cbeek-r7/CVE-2023-46805: Simple scanner for scanning a list of ip-addresses for vulnerable Ivanti Pulse Secure devices",
-            "date_modified": "2024-01-16T08:05:59.000Z",
-            "date_published": "2024-01-16T08:05:58.000Z",
-            "author": {
-                "name": "cbeek-r7",
-                "url": "https://github.com/cbeek-r7"
-            }
-        },
-        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/18195825?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023</div>",
             "url": "https://github.com/CVEProject/cvelist",
             "title": "CVEProject/cvelist: Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023",
@@ -28,22 +17,11 @@
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/156704363?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>URL Contamination Exploit Muted Java Drive-By downloads can transpire during the act of perusing a website, inaugurating an electronic mail communication.</div>",
-            "url": "https://github.com/Checkdos/Slient-Url-Exploit-Slient-Builder-Exploit-Database-Cve-2023-Malware",
-            "title": "Checkdos/Slient-Url-Exploit-Slient-Builder-Exploit-Database-Cve-2023-Malware: URL Contamination Exploit Muted Java Drive-By downloads can transpire during the act of perusing a website, inaugurating an electronic mail communication.",
-            "date_modified": "2024-01-15T17:59:42.000Z",
-            "date_published": "2024-01-15T17:57:38.000Z",
-            "author": {
-                "name": "Checkdos",
-                "url": "https://github.com/Checkdos"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/156704363?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>In the hushed galleries of the Silent JPG Exploit, a symphony shrouded in enigma unfurls—an opus named silent-jpg-exploit-2018—a title that reverberates through the annals of intrigue.</div>",
-            "url": "https://github.com/Checkdos/Jpg-Png-Exploit-Slient-Builder-Exploit-Database-Cve-2023-Malware",
-            "title": "Checkdos/Jpg-Png-Exploit-Slient-Builder-Exploit-Database-Cve-2023-Malware: In the hushed galleries of the Silent JPG Exploit, a symphony shrouded in enigma unfurls—an opus named silent-jpg-exploit-2018—a title that reverberates through the annals of intrigue.",
-            "date_modified": "2024-01-15T17:59:36.000Z",
-            "date_published": "2024-01-15T17:57:38.000Z",
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/156704363?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A meticulous scrutiny of the Exploit PDFs innards exposes a network of malevolence, unveiling both the nefarious hyperlink and the URL that precipitates</div>",
+            "url": "https://github.com/Checkdos/Slient-PDF-FUD-Exploit-Slient-Builder-Exploit-Database-Cve-2023-Malware",
+            "title": "Checkdos/Slient-PDF-FUD-Exploit-Slient-Builder-Exploit-Database-Cve-2023-Malware: A meticulous scrutiny of the Exploit PDFs innards exposes a network of malevolence, unveiling both the nefarious hyperlink and the URL that precipitates",
+            "date_modified": "2024-01-15T17:59:29.000Z",
+            "date_published": "2024-01-15T17:57:37.000Z",
             "author": {
                 "name": "Checkdos",
                 "url": "https://github.com/Checkdos"
@@ -61,6 +39,28 @@
             }
         },
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/156704363?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>URL Contamination Exploit Muted Java Drive-By downloads can transpire during the act of perusing a website, inaugurating an electronic mail communication.</div>",
+            "url": "https://github.com/Checkdos/Slient-Url-Exploit-Slient-Builder-Exploit-Database-Cve-2023-Malware",
+            "title": "Checkdos/Slient-Url-Exploit-Slient-Builder-Exploit-Database-Cve-2023-Malware: URL Contamination Exploit Muted Java Drive-By downloads can transpire during the act of perusing a website, inaugurating an electronic mail communication.",
+            "date_modified": "2024-01-15T17:59:42.000Z",
+            "date_published": "2024-01-15T17:57:38.000Z",
+            "author": {
+                "name": "Checkdos",
+                "url": "https://github.com/Checkdos"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/156245437?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>URL Contamination Exploit Muted Java Drive-By downloads can transpire during the act of perusing a website, inaugurating an electronic mail communication.</div>",
+            "url": "https://github.com/Maskiow/Slient-Url-Exploit-Slient-Builder-Exploit-Database-Cve-2023-Malware",
+            "title": "Maskiow/Slient-Url-Exploit-Slient-Builder-Exploit-Database-Cve-2023-Malware: URL Contamination Exploit Muted Java Drive-By downloads can transpire during the act of perusing a website, inaugurating an electronic mail communication.",
+            "date_modified": "2024-01-15T03:04:28.000Z",
+            "date_published": "2024-01-10T20:46:05.000Z",
+            "author": {
+                "name": "Maskiow",
+                "url": "https://github.com/Maskiow"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/156245437?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Microsoft Windows HTA (HTML Application) - Pinnacle of Remote Code Execution</div>",
             "url": "https://github.com/Maskiow/Hta-Exploit-Builder-Slient-Builder-Exploit-Database-Cve-2023-Malware",
             "title": "Maskiow/Hta-Exploit-Builder-Slient-Builder-Exploit-Database-Cve-2023-Malware: Microsoft Windows HTA (HTML Application) - Pinnacle of Remote Code Execution",
@@ -69,17 +69,6 @@
             "author": {
                 "name": "Maskiow",
                 "url": "https://github.com/Maskiow"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/156704363?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A meticulous scrutiny of the Exploit PDFs innards exposes a network of malevolence, unveiling both the nefarious hyperlink and the URL that precipitates</div>",
-            "url": "https://github.com/Checkdos/Slient-PDF-FUD-Exploit-Slient-Builder-Exploit-Database-Cve-2023-Malware",
-            "title": "Checkdos/Slient-PDF-FUD-Exploit-Slient-Builder-Exploit-Database-Cve-2023-Malware: A meticulous scrutiny of the Exploit PDFs innards exposes a network of malevolence, unveiling both the nefarious hyperlink and the URL that precipitates",
-            "date_modified": "2024-01-15T17:59:29.000Z",
-            "date_published": "2024-01-15T17:57:37.000Z",
-            "author": {
-                "name": "Checkdos",
-                "url": "https://github.com/Checkdos"
             }
         },
         {
@@ -105,14 +94,36 @@
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/156245437?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>URL Contamination Exploit Muted Java Drive-By downloads can transpire during the act of perusing a website, inaugurating an electronic mail communication.</div>",
-            "url": "https://github.com/Maskiow/Slient-Url-Exploit-Slient-Builder-Exploit-Database-Cve-2023-Malware",
-            "title": "Maskiow/Slient-Url-Exploit-Slient-Builder-Exploit-Database-Cve-2023-Malware: URL Contamination Exploit Muted Java Drive-By downloads can transpire during the act of perusing a website, inaugurating an electronic mail communication.",
-            "date_modified": "2024-01-15T03:04:28.000Z",
-            "date_published": "2024-01-10T20:46:05.000Z",
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/156704363?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>In the hushed galleries of the Silent JPG Exploit, a symphony shrouded in enigma unfurls—an opus named silent-jpg-exploit-2018—a title that reverberates through the annals of intrigue.</div>",
+            "url": "https://github.com/Checkdos/Jpg-Png-Exploit-Slient-Builder-Exploit-Database-Cve-2023-Malware",
+            "title": "Checkdos/Jpg-Png-Exploit-Slient-Builder-Exploit-Database-Cve-2023-Malware: In the hushed galleries of the Silent JPG Exploit, a symphony shrouded in enigma unfurls—an opus named silent-jpg-exploit-2018—a title that reverberates through the annals of intrigue.",
+            "date_modified": "2024-01-15T17:59:36.000Z",
+            "date_published": "2024-01-15T17:57:38.000Z",
             "author": {
-                "name": "Maskiow",
-                "url": "https://github.com/Maskiow"
+                "name": "Checkdos",
+                "url": "https://github.com/Checkdos"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/13798539?u=c4b10747ce2fe4638b06cf7af21ac244f582cd76&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2023-22527 - RCE (Remote Code Execution) Vulnerability In Confluence Data Center and Confluence Server PoC</div>",
+            "url": "https://github.com/Avento/CVE-2023-22527_Confluence_RCE",
+            "title": "Avento/CVE-2023-22527_Confluence_RCE: CVE-2023-22527 - RCE (Remote Code Execution) Vulnerability In Confluence Data Center and Confluence Server PoC",
+            "date_modified": "2024-01-16T08:46:22.000Z",
+            "date_published": "2024-01-16T08:46:21.000Z",
+            "author": {
+                "name": "Avento",
+                "url": "https://github.com/Avento"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/117099647?u=9b16ff09483bdcbd749371ebfdb085b48861619f&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Simple scanner for scanning a list of ip-addresses for vulnerable Ivanti Pulse Secure devices</div>",
+            "url": "https://github.com/cbeek-r7/CVE-2023-46805",
+            "title": "cbeek-r7/CVE-2023-46805: Simple scanner for scanning a list of ip-addresses for vulnerable Ivanti Pulse Secure devices",
+            "date_modified": "2024-01-16T08:27:07.000Z",
+            "date_published": "2024-01-16T08:05:58.000Z",
+            "author": {
+                "name": "cbeek-r7",
+                "url": "https://github.com/cbeek-r7"
             }
         },
         {
@@ -130,7 +141,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/144001335?u=c42bea7e07a206065e90fc34c073c2292c885b40&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2023-45866 - BluetoothDucky implementation (Using DuckyScript)</div>",
             "url": "https://github.com/pentestfunctions/BluetoothDucky",
             "title": "pentestfunctions/BluetoothDucky: CVE-2023-45866 - BluetoothDucky implementation (Using DuckyScript)",
-            "date_modified": "2024-01-16T07:44:32.000Z",
+            "date_modified": "2024-01-16T08:59:45.000Z",
             "date_published": "2024-01-15T07:58:28.000Z",
             "author": {
                 "name": "pentestfunctions",
@@ -196,7 +207,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/70921512?u=803ab8a444a68a702c33edfd02c2f17269e530e5&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2023-6875 PoC</div>",
             "url": "https://github.com/UlyssesSaicha/CVE-2023-6875",
             "title": "UlyssesSaicha/CVE-2023-6875: CVE-2023-6875 PoC",
-            "date_modified": "2024-01-16T03:00:44.000Z",
+            "date_modified": "2024-01-16T08:26:19.000Z",
             "date_published": "2024-01-13T15:23:17.000Z",
             "author": {
                 "name": "UlyssesSaicha",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "r0binak",
                 "url": "https://github.com/r0binak"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/77874955?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>minio系统存在信息泄露漏洞，未经身份认证的远程攻击，通过发送特殊POST请求到/minio/bootstrap/v1/verify即可获取所有敏感信息，其中包括MINIO_SECRET_KEY和MINIO_ROOT_PASSWORD，可能导致管理员账号密码泄露。</div>",
-            "url": "https://github.com/xk-mt/CVE-2023-28432",
-            "title": "xk-mt/CVE-2023-28432: minio系统存在信息泄露漏洞，未经身份认证的远程攻击，通过发送特殊POST请求到/minio/bootstrap/v1/verify即可获取所有敏感信息，其中包括MINIO_SECRET_KEY和MINIO_ROOT_PASSWORD，可能导致管理员账号密码泄露。",
-            "date_modified": "2024-01-11T14:56:48.000Z",
-            "date_published": "2024-01-11T13:41:20.000Z",
-            "author": {
-                "name": "xk-mt",
-                "url": "https://github.com/xk-mt"
             }
         }
     ]
