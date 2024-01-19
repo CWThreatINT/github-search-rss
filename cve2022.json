@@ -6,6 +6,17 @@
     "description": "CVE-2022 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/110986028?u=3ab80eb54f7c446398903b11d6681ec27830e54d&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A flaw was found in the Django package, which leads to a SQL injection. This flaw allows an attacker using a crafted dictionary containing malicious SQL queries to compromise the database completely.</div>",
+            "url": "https://github.com/kamal-marouane/CVE-2022-28346",
+            "title": "kamal-marouane/CVE-2022-28346: A flaw was found in the Django package, which leads to a SQL injection. This flaw allows an attacker using a crafted dictionary containing malicious SQL queries to compromise the database completely.",
+            "date_modified": "2024-01-19T00:28:38.000Z",
+            "date_published": "2024-01-19T00:15:59.000Z",
+            "author": {
+                "name": "kamal-marouane",
+                "url": "https://github.com/kamal-marouane"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/84257391?u=9b1bc8c543c0ea2365114136e242ac5dadefc803&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
             "url": "https://github.com/solomon12354/CVE-2022-0847-Dirty_Pipe_virus",
             "title": "solomon12354/CVE-2022-0847-Dirty_Pipe_virus",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "scabench",
                 "url": "https://github.com/scabench"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/18383407?u=c9d1276bd9ccb8b06b724c3057b1ef683fa81de7&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2022-24442: FreeMarker Server-Side Template Injection in JetBrains YouTrack</div>",
-            "url": "https://github.com/mbadanoiu/CVE-2022-24442",
-            "title": "mbadanoiu/CVE-2022-24442: CVE-2022-24442: FreeMarker Server-Side Template Injection in JetBrains YouTrack",
-            "date_modified": "2024-01-05T00:24:40.000Z",
-            "date_published": "2024-01-05T00:04:41.000Z",
-            "author": {
-                "name": "mbadanoiu",
-                "url": "https://github.com/mbadanoiu"
             }
         }
     ]
