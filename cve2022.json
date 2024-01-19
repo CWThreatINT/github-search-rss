@@ -6,6 +6,17 @@
     "description": "CVE-2022 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/84989569?u=b027e9a8785b58ab40097521d634b7ebf24aa3e7&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Dompdf RCE PoC Exploit - CVE-2022-28368</div>",
+            "url": "https://github.com/rvizx/CVE-2022-28368",
+            "title": "rvizx/CVE-2022-28368: Dompdf RCE PoC Exploit - CVE-2022-28368",
+            "date_modified": "2023-12-24T11:21:10.000Z",
+            "date_published": "2023-02-13T08:10:00.000Z",
+            "author": {
+                "name": "rvizx",
+                "url": "https://github.com/rvizx"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/110986028?u=3ab80eb54f7c446398903b11d6681ec27830e54d&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Vulnerability in HTTP Protocol Stack Enabling Remote Code Execution and Potential System Crash.</div>",
             "url": "https://github.com/kamal-marouane/CVE-2022-21907",
             "title": "kamal-marouane/CVE-2022-21907: Vulnerability in HTTP Protocol Stack Enabling Remote Code Execution and Potential System Crash.",
@@ -64,7 +75,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/12976017?u=6d3d423fda6a56643a0ca1acae5223cdf08a3c28&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>This is a one-time signature verification bypass. For persistent signature verification bypass, check <a href=\"https://github.com/TomKing062/CVE-2022-38691_38692\">https://github.com/TomKing062/CVE-2022-38691_38692</a></div>",
             "url": "https://github.com/TomKing062/CVE-2022-38694_unlock_bootloader",
             "title": "TomKing062/CVE-2022-38694_unlock_bootloader: This is a one-time signature verification bypass. For persistent signature verification bypass, check https://github.com/TomKing062/CVE-2022-38691_38692",
-            "date_modified": "2024-01-16T14:06:50.000Z",
+            "date_modified": "2024-01-19T04:36:55.000Z",
             "date_published": "2023-06-10T08:31:26.000Z",
             "author": {
                 "name": "TomKing062",
@@ -209,17 +220,6 @@
             "title": "scabench/jsonorg-fp3: simple application with a (unreachable!) CVE-2022-45688 vulnerability",
             "date_modified": "2023-12-29T08:19:56.000Z",
             "date_published": "2023-12-29T02:01:22.000Z",
-            "author": {
-                "name": "scabench",
-                "url": "https://github.com/scabench"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/154115874?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>simple application with a (unreachable!) CVE-2022-45688 vulnerability</div>",
-            "url": "https://github.com/scabench/jsonorg-fp2",
-            "title": "scabench/jsonorg-fp2: simple application with a (unreachable!) CVE-2022-45688 vulnerability",
-            "date_modified": "2023-12-29T02:00:00.000Z",
-            "date_published": "2023-12-29T00:14:20.000Z",
             "author": {
                 "name": "scabench",
                 "url": "https://github.com/scabench"
