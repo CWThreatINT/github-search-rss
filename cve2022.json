@@ -6,6 +6,17 @@
     "description": "CVE-2022 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/110986028?u=3ab80eb54f7c446398903b11d6681ec27830e54d&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Vulnerability in HTTP Protocol Stack Enabling Remote Code Execution and Potential System Crash.</div>",
+            "url": "https://github.com/kamal-marouane/CVE-2022-21907",
+            "title": "kamal-marouane/CVE-2022-21907: Vulnerability in HTTP Protocol Stack Enabling Remote Code Execution and Potential System Crash.",
+            "date_modified": "2023-12-11T20:32:49.000Z",
+            "date_published": "2023-12-09T22:26:49.000Z",
+            "author": {
+                "name": "kamal-marouane",
+                "url": "https://github.com/kamal-marouane"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/110986028?u=3ab80eb54f7c446398903b11d6681ec27830e54d&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A flaw was found in the Django package, which leads to a SQL injection. This flaw allows an attacker using a crafted dictionary containing malicious SQL queries to compromise the database completely.</div>",
             "url": "https://github.com/kamal-marouane/CVE-2022-28346",
             "title": "kamal-marouane/CVE-2022-28346: A flaw was found in the Django package, which leads to a SQL injection. This flaw allows an attacker using a crafted dictionary containing malicious SQL queries to compromise the database completely.",
@@ -209,17 +220,6 @@
             "title": "scabench/jsonorg-fp2: simple application with a (unreachable!) CVE-2022-45688 vulnerability",
             "date_modified": "2023-12-29T02:00:00.000Z",
             "date_published": "2023-12-29T00:14:20.000Z",
-            "author": {
-                "name": "scabench",
-                "url": "https://github.com/scabench"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/154115874?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>simple application with a (unreachable!) CVE-2022-45688 vulnerability</div>",
-            "url": "https://github.com/scabench/jsonorg-fp1",
-            "title": "scabench/jsonorg-fp1: simple application with a (unreachable!) CVE-2022-45688 vulnerability",
-            "date_modified": "2024-01-08T20:16:26.000Z",
-            "date_published": "2023-12-28T23:52:36.000Z",
             "author": {
                 "name": "scabench",
                 "url": "https://github.com/scabench"
