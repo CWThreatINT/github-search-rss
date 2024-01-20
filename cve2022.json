@@ -31,7 +31,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/110986028?u=3ab80eb54f7c446398903b11d6681ec27830e54d&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A flaw was found in the Django package, which leads to a SQL injection. This flaw allows an attacker using a crafted dictionary containing malicious SQL queries to compromise the database completely.</div>",
             "url": "https://github.com/kamal-marouane/CVE-2022-28346",
             "title": "kamal-marouane/CVE-2022-28346: A flaw was found in the Django package, which leads to a SQL injection. This flaw allows an attacker using a crafted dictionary containing malicious SQL queries to compromise the database completely.",
-            "date_modified": "2024-01-19T00:28:38.000Z",
+            "date_modified": "2024-01-20T05:30:50.000Z",
             "date_published": "2024-01-19T00:15:59.000Z",
             "author": {
                 "name": "kamal-marouane",
