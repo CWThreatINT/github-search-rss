@@ -6,6 +6,17 @@
     "description": "CVE-2023 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/18195825?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023</div>",
+            "url": "https://github.com/CVEProject/cvelist",
+            "title": "CVEProject/cvelist: Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023",
+            "date_modified": "2024-01-20T13:21:45.000Z",
+            "date_published": "2020-11-02T19:30:55.000Z",
+            "author": {
+                "name": "CVEProject",
+                "url": "https://github.com/CVEProject"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/156704363?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>URL Contamination Exploit Muted Java Drive-By downloads can transpire during the act of perusing a website, inaugurating an electronic mail communication.</div>",
             "url": "https://github.com/Checkdos/Slient-Url-Exploit-Slient-Builder-Exploit-Database-Cve-2023-Malware",
             "title": "Checkdos/Slient-Url-Exploit-Slient-Builder-Exploit-Database-Cve-2023-Malware: URL Contamination Exploit Muted Java Drive-By downloads can transpire during the act of perusing a website, inaugurating an electronic mail communication.",
@@ -25,17 +36,6 @@
             "author": {
                 "name": "Checkdos",
                 "url": "https://github.com/Checkdos"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/156245437?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Microsoft Windows HTA (HTML Application) - Pinnacle of Remote Code Execution</div>",
-            "url": "https://github.com/Maskiow/Hta-Exploit-Builder-Slient-Builder-Exploit-Database-Cve-2023-Malware",
-            "title": "Maskiow/Hta-Exploit-Builder-Slient-Builder-Exploit-Database-Cve-2023-Malware: Microsoft Windows HTA (HTML Application) - Pinnacle of Remote Code Execution",
-            "date_modified": "2024-01-10T20:47:21.000Z",
-            "date_published": "2024-01-10T20:46:04.000Z",
-            "author": {
-                "name": "Maskiow",
-                "url": "https://github.com/Maskiow"
             }
         },
         {
@@ -72,6 +72,17 @@
             }
         },
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/156245437?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Microsoft Windows HTA (HTML Application) - Pinnacle of Remote Code Execution</div>",
+            "url": "https://github.com/Maskiow/Hta-Exploit-Builder-Slient-Builder-Exploit-Database-Cve-2023-Malware",
+            "title": "Maskiow/Hta-Exploit-Builder-Slient-Builder-Exploit-Database-Cve-2023-Malware: Microsoft Windows HTA (HTML Application) - Pinnacle of Remote Code Execution",
+            "date_modified": "2024-01-10T20:47:21.000Z",
+            "date_published": "2024-01-10T20:46:04.000Z",
+            "author": {
+                "name": "Maskiow",
+                "url": "https://github.com/Maskiow"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/156245437?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>URL Contamination Exploit Muted Java Drive-By downloads can transpire during the act of perusing a website, inaugurating an electronic mail communication.</div>",
             "url": "https://github.com/Maskiow/Slient-Url-Exploit-Slient-Builder-Exploit-Database-Cve-2023-Malware",
             "title": "Maskiow/Slient-Url-Exploit-Slient-Builder-Exploit-Database-Cve-2023-Malware: URL Contamination Exploit Muted Java Drive-By downloads can transpire during the act of perusing a website, inaugurating an electronic mail communication.",
@@ -94,14 +105,14 @@
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/18195825?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023</div>",
-            "url": "https://github.com/CVEProject/cvelist",
-            "title": "CVEProject/cvelist: Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023",
-            "date_modified": "2024-01-20T13:21:45.000Z",
-            "date_published": "2020-11-02T19:30:55.000Z",
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/87749392?u=0f1376a39e92d47db50488c61960bbb731c56e32&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Repository containing a Proof of Concept (PoC) demonstrating the impact of CVE-2023-4911, a vulnerability in glibc's ld.so dynamic loader, exposing risks related to Looney Tunables. </div>",
+            "url": "https://github.com/NishanthAnand21/CVE-2023-4911-PoC",
+            "title": "NishanthAnand21/CVE-2023-4911-PoC: Repository containing a Proof of Concept (PoC) demonstrating the impact of CVE-2023-4911, a vulnerability in glibc's ld.so dynamic loader, exposing risks related to Looney Tunables. ",
+            "date_modified": "2024-01-20T18:47:07.000Z",
+            "date_published": "2024-01-20T18:47:07.000Z",
             "author": {
-                "name": "CVEProject",
-                "url": "https://github.com/CVEProject"
+                "name": "NishanthAnand21",
+                "url": "https://github.com/NishanthAnand21"
             }
         },
         {
@@ -212,17 +223,6 @@
             "author": {
                 "name": "RosePwns",
                 "url": "https://github.com/RosePwns"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/62379203?u=5e66bcf395cfbc7c536970709d9066978c6bea9c&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>exploit from CVE-2023-2255</div>",
-            "url": "https://github.com/Mathieuleto/CVE-2023-2255",
-            "title": "Mathieuleto/CVE-2023-2255: exploit from CVE-2023-2255",
-            "date_modified": "2024-01-19T20:51:45.000Z",
-            "date_published": "2024-01-19T20:49:31.000Z",
-            "author": {
-                "name": "Mathieuleto",
-                "url": "https://github.com/Mathieuleto"
             }
         }
     ]
