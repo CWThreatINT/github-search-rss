@@ -6,6 +6,28 @@
     "description": "CVE-2021 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/78460398?u=bef08f302e166de8546acb9acbb7e79852c6d421&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2021-24917 </div>",
+            "url": "https://github.com/dikalasenjadatang/CVE-2021-24917",
+            "title": "dikalasenjadatang/CVE-2021-24917: CVE-2021-24917 ",
+            "date_modified": "2024-01-20T06:36:47.000Z",
+            "date_published": "2024-01-20T06:36:13.000Z",
+            "author": {
+                "name": "dikalasenjadatang",
+                "url": "https://github.com/dikalasenjadatang"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/88175750?u=0ec8409fe50810503ee858f84dd101879c23c5d1&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2021-22205&amp; GitLab CE/EE RCE</div>",
+            "url": "https://github.com/devdanqtuan/CVE-2021-22205",
+            "title": "devdanqtuan/CVE-2021-22205: CVE-2021-22205& GitLab CE/EE RCE",
+            "date_modified": "2021-11-04T09:01:59.000Z",
+            "date_published": "2021-11-04T09:01:07.000Z",
+            "author": {
+                "name": "devdanqtuan",
+                "url": "https://github.com/devdanqtuan"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/97857297?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A one-click script to gain a System privileges command line in Windows 10 20H2 that exploits CVE-2021-1675</div>",
             "url": "https://github.com/peckre/PNCVE-Win10-20H2-Exploit",
             "title": "peckre/PNCVE-Win10-20H2-Exploit: A one-click script to gain a System privileges command line in Windows 10 20H2 that exploits CVE-2021-1675",
@@ -201,28 +223,6 @@
             "author": {
                 "name": "afaq1337",
                 "url": "https://github.com/afaq1337"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/45089292?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>PoC of CVE-2021-35296 - PTCL Modem HG150-Ub</div>",
-            "url": "https://github.com/afaq1337/CVE-2021-35296",
-            "title": "afaq1337/CVE-2021-35296: PoC of CVE-2021-35296 - PTCL Modem HG150-Ub",
-            "date_modified": "2022-07-15T05:19:10.000Z",
-            "date_published": "2021-09-30T18:18:27.000Z",
-            "author": {
-                "name": "afaq1337",
-                "url": "https://github.com/afaq1337"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/109800286?u=76368a6bd330396824a1c0d87ad2af68a2ae4b9d&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Error-based blind SQL injection with bit-shifting approach for Moodle 3.10.4</div>",
-            "url": "https://github.com/StackOverflowExcept1on/CVE-2021-36393",
-            "title": "StackOverflowExcept1on/CVE-2021-36393: Error-based blind SQL injection with bit-shifting approach for Moodle 3.10.4",
-            "date_modified": "2023-12-09T10:39:00.000Z",
-            "date_published": "2023-10-27T17:13:55.000Z",
-            "author": {
-                "name": "StackOverflowExcept1on",
-                "url": "https://github.com/StackOverflowExcept1on"
             }
         }
     ]
