@@ -6,6 +6,17 @@
     "description": "CVE-2022 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/107208935?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2022-36946 linux kernel panic in netfilter_queue</div>",
+            "url": "https://github.com/Pwnzer0tt1/CVE-2022-36946",
+            "title": "Pwnzer0tt1/CVE-2022-36946: CVE-2022-36946 linux kernel panic in netfilter_queue",
+            "date_modified": "2023-12-22T15:35:27.000Z",
+            "date_published": "2022-07-28T11:22:13.000Z",
+            "author": {
+                "name": "Pwnzer0tt1",
+                "url": "https://github.com/Pwnzer0tt1"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/84989569?u=b027e9a8785b58ab40097521d634b7ebf24aa3e7&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Dompdf RCE PoC Exploit - CVE-2022-28368</div>",
             "url": "https://github.com/rvizx/CVE-2022-28368",
             "title": "rvizx/CVE-2022-28368: Dompdf RCE PoC Exploit - CVE-2022-28368",
@@ -209,17 +220,6 @@
             "title": "scabench/jsonorg-tp1: simple application with a CVE-2022-45688 vulnerability",
             "date_modified": "2023-12-27T22:58:41.000Z",
             "date_published": "2023-12-27T22:05:06.000Z",
-            "author": {
-                "name": "scabench",
-                "url": "https://github.com/scabench"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/154115874?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>simple application with a (unreachable!) CVE-2022-45688 vulnerability</div>",
-            "url": "https://github.com/scabench/jsonorg-fp3",
-            "title": "scabench/jsonorg-fp3: simple application with a (unreachable!) CVE-2022-45688 vulnerability",
-            "date_modified": "2023-12-29T08:19:56.000Z",
-            "date_published": "2023-12-29T02:01:22.000Z",
             "author": {
                 "name": "scabench",
                 "url": "https://github.com/scabench"
