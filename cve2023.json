@@ -163,7 +163,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/134471901?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2023-46805 scanner for possible vulnerable Ivanti Connect Secure appliances by country using Shodan.</div>",
             "url": "https://github.com/yoryio/CVE-2023-46805",
             "title": "yoryio/CVE-2023-46805: CVE-2023-46805 scanner for possible vulnerable Ivanti Connect Secure appliances by country using Shodan.",
-            "date_modified": "2024-01-19T07:27:56.000Z",
+            "date_modified": "2024-01-21T01:01:03.000Z",
             "date_published": "2024-01-14T18:30:11.000Z",
             "author": {
                 "name": "yoryio",
@@ -182,10 +182,10 @@
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/7016191?u=ed6d2cad7c1e9978a99fdab8cb56b333b0e8570a&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Mitigation validation utility for the Ivanti Connect Around attack chain, comprising CVE-2023-46805 and CVE-2024-21887.</div>",
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/7016191?u=ed6d2cad7c1e9978a99fdab8cb56b333b0e8570a&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Mitigation validation utility for the Ivanti Connect Around attack chain. Runs multiple checks. CVE-2023-46805, CVE-2024-21887.</div>",
             "url": "https://github.com/seajaysec/Ivanti-Connect-Around-Scan",
-            "title": "seajaysec/Ivanti-Connect-Around-Scan: Mitigation validation utility for the Ivanti Connect Around attack chain, comprising CVE-2023-46805 and CVE-2024-21887.",
-            "date_modified": "2024-01-20T10:39:41.000Z",
+            "title": "seajaysec/Ivanti-Connect-Around-Scan: Mitigation validation utility for the Ivanti Connect Around attack chain. Runs multiple checks. CVE-2023-46805, CVE-2024-21887.",
+            "date_modified": "2024-01-21T01:02:03.000Z",
             "date_published": "2024-01-19T02:12:11.000Z",
             "author": {
                 "name": "seajaysec",
