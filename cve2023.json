@@ -6,6 +6,17 @@
     "description": "CVE-2023 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/61807609?u=13024490cd109f3ca0ec602ef1107fdf3fd5c5e8&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>This repository presents a proof-of-concept of CVE-2023-22527</div>",
+            "url": "https://github.com/Vozec/CVE-2023-22527",
+            "title": "Vozec/CVE-2023-22527: This repository presents a proof-of-concept of CVE-2023-22527",
+            "date_modified": "2024-01-23T08:06:15.000Z",
+            "date_published": "2024-01-23T08:06:15.000Z",
+            "author": {
+                "name": "Vozec",
+                "url": "https://github.com/Vozec"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/18195825?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023</div>",
             "url": "https://github.com/CVEProject/cvelist",
             "title": "CVEProject/cvelist: Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023",
@@ -14,6 +25,17 @@
             "author": {
                 "name": "CVEProject",
                 "url": "https://github.com/CVEProject"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/156704363?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A meticulous scrutiny of the Exploit PDFs innards exposes a network of malevolence, unveiling both the nefarious hyperlink and the URL that precipitates</div>",
+            "url": "https://github.com/Checkdos/Slient-PDF-FUD-Exploit-Slient-Builder-Exploit-Database-Cve-2023-Malware",
+            "title": "Checkdos/Slient-PDF-FUD-Exploit-Slient-Builder-Exploit-Database-Cve-2023-Malware: A meticulous scrutiny of the Exploit PDFs innards exposes a network of malevolence, unveiling both the nefarious hyperlink and the URL that precipitates",
+            "date_modified": "2024-01-15T17:59:29.000Z",
+            "date_published": "2024-01-15T17:57:37.000Z",
+            "author": {
+                "name": "Checkdos",
+                "url": "https://github.com/Checkdos"
             }
         },
         {
@@ -28,33 +50,11 @@
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/156704363?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>URL Contamination Exploit Muted Java Drive-By downloads can transpire during the act of perusing a website, inaugurating an electronic mail communication.</div>",
-            "url": "https://github.com/Checkdos/Slient-Url-Exploit-Slient-Builder-Exploit-Database-Cve-2023-Malware",
-            "title": "Checkdos/Slient-Url-Exploit-Slient-Builder-Exploit-Database-Cve-2023-Malware: URL Contamination Exploit Muted Java Drive-By downloads can transpire during the act of perusing a website, inaugurating an electronic mail communication.",
-            "date_modified": "2024-01-15T17:59:42.000Z",
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/156704363?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>In the hushed galleries of the Silent JPG Exploit, a symphony shrouded in enigma unfurls—an opus named silent-jpg-exploit-2018—a title that reverberates through the annals of intrigue.</div>",
+            "url": "https://github.com/Checkdos/Jpg-Png-Exploit-Slient-Builder-Exploit-Database-Cve-2023-Malware",
+            "title": "Checkdos/Jpg-Png-Exploit-Slient-Builder-Exploit-Database-Cve-2023-Malware: In the hushed galleries of the Silent JPG Exploit, a symphony shrouded in enigma unfurls—an opus named silent-jpg-exploit-2018—a title that reverberates through the annals of intrigue.",
+            "date_modified": "2024-01-15T17:59:36.000Z",
             "date_published": "2024-01-15T17:57:38.000Z",
-            "author": {
-                "name": "Checkdos",
-                "url": "https://github.com/Checkdos"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/156245437?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>URL Contamination Exploit Muted Java Drive-By downloads can transpire during the act of perusing a website, inaugurating an electronic mail communication.</div>",
-            "url": "https://github.com/Maskiow/Slient-Url-Exploit-Slient-Builder-Exploit-Database-Cve-2023-Malware",
-            "title": "Maskiow/Slient-Url-Exploit-Slient-Builder-Exploit-Database-Cve-2023-Malware: URL Contamination Exploit Muted Java Drive-By downloads can transpire during the act of perusing a website, inaugurating an electronic mail communication.",
-            "date_modified": "2024-01-15T03:04:28.000Z",
-            "date_published": "2024-01-10T20:46:05.000Z",
-            "author": {
-                "name": "Maskiow",
-                "url": "https://github.com/Maskiow"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/156704363?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A meticulous scrutiny of the Exploit PDFs innards exposes a network of malevolence, unveiling both the nefarious hyperlink and the URL that precipitates</div>",
-            "url": "https://github.com/Checkdos/Slient-PDF-FUD-Exploit-Slient-Builder-Exploit-Database-Cve-2023-Malware",
-            "title": "Checkdos/Slient-PDF-FUD-Exploit-Slient-Builder-Exploit-Database-Cve-2023-Malware: A meticulous scrutiny of the Exploit PDFs innards exposes a network of malevolence, unveiling both the nefarious hyperlink and the URL that precipitates",
-            "date_modified": "2024-01-15T17:59:29.000Z",
-            "date_published": "2024-01-15T17:57:37.000Z",
             "author": {
                 "name": "Checkdos",
                 "url": "https://github.com/Checkdos"
@@ -83,6 +83,17 @@
             }
         },
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/156704363?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>URL Contamination Exploit Muted Java Drive-By downloads can transpire during the act of perusing a website, inaugurating an electronic mail communication.</div>",
+            "url": "https://github.com/Checkdos/Slient-Url-Exploit-Slient-Builder-Exploit-Database-Cve-2023-Malware",
+            "title": "Checkdos/Slient-Url-Exploit-Slient-Builder-Exploit-Database-Cve-2023-Malware: URL Contamination Exploit Muted Java Drive-By downloads can transpire during the act of perusing a website, inaugurating an electronic mail communication.",
+            "date_modified": "2024-01-15T17:59:42.000Z",
+            "date_published": "2024-01-15T17:57:38.000Z",
+            "author": {
+                "name": "Checkdos",
+                "url": "https://github.com/Checkdos"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/156704363?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Microsoft Windows HTA (HTML Application) - Pinnacle of Remote Code Execution</div>",
             "url": "https://github.com/Checkdos/Hta-Exploit-Builder-Slient-Builder-Exploit-Database-Cve-2023-Malware",
             "title": "Checkdos/Hta-Exploit-Builder-Slient-Builder-Exploit-Database-Cve-2023-Malware: Microsoft Windows HTA (HTML Application) - Pinnacle of Remote Code Execution",
@@ -94,14 +105,36 @@
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/156704363?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>In the hushed galleries of the Silent JPG Exploit, a symphony shrouded in enigma unfurls—an opus named silent-jpg-exploit-2018—a title that reverberates through the annals of intrigue.</div>",
-            "url": "https://github.com/Checkdos/Jpg-Png-Exploit-Slient-Builder-Exploit-Database-Cve-2023-Malware",
-            "title": "Checkdos/Jpg-Png-Exploit-Slient-Builder-Exploit-Database-Cve-2023-Malware: In the hushed galleries of the Silent JPG Exploit, a symphony shrouded in enigma unfurls—an opus named silent-jpg-exploit-2018—a title that reverberates through the annals of intrigue.",
-            "date_modified": "2024-01-15T17:59:36.000Z",
-            "date_published": "2024-01-15T17:57:38.000Z",
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/156245437?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>URL Contamination Exploit Muted Java Drive-By downloads can transpire during the act of perusing a website, inaugurating an electronic mail communication.</div>",
+            "url": "https://github.com/Maskiow/Slient-Url-Exploit-Slient-Builder-Exploit-Database-Cve-2023-Malware",
+            "title": "Maskiow/Slient-Url-Exploit-Slient-Builder-Exploit-Database-Cve-2023-Malware: URL Contamination Exploit Muted Java Drive-By downloads can transpire during the act of perusing a website, inaugurating an electronic mail communication.",
+            "date_modified": "2024-01-15T03:04:28.000Z",
+            "date_published": "2024-01-10T20:46:05.000Z",
             "author": {
-                "name": "Checkdos",
-                "url": "https://github.com/Checkdos"
+                "name": "Maskiow",
+                "url": "https://github.com/Maskiow"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/140477743?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Vertical Privilege Escalation via Session Storage by Amjad Ali (CVE-2023-43317)</div>",
+            "url": "https://github.com/amjadali-110/CVE-2023-43317",
+            "title": "amjadali-110/CVE-2023-43317: Vertical Privilege Escalation via Session Storage by Amjad Ali (CVE-2023-43317)",
+            "date_modified": "2024-01-23T07:27:31.000Z",
+            "date_published": "2024-01-23T07:27:30.000Z",
+            "author": {
+                "name": "amjadali-110",
+                "url": "https://github.com/amjadali-110"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/94035613?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>[Confluence] CVE-2023-22527 realworld poc</div>",
+            "url": "https://github.com/VNCERT-CC/CVE-2023-22527-confluence",
+            "title": "VNCERT-CC/CVE-2023-22527-confluence: [Confluence] CVE-2023-22527 realworld poc",
+            "date_modified": "2024-01-23T08:04:10.000Z",
+            "date_published": "2024-01-23T07:10:55.000Z",
+            "author": {
+                "name": "VNCERT-CC",
+                "url": "https://github.com/VNCERT-CC"
             }
         },
         {
@@ -190,39 +223,6 @@
             "author": {
                 "name": "Drun1baby",
                 "url": "https://github.com/Drun1baby"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/129839654?u=c66c0d35f4fe48086068c3b7bdeaaa20719e3cfa&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A modification to fortra's CVE-2023-28252 exploit, compiled to exe</div>",
-            "url": "https://github.com/duck-sec/CVE-2023-28252-Compiled-exe",
-            "title": "duck-sec/CVE-2023-28252-Compiled-exe: A modification to fortra's CVE-2023-28252 exploit, compiled to exe",
-            "date_modified": "2024-01-22T11:15:27.000Z",
-            "date_published": "2024-01-22T10:38:02.000Z",
-            "author": {
-                "name": "duck-sec",
-                "url": "https://github.com/duck-sec"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/38589929?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Judging Management System v1.0 - Unrestricted File Upload + RCE (Unauthenticated)</div>",
-            "url": "https://github.com/angelopioamirante/CVE-2023-24317",
-            "title": "angelopioamirante/CVE-2023-24317: Judging Management System v1.0 - Unrestricted File Upload + RCE (Unauthenticated)",
-            "date_modified": "2023-03-08T22:02:39.000Z",
-            "date_published": "2023-03-08T22:00:44.000Z",
-            "author": {
-                "name": "angelopioamirante",
-                "url": "https://github.com/angelopioamirante"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/86564180?u=c158ed20746b65bdeb1f07f82a9da76fb4325819&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>This Tool is used to check for CVE-2023-29489 Vulnerability in the provided URL with the set of payloads available</div>",
-            "url": "https://github.com/prasad-1808/tool-29489",
-            "title": "prasad-1808/tool-29489: This Tool is used to check for CVE-2023-29489 Vulnerability in the provided URL with the set of payloads available",
-            "date_modified": "2024-01-21T19:38:23.000Z",
-            "date_published": "2024-01-21T19:23:47.000Z",
-            "author": {
-                "name": "prasad-1808",
-                "url": "https://github.com/prasad-1808"
             }
         }
     ]
