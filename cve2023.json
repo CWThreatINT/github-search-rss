@@ -6,6 +6,28 @@
     "description": "CVE-2023 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/57100441?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>POC</div>",
+            "url": "https://github.com/Niuwoo/CVE-2023-22527",
+            "title": "Niuwoo/CVE-2023-22527: POC",
+            "date_modified": "2024-01-23T09:58:22.000Z",
+            "date_published": "2024-01-23T09:28:53.000Z",
+            "author": {
+                "name": "Niuwoo",
+                "url": "https://github.com/Niuwoo"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/56821442?u=7a21a36069f9d190be5827112ec4146e986be772&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Lỗ hổng ủy quyền không phù hợp trong Trung tâm dữ liệu Confluence và Máy chủ + bugsBonus 🔥</div>",
+            "url": "https://github.com/bibo318/CVE-2023-22518",
+            "title": "bibo318/CVE-2023-22518: Lỗ hổng ủy quyền không phù hợp trong Trung tâm dữ liệu Confluence và Máy chủ + bugsBonus 🔥",
+            "date_modified": "2024-01-23T13:38:47.000Z",
+            "date_published": "2024-01-23T13:38:40.000Z",
+            "author": {
+                "name": "bibo318",
+                "url": "https://github.com/bibo318"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/18195825?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023</div>",
             "url": "https://github.com/CVEProject/cvelist",
             "title": "CVEProject/cvelist: Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023",
@@ -182,17 +204,6 @@
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/56821442?u=7a21a36069f9d190be5827112ec4146e986be772&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Lỗ hổng ủy quyền không phù hợp trong Trung tâm dữ liệu Confluence và Máy chủ + bugsBonus 🔥</div>",
-            "url": "https://github.com/bibo318/CVE-2023-22518",
-            "title": "bibo318/CVE-2023-22518: Lỗ hổng ủy quyền không phù hợp trong Trung tâm dữ liệu Confluence và Máy chủ + bugsBonus 🔥",
-            "date_modified": "2024-01-23T13:38:47.000Z",
-            "date_published": "2024-01-23T13:38:40.000Z",
-            "author": {
-                "name": "bibo318",
-                "url": "https://github.com/bibo318"
-            }
-        },
-        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/105647610?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>IBM i Access Client Solution &lt; 1.1.9.4 - Local server broken access control.</div>",
             "url": "https://github.com/afine-com/CVE-2023-45184",
             "title": "afine-com/CVE-2023-45184: IBM i Access Client Solution < 1.1.9.4 - Local server broken access control.",
@@ -207,22 +218,11 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/93723285?u=30105137df8c16dafbfb66044735351f669433f5&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A critical severity Remote Code Execution (RCE) vulnerability (CVE-2023-22527) was discovered in Confluence Server and Data Center. </div>",
             "url": "https://github.com/Manh130902/CVE-2023-22527-POC",
             "title": "Manh130902/CVE-2023-22527-POC: A critical severity Remote Code Execution (RCE) vulnerability (CVE-2023-22527) was discovered in Confluence Server and Data Center. ",
-            "date_modified": "2024-01-23T14:46:44.000Z",
+            "date_modified": "2024-01-24T01:05:19.000Z",
             "date_published": "2024-01-23T02:17:36.000Z",
             "author": {
                 "name": "Manh130902",
                 "url": "https://github.com/Manh130902"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/88535377?u=6b8983d2cd12765fbbfa53e35463d9ef97ab495a&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Atlassian Confluence - Remote Code Execution</div>",
-            "url": "https://github.com/Chocapikk/CVE-2023-22527",
-            "title": "Chocapikk/CVE-2023-22527: Atlassian Confluence - Remote Code Execution",
-            "date_modified": "2024-01-23T18:09:32.000Z",
-            "date_published": "2024-01-23T10:55:28.000Z",
-            "author": {
-                "name": "Chocapikk",
-                "url": "https://github.com/Chocapikk"
             }
         }
     ]
