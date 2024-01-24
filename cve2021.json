@@ -6,6 +6,17 @@
     "description": "CVE-2021 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/82907557?u=633a3c892c7515108a4e1dca459cb1d451b177aa&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>PoC de Polkit</div>",
+            "url": "https://github.com/cerodah/CVE-2021-4034",
+            "title": "cerodah/CVE-2021-4034: PoC de Polkit",
+            "date_modified": "2024-01-24T18:21:15.000Z",
+            "date_published": "2024-01-17T22:55:46.000Z",
+            "author": {
+                "name": "cerodah",
+                "url": "https://github.com/cerodah"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/57265360?u=5a0d0ca6c5153d7e41b9f498a12fe2b35498adf6&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Local Privilege Escalation (LPE) vulnerability in Polkit - Pwnkit</div>",
             "url": "https://github.com/LucasPDiniz/CVE-2021-4034",
             "title": "LucasPDiniz/CVE-2021-4034: Local Privilege Escalation (LPE) vulnerability in Polkit - Pwnkit",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "raheel0x01",
                 "url": "https://github.com/raheel0x01"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/82715493?u=25efe2210c06c3d0bf57dde75102ea9ce567ff6b&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Remote Access Shell for Windows (based on cve-2021-30190)</div>",
-            "url": "https://github.com/AbdulRKB/Follina",
-            "title": "AbdulRKB/Follina: Remote Access Shell for Windows (based on cve-2021-30190)",
-            "date_modified": "2023-09-28T11:39:24.000Z",
-            "date_published": "2022-06-04T14:18:38.000Z",
-            "author": {
-                "name": "AbdulRKB",
-                "url": "https://github.com/AbdulRKB"
             }
         }
     ]
