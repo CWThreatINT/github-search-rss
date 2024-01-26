@@ -17,6 +17,17 @@
             }
         },
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/134471901?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Exploit for CVE-2023-22527 - Atlassian Confluence Data Center and Server</div>",
+            "url": "https://github.com/yoryio/CVE-2023-22527",
+            "title": "yoryio/CVE-2023-22527: Exploit for CVE-2023-22527 - Atlassian Confluence Data Center and Server",
+            "date_modified": "2024-01-25T03:35:10.000Z",
+            "date_published": "2024-01-24T04:44:59.000Z",
+            "author": {
+                "name": "yoryio",
+                "url": "https://github.com/yoryio"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/156245437?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Microsoft Windows HTA (HTML Application) - Pinnacle of Remote Code Execution</div>",
             "url": "https://github.com/Maskiow/Hta-Exploit-Builder-Slient-Builder-Exploit-Database-Cve-2023-Malware",
             "title": "Maskiow/Hta-Exploit-Builder-Slient-Builder-Exploit-Database-Cve-2023-Malware: Microsoft Windows HTA (HTML Application) - Pinnacle of Remote Code Execution",
@@ -28,22 +39,22 @@
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/156245437?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A meticulous scrutiny of the Exploit PDFs innards exposes a network of malevolence, unveiling both the nefarious hyperlink and the URL that precipitates</div>",
-            "url": "https://github.com/Maskiow/Slient-PDF-FUD-Exploit-Slient-Builder-Exploit-Database-Cve-2023-Malware",
-            "title": "Maskiow/Slient-PDF-FUD-Exploit-Slient-Builder-Exploit-Database-Cve-2023-Malware: A meticulous scrutiny of the Exploit PDFs innards exposes a network of malevolence, unveiling both the nefarious hyperlink and the URL that precipitates",
-            "date_modified": "2024-01-10T20:47:59.000Z",
-            "date_published": "2024-01-10T20:46:03.000Z",
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/156245437?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>URL Contamination Exploit Muted Java Drive-By downloads can transpire during the act of perusing a website, inaugurating an electronic mail communication.</div>",
+            "url": "https://github.com/Maskiow/Slient-Url-Exploit-Slient-Builder-Exploit-Database-Cve-2023-Malware",
+            "title": "Maskiow/Slient-Url-Exploit-Slient-Builder-Exploit-Database-Cve-2023-Malware: URL Contamination Exploit Muted Java Drive-By downloads can transpire during the act of perusing a website, inaugurating an electronic mail communication.",
+            "date_modified": "2024-01-15T03:04:28.000Z",
+            "date_published": "2024-01-10T20:46:05.000Z",
             "author": {
                 "name": "Maskiow",
                 "url": "https://github.com/Maskiow"
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/156245437?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>URL Contamination Exploit Muted Java Drive-By downloads can transpire during the act of perusing a website, inaugurating an electronic mail communication.</div>",
-            "url": "https://github.com/Maskiow/Slient-Url-Exploit-Slient-Builder-Exploit-Database-Cve-2023-Malware",
-            "title": "Maskiow/Slient-Url-Exploit-Slient-Builder-Exploit-Database-Cve-2023-Malware: URL Contamination Exploit Muted Java Drive-By downloads can transpire during the act of perusing a website, inaugurating an electronic mail communication.",
-            "date_modified": "2024-01-15T03:04:28.000Z",
-            "date_published": "2024-01-10T20:46:05.000Z",
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/156245437?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A meticulous scrutiny of the Exploit PDFs innards exposes a network of malevolence, unveiling both the nefarious hyperlink and the URL that precipitates</div>",
+            "url": "https://github.com/Maskiow/Slient-PDF-FUD-Exploit-Slient-Builder-Exploit-Database-Cve-2023-Malware",
+            "title": "Maskiow/Slient-PDF-FUD-Exploit-Slient-Builder-Exploit-Database-Cve-2023-Malware: A meticulous scrutiny of the Exploit PDFs innards exposes a network of malevolence, unveiling both the nefarious hyperlink and the URL that precipitates",
+            "date_modified": "2024-01-10T20:47:59.000Z",
+            "date_published": "2024-01-10T20:46:03.000Z",
             "author": {
                 "name": "Maskiow",
                 "url": "https://github.com/Maskiow"
@@ -97,7 +108,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/79523444?u=9b642d23b0d966d0c63b4b20eda7d83948fa73f2&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
             "url": "https://github.com/thanhlam-attt/CVE-2023-22527",
             "title": "thanhlam-attt/CVE-2023-22527",
-            "date_modified": "2024-01-26T01:50:44.000Z",
+            "date_modified": "2024-01-26T07:15:27.000Z",
             "date_published": "2024-01-22T19:02:59.000Z",
             "author": {
                 "name": "thanhlam-attt",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "16yashpatel",
                 "url": "https://github.com/16yashpatel"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/1596893?u=f80588cdaae5d7f8664298d10fdf763e297760fd&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>V8 type confusion allows chrome sandbox escape</div>",
-            "url": "https://github.com/paulsery/CVE_2023_3420",
-            "title": "paulsery/CVE_2023_3420: V8 type confusion allows chrome sandbox escape",
-            "date_modified": "2024-01-24T19:57:37.000Z",
-            "date_published": "2024-01-24T19:21:19.000Z",
-            "author": {
-                "name": "paulsery",
-                "url": "https://github.com/paulsery"
             }
         }
     ]
