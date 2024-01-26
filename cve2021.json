@@ -6,6 +6,17 @@
     "description": "CVE-2021 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/18492599?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>This powershell script is intended to be used by anyone looking to remediate the Log4j Vulnerability within their environment. It can target multiple machines and run remotely as a job on all or only affected devices.</div>",
+            "url": "https://github.com/digital-dev/Log4j-CVE-2021-44228-Remediation",
+            "title": "digital-dev/Log4j-CVE-2021-44228-Remediation: This powershell script is intended to be used by anyone looking to remediate the Log4j Vulnerability within their environment. It can target multiple machines and run remotely as a job on all or only affected devices.",
+            "date_modified": "2022-09-08T00:23:02.000Z",
+            "date_published": "2022-09-08T00:22:57.000Z",
+            "author": {
+                "name": "digital-dev",
+                "url": "https://github.com/digital-dev"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/82907557?u=633a3c892c7515108a4e1dca459cb1d451b177aa&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>PoC de Polkit</div>",
             "url": "https://github.com/cerodah/CVE-2021-4034",
             "title": "cerodah/CVE-2021-4034: PoC de Polkit",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "Locj41",
                 "url": "https://github.com/Locj41"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/65211256?u=17202d98ee387a1d9c2ef8571ffa2dba32837e78&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>  CVE-2021-26855, also known as Proxylogon, is a server-side request forgery (SSRF) vulnerability in Exchange that allows an attacker to send arbitrary HTTP requests and authenticate as the Exchange server.</div>",
-            "url": "https://github.com/raheel0x01/CVE-2021-26855",
-            "title": "raheel0x01/CVE-2021-26855:   CVE-2021-26855, also known as Proxylogon, is a server-side request forgery (SSRF) vulnerability in Exchange that allows an attacker to send arbitrary HTTP requests and authenticate as the Exchange server.",
-            "date_modified": "2024-01-01T17:05:07.000Z",
-            "date_published": "2021-03-11T19:35:35.000Z",
-            "author": {
-                "name": "raheel0x01",
-                "url": "https://github.com/raheel0x01"
             }
         }
     ]
