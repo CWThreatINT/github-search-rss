@@ -9,22 +9,11 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/18195825?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023</div>",
             "url": "https://github.com/CVEProject/cvelist",
             "title": "CVEProject/cvelist: Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023",
-            "date_modified": "2024-01-26T03:26:18.000Z",
+            "date_modified": "2024-01-26T10:09:30.000Z",
             "date_published": "2020-11-02T19:30:55.000Z",
             "author": {
                 "name": "CVEProject",
                 "url": "https://github.com/CVEProject"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/156245437?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>In the hushed galleries of the Silent JPG Exploit, a symphony shrouded in enigma unfurls—an opus named silent-jpg-exploit-2018—a title that reverberates through the annals of intrigue.</div>",
-            "url": "https://github.com/Maskiow/Jpg-Png-Exploit-Slient-Builder-Exploit-Database-Cve-2023-Malware",
-            "title": "Maskiow/Jpg-Png-Exploit-Slient-Builder-Exploit-Database-Cve-2023-Malware: In the hushed galleries of the Silent JPG Exploit, a symphony shrouded in enigma unfurls—an opus named silent-jpg-exploit-2018—a title that reverberates through the annals of intrigue.",
-            "date_modified": "2024-01-10T20:48:06.000Z",
-            "date_published": "2024-01-10T20:46:05.000Z",
-            "author": {
-                "name": "Maskiow",
-                "url": "https://github.com/Maskiow"
             }
         },
         {
@@ -58,6 +47,39 @@
             "author": {
                 "name": "Maskiow",
                 "url": "https://github.com/Maskiow"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/156245437?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>In the hushed galleries of the Silent JPG Exploit, a symphony shrouded in enigma unfurls—an opus named silent-jpg-exploit-2018—a title that reverberates through the annals of intrigue.</div>",
+            "url": "https://github.com/Maskiow/Jpg-Png-Exploit-Slient-Builder-Exploit-Database-Cve-2023-Malware",
+            "title": "Maskiow/Jpg-Png-Exploit-Slient-Builder-Exploit-Database-Cve-2023-Malware: In the hushed galleries of the Silent JPG Exploit, a symphony shrouded in enigma unfurls—an opus named silent-jpg-exploit-2018—a title that reverberates through the annals of intrigue.",
+            "date_modified": "2024-01-10T20:48:06.000Z",
+            "date_published": "2024-01-10T20:46:05.000Z",
+            "author": {
+                "name": "Maskiow",
+                "url": "https://github.com/Maskiow"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/105647610?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>IBM i Access Client Solution &lt; 1.1.9.4 - Local server broken access control.</div>",
+            "url": "https://github.com/afine-com/CVE-2023-45184",
+            "title": "afine-com/CVE-2023-45184: IBM i Access Client Solution < 1.1.9.4 - Local server broken access control.",
+            "date_modified": "2023-12-15T14:06:24.000Z",
+            "date_published": "2023-12-15T14:04:32.000Z",
+            "author": {
+                "name": "afine-com",
+                "url": "https://github.com/afine-com"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/105647610?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>IBM i Access Client Solutions &lt; 1.1.9.4 - Weak password encryption</div>",
+            "url": "https://github.com/afine-com/CVE-2023-45182",
+            "title": "afine-com/CVE-2023-45182: IBM i Access Client Solutions < 1.1.9.4 - Weak password encryption",
+            "date_modified": "2024-01-23T16:08:21.000Z",
+            "date_published": "2024-01-23T16:05:55.000Z",
+            "author": {
+                "name": "afine-com",
+                "url": "https://github.com/afine-com"
             }
         },
         {
@@ -198,28 +220,6 @@
             "title": "16yashpatel/CVE-2023-51204: Insecure Deserialization Vulnerability in ROS2 Foxy Fitzroy",
             "date_modified": "2024-01-10T18:08:19.000Z",
             "date_published": "2024-01-10T17:54:59.000Z",
-            "author": {
-                "name": "16yashpatel",
-                "url": "https://github.com/16yashpatel"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/137430106?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>OS Command Injection Vulnerability in ROS2 Foxy Fitzroy</div>",
-            "url": "https://github.com/16yashpatel/CVE-2023-51202",
-            "title": "16yashpatel/CVE-2023-51202: OS Command Injection Vulnerability in ROS2 Foxy Fitzroy",
-            "date_modified": "2024-01-10T17:43:05.000Z",
-            "date_published": "2024-01-10T17:33:19.000Z",
-            "author": {
-                "name": "16yashpatel",
-                "url": "https://github.com/16yashpatel"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/137430106?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Shell Injection Vulnerability in ROS2 Foxy Fitzroy</div>",
-            "url": "https://github.com/16yashpatel/CVE-2023-51197",
-            "title": "16yashpatel/CVE-2023-51197: Shell Injection Vulnerability in ROS2 Foxy Fitzroy",
-            "date_modified": "2024-01-10T15:36:03.000Z",
-            "date_published": "2024-01-10T15:25:10.000Z",
             "author": {
                 "name": "16yashpatel",
                 "url": "https://github.com/16yashpatel"
