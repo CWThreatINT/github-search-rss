@@ -6,6 +6,28 @@
     "description": "CVE-2023 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/156245437?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Microsoft Windows HTA (HTML Application) - Pinnacle of Remote Code Execution</div>",
+            "url": "https://github.com/Maskiow/Hta-Exploit-Builder-Slient-Builder-Exploit-Database-Cve-2023-Malware",
+            "title": "Maskiow/Hta-Exploit-Builder-Slient-Builder-Exploit-Database-Cve-2023-Malware: Microsoft Windows HTA (HTML Application) - Pinnacle of Remote Code Execution",
+            "date_modified": "2024-01-10T20:47:21.000Z",
+            "date_published": "2024-01-10T20:46:04.000Z",
+            "author": {
+                "name": "Maskiow",
+                "url": "https://github.com/Maskiow"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/156245437?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>URL Contamination Exploit Muted Java Drive-By downloads can transpire during the act of perusing a website, inaugurating an electronic mail communication.</div>",
+            "url": "https://github.com/Maskiow/Slient-Url-Exploit-Slient-Builder-Exploit-Database-Cve-2023-Malware",
+            "title": "Maskiow/Slient-Url-Exploit-Slient-Builder-Exploit-Database-Cve-2023-Malware: URL Contamination Exploit Muted Java Drive-By downloads can transpire during the act of perusing a website, inaugurating an electronic mail communication.",
+            "date_modified": "2024-01-15T03:04:28.000Z",
+            "date_published": "2024-01-10T20:46:05.000Z",
+            "author": {
+                "name": "Maskiow",
+                "url": "https://github.com/Maskiow"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/156245437?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A meticulous scrutiny of the Exploit PDFs innards exposes a network of malevolence, unveiling both the nefarious hyperlink and the URL that precipitates</div>",
             "url": "https://github.com/Maskiow/Slient-PDF-FUD-Exploit-Slient-Builder-Exploit-Database-Cve-2023-Malware",
             "title": "Maskiow/Slient-PDF-FUD-Exploit-Slient-Builder-Exploit-Database-Cve-2023-Malware: A meticulous scrutiny of the Exploit PDFs innards exposes a network of malevolence, unveiling both the nefarious hyperlink and the URL that precipitates",
@@ -28,25 +50,14 @@
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/156245437?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Microsoft Windows HTA (HTML Application) - Pinnacle of Remote Code Execution</div>",
-            "url": "https://github.com/Maskiow/Hta-Exploit-Builder-Slient-Builder-Exploit-Database-Cve-2023-Malware",
-            "title": "Maskiow/Hta-Exploit-Builder-Slient-Builder-Exploit-Database-Cve-2023-Malware: Microsoft Windows HTA (HTML Application) - Pinnacle of Remote Code Execution",
-            "date_modified": "2024-01-10T20:47:21.000Z",
-            "date_published": "2024-01-10T20:46:04.000Z",
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/45026430?u=3f6e7aa9fd6f18c094808f5cce35bdfcbb6816e1&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>KeePass Master Password Extraction PoC for Linux</div>",
+            "url": "https://github.com/CTM1/CVE-2023-32784-keepass-linux",
+            "title": "CTM1/CVE-2023-32784-keepass-linux: KeePass Master Password Extraction PoC for Linux",
+            "date_modified": "2023-07-08T16:25:50.000Z",
+            "date_published": "2023-05-17T20:15:13.000Z",
             "author": {
-                "name": "Maskiow",
-                "url": "https://github.com/Maskiow"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/156245437?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>URL Contamination Exploit Muted Java Drive-By downloads can transpire during the act of perusing a website, inaugurating an electronic mail communication.</div>",
-            "url": "https://github.com/Maskiow/Slient-Url-Exploit-Slient-Builder-Exploit-Database-Cve-2023-Malware",
-            "title": "Maskiow/Slient-Url-Exploit-Slient-Builder-Exploit-Database-Cve-2023-Malware: URL Contamination Exploit Muted Java Drive-By downloads can transpire during the act of perusing a website, inaugurating an electronic mail communication.",
-            "date_modified": "2024-01-15T03:04:28.000Z",
-            "date_published": "2024-01-10T20:46:05.000Z",
-            "author": {
-                "name": "Maskiow",
-                "url": "https://github.com/Maskiow"
+                "name": "CTM1",
+                "url": "https://github.com/CTM1"
             }
         },
         {
@@ -212,17 +223,6 @@
             "author": {
                 "name": "mochammadrafi",
                 "url": "https://github.com/mochammadrafi"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/91914344?u=a60ebdb841c1ed81de7b93072252516932085b05&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2023-46805 Ivanti POC RCE - Ultra fast scanner.</div>",
-            "url": "https://github.com/w2xim3/CVE-2023-46805",
-            "title": "w2xim3/CVE-2023-46805: CVE-2023-46805 Ivanti POC RCE - Ultra fast scanner.",
-            "date_modified": "2024-01-25T18:07:02.000Z",
-            "date_published": "2024-01-25T14:53:16.000Z",
-            "author": {
-                "name": "w2xim3",
-                "url": "https://github.com/w2xim3"
             }
         }
     ]
