@@ -6,6 +6,17 @@
     "description": "CVE-2023 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/29292618?u=7cc5e74860fca03029e14502acf81440303c3002&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
+            "url": "https://github.com/gy741/CVE-2023-30258-setup",
+            "title": "gy741/CVE-2023-30258-setup",
+            "date_modified": "2024-01-27T06:01:19.000Z",
+            "date_published": "2024-01-27T06:01:02.000Z",
+            "author": {
+                "name": "gy741",
+                "url": "https://github.com/gy741"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/18195825?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023</div>",
             "url": "https://github.com/CVEProject/cvelist",
             "title": "CVEProject/cvelist: Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023",
@@ -14,6 +25,17 @@
             "author": {
                 "name": "CVEProject",
                 "url": "https://github.com/CVEProject"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/156245437?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A meticulous scrutiny of the Exploit PDFs innards exposes a network of malevolence, unveiling both the nefarious hyperlink and the URL that precipitates</div>",
+            "url": "https://github.com/Maskiow/Slient-PDF-FUD-Exploit-Slient-Builder-Exploit-Database-Cve-2023-Malware",
+            "title": "Maskiow/Slient-PDF-FUD-Exploit-Slient-Builder-Exploit-Database-Cve-2023-Malware: A meticulous scrutiny of the Exploit PDFs innards exposes a network of malevolence, unveiling both the nefarious hyperlink and the URL that precipitates",
+            "date_modified": "2024-01-10T20:47:59.000Z",
+            "date_published": "2024-01-10T20:46:03.000Z",
+            "author": {
+                "name": "Maskiow",
+                "url": "https://github.com/Maskiow"
             }
         },
         {
@@ -33,17 +55,6 @@
             "title": "Maskiow/Hta-Exploit-Builder-Slient-Builder-Exploit-Database-Cve-2023-Malware: Microsoft Windows HTA (HTML Application) - Pinnacle of Remote Code Execution",
             "date_modified": "2024-01-10T20:47:21.000Z",
             "date_published": "2024-01-10T20:46:04.000Z",
-            "author": {
-                "name": "Maskiow",
-                "url": "https://github.com/Maskiow"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/156245437?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A meticulous scrutiny of the Exploit PDFs innards exposes a network of malevolence, unveiling both the nefarious hyperlink and the URL that precipitates</div>",
-            "url": "https://github.com/Maskiow/Slient-PDF-FUD-Exploit-Slient-Builder-Exploit-Database-Cve-2023-Malware",
-            "title": "Maskiow/Slient-PDF-FUD-Exploit-Slient-Builder-Exploit-Database-Cve-2023-Malware: A meticulous scrutiny of the Exploit PDFs innards exposes a network of malevolence, unveiling both the nefarious hyperlink and the URL that precipitates",
-            "date_modified": "2024-01-10T20:47:59.000Z",
-            "date_published": "2024-01-10T20:46:03.000Z",
             "author": {
                 "name": "Maskiow",
                 "url": "https://github.com/Maskiow"
@@ -141,7 +152,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/63742814?u=1c32c79c15554495af0a185f87a36aab136ee9cf&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Confluence CVE 2021，2022，2023 利用工具，支持命令执行，哥斯拉，冰蝎 内存马注入</div>",
             "url": "https://github.com/Lotus6/ConfluenceMemshell",
             "title": "Lotus6/ConfluenceMemshell: Confluence CVE 2021，2022，2023 利用工具，支持命令执行，哥斯拉，冰蝎 内存马注入",
-            "date_modified": "2024-01-27T04:12:40.000Z",
+            "date_modified": "2024-01-27T05:51:29.000Z",
             "date_published": "2024-01-26T13:11:21.000Z",
             "author": {
                 "name": "Lotus6",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "thanhlam-attt",
                 "url": "https://github.com/thanhlam-attt"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/32920883?u=c15c845cf1fbc79583e87fa4862a767ee83c827b&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2023-22527 - RCE (Remote Code Execution) Vulnerability In Confluence Data Center and Confluence Server PoC</div>",
-            "url": "https://github.com/adminlove520/CVE-2023-22527",
-            "title": "adminlove520/CVE-2023-22527: CVE-2023-22527 - RCE (Remote Code Execution) Vulnerability In Confluence Data Center and Confluence Server PoC",
-            "date_modified": "2024-01-26T02:40:48.000Z",
-            "date_published": "2024-01-25T10:52:39.000Z",
-            "author": {
-                "name": "adminlove520",
-                "url": "https://github.com/adminlove520"
             }
         }
     ]
