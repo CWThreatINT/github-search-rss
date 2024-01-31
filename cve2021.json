@@ -6,6 +6,17 @@
     "description": "CVE-2021 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/1596893?u=f80588cdaae5d7f8664298d10fdf763e297760fd&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div> m-y-mo: <a href=\"https://github.com/github/securitylab/tree/main/SecurityExploits/Chrome/v8/CVE-2021-30632\">https://github.com/github/securitylab/tree/main/SecurityExploits/Chrome/v8/CVE-2021-30632</a></div>",
+            "url": "https://github.com/paulsery/CVE-2021-30632",
+            "title": "paulsery/CVE-2021-30632:  m-y-mo: https://github.com/github/securitylab/tree/main/SecurityExploits/Chrome/v8/CVE-2021-30632",
+            "date_modified": "2024-01-31T03:37:53.000Z",
+            "date_published": "2024-01-31T03:28:58.000Z",
+            "author": {
+                "name": "paulsery",
+                "url": "https://github.com/paulsery"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/32100248?u=d800687db4415a7b0b95776e5e4bdefa9239b38e&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
             "url": "https://github.com/FancySauce/PwnKit-CVE-2021-4034",
             "title": "FancySauce/PwnKit-CVE-2021-4034",
@@ -20,7 +31,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/63742814?u=1c32c79c15554495af0a185f87a36aab136ee9cf&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Confluence CVE 2021，2022，2023 利用工具，支持命令执行，哥斯拉，冰蝎 内存马注入</div>",
             "url": "https://github.com/Lotus6/ConfluenceMemshell",
             "title": "Lotus6/ConfluenceMemshell: Confluence CVE 2021，2022，2023 利用工具，支持命令执行，哥斯拉，冰蝎 内存马注入",
-            "date_modified": "2024-01-30T11:52:26.000Z",
+            "date_modified": "2024-01-31T03:19:15.000Z",
             "date_published": "2024-01-26T13:11:21.000Z",
             "author": {
                 "name": "Lotus6",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "timb-machine-mirrors",
                 "url": "https://github.com/timb-machine-mirrors"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/8538866?u=d42667db2462ad8c8f96dffa89b33069fe0c3fc9&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Exploiting CVE-2021-44228 in Unifi Network Application for remote code execution and more.</div>",
-            "url": "https://github.com/puzzlepeaches/Log4jUnifi",
-            "title": "puzzlepeaches/Log4jUnifi: Exploiting CVE-2021-44228 in Unifi Network Application for remote code execution and more.",
-            "date_modified": "2024-01-25T08:55:14.000Z",
-            "date_published": "2021-12-24T13:18:49.000Z",
-            "author": {
-                "name": "puzzlepeaches",
-                "url": "https://github.com/puzzlepeaches"
             }
         }
     ]
