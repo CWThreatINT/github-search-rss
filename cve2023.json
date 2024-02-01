@@ -6,6 +6,17 @@
     "description": "CVE-2023 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/18195825?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023</div>",
+            "url": "https://github.com/CVEProject/cvelist",
+            "title": "CVEProject/cvelist: Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023",
+            "date_modified": "2024-02-01T02:27:52.000Z",
+            "date_published": "2020-11-02T19:30:55.000Z",
+            "author": {
+                "name": "CVEProject",
+                "url": "https://github.com/CVEProject"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/156245437?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Microsoft Windows HTA (HTML Application) - Pinnacle of Remote Code Execution</div>",
             "url": "https://github.com/Maskiow/Hta-Exploit-Builder-Slient-Builder-Exploit-Database-Cve-2023-Malware",
             "title": "Maskiow/Hta-Exploit-Builder-Slient-Builder-Exploit-Database-Cve-2023-Malware: Microsoft Windows HTA (HTML Application) - Pinnacle of Remote Code Execution",
@@ -50,17 +61,6 @@
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/18195825?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023</div>",
-            "url": "https://github.com/CVEProject/cvelist",
-            "title": "CVEProject/cvelist: Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023",
-            "date_modified": "2024-02-01T02:27:52.000Z",
-            "date_published": "2020-11-02T19:30:55.000Z",
-            "author": {
-                "name": "CVEProject",
-                "url": "https://github.com/CVEProject"
-            }
-        },
-        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/29830064?u=9d91934d592f6fc3420b94f927aae0e25a84d178&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
             "url": "https://github.com/cyb3rzest/Juniper-Bug-Automation-CVE-2023-36845",
             "title": "cyb3rzest/Juniper-Bug-Automation-CVE-2023-36845",
@@ -75,7 +75,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/63742814?u=1c32c79c15554495af0a185f87a36aab136ee9cf&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Confluence CVE 2021，2022，2023 利用工具，支持命令执行，哥斯拉，冰蝎 内存马注入</div>",
             "url": "https://github.com/Lotus6/ConfluenceMemshell",
             "title": "Lotus6/ConfluenceMemshell: Confluence CVE 2021，2022，2023 利用工具，支持命令执行，哥斯拉，冰蝎 内存马注入",
-            "date_modified": "2024-02-01T05:44:51.000Z",
+            "date_modified": "2024-02-01T06:33:44.000Z",
             "date_published": "2024-01-26T13:11:21.000Z",
             "author": {
                 "name": "Lotus6",
@@ -130,7 +130,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/98540960?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>cpanel_xss_2023 is a simple Python script designed for finding CVE-2023-29489 vulnerability in cpanel.</div>",
             "url": "https://github.com/mdaseem03/cpanel_xss_2023",
             "title": "mdaseem03/cpanel_xss_2023: cpanel_xss_2023 is a simple Python script designed for finding CVE-2023-29489 vulnerability in cpanel.",
-            "date_modified": "2024-01-23T20:35:41.000Z",
+            "date_modified": "2024-02-01T06:54:00.000Z",
             "date_published": "2024-01-23T20:29:57.000Z",
             "author": {
                 "name": "mdaseem03",
