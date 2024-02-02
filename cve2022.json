@@ -6,6 +6,17 @@
     "description": "CVE-2022 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/8232188?u=7a60f76a08e22a0a3fe86fca48c79778c4fd6c0b&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>ProcessMaker before v3.5.4 was discovered to contain insecure permissions in the user profile page. This vulnerability allows attackers to escalate normal users to Administrators.</div>",
+            "url": "https://github.com/sornram9254/CVE-2022-38577-Processmaker",
+            "title": "sornram9254/CVE-2022-38577-Processmaker: ProcessMaker before v3.5.4 was discovered to contain insecure permissions in the user profile page. This vulnerability allows attackers to escalate normal users to Administrators.",
+            "date_modified": "2023-02-22T07:52:01.000Z",
+            "date_published": "2022-09-21T04:29:42.000Z",
+            "author": {
+                "name": "sornram9254",
+                "url": "https://github.com/sornram9254"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/57404930?u=15c8c306eb2a82d233cacd9ae77893665db1de24&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>一款针对Vcenter的综合利用工具，包含目前最主流的CVE-2021-21972、CVE-2021-21985以及CVE-2021-22005、One Access的CVE-2022-22954、CVE-2022-22972/31656以及log4j，提供一键上传webshell，命令执行或者上传公钥使用SSH免密连接</div>",
             "url": "https://github.com/Schira4396/VcenterKiller",
             "title": "Schira4396/VcenterKiller: 一款针对Vcenter的综合利用工具，包含目前最主流的CVE-2021-21972、CVE-2021-21985以及CVE-2021-22005、One Access的CVE-2022-22954、CVE-2022-22972/31656以及log4j，提供一键上传webshell，命令执行或者上传公钥使用SSH免密连接",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "mbadanoiu",
                 "url": "https://github.com/mbadanoiu"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/55981787?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>PoC for CVE-2022-1388 affecting F5 BIG-IP.</div>",
-            "url": "https://github.com/nico989/CVE-2022-1388",
-            "title": "nico989/CVE-2022-1388: PoC for CVE-2022-1388 affecting F5 BIG-IP.",
-            "date_modified": "2024-01-09T20:13:12.000Z",
-            "date_published": "2024-01-09T19:52:36.000Z",
-            "author": {
-                "name": "nico989",
-                "url": "https://github.com/nico989"
             }
         }
     ]
