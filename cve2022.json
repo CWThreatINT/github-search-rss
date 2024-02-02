@@ -6,6 +6,17 @@
     "description": "CVE-2022 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/102574296?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
+            "url": "https://github.com/Trinadh465/external_zlib_android-6.0.1_r22_CVE-2022-37434",
+            "title": "Trinadh465/external_zlib_android-6.0.1_r22_CVE-2022-37434",
+            "date_modified": "2024-02-02T06:57:18.000Z",
+            "date_published": "2024-02-02T06:57:18.000Z",
+            "author": {
+                "name": "Trinadh465",
+                "url": "https://github.com/Trinadh465"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/8232188?u=7a60f76a08e22a0a3fe86fca48c79778c4fd6c0b&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>ProcessMaker before v3.5.4 was discovered to contain insecure permissions in the user profile page. This vulnerability allows attackers to escalate normal users to Administrators.</div>",
             "url": "https://github.com/sornram9254/CVE-2022-38577-Processmaker",
             "title": "sornram9254/CVE-2022-38577-Processmaker: ProcessMaker before v3.5.4 was discovered to contain insecure permissions in the user profile page. This vulnerability allows attackers to escalate normal users to Administrators.",
@@ -20,7 +31,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/57404930?u=15c8c306eb2a82d233cacd9ae77893665db1de24&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>一款针对Vcenter的综合利用工具，包含目前最主流的CVE-2021-21972、CVE-2021-21985以及CVE-2021-22005、One Access的CVE-2022-22954、CVE-2022-22972/31656以及log4j，提供一键上传webshell，命令执行或者上传公钥使用SSH免密连接</div>",
             "url": "https://github.com/Schira4396/VcenterKiller",
             "title": "Schira4396/VcenterKiller: 一款针对Vcenter的综合利用工具，包含目前最主流的CVE-2021-21972、CVE-2021-21985以及CVE-2021-22005、One Access的CVE-2022-22954、CVE-2022-22972/31656以及log4j，提供一键上传webshell，命令执行或者上传公钥使用SSH免密连接",
-            "date_modified": "2024-01-31T01:47:09.000Z",
+            "date_modified": "2024-02-02T06:25:01.000Z",
             "date_published": "2022-10-04T03:39:27.000Z",
             "author": {
                 "name": "Schira4396",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "ifulxploit",
                 "url": "https://github.com/ifulxploit"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/18383407?u=c9d1276bd9ccb8b06b724c3057b1ef683fa81de7&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2022-20818: Local Privilege Escalation via Partial File Read in Cisco SD-WAN</div>",
-            "url": "https://github.com/mbadanoiu/CVE-2022-20818",
-            "title": "mbadanoiu/CVE-2022-20818: CVE-2022-20818: Local Privilege Escalation via Partial File Read in Cisco SD-WAN",
-            "date_modified": "2024-01-13T10:19:51.000Z",
-            "date_published": "2024-01-13T00:17:53.000Z",
-            "author": {
-                "name": "mbadanoiu",
-                "url": "https://github.com/mbadanoiu"
             }
         }
     ]
