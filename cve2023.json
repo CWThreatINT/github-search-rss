@@ -6,39 +6,6 @@
     "description": "CVE-2023 FEED on GitHub",
     "items": [
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/18195825?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023</div>",
-            "url": "https://github.com/CVEProject/cvelist",
-            "title": "CVEProject/cvelist: Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023",
-            "date_modified": "2024-02-01T19:23:52.000Z",
-            "date_published": "2020-11-02T19:30:55.000Z",
-            "author": {
-                "name": "CVEProject",
-                "url": "https://github.com/CVEProject"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/7016191?u=ed6d2cad7c1e9978a99fdab8cb56b333b0e8570a&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Mitigation validation utility for the Ivanti Connect Around attack chain. Runs multiple checks. CVE-2023-46805, CVE-2024-21887.</div>",
-            "url": "https://github.com/seajaysec/Ivanti-Connect-Around-Scan",
-            "title": "seajaysec/Ivanti-Connect-Around-Scan: Mitigation validation utility for the Ivanti Connect Around attack chain. Runs multiple checks. CVE-2023-46805, CVE-2024-21887.",
-            "date_modified": "2024-01-21T01:02:03.000Z",
-            "date_published": "2024-01-19T02:12:11.000Z",
-            "author": {
-                "name": "seajaysec",
-                "url": "https://github.com/seajaysec"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/156245437?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>URL Contamination Exploit Muted Java Drive-By downloads can transpire during the act of perusing a website, inaugurating an electronic mail communication.</div>",
-            "url": "https://github.com/Maskiow/Slient-Url-Exploit-Slient-Builder-Exploit-Database-Cve-2023-Malware",
-            "title": "Maskiow/Slient-Url-Exploit-Slient-Builder-Exploit-Database-Cve-2023-Malware: URL Contamination Exploit Muted Java Drive-By downloads can transpire during the act of perusing a website, inaugurating an electronic mail communication.",
-            "date_modified": "2024-01-31T05:51:18.000Z",
-            "date_published": "2024-01-10T20:46:05.000Z",
-            "author": {
-                "name": "Maskiow",
-                "url": "https://github.com/Maskiow"
-            }
-        },
-        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/156245437?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>In the hushed galleries of the Silent JPG Exploit, a symphony shrouded in enigma unfurls—an opus named silent-jpg-exploit-2018—a title that reverberates through the annals of intrigue.</div>",
             "url": "https://github.com/Maskiow/Jpg-Png-Exploit-Slient-Builder-Exploit-Database-Cve-2023-Malware",
             "title": "Maskiow/Jpg-Png-Exploit-Slient-Builder-Exploit-Database-Cve-2023-Malware: In the hushed galleries of the Silent JPG Exploit, a symphony shrouded in enigma unfurls—an opus named silent-jpg-exploit-2018—a title that reverberates through the annals of intrigue.",
@@ -69,6 +36,39 @@
             "author": {
                 "name": "Maskiow",
                 "url": "https://github.com/Maskiow"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/156245437?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>URL Contamination Exploit Muted Java Drive-By downloads can transpire during the act of perusing a website, inaugurating an electronic mail communication.</div>",
+            "url": "https://github.com/Maskiow/Slient-Url-Exploit-Slient-Builder-Exploit-Database-Cve-2023-Malware",
+            "title": "Maskiow/Slient-Url-Exploit-Slient-Builder-Exploit-Database-Cve-2023-Malware: URL Contamination Exploit Muted Java Drive-By downloads can transpire during the act of perusing a website, inaugurating an electronic mail communication.",
+            "date_modified": "2024-01-31T05:51:18.000Z",
+            "date_published": "2024-01-10T20:46:05.000Z",
+            "author": {
+                "name": "Maskiow",
+                "url": "https://github.com/Maskiow"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/18195825?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023</div>",
+            "url": "https://github.com/CVEProject/cvelist",
+            "title": "CVEProject/cvelist: Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023",
+            "date_modified": "2024-02-01T19:23:52.000Z",
+            "date_published": "2020-11-02T19:30:55.000Z",
+            "author": {
+                "name": "CVEProject",
+                "url": "https://github.com/CVEProject"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/7016191?u=ed6d2cad7c1e9978a99fdab8cb56b333b0e8570a&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Mitigation validation utility for the Ivanti Connect Around attack chain. Runs multiple checks. CVE-2023-46805, CVE-2024-21887.</div>",
+            "url": "https://github.com/seajaysec/Ivanti-Connect-Around-Scan",
+            "title": "seajaysec/Ivanti-Connect-Around-Scan: Mitigation validation utility for the Ivanti Connect Around attack chain. Runs multiple checks. CVE-2023-46805, CVE-2024-21887.",
+            "date_modified": "2024-01-21T01:02:03.000Z",
+            "date_published": "2024-01-19T02:12:11.000Z",
+            "author": {
+                "name": "seajaysec",
+                "url": "https://github.com/seajaysec"
             }
         },
         {
