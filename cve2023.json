@@ -6,17 +6,6 @@
     "description": "CVE-2023 FEED on GitHub",
     "items": [
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/18195825?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023</div>",
-            "url": "https://github.com/CVEProject/cvelist",
-            "title": "CVEProject/cvelist: Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023",
-            "date_modified": "2024-02-01T19:23:52.000Z",
-            "date_published": "2020-11-02T19:30:55.000Z",
-            "author": {
-                "name": "CVEProject",
-                "url": "https://github.com/CVEProject"
-            }
-        },
-        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/156245437?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A meticulous scrutiny of the Exploit PDFs innards exposes a network of malevolence, unveiling both the nefarious hyperlink and the URL that precipitates</div>",
             "url": "https://github.com/Maskiow/Slient-PDF-FUD-Exploit-Slient-Builder-Exploit-Database-Cve-2023-Malware",
             "title": "Maskiow/Slient-PDF-FUD-Exploit-Slient-Builder-Exploit-Database-Cve-2023-Malware: A meticulous scrutiny of the Exploit PDFs innards exposes a network of malevolence, unveiling both the nefarious hyperlink and the URL that precipitates",
@@ -58,6 +47,28 @@
             "author": {
                 "name": "Maskiow",
                 "url": "https://github.com/Maskiow"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/55649192?u=1b410e2cad55f644800ec8b9908cdf582d0603bd&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Triggering the famous libweb 0day vuln with libfuzzer</div>",
+            "url": "https://github.com/Microsvuln/CVE-2023-4863",
+            "title": "Microsvuln/CVE-2023-4863: Triggering the famous libweb 0day vuln with libfuzzer",
+            "date_modified": "2024-02-03T12:31:26.000Z",
+            "date_published": "2024-02-03T12:27:37.000Z",
+            "author": {
+                "name": "Microsvuln",
+                "url": "https://github.com/Microsvuln"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/18195825?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023</div>",
+            "url": "https://github.com/CVEProject/cvelist",
+            "title": "CVEProject/cvelist: Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023",
+            "date_modified": "2024-02-01T19:23:52.000Z",
+            "date_published": "2020-11-02T19:30:55.000Z",
+            "author": {
+                "name": "CVEProject",
+                "url": "https://github.com/CVEProject"
             }
         },
         {
@@ -212,17 +223,6 @@
             "author": {
                 "name": "pctripsesp",
                 "url": "https://github.com/pctripsesp"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/98540960?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>cpanel_xss_2023 is a simple Python script designed for finding CVE-2023-29489 vulnerability in cpanel.</div>",
-            "url": "https://github.com/mdaseem03/cpanel_xss_2023",
-            "title": "mdaseem03/cpanel_xss_2023: cpanel_xss_2023 is a simple Python script designed for finding CVE-2023-29489 vulnerability in cpanel.",
-            "date_modified": "2024-02-01T06:54:00.000Z",
-            "date_published": "2024-01-23T20:29:57.000Z",
-            "author": {
-                "name": "mdaseem03",
-                "url": "https://github.com/mdaseem03"
             }
         }
     ]
