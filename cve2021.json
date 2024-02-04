@@ -6,6 +6,17 @@
     "description": "CVE-2021 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/35977703?u=8f50b78e5a5d47abc50935bb0f9d04359ee6df47&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Vulnerability details and exploit for CVE-2021-3754</div>",
+            "url": "https://github.com/7Ragnarok7/CVE-2021-3754",
+            "title": "7Ragnarok7/CVE-2021-3754: Vulnerability details and exploit for CVE-2021-3754",
+            "date_modified": "2023-09-07T11:19:22.000Z",
+            "date_published": "2023-09-07T07:49:21.000Z",
+            "author": {
+                "name": "7Ragnarok7",
+                "url": "https://github.com/7Ragnarok7"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/36897432?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>MDaemon Advisories - CVE-2021-27180, CVE-2021-27181, CVE-2021-27182, CVE-2021-27183</div>",
             "url": "https://github.com/chudyPB/MDaemon-Advisories",
             "title": "chudyPB/MDaemon-Advisories: MDaemon Advisories - CVE-2021-27180, CVE-2021-27181, CVE-2021-27182, CVE-2021-27183",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "scabench",
                 "url": "https://github.com/scabench"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/49213538?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
-            "url": "https://github.com/lluriam19/CVE-2021-4034-Vuln",
-            "title": "lluriam19/CVE-2021-4034-Vuln",
-            "date_modified": "2024-01-08T17:15:22.000Z",
-            "date_published": "2024-01-08T17:15:08.000Z",
-            "author": {
-                "name": "lluriam19",
-                "url": "https://github.com/lluriam19"
             }
         }
     ]
