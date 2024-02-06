@@ -6,6 +6,17 @@
     "description": "CVE-2022 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/81664593?u=80dce975562918d2776af6338d300db1749d7593&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>一款Spring综合漏洞的利用工具，工具目前支持Spring Cloud Gateway RCE(CVE-2022-22947)、Spring Framework RCE (CVE-2022-22965) 的检测以及利用，目前仅为第一个版本，后续会添加更多漏洞POC，以及更多的持久化利用方式</div>",
+            "url": "https://github.com/charonlight/SpringExploitGUI",
+            "title": "charonlight/SpringExploitGUI: 一款Spring综合漏洞的利用工具，工具目前支持Spring Cloud Gateway RCE(CVE-2022-22947)、Spring Framework RCE (CVE-2022-22965) 的检测以及利用，目前仅为第一个版本，后续会添加更多漏洞POC，以及更多的持久化利用方式",
+            "date_modified": "2024-02-06T09:02:34.000Z",
+            "date_published": "2024-02-06T08:45:19.000Z",
+            "author": {
+                "name": "charonlight",
+                "url": "https://github.com/charonlight"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/12976017?u=6d3d423fda6a56643a0ca1acae5223cdf08a3c28&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>This is a one-time signature verification bypass. For persistent signature verification bypass, check <a href=\"https://github.com/TomKing062/CVE-2022-38691_38692\">https://github.com/TomKing062/CVE-2022-38691_38692</a></div>",
             "url": "https://github.com/TomKing062/CVE-2022-38694_unlock_bootloader",
             "title": "TomKing062/CVE-2022-38694_unlock_bootloader: This is a one-time signature verification bypass. For persistent signature verification bypass, check https://github.com/TomKing062/CVE-2022-38691_38692",
@@ -86,7 +97,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/63742814?u=1c32c79c15554495af0a185f87a36aab136ee9cf&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Confluence CVE 2021，2022，2023 利用工具，支持命令执行，哥斯拉，冰蝎 内存马注入</div>",
             "url": "https://github.com/Lotus6/ConfluenceMemshell",
             "title": "Lotus6/ConfluenceMemshell: Confluence CVE 2021，2022，2023 利用工具，支持命令执行，哥斯拉，冰蝎 内存马注入",
-            "date_modified": "2024-02-06T06:45:56.000Z",
+            "date_modified": "2024-02-06T08:52:41.000Z",
             "date_published": "2024-01-26T13:11:21.000Z",
             "author": {
                 "name": "Lotus6",
@@ -108,7 +119,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/105329747?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
             "url": "https://github.com/mistymntncop/CVE-2022-4262",
             "title": "mistymntncop/CVE-2022-4262",
-            "date_modified": "2024-02-06T07:21:33.000Z",
+            "date_modified": "2024-02-06T09:05:21.000Z",
             "date_published": "2024-01-24T11:58:54.000Z",
             "author": {
                 "name": "mistymntncop",
@@ -209,17 +220,6 @@
             "title": "kamal-marouane/CVE-2022-21907: Vulnerability in HTTP Protocol Stack Enabling Remote Code Execution and Potential System Crash.",
             "date_modified": "2023-12-11T20:32:49.000Z",
             "date_published": "2023-12-09T22:26:49.000Z",
-            "author": {
-                "name": "kamal-marouane",
-                "url": "https://github.com/kamal-marouane"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/110986028?u=3ab80eb54f7c446398903b11d6681ec27830e54d&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A flaw was found in the Django package, which leads to a SQL injection. This flaw allows an attacker using a crafted dictionary containing malicious SQL queries to compromise the database completely.</div>",
-            "url": "https://github.com/kamal-marouane/CVE-2022-28346",
-            "title": "kamal-marouane/CVE-2022-28346: A flaw was found in the Django package, which leads to a SQL injection. This flaw allows an attacker using a crafted dictionary containing malicious SQL queries to compromise the database completely.",
-            "date_modified": "2024-01-20T05:30:50.000Z",
-            "date_published": "2024-01-19T00:15:59.000Z",
             "author": {
                 "name": "kamal-marouane",
                 "url": "https://github.com/kamal-marouane"
