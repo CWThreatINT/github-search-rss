@@ -6,10 +6,10 @@
     "description": "CVE-2022 FEED on GitHub",
     "items": [
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/81664593?u=80dce975562918d2776af6338d300db1749d7593&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>一款Spring综合漏洞的利用工具，工具目前支持Spring Cloud Gateway RCE(CVE-2022-22947)、Spring Framework RCE (CVE-2022-22965) 的检测以及利用，目前仅为第一个版本，后续会添加更多漏洞POC，以及更多的持久化利用方式</div>",
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/81664593?u=80dce975562918d2776af6338d300db1749d7593&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>一款Spring综合漏洞的利用工具，工具目前支持Spring Cloud Gateway RCE(CVE-2022-22947)、Spring Framework RCE (CVE-2022-22965) 的检测以及利用</div>",
             "url": "https://github.com/charonlight/SpringExploitGUI",
-            "title": "charonlight/SpringExploitGUI: 一款Spring综合漏洞的利用工具，工具目前支持Spring Cloud Gateway RCE(CVE-2022-22947)、Spring Framework RCE (CVE-2022-22965) 的检测以及利用，目前仅为第一个版本，后续会添加更多漏洞POC，以及更多的持久化利用方式",
-            "date_modified": "2024-02-06T09:02:34.000Z",
+            "title": "charonlight/SpringExploitGUI: 一款Spring综合漏洞的利用工具，工具目前支持Spring Cloud Gateway RCE(CVE-2022-22947)、Spring Framework RCE (CVE-2022-22965) 的检测以及利用",
+            "date_modified": "2024-02-06T09:09:05.000Z",
             "date_published": "2024-02-06T08:45:19.000Z",
             "author": {
                 "name": "charonlight",
