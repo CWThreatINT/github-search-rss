@@ -6,6 +6,17 @@
     "description": "CVE-2022 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/88584206?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Turning Your Computer Into a GPS Tracker With Apple Maps</div>",
+            "url": "https://github.com/breakpointHQ/CVE-2022-32883",
+            "title": "breakpointHQ/CVE-2022-32883: Turning Your Computer Into a GPS Tracker With Apple Maps",
+            "date_modified": "2024-01-10T06:15:29.000Z",
+            "date_published": "2022-09-18T15:51:52.000Z",
+            "author": {
+                "name": "breakpointHQ",
+                "url": "https://github.com/breakpointHQ"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/81664593?u=80dce975562918d2776af6338d300db1749d7593&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>一款Spring综合漏洞的利用工具，工具目前支持Spring Cloud Gateway RCE(CVE-2022-22947)、Spring Framework RCE (CVE-2022-22965) 的检测以及利用</div>",
             "url": "https://github.com/charonlight/SpringExploitGUI",
             "title": "charonlight/SpringExploitGUI: 一款Spring综合漏洞的利用工具，工具目前支持Spring Cloud Gateway RCE(CVE-2022-22947)、Spring Framework RCE (CVE-2022-22965) 的检测以及利用",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "rvizx",
                 "url": "https://github.com/rvizx"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/110986028?u=3ab80eb54f7c446398903b11d6681ec27830e54d&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Vulnerability in HTTP Protocol Stack Enabling Remote Code Execution and Potential System Crash.</div>",
-            "url": "https://github.com/kamal-marouane/CVE-2022-21907",
-            "title": "kamal-marouane/CVE-2022-21907: Vulnerability in HTTP Protocol Stack Enabling Remote Code Execution and Potential System Crash.",
-            "date_modified": "2023-12-11T20:32:49.000Z",
-            "date_published": "2023-12-09T22:26:49.000Z",
-            "author": {
-                "name": "kamal-marouane",
-                "url": "https://github.com/kamal-marouane"
             }
         }
     ]
