@@ -6,6 +6,28 @@
     "description": "CVE-2022 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/109741065?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
+            "url": "https://github.com/MendDemo-josh/cve-2022-42889-text4shell",
+            "title": "MendDemo-josh/cve-2022-42889-text4shell",
+            "date_modified": "2024-02-08T20:55:23.000Z",
+            "date_published": "2024-02-08T20:55:09.000Z",
+            "author": {
+                "name": "MendDemo-josh",
+                "url": "https://github.com/MendDemo-josh"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/88124465?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
+            "url": "https://github.com/joshbnewton31080/cve-2022-42889-text4shell",
+            "title": "joshbnewton31080/cve-2022-42889-text4shell",
+            "date_modified": "2024-02-08T20:54:36.000Z",
+            "date_published": "2024-02-08T20:54:23.000Z",
+            "author": {
+                "name": "joshbnewton31080",
+                "url": "https://github.com/joshbnewton31080"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/88584206?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Turning Your Computer Into a GPS Tracker With Apple Maps</div>",
             "url": "https://github.com/breakpointHQ/CVE-2022-32883",
             "title": "breakpointHQ/CVE-2022-32883: Turning Your Computer Into a GPS Tracker With Apple Maps",
@@ -201,28 +223,6 @@
             "author": {
                 "name": "scabench",
                 "url": "https://github.com/scabench"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/107208935?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2022-36946 linux kernel panic in netfilter_queue</div>",
-            "url": "https://github.com/Pwnzer0tt1/CVE-2022-36946",
-            "title": "Pwnzer0tt1/CVE-2022-36946: CVE-2022-36946 linux kernel panic in netfilter_queue",
-            "date_modified": "2024-01-30T08:06:13.000Z",
-            "date_published": "2022-07-28T11:22:13.000Z",
-            "author": {
-                "name": "Pwnzer0tt1",
-                "url": "https://github.com/Pwnzer0tt1"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/84989569?u=b027e9a8785b58ab40097521d634b7ebf24aa3e7&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Dompdf RCE PoC Exploit - CVE-2022-28368</div>",
-            "url": "https://github.com/rvizx/CVE-2022-28368",
-            "title": "rvizx/CVE-2022-28368: Dompdf RCE PoC Exploit - CVE-2022-28368",
-            "date_modified": "2024-02-03T10:32:49.000Z",
-            "date_published": "2023-02-13T08:10:00.000Z",
-            "author": {
-                "name": "rvizx",
-                "url": "https://github.com/rvizx"
             }
         }
     ]
