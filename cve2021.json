@@ -6,6 +6,28 @@
     "description": "CVE-2021 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/159454354?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2021-41773, CVE-2021-42013</div>",
+            "url": "https://github.com/OpenCVEs/CVE-2021-41773",
+            "title": "OpenCVEs/CVE-2021-41773: CVE-2021-41773, CVE-2021-42013",
+            "date_modified": "2024-02-08T16:00:54.000Z",
+            "date_published": "2024-02-08T15:41:43.000Z",
+            "author": {
+                "name": "OpenCVEs",
+                "url": "https://github.com/OpenCVEs"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/159454354?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2021-4034</div>",
+            "url": "https://github.com/OpenCVEs/CVE-2021-4034",
+            "title": "OpenCVEs/CVE-2021-4034: CVE-2021-4034",
+            "date_modified": "2024-02-08T15:42:59.000Z",
+            "date_published": "2022-03-16T23:05:53.000Z",
+            "author": {
+                "name": "OpenCVEs",
+                "url": "https://github.com/OpenCVEs"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/94911442?u=055bfc8bfe827d93af3b6dd96a04b31970cfdcc4&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2021-44270</div>",
             "url": "https://github.com/pinpinsec/Anviz-Access-Control-Authentication-Bypass",
             "title": "pinpinsec/Anviz-Access-Control-Authentication-Bypass: CVE-2021-44270",
@@ -201,28 +223,6 @@
             "author": {
                 "name": "peckre",
                 "url": "https://github.com/peckre"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/70909693?u=623cdd16249501e7d4f74b743a81017fc3b4de3a&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A PoC exploit for CVE-2021-42013 - Apache 2.4.49 &amp; 2.4.50 Remote Code Execution</div>",
-            "url": "https://github.com/K3ysTr0K3R/CVE-2021-42013-EXPLOIT",
-            "title": "K3ysTr0K3R/CVE-2021-42013-EXPLOIT: A PoC exploit for CVE-2021-42013 - Apache 2.4.49 & 2.4.50 Remote Code Execution",
-            "date_modified": "2023-08-25T20:00:43.000Z",
-            "date_published": "2023-08-25T19:51:01.000Z",
-            "author": {
-                "name": "K3ysTr0K3R",
-                "url": "https://github.com/K3ysTr0K3R"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/60959602?u=c866e70df876b418da2d4a454175bfb5b89f1675&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2021-3129</div>",
-            "url": "https://github.com/Axianke/CVE-2021-3129",
-            "title": "Axianke/CVE-2021-3129: CVE-2021-3129",
-            "date_modified": "2024-02-06T02:11:03.000Z",
-            "date_published": "2024-01-15T07:12:07.000Z",
-            "author": {
-                "name": "Axianke",
-                "url": "https://github.com/Axianke"
             }
         }
     ]
