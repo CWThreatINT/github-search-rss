@@ -6,6 +6,17 @@
     "description": "CVE-2021 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/113451397?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Authenticated Blind SQL Injection. Wordpress woocommerce plugin versions &gt;= 2.5.0</div>",
+            "url": "https://github.com/DonVorrin/CVE-2021-32789",
+            "title": "DonVorrin/CVE-2021-32789: Authenticated Blind SQL Injection. Wordpress woocommerce plugin versions >= 2.5.0",
+            "date_modified": "2024-02-08T19:04:47.000Z",
+            "date_published": "2024-02-08T19:02:17.000Z",
+            "author": {
+                "name": "DonVorrin",
+                "url": "https://github.com/DonVorrin"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/159454354?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2021-41773, CVE-2021-42013</div>",
             "url": "https://github.com/OpenCVEs/CVE-2021-41773",
             "title": "OpenCVEs/CVE-2021-41773: CVE-2021-41773, CVE-2021-42013",
@@ -108,7 +119,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/63742814?u=1c32c79c15554495af0a185f87a36aab136ee9cf&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Confluence CVE 2021，2022，2023 利用工具，支持命令执行，哥斯拉，冰蝎 内存马注入</div>",
             "url": "https://github.com/Lotus6/ConfluenceMemshell",
             "title": "Lotus6/ConfluenceMemshell: Confluence CVE 2021，2022，2023 利用工具，支持命令执行，哥斯拉，冰蝎 内存马注入",
-            "date_modified": "2024-02-08T07:18:53.000Z",
+            "date_modified": "2024-02-08T18:16:59.000Z",
             "date_published": "2024-01-26T13:11:21.000Z",
             "author": {
                 "name": "Lotus6",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "devdanqtuan",
                 "url": "https://github.com/devdanqtuan"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/97857297?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A one-click script to gain a System privileges command line in Windows 10 20H2 that exploits CVE-2021-1675</div>",
-            "url": "https://github.com/peckre/PNCVE-Win10-20H2-Exploit",
-            "title": "peckre/PNCVE-Win10-20H2-Exploit: A one-click script to gain a System privileges command line in Windows 10 20H2 that exploits CVE-2021-1675",
-            "date_modified": "2024-01-17T20:29:40.000Z",
-            "date_published": "2024-01-17T20:22:29.000Z",
-            "author": {
-                "name": "peckre",
-                "url": "https://github.com/peckre"
             }
         }
     ]
