@@ -6,6 +6,17 @@
     "description": "CVE-2021 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/60618569?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
+            "url": "https://github.com/markyu0401/CVE-2021-3560-Polkit-Privilege-Escalation",
+            "title": "markyu0401/CVE-2021-3560-Polkit-Privilege-Escalation",
+            "date_modified": "2023-12-15T03:38:41.000Z",
+            "date_published": "2023-12-15T03:38:41.000Z",
+            "author": {
+                "name": "markyu0401",
+                "url": "https://github.com/markyu0401"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/113451397?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Authenticated Blind SQL Injection. Wordpress woocommerce plugin versions &gt;= 2.5.0</div>",
             "url": "https://github.com/DonVorrin/CVE-2021-32789",
             "title": "DonVorrin/CVE-2021-32789: Authenticated Blind SQL Injection. Wordpress woocommerce plugin versions >= 2.5.0",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "dikalasenjadatang",
                 "url": "https://github.com/dikalasenjadatang"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/88175750?u=0ec8409fe50810503ee858f84dd101879c23c5d1&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2021-22205&amp; GitLab CE/EE RCE</div>",
-            "url": "https://github.com/devdanqtuan/CVE-2021-22205",
-            "title": "devdanqtuan/CVE-2021-22205: CVE-2021-22205& GitLab CE/EE RCE",
-            "date_modified": "2021-11-04T09:01:59.000Z",
-            "date_published": "2021-11-04T09:01:07.000Z",
-            "author": {
-                "name": "devdanqtuan",
-                "url": "https://github.com/devdanqtuan"
             }
         }
     ]
