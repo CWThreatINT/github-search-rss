@@ -6,6 +6,28 @@
     "description": "CVE-2021 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/33582093?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
+            "url": "https://github.com/whoami-chmod777/CVE-2021-1675---PrintNightmare-LPE-PowerShell-",
+            "title": "whoami-chmod777/CVE-2021-1675---PrintNightmare-LPE-PowerShell-",
+            "date_modified": "2024-02-12T20:59:21.000Z",
+            "date_published": "2024-02-12T20:59:08.000Z",
+            "author": {
+                "name": "whoami-chmod777",
+                "url": "https://github.com/whoami-chmod777"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/33582093?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
+            "url": "https://github.com/whoami-chmod777/CVE-2021-1675-CVE-2021-34527",
+            "title": "whoami-chmod777/CVE-2021-1675-CVE-2021-34527",
+            "date_modified": "2024-02-12T20:55:03.000Z",
+            "date_published": "2024-02-12T20:54:51.000Z",
+            "author": {
+                "name": "whoami-chmod777",
+                "url": "https://github.com/whoami-chmod777"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/46684055?u=9bd5a8e47b40fc9c1c0c6bc2d193fe79e441568b&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
             "url": "https://github.com/SamTruss/LMU-CVE-2021-3156",
             "title": "SamTruss/LMU-CVE-2021-3156",
@@ -201,28 +223,6 @@
             "author": {
                 "name": "digital-dev",
                 "url": "https://github.com/digital-dev"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/82907557?u=633a3c892c7515108a4e1dca459cb1d451b177aa&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>PoC de Polkit</div>",
-            "url": "https://github.com/cerodah/CVE-2021-4034",
-            "title": "cerodah/CVE-2021-4034: PoC de Polkit",
-            "date_modified": "2024-01-24T23:41:28.000Z",
-            "date_published": "2024-01-17T22:55:46.000Z",
-            "author": {
-                "name": "cerodah",
-                "url": "https://github.com/cerodah"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/57265360?u=5a0d0ca6c5153d7e41b9f498a12fe2b35498adf6&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Local Privilege Escalation (LPE) vulnerability in Polkit - Pwnkit</div>",
-            "url": "https://github.com/LucasPDiniz/CVE-2021-4034",
-            "title": "LucasPDiniz/CVE-2021-4034: Local Privilege Escalation (LPE) vulnerability in Polkit - Pwnkit",
-            "date_modified": "2024-01-06T22:14:25.000Z",
-            "date_published": "2024-01-06T19:41:41.000Z",
-            "author": {
-                "name": "LucasPDiniz",
-                "url": "https://github.com/LucasPDiniz"
             }
         }
     ]
