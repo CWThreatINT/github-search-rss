@@ -6,6 +6,28 @@
     "description": "CVE-2021 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/18383407?u=c9d1276bd9ccb8b06b724c3057b1ef683fa81de7&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2021-46366: Credential Bruteforce Attack via CSRF + Open Redirect in Magnolia CMS</div>",
+            "url": "https://github.com/mbadanoiu/CVE-2021-46366",
+            "title": "mbadanoiu/CVE-2021-46366: CVE-2021-46366: Credential Bruteforce Attack via CSRF + Open Redirect in Magnolia CMS",
+            "date_modified": "2024-02-13T21:25:46.000Z",
+            "date_published": "2024-02-13T21:09:53.000Z",
+            "author": {
+                "name": "mbadanoiu",
+                "url": "https://github.com/mbadanoiu"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/18383407?u=c9d1276bd9ccb8b06b724c3057b1ef683fa81de7&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2021-46365: Unsafe XML Parsing in Magnolia CMS</div>",
+            "url": "https://github.com/mbadanoiu/CVE-2021-46365",
+            "title": "mbadanoiu/CVE-2021-46365: CVE-2021-46365: Unsafe XML Parsing in Magnolia CMS",
+            "date_modified": "2024-02-13T21:05:16.000Z",
+            "date_published": "2024-02-13T20:52:49.000Z",
+            "author": {
+                "name": "mbadanoiu",
+                "url": "https://github.com/mbadanoiu"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/18383407?u=c9d1276bd9ccb8b06b724c3057b1ef683fa81de7&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2021-46363: Formula Injection in Magnolia CMS</div>",
             "url": "https://github.com/mbadanoiu/CVE-2021-46363",
             "title": "mbadanoiu/CVE-2021-46363: CVE-2021-46363: Formula Injection in Magnolia CMS",
@@ -31,7 +53,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/87979263?u=dd7f23490c7b9d1bd1dca84ccaf723402debf769&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A Proof-Of-Concept for the CVE-2021-44228 vulnerability. </div>",
             "url": "https://github.com/kozmer/log4j-shell-poc",
             "title": "kozmer/log4j-shell-poc: A Proof-Of-Concept for the CVE-2021-44228 vulnerability. ",
-            "date_modified": "2024-02-13T20:59:03.000Z",
+            "date_modified": "2024-02-13T21:19:18.000Z",
             "date_published": "2021-12-10T23:19:28.000Z",
             "author": {
                 "name": "kozmer",
@@ -201,28 +223,6 @@
             "author": {
                 "name": "paulsery",
                 "url": "https://github.com/paulsery"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/32100248?u=d800687db4415a7b0b95776e5e4bdefa9239b38e&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
-            "url": "https://github.com/FancySauce/PwnKit-CVE-2021-4034",
-            "title": "FancySauce/PwnKit-CVE-2021-4034",
-            "date_modified": "2024-01-27T13:29:02.000Z",
-            "date_published": "2024-01-27T13:17:50.000Z",
-            "author": {
-                "name": "FancySauce",
-                "url": "https://github.com/FancySauce"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/151052652?u=d6a068ea725e6872cfd94b78ae772ec634f0fefc&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
-            "url": "https://github.com/Pol-Ruiz/CVE-2021-4034",
-            "title": "Pol-Ruiz/CVE-2021-4034",
-            "date_modified": "2024-01-16T10:19:27.000Z",
-            "date_published": "2024-01-16T10:18:38.000Z",
-            "author": {
-                "name": "Pol-Ruiz",
-                "url": "https://github.com/Pol-Ruiz"
             }
         }
     ]
