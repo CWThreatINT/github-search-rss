@@ -6,6 +6,17 @@
     "description": "CVE-2021 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/18383407?u=c9d1276bd9ccb8b06b724c3057b1ef683fa81de7&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2021-46362: FreeMarker Server-Side Template Injection in Magnolia CMS</div>",
+            "url": "https://github.com/mbadanoiu/CVE-2021-46362",
+            "title": "mbadanoiu/CVE-2021-46362: CVE-2021-46362: FreeMarker Server-Side Template Injection in Magnolia CMS",
+            "date_modified": "2024-02-14T08:38:57.000Z",
+            "date_published": "2024-02-13T18:08:02.000Z",
+            "author": {
+                "name": "mbadanoiu",
+                "url": "https://github.com/mbadanoiu"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/18383407?u=c9d1276bd9ccb8b06b724c3057b1ef683fa81de7&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2021-46366: Credential Bruteforce Attack via CSRF + Open Redirect in Magnolia CMS</div>",
             "url": "https://github.com/mbadanoiu/CVE-2021-46366",
             "title": "mbadanoiu/CVE-2021-46366: CVE-2021-46366: Credential Bruteforce Attack via CSRF + Open Redirect in Magnolia CMS",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "Lotus6",
                 "url": "https://github.com/Lotus6"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/1596893?u=f80588cdaae5d7f8664298d10fdf763e297760fd&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div> m-y-mo: <a href=\"https://github.com/github/securitylab/tree/main/SecurityExploits/Chrome/v8/CVE-2021-30632\">https://github.com/github/securitylab/tree/main/SecurityExploits/Chrome/v8/CVE-2021-30632</a></div>",
-            "url": "https://github.com/paulsery/CVE-2021-30632",
-            "title": "paulsery/CVE-2021-30632:  m-y-mo: https://github.com/github/securitylab/tree/main/SecurityExploits/Chrome/v8/CVE-2021-30632",
-            "date_modified": "2024-01-31T03:37:53.000Z",
-            "date_published": "2024-01-31T03:28:58.000Z",
-            "author": {
-                "name": "paulsery",
-                "url": "https://github.com/paulsery"
             }
         }
     ]
