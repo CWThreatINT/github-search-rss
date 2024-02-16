@@ -17,6 +17,28 @@
             }
         },
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/78696986?u=986cf12a69d3eaf4d826432999f15200e597f597&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2023-25202: Insecure file upload mechanism</div>",
+            "url": "https://github.com/Trackflaw/CVE-2023-25202",
+            "title": "Trackflaw/CVE-2023-25202: CVE-2023-25202: Insecure file upload mechanism",
+            "date_modified": "2024-02-16T08:22:48.000Z",
+            "date_published": "2024-02-16T08:22:48.000Z",
+            "author": {
+                "name": "Trackflaw",
+                "url": "https://github.com/Trackflaw"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/78696986?u=986cf12a69d3eaf4d826432999f15200e597f597&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2023-25203: Application Vulnerable to SSRF (Server Side Request Forgery) Attacks</div>",
+            "url": "https://github.com/Trackflaw/CVE-2023-25203",
+            "title": "Trackflaw/CVE-2023-25203: CVE-2023-25203: Application Vulnerable to SSRF (Server Side Request Forgery) Attacks",
+            "date_modified": "2024-02-16T08:29:25.000Z",
+            "date_published": "2024-02-16T08:29:25.000Z",
+            "author": {
+                "name": "Trackflaw",
+                "url": "https://github.com/Trackflaw"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/39155974?u=2ecd5d7ba0c390c02bd2f4fb31433e7793cf8ee5&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>JumpServer 堡垒机未授权综合漏洞利用, Exploit for CVE-2023-42442 / CVE-2023-42820 / RCE 2021</div>",
             "url": "https://github.com/tarimoe/blackjump",
             "title": "tarimoe/blackjump: JumpServer 堡垒机未授权综合漏洞利用, Exploit for CVE-2023-42442 / CVE-2023-42820 / RCE 2021",
@@ -201,28 +223,6 @@
             "author": {
                 "name": "ayhan-dev",
                 "url": "https://github.com/ayhan-dev"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/57531297?u=4c8e43476a853d5e0a613c6154e3b96e098d21a5&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>PoC Script for CVE-2023-4596, unauthenticated Remote Command Execution through arbitrary file uploads.</div>",
-            "url": "https://github.com/E1A/CVE-2023-4596",
-            "title": "E1A/CVE-2023-4596: PoC Script for CVE-2023-4596, unauthenticated Remote Command Execution through arbitrary file uploads.",
-            "date_modified": "2023-11-30T16:38:47.000Z",
-            "date_published": "2023-08-30T22:40:10.000Z",
-            "author": {
-                "name": "E1A",
-                "url": "https://github.com/E1A"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/108862394?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>PoC to CVE-2023-30547 (Library vm2)</div>",
-            "url": "https://github.com/user0x1337/CVE-2023-30547",
-            "title": "user0x1337/CVE-2023-30547: PoC to CVE-2023-30547 (Library vm2)",
-            "date_modified": "2024-02-08T08:07:53.000Z",
-            "date_published": "2024-02-08T07:03:32.000Z",
-            "author": {
-                "name": "user0x1337",
-                "url": "https://github.com/user0x1337"
             }
         }
     ]
