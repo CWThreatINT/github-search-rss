@@ -6,6 +6,17 @@
     "description": "CVE-2022 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/136353760?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
+            "url": "https://github.com/colaoo123/cve-2022-22555",
+            "title": "colaoo123/cve-2022-22555",
+            "date_modified": "2024-02-16T07:50:14.000Z",
+            "date_published": "2024-02-16T07:45:51.000Z",
+            "author": {
+                "name": "colaoo123",
+                "url": "https://github.com/colaoo123"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/38699989?u=23ade13c108201d912a732c5d2f3478f2a925c6b&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
             "url": "https://github.com/letsr00t/CVE-2022-0847",
             "title": "letsr00t/CVE-2022-0847",
@@ -53,7 +64,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/6657270?u=6e86e69e91892c67607a092b1566a77bc710e446&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Full Chain Analysis of CVE-2022-4262, a non-trivial feedback slot type confusion in V8.</div>",
             "url": "https://github.com/bjrjk/CVE-2022-4262",
             "title": "bjrjk/CVE-2022-4262: Full Chain Analysis of CVE-2022-4262, a non-trivial feedback slot type confusion in V8.",
-            "date_modified": "2024-02-15T18:32:58.000Z",
+            "date_modified": "2024-02-16T07:28:16.000Z",
             "date_published": "2023-07-13T13:17:20.000Z",
             "author": {
                 "name": "bjrjk",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "mistymntncop",
                 "url": "https://github.com/mistymntncop"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/154115874?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>a scenario based on CVE-2022-25845 yielding a TP for metadata based SCA but a FN if the callgraph is used</div>",
-            "url": "https://github.com/scabench/fastjson-tp1fn1",
-            "title": "scabench/fastjson-tp1fn1: a scenario based on CVE-2022-25845 yielding a TP for metadata based SCA but a FN if the callgraph is used",
-            "date_modified": "2024-01-29T20:01:15.000Z",
-            "date_published": "2024-01-28T20:03:23.000Z",
-            "author": {
-                "name": "scabench",
-                "url": "https://github.com/scabench"
             }
         }
     ]
