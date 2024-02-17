@@ -6,6 +6,17 @@
     "description": "CVE-2021 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/67249568?u=8623c3311f903c4a0a5f3665a4a67003035b98c7&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Log4Shell CVE Analysis</div>",
+            "url": "https://github.com/ItsCbass/CVE-2021-44228",
+            "title": "ItsCbass/CVE-2021-44228: Log4Shell CVE Analysis",
+            "date_modified": "2024-02-16T23:54:33.000Z",
+            "date_published": "2024-02-16T23:54:32.000Z",
+            "author": {
+                "name": "ItsCbass",
+                "url": "https://github.com/ItsCbass"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/39155974?u=2ecd5d7ba0c390c02bd2f4fb31433e7793cf8ee5&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>JumpServer 堡垒机未授权综合漏洞利用, Exploit for CVE-2023-42442 / CVE-2023-42820 / RCE 2021</div>",
             "url": "https://github.com/tarimoe/blackjump",
             "title": "tarimoe/blackjump: JumpServer 堡垒机未授权综合漏洞利用, Exploit for CVE-2023-42442 / CVE-2023-42820 / RCE 2021",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "Schira4396",
                 "url": "https://github.com/Schira4396"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/63742814?u=1c32c79c15554495af0a185f87a36aab136ee9cf&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Confluence CVE 2021，2022，2023 利用工具，支持命令执行，哥斯拉，冰蝎 内存马注入</div>",
-            "url": "https://github.com/Lotus6/ConfluenceMemshell",
-            "title": "Lotus6/ConfluenceMemshell: Confluence CVE 2021，2022，2023 利用工具，支持命令执行，哥斯拉，冰蝎 内存马注入",
-            "date_modified": "2024-02-16T12:04:42.000Z",
-            "date_published": "2024-01-26T13:11:21.000Z",
-            "author": {
-                "name": "Lotus6",
-                "url": "https://github.com/Lotus6"
             }
         }
     ]
