@@ -97,7 +97,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/87979263?u=dd7f23490c7b9d1bd1dca84ccaf723402debf769&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A Proof-Of-Concept for the CVE-2021-44228 vulnerability. </div>",
             "url": "https://github.com/kozmer/log4j-shell-poc",
             "title": "kozmer/log4j-shell-poc: A Proof-Of-Concept for the CVE-2021-44228 vulnerability. ",
-            "date_modified": "2024-02-17T11:40:46.000Z",
+            "date_modified": "2024-02-17T15:41:45.000Z",
             "date_published": "2021-12-10T23:19:28.000Z",
             "author": {
                 "name": "kozmer",
@@ -182,17 +182,6 @@
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/56891128?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>my sudoedit cve 2021 implmentetion</div>",
-            "url": "https://github.com/agamabergel/sudoedit",
-            "title": "agamabergel/sudoedit: my sudoedit cve 2021 implmentetion",
-            "date_modified": "2024-02-05T11:20:06.000Z",
-            "date_published": "2024-02-05T11:20:05.000Z",
-            "author": {
-                "name": "agamabergel",
-                "url": "https://github.com/agamabergel"
-            }
-        },
-        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/38699989?u=23ade13c108201d912a732c5d2f3478f2a925c6b&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
             "url": "https://github.com/letsr00t/-2021-LOCALROOT-CVE-2021-22555",
             "title": "letsr00t/-2021-LOCALROOT-CVE-2021-22555",
@@ -223,6 +212,17 @@
             "author": {
                 "name": "chudyPB",
                 "url": "https://github.com/chudyPB"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/57404930?u=15c8c306eb2a82d233cacd9ae77893665db1de24&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>一款针对Vcenter的综合利用工具，包含目前最主流的CVE-2021-21972、CVE-2021-21985以及CVE-2021-22005、One Access的CVE-2022-22954、CVE-2022-22972/31656以及log4j，提供一键上传webshell，命令执行或者上传公钥使用SSH免密连接</div>",
+            "url": "https://github.com/Schira4396/VcenterKiller",
+            "title": "Schira4396/VcenterKiller: 一款针对Vcenter的综合利用工具，包含目前最主流的CVE-2021-21972、CVE-2021-21985以及CVE-2021-22005、One Access的CVE-2022-22954、CVE-2022-22972/31656以及log4j，提供一键上传webshell，命令执行或者上传公钥使用SSH免密连接",
+            "date_modified": "2024-02-08T01:03:34.000Z",
+            "date_published": "2022-10-04T03:39:27.000Z",
+            "author": {
+                "name": "Schira4396",
+                "url": "https://github.com/Schira4396"
             }
         }
     ]
