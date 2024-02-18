@@ -6,17 +6,6 @@
     "description": "CVE-2022 FEED on GitHub",
     "items": [
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/65585354?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Proof of concept code for CVE-2022-24785</div>",
-            "url": "https://github.com/isira-adithya/CVE-2022-24785-POC",
-            "title": "isira-adithya/CVE-2022-24785-POC: Proof of concept code for CVE-2022-24785",
-            "date_modified": "2024-02-18T13:23:14.000Z",
-            "date_published": "2024-02-18T12:58:24.000Z",
-            "author": {
-                "name": "isira-adithya",
-                "url": "https://github.com/isira-adithya"
-            }
-        },
-        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/133022207?u=98510bc7fb70484993ad8959830fcd6066a79e26&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A simple python script for a firewall rule that blocks incoming requests based on the Spring4Shell (CVE-2022-22965) vulnerability</div>",
             "url": "https://github.com/bL34cHig0/Telstra-Cybersecurity-Virtual-Experience-",
             "title": "bL34cHig0/Telstra-Cybersecurity-Virtual-Experience-: A simple python script for a firewall rule that blocks incoming requests based on the Spring4Shell (CVE-2022-22965) vulnerability",
@@ -223,6 +212,17 @@
             "author": {
                 "name": "Schira4396",
                 "url": "https://github.com/Schira4396"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/63742814?u=1c32c79c15554495af0a185f87a36aab136ee9cf&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Confluence CVE 2021，2022，2023 利用工具，支持命令执行，哥斯拉，冰蝎 内存马注入</div>",
+            "url": "https://github.com/Lotus6/ConfluenceMemshell",
+            "title": "Lotus6/ConfluenceMemshell: Confluence CVE 2021，2022，2023 利用工具，支持命令执行，哥斯拉，冰蝎 内存马注入",
+            "date_modified": "2024-02-16T23:06:58.000Z",
+            "date_published": "2024-01-26T13:11:21.000Z",
+            "author": {
+                "name": "Lotus6",
+                "url": "https://github.com/Lotus6"
             }
         }
     ]
