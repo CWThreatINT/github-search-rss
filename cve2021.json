@@ -6,6 +6,17 @@
     "description": "CVE-2021 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/100413372?u=4189547f8532c2ad66c6111c6a6e1e835dea78af&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
+            "url": "https://github.com/MY7H404/CVE-2021-3560-Polkit",
+            "title": "MY7H404/CVE-2021-3560-Polkit",
+            "date_modified": "2024-02-18T20:31:21.000Z",
+            "date_published": "2024-02-18T20:31:20.000Z",
+            "author": {
+                "name": "MY7H404",
+                "url": "https://github.com/MY7H404"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/18383407?u=c9d1276bd9ccb8b06b724c3057b1ef683fa81de7&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2021-46361: FreeMarker Restriction Bypass in Magnolia CMS</div>",
             "url": "https://github.com/mbadanoiu/CVE-2021-46361",
             "title": "mbadanoiu/CVE-2021-46361: CVE-2021-46361: FreeMarker Restriction Bypass in Magnolia CMS",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "Schira4396",
                 "url": "https://github.com/Schira4396"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/63742814?u=1c32c79c15554495af0a185f87a36aab136ee9cf&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Confluence CVE 2021，2022，2023 利用工具，支持命令执行，哥斯拉，冰蝎 内存马注入</div>",
-            "url": "https://github.com/Lotus6/ConfluenceMemshell",
-            "title": "Lotus6/ConfluenceMemshell: Confluence CVE 2021，2022，2023 利用工具，支持命令执行，哥斯拉，冰蝎 内存马注入",
-            "date_modified": "2024-02-16T23:06:58.000Z",
-            "date_published": "2024-01-26T13:11:21.000Z",
-            "author": {
-                "name": "Lotus6",
-                "url": "https://github.com/Lotus6"
             }
         }
     ]
