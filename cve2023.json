@@ -6,28 +6,6 @@
     "description": "CVE-2023 FEED on GitHub",
     "items": [
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/76389721?u=34cdf33a951e40798127cd31e70d0a1f582cb7f4&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2023-36845 – Unauthenticated Juniper Remote Code Execution Vulnerability Scanner</div>",
-            "url": "https://github.com/e11i0t4lders0n/CVE-2023-36845",
-            "title": "e11i0t4lders0n/CVE-2023-36845: CVE-2023-36845 – Unauthenticated Juniper Remote Code Execution Vulnerability Scanner",
-            "date_modified": "2024-02-18T16:13:42.000Z",
-            "date_published": "2024-02-18T15:37:58.000Z",
-            "author": {
-                "name": "e11i0t4lders0n",
-                "url": "https://github.com/e11i0t4lders0n"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/160245959?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>URL Contamination Exploit Muted Java Drive-By downloads can transpire during the act of perusing a website, inaugurating an electronic mail communication.</div>",
-            "url": "https://github.com/M54S/Slient-Url-Exploit-Slient-Builder-Exploit-Database-Cve-2023-Malware",
-            "title": "M54S/Slient-Url-Exploit-Slient-Builder-Exploit-Database-Cve-2023-Malware: URL Contamination Exploit Muted Java Drive-By downloads can transpire during the act of perusing a website, inaugurating an electronic mail communication.",
-            "date_modified": "2024-02-16T13:50:19.000Z",
-            "date_published": "2024-02-16T13:46:01.000Z",
-            "author": {
-                "name": "M54S",
-                "url": "https://github.com/M54S"
-            }
-        },
-        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/160245959?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A meticulous scrutiny of the Exploit PDFs innards exposes a network of malevolence, unveiling both the nefarious hyperlink and the URL that precipitates</div>",
             "url": "https://github.com/M54S/Slient-PDF-FUD-Exploit-Slient-Builder-Exploit-Database-Cve-2023-Malware",
             "title": "M54S/Slient-PDF-FUD-Exploit-Slient-Builder-Exploit-Database-Cve-2023-Malware: A meticulous scrutiny of the Exploit PDFs innards exposes a network of malevolence, unveiling both the nefarious hyperlink and the URL that precipitates",
@@ -61,6 +39,39 @@
             }
         },
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/160245959?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>URL Contamination Exploit Muted Java Drive-By downloads can transpire during the act of perusing a website, inaugurating an electronic mail communication.</div>",
+            "url": "https://github.com/M54S/Slient-Url-Exploit-Slient-Builder-Exploit-Database-Cve-2023-Malware",
+            "title": "M54S/Slient-Url-Exploit-Slient-Builder-Exploit-Database-Cve-2023-Malware: URL Contamination Exploit Muted Java Drive-By downloads can transpire during the act of perusing a website, inaugurating an electronic mail communication.",
+            "date_modified": "2024-02-16T13:50:19.000Z",
+            "date_published": "2024-02-16T13:46:01.000Z",
+            "author": {
+                "name": "M54S",
+                "url": "https://github.com/M54S"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/76389721?u=34cdf33a951e40798127cd31e70d0a1f582cb7f4&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2023-36845 – Unauthenticated Juniper Remote Code Execution Vulnerability Scanner</div>",
+            "url": "https://github.com/e11i0t4lders0n/CVE-2023-36845",
+            "title": "e11i0t4lders0n/CVE-2023-36845: CVE-2023-36845 – Unauthenticated Juniper Remote Code Execution Vulnerability Scanner",
+            "date_modified": "2024-02-18T18:31:24.000Z",
+            "date_published": "2024-02-18T15:37:58.000Z",
+            "author": {
+                "name": "e11i0t4lders0n",
+                "url": "https://github.com/e11i0t4lders0n"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/133520431?u=d5ff767b1f0a38bb2263b8ca58d7888b02f66e4c&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>PoC for Exim CVE-2023-42115 </div>",
+            "url": "https://github.com/cammclain/CVE-2023-42115",
+            "title": "cammclain/CVE-2023-42115: PoC for Exim CVE-2023-42115 ",
+            "date_modified": "2024-02-18T18:25:22.000Z",
+            "date_published": "2024-02-18T10:07:49.000Z",
+            "author": {
+                "name": "cammclain",
+                "url": "https://github.com/cammclain"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/18195825?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023</div>",
             "url": "https://github.com/CVEProject/cvelist",
             "title": "CVEProject/cvelist: Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023",
@@ -69,17 +80,6 @@
             "author": {
                 "name": "CVEProject",
                 "url": "https://github.com/CVEProject"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/133520431?u=d5ff767b1f0a38bb2263b8ca58d7888b02f66e4c&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>PoC for Exim CVE-2023-42115 </div>",
-            "url": "https://github.com/cammclain/CVE-2023-42115",
-            "title": "cammclain/CVE-2023-42115: PoC for Exim CVE-2023-42115 ",
-            "date_modified": "2024-02-18T10:07:49.000Z",
-            "date_published": "2024-02-18T10:07:49.000Z",
-            "author": {
-                "name": "cammclain",
-                "url": "https://github.com/cammclain"
             }
         },
         {
