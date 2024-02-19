@@ -6,6 +6,17 @@
     "description": "CVE-2022 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/159681973?u=d4d67370595b19d8de516dd4ba70863f843a7944&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>历史漏洞的细节以及利用方法汇总收集</div>",
+            "url": "https://github.com/OracleNep/Nday-Exploit-Plan",
+            "title": "OracleNep/Nday-Exploit-Plan: 历史漏洞的细节以及利用方法汇总收集",
+            "date_modified": "2024-02-19T12:58:25.000Z",
+            "date_published": "2024-02-11T06:55:47.000Z",
+            "author": {
+                "name": "OracleNep",
+                "url": "https://github.com/OracleNep"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/133022207?u=98510bc7fb70484993ad8959830fcd6066a79e26&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A simple python script for a firewall rule that blocks incoming requests based on the Spring4Shell (CVE-2022-22965) vulnerability</div>",
             "url": "https://github.com/bL34cHig0/Telstra-Cybersecurity-Virtual-Experience-",
             "title": "bL34cHig0/Telstra-Cybersecurity-Virtual-Experience-: A simple python script for a firewall rule that blocks incoming requests based on the Spring4Shell (CVE-2022-22965) vulnerability",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "Schira4396",
                 "url": "https://github.com/Schira4396"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/63742814?u=1c32c79c15554495af0a185f87a36aab136ee9cf&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Confluence CVE 2021，2022，2023 利用工具，支持命令执行，哥斯拉，冰蝎 内存马注入</div>",
-            "url": "https://github.com/Lotus6/ConfluenceMemshell",
-            "title": "Lotus6/ConfluenceMemshell: Confluence CVE 2021，2022，2023 利用工具，支持命令执行，哥斯拉，冰蝎 内存马注入",
-            "date_modified": "2024-02-16T23:06:58.000Z",
-            "date_published": "2024-01-26T13:11:21.000Z",
-            "author": {
-                "name": "Lotus6",
-                "url": "https://github.com/Lotus6"
             }
         }
     ]
