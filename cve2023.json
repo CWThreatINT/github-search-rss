@@ -6,6 +6,17 @@
     "description": "CVE-2023 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/39155974?u=2ecd5d7ba0c390c02bd2f4fb31433e7793cf8ee5&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>JumpServer 堡垒机未授权综合漏洞利用, Exploit for CVE-2023-42442 / CVE-2023-42820 / RCE 2021</div>",
+            "url": "https://github.com/tarimoe/blackjump",
+            "title": "tarimoe/blackjump: JumpServer 堡垒机未授权综合漏洞利用, Exploit for CVE-2023-42442 / CVE-2023-42820 / RCE 2021",
+            "date_modified": "2024-02-20T09:02:21.000Z",
+            "date_published": "2023-10-14T09:35:07.000Z",
+            "author": {
+                "name": "tarimoe",
+                "url": "https://github.com/tarimoe"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/18195825?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023</div>",
             "url": "https://github.com/CVEProject/cvelist",
             "title": "CVEProject/cvelist: Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023",
@@ -17,10 +28,10 @@
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/160245959?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Microsoft Windows HTA (HTML Application) - Pinnacle of Remote Code Execution</div>",
-            "url": "https://github.com/M54S/Hta-Exploit-Builder-Slient-Builder-Exploit-Database-Cve-2023-Malware",
-            "title": "M54S/Hta-Exploit-Builder-Slient-Builder-Exploit-Database-Cve-2023-Malware: Microsoft Windows HTA (HTML Application) - Pinnacle of Remote Code Execution",
-            "date_modified": "2024-02-16T13:50:21.000Z",
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/160245959?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>URL Contamination Exploit Muted Java Drive-By downloads can transpire during the act of perusing a website, inaugurating an electronic mail communication.</div>",
+            "url": "https://github.com/M54S/Slient-Url-Exploit-Slient-Builder-Exploit-Database-Cve-2023-Malware",
+            "title": "M54S/Slient-Url-Exploit-Slient-Builder-Exploit-Database-Cve-2023-Malware: URL Contamination Exploit Muted Java Drive-By downloads can transpire during the act of perusing a website, inaugurating an electronic mail communication.",
+            "date_modified": "2024-02-16T13:50:19.000Z",
             "date_published": "2024-02-16T13:46:01.000Z",
             "author": {
                 "name": "M54S",
@@ -39,17 +50,6 @@
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/160245959?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>URL Contamination Exploit Muted Java Drive-By downloads can transpire during the act of perusing a website, inaugurating an electronic mail communication.</div>",
-            "url": "https://github.com/M54S/Slient-Url-Exploit-Slient-Builder-Exploit-Database-Cve-2023-Malware",
-            "title": "M54S/Slient-Url-Exploit-Slient-Builder-Exploit-Database-Cve-2023-Malware: URL Contamination Exploit Muted Java Drive-By downloads can transpire during the act of perusing a website, inaugurating an electronic mail communication.",
-            "date_modified": "2024-02-16T13:50:19.000Z",
-            "date_published": "2024-02-16T13:46:01.000Z",
-            "author": {
-                "name": "M54S",
-                "url": "https://github.com/M54S"
-            }
-        },
-        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/160245959?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A meticulous scrutiny of the Exploit PDFs innards exposes a network of malevolence, unveiling both the nefarious hyperlink and the URL that precipitates</div>",
             "url": "https://github.com/M54S/Slient-PDF-FUD-Exploit-Slient-Builder-Exploit-Database-Cve-2023-Malware",
             "title": "M54S/Slient-PDF-FUD-Exploit-Slient-Builder-Exploit-Database-Cve-2023-Malware: A meticulous scrutiny of the Exploit PDFs innards exposes a network of malevolence, unveiling both the nefarious hyperlink and the URL that precipitates",
@@ -58,6 +58,105 @@
             "author": {
                 "name": "M54S",
                 "url": "https://github.com/M54S"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/160245959?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Microsoft Windows HTA (HTML Application) - Pinnacle of Remote Code Execution</div>",
+            "url": "https://github.com/M54S/Hta-Exploit-Builder-Slient-Builder-Exploit-Database-Cve-2023-Malware",
+            "title": "M54S/Hta-Exploit-Builder-Slient-Builder-Exploit-Database-Cve-2023-Malware: Microsoft Windows HTA (HTML Application) - Pinnacle of Remote Code Execution",
+            "date_modified": "2024-02-16T13:50:21.000Z",
+            "date_published": "2024-02-16T13:46:01.000Z",
+            "author": {
+                "name": "M54S",
+                "url": "https://github.com/M54S"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/74178946?u=cd731dfbf396fbdd43b94a96cf284c808e7f63b8&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
+            "url": "https://github.com/ASR511-OO7/CVE-2023-41497",
+            "title": "ASR511-OO7/CVE-2023-41497",
+            "date_modified": "2024-02-20T08:12:08.000Z",
+            "date_published": "2024-02-20T08:12:08.000Z",
+            "author": {
+                "name": "ASR511-OO7",
+                "url": "https://github.com/ASR511-OO7"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/74178946?u=cd731dfbf396fbdd43b94a96cf284c808e7f63b8&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
+            "url": "https://github.com/ASR511-OO7/CVE-2023-43292",
+            "title": "ASR511-OO7/CVE-2023-43292",
+            "date_modified": "2024-02-20T08:20:18.000Z",
+            "date_published": "2024-02-20T08:20:18.000Z",
+            "author": {
+                "name": "ASR511-OO7",
+                "url": "https://github.com/ASR511-OO7"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/74178946?u=cd731dfbf396fbdd43b94a96cf284c808e7f63b8&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
+            "url": "https://github.com/ASR511-OO7/CVE-2023-42308",
+            "title": "ASR511-OO7/CVE-2023-42308",
+            "date_modified": "2024-02-20T08:18:59.000Z",
+            "date_published": "2024-02-20T08:18:59.000Z",
+            "author": {
+                "name": "ASR511-OO7",
+                "url": "https://github.com/ASR511-OO7"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/74178946?u=cd731dfbf396fbdd43b94a96cf284c808e7f63b8&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
+            "url": "https://github.com/ASR511-OO7/CVE-2023-42307",
+            "title": "ASR511-OO7/CVE-2023-42307",
+            "date_modified": "2024-02-20T08:17:57.000Z",
+            "date_published": "2024-02-20T08:17:57.000Z",
+            "author": {
+                "name": "ASR511-OO7",
+                "url": "https://github.com/ASR511-OO7"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/74178946?u=cd731dfbf396fbdd43b94a96cf284c808e7f63b8&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
+            "url": "https://github.com/ASR511-OO7/CVE-2023-41501",
+            "title": "ASR511-OO7/CVE-2023-41501",
+            "date_modified": "2024-02-20T08:16:19.000Z",
+            "date_published": "2024-02-20T08:16:19.000Z",
+            "author": {
+                "name": "ASR511-OO7",
+                "url": "https://github.com/ASR511-OO7"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/74178946?u=cd731dfbf396fbdd43b94a96cf284c808e7f63b8&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
+            "url": "https://github.com/ASR511-OO7/CVE-2023-41500",
+            "title": "ASR511-OO7/CVE-2023-41500",
+            "date_modified": "2024-02-20T08:15:32.000Z",
+            "date_published": "2024-02-20T08:15:32.000Z",
+            "author": {
+                "name": "ASR511-OO7",
+                "url": "https://github.com/ASR511-OO7"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/74178946?u=cd731dfbf396fbdd43b94a96cf284c808e7f63b8&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
+            "url": "https://github.com/ASR511-OO7/CVE-2023-41499",
+            "title": "ASR511-OO7/CVE-2023-41499",
+            "date_modified": "2024-02-20T08:14:01.000Z",
+            "date_published": "2024-02-20T08:14:00.000Z",
+            "author": {
+                "name": "ASR511-OO7",
+                "url": "https://github.com/ASR511-OO7"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/74178946?u=cd731dfbf396fbdd43b94a96cf284c808e7f63b8&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
+            "url": "https://github.com/ASR511-OO7/CVE-2023-41498",
+            "title": "ASR511-OO7/CVE-2023-41498",
+            "date_modified": "2024-02-20T08:13:11.000Z",
+            "date_published": "2024-02-20T08:13:10.000Z",
+            "author": {
+                "name": "ASR511-OO7",
+                "url": "https://github.com/ASR511-OO7"
             }
         },
         {
@@ -124,105 +223,6 @@
             "author": {
                 "name": "Rival420",
                 "url": "https://github.com/Rival420"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/126447666?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
-            "url": "https://github.com/Shisones/MetabaseRCE_CVE-2023-38646",
-            "title": "Shisones/MetabaseRCE_CVE-2023-38646",
-            "date_modified": "2024-02-04T09:59:32.000Z",
-            "date_published": "2024-01-28T15:01:40.000Z",
-            "author": {
-                "name": "Shisones",
-                "url": "https://github.com/Shisones"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/112363374?u=70ea8282709585c39f78be76f2b11882eb06197c&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2023-47218: QNAP QTS and QuTS Hero Unauthenticated Command Injection (FIXED)</div>",
-            "url": "https://github.com/passwa11/CVE-2023-47218",
-            "title": "passwa11/CVE-2023-47218: CVE-2023-47218: QNAP QTS and QuTS Hero Unauthenticated Command Injection (FIXED)",
-            "date_modified": "2024-02-19T02:15:22.000Z",
-            "date_published": "2024-02-19T02:15:21.000Z",
-            "author": {
-                "name": "passwa11",
-                "url": "https://github.com/passwa11"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/2253692?u=31b2709f7c3963ef797dd8f7e7d1cbcebd826626&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>KeyTrap (DNSSEC)</div>",
-            "url": "https://github.com/knqyf263/CVE-2023-50387",
-            "title": "knqyf263/CVE-2023-50387: KeyTrap (DNSSEC)",
-            "date_modified": "2024-02-20T04:35:22.000Z",
-            "date_published": "2024-02-18T21:50:04.000Z",
-            "author": {
-                "name": "knqyf263",
-                "url": "https://github.com/knqyf263"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/79615440?u=3f829b729087f78fe94daaf47632213422bcf629&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
-            "url": "https://github.com/Kaue-Navarro/POC-CVE-2023-49209",
-            "title": "Kaue-Navarro/POC-CVE-2023-49209",
-            "date_modified": "2024-02-18T20:51:17.000Z",
-            "date_published": "2024-02-18T20:51:17.000Z",
-            "author": {
-                "name": "Kaue-Navarro",
-                "url": "https://github.com/Kaue-Navarro"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/76389721?u=34cdf33a951e40798127cd31e70d0a1f582cb7f4&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2023-36845 – Unauthenticated Juniper Remote Code Execution Vulnerability Scanner</div>",
-            "url": "https://github.com/e11i0t4lders0n/CVE-2023-36845",
-            "title": "e11i0t4lders0n/CVE-2023-36845: CVE-2023-36845 – Unauthenticated Juniper Remote Code Execution Vulnerability Scanner",
-            "date_modified": "2024-02-18T18:31:24.000Z",
-            "date_published": "2024-02-18T15:37:58.000Z",
-            "author": {
-                "name": "e11i0t4lders0n",
-                "url": "https://github.com/e11i0t4lders0n"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/133520431?u=d5ff767b1f0a38bb2263b8ca58d7888b02f66e4c&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>PoC for Exim CVE-2023-42115 </div>",
-            "url": "https://github.com/cammclain/CVE-2023-42115",
-            "title": "cammclain/CVE-2023-42115: PoC for Exim CVE-2023-42115 ",
-            "date_modified": "2024-02-18T18:25:22.000Z",
-            "date_published": "2024-02-18T10:07:49.000Z",
-            "author": {
-                "name": "cammclain",
-                "url": "https://github.com/cammclain"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/25315805?u=dd6577337e313b368590e573b1eae3fd299e03e4&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A PHP External Variable Modification vulnerability in J-Web of Juniper Networks Junos OS on EX Series and SRX Series allows an unauthenticated, network-based attacker to remotely execute code. </div>",
-            "url": "https://github.com/ifconfig-me/CVE-2023-36845",
-            "title": "ifconfig-me/CVE-2023-36845: A PHP External Variable Modification vulnerability in J-Web of Juniper Networks Junos OS on EX Series and SRX Series allows an unauthenticated, network-based attacker to remotely execute code. ",
-            "date_modified": "2024-02-17T08:16:33.000Z",
-            "date_published": "2024-02-17T08:15:30.000Z",
-            "author": {
-                "name": "ifconfig-me",
-                "url": "https://github.com/ifconfig-me"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/67510189?u=42fa3f17183855772d22a6480397036536d3c875&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
-            "url": "https://github.com/wxrdnx/CVE-2023-38408",
-            "title": "wxrdnx/CVE-2023-38408",
-            "date_modified": "2024-02-16T18:20:13.000Z",
-            "date_published": "2024-02-16T18:20:12.000Z",
-            "author": {
-                "name": "wxrdnx",
-                "url": "https://github.com/wxrdnx"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/103601332?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
-            "url": "https://github.com/AkuCyberSec/Elementor-3.18.0-Upload-Path-Traversal-RCE-CVE-2023-48777",
-            "title": "AkuCyberSec/Elementor-3.18.0-Upload-Path-Traversal-RCE-CVE-2023-48777",
-            "date_modified": "2024-02-18T06:34:17.000Z",
-            "date_published": "2024-02-16T19:36:50.000Z",
-            "author": {
-                "name": "AkuCyberSec",
-                "url": "https://github.com/AkuCyberSec"
             }
         }
     ]

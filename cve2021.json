@@ -6,6 +6,17 @@
     "description": "CVE-2021 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/39155974?u=2ecd5d7ba0c390c02bd2f4fb31433e7793cf8ee5&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>JumpServer 堡垒机未授权综合漏洞利用, Exploit for CVE-2023-42442 / CVE-2023-42820 / RCE 2021</div>",
+            "url": "https://github.com/tarimoe/blackjump",
+            "title": "tarimoe/blackjump: JumpServer 堡垒机未授权综合漏洞利用, Exploit for CVE-2023-42442 / CVE-2023-42820 / RCE 2021",
+            "date_modified": "2024-02-20T09:02:21.000Z",
+            "date_published": "2023-10-14T09:35:07.000Z",
+            "author": {
+                "name": "tarimoe",
+                "url": "https://github.com/tarimoe"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/88498999?u=dc64cec2898fbfb8ee60bc2d52e74ffb49262034&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CLFS.sys vuln </div>",
             "url": "https://github.com/MochiNishimiya/CVE-2021-31954",
             "title": "MochiNishimiya/CVE-2021-31954: CLFS.sys vuln ",
@@ -36,17 +47,6 @@
             "author": {
                 "name": "mbadanoiu",
                 "url": "https://github.com/mbadanoiu"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/39155974?u=2ecd5d7ba0c390c02bd2f4fb31433e7793cf8ee5&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>JumpServer 堡垒机未授权综合漏洞利用, Exploit for CVE-2023-42442 / CVE-2023-42820 / RCE 2021</div>",
-            "url": "https://github.com/tarimoe/blackjump",
-            "title": "tarimoe/blackjump: JumpServer 堡垒机未授权综合漏洞利用, Exploit for CVE-2023-42442 / CVE-2023-42820 / RCE 2021",
-            "date_modified": "2024-02-20T07:02:48.000Z",
-            "date_published": "2023-10-14T09:35:07.000Z",
-            "author": {
-                "name": "tarimoe",
-                "url": "https://github.com/tarimoe"
             }
         },
         {
