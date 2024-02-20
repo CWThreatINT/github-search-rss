@@ -6,6 +6,17 @@
     "description": "CVE-2022 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/69421356?u=e30c42f5cd4f06ff2851e05d22fb914d6ab4f843&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A loader for zimbra 2022 rce (cve-2022-27925)</div>",
+            "url": "https://github.com/Inplex-sys/CVE-2022-27925",
+            "title": "Inplex-sys/CVE-2022-27925: A loader for zimbra 2022 rce (cve-2022-27925)",
+            "date_modified": "2024-01-12T02:41:57.000Z",
+            "date_published": "2022-10-01T10:33:55.000Z",
+            "author": {
+                "name": "Inplex-sys",
+                "url": "https://github.com/Inplex-sys"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/12976017?u=6d3d423fda6a56643a0ca1acae5223cdf08a3c28&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Let's control Secure Boot Chain ourselves.</div>",
             "url": "https://github.com/TomKing062/CVE-2022-38691_38692",
             "title": "TomKing062/CVE-2022-38691_38692: Let's control Secure Boot Chain ourselves.",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "Trinadh465",
                 "url": "https://github.com/Trinadh465"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/8232188?u=7a60f76a08e22a0a3fe86fca48c79778c4fd6c0b&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>ProcessMaker before v3.5.4 was discovered to contain insecure permissions in the user profile page. This vulnerability allows attackers to escalate normal users to Administrators.</div>",
-            "url": "https://github.com/sornram9254/CVE-2022-38577-Processmaker",
-            "title": "sornram9254/CVE-2022-38577-Processmaker: ProcessMaker before v3.5.4 was discovered to contain insecure permissions in the user profile page. This vulnerability allows attackers to escalate normal users to Administrators.",
-            "date_modified": "2023-02-22T07:52:01.000Z",
-            "date_published": "2022-09-21T04:29:42.000Z",
-            "author": {
-                "name": "sornram9254",
-                "url": "https://github.com/sornram9254"
             }
         }
     ]
