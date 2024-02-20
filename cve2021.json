@@ -6,6 +6,17 @@
     "description": "CVE-2021 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/88498999?u=dc64cec2898fbfb8ee60bc2d52e74ffb49262034&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CLFS.sys vuln </div>",
+            "url": "https://github.com/MochiNishimiya/CVE-2021-31954",
+            "title": "MochiNishimiya/CVE-2021-31954: CLFS.sys vuln ",
+            "date_modified": "2024-02-20T04:27:02.000Z",
+            "date_published": "2024-02-04T03:24:04.000Z",
+            "author": {
+                "name": "MochiNishimiya",
+                "url": "https://github.com/MochiNishimiya"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/159681973?u=d4d67370595b19d8de516dd4ba70863f843a7944&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>历史漏洞的细节以及利用方法汇总收集</div>",
             "url": "https://github.com/OracleNep/Nday-Exploit-Plan",
             "title": "OracleNep/Nday-Exploit-Plan: 历史漏洞的细节以及利用方法汇总收集",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "chudyPB",
                 "url": "https://github.com/chudyPB"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/57404930?u=15c8c306eb2a82d233cacd9ae77893665db1de24&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>一款针对Vcenter的综合利用工具，包含目前最主流的CVE-2021-21972、CVE-2021-21985以及CVE-2021-22005、One Access的CVE-2022-22954、CVE-2022-22972/31656以及log4j，提供一键上传webshell，命令执行或者上传公钥使用SSH免密连接</div>",
-            "url": "https://github.com/Schira4396/VcenterKiller",
-            "title": "Schira4396/VcenterKiller: 一款针对Vcenter的综合利用工具，包含目前最主流的CVE-2021-21972、CVE-2021-21985以及CVE-2021-22005、One Access的CVE-2022-22954、CVE-2022-22972/31656以及log4j，提供一键上传webshell，命令执行或者上传公钥使用SSH免密连接",
-            "date_modified": "2024-02-20T02:57:46.000Z",
-            "date_published": "2022-10-04T03:39:27.000Z",
-            "author": {
-                "name": "Schira4396",
-                "url": "https://github.com/Schira4396"
             }
         }
     ]
