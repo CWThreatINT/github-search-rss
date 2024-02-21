@@ -130,7 +130,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/82715493?u=25efe2210c06c3d0bf57dde75102ea9ce567ff6b&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Remote Access Shell for Windows (based on cve-2022-30190)</div>",
             "url": "https://github.com/AbdulRKB/Follina",
             "title": "AbdulRKB/Follina: Remote Access Shell for Windows (based on cve-2022-30190)",
-            "date_modified": "2024-02-09T17:20:02.000Z",
+            "date_modified": "2024-02-21T08:22:53.000Z",
             "date_published": "2022-06-04T14:18:38.000Z",
             "author": {
                 "name": "AbdulRKB",
@@ -168,17 +168,6 @@
             "author": {
                 "name": "breakpointHQ",
                 "url": "https://github.com/breakpointHQ"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/81664593?u=80dce975562918d2776af6338d300db1749d7593&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>一款Spring综合漏洞的利用工具，工具目前支持Spring Cloud Gateway RCE(CVE-2022-22947)、Spring Framework RCE (CVE-2022-22965) 的检测以及利用</div>",
-            "url": "https://github.com/charonlight/SpringExploitGUI",
-            "title": "charonlight/SpringExploitGUI: 一款Spring综合漏洞的利用工具，工具目前支持Spring Cloud Gateway RCE(CVE-2022-22947)、Spring Framework RCE (CVE-2022-22965) 的检测以及利用",
-            "date_modified": "2024-02-21T05:44:00.000Z",
-            "date_published": "2024-02-06T08:45:19.000Z",
-            "author": {
-                "name": "charonlight",
-                "url": "https://github.com/charonlight"
             }
         },
         {
@@ -223,6 +212,17 @@
             "author": {
                 "name": "Trinadh465",
                 "url": "https://github.com/Trinadh465"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/8232188?u=7a60f76a08e22a0a3fe86fca48c79778c4fd6c0b&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>ProcessMaker before v3.5.4 was discovered to contain insecure permissions in the user profile page. This vulnerability allows attackers to escalate normal users to Administrators.</div>",
+            "url": "https://github.com/sornram9254/CVE-2022-38577-Processmaker",
+            "title": "sornram9254/CVE-2022-38577-Processmaker: ProcessMaker before v3.5.4 was discovered to contain insecure permissions in the user profile page. This vulnerability allows attackers to escalate normal users to Administrators.",
+            "date_modified": "2023-02-22T07:52:01.000Z",
+            "date_published": "2022-09-21T04:29:42.000Z",
+            "author": {
+                "name": "sornram9254",
+                "url": "https://github.com/sornram9254"
             }
         }
     ]
