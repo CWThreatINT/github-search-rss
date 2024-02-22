@@ -6,10 +6,10 @@
     "description": "CVE-2022 FEED on GitHub",
     "items": [
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/70909693?u=764affc27cb7b1e929053fe96429eb0947845413&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/70909693?u=c072437951314795265dd77af0fe77fb41c73b77&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A PoC exploit for CVE-2022-33891 - Apache Spark UI Remote Code Execution (RCE)</div>",
             "url": "https://github.com/K3ysTr0K3R/CVE-2022-33891-EXPLOIT",
-            "title": "K3ysTr0K3R/CVE-2022-33891-EXPLOIT",
-            "date_modified": "2024-02-22T15:05:00.000Z",
+            "title": "K3ysTr0K3R/CVE-2022-33891-EXPLOIT: A PoC exploit for CVE-2022-33891 - Apache Spark UI Remote Code Execution (RCE)",
+            "date_modified": "2024-02-22T16:30:56.000Z",
             "date_published": "2024-02-22T15:05:00.000Z",
             "author": {
                 "name": "K3ysTr0K3R",
