@@ -6,6 +6,17 @@
     "description": "CVE-2023 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/85231870?u=ed187399ef310bb5353c8729a36b0b55ee81e658&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Exploit for CVE-2023-46604</div>",
+            "url": "https://github.com/mrpentst/CVE-2023-46604",
+            "title": "mrpentst/CVE-2023-46604: Exploit for CVE-2023-46604",
+            "date_modified": "2023-12-09T19:32:34.000Z",
+            "date_published": "2023-12-09T19:19:03.000Z",
+            "author": {
+                "name": "mrpentst",
+                "url": "https://github.com/mrpentst"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/59293085?u=9bd1a9e173ecb286acec5b109cba55ee295db0a4&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Passive version detection method for CVE-2023-22515 using Nuclei scanner</div>",
             "url": "https://github.com/rxerium/CVE-2023-22515",
             "title": "rxerium/CVE-2023-22515: Passive version detection method for CVE-2023-22515 using Nuclei scanner",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "tarimoe",
                 "url": "https://github.com/tarimoe"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/74178946?u=cd731dfbf396fbdd43b94a96cf284c808e7f63b8&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
-            "url": "https://github.com/ASR511-OO7/CVE-2023-41497",
-            "title": "ASR511-OO7/CVE-2023-41497",
-            "date_modified": "2024-02-20T08:12:08.000Z",
-            "date_published": "2024-02-20T08:12:08.000Z",
-            "author": {
-                "name": "ASR511-OO7",
-                "url": "https://github.com/ASR511-OO7"
             }
         }
     ]
