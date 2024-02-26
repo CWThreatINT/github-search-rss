@@ -17,6 +17,17 @@
             }
         },
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/8072457?u=fb9de72e8ad7880bad0010da88664368fcf718ea&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>poc of CVE-2023-52160</div>",
+            "url": "https://github.com/Helica-core/eap_pwn",
+            "title": "Helica-core/eap_pwn: poc of CVE-2023-52160",
+            "date_modified": "2024-02-26T13:02:05.000Z",
+            "date_published": "2024-02-26T12:48:07.000Z",
+            "author": {
+                "name": "Helica-core",
+                "url": "https://github.com/Helica-core"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/72058581?u=15a5610824ddebe413506a544aff7573c26a9df2&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>confluence CVE-2023-22527 漏洞利用工具，支持冰蝎/哥斯拉内存马注入，支持设置 http 代理</div>",
             "url": "https://github.com/M0untainShley/CVE-2023-22527-MEMSHELL",
             "title": "M0untainShley/CVE-2023-22527-MEMSHELL: confluence CVE-2023-22527 漏洞利用工具，支持冰蝎/哥斯拉内存马注入，支持设置 http 代理",
@@ -209,17 +220,6 @@
             "title": "ek3nk4r/Slient-PDF-FUD-Exploit-Slient-Builder-Exploit-Database-Cve-2023-Malware: A meticulous scrutiny of the Exploit PDFs innards exposes a network of malevolence, unveiling both the nefarious hyperlink and the URL that precipitates",
             "date_modified": "2024-02-22T21:18:00.000Z",
             "date_published": "2024-02-22T10:46:42.000Z",
-            "author": {
-                "name": "ek3nk4r",
-                "url": "https://github.com/ek3nk4r"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/8179569?u=e7cbf574149a375f07244779c66e867ed68c3694&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>URL Contamination Exploit Muted Java Drive-By downloads can transpire during the act of perusing a website, inaugurating an electronic mail communication.</div>",
-            "url": "https://github.com/ek3nk4r/Slient-Url-Exploit-Slient-Builder-Exploit-Database-Cve-2023-Malware",
-            "title": "ek3nk4r/Slient-Url-Exploit-Slient-Builder-Exploit-Database-Cve-2023-Malware: URL Contamination Exploit Muted Java Drive-By downloads can transpire during the act of perusing a website, inaugurating an electronic mail communication.",
-            "date_modified": "2024-02-22T21:17:59.000Z",
-            "date_published": "2024-02-22T10:51:25.000Z",
             "author": {
                 "name": "ek3nk4r",
                 "url": "https://github.com/ek3nk4r"
