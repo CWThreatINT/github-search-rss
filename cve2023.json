@@ -6,6 +6,17 @@
     "description": "CVE-2023 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/72058581?u=15a5610824ddebe413506a544aff7573c26a9df2&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>confluence CVE-2023-22527 漏洞利用工具，支持冰蝎/哥斯拉内存马注入，支持设置 http 代理</div>",
+            "url": "https://github.com/M0untainShley/CVE-2023-22527-MEMSHELL",
+            "title": "M0untainShley/CVE-2023-22527-MEMSHELL: confluence CVE-2023-22527 漏洞利用工具，支持冰蝎/哥斯拉内存马注入，支持设置 http 代理",
+            "date_modified": "2024-02-26T02:36:07.000Z",
+            "date_published": "2024-02-26T02:34:44.000Z",
+            "author": {
+                "name": "M0untainShley",
+                "url": "https://github.com/M0untainShley"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/18195825?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023</div>",
             "url": "https://github.com/CVEProject/cvelist",
             "title": "CVEProject/cvelist: Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "ek3nk4r",
                 "url": "https://github.com/ek3nk4r"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/97047842?u=0d7ff5173dc3bb8360b38620b3dbc74d536ac304&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Exploit for the Remote Code Execution (RCE) vulnerability identified in Metabase versions before 0.46.6.1 (open source) and 1.46.6.1 (Enterprise). Authentication is not required for exploitation.</div>",
-            "url": "https://github.com/UserConnecting/Exploit-CVE-2023-38646-Metabase",
-            "title": "UserConnecting/Exploit-CVE-2023-38646-Metabase: Exploit for the Remote Code Execution (RCE) vulnerability identified in Metabase versions before 0.46.6.1 (open source) and 1.46.6.1 (Enterprise). Authentication is not required for exploitation.",
-            "date_modified": "2024-02-22T02:56:27.000Z",
-            "date_published": "2024-02-22T02:55:55.000Z",
-            "author": {
-                "name": "UserConnecting",
-                "url": "https://github.com/UserConnecting"
             }
         }
     ]
