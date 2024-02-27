@@ -17,6 +17,28 @@
             }
         },
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/1158719?u=dc3f71ec21c9ed2e0a558995d96a2992825971d9&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>POC for the flaw in Thales SafeNet Authentication Client prior to 10.8 R10 on Windows that allows an attacker to execute code at a SYSTEM level via local access.</div>",
+            "url": "https://github.com/ewilded/CVE-2023-7016-POC",
+            "title": "ewilded/CVE-2023-7016-POC: POC for the flaw in Thales SafeNet Authentication Client prior to 10.8 R10 on Windows that allows an attacker to execute code at a SYSTEM level via local access.",
+            "date_modified": "2024-02-27T14:50:26.000Z",
+            "date_published": "2024-02-27T14:48:19.000Z",
+            "author": {
+                "name": "ewilded",
+                "url": "https://github.com/ewilded"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/132711888?u=eaef77f32ec01c2e7e7c39abebd3f8e6804660be&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2023-38831-WINRAR-EXPLOIT GENERATOR</div>",
+            "url": "https://github.com/K3rnel-Dev/WinrarExploit",
+            "title": "K3rnel-Dev/WinrarExploit: CVE-2023-38831-WINRAR-EXPLOIT GENERATOR",
+            "date_modified": "2024-02-03T12:55:18.000Z",
+            "date_published": "2023-09-03T14:03:45.000Z",
+            "author": {
+                "name": "K3rnel-Dev",
+                "url": "https://github.com/K3rnel-Dev"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/137430106?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Arbitrary File Upload Vulnerability in ROS2 Foxy Fitzroy</div>",
             "url": "https://github.com/16yashpatel/CVE-2023-51208",
             "title": "16yashpatel/CVE-2023-51208: Arbitrary File Upload Vulnerability in ROS2 Foxy Fitzroy",
@@ -201,28 +223,6 @@
             "author": {
                 "name": "M0untainShley",
                 "url": "https://github.com/M0untainShley"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/74178946?u=cd731dfbf396fbdd43b94a96cf284c808e7f63b8&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
-            "url": "https://github.com/ASR511-OO7/CVE-2023-33676",
-            "title": "ASR511-OO7/CVE-2023-33676",
-            "date_modified": "2024-02-25T09:18:38.000Z",
-            "date_published": "2024-02-25T09:18:38.000Z",
-            "author": {
-                "name": "ASR511-OO7",
-                "url": "https://github.com/ASR511-OO7"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/74178946?u=cd731dfbf396fbdd43b94a96cf284c808e7f63b8&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
-            "url": "https://github.com/ASR511-OO7/CVE-2023-33677",
-            "title": "ASR511-OO7/CVE-2023-33677",
-            "date_modified": "2024-02-25T09:17:48.000Z",
-            "date_published": "2024-02-25T09:17:48.000Z",
-            "author": {
-                "name": "ASR511-OO7",
-                "url": "https://github.com/ASR511-OO7"
             }
         }
     ]
