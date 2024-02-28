@@ -17,6 +17,17 @@
             }
         },
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/50655448?u=1eb213de11e6adb5a06aec73b43f88de02e9304e&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
+            "url": "https://github.com/lanleft/CVE2023-1829",
+            "title": "lanleft/CVE2023-1829",
+            "date_modified": "2024-02-16T06:54:00.000Z",
+            "date_published": "2023-06-15T03:27:03.000Z",
+            "author": {
+                "name": "lanleft",
+                "url": "https://github.com/lanleft"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/151980876?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>TOP All bugbounty pentesting CVE-2023- POC Exp  RCE example payload  Things</div>",
             "url": "https://github.com/GhostTroops/TOP",
             "title": "GhostTroops/TOP: TOP All bugbounty pentesting CVE-2023- POC Exp  RCE example payload  Things",
@@ -207,22 +218,11 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/8072457?u=fb9de72e8ad7880bad0010da88664368fcf718ea&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>poc of CVE-2023-52160</div>",
             "url": "https://github.com/Helica-core/eap_pwn",
             "title": "Helica-core/eap_pwn: poc of CVE-2023-52160",
-            "date_modified": "2024-02-27T18:48:21.000Z",
+            "date_modified": "2024-02-28T03:39:22.000Z",
             "date_published": "2024-02-26T12:48:07.000Z",
             "author": {
                 "name": "Helica-core",
                 "url": "https://github.com/Helica-core"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/72058581?u=15a5610824ddebe413506a544aff7573c26a9df2&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>confluence CVE-2023-22527 漏洞利用工具，支持冰蝎/哥斯拉内存马注入，支持设置 http 代理</div>",
-            "url": "https://github.com/M0untainShley/CVE-2023-22527-MEMSHELL",
-            "title": "M0untainShley/CVE-2023-22527-MEMSHELL: confluence CVE-2023-22527 漏洞利用工具，支持冰蝎/哥斯拉内存马注入，支持设置 http 代理",
-            "date_modified": "2024-02-27T10:09:51.000Z",
-            "date_published": "2024-02-26T02:34:44.000Z",
-            "author": {
-                "name": "M0untainShley",
-                "url": "https://github.com/M0untainShley"
             }
         }
     ]
