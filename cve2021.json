@@ -6,6 +6,17 @@
     "description": "CVE-2021 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/25670930?u=6fad2f13c751b51fd47e377945d79369743f5948&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Actual working exploit for CVE-2021-3345</div>",
+            "url": "https://github.com/SpiralBL0CK/CVE-2021-3345",
+            "title": "SpiralBL0CK/CVE-2021-3345: Actual working exploit for CVE-2021-3345",
+            "date_modified": "2024-02-29T22:06:18.000Z",
+            "date_published": "2024-02-29T22:05:44.000Z",
+            "author": {
+                "name": "SpiralBL0CK",
+                "url": "https://github.com/SpiralBL0CK"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/159681973?u=d4d67370595b19d8de516dd4ba70863f843a7944&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>历史漏洞的细节以及利用方法汇总收集</div>",
             "url": "https://github.com/OracleNep/Nday-Exploit-Plan",
             "title": "OracleNep/Nday-Exploit-Plan: 历史漏洞的细节以及利用方法汇总收集",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "wechicken456",
                 "url": "https://github.com/wechicken456"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/113451397?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Authenticated Blind SQL Injection. Wordpress woocommerce plugin versions &gt;= 2.5.0</div>",
-            "url": "https://github.com/DonVorrin/CVE-2021-32789",
-            "title": "DonVorrin/CVE-2021-32789: Authenticated Blind SQL Injection. Wordpress woocommerce plugin versions >= 2.5.0",
-            "date_modified": "2024-02-08T19:04:47.000Z",
-            "date_published": "2024-02-08T19:02:17.000Z",
-            "author": {
-                "name": "DonVorrin",
-                "url": "https://github.com/DonVorrin"
             }
         }
     ]
