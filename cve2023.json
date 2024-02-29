@@ -6,6 +6,17 @@
     "description": "CVE-2023 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/159681973?u=d4d67370595b19d8de516dd4ba70863f843a7944&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>历史漏洞的细节以及利用方法汇总收集</div>",
+            "url": "https://github.com/OracleNep/Nday-Exploit-Plan",
+            "title": "OracleNep/Nday-Exploit-Plan: 历史漏洞的细节以及利用方法汇总收集",
+            "date_modified": "2024-02-27T02:02:55.000Z",
+            "date_published": "2024-02-11T06:55:47.000Z",
+            "author": {
+                "name": "OracleNep",
+                "url": "https://github.com/OracleNep"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/18195825?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023</div>",
             "url": "https://github.com/CVEProject/cvelist",
             "title": "CVEProject/cvelist: Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023",
@@ -209,17 +220,6 @@
             "title": "16yashpatel/CVE-2023-33566: Unauthorized Node Injection Vulnerability in ROS2 Foxy Fitzroy",
             "date_modified": "2023-06-22T16:45:22.000Z",
             "date_published": "2023-06-22T16:36:33.000Z",
-            "author": {
-                "name": "16yashpatel",
-                "url": "https://github.com/16yashpatel"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/137430106?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Denial-of-Service (DoS) Vulnerability in ROS2 Foxy Fitzroy</div>",
-            "url": "https://github.com/16yashpatel/CVE-2023-33565",
-            "title": "16yashpatel/CVE-2023-33565: Denial-of-Service (DoS) Vulnerability in ROS2 Foxy Fitzroy",
-            "date_modified": "2023-06-22T16:45:03.000Z",
-            "date_published": "2023-06-22T16:26:55.000Z",
             "author": {
                 "name": "16yashpatel",
                 "url": "https://github.com/16yashpatel"
