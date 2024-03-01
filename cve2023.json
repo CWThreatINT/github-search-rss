@@ -6,6 +6,17 @@
     "description": "CVE-2023 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/152064551?u=edccd632a5a85be84ac80ed10a3bf6b713aadd4f&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Simple Student Attendance System v.1.0 - Cross-site scripting (XSS) vulnerabilities in attendance_report</div>",
+            "url": "https://github.com/geraldoalcantara/CVE-2023-51802",
+            "title": "geraldoalcantara/CVE-2023-51802: Simple Student Attendance System v.1.0 - Cross-site scripting (XSS) vulnerabilities in attendance_report",
+            "date_modified": "2024-02-16T12:23:23.000Z",
+            "date_published": "2024-01-11T17:28:16.000Z",
+            "author": {
+                "name": "geraldoalcantara",
+                "url": "https://github.com/geraldoalcantara"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/18195825?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023</div>",
             "url": "https://github.com/CVEProject/cvelist",
             "title": "CVEProject/cvelist: Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023",
@@ -14,6 +25,50 @@
             "author": {
                 "name": "CVEProject",
                 "url": "https://github.com/CVEProject"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/152064551?u=edccd632a5a85be84ac80ed10a3bf6b713aadd4f&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Simple Student Attendance System v.1.0 - Multiple SQL injection vulnerabilities - student_form.php and class_form.php</div>",
+            "url": "https://github.com/geraldoalcantara/CVE-2023-51801",
+            "title": "geraldoalcantara/CVE-2023-51801: Simple Student Attendance System v.1.0 - Multiple SQL injection vulnerabilities - student_form.php and class_form.php",
+            "date_modified": "2024-03-01T12:02:08.000Z",
+            "date_published": "2024-01-11T17:14:33.000Z",
+            "author": {
+                "name": "geraldoalcantara",
+                "url": "https://github.com/geraldoalcantara"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/152064551?u=edccd632a5a85be84ac80ed10a3bf6b713aadd4f&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Multiple cross-site scripting (XSS) vulnerabilities in School Fees Management System v1.0.</div>",
+            "url": "https://github.com/geraldoalcantara/CVE-2023-51800",
+            "title": "geraldoalcantara/CVE-2023-51800: Multiple cross-site scripting (XSS) vulnerabilities in School Fees Management System v1.0.",
+            "date_modified": "2024-02-16T12:23:21.000Z",
+            "date_published": "2024-01-11T16:28:04.000Z",
+            "author": {
+                "name": "geraldoalcantara",
+                "url": "https://github.com/geraldoalcantara"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/152064551?u=edccd632a5a85be84ac80ed10a3bf6b713aadd4f&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Multiple SQL injection vulnerabilities in /customer_support/ajax.php?action=save_department in Customer Support System 1.0 allow authenticated attackers to execute arbitrary SQL commands via id or name.</div>",
+            "url": "https://github.com/geraldoalcantara/CVE-2023-50071",
+            "title": "geraldoalcantara/CVE-2023-50071: Multiple SQL injection vulnerabilities in /customer_support/ajax.php?action=save_department in Customer Support System 1.0 allow authenticated attackers to execute arbitrary SQL commands via id or name.",
+            "date_modified": "2024-02-26T02:00:12.000Z",
+            "date_published": "2023-12-16T23:06:25.000Z",
+            "author": {
+                "name": "geraldoalcantara",
+                "url": "https://github.com/geraldoalcantara"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/161814438?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>JetStream Smart Switch - TL-SG2210P v5.0/ Improper Access Control / CVE-2023-43318</div>",
+            "url": "https://github.com/str2ver/CVE-2023-43318",
+            "title": "str2ver/CVE-2023-43318: JetStream Smart Switch - TL-SG2210P v5.0/ Improper Access Control / CVE-2023-43318",
+            "date_modified": "2024-03-01T11:35:47.000Z",
+            "date_published": "2024-03-01T11:35:47.000Z",
+            "author": {
+                "name": "str2ver",
+                "url": "https://github.com/str2ver"
             }
         },
         {
@@ -168,61 +223,6 @@
             "author": {
                 "name": "ewilded",
                 "url": "https://github.com/ewilded"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/132711888?u=eaef77f32ec01c2e7e7c39abebd3f8e6804660be&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2023-38831-WINRAR-EXPLOIT GENERATOR</div>",
-            "url": "https://github.com/K3rnel-Dev/WinrarExploit",
-            "title": "K3rnel-Dev/WinrarExploit: CVE-2023-38831-WINRAR-EXPLOIT GENERATOR",
-            "date_modified": "2024-02-03T12:55:18.000Z",
-            "date_published": "2023-09-03T14:03:45.000Z",
-            "author": {
-                "name": "K3rnel-Dev",
-                "url": "https://github.com/K3rnel-Dev"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/137430106?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Arbitrary File Upload Vulnerability in ROS2 Foxy Fitzroy</div>",
-            "url": "https://github.com/16yashpatel/CVE-2023-51208",
-            "title": "16yashpatel/CVE-2023-51208: Arbitrary File Upload Vulnerability in ROS2 Foxy Fitzroy",
-            "date_modified": "2024-01-10T18:12:26.000Z",
-            "date_published": "2024-01-10T18:08:37.000Z",
-            "author": {
-                "name": "16yashpatel",
-                "url": "https://github.com/16yashpatel"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/137430106?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Insecure Deserialization Vulnerability in ROS2 Foxy Fitzroy</div>",
-            "url": "https://github.com/16yashpatel/CVE-2023-51204",
-            "title": "16yashpatel/CVE-2023-51204: Insecure Deserialization Vulnerability in ROS2 Foxy Fitzroy",
-            "date_modified": "2024-01-10T18:08:19.000Z",
-            "date_published": "2024-01-10T17:54:59.000Z",
-            "author": {
-                "name": "16yashpatel",
-                "url": "https://github.com/16yashpatel"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/137430106?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>OS Command Injection Vulnerability in ROS2 Foxy Fitzroy</div>",
-            "url": "https://github.com/16yashpatel/CVE-2023-51202",
-            "title": "16yashpatel/CVE-2023-51202: OS Command Injection Vulnerability in ROS2 Foxy Fitzroy",
-            "date_modified": "2024-01-10T17:43:05.000Z",
-            "date_published": "2024-01-10T17:33:19.000Z",
-            "author": {
-                "name": "16yashpatel",
-                "url": "https://github.com/16yashpatel"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/137430106?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Information Leakage in ROS2 Foxy Fitzroy via Plaintext Message Transmission</div>",
-            "url": "https://github.com/16yashpatel/CVE-2023-51201",
-            "title": "16yashpatel/CVE-2023-51201: Information Leakage in ROS2 Foxy Fitzroy via Plaintext Message Transmission",
-            "date_modified": "2024-01-10T16:54:06.000Z",
-            "date_published": "2024-01-10T16:46:56.000Z",
-            "author": {
-                "name": "16yashpatel",
-                "url": "https://github.com/16yashpatel"
             }
         }
     ]
