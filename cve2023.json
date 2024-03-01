@@ -17,6 +17,17 @@
             }
         },
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/73236689?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Proof-of-concept of CVE-2023-38831</div>",
+            "url": "https://github.com/MyStuffYT/CVE-2023-38831-POC",
+            "title": "MyStuffYT/CVE-2023-38831-POC: Proof-of-concept of CVE-2023-38831",
+            "date_modified": "2023-12-04T11:16:10.000Z",
+            "date_published": "2023-12-04T11:13:43.000Z",
+            "author": {
+                "name": "MyStuffYT",
+                "url": "https://github.com/MyStuffYT"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/42498816?u=08c4092e757fc2588b734e8e09e355493e9126e9&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
             "url": "https://github.com/jakabakos/CVE-2023-39362-cacti-snmp-command-injection-poc",
             "title": "jakabakos/CVE-2023-39362-cacti-snmp-command-injection-poc",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "lanleft",
                 "url": "https://github.com/lanleft"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/1158719?u=dc3f71ec21c9ed2e0a558995d96a2992825971d9&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>POC for the flaw in Thales SafeNet Authentication Client prior to 10.8 R10 on Windows that allows an attacker to execute code at a SYSTEM level via local access.</div>",
-            "url": "https://github.com/ewilded/CVE-2023-7016-POC",
-            "title": "ewilded/CVE-2023-7016-POC: POC for the flaw in Thales SafeNet Authentication Client prior to 10.8 R10 on Windows that allows an attacker to execute code at a SYSTEM level via local access.",
-            "date_modified": "2024-02-27T14:50:26.000Z",
-            "date_published": "2024-02-27T14:48:19.000Z",
-            "author": {
-                "name": "ewilded",
-                "url": "https://github.com/ewilded"
             }
         }
     ]
