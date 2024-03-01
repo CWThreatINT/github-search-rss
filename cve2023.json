@@ -17,6 +17,17 @@
             }
         },
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/161894384?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>POC for CVE-2023-47218</div>",
+            "url": "https://github.com/gogobuster/CVE-2023-47218-POC",
+            "title": "gogobuster/CVE-2023-47218-POC: POC for CVE-2023-47218",
+            "date_modified": "2024-03-01T22:46:50.000Z",
+            "date_published": "2024-03-01T22:12:56.000Z",
+            "author": {
+                "name": "gogobuster",
+                "url": "https://github.com/gogobuster"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/73236689?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Proof-of-concept of CVE-2023-38831</div>",
             "url": "https://github.com/MyStuffYT/CVE-2023-38831-POC",
             "title": "MyStuffYT/CVE-2023-38831-POC: Proof-of-concept of CVE-2023-38831",
@@ -127,10 +138,10 @@
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/91368803?u=f27b94996126d990613363889afbd3d223b9a11a&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Using CVE-2023-2640 CVE-2023-3262 to escalate previleges</div>",
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/91368803?u=f27b94996126d990613363889afbd3d223b9a11a&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Escalating Privilege using CVE-2023-2640 CVE-2023-3262 </div>",
             "url": "https://github.com/SanjayRagavendar/UbuntuPrivilegeEscalationV1",
-            "title": "SanjayRagavendar/UbuntuPrivilegeEscalationV1: Using CVE-2023-2640 CVE-2023-3262 to escalate previleges",
-            "date_modified": "2024-02-29T17:07:41.000Z",
+            "title": "SanjayRagavendar/UbuntuPrivilegeEscalationV1: Escalating Privilege using CVE-2023-2640 CVE-2023-3262 ",
+            "date_modified": "2024-03-01T23:05:55.000Z",
             "date_published": "2024-02-29T16:04:58.000Z",
             "author": {
                 "name": "SanjayRagavendar",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "J3Ss0u",
                 "url": "https://github.com/J3Ss0u"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/50655448?u=1eb213de11e6adb5a06aec73b43f88de02e9304e&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
-            "url": "https://github.com/lanleft/CVE2023-1829",
-            "title": "lanleft/CVE2023-1829",
-            "date_modified": "2024-02-16T06:54:00.000Z",
-            "date_published": "2023-06-15T03:27:03.000Z",
-            "author": {
-                "name": "lanleft",
-                "url": "https://github.com/lanleft"
             }
         }
     ]
