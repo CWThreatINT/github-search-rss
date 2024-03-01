@@ -6,6 +6,17 @@
     "description": "CVE-2022 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/56998716?u=b47aef06c1c408f41d0640fb6d027da9a61d0e74&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A proof of concept for CVE-2022-30190 (Follina).</div>",
+            "url": "https://github.com/winstxnhdw/CVE-2022-30190",
+            "title": "winstxnhdw/CVE-2022-30190: A proof of concept for CVE-2022-30190 (Follina).",
+            "date_modified": "2023-08-29T16:29:42.000Z",
+            "date_published": "2022-09-15T16:12:57.000Z",
+            "author": {
+                "name": "winstxnhdw",
+                "url": "https://github.com/winstxnhdw"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/159681973?u=d4d67370595b19d8de516dd4ba70863f843a7944&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>历史漏洞的细节以及利用方法汇总收集</div>",
             "url": "https://github.com/OracleNep/Nday-Exploit-Plan",
             "title": "OracleNep/Nday-Exploit-Plan: 历史漏洞的细节以及利用方法汇总收集",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "letsr00t",
                 "url": "https://github.com/letsr00t"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/1008217?u=c55f19b666580f970bf6fde5425cf68e30e88d71&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>VMware Workspace ONE Access and Identity Manager RCE via SSTI - Test script for shodan, file or manual. </div>",
-            "url": "https://github.com/tunelko/CVE-2022-22954-PoC",
-            "title": "tunelko/CVE-2022-22954-PoC: VMware Workspace ONE Access and Identity Manager RCE via SSTI - Test script for shodan, file or manual. ",
-            "date_modified": "2023-08-27T09:17:37.000Z",
-            "date_published": "2022-04-13T08:52:15.000Z",
-            "author": {
-                "name": "tunelko",
-                "url": "https://github.com/tunelko"
             }
         }
     ]
