@@ -6,6 +6,17 @@
     "description": "CVE-2023 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/108554878?u=2f8599526f6d021d7515300b24c447ebd899becb&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Python program to dump all the databases, exploiting NagiosXI sqli vulnerability</div>",
+            "url": "https://github.com/Hamibubu/CVE-2023-48084",
+            "title": "Hamibubu/CVE-2023-48084: Python program to dump all the databases, exploiting NagiosXI sqli vulnerability",
+            "date_modified": "2024-03-01T04:06:15.000Z",
+            "date_published": "2024-03-01T04:06:15.000Z",
+            "author": {
+                "name": "Hamibubu",
+                "url": "https://github.com/Hamibubu"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/18195825?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023</div>",
             "url": "https://github.com/CVEProject/cvelist",
             "title": "CVEProject/cvelist: Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023",
@@ -42,7 +53,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/75788310?u=86e218a7e9ba210b05d60e83d554d7851c340279&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Apache Solr Backup/Restore APIs RCE Poc (CVE-2023-50386)</div>",
             "url": "https://github.com/vvmdx/Apache-Solr-RCE_CVE-2023-50386_POC",
             "title": "vvmdx/Apache-Solr-RCE_CVE-2023-50386_POC: Apache Solr Backup/Restore APIs RCE Poc (CVE-2023-50386)",
-            "date_modified": "2024-03-01T02:47:23.000Z",
+            "date_modified": "2024-03-01T03:42:34.000Z",
             "date_published": "2024-02-29T08:57:47.000Z",
             "author": {
                 "name": "vvmdx",
@@ -209,17 +220,6 @@
             "title": "16yashpatel/CVE-2023-51201: Information Leakage in ROS2 Foxy Fitzroy via Plaintext Message Transmission",
             "date_modified": "2024-01-10T16:54:06.000Z",
             "date_published": "2024-01-10T16:46:56.000Z",
-            "author": {
-                "name": "16yashpatel",
-                "url": "https://github.com/16yashpatel"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/137430106?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Security Misconfiguration in ROS2 Foxy Fitzroy</div>",
-            "url": "https://github.com/16yashpatel/CVE-2023-51200",
-            "title": "16yashpatel/CVE-2023-51200: Security Misconfiguration in ROS2 Foxy Fitzroy",
-            "date_modified": "2024-01-10T16:32:49.000Z",
-            "date_published": "2024-01-10T16:17:59.000Z",
             "author": {
                 "name": "16yashpatel",
                 "url": "https://github.com/16yashpatel"
