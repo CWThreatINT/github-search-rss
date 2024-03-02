@@ -6,6 +6,17 @@
     "description": "CVE-2023 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/91368803?u=f27b94996126d990613363889afbd3d223b9a11a&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Escalating Privilege using CVE-2023-2640 CVE-2023-3262 </div>",
+            "url": "https://github.com/SanjayRagavendar/Ubuntu-GameOver-Lay",
+            "title": "SanjayRagavendar/Ubuntu-GameOver-Lay: Escalating Privilege using CVE-2023-2640 CVE-2023-3262 ",
+            "date_modified": "2024-03-01T23:59:00.000Z",
+            "date_published": "2024-02-29T16:04:58.000Z",
+            "author": {
+                "name": "SanjayRagavendar",
+                "url": "https://github.com/SanjayRagavendar"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/18195825?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023</div>",
             "url": "https://github.com/CVEProject/cvelist",
             "title": "CVEProject/cvelist: Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023",
@@ -138,21 +149,10 @@
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/91368803?u=f27b94996126d990613363889afbd3d223b9a11a&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Escalating Privilege using CVE-2023-2640 CVE-2023-3262 </div>",
-            "url": "https://github.com/SanjayRagavendar/UbuntuPrivilegeEscalationV1",
-            "title": "SanjayRagavendar/UbuntuPrivilegeEscalationV1: Escalating Privilege using CVE-2023-2640 CVE-2023-3262 ",
-            "date_modified": "2024-03-01T23:05:55.000Z",
-            "date_published": "2024-02-29T16:04:58.000Z",
-            "author": {
-                "name": "SanjayRagavendar",
-                "url": "https://github.com/SanjayRagavendar"
-            }
-        },
-        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/75788310?u=86e218a7e9ba210b05d60e83d554d7851c340279&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Apache Solr Backup/Restore APIs RCE Poc (CVE-2023-50386)</div>",
             "url": "https://github.com/vvmdx/Apache-Solr-RCE_CVE-2023-50386_POC",
             "title": "vvmdx/Apache-Solr-RCE_CVE-2023-50386_POC: Apache Solr Backup/Restore APIs RCE Poc (CVE-2023-50386)",
-            "date_modified": "2024-03-01T17:57:55.000Z",
+            "date_modified": "2024-03-01T23:53:12.000Z",
             "date_published": "2024-02-29T08:57:47.000Z",
             "author": {
                 "name": "vvmdx",
