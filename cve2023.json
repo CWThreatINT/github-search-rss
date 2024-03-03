@@ -6,17 +6,6 @@
     "description": "CVE-2023 FEED on GitHub",
     "items": [
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/35825039?u=6eba75a827ac75c499e5fed4921661946c04c856&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Vulnerability POC for CVE-2023-34845</div>",
-            "url": "https://github.com/r4vanan/CVE-2023-34845",
-            "title": "r4vanan/CVE-2023-34845: Vulnerability POC for CVE-2023-34845",
-            "date_modified": "2024-03-03T10:50:17.000Z",
-            "date_published": "2024-03-03T10:50:16.000Z",
-            "author": {
-                "name": "r4vanan",
-                "url": "https://github.com/r4vanan"
-            }
-        },
-        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/18195825?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023</div>",
             "url": "https://github.com/CVEProject/cvelist",
             "title": "CVEProject/cvelist: Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023",
@@ -25,6 +14,17 @@
             "author": {
                 "name": "CVEProject",
                 "url": "https://github.com/CVEProject"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/35825039?u=6eba75a827ac75c499e5fed4921661946c04c856&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Vulnerability POC for CVE-2023-34845</div>",
+            "url": "https://github.com/r4vanan/CVE-2023-34845",
+            "title": "r4vanan/CVE-2023-34845: Vulnerability POC for CVE-2023-34845",
+            "date_modified": "2024-03-03T10:50:17.000Z",
+            "date_published": "2024-03-03T10:50:16.000Z",
+            "author": {
+                "name": "r4vanan",
+                "url": "https://github.com/r4vanan"
             }
         },
         {
