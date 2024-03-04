@@ -6,10 +6,21 @@
     "description": "CVE-2021 FEED on GitHub",
     "items": [
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/70909693?u=c072437951314795265dd77af0fe77fb41c73b77&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/32100248?u=d800687db4415a7b0b95776e5e4bdefa9239b38e&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
+            "url": "https://github.com/FancySauce/PwnKit-CVE-2021-4034",
+            "title": "FancySauce/PwnKit-CVE-2021-4034",
+            "date_modified": "2024-01-27T13:29:02.000Z",
+            "date_published": "2024-01-27T13:17:50.000Z",
+            "author": {
+                "name": "FancySauce",
+                "url": "https://github.com/FancySauce"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/70909693?u=c072437951314795265dd77af0fe77fb41c73b77&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A PoC exploit for CVE-2021-43798 - Grafana Directory Traversal</div>",
             "url": "https://github.com/K3ysTr0K3R/CVE-2021-43798-EXPLOIT",
-            "title": "K3ysTr0K3R/CVE-2021-43798-EXPLOIT",
-            "date_modified": "2024-03-04T21:05:37.000Z",
+            "title": "K3ysTr0K3R/CVE-2021-43798-EXPLOIT: A PoC exploit for CVE-2021-43798 - Grafana Directory Traversal",
+            "date_modified": "2024-03-04T21:20:31.000Z",
             "date_published": "2024-03-04T18:32:21.000Z",
             "author": {
                 "name": "K3ysTr0K3R",
@@ -209,17 +220,6 @@
             "title": "whoami-chmod777/CVE-2021-1675---PrintNightmare-LPE-PowerShell-",
             "date_modified": "2024-02-12T20:59:21.000Z",
             "date_published": "2024-02-12T20:59:08.000Z",
-            "author": {
-                "name": "whoami-chmod777",
-                "url": "https://github.com/whoami-chmod777"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/33582093?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
-            "url": "https://github.com/whoami-chmod777/CVE-2021-1675-CVE-2021-34527",
-            "title": "whoami-chmod777/CVE-2021-1675-CVE-2021-34527",
-            "date_modified": "2024-02-12T20:55:03.000Z",
-            "date_published": "2024-02-12T20:54:51.000Z",
             "author": {
                 "name": "whoami-chmod777",
                 "url": "https://github.com/whoami-chmod777"
