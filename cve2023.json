@@ -6,6 +6,17 @@
     "description": "CVE-2023 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/134310220?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A tool to fetch the RocketMQ broker configuration in order to discover indicators of compromise for CVE-2023-33246</div>",
+            "url": "https://github.com/vulncheck-oss/fetch-broker-conf",
+            "title": "vulncheck-oss/fetch-broker-conf: A tool to fetch the RocketMQ broker configuration in order to discover indicators of compromise for CVE-2023-33246",
+            "date_modified": "2024-03-05T09:02:47.000Z",
+            "date_published": "2023-09-04T11:18:28.000Z",
+            "author": {
+                "name": "vulncheck-oss",
+                "url": "https://github.com/vulncheck-oss"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/18195825?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023</div>",
             "url": "https://github.com/CVEProject/cvelist",
             "title": "CVEProject/cvelist: Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023",
@@ -17,6 +28,39 @@
             }
         },
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/134310220?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A go-exploit for Apache OFBiz CVE-2023-51467</div>",
+            "url": "https://github.com/vulncheck-oss/cve-2023-51467",
+            "title": "vulncheck-oss/cve-2023-51467: A go-exploit for Apache OFBiz CVE-2023-51467",
+            "date_modified": "2024-01-16T01:31:12.000Z",
+            "date_published": "2024-01-09T16:58:06.000Z",
+            "author": {
+                "name": "vulncheck-oss",
+                "url": "https://github.com/vulncheck-oss"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/162281579?u=64a2aa7b900d7b9366544324b5504c826e139598&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>ActiveMQ RCE (CVE-2023-46604) 回显利用工具</div>",
+            "url": "https://github.com/Arlenhiack/ActiveMQ-RCE-Exploit",
+            "title": "Arlenhiack/ActiveMQ-RCE-Exploit: ActiveMQ RCE (CVE-2023-46604) 回显利用工具",
+            "date_modified": "2024-03-05T08:33:45.000Z",
+            "date_published": "2024-03-05T07:09:21.000Z",
+            "author": {
+                "name": "Arlenhiack",
+                "url": "https://github.com/Arlenhiack"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/106301889?u=87ab93c0130fc81d7ffa2c8141fc35f24bd9627e&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>The Blue0DAY tool implements Unauthenticated Peering, leading to code execution via HID keyboard in Bluetooth CVE-2023-45866. 🚨</div>",
+            "url": "https://github.com/R4HUL-INDIAN/Blue0DAY",
+            "title": "R4HUL-INDIAN/Blue0DAY: The Blue0DAY tool implements Unauthenticated Peering, leading to code execution via HID keyboard in Bluetooth CVE-2023-45866. 🚨",
+            "date_modified": "2024-03-05T08:27:46.000Z",
+            "date_published": "2024-03-05T08:26:57.000Z",
+            "author": {
+                "name": "R4HUL-INDIAN",
+                "url": "https://github.com/R4HUL-INDIAN"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/151980876?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>TOP All bugbounty pentesting CVE-2023- POC Exp  RCE example payload  Things</div>",
             "url": "https://github.com/GhostTroops/TOP",
             "title": "GhostTroops/TOP: TOP All bugbounty pentesting CVE-2023- POC Exp  RCE example payload  Things",
@@ -25,17 +69,6 @@
             "author": {
                 "name": "GhostTroops",
                 "url": "https://github.com/GhostTroops"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/106301889?u=87ab93c0130fc81d7ffa2c8141fc35f24bd9627e&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>The Blue0DAY tool implements Unauthenticated Peering, leading to code execution via HID keyboard in Bluetooth CVE-2023-45866. 🚨</div>",
-            "url": "https://github.com/R4HUL-INDIAN/Blue0DAY",
-            "title": "R4HUL-INDIAN/Blue0DAY: The Blue0DAY tool implements Unauthenticated Peering, leading to code execution via HID keyboard in Bluetooth CVE-2023-45866. 🚨",
-            "date_modified": "2024-03-04T13:56:02.000Z",
-            "date_published": "2024-03-04T13:55:16.000Z",
-            "author": {
-                "name": "R4HUL-INDIAN",
-                "url": "https://github.com/R4HUL-INDIAN"
             }
         },
         {
@@ -190,39 +223,6 @@
             "author": {
                 "name": "jakabakos",
                 "url": "https://github.com/jakabakos"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/152064551?u=edccd632a5a85be84ac80ed10a3bf6b713aadd4f&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Simple Student Attendance System v.1.0 - Cross-site scripting (XSS) vulnerabilities in attendance_report</div>",
-            "url": "https://github.com/geraldoalcantara/CVE-2023-51802",
-            "title": "geraldoalcantara/CVE-2023-51802: Simple Student Attendance System v.1.0 - Cross-site scripting (XSS) vulnerabilities in attendance_report",
-            "date_modified": "2024-02-16T12:23:23.000Z",
-            "date_published": "2024-01-11T17:28:16.000Z",
-            "author": {
-                "name": "geraldoalcantara",
-                "url": "https://github.com/geraldoalcantara"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/152064551?u=edccd632a5a85be84ac80ed10a3bf6b713aadd4f&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Simple Student Attendance System v.1.0 - Multiple SQL injection vulnerabilities - student_form.php and class_form.php</div>",
-            "url": "https://github.com/geraldoalcantara/CVE-2023-51801",
-            "title": "geraldoalcantara/CVE-2023-51801: Simple Student Attendance System v.1.0 - Multiple SQL injection vulnerabilities - student_form.php and class_form.php",
-            "date_modified": "2024-03-01T12:02:08.000Z",
-            "date_published": "2024-01-11T17:14:33.000Z",
-            "author": {
-                "name": "geraldoalcantara",
-                "url": "https://github.com/geraldoalcantara"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/152064551?u=edccd632a5a85be84ac80ed10a3bf6b713aadd4f&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Multiple cross-site scripting (XSS) vulnerabilities in School Fees Management System v1.0.</div>",
-            "url": "https://github.com/geraldoalcantara/CVE-2023-51800",
-            "title": "geraldoalcantara/CVE-2023-51800: Multiple cross-site scripting (XSS) vulnerabilities in School Fees Management System v1.0.",
-            "date_modified": "2024-02-16T12:23:21.000Z",
-            "date_published": "2024-01-11T16:28:04.000Z",
-            "author": {
-                "name": "geraldoalcantara",
-                "url": "https://github.com/geraldoalcantara"
             }
         }
     ]
