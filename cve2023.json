@@ -6,6 +6,17 @@
     "description": "CVE-2023 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/98274489?u=f6188b54b8600cd7165d73a287174bc256c2d8c0&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>New exploit for admin access to QNAP OS (CVE-2023-50358)</div>",
+            "url": "https://github.com/greandfather/CVE-2023-50358-POC",
+            "title": "greandfather/CVE-2023-50358-POC: New exploit for admin access to QNAP OS (CVE-2023-50358)",
+            "date_modified": "2024-03-05T16:01:34.000Z",
+            "date_published": "2024-03-05T16:01:33.000Z",
+            "author": {
+                "name": "greandfather",
+                "url": "https://github.com/greandfather"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/18195825?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023</div>",
             "url": "https://github.com/CVEProject/cvelist",
             "title": "CVEProject/cvelist: Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023",
@@ -14,6 +25,17 @@
             "author": {
                 "name": "CVEProject",
                 "url": "https://github.com/CVEProject"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/74178946?u=cd731dfbf396fbdd43b94a96cf284c808e7f63b8&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
+            "url": "https://github.com/ASR511-OO7/CVE-2023-33676",
+            "title": "ASR511-OO7/CVE-2023-33676",
+            "date_modified": "2024-02-25T09:18:38.000Z",
+            "date_published": "2024-02-25T09:18:38.000Z",
+            "author": {
+                "name": "ASR511-OO7",
+                "url": "https://github.com/ASR511-OO7"
             }
         },
         {
@@ -201,28 +223,6 @@
             "author": {
                 "name": "gogobuster",
                 "url": "https://github.com/gogobuster"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/91368803?u=f27b94996126d990613363889afbd3d223b9a11a&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Escalating Privilege using CVE-2023-2640 CVE-2023-3262 </div>",
-            "url": "https://github.com/SanjayRagavendar/Ubuntu-GameOver-Lay",
-            "title": "SanjayRagavendar/Ubuntu-GameOver-Lay: Escalating Privilege using CVE-2023-2640 CVE-2023-3262 ",
-            "date_modified": "2024-03-05T05:47:31.000Z",
-            "date_published": "2024-02-29T16:04:58.000Z",
-            "author": {
-                "name": "SanjayRagavendar",
-                "url": "https://github.com/SanjayRagavendar"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/73236689?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Proof-of-concept of CVE-2023-38831</div>",
-            "url": "https://github.com/MyStuffYT/CVE-2023-38831-POC",
-            "title": "MyStuffYT/CVE-2023-38831-POC: Proof-of-concept of CVE-2023-38831",
-            "date_modified": "2023-12-04T11:16:10.000Z",
-            "date_published": "2023-12-04T11:13:43.000Z",
-            "author": {
-                "name": "MyStuffYT",
-                "url": "https://github.com/MyStuffYT"
             }
         }
     ]
