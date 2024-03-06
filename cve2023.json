@@ -6,6 +6,28 @@
     "description": "CVE-2023 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/159681973?u=d4d67370595b19d8de516dd4ba70863f843a7944&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>历史漏洞的细节以及利用方法汇总收集</div>",
+            "url": "https://github.com/OracleNep/Nday-Exploit-Plan",
+            "title": "OracleNep/Nday-Exploit-Plan: 历史漏洞的细节以及利用方法汇总收集",
+            "date_modified": "2024-03-02T10:08:42.000Z",
+            "date_published": "2024-02-11T06:55:47.000Z",
+            "author": {
+                "name": "OracleNep",
+                "url": "https://github.com/OracleNep"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/101872898?u=ff91a9355029d7341ab430bfc2802eb4d72f92d7&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2024-27198 &amp; CVE-2024-27199 Authentication Bypass --&gt; RCE in JetBrains TeamCity Pre-2023.11.4</div>",
+            "url": "https://github.com/W01fh4cker/CVE-2024-27198-RCE",
+            "title": "W01fh4cker/CVE-2024-27198-RCE: CVE-2024-27198 & CVE-2024-27199 Authentication Bypass --> RCE in JetBrains TeamCity Pre-2023.11.4",
+            "date_modified": "2024-03-06T04:03:51.000Z",
+            "date_published": "2024-03-06T03:15:03.000Z",
+            "author": {
+                "name": "W01fh4cker",
+                "url": "https://github.com/W01fh4cker"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/18195825?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023</div>",
             "url": "https://github.com/CVEProject/cvelist",
             "title": "CVEProject/cvelist: Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023",
@@ -201,28 +223,6 @@
             "author": {
                 "name": "ASR511-OO7",
                 "url": "https://github.com/ASR511-OO7"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/161977912?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
-            "url": "https://github.com/RxRCoder/CVE-2023-2437",
-            "title": "RxRCoder/CVE-2023-2437",
-            "date_modified": "2024-03-02T21:18:30.000Z",
-            "date_published": "2024-03-02T21:09:07.000Z",
-            "author": {
-                "name": "RxRCoder",
-                "url": "https://github.com/RxRCoder"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/161574704?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
-            "url": "https://github.com/sharmashreejaa/CVE-2023-6595",
-            "title": "sharmashreejaa/CVE-2023-6595",
-            "date_modified": "2024-03-02T07:35:29.000Z",
-            "date_published": "2024-03-02T07:35:29.000Z",
-            "author": {
-                "name": "sharmashreejaa",
-                "url": "https://github.com/sharmashreejaa"
             }
         }
     ]
