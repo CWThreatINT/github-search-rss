@@ -6,6 +6,17 @@
     "description": "CVE-2023 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/84989569?u=b027e9a8785b58ab40097521d634b7ebf24aa3e7&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Unauthenticated RCE in ZoneMinder Snapshots - Poc Exploit</div>",
+            "url": "https://github.com/rvizx/CVE-2023-26035",
+            "title": "rvizx/CVE-2023-26035: Unauthenticated RCE in ZoneMinder Snapshots - Poc Exploit",
+            "date_modified": "2024-03-03T13:27:28.000Z",
+            "date_published": "2023-12-11T19:23:13.000Z",
+            "author": {
+                "name": "rvizx",
+                "url": "https://github.com/rvizx"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/162288779?u=0d0a8395dd200847d3579f1a313bfe90608cf268&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Demonstrates critical vulnerability allowing unauthorized access to GL.iNet router web interface without valid credentials. Exploit targets CVE-2023-46453</div>",
             "url": "https://github.com/0x1x02/GLiNet-Router-Auth-Bypass",
             "title": "0x1x02/GLiNet-Router-Auth-Bypass: Demonstrates critical vulnerability allowing unauthorized access to GL.iNet router web interface without valid credentials. Exploit targets CVE-2023-46453",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "Arlenhiack",
                 "url": "https://github.com/Arlenhiack"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/134310220?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A go-exploit for fetching the RocketMQ broker configuration in order to discover indicators of compromise for CVE-2023-33246</div>",
-            "url": "https://github.com/vulncheck-oss/fetch-broker-conf",
-            "title": "vulncheck-oss/fetch-broker-conf: A go-exploit for fetching the RocketMQ broker configuration in order to discover indicators of compromise for CVE-2023-33246",
-            "date_modified": "2024-03-05T09:18:24.000Z",
-            "date_published": "2023-09-04T11:18:28.000Z",
-            "author": {
-                "name": "vulncheck-oss",
-                "url": "https://github.com/vulncheck-oss"
             }
         }
     ]
