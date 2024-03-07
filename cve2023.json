@@ -6,6 +6,17 @@
     "description": "CVE-2023 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/162288779?u=348030e3adbf82f99579dcc4a54049f5738b2b8b&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Demonstrates critical vulnerability allowing unauthorized access to GL.iNet router web interface without valid credentials. Exploit targets CVE-2023-46453</div>",
+            "url": "https://github.com/0x1x02/GLiNet-Router-Auth-Bypass",
+            "title": "0x1x02/GLiNet-Router-Auth-Bypass: Demonstrates critical vulnerability allowing unauthorized access to GL.iNet router web interface without valid credentials. Exploit targets CVE-2023-46453",
+            "date_modified": "2024-03-07T08:05:31.000Z",
+            "date_published": "2024-03-07T08:05:31.000Z",
+            "author": {
+                "name": "0x1x02",
+                "url": "https://github.com/0x1x02"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/159681973?u=d4d67370595b19d8de516dd4ba70863f843a7944&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>历史漏洞的细节以及利用方法汇总收集</div>",
             "url": "https://github.com/OracleNep/Nday-Exploit-Plan",
             "title": "OracleNep/Nday-Exploit-Plan: 历史漏洞的细节以及利用方法汇总收集",
@@ -14,6 +25,17 @@
             "author": {
                 "name": "OracleNep",
                 "url": "https://github.com/OracleNep"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/83682793?u=3e71e6cd8d05ed49bbfeee045530a337abc9f822&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Openfire Console Authentication Bypass Vulnerability with RCE plugin</div>",
+            "url": "https://github.com/miko550/CVE-2023-32315",
+            "title": "miko550/CVE-2023-32315: Openfire Console Authentication Bypass Vulnerability with RCE plugin",
+            "date_modified": "2024-03-07T05:00:13.000Z",
+            "date_published": "2023-06-18T15:42:00.000Z",
+            "author": {
+                "name": "miko550",
+                "url": "https://github.com/miko550"
             }
         },
         {
@@ -108,7 +130,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/101872898?u=ff91a9355029d7341ab430bfc2802eb4d72f92d7&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2024-27198 &amp; CVE-2024-27199 Authentication Bypass --&gt; RCE in JetBrains TeamCity Pre-2023.11.4</div>",
             "url": "https://github.com/W01fh4cker/CVE-2024-27198-RCE",
             "title": "W01fh4cker/CVE-2024-27198-RCE: CVE-2024-27198 & CVE-2024-27199 Authentication Bypass --> RCE in JetBrains TeamCity Pre-2023.11.4",
-            "date_modified": "2024-03-07T06:40:33.000Z",
+            "date_modified": "2024-03-07T07:44:13.000Z",
             "date_published": "2024-03-06T03:15:03.000Z",
             "author": {
                 "name": "W01fh4cker",
@@ -201,28 +223,6 @@
             "author": {
                 "name": "vulncheck-oss",
                 "url": "https://github.com/vulncheck-oss"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/134310220?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A go-exploit to scan for Juniper firewalls vulnerable to CVE-2023-36845</div>",
-            "url": "https://github.com/vulncheck-oss/cve-2023-36845-scanner",
-            "title": "vulncheck-oss/cve-2023-36845-scanner: A go-exploit to scan for Juniper firewalls vulnerable to CVE-2023-36845",
-            "date_modified": "2024-03-05T09:19:27.000Z",
-            "date_published": "2023-09-16T09:11:21.000Z",
-            "author": {
-                "name": "vulncheck-oss",
-                "url": "https://github.com/vulncheck-oss"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/162106909?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>0day for Citrix Netscaler ADC and NetScaler Gateway latest versions</div>",
-            "url": "https://github.com/Roonye660/CVE-2023-6548-POC",
-            "title": "Roonye660/CVE-2023-6548-POC: 0day for Citrix Netscaler ADC and NetScaler Gateway latest versions",
-            "date_modified": "2024-03-04T18:10:05.000Z",
-            "date_published": "2024-03-04T08:57:27.000Z",
-            "author": {
-                "name": "Roonye660",
-                "url": "https://github.com/Roonye660"
             }
         }
     ]
