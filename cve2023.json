@@ -6,17 +6,6 @@
     "description": "CVE-2023 FEED on GitHub",
     "items": [
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/84989569?u=b027e9a8785b58ab40097521d634b7ebf24aa3e7&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Unauthenticated RCE in ZoneMinder Snapshots - Poc Exploit</div>",
-            "url": "https://github.com/rvizx/CVE-2023-26035",
-            "title": "rvizx/CVE-2023-26035: Unauthenticated RCE in ZoneMinder Snapshots - Poc Exploit",
-            "date_modified": "2024-03-03T13:27:28.000Z",
-            "date_published": "2023-12-11T19:23:13.000Z",
-            "author": {
-                "name": "rvizx",
-                "url": "https://github.com/rvizx"
-            }
-        },
-        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/162288779?u=0d0a8395dd200847d3579f1a313bfe90608cf268&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Demonstrates critical vulnerability allowing unauthorized access to GL.iNet router web interface without valid credentials. Exploit targets CVE-2023-46453</div>",
             "url": "https://github.com/0x1x02/GLiNet-Router-Auth-Bypass",
             "title": "0x1x02/GLiNet-Router-Auth-Bypass: Demonstrates critical vulnerability allowing unauthorized access to GL.iNet router web interface without valid credentials. Exploit targets CVE-2023-46453",
@@ -25,6 +14,17 @@
             "author": {
                 "name": "0x1x02",
                 "url": "https://github.com/0x1x02"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/84989569?u=b027e9a8785b58ab40097521d634b7ebf24aa3e7&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Unauthenticated RCE in ZoneMinder Snapshots - Poc Exploit</div>",
+            "url": "https://github.com/rvizx/CVE-2023-26035",
+            "title": "rvizx/CVE-2023-26035: Unauthenticated RCE in ZoneMinder Snapshots - Poc Exploit",
+            "date_modified": "2024-03-03T13:27:28.000Z",
+            "date_published": "2023-12-11T19:23:13.000Z",
+            "author": {
+                "name": "rvizx",
+                "url": "https://github.com/rvizx"
             }
         },
         {
@@ -152,7 +152,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/98274489?u=f6188b54b8600cd7165d73a287174bc256c2d8c0&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>New exploit for admin access to QNAP OS (CVE-2023-50358)</div>",
             "url": "https://github.com/greandfather/CVE-2023-50358-POC",
             "title": "greandfather/CVE-2023-50358-POC: New exploit for admin access to QNAP OS (CVE-2023-50358)",
-            "date_modified": "2024-03-05T19:39:32.000Z",
+            "date_modified": "2024-03-07T11:08:18.000Z",
             "date_published": "2024-03-05T16:01:33.000Z",
             "author": {
                 "name": "greandfather",
