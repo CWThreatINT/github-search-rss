@@ -160,6 +160,17 @@
             }
         },
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/134310220?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Three go-exploits exploiting CVE-2023-22527 to execute arbitrary code in memory</div>",
+            "url": "https://github.com/vulncheck-oss/cve-2023-22527",
+            "title": "vulncheck-oss/cve-2023-22527: Three go-exploits exploiting CVE-2023-22527 to execute arbitrary code in memory",
+            "date_modified": "2024-03-08T09:38:08.000Z",
+            "date_published": "2024-03-04T19:09:57.000Z",
+            "author": {
+                "name": "vulncheck-oss",
+                "url": "https://github.com/vulncheck-oss"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/98274489?u=f6188b54b8600cd7165d73a287174bc256c2d8c0&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>New exploit for admin access to QNAP OS (CVE-2023-50358)</div>",
             "url": "https://github.com/greandfather/CVE-2023-50358-POC",
             "title": "greandfather/CVE-2023-50358-POC: New exploit for admin access to QNAP OS (CVE-2023-50358)",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "vulncheck-oss",
                 "url": "https://github.com/vulncheck-oss"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/42498816?u=08c4092e757fc2588b734e8e09e355493e9126e9&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>This repo is a PoC with to exploit CVE-2023-51467 and CVE-2023-49070 preauth RCE vulnerabilities found in Apache OFBiz.</div>",
-            "url": "https://github.com/jakabakos/Apache-OFBiz-Authentication-Bypass",
-            "title": "jakabakos/Apache-OFBiz-Authentication-Bypass: This repo is a PoC with to exploit CVE-2023-51467 and CVE-2023-49070 preauth RCE vulnerabilities found in Apache OFBiz.",
-            "date_modified": "2024-03-01T20:41:32.000Z",
-            "date_published": "2024-01-02T14:20:10.000Z",
-            "author": {
-                "name": "jakabakos",
-                "url": "https://github.com/jakabakos"
             }
         }
     ]
