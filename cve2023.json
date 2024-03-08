@@ -6,6 +6,17 @@
     "description": "CVE-2023 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/161883835?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div> A Remote Code Execution (RCE) vulnerability impacting Microsoft Exchange Server CVE-2023-21529 POC</div>",
+            "url": "https://github.com/tr1pl3ight/CVE-2023-21529-POC",
+            "title": "tr1pl3ight/CVE-2023-21529-POC:  A Remote Code Execution (RCE) vulnerability impacting Microsoft Exchange Server CVE-2023-21529 POC",
+            "date_modified": "2024-03-08T16:01:55.000Z",
+            "date_published": "2024-03-08T16:01:54.000Z",
+            "author": {
+                "name": "tr1pl3ight",
+                "url": "https://github.com/tr1pl3ight"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/18195825?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023</div>",
             "url": "https://github.com/CVEProject/cvelist",
             "title": "CVEProject/cvelist: Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023",
@@ -17,10 +28,32 @@
             }
         },
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/143857168?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div><a href=\"https://github.com/Phamchie/CVE-2023-3047\">https://github.com/Phamchie/CVE-2023-3047</a></div>",
+            "url": "https://github.com/Kimsovannareth/Phamchie",
+            "title": "Kimsovannareth/Phamchie: https://github.com/Phamchie/CVE-2023-3047",
+            "date_modified": "2024-03-08T15:33:54.000Z",
+            "date_published": "2024-03-08T15:20:25.000Z",
+            "author": {
+                "name": "Kimsovannareth",
+                "url": "https://github.com/Kimsovannareth"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/101872898?u=ff91a9355029d7341ab430bfc2802eb4d72f92d7&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2024-27198 &amp; CVE-2024-27199 Authentication Bypass --&gt; RCE in JetBrains TeamCity Pre-2023.11.4</div>",
+            "url": "https://github.com/W01fh4cker/CVE-2024-27198-RCE",
+            "title": "W01fh4cker/CVE-2024-27198-RCE: CVE-2024-27198 & CVE-2024-27199 Authentication Bypass --> RCE in JetBrains TeamCity Pre-2023.11.4",
+            "date_modified": "2024-03-08T15:58:58.000Z",
+            "date_published": "2024-03-06T03:15:03.000Z",
+            "author": {
+                "name": "W01fh4cker",
+                "url": "https://github.com/W01fh4cker"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/98274489?u=f6188b54b8600cd7165d73a287174bc256c2d8c0&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>EXPLOIT Roundcube vulnerability POC (CVE-2023-5631)</div>",
             "url": "https://github.com/greandfather/EXPLOIT-Roundcube-vulnerability-POC-CVE-2023-5631-",
             "title": "greandfather/EXPLOIT-Roundcube-vulnerability-POC-CVE-2023-5631-: EXPLOIT Roundcube vulnerability POC (CVE-2023-5631)",
-            "date_modified": "2024-03-08T15:00:41.000Z",
+            "date_modified": "2024-03-08T15:29:24.000Z",
             "date_published": "2024-03-08T14:50:50.000Z",
             "author": {
                 "name": "greandfather",
@@ -42,7 +75,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/97181079?u=cc8718dba3ebb018172b2d14b045a90e0d8772b7&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
             "url": "https://github.com/Phamchie/CVE-2023-3047",
             "title": "Phamchie/CVE-2023-3047",
-            "date_modified": "2024-03-07T16:25:30.000Z",
+            "date_modified": "2024-03-08T15:23:21.000Z",
             "date_published": "2024-03-07T14:46:22.000Z",
             "author": {
                 "name": "Phamchie",
@@ -160,17 +193,6 @@
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/101872898?u=ff91a9355029d7341ab430bfc2802eb4d72f92d7&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2024-27198 &amp; CVE-2024-27199 Authentication Bypass --&gt; RCE in JetBrains TeamCity Pre-2023.11.4</div>",
-            "url": "https://github.com/W01fh4cker/CVE-2024-27198-RCE",
-            "title": "W01fh4cker/CVE-2024-27198-RCE: CVE-2024-27198 & CVE-2024-27199 Authentication Bypass --> RCE in JetBrains TeamCity Pre-2023.11.4",
-            "date_modified": "2024-03-08T12:46:36.000Z",
-            "date_published": "2024-03-06T03:15:03.000Z",
-            "author": {
-                "name": "W01fh4cker",
-                "url": "https://github.com/W01fh4cker"
-            }
-        },
-        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/134310220?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Three go-exploits exploiting CVE-2023-22527 to execute arbitrary code in memory</div>",
             "url": "https://github.com/vulncheck-oss/cve-2023-22527",
             "title": "vulncheck-oss/cve-2023-22527: Three go-exploits exploiting CVE-2023-22527 to execute arbitrary code in memory",
@@ -185,7 +207,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/98274489?u=f6188b54b8600cd7165d73a287174bc256c2d8c0&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>New exploit for admin access to QNAP OS (CVE-2023-50358)</div>",
             "url": "https://github.com/greandfather/CVE-2023-50358-POC",
             "title": "greandfather/CVE-2023-50358-POC: New exploit for admin access to QNAP OS (CVE-2023-50358)",
-            "date_modified": "2024-03-08T14:59:56.000Z",
+            "date_modified": "2024-03-08T15:29:25.000Z",
             "date_published": "2024-03-05T16:01:33.000Z",
             "author": {
                 "name": "greandfather",
@@ -198,28 +220,6 @@
             "title": "ASR511-OO7/CVE-2023-41015",
             "date_modified": "2024-02-25T09:15:55.000Z",
             "date_published": "2024-02-25T09:15:54.000Z",
-            "author": {
-                "name": "ASR511-OO7",
-                "url": "https://github.com/ASR511-OO7"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/74178946?u=cd731dfbf396fbdd43b94a96cf284c808e7f63b8&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
-            "url": "https://github.com/ASR511-OO7/CVE-2023-41014",
-            "title": "ASR511-OO7/CVE-2023-41014",
-            "date_modified": "2024-02-25T09:16:50.000Z",
-            "date_published": "2024-02-25T09:16:50.000Z",
-            "author": {
-                "name": "ASR511-OO7",
-                "url": "https://github.com/ASR511-OO7"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/74178946?u=cd731dfbf396fbdd43b94a96cf284c808e7f63b8&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
-            "url": "https://github.com/ASR511-OO7/CVE-2023-33676",
-            "title": "ASR511-OO7/CVE-2023-33676",
-            "date_modified": "2024-02-25T09:18:38.000Z",
-            "date_published": "2024-02-25T09:18:38.000Z",
             "author": {
                 "name": "ASR511-OO7",
                 "url": "https://github.com/ASR511-OO7"
