@@ -6,6 +6,28 @@
     "description": "CVE-2023 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/1920339?u=9f8db2b59f0f51582438b3b1128d7c5f0859ecc0&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Demo showing Claude Opus does not find CVE-2023-0266</div>",
+            "url": "https://github.com/SeanHeelan/claude_opus_cve_2023_0266",
+            "title": "SeanHeelan/claude_opus_cve_2023_0266: Demo showing Claude Opus does not find CVE-2023-0266",
+            "date_modified": "2024-03-10T04:41:34.000Z",
+            "date_published": "2024-03-10T04:41:34.000Z",
+            "author": {
+                "name": "SeanHeelan",
+                "url": "https://github.com/SeanHeelan"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/162780018?u=1d13505546d650b37088ac81ed198e20f481211c&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
+            "url": "https://github.com/NewLockBit/CVE-2023-3824-PHP-to-RCE-LockBit-LEAK",
+            "title": "NewLockBit/CVE-2023-3824-PHP-to-RCE-LockBit-LEAK",
+            "date_modified": "2024-03-10T04:38:27.000Z",
+            "date_published": "2024-03-09T08:23:09.000Z",
+            "author": {
+                "name": "NewLockBit",
+                "url": "https://github.com/NewLockBit"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/151980876?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>TOP All bugbounty pentesting CVE-2023- POC Exp  RCE example payload  Things</div>",
             "url": "https://github.com/GhostTroops/TOP",
             "title": "GhostTroops/TOP: TOP All bugbounty pentesting CVE-2023- POC Exp  RCE example payload  Things",
@@ -33,17 +55,6 @@
             "title": "NewLockBit/Research-of-CVE-2023-3824-NCA-Lockbit: Research of CVE-2023-3824 (NCA - Lockbit)",
             "date_modified": "2024-03-09T09:08:11.000Z",
             "date_published": "2024-03-09T09:07:09.000Z",
-            "author": {
-                "name": "NewLockBit",
-                "url": "https://github.com/NewLockBit"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/162780018?u=1d13505546d650b37088ac81ed198e20f481211c&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
-            "url": "https://github.com/NewLockBit/CVE-2023-3824-PHP-to-RCE-National-Crime-AgencyLEAK",
-            "title": "NewLockBit/CVE-2023-3824-PHP-to-RCE-National-Crime-AgencyLEAK",
-            "date_modified": "2024-03-09T18:37:32.000Z",
-            "date_published": "2024-03-09T08:23:09.000Z",
             "author": {
                 "name": "NewLockBit",
                 "url": "https://github.com/NewLockBit"
@@ -212,17 +223,6 @@
             "author": {
                 "name": "ASR511-OO7",
                 "url": "https://github.com/ASR511-OO7"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/42498816?u=08c4092e757fc2588b734e8e09e355493e9126e9&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
-            "url": "https://github.com/jakabakos/CVE-2023-51448-cacti-sqli-poc",
-            "title": "jakabakos/CVE-2023-51448-cacti-sqli-poc",
-            "date_modified": "2024-03-06T12:30:05.000Z",
-            "date_published": "2024-03-06T11:23:11.000Z",
-            "author": {
-                "name": "jakabakos",
-                "url": "https://github.com/jakabakos"
             }
         }
     ]
