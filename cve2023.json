@@ -6,6 +6,28 @@
     "description": "CVE-2023 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/162304433?u=1567d2449e6ad83179182d9d2040d9503938b744&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2023-23752 Data Extractor</div>",
+            "url": "https://github.com/JohnDoeAnonITA/CVE-2023-23752",
+            "title": "JohnDoeAnonITA/CVE-2023-23752: CVE-2023-23752 Data Extractor",
+            "date_modified": "2024-03-12T10:59:56.000Z",
+            "date_published": "2024-03-12T10:59:10.000Z",
+            "author": {
+                "name": "JohnDoeAnonITA",
+                "url": "https://github.com/JohnDoeAnonITA"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/150698913?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A Tool For CVE-2023-49070/CVE-2023-51467 Attack</div>",
+            "url": "https://github.com/D0g3-8Bit/OFBiz-Attack",
+            "title": "D0g3-8Bit/OFBiz-Attack: A Tool For CVE-2023-49070/CVE-2023-51467 Attack",
+            "date_modified": "2024-02-27T01:29:10.000Z",
+            "date_published": "2024-01-04T12:31:49.000Z",
+            "author": {
+                "name": "D0g3-8Bit",
+                "url": "https://github.com/D0g3-8Bit"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/151980876?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>TOP All bugbounty pentesting CVE-2023- POC Exp  RCE example payload  Things</div>",
             "url": "https://github.com/GhostTroops/TOP",
             "title": "GhostTroops/TOP: TOP All bugbounty pentesting CVE-2023- POC Exp  RCE example payload  Things",
@@ -42,7 +64,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/101872898?u=ff91a9355029d7341ab430bfc2802eb4d72f92d7&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2024-27198 &amp; CVE-2024-27199 Authentication Bypass --&gt; RCE in JetBrains TeamCity Pre-2023.11.4</div>",
             "url": "https://github.com/W01fh4cker/CVE-2024-27198-RCE",
             "title": "W01fh4cker/CVE-2024-27198-RCE: CVE-2024-27198 & CVE-2024-27199 Authentication Bypass --> RCE in JetBrains TeamCity Pre-2023.11.4",
-            "date_modified": "2024-03-12T08:46:00.000Z",
+            "date_modified": "2024-03-12T10:52:30.000Z",
             "date_published": "2024-03-06T03:15:03.000Z",
             "author": {
                 "name": "W01fh4cker",
@@ -201,28 +223,6 @@
             "author": {
                 "name": "rvizx",
                 "url": "https://github.com/rvizx"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/83682793?u=3e71e6cd8d05ed49bbfeee045530a337abc9f822&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Openfire Console Authentication Bypass Vulnerability with RCE plugin</div>",
-            "url": "https://github.com/miko550/CVE-2023-32315",
-            "title": "miko550/CVE-2023-32315: Openfire Console Authentication Bypass Vulnerability with RCE plugin",
-            "date_modified": "2024-03-07T05:00:13.000Z",
-            "date_published": "2023-06-18T15:42:00.000Z",
-            "author": {
-                "name": "miko550",
-                "url": "https://github.com/miko550"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/160862061?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
-            "url": "https://github.com/hd3s5aa/CVE-2023-21674",
-            "title": "hd3s5aa/CVE-2023-21674",
-            "date_modified": "2024-03-12T07:14:02.000Z",
-            "date_published": "2024-03-07T05:43:48.000Z",
-            "author": {
-                "name": "hd3s5aa",
-                "url": "https://github.com/hd3s5aa"
             }
         }
     ]

@@ -6,6 +6,17 @@
     "description": "CVE-2021 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/9045562?u=1c0b7739bb2e529f845c1b1fec664379a6c0b72f&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Simple Java Front and Back end with bad log4j version featuring CVE-2021-44228</div>",
+            "url": "https://github.com/eurogig/jankybank",
+            "title": "eurogig/jankybank: Simple Java Front and Back end with bad log4j version featuring CVE-2021-44228",
+            "date_modified": "2022-08-25T21:37:58.000Z",
+            "date_published": "2022-08-25T21:35:32.000Z",
+            "author": {
+                "name": "eurogig",
+                "url": "https://github.com/eurogig"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/159681973?u=d4d67370595b19d8de516dd4ba70863f843a7944&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>历史漏洞的细节以及利用方法汇总收集</div>",
             "url": "https://github.com/OracleNep/Nday-Exploit-Plan",
             "title": "OracleNep/Nday-Exploit-Plan: 历史漏洞的细节以及利用方法汇总收集",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "kozmer",
                 "url": "https://github.com/kozmer"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/33582093?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
-            "url": "https://github.com/whoami-chmod777/CVE-2021-1675---PrintNightmare-LPE-PowerShell-",
-            "title": "whoami-chmod777/CVE-2021-1675---PrintNightmare-LPE-PowerShell-",
-            "date_modified": "2024-02-12T20:59:21.000Z",
-            "date_published": "2024-02-12T20:59:08.000Z",
-            "author": {
-                "name": "whoami-chmod777",
-                "url": "https://github.com/whoami-chmod777"
             }
         }
     ]
