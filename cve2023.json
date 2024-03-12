@@ -6,6 +6,17 @@
     "description": "CVE-2023 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/163009681?u=9bf4fa2551b7f2cc7a0e75ef9f20e446a8fc1120&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Exploit new CVE-2023-42789 Fortinet FortiOS FortiProxy ----&gt; RCE</div>",
+            "url": "https://github.com/CrimBit/CVE-2023-42789-POC",
+            "title": "CrimBit/CVE-2023-42789-POC: Exploit new CVE-2023-42789 Fortinet FortiOS FortiProxy ----> RCE",
+            "date_modified": "2024-03-12T17:11:21.000Z",
+            "date_published": "2024-03-12T16:44:50.000Z",
+            "author": {
+                "name": "CrimBit",
+                "url": "https://github.com/CrimBit"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/162304433?u=1567d2449e6ad83179182d9d2040d9503938b744&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2023-23752 Data Extractor</div>",
             "url": "https://github.com/JohnDoeAnonITA/CVE-2023-23752",
             "title": "JohnDoeAnonITA/CVE-2023-23752: CVE-2023-23752 Data Extractor",
@@ -14,17 +25,6 @@
             "author": {
                 "name": "JohnDoeAnonITA",
                 "url": "https://github.com/JohnDoeAnonITA"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/163009681?u=9bf4fa2551b7f2cc7a0e75ef9f20e446a8fc1120&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Exploit new CVE-2023-42789 Fortinet FortiOS FortiProxy ----&gt; RCE</div>",
-            "url": "https://github.com/CrimBit/CVE-2023-42789-POC",
-            "title": "CrimBit/CVE-2023-42789-POC: Exploit new CVE-2023-42789 Fortinet FortiOS FortiProxy ----> RCE",
-            "date_modified": "2024-03-12T16:44:50.000Z",
-            "date_published": "2024-03-12T16:44:50.000Z",
-            "author": {
-                "name": "CrimBit",
-                "url": "https://github.com/CrimBit"
             }
         },
         {
@@ -75,7 +75,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/101872898?u=ff91a9355029d7341ab430bfc2802eb4d72f92d7&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2024-27198 &amp; CVE-2024-27199 Authentication Bypass --&gt; RCE in JetBrains TeamCity Pre-2023.11.4</div>",
             "url": "https://github.com/W01fh4cker/CVE-2024-27198-RCE",
             "title": "W01fh4cker/CVE-2024-27198-RCE: CVE-2024-27198 & CVE-2024-27199 Authentication Bypass --> RCE in JetBrains TeamCity Pre-2023.11.4",
-            "date_modified": "2024-03-12T11:55:23.000Z",
+            "date_modified": "2024-03-12T17:42:51.000Z",
             "date_published": "2024-03-06T03:15:03.000Z",
             "author": {
                 "name": "W01fh4cker",
