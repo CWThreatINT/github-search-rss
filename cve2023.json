@@ -6,6 +6,17 @@
     "description": "CVE-2023 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/1218718?u=1accabb19bff9bbea64ae19586b1a0bdc05769da&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
+            "url": "https://github.com/TurtleARM/CVE-2023-0179-PoC",
+            "title": "TurtleARM/CVE-2023-0179-PoC",
+            "date_modified": "2024-02-04T01:53:17.000Z",
+            "date_published": "2023-01-21T01:02:01.000Z",
+            "author": {
+                "name": "TurtleARM",
+                "url": "https://github.com/TurtleARM"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/101872898?u=ff91a9355029d7341ab430bfc2802eb4d72f92d7&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2024-27198 &amp; CVE-2024-27199 Authentication Bypass --&gt; RCE in JetBrains TeamCity Pre-2023.11.4</div>",
             "url": "https://github.com/W01fh4cker/CVE-2024-27198-RCE",
             "title": "W01fh4cker/CVE-2024-27198-RCE: CVE-2024-27198 & CVE-2024-27199 Authentication Bypass --> RCE in JetBrains TeamCity Pre-2023.11.4",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "hd3s5aa",
                 "url": "https://github.com/hd3s5aa"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/30589235?u=d85bdf265e8cfa44fcc8d8199db8e6ef5f17ecf7&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
-            "url": "https://github.com/elpe-pinillo/CVE-2023-6246",
-            "title": "elpe-pinillo/CVE-2023-6246",
-            "date_modified": "2024-03-06T17:10:15.000Z",
-            "date_published": "2024-03-02T15:45:52.000Z",
-            "author": {
-                "name": "elpe-pinillo",
-                "url": "https://github.com/elpe-pinillo"
             }
         }
     ]
