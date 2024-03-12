@@ -17,6 +17,17 @@
             }
         },
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/163009681?u=9bf4fa2551b7f2cc7a0e75ef9f20e446a8fc1120&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Exploit new CVE-2023-42789 Fortinet FortiOS FortiProxy ----&gt; RCE</div>",
+            "url": "https://github.com/CrimBit/CVE-2023-42789-POC",
+            "title": "CrimBit/CVE-2023-42789-POC: Exploit new CVE-2023-42789 Fortinet FortiOS FortiProxy ----> RCE",
+            "date_modified": "2024-03-12T16:44:50.000Z",
+            "date_published": "2024-03-12T16:44:50.000Z",
+            "author": {
+                "name": "CrimBit",
+                "url": "https://github.com/CrimBit"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/150698913?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A Tool For CVE-2023-49070/CVE-2023-51467 Attack</div>",
             "url": "https://github.com/D0g3-8Bit/OFBiz-Attack",
             "title": "D0g3-8Bit/OFBiz-Attack: A Tool For CVE-2023-49070/CVE-2023-51467 Attack",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "0x1x02",
                 "url": "https://github.com/0x1x02"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/84989569?u=b027e9a8785b58ab40097521d634b7ebf24aa3e7&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Unauthenticated RCE in ZoneMinder Snapshots - Poc Exploit</div>",
-            "url": "https://github.com/rvizx/CVE-2023-26035",
-            "title": "rvizx/CVE-2023-26035: Unauthenticated RCE in ZoneMinder Snapshots - Poc Exploit",
-            "date_modified": "2024-03-03T13:27:28.000Z",
-            "date_published": "2023-12-11T19:23:13.000Z",
-            "author": {
-                "name": "rvizx",
-                "url": "https://github.com/rvizx"
             }
         }
     ]
