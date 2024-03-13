@@ -6,6 +6,50 @@
     "description": "CVE-2023 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/163320335?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Microsoft Windows HTA (HTML Application) - Pinnacle of Remote Code Execution</div>",
+            "url": "https://github.com/Makaroshi/Hta-Exploit-Builder-Slient-Builder-Exploit-Database-Cve-2023-Malware",
+            "title": "Makaroshi/Hta-Exploit-Builder-Slient-Builder-Exploit-Database-Cve-2023-Malware: Microsoft Windows HTA (HTML Application) - Pinnacle of Remote Code Execution",
+            "date_modified": "2024-03-13T15:00:52.000Z",
+            "date_published": "2024-03-13T14:51:15.000Z",
+            "author": {
+                "name": "Makaroshi",
+                "url": "https://github.com/Makaroshi"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/163320335?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>URL Contamination Exploit Muted Java Drive-By downloads can transpire during the act of perusing a website, inaugurating an electronic mail communication.</div>",
+            "url": "https://github.com/Makaroshi/Slient-Url-Exploit-Slient-Builder-Exploit-Database-Cve-2023-Malware",
+            "title": "Makaroshi/Slient-Url-Exploit-Slient-Builder-Exploit-Database-Cve-2023-Malware: URL Contamination Exploit Muted Java Drive-By downloads can transpire during the act of perusing a website, inaugurating an electronic mail communication.",
+            "date_modified": "2024-03-13T15:00:44.000Z",
+            "date_published": "2024-03-13T14:51:15.000Z",
+            "author": {
+                "name": "Makaroshi",
+                "url": "https://github.com/Makaroshi"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/163320335?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A meticulous scrutiny of the Exploit PDFs innards exposes a network of malevolence, unveiling both the nefarious hyperlink and the URL that precipitates</div>",
+            "url": "https://github.com/Makaroshi/Slient-PDF-FUD-Exploit-Slient-Builder-Exploit-Database-Cve-2023-Malware",
+            "title": "Makaroshi/Slient-PDF-FUD-Exploit-Slient-Builder-Exploit-Database-Cve-2023-Malware: A meticulous scrutiny of the Exploit PDFs innards exposes a network of malevolence, unveiling both the nefarious hyperlink and the URL that precipitates",
+            "date_modified": "2024-03-13T15:00:48.000Z",
+            "date_published": "2024-03-13T14:51:15.000Z",
+            "author": {
+                "name": "Makaroshi",
+                "url": "https://github.com/Makaroshi"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/163320335?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>In the hushed galleries of the Silent JPG Exploit, a symphony shrouded in enigma unfurls—an opus named silent-jpg-exploit-2018—a title that reverberates through the annals of intrigue.</div>",
+            "url": "https://github.com/Makaroshi/Jpg-Png-Exploit-Slient-Builder-Exploit-Database-Cve-2023-Malware",
+            "title": "Makaroshi/Jpg-Png-Exploit-Slient-Builder-Exploit-Database-Cve-2023-Malware: In the hushed galleries of the Silent JPG Exploit, a symphony shrouded in enigma unfurls—an opus named silent-jpg-exploit-2018—a title that reverberates through the annals of intrigue.",
+            "date_modified": "2024-03-13T15:00:51.000Z",
+            "date_published": "2024-03-13T14:51:15.000Z",
+            "author": {
+                "name": "Makaroshi",
+                "url": "https://github.com/Makaroshi"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/163309497?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>New exploit for Fortinet's [CVE-2023-48788] to SQL injection in HTTP reqs.</div>",
             "url": "https://github.com/CVETechnologic/CVE-2023-48788-Proof-of-concept-SQLinj",
             "title": "CVETechnologic/CVE-2023-48788-Proof-of-concept-SQLinj: New exploit for Fortinet's [CVE-2023-48788] to SQL injection in HTTP reqs.",
@@ -179,50 +223,6 @@
             "author": {
                 "name": "Decemberus",
                 "url": "https://github.com/Decemberus"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/98274489?u=f6188b54b8600cd7165d73a287174bc256c2d8c0&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Exploit CVE-2023-45318-POC  Weston Embedded uC-HTTP git commit 80d4004 ---&gt; RCE</div>",
-            "url": "https://github.com/greandfather/CVE-2023-50358-POC-RCE",
-            "title": "greandfather/CVE-2023-50358-POC-RCE: Exploit CVE-2023-45318-POC  Weston Embedded uC-HTTP git commit 80d4004 ---> RCE",
-            "date_modified": "2024-03-12T09:11:24.000Z",
-            "date_published": "2024-03-08T21:23:16.000Z",
-            "author": {
-                "name": "greandfather",
-                "url": "https://github.com/greandfather"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/98274489?u=f6188b54b8600cd7165d73a287174bc256c2d8c0&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>New exploit for admin access to QNAP OS (CVE-2023-50358)</div>",
-            "url": "https://github.com/greandfather/CVE-2023-50358-POC",
-            "title": "greandfather/CVE-2023-50358-POC: New exploit for admin access to QNAP OS (CVE-2023-50358)",
-            "date_modified": "2024-03-12T09:11:24.000Z",
-            "date_published": "2024-03-05T16:01:33.000Z",
-            "author": {
-                "name": "greandfather",
-                "url": "https://github.com/greandfather"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/143857168?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div><a href=\"https://github.com/Phamchie/CVE-2023-3047\">https://github.com/Phamchie/CVE-2023-3047</a></div>",
-            "url": "https://github.com/Kimsovannareth/Phamchie",
-            "title": "Kimsovannareth/Phamchie: https://github.com/Phamchie/CVE-2023-3047",
-            "date_modified": "2024-03-08T15:33:54.000Z",
-            "date_published": "2024-03-08T15:20:25.000Z",
-            "author": {
-                "name": "Kimsovannareth",
-                "url": "https://github.com/Kimsovannareth"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/98274489?u=f6188b54b8600cd7165d73a287174bc256c2d8c0&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>EXPLOIT Roundcube vulnerability POC (CVE-2023-5631)</div>",
-            "url": "https://github.com/greandfather/EXPLOIT-Roundcube-vulnerability-POC-CVE-2023-5631-",
-            "title": "greandfather/EXPLOIT-Roundcube-vulnerability-POC-CVE-2023-5631-: EXPLOIT Roundcube vulnerability POC (CVE-2023-5631)",
-            "date_modified": "2024-03-12T09:11:24.000Z",
-            "date_published": "2024-03-08T14:50:50.000Z",
-            "author": {
-                "name": "greandfather",
-                "url": "https://github.com/greandfather"
             }
         }
     ]
