@@ -6,6 +6,17 @@
     "description": "CVE-2021 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/21672558?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
+            "url": "https://github.com/corelight/CVE-2021-38647-noimages",
+            "title": "corelight/CVE-2021-38647-noimages",
+            "date_modified": "2024-03-13T20:05:25.000Z",
+            "date_published": "2024-03-13T20:05:11.000Z",
+            "author": {
+                "name": "corelight",
+                "url": "https://github.com/corelight"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/9045562?u=1c0b7739bb2e529f845c1b1fec664379a6c0b72f&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Simple Java Front and Back end with bad log4j version featuring CVE-2021-44228</div>",
             "url": "https://github.com/eurogig/jankybank",
             "title": "eurogig/jankybank: Simple Java Front and Back end with bad log4j version featuring CVE-2021-44228",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "azazelm3dj3d",
                 "url": "https://github.com/azazelm3dj3d"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/87979263?u=dd7f23490c7b9d1bd1dca84ccaf723402debf769&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A Proof-Of-Concept for the CVE-2021-44228 vulnerability. </div>",
-            "url": "https://github.com/kozmer/log4j-shell-poc",
-            "title": "kozmer/log4j-shell-poc: A Proof-Of-Concept for the CVE-2021-44228 vulnerability. ",
-            "date_modified": "2024-03-13T02:27:56.000Z",
-            "date_published": "2021-12-10T23:19:28.000Z",
-            "author": {
-                "name": "kozmer",
-                "url": "https://github.com/kozmer"
             }
         }
     ]
