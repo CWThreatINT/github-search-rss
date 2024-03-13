@@ -6,6 +6,17 @@
     "description": "CVE-2023 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/163320335?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>URL Contamination Exploit Muted Java Drive-By downloads can transpire during the act of perusing a website, inaugurating an electronic mail communication.</div>",
+            "url": "https://github.com/Makaroshi/Slient-Url-Exploit-Slient-Builder-Exploit-Database-Cve-2023-Malware",
+            "title": "Makaroshi/Slient-Url-Exploit-Slient-Builder-Exploit-Database-Cve-2023-Malware: URL Contamination Exploit Muted Java Drive-By downloads can transpire during the act of perusing a website, inaugurating an electronic mail communication.",
+            "date_modified": "2024-03-13T15:00:44.000Z",
+            "date_published": "2024-03-13T14:51:15.000Z",
+            "author": {
+                "name": "Makaroshi",
+                "url": "https://github.com/Makaroshi"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/163320335?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Microsoft Windows HTA (HTML Application) - Pinnacle of Remote Code Execution</div>",
             "url": "https://github.com/Makaroshi/Hta-Exploit-Builder-Slient-Builder-Exploit-Database-Cve-2023-Malware",
             "title": "Makaroshi/Hta-Exploit-Builder-Slient-Builder-Exploit-Database-Cve-2023-Malware: Microsoft Windows HTA (HTML Application) - Pinnacle of Remote Code Execution",
@@ -39,14 +50,14 @@
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/163320335?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>URL Contamination Exploit Muted Java Drive-By downloads can transpire during the act of perusing a website, inaugurating an electronic mail communication.</div>",
-            "url": "https://github.com/Makaroshi/Slient-Url-Exploit-Slient-Builder-Exploit-Database-Cve-2023-Malware",
-            "title": "Makaroshi/Slient-Url-Exploit-Slient-Builder-Exploit-Database-Cve-2023-Malware: URL Contamination Exploit Muted Java Drive-By downloads can transpire during the act of perusing a website, inaugurating an electronic mail communication.",
-            "date_modified": "2024-03-13T15:00:44.000Z",
-            "date_published": "2024-03-13T14:51:15.000Z",
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/163009681?u=9bf4fa2551b7f2cc7a0e75ef9f20e446a8fc1120&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Exploit new CVE-2023-42789 Fortinet FortiOS FortiProxy ----&gt; RCE</div>",
+            "url": "https://github.com/CrimBit/CVE-2023-42789-POC",
+            "title": "CrimBit/CVE-2023-42789-POC: Exploit new CVE-2023-42789 Fortinet FortiOS FortiProxy ----> RCE",
+            "date_modified": "2024-03-13T21:29:07.000Z",
+            "date_published": "2024-03-12T16:44:50.000Z",
             "author": {
-                "name": "Makaroshi",
-                "url": "https://github.com/Makaroshi"
+                "name": "CrimBit",
+                "url": "https://github.com/CrimBit"
             }
         },
         {
@@ -113,17 +124,6 @@
             "author": {
                 "name": "GhostTroops",
                 "url": "https://github.com/GhostTroops"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/163009681?u=9bf4fa2551b7f2cc7a0e75ef9f20e446a8fc1120&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Exploit new CVE-2023-42789 Fortinet FortiOS FortiProxy ----&gt; RCE</div>",
-            "url": "https://github.com/CrimBit/CVE-2023-42789-POC",
-            "title": "CrimBit/CVE-2023-42789-POC: Exploit new CVE-2023-42789 Fortinet FortiOS FortiProxy ----> RCE",
-            "date_modified": "2024-03-12T19:47:14.000Z",
-            "date_published": "2024-03-12T16:44:50.000Z",
-            "author": {
-                "name": "CrimBit",
-                "url": "https://github.com/CrimBit"
             }
         },
         {
