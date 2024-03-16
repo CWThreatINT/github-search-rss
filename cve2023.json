@@ -39,6 +39,17 @@
             }
         },
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/148828596?u=5935f93cc10ed061f2cc5dddff98db152f713fbd&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>PoC for CVE-2023-4911</div>",
+            "url": "https://github.com/xem6/CVE-2023-4911",
+            "title": "xem6/CVE-2023-4911: PoC for CVE-2023-4911",
+            "date_modified": "2024-03-16T22:54:40.000Z",
+            "date_published": "2024-03-16T22:49:06.000Z",
+            "author": {
+                "name": "xem6",
+                "url": "https://github.com/xem6"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/163320335?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Microsoft Windows HTA (HTML Application) - Pinnacle of Remote Code Execution</div>",
             "url": "https://github.com/Makaroshi/Hta-Exploit-Builder-Slient-Builder-Exploit-Database-Cve-2023-Malware",
             "title": "Makaroshi/Hta-Exploit-Builder-Slient-Builder-Exploit-Database-Cve-2023-Malware: Microsoft Windows HTA (HTML Application) - Pinnacle of Remote Code Execution",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "yoryio",
                 "url": "https://github.com/yoryio"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/163474759?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2023-48788 is a SQLi vulnerability which leads to unauthenticated remote code executing in fortinet's FortiClientEMS.</div>",
-            "url": "https://github.com/k4rd3n/CVE-2023-48788-PoC",
-            "title": "k4rd3n/CVE-2023-48788-PoC: CVE-2023-48788 is a SQLi vulnerability which leads to unauthenticated remote code executing in fortinet's FortiClientEMS.",
-            "date_modified": "2024-03-15T02:14:41.000Z",
-            "date_published": "2024-03-15T02:14:41.000Z",
-            "author": {
-                "name": "k4rd3n",
-                "url": "https://github.com/k4rd3n"
             }
         }
     ]
