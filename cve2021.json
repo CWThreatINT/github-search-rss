@@ -6,6 +6,17 @@
     "description": "CVE-2021 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/2387841?u=082c1655d763023ea65049680617a2af381c6b50&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Tool that runs a test to check whether one of your applications is affected by the recent vulnerabilities in log4j: CVE-2021-44228 and CVE-2021-45046</div>",
+            "url": "https://github.com/alexbakker/log4shell-tools",
+            "title": "alexbakker/log4shell-tools: Tool that runs a test to check whether one of your applications is affected by the recent vulnerabilities in log4j: CVE-2021-44228 and CVE-2021-45046",
+            "date_modified": "2024-02-19T09:59:39.000Z",
+            "date_published": "2021-12-13T21:47:41.000Z",
+            "author": {
+                "name": "alexbakker",
+                "url": "https://github.com/alexbakker"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/159681973?u=d4d67370595b19d8de516dd4ba70863f843a7944&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>历史漏洞的细节以及利用方法汇总收集</div>",
             "url": "https://github.com/OracleNep/Nday-Exploit-Plan",
             "title": "OracleNep/Nday-Exploit-Plan: 历史漏洞的细节以及利用方法汇总收集",
@@ -209,17 +220,6 @@
             "title": "mbadanoiu/CVE-2021-46366: CVE-2021-46366: Credential Bruteforce Attack via CSRF + Open Redirect in Magnolia CMS",
             "date_modified": "2024-02-13T21:25:46.000Z",
             "date_published": "2024-02-13T21:09:53.000Z",
-            "author": {
-                "name": "mbadanoiu",
-                "url": "https://github.com/mbadanoiu"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/18383407?u=c9d1276bd9ccb8b06b724c3057b1ef683fa81de7&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2021-46365: Unsafe XML Parsing in Magnolia CMS</div>",
-            "url": "https://github.com/mbadanoiu/CVE-2021-46365",
-            "title": "mbadanoiu/CVE-2021-46365: CVE-2021-46365: Unsafe XML Parsing in Magnolia CMS",
-            "date_modified": "2024-02-13T21:05:16.000Z",
-            "date_published": "2024-02-13T20:52:49.000Z",
             "author": {
                 "name": "mbadanoiu",
                 "url": "https://github.com/mbadanoiu"
