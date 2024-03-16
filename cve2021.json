@@ -17,6 +17,17 @@
             }
         },
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/79218792?u=f6b0f27134df6083787490cfcd2ccfdbd5eb70d6&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Exploit tool for CVE-2021-43008 Adminer 1.0 up to 4.6.2 Arbitrary File Read vulnerability </div>",
+            "url": "https://github.com/p0dalirius/CVE-2021-43008-AdminerRead",
+            "title": "p0dalirius/CVE-2021-43008-AdminerRead: Exploit tool for CVE-2021-43008 Adminer 1.0 up to 4.6.2 Arbitrary File Read vulnerability ",
+            "date_modified": "2024-01-08T18:05:40.000Z",
+            "date_published": "2021-12-13T17:26:49.000Z",
+            "author": {
+                "name": "p0dalirius",
+                "url": "https://github.com/p0dalirius"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/16015720?u=402a88a6811ebab0c2cd643b59fddd440154d23e&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>This is a potentially vulnerable Java web application containing Log4j affected by log4shell(CVE-2021-44228).</div>",
             "url": "https://github.com/KtokKawu/l4s-vulnapp",
             "title": "KtokKawu/l4s-vulnapp: This is a potentially vulnerable Java web application containing Log4j affected by log4shell(CVE-2021-44228).",
@@ -209,17 +220,6 @@
             "title": "mbadanoiu/CVE-2021-46365: CVE-2021-46365: Unsafe XML Parsing in Magnolia CMS",
             "date_modified": "2024-02-13T21:05:16.000Z",
             "date_published": "2024-02-13T20:52:49.000Z",
-            "author": {
-                "name": "mbadanoiu",
-                "url": "https://github.com/mbadanoiu"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/18383407?u=c9d1276bd9ccb8b06b724c3057b1ef683fa81de7&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2021-46363: Formula Injection in Magnolia CMS</div>",
-            "url": "https://github.com/mbadanoiu/CVE-2021-46363",
-            "title": "mbadanoiu/CVE-2021-46363: CVE-2021-46363: Formula Injection in Magnolia CMS",
-            "date_modified": "2024-02-13T20:50:51.000Z",
-            "date_published": "2024-02-13T20:36:24.000Z",
             "author": {
                 "name": "mbadanoiu",
                 "url": "https://github.com/mbadanoiu"
