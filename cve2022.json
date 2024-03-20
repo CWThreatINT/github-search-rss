@@ -6,6 +6,17 @@
     "description": "CVE-2022 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/89225495?u=e1a88b97d179bc81cc189332f4c7aedb6d316e4c&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
+            "url": "https://github.com/Vulnpire/CVE-2022-0412",
+            "title": "Vulnpire/CVE-2022-0412",
+            "date_modified": "2024-03-20T22:43:34.000Z",
+            "date_published": "2024-03-20T22:22:51.000Z",
+            "author": {
+                "name": "Vulnpire",
+                "url": "https://github.com/Vulnpire"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/62849592?u=a52d88d4bcff2a1dc78ff7ff04b315fa675a9900&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Exploit I discovered in October of 2022 with androids Package manager binary (pm) and the way it handled debugging flags, patched out by march 2023. Uses CVE-2019-16253 as a payload to obtain a system shell. </div>",
             "url": "https://github.com/k0mraid3/K0mraid3s-System-Shell-PREBUILT",
             "title": "k0mraid3/K0mraid3s-System-Shell-PREBUILT: Exploit I discovered in October of 2022 with androids Package manager binary (pm) and the way it handled debugging flags, patched out by march 2023. Uses CVE-2019-16253 as a payload to obtain a system shell. ",
@@ -209,17 +220,6 @@
             "title": "ASR511-OO7/CVE-2022-46091",
             "date_modified": "2024-02-25T09:23:02.000Z",
             "date_published": "2024-02-25T09:23:01.000Z",
-            "author": {
-                "name": "ASR511-OO7",
-                "url": "https://github.com/ASR511-OO7"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/74178946?u=cd731dfbf396fbdd43b94a96cf284c808e7f63b8&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
-            "url": "https://github.com/ASR511-OO7/CVE-2022-46089",
-            "title": "ASR511-OO7/CVE-2022-46089",
-            "date_modified": "2024-02-25T09:23:52.000Z",
-            "date_published": "2024-02-25T09:23:52.000Z",
             "author": {
                 "name": "ASR511-OO7",
                 "url": "https://github.com/ASR511-OO7"
