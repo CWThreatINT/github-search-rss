@@ -6,6 +6,17 @@
     "description": "CVE-2021 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/106396603?u=2272fe22f83fcf0ba29685319ba57d148b607e4c&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>roof of Concept (PoC) exploit for CVE-2021-31630, targeting the OpenPLC service running on the WifineticTwo box on the Hack The Box platform.</div>",
+            "url": "https://github.com/Hunt3r0x/CVE-2021-31630-HTB",
+            "title": "Hunt3r0x/CVE-2021-31630-HTB: roof of Concept (PoC) exploit for CVE-2021-31630, targeting the OpenPLC service running on the WifineticTwo box on the Hack The Box platform.",
+            "date_modified": "2024-03-20T22:04:28.000Z",
+            "date_published": "2024-03-20T22:02:53.000Z",
+            "author": {
+                "name": "Hunt3r0x",
+                "url": "https://github.com/Hunt3r0x"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/80827394?u=8f95b9af5bd401ed946457259b8eb50f3e937d00&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2021-3129 Exploit Checker By ./MrMad</div>",
             "url": "https://github.com/MadExploits/Laravel-debug-Checker",
             "title": "MadExploits/Laravel-debug-Checker: CVE-2021-3129 Exploit Checker By ./MrMad",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "fasanhlieu",
                 "url": "https://github.com/fasanhlieu"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/39155974?u=2ecd5d7ba0c390c02bd2f4fb31433e7793cf8ee5&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>JumpServer 堡垒机未授权综合漏洞利用, Exploit for CVE-2023-42442 / CVE-2023-42820 / RCE 2021</div>",
-            "url": "https://github.com/tarihub/blackjump",
-            "title": "tarihub/blackjump: JumpServer 堡垒机未授权综合漏洞利用, Exploit for CVE-2023-42442 / CVE-2023-42820 / RCE 2021",
-            "date_modified": "2024-03-20T02:18:47.000Z",
-            "date_published": "2023-10-14T09:35:07.000Z",
-            "author": {
-                "name": "tarihub",
-                "url": "https://github.com/tarihub"
             }
         }
     ]
