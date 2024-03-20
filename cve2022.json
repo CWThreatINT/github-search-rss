@@ -6,6 +6,17 @@
     "description": "CVE-2022 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/62849592?u=a52d88d4bcff2a1dc78ff7ff04b315fa675a9900&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Exploit I discovered in October of 2022 with androids Package manager binary (pm) and the way it handled debugging flags, patched out by march 2023. Uses CVE-2019-16253 as a payload to obtain a system shell. </div>",
+            "url": "https://github.com/k0mraid3/K0mraid3s-System-Shell-PREBUILT",
+            "title": "k0mraid3/K0mraid3s-System-Shell-PREBUILT: Exploit I discovered in October of 2022 with androids Package manager binary (pm) and the way it handled debugging flags, patched out by march 2023. Uses CVE-2019-16253 as a payload to obtain a system shell. ",
+            "date_modified": "2024-03-20T19:13:50.000Z",
+            "date_published": "2023-01-19T19:47:13.000Z",
+            "author": {
+                "name": "k0mraid3",
+                "url": "https://github.com/k0mraid3"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/159681973?u=d4d67370595b19d8de516dd4ba70863f843a7944&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>历史漏洞的细节以及利用方法汇总收集</div>",
             "url": "https://github.com/OracleNep/Nday-Exploit-Plan",
             "title": "OracleNep/Nday-Exploit-Plan: 历史漏洞的细节以及利用方法汇总收集",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "ASR511-OO7",
                 "url": "https://github.com/ASR511-OO7"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/72358603?u=cd563dfb5041405499469b04abfa1d6be8ede398&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Atlassian Confluence (CVE-2022-26134) - Unauthenticated Remote code execution (RCE)</div>",
-            "url": "https://github.com/nxtexploit/CVE-2022-26134",
-            "title": "nxtexploit/CVE-2022-26134: Atlassian Confluence (CVE-2022-26134) - Unauthenticated Remote code execution (RCE)",
-            "date_modified": "2024-03-20T15:27:00.000Z",
-            "date_published": "2022-07-05T04:30:42.000Z",
-            "author": {
-                "name": "nxtexploit",
-                "url": "https://github.com/nxtexploit"
             }
         }
     ]
