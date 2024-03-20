@@ -6,6 +6,17 @@
     "description": "CVE-2021 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/80827394?u=8f95b9af5bd401ed946457259b8eb50f3e937d00&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2021-3129 Exploit Checker By ./MrMad</div>",
+            "url": "https://github.com/MadExploits/Laravel-debug-Checker",
+            "title": "MadExploits/Laravel-debug-Checker: CVE-2021-3129 Exploit Checker By ./MrMad",
+            "date_modified": "2024-03-01T23:09:57.000Z",
+            "date_published": "2022-12-10T03:32:34.000Z",
+            "author": {
+                "name": "MadExploits",
+                "url": "https://github.com/MadExploits"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/106772368?u=f46a99713b05334e4443c804d113e5ca1c3bee3e&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Instructions for exploiting vulnerabilities CVE-2021-44228 and CVE-2023-46604</div>",
             "url": "https://github.com/dcm2406/CVE-Lab",
             "title": "dcm2406/CVE-Lab: Instructions for exploiting vulnerabilities CVE-2021-44228 and CVE-2023-46604",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "tarihub",
                 "url": "https://github.com/tarihub"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/18383407?u=c9d1276bd9ccb8b06b724c3057b1ef683fa81de7&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2021-46361: FreeMarker Restriction Bypass in Magnolia CMS</div>",
-            "url": "https://github.com/mbadanoiu/CVE-2021-46361",
-            "title": "mbadanoiu/CVE-2021-46361: CVE-2021-46361: FreeMarker Restriction Bypass in Magnolia CMS",
-            "date_modified": "2024-02-17T11:44:00.000Z",
-            "date_published": "2024-02-16T20:36:32.000Z",
-            "author": {
-                "name": "mbadanoiu",
-                "url": "https://github.com/mbadanoiu"
             }
         }
     ]
