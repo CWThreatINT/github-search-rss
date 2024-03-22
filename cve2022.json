@@ -6,6 +6,17 @@
     "description": "CVE-2022 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/140549630?u=5a5ff4b736ba22cafd1ddebe4dcc4786b0069d02&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2022-23093 FreeBSD Stack-Based Overflow</div>",
+            "url": "https://github.com/Symbolexe/DrayTek-Exploit",
+            "title": "Symbolexe/DrayTek-Exploit: CVE-2022-23093 FreeBSD Stack-Based Overflow",
+            "date_modified": "2024-03-22T08:46:36.000Z",
+            "date_published": "2024-03-22T08:38:40.000Z",
+            "author": {
+                "name": "Symbolexe",
+                "url": "https://github.com/Symbolexe"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/159681973?u=d4d67370595b19d8de516dd4ba70863f843a7944&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>历史漏洞的细节以及利用方法汇总收集</div>",
             "url": "https://github.com/OracleNep/Nday-Exploit-Plan",
             "title": "OracleNep/Nday-Exploit-Plan: 历史漏洞的细节以及利用方法汇总收集",
@@ -209,17 +220,6 @@
             "title": "ASR511-OO7/CVE-2022-46091",
             "date_modified": "2024-02-25T09:23:02.000Z",
             "date_published": "2024-02-25T09:23:01.000Z",
-            "author": {
-                "name": "ASR511-OO7",
-                "url": "https://github.com/ASR511-OO7"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/74178946?u=cd731dfbf396fbdd43b94a96cf284c808e7f63b8&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
-            "url": "https://github.com/ASR511-OO7/CVE-2022-46089",
-            "title": "ASR511-OO7/CVE-2022-46089",
-            "date_modified": "2024-02-25T09:23:52.000Z",
-            "date_published": "2024-02-25T09:23:52.000Z",
             "author": {
                 "name": "ASR511-OO7",
                 "url": "https://github.com/ASR511-OO7"
