@@ -6,6 +6,17 @@
     "description": "CVE-2021 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/162085019?u=14da4513b66b5efcdf5b250a3b778fd55ad3ba3b&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE Json Files - 2010, 2012, 2018, 2021 and 2022</div>",
+            "url": "https://github.com/NaInSec/CVE-1012182122-JSON",
+            "title": "NaInSec/CVE-1012182122-JSON: CVE Json Files - 2010, 2012, 2018, 2021 and 2022",
+            "date_modified": "2024-03-22T14:38:30.000Z",
+            "date_published": "2024-03-22T14:36:24.000Z",
+            "author": {
+                "name": "NaInSec",
+                "url": "https://github.com/NaInSec"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/106396603?u=2272fe22f83fcf0ba29685319ba57d148b607e4c&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>proof of Concept (PoC) exploit for CVE-2021-31630, targeting the OpenPLC service running on the WifineticTwo box on the Hack The Box platform.</div>",
             "url": "https://github.com/Hunt3r0x/CVE-2021-31630-HTB",
             "title": "Hunt3r0x/CVE-2021-31630-HTB: proof of Concept (PoC) exploit for CVE-2021-31630, targeting the OpenPLC service running on the WifineticTwo box on the Hack The Box platform.",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "winnpixie",
                 "url": "https://github.com/winnpixie"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/67317571?u=a09c3feb6538d1a7f8a5f2d2a62a838ab0d22ed6&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>This repository contains all gathered resources we used during our Incident Reponse on CVE-2021-44228 and CVE-2021-45046 aka Log4Shell.</div>",
-            "url": "https://github.com/0xsyr0/Log4Shell",
-            "title": "0xsyr0/Log4Shell: This repository contains all gathered resources we used during our Incident Reponse on CVE-2021-44228 and CVE-2021-45046 aka Log4Shell.",
-            "date_modified": "2024-01-17T16:03:44.000Z",
-            "date_published": "2021-12-13T11:34:54.000Z",
-            "author": {
-                "name": "0xsyr0",
-                "url": "https://github.com/0xsyr0"
             }
         }
     ]
