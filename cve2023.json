@@ -6,6 +6,17 @@
     "description": "CVE-2023 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/163320335?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>URL Contamination Exploit Muted Java Drive-By downloads can transpire during the act of perusing a website, inaugurating an electronic mail communication.</div>",
+            "url": "https://github.com/Makaroshi/Slient-Url-Exploit-Slient-Builder-Exploit-Database-Cve-2023-Malware",
+            "title": "Makaroshi/Slient-Url-Exploit-Slient-Builder-Exploit-Database-Cve-2023-Malware: URL Contamination Exploit Muted Java Drive-By downloads can transpire during the act of perusing a website, inaugurating an electronic mail communication.",
+            "date_modified": "2024-03-13T15:00:44.000Z",
+            "date_published": "2024-03-13T14:51:15.000Z",
+            "author": {
+                "name": "Makaroshi",
+                "url": "https://github.com/Makaroshi"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/163320335?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Microsoft Windows HTA (HTML Application) - Pinnacle of Remote Code Execution</div>",
             "url": "https://github.com/Makaroshi/Hta-Exploit-Builder-Slient-Builder-Exploit-Database-Cve-2023-Malware",
             "title": "Makaroshi/Hta-Exploit-Builder-Slient-Builder-Exploit-Database-Cve-2023-Malware: Microsoft Windows HTA (HTML Application) - Pinnacle of Remote Code Execution",
@@ -32,17 +43,6 @@
             "url": "https://github.com/Makaroshi/Slient-PDF-FUD-Exploit-Slient-Builder-Exploit-Database-Cve-2023-Malware",
             "title": "Makaroshi/Slient-PDF-FUD-Exploit-Slient-Builder-Exploit-Database-Cve-2023-Malware: A meticulous scrutiny of the Exploit PDFs innards exposes a network of malevolence, unveiling both the nefarious hyperlink and the URL that precipitates",
             "date_modified": "2024-03-13T15:00:48.000Z",
-            "date_published": "2024-03-13T14:51:15.000Z",
-            "author": {
-                "name": "Makaroshi",
-                "url": "https://github.com/Makaroshi"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/163320335?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>URL Contamination Exploit Muted Java Drive-By downloads can transpire during the act of perusing a website, inaugurating an electronic mail communication.</div>",
-            "url": "https://github.com/Makaroshi/Slient-Url-Exploit-Slient-Builder-Exploit-Database-Cve-2023-Malware",
-            "title": "Makaroshi/Slient-Url-Exploit-Slient-Builder-Exploit-Database-Cve-2023-Malware: URL Contamination Exploit Muted Java Drive-By downloads can transpire during the act of perusing a website, inaugurating an electronic mail communication.",
-            "date_modified": "2024-03-13T15:00:44.000Z",
             "date_published": "2024-03-13T14:51:15.000Z",
             "author": {
                 "name": "Makaroshi",
@@ -127,21 +127,10 @@
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/163309497?u=6b2334272212d9cd8de8c60643c351b3230c4ba4&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2023-48788 PoC SQLi----&gt; RCE</div>",
-            "url": "https://github.com/CVETechnologic/CVE-2023-48788-Proof-of-concept-SQLinj",
-            "title": "CVETechnologic/CVE-2023-48788-Proof-of-concept-SQLinj: CVE-2023-48788 PoC SQLi----> RCE",
-            "date_modified": "2024-03-22T19:18:49.000Z",
-            "date_published": "2024-03-22T19:06:35.000Z",
-            "author": {
-                "name": "CVETechnologic",
-                "url": "https://github.com/CVETechnologic"
-            }
-        },
-        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/18348468?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Windows Kernel Pool (clfs.sys) Corruption Privilege Escalation</div>",
             "url": "https://github.com/Nassim-Asrir/CVE-2023-36424",
             "title": "Nassim-Asrir/CVE-2023-36424: Windows Kernel Pool (clfs.sys) Corruption Privilege Escalation",
-            "date_modified": "2024-03-23T15:44:07.000Z",
+            "date_modified": "2024-03-23T16:18:30.000Z",
             "date_published": "2024-03-21T21:39:24.000Z",
             "author": {
                 "name": "Nassim-Asrir",
@@ -223,6 +212,17 @@
             "author": {
                 "name": "onion2203",
                 "url": "https://github.com/onion2203"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/106772368?u=f46a99713b05334e4443c804d113e5ca1c3bee3e&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Instructions for exploiting vulnerabilities CVE-2021-44228 and CVE-2023-46604</div>",
+            "url": "https://github.com/dcm2406/CVE-Lab",
+            "title": "dcm2406/CVE-Lab: Instructions for exploiting vulnerabilities CVE-2021-44228 and CVE-2023-46604",
+            "date_modified": "2024-03-21T06:45:44.000Z",
+            "date_published": "2023-12-07T08:02:53.000Z",
+            "author": {
+                "name": "dcm2406",
+                "url": "https://github.com/dcm2406"
             }
         }
     ]
