@@ -6,6 +6,17 @@
     "description": "CVE-2021 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/123419537?u=feff4b792c50d63c9e7f8ef661fd04487778e166&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>exploit CVE-2021-44228 </div>",
+            "url": "https://github.com/sec13b/CVE-2021-44228-POC",
+            "title": "sec13b/CVE-2021-44228-POC: exploit CVE-2021-44228 ",
+            "date_modified": "2024-03-23T05:06:40.000Z",
+            "date_published": "2024-03-23T05:03:44.000Z",
+            "author": {
+                "name": "sec13b",
+                "url": "https://github.com/sec13b"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/159681973?u=d4d67370595b19d8de516dd4ba70863f843a7944&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>历史漏洞的细节以及利用方法汇总收集</div>",
             "url": "https://github.com/OracleNep/Nday-Exploit-Plan",
             "title": "OracleNep/Nday-Exploit-Plan: 历史漏洞的细节以及利用方法汇总收集",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "markyu0401",
                 "url": "https://github.com/markyu0401"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/31022473?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Java agent that disables Apache Log4J's JNDI Lookup. Fixes CVE-2021-44228, aka \"Log4Shell.\"</div>",
-            "url": "https://github.com/winnpixie/log4noshell",
-            "title": "winnpixie/log4noshell: Java agent that disables Apache Log4J's JNDI Lookup. Fixes CVE-2021-44228, aka \"Log4Shell.\"",
-            "date_modified": "2023-09-28T11:33:57.000Z",
-            "date_published": "2021-12-10T21:59:31.000Z",
-            "author": {
-                "name": "winnpixie",
-                "url": "https://github.com/winnpixie"
             }
         }
     ]
