@@ -6,6 +6,28 @@
     "description": "CVE-2023 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/163320335?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A meticulous scrutiny of the Exploit PDFs innards exposes a network of malevolence, unveiling both the nefarious hyperlink and the URL that precipitates</div>",
+            "url": "https://github.com/Makaroshi/Slient-PDF-FUD-Exploit-Slient-Builder-Exploit-Database-Cve-2023-Malware",
+            "title": "Makaroshi/Slient-PDF-FUD-Exploit-Slient-Builder-Exploit-Database-Cve-2023-Malware: A meticulous scrutiny of the Exploit PDFs innards exposes a network of malevolence, unveiling both the nefarious hyperlink and the URL that precipitates",
+            "date_modified": "2024-03-13T15:00:48.000Z",
+            "date_published": "2024-03-13T14:51:15.000Z",
+            "author": {
+                "name": "Makaroshi",
+                "url": "https://github.com/Makaroshi"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/163320335?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>URL Contamination Exploit Muted Java Drive-By downloads can transpire during the act of perusing a website, inaugurating an electronic mail communication.</div>",
+            "url": "https://github.com/Makaroshi/Slient-Url-Exploit-Slient-Builder-Exploit-Database-Cve-2023-Malware",
+            "title": "Makaroshi/Slient-Url-Exploit-Slient-Builder-Exploit-Database-Cve-2023-Malware: URL Contamination Exploit Muted Java Drive-By downloads can transpire during the act of perusing a website, inaugurating an electronic mail communication.",
+            "date_modified": "2024-03-13T15:00:44.000Z",
+            "date_published": "2024-03-13T14:51:15.000Z",
+            "author": {
+                "name": "Makaroshi",
+                "url": "https://github.com/Makaroshi"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/163320335?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Microsoft Windows HTA (HTML Application) - Pinnacle of Remote Code Execution</div>",
             "url": "https://github.com/Makaroshi/Hta-Exploit-Builder-Slient-Builder-Exploit-Database-Cve-2023-Malware",
             "title": "Makaroshi/Hta-Exploit-Builder-Slient-Builder-Exploit-Database-Cve-2023-Malware: Microsoft Windows HTA (HTML Application) - Pinnacle of Remote Code Execution",
@@ -28,25 +50,14 @@
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/163320335?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A meticulous scrutiny of the Exploit PDFs innards exposes a network of malevolence, unveiling both the nefarious hyperlink and the URL that precipitates</div>",
-            "url": "https://github.com/Makaroshi/Slient-PDF-FUD-Exploit-Slient-Builder-Exploit-Database-Cve-2023-Malware",
-            "title": "Makaroshi/Slient-PDF-FUD-Exploit-Slient-Builder-Exploit-Database-Cve-2023-Malware: A meticulous scrutiny of the Exploit PDFs innards exposes a network of malevolence, unveiling both the nefarious hyperlink and the URL that precipitates",
-            "date_modified": "2024-03-13T15:00:48.000Z",
-            "date_published": "2024-03-13T14:51:15.000Z",
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/78701239?u=9e68d2365d0c26e3994dc3e04864bc97ccb91348&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2023-47882 | CVE-2024-23727</div>",
+            "url": "https://github.com/actuator/yi",
+            "title": "actuator/yi: CVE-2023-47882 | CVE-2024-23727",
+            "date_modified": "2024-03-24T16:26:09.000Z",
+            "date_published": "2023-11-05T20:37:24.000Z",
             "author": {
-                "name": "Makaroshi",
-                "url": "https://github.com/Makaroshi"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/163320335?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>URL Contamination Exploit Muted Java Drive-By downloads can transpire during the act of perusing a website, inaugurating an electronic mail communication.</div>",
-            "url": "https://github.com/Makaroshi/Slient-Url-Exploit-Slient-Builder-Exploit-Database-Cve-2023-Malware",
-            "title": "Makaroshi/Slient-Url-Exploit-Slient-Builder-Exploit-Database-Cve-2023-Malware: URL Contamination Exploit Muted Java Drive-By downloads can transpire during the act of perusing a website, inaugurating an electronic mail communication.",
-            "date_modified": "2024-03-13T15:00:44.000Z",
-            "date_published": "2024-03-13T14:51:15.000Z",
-            "author": {
-                "name": "Makaroshi",
-                "url": "https://github.com/Makaroshi"
+                "name": "actuator",
+                "url": "https://github.com/actuator"
             }
         },
         {
@@ -152,7 +163,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/18348468?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Windows Kernel Pool (clfs.sys) Corruption Privilege Escalation</div>",
             "url": "https://github.com/Nassim-Asrir/CVE-2023-36424",
             "title": "Nassim-Asrir/CVE-2023-36424: Windows Kernel Pool (clfs.sys) Corruption Privilege Escalation",
-            "date_modified": "2024-03-24T14:33:09.000Z",
+            "date_modified": "2024-03-24T17:03:36.000Z",
             "date_published": "2024-03-21T21:39:24.000Z",
             "author": {
                 "name": "Nassim-Asrir",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "TheUnknownSoul",
                 "url": "https://github.com/TheUnknownSoul"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/102574296?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
-            "url": "https://github.com/Trinadh465/external_aac_android-4.2.2_r1_CVE-2023-21282",
-            "title": "Trinadh465/external_aac_android-4.2.2_r1_CVE-2023-21282",
-            "date_modified": "2024-03-20T07:18:33.000Z",
-            "date_published": "2024-03-20T07:15:49.000Z",
-            "author": {
-                "name": "Trinadh465",
-                "url": "https://github.com/Trinadh465"
             }
         }
     ]
