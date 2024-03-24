@@ -6,6 +6,17 @@
     "description": "CVE-2021 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/123502260?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Part of my cybersecurity thesis consists in exploring and exploiting this vulnerability.</div>",
+            "url": "https://github.com/Kyyomaa/CVE-2021-3560-EXPLOIT",
+            "title": "Kyyomaa/CVE-2021-3560-EXPLOIT: Part of my cybersecurity thesis consists in exploring and exploiting this vulnerability.",
+            "date_modified": "2024-03-24T11:39:41.000Z",
+            "date_published": "2024-03-24T11:37:18.000Z",
+            "author": {
+                "name": "Kyyomaa",
+                "url": "https://github.com/Kyyomaa"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/159681973?u=d4d67370595b19d8de516dd4ba70863f843a7944&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>历史漏洞的细节以及利用方法汇总收集</div>",
             "url": "https://github.com/OracleNep/Nday-Exploit-Plan",
             "title": "OracleNep/Nday-Exploit-Plan: 历史漏洞的细节以及利用方法汇总收集",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "corelight",
                 "url": "https://github.com/corelight"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/60618569?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
-            "url": "https://github.com/markyu0401/CVE-2021-3560-Polkit-Privilege-Escalation",
-            "title": "markyu0401/CVE-2021-3560-Polkit-Privilege-Escalation",
-            "date_modified": "2024-02-24T04:41:27.000Z",
-            "date_published": "2023-12-15T03:38:41.000Z",
-            "author": {
-                "name": "markyu0401",
-                "url": "https://github.com/markyu0401"
             }
         }
     ]
