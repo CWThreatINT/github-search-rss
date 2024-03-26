@@ -6,6 +6,17 @@
     "description": "CVE-2021 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/164972007?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Downloaded a packet capture (.pcapng) file from malware-traffic-analysis.net which was an example of an attempted attack against a webserver using the Log4J vulnerability (CVE-2021-44228). I examined teh amount of endpoints communicating with the server and knowing jnidi as a common in the vulnerbilty found it in clear text</div>",
+            "url": "https://github.com/KirkDJohnson/Wireshark",
+            "title": "KirkDJohnson/Wireshark: Downloaded a packet capture (.pcapng) file from malware-traffic-analysis.net which was an example of an attempted attack against a webserver using the Log4J vulnerability (CVE-2021-44228). I examined teh amount of endpoints communicating with the server and knowing jnidi as a common in the vulnerbilty found it in clear text",
+            "date_modified": "2024-03-26T18:47:20.000Z",
+            "date_published": "2024-03-26T18:47:20.000Z",
+            "author": {
+                "name": "KirkDJohnson",
+                "url": "https://github.com/KirkDJohnson"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/159681973?u=d4d67370595b19d8de516dd4ba70863f843a7944&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>历史漏洞的细节以及利用方法汇总收集</div>",
             "url": "https://github.com/OracleNep/Nday-Exploit-Plan",
             "title": "OracleNep/Nday-Exploit-Plan: 历史漏洞的细节以及利用方法汇总收集",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "letsr00t",
                 "url": "https://github.com/letsr00t"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/21672558?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Log4j Exploit Detection Logic for Zeek</div>",
-            "url": "https://github.com/corelight/cve-2021-44228",
-            "title": "corelight/cve-2021-44228: Log4j Exploit Detection Logic for Zeek",
-            "date_modified": "2022-02-09T10:00:20.000Z",
-            "date_published": "2021-12-13T17:25:52.000Z",
-            "author": {
-                "name": "corelight",
-                "url": "https://github.com/corelight"
             }
         }
     ]
