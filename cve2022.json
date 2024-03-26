@@ -6,6 +6,17 @@
     "description": "CVE-2022 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/144592414?u=7c3de50aba25259e089a7045a21f75369d53f952&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
+            "url": "https://github.com/404fu/CVE-2022-26134-POC",
+            "title": "404fu/CVE-2022-26134-POC",
+            "date_modified": "2024-03-26T14:43:14.000Z",
+            "date_published": "2024-03-26T14:18:17.000Z",
+            "author": {
+                "name": "404fu",
+                "url": "https://github.com/404fu"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/31942498?u=afb1de88fa4c1d19e963501c9c3ba2dd534dca3d&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
             "url": "https://github.com/ox1111/CVE-2022-32932",
             "title": "ox1111/CVE-2022-32932",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "p0dalirius",
                 "url": "https://github.com/p0dalirius"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/68277833?u=5a4986b8a91598fea6c43e887d0e770162171fe9&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
-            "url": "https://github.com/satyasai1460/CVE-2022-1386",
-            "title": "satyasai1460/CVE-2022-1386",
-            "date_modified": "2024-03-07T14:37:43.000Z",
-            "date_published": "2024-03-07T06:35:33.000Z",
-            "author": {
-                "name": "satyasai1460",
-                "url": "https://github.com/satyasai1460"
             }
         }
     ]
