@@ -17,17 +17,6 @@
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/162780018?u=1d13505546d650b37088ac81ed198e20f481211c&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>FBI hacked Lockbit use this exploit.</div>",
-            "url": "https://github.com/NewLockBit/CVE-2023-3824-PHP-to-RCE",
-            "title": "NewLockBit/CVE-2023-3824-PHP-to-RCE: FBI hacked Lockbit use this exploit.",
-            "date_modified": "2024-03-27T18:59:41.000Z",
-            "date_published": "2024-03-27T18:59:40.000Z",
-            "author": {
-                "name": "NewLockBit",
-                "url": "https://github.com/NewLockBit"
-            }
-        },
-        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/163320335?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>URL Contamination Exploit Muted Java Drive-By downloads can transpire during the act of perusing a website, inaugurating an electronic mail communication.</div>",
             "url": "https://github.com/Makaroshi/Slient-Url-Exploit-Slient-Builder-Exploit-Database-Cve-2023-Malware",
             "title": "Makaroshi/Slient-Url-Exploit-Slient-Builder-Exploit-Database-Cve-2023-Malware: URL Contamination Exploit Muted Java Drive-By downloads can transpire during the act of perusing a website, inaugurating an electronic mail communication.",
@@ -61,10 +50,32 @@
             }
         },
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/162780018?u=1d13505546d650b37088ac81ed198e20f481211c&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Research of CVE-2023-3824 (NCA - Lockbit)</div>",
+            "url": "https://github.com/NewLockBit/Research-of-CVE-2023-3824-NCA-Lockbit",
+            "title": "NewLockBit/Research-of-CVE-2023-3824-NCA-Lockbit: Research of CVE-2023-3824 (NCA - Lockbit)",
+            "date_modified": "2024-03-09T09:08:11.000Z",
+            "date_published": "2024-03-09T09:07:09.000Z",
+            "author": {
+                "name": "NewLockBit",
+                "url": "https://github.com/NewLockBit"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/162780018?u=1d13505546d650b37088ac81ed198e20f481211c&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>FBI hacked Lockbit use this exploit.</div>",
+            "url": "https://github.com/NewLockBit/CVE-2023-3824-PHP-to-RCE",
+            "title": "NewLockBit/CVE-2023-3824-PHP-to-RCE: FBI hacked Lockbit use this exploit.",
+            "date_modified": "2024-03-27T19:43:19.000Z",
+            "date_published": "2024-03-27T18:59:40.000Z",
+            "author": {
+                "name": "NewLockBit",
+                "url": "https://github.com/NewLockBit"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/144001335?u=c42bea7e07a206065e90fc34c073c2292c885b40&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>🚨 CVE-2023-45866 - BlueDucky Implementation (Using DuckyScript) 🔓 Unauthenticated Peering Leading to Code Execution (Using HID Keyboard)</div>",
             "url": "https://github.com/pentestfunctions/BlueDucky",
             "title": "pentestfunctions/BlueDucky: 🚨 CVE-2023-45866 - BlueDucky Implementation (Using DuckyScript) 🔓 Unauthenticated Peering Leading to Code Execution (Using HID Keyboard)",
-            "date_modified": "2024-03-27T19:02:31.000Z",
+            "date_modified": "2024-03-27T19:50:43.000Z",
             "date_published": "2024-01-16T06:52:02.000Z",
             "author": {
                 "name": "pentestfunctions",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "sudovivek",
                 "url": "https://github.com/sudovivek"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/91589201?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Fixes broken syntax in the POC, automates the API_Token retrieval, stores the token as a variable and pipes into the fixed POC.</div>",
-            "url": "https://github.com/bucketcat/CVE-2023-48084",
-            "title": "bucketcat/CVE-2023-48084: Fixes broken syntax in the POC, automates the API_Token retrieval, stores the token as a variable and pipes into the fixed POC.",
-            "date_modified": "2024-03-23T01:16:32.000Z",
-            "date_published": "2024-03-23T00:31:37.000Z",
-            "author": {
-                "name": "bucketcat",
-                "url": "https://github.com/bucketcat"
             }
         }
     ]
