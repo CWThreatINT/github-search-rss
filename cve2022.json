@@ -6,6 +6,17 @@
     "description": "CVE-2022 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/143888307?u=8e517c5504a2c6c21e3707440cabba67fcfd3aab&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A working POC found while doing a HTB challenge. Original: <a href=\"https://github.com/user0x1337/CVE-2022-39227\">https://github.com/user0x1337/CVE-2022-39227</a></div>",
+            "url": "https://github.com/NoSpaceAvailable/CVE-2022-39227",
+            "title": "NoSpaceAvailable/CVE-2022-39227: A working POC found while doing a HTB challenge. Original: https://github.com/user0x1337/CVE-2022-39227",
+            "date_modified": "2024-03-28T12:58:10.000Z",
+            "date_published": "2024-03-28T12:55:13.000Z",
+            "author": {
+                "name": "NoSpaceAvailable",
+                "url": "https://github.com/NoSpaceAvailable"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/126022455?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
             "url": "https://github.com/at4111/CVE_2022_35869",
             "title": "at4111/CVE_2022_35869",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "rxerium",
                 "url": "https://github.com/rxerium"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/82314652?u=7137d844abe5533d4d9db5c9c783801f01661946&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Educational Exploit for CVE-2022-30190 (Follina)</div>",
-            "url": "https://github.com/ethicalblue/Follina-CVE-2022-30190-Sample",
-            "title": "ethicalblue/Follina-CVE-2022-30190-Sample: Educational Exploit for CVE-2022-30190 (Follina)",
-            "date_modified": "2024-02-23T14:30:12.000Z",
-            "date_published": "2022-06-25T16:27:59.000Z",
-            "author": {
-                "name": "ethicalblue",
-                "url": "https://github.com/ethicalblue"
             }
         }
     ]
