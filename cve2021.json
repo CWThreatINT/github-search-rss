@@ -6,6 +6,17 @@
     "description": "CVE-2021 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/94842031?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A exploit tool for Grafana Unauthorized arbitrary file reading vulnerability (CVE-2021-43798), it can burst plugins / extract secret_key / decrypt data_source info automatic.</div>",
+            "url": "https://github.com/A-D-Team/grafanaExp",
+            "title": "A-D-Team/grafanaExp: A exploit tool for Grafana Unauthorized arbitrary file reading vulnerability (CVE-2021-43798), it can burst plugins / extract secret_key / decrypt data_source info automatic.",
+            "date_modified": "2024-03-26T13:58:11.000Z",
+            "date_published": "2021-12-07T15:11:34.000Z",
+            "author": {
+                "name": "A-D-Team",
+                "url": "https://github.com/A-D-Team"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/99700348?u=817cde7087b192ee489ece66eed627e75da6a3f3&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
             "url": "https://github.com/ticofookfook/CVE-2021-43798",
             "title": "ticofookfook/CVE-2021-43798",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "LucasPDiniz",
                 "url": "https://github.com/LucasPDiniz"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/25670930?u=6fad2f13c751b51fd47e377945d79369743f5948&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Actual working exploit for CVE-2021-3345</div>",
-            "url": "https://github.com/SpiralBL0CK/CVE-2021-3345",
-            "title": "SpiralBL0CK/CVE-2021-3345: Actual working exploit for CVE-2021-3345",
-            "date_modified": "2024-03-01T01:53:22.000Z",
-            "date_published": "2024-02-29T22:05:44.000Z",
-            "author": {
-                "name": "SpiralBL0CK",
-                "url": "https://github.com/SpiralBL0CK"
             }
         }
     ]
