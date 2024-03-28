@@ -6,6 +6,17 @@
     "description": "CVE-2021 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/36354846?u=99d06a9237c301569774dac1c70218d5c032773a&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Python script for exploiting command injection in Open PLC Webserver v3</div>",
+            "url": "https://github.com/thewhiteh4t/cve-2021-31630",
+            "title": "thewhiteh4t/cve-2021-31630: Python script for exploiting command injection in Open PLC Webserver v3",
+            "date_modified": "2024-03-28T22:53:39.000Z",
+            "date_published": "2024-03-28T21:31:45.000Z",
+            "author": {
+                "name": "thewhiteh4t",
+                "url": "https://github.com/thewhiteh4t"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/164972007?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Downloaded a packet capture (.pcapng) file from malware-traffic-analysis.net which was an example of an attempted attack against a webserver using the Log4J vulnerability (CVE-2021-44228). I examined teh amount of endpoints communicating with the server and knowing jnidi as a common in the vulnerbilty found it in clear text</div>",
             "url": "https://github.com/KirkDJohnson/Wireshark",
             "title": "KirkDJohnson/Wireshark: Downloaded a packet capture (.pcapng) file from malware-traffic-analysis.net which was an example of an attempted attack against a webserver using the Log4J vulnerability (CVE-2021-44228). I examined teh amount of endpoints communicating with the server and knowing jnidi as a common in the vulnerbilty found it in clear text",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "K3ysTr0K3R",
                 "url": "https://github.com/K3ysTr0K3R"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/57265360?u=5a0d0ca6c5153d7e41b9f498a12fe2b35498adf6&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Log4j Vulnerability RCE - CVE-2021-44228</div>",
-            "url": "https://github.com/LucasPDiniz/CVE-2021-44228",
-            "title": "LucasPDiniz/CVE-2021-44228: Log4j Vulnerability RCE - CVE-2021-44228",
-            "date_modified": "2023-11-13T17:09:40.000Z",
-            "date_published": "2023-11-13T16:57:22.000Z",
-            "author": {
-                "name": "LucasPDiniz",
-                "url": "https://github.com/LucasPDiniz"
             }
         }
     ]
