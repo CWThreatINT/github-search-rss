@@ -6,6 +6,17 @@
     "description": "CVE-2022 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/51345640?u=ac76ed6d5a99dc3a44d9eb88e997f98052cfba3d&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
+            "url": "https://github.com/mind2hex/CVE-2022-46169",
+            "title": "mind2hex/CVE-2022-46169",
+            "date_modified": "2024-03-28T19:44:04.000Z",
+            "date_published": "2024-03-28T19:23:56.000Z",
+            "author": {
+                "name": "mind2hex",
+                "url": "https://github.com/mind2hex"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/143888307?u=8e517c5504a2c6c21e3707440cabba67fcfd3aab&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A working POC found while doing a HTB challenge. Original: <a href=\"https://github.com/user0x1337/CVE-2022-39227\">https://github.com/user0x1337/CVE-2022-39227</a></div>",
             "url": "https://github.com/NoSpaceAvailable/CVE-2022-39227",
             "title": "NoSpaceAvailable/CVE-2022-39227: A working POC found while doing a HTB challenge. Original: https://github.com/user0x1337/CVE-2022-39227",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "hienkiet",
                 "url": "https://github.com/hienkiet"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/59293085?u=9bd1a9e173ecb286acec5b109cba55ee295db0a4&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Zimbra Collaboration (ZCS) Arbitrary File Upload Vulnerability</div>",
-            "url": "https://github.com/rxerium/CVE-2022-41352",
-            "title": "rxerium/CVE-2022-41352: Zimbra Collaboration (ZCS) Arbitrary File Upload Vulnerability",
-            "date_modified": "2024-03-20T01:16:58.000Z",
-            "date_published": "2024-03-17T19:59:58.000Z",
-            "author": {
-                "name": "rxerium",
-                "url": "https://github.com/rxerium"
             }
         }
     ]
