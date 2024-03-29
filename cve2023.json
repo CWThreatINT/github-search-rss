@@ -6,10 +6,10 @@
     "description": "CVE-2023 FEED on GitHub",
     "items": [
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/163320335?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A meticulous scrutiny of the Exploit PDFs innards exposes a network of malevolence, unveiling both the nefarious hyperlink and the URL that precipitates</div>",
-            "url": "https://github.com/Makaroshi/Slient-PDF-FUD-Exploit-Slient-Builder-Exploit-Database-Cve-2023-Malware",
-            "title": "Makaroshi/Slient-PDF-FUD-Exploit-Slient-Builder-Exploit-Database-Cve-2023-Malware: A meticulous scrutiny of the Exploit PDFs innards exposes a network of malevolence, unveiling both the nefarious hyperlink and the URL that precipitates",
-            "date_modified": "2024-03-13T15:00:48.000Z",
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/163320335?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Microsoft Windows HTA (HTML Application) - Pinnacle of Remote Code Execution</div>",
+            "url": "https://github.com/Makaroshi/Hta-Exploit-Builder-Slient-Builder-Exploit-Database-Cve-2023-Malware",
+            "title": "Makaroshi/Hta-Exploit-Builder-Slient-Builder-Exploit-Database-Cve-2023-Malware: Microsoft Windows HTA (HTML Application) - Pinnacle of Remote Code Execution",
+            "date_modified": "2024-03-14T23:45:05.000Z",
             "date_published": "2024-03-13T14:51:15.000Z",
             "author": {
                 "name": "Makaroshi",
@@ -28,6 +28,17 @@
             }
         },
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/163320335?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A meticulous scrutiny of the Exploit PDFs innards exposes a network of malevolence, unveiling both the nefarious hyperlink and the URL that precipitates</div>",
+            "url": "https://github.com/Makaroshi/Slient-PDF-FUD-Exploit-Slient-Builder-Exploit-Database-Cve-2023-Malware",
+            "title": "Makaroshi/Slient-PDF-FUD-Exploit-Slient-Builder-Exploit-Database-Cve-2023-Malware: A meticulous scrutiny of the Exploit PDFs innards exposes a network of malevolence, unveiling both the nefarious hyperlink and the URL that precipitates",
+            "date_modified": "2024-03-13T15:00:48.000Z",
+            "date_published": "2024-03-13T14:51:15.000Z",
+            "author": {
+                "name": "Makaroshi",
+                "url": "https://github.com/Makaroshi"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/163320335?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>URL Contamination Exploit Muted Java Drive-By downloads can transpire during the act of perusing a website, inaugurating an electronic mail communication.</div>",
             "url": "https://github.com/Makaroshi/Slient-Url-Exploit-Slient-Builder-Exploit-Database-Cve-2023-Malware",
             "title": "Makaroshi/Slient-Url-Exploit-Slient-Builder-Exploit-Database-Cve-2023-Malware: URL Contamination Exploit Muted Java Drive-By downloads can transpire during the act of perusing a website, inaugurating an electronic mail communication.",
@@ -39,14 +50,14 @@
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/163320335?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Microsoft Windows HTA (HTML Application) - Pinnacle of Remote Code Execution</div>",
-            "url": "https://github.com/Makaroshi/Hta-Exploit-Builder-Slient-Builder-Exploit-Database-Cve-2023-Malware",
-            "title": "Makaroshi/Hta-Exploit-Builder-Slient-Builder-Exploit-Database-Cve-2023-Malware: Microsoft Windows HTA (HTML Application) - Pinnacle of Remote Code Execution",
-            "date_modified": "2024-03-14T23:45:05.000Z",
-            "date_published": "2024-03-13T14:51:15.000Z",
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/99223413?u=81c656c7e3f1ef46e93197396eb630f225cd7721&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2023-35078 Remote Unauthenticated API Access vulnerability has been discovered in Ivanti Endpoint Manager Mobile (EPMM), formerly known as MobileIron Core. </div>",
+            "url": "https://github.com/0nsec/CVE-2023-35078",
+            "title": "0nsec/CVE-2023-35078: CVE-2023-35078 Remote Unauthenticated API Access vulnerability has been discovered in Ivanti Endpoint Manager Mobile (EPMM), formerly known as MobileIron Core. ",
+            "date_modified": "2024-03-29T14:45:31.000Z",
+            "date_published": "2024-03-29T14:15:49.000Z",
             "author": {
-                "name": "Makaroshi",
-                "url": "https://github.com/Makaroshi"
+                "name": "0nsec",
+                "url": "https://github.com/0nsec"
             }
         },
         {
@@ -212,17 +223,6 @@
             "author": {
                 "name": "actuator",
                 "url": "https://github.com/actuator"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/49879157?u=133acc3841808f2d1af1697b7ae164b1577d7f38&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div> Stakater Forecastle 1.0.127 allows directory traversal in the website component</div>",
-            "url": "https://github.com/sahar042/CVE-2023-40297",
-            "title": "sahar042/CVE-2023-40297:  Stakater Forecastle 1.0.127 allows directory traversal in the website component",
-            "date_modified": "2023-08-14T06:18:48.000Z",
-            "date_published": "2023-08-14T06:18:48.000Z",
-            "author": {
-                "name": "sahar042",
-                "url": "https://github.com/sahar042"
             }
         }
     ]
