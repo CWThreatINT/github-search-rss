@@ -6,10 +6,32 @@
     "description": "CVE-2023 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/165458260?u=39d54c97d092b90f9b7e95928ea80279fa73c7df&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>RCE exploit for Microsoft SharePoint 2019</div>",
+            "url": "https://github.com/AndreOve/CVE-2023-24955-real-RCE",
+            "title": "AndreOve/CVE-2023-24955-real-RCE: RCE exploit for Microsoft SharePoint 2019",
+            "date_modified": "2024-03-30T06:59:42.000Z",
+            "date_published": "2024-03-30T06:26:48.000Z",
+            "author": {
+                "name": "AndreOve",
+                "url": "https://github.com/AndreOve"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/163320335?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>URL Contamination Exploit Muted Java Drive-By downloads can transpire during the act of perusing a website, inaugurating an electronic mail communication.</div>",
             "url": "https://github.com/Makaroshi/Slient-Url-Exploit-Slient-Builder-Exploit-Database-Cve-2023-Malware",
             "title": "Makaroshi/Slient-Url-Exploit-Slient-Builder-Exploit-Database-Cve-2023-Malware: URL Contamination Exploit Muted Java Drive-By downloads can transpire during the act of perusing a website, inaugurating an electronic mail communication.",
             "date_modified": "2024-03-13T15:00:44.000Z",
+            "date_published": "2024-03-13T14:51:15.000Z",
+            "author": {
+                "name": "Makaroshi",
+                "url": "https://github.com/Makaroshi"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/163320335?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A meticulous scrutiny of the Exploit PDFs innards exposes a network of malevolence, unveiling both the nefarious hyperlink and the URL that precipitates</div>",
+            "url": "https://github.com/Makaroshi/Slient-PDF-FUD-Exploit-Slient-Builder-Exploit-Database-Cve-2023-Malware",
+            "title": "Makaroshi/Slient-PDF-FUD-Exploit-Slient-Builder-Exploit-Database-Cve-2023-Malware: A meticulous scrutiny of the Exploit PDFs innards exposes a network of malevolence, unveiling both the nefarious hyperlink and the URL that precipitates",
+            "date_modified": "2024-03-13T15:00:48.000Z",
             "date_published": "2024-03-13T14:51:15.000Z",
             "author": {
                 "name": "Makaroshi",
@@ -32,17 +54,6 @@
             "url": "https://github.com/Makaroshi/Jpg-Png-Exploit-Slient-Builder-Exploit-Database-Cve-2023-Malware",
             "title": "Makaroshi/Jpg-Png-Exploit-Slient-Builder-Exploit-Database-Cve-2023-Malware: In the hushed galleries of the Silent JPG Exploit, a symphony shrouded in enigma unfurls—an opus named silent-jpg-exploit-2018—a title that reverberates through the annals of intrigue.",
             "date_modified": "2024-03-13T15:00:51.000Z",
-            "date_published": "2024-03-13T14:51:15.000Z",
-            "author": {
-                "name": "Makaroshi",
-                "url": "https://github.com/Makaroshi"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/163320335?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A meticulous scrutiny of the Exploit PDFs innards exposes a network of malevolence, unveiling both the nefarious hyperlink and the URL that precipitates</div>",
-            "url": "https://github.com/Makaroshi/Slient-PDF-FUD-Exploit-Slient-Builder-Exploit-Database-Cve-2023-Malware",
-            "title": "Makaroshi/Slient-PDF-FUD-Exploit-Slient-Builder-Exploit-Database-Cve-2023-Malware: A meticulous scrutiny of the Exploit PDFs innards exposes a network of malevolence, unveiling both the nefarious hyperlink and the URL that precipitates",
-            "date_modified": "2024-03-13T15:00:48.000Z",
             "date_published": "2024-03-13T14:51:15.000Z",
             "author": {
                 "name": "Makaroshi",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "jakabakos",
                 "url": "https://github.com/jakabakos"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/78701239?u=9e68d2365d0c26e3994dc3e04864bc97ccb91348&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2023-47882 | CVE-2024-23727</div>",
-            "url": "https://github.com/actuator/yi",
-            "title": "actuator/yi: CVE-2023-47882 | CVE-2024-23727",
-            "date_modified": "2024-03-24T16:26:09.000Z",
-            "date_published": "2023-11-05T20:37:24.000Z",
-            "author": {
-                "name": "actuator",
-                "url": "https://github.com/actuator"
             }
         }
     ]
