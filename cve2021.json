@@ -6,6 +6,17 @@
     "description": "CVE-2021 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/105202277?u=0994523306e283c24d64d9a594c0e22f057ddfbe&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>打HTB的机器时候碰到的cve，exploit-db的exp有些错误于是给出手工利用方式以及exp</div>",
+            "url": "https://github.com/UserB1ank/CVE-2021-31630",
+            "title": "UserB1ank/CVE-2021-31630: 打HTB的机器时候碰到的cve，exploit-db的exp有些错误于是给出手工利用方式以及exp",
+            "date_modified": "2024-03-30T15:30:34.000Z",
+            "date_published": "2024-03-30T15:30:33.000Z",
+            "author": {
+                "name": "UserB1ank",
+                "url": "https://github.com/UserB1ank"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/164972007?u=0be4bd13e9446ef0b5c9947232e9a9c816b97b1b&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Downloaded a packet capture (.pcapng) file from malware-traffic-analysis.net which was an example of an attempted attack against a webserver using the Log4J vulnerability (CVE-2021-44228). I examined teh amount of endpoints communicating with the server and knowing jnidi as a common in the vulnerbilty found it in clear text</div>",
             "url": "https://github.com/KirkDJohnson/Wireshark",
             "title": "KirkDJohnson/Wireshark: Downloaded a packet capture (.pcapng) file from malware-traffic-analysis.net which was an example of an attempted attack against a webserver using the Log4J vulnerability (CVE-2021-44228). I examined teh amount of endpoints communicating with the server and knowing jnidi as a common in the vulnerbilty found it in clear text",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "FancySauce",
                 "url": "https://github.com/FancySauce"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/70909693?u=c072437951314795265dd77af0fe77fb41c73b77&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A PoC exploit for CVE-2021-43798 - Grafana Directory Traversal</div>",
-            "url": "https://github.com/K3ysTr0K3R/CVE-2021-43798-EXPLOIT",
-            "title": "K3ysTr0K3R/CVE-2021-43798-EXPLOIT: A PoC exploit for CVE-2021-43798 - Grafana Directory Traversal",
-            "date_modified": "2024-03-08T07:40:00.000Z",
-            "date_published": "2024-03-04T18:32:21.000Z",
-            "author": {
-                "name": "K3ysTr0K3R",
-                "url": "https://github.com/K3ysTr0K3R"
             }
         }
     ]
