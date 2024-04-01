@@ -28,6 +28,17 @@
             }
         },
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/19311214?u=2c679aafd425dd6ec18db28ac8ff2dec279ce1c7&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2023-20273 Exploit PoC</div>",
+            "url": "https://github.com/smokeintheshell/CVE-2023-20273",
+            "title": "smokeintheshell/CVE-2023-20273: CVE-2023-20273 Exploit PoC",
+            "date_modified": "2024-02-10T21:03:41.000Z",
+            "date_published": "2023-12-09T07:25:43.000Z",
+            "author": {
+                "name": "smokeintheshell",
+                "url": "https://github.com/smokeintheshell"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/163320335?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Microsoft Windows HTA (HTML Application) - Pinnacle of Remote Code Execution</div>",
             "url": "https://github.com/Makaroshi/Hta-Exploit-Builder-Slient-Builder-Exploit-Database-Cve-2023-Malware",
             "title": "Makaroshi/Hta-Exploit-Builder-Slient-Builder-Exploit-Database-Cve-2023-Malware: Microsoft Windows HTA (HTML Application) - Pinnacle of Remote Code Execution",
@@ -47,6 +58,17 @@
             "author": {
                 "name": "Makaroshi",
                 "url": "https://github.com/Makaroshi"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/83481196?u=f05a0d5d8cc8e031126a5c5c77590105184a8ce0&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2023-49965 | SpaceX / Starlink Router Gen 2 XSS </div>",
+            "url": "https://github.com/hackintoanetwork/SpaceX-Starlink-Router-Gen-2-XSS",
+            "title": "hackintoanetwork/SpaceX-Starlink-Router-Gen-2-XSS: CVE-2023-49965 | SpaceX / Starlink Router Gen 2 XSS ",
+            "date_modified": "2024-03-31T10:43:18.000Z",
+            "date_published": "2024-01-17T01:24:15.000Z",
+            "author": {
+                "name": "hackintoanetwork",
+                "url": "https://github.com/hackintoanetwork"
             }
         },
         {
@@ -201,28 +223,6 @@
             "author": {
                 "name": "NewLockBit",
                 "url": "https://github.com/NewLockBit"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/162780018?u=1d13505546d650b37088ac81ed198e20f481211c&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>FBI hacked Lockbit use this exploit.</div>",
-            "url": "https://github.com/NewLockBit/CVE-2023-3824-PHP-to-RCE",
-            "title": "NewLockBit/CVE-2023-3824-PHP-to-RCE: FBI hacked Lockbit use this exploit.",
-            "date_modified": "2024-03-30T12:00:51.000Z",
-            "date_published": "2024-03-27T18:59:40.000Z",
-            "author": {
-                "name": "NewLockBit",
-                "url": "https://github.com/NewLockBit"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/10403781?u=0d24f271775e3d29cfd9ef9b5d449bcd7a088cc8&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>The exploit targets a critical privilege escalation vulnerability in macOS versions Monterey, Ventura, and Sonoma.</div>",
-            "url": "https://github.com/d0rb/CVE-2023-42931",
-            "title": "d0rb/CVE-2023-42931: The exploit targets a critical privilege escalation vulnerability in macOS versions Monterey, Ventura, and Sonoma.",
-            "date_modified": "2024-03-29T18:38:51.000Z",
-            "date_published": "2024-03-26T11:01:54.000Z",
-            "author": {
-                "name": "d0rb",
-                "url": "https://github.com/d0rb"
             }
         }
     ]
