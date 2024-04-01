@@ -28,17 +28,6 @@
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/19311214?u=2c679aafd425dd6ec18db28ac8ff2dec279ce1c7&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2023-20273 Exploit PoC</div>",
-            "url": "https://github.com/smokeintheshell/CVE-2023-20273",
-            "title": "smokeintheshell/CVE-2023-20273: CVE-2023-20273 Exploit PoC",
-            "date_modified": "2024-02-10T21:03:41.000Z",
-            "date_published": "2023-12-09T07:25:43.000Z",
-            "author": {
-                "name": "smokeintheshell",
-                "url": "https://github.com/smokeintheshell"
-            }
-        },
-        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/163320335?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Microsoft Windows HTA (HTML Application) - Pinnacle of Remote Code Execution</div>",
             "url": "https://github.com/Makaroshi/Hta-Exploit-Builder-Slient-Builder-Exploit-Database-Cve-2023-Malware",
             "title": "Makaroshi/Hta-Exploit-Builder-Slient-Builder-Exploit-Database-Cve-2023-Malware: Microsoft Windows HTA (HTML Application) - Pinnacle of Remote Code Execution",
@@ -58,6 +47,17 @@
             "author": {
                 "name": "Makaroshi",
                 "url": "https://github.com/Makaroshi"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/19311214?u=2c679aafd425dd6ec18db28ac8ff2dec279ce1c7&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2023-20273 Exploit PoC</div>",
+            "url": "https://github.com/smokeintheshell/CVE-2023-20273",
+            "title": "smokeintheshell/CVE-2023-20273: CVE-2023-20273 Exploit PoC",
+            "date_modified": "2024-02-10T21:03:41.000Z",
+            "date_published": "2023-12-09T07:25:43.000Z",
+            "author": {
+                "name": "smokeintheshell",
+                "url": "https://github.com/smokeintheshell"
             }
         },
         {
@@ -108,7 +108,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/144001335?u=c42bea7e07a206065e90fc34c073c2292c885b40&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>🚨 CVE-2023-45866 - BlueDucky Implementation (Using DuckyScript) 🔓 Unauthenticated Peering Leading to Code Execution (Using HID Keyboard)</div>",
             "url": "https://github.com/pentestfunctions/BlueDucky",
             "title": "pentestfunctions/BlueDucky: 🚨 CVE-2023-45866 - BlueDucky Implementation (Using DuckyScript) 🔓 Unauthenticated Peering Leading to Code Execution (Using HID Keyboard)",
-            "date_modified": "2024-04-01T18:02:36.000Z",
+            "date_modified": "2024-04-01T20:07:14.000Z",
             "date_published": "2024-01-16T06:52:02.000Z",
             "author": {
                 "name": "pentestfunctions",
