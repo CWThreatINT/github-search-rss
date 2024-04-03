@@ -28,17 +28,6 @@
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/105202277?u=0994523306e283c24d64d9a594c0e22f057ddfbe&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>打HTB的机器时候碰到的cve，exploit-db的exp有些错误于是给出手工利用方式以及exp</div>",
-            "url": "https://github.com/UserB1ank/CVE-2021-31630",
-            "title": "UserB1ank/CVE-2021-31630: 打HTB的机器时候碰到的cve，exploit-db的exp有些错误于是给出手工利用方式以及exp",
-            "date_modified": "2024-03-31T03:01:50.000Z",
-            "date_published": "2024-03-30T15:30:33.000Z",
-            "author": {
-                "name": "UserB1ank",
-                "url": "https://github.com/UserB1ank"
-            }
-        },
-        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/25801559?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Collection of materials relating to FORCEDENTRY</div>",
             "url": "https://github.com/jeffssh/CVE-2021-30860",
             "title": "jeffssh/CVE-2021-30860: Collection of materials relating to FORCEDENTRY",
@@ -223,6 +212,17 @@
             "author": {
                 "name": "KtokKawu",
                 "url": "https://github.com/KtokKawu"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/21672558?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
+            "url": "https://github.com/corelight/CVE-2021-38647-noimages",
+            "title": "corelight/CVE-2021-38647-noimages",
+            "date_modified": "2024-03-13T20:05:25.000Z",
+            "date_published": "2024-03-13T20:05:11.000Z",
+            "author": {
+                "name": "corelight",
+                "url": "https://github.com/corelight"
             }
         }
     ]
