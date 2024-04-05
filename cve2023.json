@@ -6,9 +6,9 @@
     "description": "CVE-2023 FEED on GitHub",
     "items": [
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/163320335?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>URL Contamination Exploit Muted Java Drive-By downloads can transpire during the act of perusing a website, inaugurating an electronic mail communication.</div>",
-            "url": "https://github.com/Makaroshi/Slient-Url-Exploit-Slient-Builder-Exploit-Database-Cve-2023-Malware",
-            "title": "Makaroshi/Slient-Url-Exploit-Slient-Builder-Exploit-Database-Cve-2023-Malware: URL Contamination Exploit Muted Java Drive-By downloads can transpire during the act of perusing a website, inaugurating an electronic mail communication.",
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/163320335?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Microsoft Windows HTA (HTML Application) - Pinnacle of Remote Code Execution</div>",
+            "url": "https://github.com/Makaroshi/Hta-Exploit-Builder-Slient-Builder-Exploit-Database-Cve-2023-Malware",
+            "title": "Makaroshi/Hta-Exploit-Builder-Slient-Builder-Exploit-Database-Cve-2023-Malware: Microsoft Windows HTA (HTML Application) - Pinnacle of Remote Code Execution",
             "date_modified": "2024-03-31T00:19:52.000Z",
             "date_published": "2024-03-13T14:51:15.000Z",
             "author": {
@@ -17,9 +17,20 @@
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/163320335?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Microsoft Windows HTA (HTML Application) - Pinnacle of Remote Code Execution</div>",
-            "url": "https://github.com/Makaroshi/Hta-Exploit-Builder-Slient-Builder-Exploit-Database-Cve-2023-Malware",
-            "title": "Makaroshi/Hta-Exploit-Builder-Slient-Builder-Exploit-Database-Cve-2023-Malware: Microsoft Windows HTA (HTML Application) - Pinnacle of Remote Code Execution",
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/47142249?u=073fb5f90623c6614ac75a7f7ee619db68f4dbbe&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
+            "url": "https://github.com/msd0pe-1/CVE-2023-31714",
+            "title": "msd0pe-1/CVE-2023-31714",
+            "date_modified": "2024-01-18T05:26:53.000Z",
+            "date_published": "2023-04-16T20:20:32.000Z",
+            "author": {
+                "name": "msd0pe-1",
+                "url": "https://github.com/msd0pe-1"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/163320335?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>URL Contamination Exploit Muted Java Drive-By downloads can transpire during the act of perusing a website, inaugurating an electronic mail communication.</div>",
+            "url": "https://github.com/Makaroshi/Slient-Url-Exploit-Slient-Builder-Exploit-Database-Cve-2023-Malware",
+            "title": "Makaroshi/Slient-Url-Exploit-Slient-Builder-Exploit-Database-Cve-2023-Malware: URL Contamination Exploit Muted Java Drive-By downloads can transpire during the act of perusing a website, inaugurating an electronic mail communication.",
             "date_modified": "2024-03-31T00:19:52.000Z",
             "date_published": "2024-03-13T14:51:15.000Z",
             "author": {
@@ -212,17 +223,6 @@
             "author": {
                 "name": "St0rm-85",
                 "url": "https://github.com/St0rm-85"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/45214309?u=4aed207957eb481d952be545c4f94c29b3f08140&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>This Repository Includes Kubernetes manifest files for configuration of Honeypot system and Falco IDS in K8s environment. There are also Demo Application written with Node.js which is containing Remote Code Execution Vulnerability (CVE-2023-32314) for demonstrating all addvantages of this architecture to manage Honeypot systems</div>",
-            "url": "https://github.com/AdarkSt/Honeypot_Smart_Infrastructure",
-            "title": "AdarkSt/Honeypot_Smart_Infrastructure: This Repository Includes Kubernetes manifest files for configuration of Honeypot system and Falco IDS in K8s environment. There are also Demo Application written with Node.js which is containing Remote Code Execution Vulnerability (CVE-2023-32314) for demonstrating all addvantages of this architecture to manage Honeypot systems",
-            "date_modified": "2024-04-02T08:40:54.000Z",
-            "date_published": "2024-04-02T08:32:05.000Z",
-            "author": {
-                "name": "AdarkSt",
-                "url": "https://github.com/AdarkSt"
             }
         }
     ]
