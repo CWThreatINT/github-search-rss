@@ -17,9 +17,9 @@
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/163320335?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>URL Contamination Exploit Muted Java Drive-By downloads can transpire during the act of perusing a website, inaugurating an electronic mail communication.</div>",
-            "url": "https://github.com/Makaroshi/Slient-Url-Exploit-Slient-Builder-Exploit-Database-Cve-2023-Malware",
-            "title": "Makaroshi/Slient-Url-Exploit-Slient-Builder-Exploit-Database-Cve-2023-Malware: URL Contamination Exploit Muted Java Drive-By downloads can transpire during the act of perusing a website, inaugurating an electronic mail communication.",
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/163320335?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Microsoft Windows HTA (HTML Application) - Pinnacle of Remote Code Execution</div>",
+            "url": "https://github.com/Makaroshi/Hta-Exploit-Builder-Slient-Builder-Exploit-Database-Cve-2023-Malware",
+            "title": "Makaroshi/Hta-Exploit-Builder-Slient-Builder-Exploit-Database-Cve-2023-Malware: Microsoft Windows HTA (HTML Application) - Pinnacle of Remote Code Execution",
             "date_modified": "2024-03-31T00:19:52.000Z",
             "date_published": "2024-03-13T14:51:15.000Z",
             "author": {
@@ -28,9 +28,9 @@
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/163320335?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Microsoft Windows HTA (HTML Application) - Pinnacle of Remote Code Execution</div>",
-            "url": "https://github.com/Makaroshi/Hta-Exploit-Builder-Slient-Builder-Exploit-Database-Cve-2023-Malware",
-            "title": "Makaroshi/Hta-Exploit-Builder-Slient-Builder-Exploit-Database-Cve-2023-Malware: Microsoft Windows HTA (HTML Application) - Pinnacle of Remote Code Execution",
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/163320335?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>URL Contamination Exploit Muted Java Drive-By downloads can transpire during the act of perusing a website, inaugurating an electronic mail communication.</div>",
+            "url": "https://github.com/Makaroshi/Slient-Url-Exploit-Slient-Builder-Exploit-Database-Cve-2023-Malware",
+            "title": "Makaroshi/Slient-Url-Exploit-Slient-Builder-Exploit-Database-Cve-2023-Malware: URL Contamination Exploit Muted Java Drive-By downloads can transpire during the act of perusing a website, inaugurating an electronic mail communication.",
             "date_modified": "2024-03-31T00:19:52.000Z",
             "date_published": "2024-03-13T14:51:15.000Z",
             "author": {
@@ -47,6 +47,17 @@
             "author": {
                 "name": "Makaroshi",
                 "url": "https://github.com/Makaroshi"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/160543736?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Roundcube before 1.4.15, 1.5.x before 1.5.5, and 1.6.x before 1.6.4 and allows XSS to be saved via an HTML email message with a crafted SVG document due to program/ behavior lib/Roundcube/rcube_washtml.php</div>",
+            "url": "https://github.com/soreta2/CVE-2023-5631-POC",
+            "title": "soreta2/CVE-2023-5631-POC: Roundcube before 1.4.15, 1.5.x before 1.5.5, and 1.6.x before 1.6.4 and allows XSS to be saved via an HTML email message with a crafted SVG document due to program/ behavior lib/Roundcube/rcube_washtml.php",
+            "date_modified": "2024-04-05T20:48:35.000Z",
+            "date_published": "2024-04-05T20:47:32.000Z",
+            "author": {
+                "name": "soreta2",
+                "url": "https://github.com/soreta2"
             }
         },
         {
@@ -212,17 +223,6 @@
             "author": {
                 "name": "david-botelho-mariano",
                 "url": "https://github.com/david-botelho-mariano"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/138309416?u=6a614b1037e9c9ed5cbdfb1fdfe234822fe88147&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>For Aina</div>",
-            "url": "https://github.com/team890/CVE-2023-2024",
-            "title": "team890/CVE-2023-2024: For Aina",
-            "date_modified": "2024-04-02T23:46:40.000Z",
-            "date_published": "2023-12-04T15:55:22.000Z",
-            "author": {
-                "name": "team890",
-                "url": "https://github.com/team890"
             }
         }
     ]
