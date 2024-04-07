@@ -6,6 +6,17 @@
     "description": "CVE-2021 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/70383324?u=8613781c95336dce6c226d57a6f548a7b5200419&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2021-42013 Vulnerability Scanner  This Python script checks for the Remote Code Execution (RCE) vulnerability (CVE-2021-42013) in Apache 2.4.50. </div>",
+            "url": "https://github.com/BassoNicolas/CVE-2021-42013",
+            "title": "BassoNicolas/CVE-2021-42013: CVE-2021-42013 Vulnerability Scanner  This Python script checks for the Remote Code Execution (RCE) vulnerability (CVE-2021-42013) in Apache 2.4.50. ",
+            "date_modified": "2024-04-07T16:05:39.000Z",
+            "date_published": "2024-04-07T16:04:06.000Z",
+            "author": {
+                "name": "BassoNicolas",
+                "url": "https://github.com/BassoNicolas"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/159681973?u=d4d67370595b19d8de516dd4ba70863f843a7944&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>历史漏洞的细节以及利用方法汇总收集</div>",
             "url": "https://github.com/OracleNep/Nday-Exploit-Plan",
             "title": "OracleNep/Nday-Exploit-Plan: 历史漏洞的细节以及利用方法汇总收集",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "p0dalirius",
                 "url": "https://github.com/p0dalirius"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/16015720?u=402a88a6811ebab0c2cd643b59fddd440154d23e&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>This is a potentially vulnerable Java web application containing Log4j affected by log4shell(CVE-2021-44228).</div>",
-            "url": "https://github.com/KtokKawu/l4s-vulnapp",
-            "title": "KtokKawu/l4s-vulnapp: This is a potentially vulnerable Java web application containing Log4j affected by log4shell(CVE-2021-44228).",
-            "date_modified": "2024-03-15T19:37:44.000Z",
-            "date_published": "2024-03-15T18:57:11.000Z",
-            "author": {
-                "name": "KtokKawu",
-                "url": "https://github.com/KtokKawu"
             }
         }
     ]
