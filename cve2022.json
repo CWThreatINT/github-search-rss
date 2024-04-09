@@ -6,6 +6,17 @@
     "description": "CVE-2022 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/102582785?u=247dee199c574ec61a6623709e90393ccb7efa63&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>The script is from  <a href=\"https://github.com/JohnHammond/msdt-follina\">https://github.com/JohnHammond/msdt-follina</a>, just make it simple for me to use it and this script aim at generating the payload for more information refer the johnn hammond link</div>",
+            "url": "https://github.com/alien-keric/CVE-2022-30190",
+            "title": "alien-keric/CVE-2022-30190: The script is from  https://github.com/JohnHammond/msdt-follina, just make it simple for me to use it and this script aim at generating the payload for more information refer the johnn hammond link",
+            "date_modified": "2024-04-09T22:41:55.000Z",
+            "date_published": "2024-04-09T22:40:09.000Z",
+            "author": {
+                "name": "alien-keric",
+                "url": "https://github.com/alien-keric"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/655248?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>PoC for CVE-2022-21340</div>",
             "url": "https://github.com/Alexandre-Bartel/CVE-2022-21340",
             "title": "Alexandre-Bartel/CVE-2022-21340: PoC for CVE-2022-21340",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "AlexanderZinoni",
                 "url": "https://github.com/AlexanderZinoni"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/106105250?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2022-46395 POC for FireTV 2nd gen Cube (raven) </div>",
-            "url": "https://github.com/Pro-me3us/CVE_2022_46395_Raven",
-            "title": "Pro-me3us/CVE_2022_46395_Raven: CVE-2022-46395 POC for FireTV 2nd gen Cube (raven) ",
-            "date_modified": "2024-03-19T15:37:19.000Z",
-            "date_published": "2023-06-29T18:56:04.000Z",
-            "author": {
-                "name": "Pro-me3us",
-                "url": "https://github.com/Pro-me3us"
             }
         }
     ]
