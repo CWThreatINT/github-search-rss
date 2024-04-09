@@ -6,6 +6,17 @@
     "description": "CVE-2021 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/81924416?u=6a24d5d532eb61341b6ee7e5980bd233a459901a&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>This document provides a step-by-step guide to configuring a vulnerable Apache HTTP Server environment on Ubuntu 20.04 for educational purposes, specifically to demonstrate CVE-2021-41773. The setup detailed below is intended solely for use in controlled, secure, and isolated test environments.</div>",
+            "url": "https://github.com/sanskaros/CVE-2021-41773-Exploit-Environment",
+            "title": "sanskaros/CVE-2021-41773-Exploit-Environment: This document provides a step-by-step guide to configuring a vulnerable Apache HTTP Server environment on Ubuntu 20.04 for educational purposes, specifically to demonstrate CVE-2021-41773. The setup detailed below is intended solely for use in controlled, secure, and isolated test environments.",
+            "date_modified": "2024-04-09T12:33:34.000Z",
+            "date_published": "2024-04-09T12:33:34.000Z",
+            "author": {
+                "name": "sanskaros",
+                "url": "https://github.com/sanskaros"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/2387841?u=082c1655d763023ea65049680617a2af381c6b50&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Tool that runs a test to check whether one of your applications is affected by the recent vulnerabilities in log4j: CVE-2021-44228 and CVE-2021-45046</div>",
             "url": "https://github.com/alexbakker/log4shell-tools",
             "title": "alexbakker/log4shell-tools: Tool that runs a test to check whether one of your applications is affected by the recent vulnerabilities in log4j: CVE-2021-44228 and CVE-2021-45046",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "team-MineDEV",
                 "url": "https://github.com/team-MineDEV"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/79218792?u=f6b0f27134df6083787490cfcd2ccfdbd5eb70d6&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Exploit tool for CVE-2021-43008 Adminer 1.0 up to 4.6.2 Arbitrary File Read vulnerability </div>",
-            "url": "https://github.com/p0dalirius/CVE-2021-43008-AdminerRead",
-            "title": "p0dalirius/CVE-2021-43008-AdminerRead: Exploit tool for CVE-2021-43008 Adminer 1.0 up to 4.6.2 Arbitrary File Read vulnerability ",
-            "date_modified": "2024-01-08T18:05:40.000Z",
-            "date_published": "2021-12-13T17:26:49.000Z",
-            "author": {
-                "name": "p0dalirius",
-                "url": "https://github.com/p0dalirius"
             }
         }
     ]
