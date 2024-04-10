@@ -6,17 +6,6 @@
     "description": "CVE-2023 FEED on GitHub",
     "items": [
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/163320335?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Microsoft Windows HTA (HTML Application) - Pinnacle of Remote Code Execution</div>",
-            "url": "https://github.com/Makaroshi/Hta-Exploit-Builder-Slient-Builder-Exploit-Database-Cve-2023-Malware",
-            "title": "Makaroshi/Hta-Exploit-Builder-Slient-Builder-Exploit-Database-Cve-2023-Malware: Microsoft Windows HTA (HTML Application) - Pinnacle of Remote Code Execution",
-            "date_modified": "2024-03-31T00:19:52.000Z",
-            "date_published": "2024-03-13T14:51:15.000Z",
-            "author": {
-                "name": "Makaroshi",
-                "url": "https://github.com/Makaroshi"
-            }
-        },
-        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/163320335?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>In the hushed galleries of the Silent JPG Exploit, a symphony shrouded in enigma unfurls—an opus named silent-jpg-exploit-2018—a title that reverberates through the annals of intrigue.</div>",
             "url": "https://github.com/Makaroshi/Jpg-Png-Exploit-Slient-Builder-Exploit-Database-Cve-2023-Malware",
             "title": "Makaroshi/Jpg-Png-Exploit-Slient-Builder-Exploit-Database-Cve-2023-Malware: In the hushed galleries of the Silent JPG Exploit, a symphony shrouded in enigma unfurls—an opus named silent-jpg-exploit-2018—a title that reverberates through the annals of intrigue.",
@@ -25,17 +14,6 @@
             "author": {
                 "name": "Makaroshi",
                 "url": "https://github.com/Makaroshi"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/33483801?u=f3b85a6af67480e4b8c7f2fc19f37c230670a65b&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Ray OS Command Injection RCE(Unauthorized)</div>",
-            "url": "https://github.com/FireWolfWang/CVE-2023-6019",
-            "title": "FireWolfWang/CVE-2023-6019: Ray OS Command Injection RCE(Unauthorized)",
-            "date_modified": "2024-04-10T08:55:58.000Z",
-            "date_published": "2024-04-10T08:54:04.000Z",
-            "author": {
-                "name": "FireWolfWang",
-                "url": "https://github.com/FireWolfWang"
             }
         },
         {
@@ -58,6 +36,72 @@
             "author": {
                 "name": "Makaroshi",
                 "url": "https://github.com/Makaroshi"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/163320335?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Microsoft Windows HTA (HTML Application) - Pinnacle of Remote Code Execution</div>",
+            "url": "https://github.com/Makaroshi/Hta-Exploit-Builder-Slient-Builder-Exploit-Database-Cve-2023-Malware",
+            "title": "Makaroshi/Hta-Exploit-Builder-Slient-Builder-Exploit-Database-Cve-2023-Malware: Microsoft Windows HTA (HTML Application) - Pinnacle of Remote Code Execution",
+            "date_modified": "2024-03-31T00:19:52.000Z",
+            "date_published": "2024-03-13T14:51:15.000Z",
+            "author": {
+                "name": "Makaroshi",
+                "url": "https://github.com/Makaroshi"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/33483801?u=f3b85a6af67480e4b8c7f2fc19f37c230670a65b&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Ray OS Command Injection RCE(Unauthorized)</div>",
+            "url": "https://github.com/FireWolfWang/CVE-2023-6019",
+            "title": "FireWolfWang/CVE-2023-6019: Ray OS Command Injection RCE(Unauthorized)",
+            "date_modified": "2024-04-10T09:26:49.000Z",
+            "date_published": "2024-04-10T09:24:06.000Z",
+            "author": {
+                "name": "FireWolfWang",
+                "url": "https://github.com/FireWolfWang"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/134310220?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A go-exploit for fetching the RocketMQ broker configuration in order to discover indicators of compromise for CVE-2023-33246</div>",
+            "url": "https://github.com/vulncheck-oss/fetch-broker-conf",
+            "title": "vulncheck-oss/fetch-broker-conf: A go-exploit for fetching the RocketMQ broker configuration in order to discover indicators of compromise for CVE-2023-33246",
+            "date_modified": "2024-03-05T09:18:24.000Z",
+            "date_published": "2023-09-04T11:18:28.000Z",
+            "author": {
+                "name": "vulncheck-oss",
+                "url": "https://github.com/vulncheck-oss"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/134310220?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A go-exploit for Apache OFBiz CVE-2023-51467</div>",
+            "url": "https://github.com/vulncheck-oss/cve-2023-51467",
+            "title": "vulncheck-oss/cve-2023-51467: A go-exploit for Apache OFBiz CVE-2023-51467",
+            "date_modified": "2024-03-05T09:18:51.000Z",
+            "date_published": "2024-01-09T16:58:06.000Z",
+            "author": {
+                "name": "vulncheck-oss",
+                "url": "https://github.com/vulncheck-oss"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/134310220?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A go-exploit to scan for Juniper firewalls vulnerable to CVE-2023-36845</div>",
+            "url": "https://github.com/vulncheck-oss/cve-2023-36845-scanner",
+            "title": "vulncheck-oss/cve-2023-36845-scanner: A go-exploit to scan for Juniper firewalls vulnerable to CVE-2023-36845",
+            "date_modified": "2024-03-21T14:57:31.000Z",
+            "date_published": "2023-09-16T09:11:21.000Z",
+            "author": {
+                "name": "vulncheck-oss",
+                "url": "https://github.com/vulncheck-oss"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/134310220?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Three go-exploits exploiting CVE-2023-22527 to execute arbitrary code in memory</div>",
+            "url": "https://github.com/vulncheck-oss/cve-2023-22527",
+            "title": "vulncheck-oss/cve-2023-22527: Three go-exploits exploiting CVE-2023-22527 to execute arbitrary code in memory",
+            "date_modified": "2024-03-11T16:13:04.000Z",
+            "date_published": "2024-03-04T19:09:57.000Z",
+            "author": {
+                "name": "vulncheck-oss",
+                "url": "https://github.com/vulncheck-oss"
             }
         },
         {
@@ -171,58 +215,14 @@
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/134310220?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Three go-exploits exploiting CVE-2023-22527 to execute arbitrary code in memory</div>",
-            "url": "https://github.com/vulncheck-oss/cve-2023-22527",
-            "title": "vulncheck-oss/cve-2023-22527: Three go-exploits exploiting CVE-2023-22527 to execute arbitrary code in memory",
-            "date_modified": "2024-03-11T16:13:04.000Z",
-            "date_published": "2024-03-04T19:09:57.000Z",
-            "author": {
-                "name": "vulncheck-oss",
-                "url": "https://github.com/vulncheck-oss"
-            }
-        },
-        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/144001335?u=c42bea7e07a206065e90fc34c073c2292c885b40&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>🚨 CVE-2023-45866 - BlueDucky Implementation (Using DuckyScript) 🔓 Unauthenticated Peering Leading to Code Execution (Using HID Keyboard)</div>",
             "url": "https://github.com/pentestfunctions/BlueDucky",
             "title": "pentestfunctions/BlueDucky: 🚨 CVE-2023-45866 - BlueDucky Implementation (Using DuckyScript) 🔓 Unauthenticated Peering Leading to Code Execution (Using HID Keyboard)",
-            "date_modified": "2024-04-10T05:46:34.000Z",
+            "date_modified": "2024-04-10T09:20:08.000Z",
             "date_published": "2024-01-16T06:52:02.000Z",
             "author": {
                 "name": "pentestfunctions",
                 "url": "https://github.com/pentestfunctions"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/106973537?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
-            "url": "https://github.com/nidhi7598/frameworks_base_AOSP10_r33_CVE-2023-45777",
-            "title": "nidhi7598/frameworks_base_AOSP10_r33_CVE-2023-45777",
-            "date_modified": "2024-04-08T13:18:15.000Z",
-            "date_published": "2022-07-04T11:44:39.000Z",
-            "author": {
-                "name": "nidhi7598",
-                "url": "https://github.com/nidhi7598"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/76501220?u=c118e1cb4b0e32231ebe5633f4e25763c6b647d9&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2023-44792 Reference</div>",
-            "url": "https://github.com/ally-petitt/CVE-2023-44792",
-            "title": "ally-petitt/CVE-2023-44792: CVE-2023-44792 Reference",
-            "date_modified": "2024-04-07T23:43:40.000Z",
-            "date_published": "2024-04-07T23:43:39.000Z",
-            "author": {
-                "name": "ally-petitt",
-                "url": "https://github.com/ally-petitt"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/83481196?u=f05a0d5d8cc8e031126a5c5c77590105184a8ce0&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2023-49965 | SpaceX / Starlink Router Gen 2 XSS </div>",
-            "url": "https://github.com/hackintoanetwork/SpaceX-Starlink-Router-Gen-2-XSS",
-            "title": "hackintoanetwork/SpaceX-Starlink-Router-Gen-2-XSS: CVE-2023-49965 | SpaceX / Starlink Router Gen 2 XSS ",
-            "date_modified": "2024-04-08T09:38:54.000Z",
-            "date_published": "2024-01-17T01:24:15.000Z",
-            "author": {
-                "name": "hackintoanetwork",
-                "url": "https://github.com/hackintoanetwork"
             }
         }
     ]
