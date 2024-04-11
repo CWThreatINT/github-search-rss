@@ -6,17 +6,6 @@
     "description": "CVE-2023 FEED on GitHub",
     "items": [
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/107396843?u=72d02a85dff8c20ac8e1083a22673c39340a3306&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
-            "url": "https://github.com/0xWhoami35/CVE-2023-23752",
-            "title": "0xWhoami35/CVE-2023-23752",
-            "date_modified": "2024-04-11T14:03:28.000Z",
-            "date_published": "2024-04-11T13:39:44.000Z",
-            "author": {
-                "name": "0xWhoami35",
-                "url": "https://github.com/0xWhoami35"
-            }
-        },
-        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/18195825?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023</div>",
             "url": "https://github.com/CVEProject/cvelist",
             "title": "CVEProject/cvelist: Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023",
@@ -69,6 +58,17 @@
             "author": {
                 "name": "Makaroshi",
                 "url": "https://github.com/Makaroshi"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/107396843?u=72d02a85dff8c20ac8e1083a22673c39340a3306&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
+            "url": "https://github.com/0xWhoami35/CVE-2023-23752",
+            "title": "0xWhoami35/CVE-2023-23752",
+            "date_modified": "2024-04-11T14:03:28.000Z",
+            "date_published": "2024-04-11T13:39:44.000Z",
+            "author": {
+                "name": "0xWhoami35",
+                "url": "https://github.com/0xWhoami35"
             }
         },
         {
