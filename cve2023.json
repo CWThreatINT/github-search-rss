@@ -6,17 +6,6 @@
     "description": "CVE-2023 FEED on GitHub",
     "items": [
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/103935434?u=9ba2c0ed09273f4d2ea30daa8819160aeced5533&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>MinIO vulnerability exploit - CVE-2023-28432</div>",
-            "url": "https://github.com/0xRulez/CVE-2023-28432",
-            "title": "0xRulez/CVE-2023-28432: MinIO vulnerability exploit - CVE-2023-28432",
-            "date_modified": "2024-04-13T13:58:09.000Z",
-            "date_published": "2024-04-13T13:52:43.000Z",
-            "author": {
-                "name": "0xRulez",
-                "url": "https://github.com/0xRulez"
-            }
-        },
-        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/18195825?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023</div>",
             "url": "https://github.com/CVEProject/cvelist",
             "title": "CVEProject/cvelist: Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023",
@@ -25,6 +14,17 @@
             "author": {
                 "name": "CVEProject",
                 "url": "https://github.com/CVEProject"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/103935434?u=9ba2c0ed09273f4d2ea30daa8819160aeced5533&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>MinIO vulnerability exploit - CVE-2023-28432</div>",
+            "url": "https://github.com/0xRulez/CVE-2023-28432",
+            "title": "0xRulez/CVE-2023-28432: MinIO vulnerability exploit - CVE-2023-28432",
+            "date_modified": "2024-04-13T13:58:09.000Z",
+            "date_published": "2024-04-13T13:52:43.000Z",
+            "author": {
+                "name": "0xRulez",
+                "url": "https://github.com/0xRulez"
             }
         },
         {
