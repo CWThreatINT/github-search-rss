@@ -6,6 +6,17 @@
     "description": "CVE-2022 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/44779781?u=5a4606deddd1d84a7dbbd70353c4c1183028bbff&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
+            "url": "https://github.com/fuzzlove/CVE-2022-35411",
+            "title": "fuzzlove/CVE-2022-35411",
+            "date_modified": "2024-04-14T04:09:30.000Z",
+            "date_published": "2024-04-14T04:08:44.000Z",
+            "author": {
+                "name": "fuzzlove",
+                "url": "https://github.com/fuzzlove"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/158234444?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
             "url": "https://github.com/miguelc49/CVE-2022-39987-3",
             "title": "miguelc49/CVE-2022-39987-3",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "ox1111",
                 "url": "https://github.com/ox1111"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/103410775?u=c54365214f50a7aa1a7245a97110c3e6f387fd32&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
-            "url": "https://github.com/CharonDefalt/WordPress--CVE-2022-21661",
-            "title": "CharonDefalt/WordPress--CVE-2022-21661",
-            "date_modified": "2024-03-24T07:03:35.000Z",
-            "date_published": "2024-03-24T07:03:35.000Z",
-            "author": {
-                "name": "CharonDefalt",
-                "url": "https://github.com/CharonDefalt"
             }
         }
     ]
