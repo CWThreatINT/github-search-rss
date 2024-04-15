@@ -6,6 +6,17 @@
     "description": "CVE-2021 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/51345640?u=ac76ed6d5a99dc3a44d9eb88e997f98052cfba3d&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>OpenPLC 3 WebServer Authenticated Remote Code Execution.</div>",
+            "url": "https://github.com/mind2hex/CVE-2021-31630",
+            "title": "mind2hex/CVE-2021-31630: OpenPLC 3 WebServer Authenticated Remote Code Execution.",
+            "date_modified": "2024-04-15T16:56:49.000Z",
+            "date_published": "2024-04-15T16:55:30.000Z",
+            "author": {
+                "name": "mind2hex",
+                "url": "https://github.com/mind2hex"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/56496067?u=6de39adbd12a9fa47a98d539b6e59afdb3b5c964&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2021-4034</div>",
             "url": "https://github.com/battleoverflow/CVE-2021-4034",
             "title": "battleoverflow/CVE-2021-4034: CVE-2021-4034",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "thewhiteh4t",
                 "url": "https://github.com/thewhiteh4t"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/94842031?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A exploit tool for Grafana Unauthorized arbitrary file reading vulnerability (CVE-2021-43798), it can burst plugins / extract secret_key / decrypt data_source info automatic.</div>",
-            "url": "https://github.com/A-D-Team/grafanaExp",
-            "title": "A-D-Team/grafanaExp: A exploit tool for Grafana Unauthorized arbitrary file reading vulnerability (CVE-2021-43798), it can burst plugins / extract secret_key / decrypt data_source info automatic.",
-            "date_modified": "2024-04-02T05:59:09.000Z",
-            "date_published": "2021-12-07T15:11:34.000Z",
-            "author": {
-                "name": "A-D-Team",
-                "url": "https://github.com/A-D-Team"
             }
         }
     ]
