@@ -6,6 +6,17 @@
     "description": "CVE-2021 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/56496067?u=6de39adbd12a9fa47a98d539b6e59afdb3b5c964&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2021-4034</div>",
+            "url": "https://github.com/battleoverflow/CVE-2021-4034",
+            "title": "battleoverflow/CVE-2021-4034: CVE-2021-4034",
+            "date_modified": "2024-04-14T16:16:44.000Z",
+            "date_published": "2022-03-16T23:05:53.000Z",
+            "author": {
+                "name": "battleoverflow",
+                "url": "https://github.com/battleoverflow"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/159681973?u=d4d67370595b19d8de516dd4ba70863f843a7944&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>历史漏洞的细节以及利用方法汇总收集</div>",
             "url": "https://github.com/OracleNep/Nday-Exploit-Plan",
             "title": "OracleNep/Nday-Exploit-Plan: 历史漏洞的细节以及利用方法汇总收集",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "A-D-Team",
                 "url": "https://github.com/A-D-Team"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/99700348?u=817cde7087b192ee489ece66eed627e75da6a3f3&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
-            "url": "https://github.com/ticofookfook/CVE-2021-43798",
-            "title": "ticofookfook/CVE-2021-43798",
-            "date_modified": "2024-03-27T21:57:13.000Z",
-            "date_published": "2024-03-27T21:47:06.000Z",
-            "author": {
-                "name": "ticofookfook",
-                "url": "https://github.com/ticofookfook"
             }
         }
     ]
