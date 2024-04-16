@@ -6,21 +6,32 @@
     "description": "CVE-2023 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/74002146?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2023-51385 </div>",
+            "url": "https://github.com/thinkliving2020/CVE-2023-51385-",
+            "title": "thinkliving2020/CVE-2023-51385-: CVE-2023-51385 ",
+            "date_modified": "2024-04-16T03:01:04.000Z",
+            "date_published": "2024-04-16T03:01:03.000Z",
+            "author": {
+                "name": "thinkliving2020",
+                "url": "https://github.com/thinkliving2020"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/1915998?u=a59ff4803da6568b5574d25c3f8552af54e925a1&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>PoC for CVE-2023-45288, continuation flood vulnerability</div>",
+            "url": "https://github.com/hex0punk/cont-flood-poc",
+            "title": "hex0punk/cont-flood-poc: PoC for CVE-2023-45288, continuation flood vulnerability",
+            "date_modified": "2024-04-15T02:04:10.000Z",
+            "date_published": "2024-04-12T07:36:39.000Z",
+            "author": {
+                "name": "hex0punk",
+                "url": "https://github.com/hex0punk"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/166955727?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>In the hushed galleries of the Silent JPG Exploit, a symphony shrouded in enigma unfurls—an opus named silent-jpg-exploit-2018—a title that reverberates through the annals of intrigue.</div>",
             "url": "https://github.com/GetCaption/Jpg-Png-Exploit-Slient-Builder-Exploit-Database-Cve-2023-Malware",
             "title": "GetCaption/Jpg-Png-Exploit-Slient-Builder-Exploit-Database-Cve-2023-Malware: In the hushed galleries of the Silent JPG Exploit, a symphony shrouded in enigma unfurls—an opus named silent-jpg-exploit-2018—a title that reverberates through the annals of intrigue.",
             "date_modified": "2024-04-13T21:04:29.000Z",
-            "date_published": "2024-04-13T21:01:14.000Z",
-            "author": {
-                "name": "GetCaption",
-                "url": "https://github.com/GetCaption"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/166955727?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>URL Contamination Exploit Muted Java Drive-By downloads can transpire during the act of perusing a website, inaugurating an electronic mail communication.</div>",
-            "url": "https://github.com/GetCaption/Slient-Url-Exploit-Slient-Builder-Exploit-Database-Cve-2023-Malware",
-            "title": "GetCaption/Slient-Url-Exploit-Slient-Builder-Exploit-Database-Cve-2023-Malware: URL Contamination Exploit Muted Java Drive-By downloads can transpire during the act of perusing a website, inaugurating an electronic mail communication.",
-            "date_modified": "2024-04-13T21:04:25.000Z",
             "date_published": "2024-04-13T21:01:14.000Z",
             "author": {
                 "name": "GetCaption",
@@ -44,6 +55,17 @@
             "title": "GetCaption/Hta-Exploit-Builder-Slient-Builder-Exploit-Database-Cve-2023-Malware: Microsoft Windows HTA (HTML Application) - Pinnacle of Remote Code Execution",
             "date_modified": "2024-04-13T21:04:40.000Z",
             "date_published": "2024-04-13T21:01:15.000Z",
+            "author": {
+                "name": "GetCaption",
+                "url": "https://github.com/GetCaption"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/166955727?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>URL Contamination Exploit Muted Java Drive-By downloads can transpire during the act of perusing a website, inaugurating an electronic mail communication.</div>",
+            "url": "https://github.com/GetCaption/Slient-Url-Exploit-Slient-Builder-Exploit-Database-Cve-2023-Malware",
+            "title": "GetCaption/Slient-Url-Exploit-Slient-Builder-Exploit-Database-Cve-2023-Malware: URL Contamination Exploit Muted Java Drive-By downloads can transpire during the act of perusing a website, inaugurating an electronic mail communication.",
+            "date_modified": "2024-04-13T21:04:25.000Z",
+            "date_published": "2024-04-13T21:01:14.000Z",
             "author": {
                 "name": "GetCaption",
                 "url": "https://github.com/GetCaption"
@@ -171,17 +193,6 @@
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/1915998?u=a59ff4803da6568b5574d25c3f8552af54e925a1&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>PoC for CVE-2023-45288, continuation flood vulnerability</div>",
-            "url": "https://github.com/hex0punk/cont-flood-poc",
-            "title": "hex0punk/cont-flood-poc: PoC for CVE-2023-45288, continuation flood vulnerability",
-            "date_modified": "2024-04-15T02:04:10.000Z",
-            "date_published": "2024-04-12T07:36:39.000Z",
-            "author": {
-                "name": "hex0punk",
-                "url": "https://github.com/hex0punk"
-            }
-        },
-        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/158234444?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
             "url": "https://github.com/miguelc49/CVE-2023-45280-2",
             "title": "miguelc49/CVE-2023-45280-2",
@@ -209,17 +220,6 @@
             "title": "miguelc49/CVE-2023-45280-1",
             "date_modified": "2024-04-14T17:41:05.000Z",
             "date_published": "2024-04-13T18:45:21.000Z",
-            "author": {
-                "name": "miguelc49",
-                "url": "https://github.com/miguelc49"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/158234444?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
-            "url": "https://github.com/miguelc49/CVE-2023-5720-2",
-            "title": "miguelc49/CVE-2023-5720-2",
-            "date_modified": "2024-04-14T17:41:22.000Z",
-            "date_published": "2024-04-13T18:45:31.000Z",
             "author": {
                 "name": "miguelc49",
                 "url": "https://github.com/miguelc49"
