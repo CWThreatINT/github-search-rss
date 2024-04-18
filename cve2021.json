@@ -6,6 +6,17 @@
     "description": "CVE-2021 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/1518719?u=58ce4b723683d7c7052d8a8c5ed4e8f2ba46952c&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Python3 RCE PoC for CVE-2021-26084</div>",
+            "url": "https://github.com/Marshall-Hallenbeck/CVE-2021-26084_Confluence_RCE",
+            "title": "Marshall-Hallenbeck/CVE-2021-26084_Confluence_RCE: Python3 RCE PoC for CVE-2021-26084",
+            "date_modified": "2024-04-18T16:28:16.000Z",
+            "date_published": "2024-04-18T16:28:15.000Z",
+            "author": {
+                "name": "Marshall-Hallenbeck",
+                "url": "https://github.com/Marshall-Hallenbeck"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/2086875?u=2c4581e0113f8231f83bb7e79c6c7fe65fe6fdee&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
             "url": "https://github.com/ebickle/CVE-2021-23337-template",
             "title": "ebickle/CVE-2021-23337-template",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "jeffssh",
                 "url": "https://github.com/jeffssh"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/164972007?u=0be4bd13e9446ef0b5c9947232e9a9c816b97b1b&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Downloaded a packet capture (.pcapng) file from malware-traffic-analysis.net which was an example of an attempted attack against a webserver using the Log4J vulnerability (CVE-2021-44228). I examined teh amount of endpoints communicating with the server and knowing jnidi as a common in the vulnerbilty found it in clear text</div>",
-            "url": "https://github.com/KirkDJohnson/Wireshark",
-            "title": "KirkDJohnson/Wireshark: Downloaded a packet capture (.pcapng) file from malware-traffic-analysis.net which was an example of an attempted attack against a webserver using the Log4J vulnerability (CVE-2021-44228). I examined teh amount of endpoints communicating with the server and knowing jnidi as a common in the vulnerbilty found it in clear text",
-            "date_modified": "2024-03-26T18:47:20.000Z",
-            "date_published": "2024-03-26T18:47:20.000Z",
-            "author": {
-                "name": "KirkDJohnson",
-                "url": "https://github.com/KirkDJohnson"
             }
         }
     ]
