@@ -6,6 +6,17 @@
     "description": "CVE-2021 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/160751832?u=fb7a16e89fc9cbbbbee755c462f18bdc0bc6e215&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
+            "url": "https://github.com/ASG-CASTLE/CVE-2021-4034",
+            "title": "ASG-CASTLE/CVE-2021-4034",
+            "date_modified": "2024-04-19T04:33:14.000Z",
+            "date_published": "2024-04-19T04:33:14.000Z",
+            "author": {
+                "name": "ASG-CASTLE",
+                "url": "https://github.com/ASG-CASTLE"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/158234444?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
             "url": "https://github.com/miguelc49/CVE-2021-46063-3",
             "title": "miguelc49/CVE-2021-46063-3",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "KirkDJohnson",
                 "url": "https://github.com/KirkDJohnson"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/36354846?u=99d06a9237c301569774dac1c70218d5c032773a&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Python script for exploiting command injection in Open PLC Webserver v3</div>",
-            "url": "https://github.com/thewhiteh4t/cve-2021-31630",
-            "title": "thewhiteh4t/cve-2021-31630: Python script for exploiting command injection in Open PLC Webserver v3",
-            "date_modified": "2024-04-16T21:35:49.000Z",
-            "date_published": "2024-03-28T21:31:45.000Z",
-            "author": {
-                "name": "thewhiteh4t",
-                "url": "https://github.com/thewhiteh4t"
             }
         }
     ]
