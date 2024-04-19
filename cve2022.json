@@ -6,6 +6,17 @@
     "description": "CVE-2022 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/38591075?u=1738f1b0a1d1a33ebe9a0931c789329d8dd84085&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>nmap detection scripts for CVE-2022-45477, CVE-2022-45479, CVE-2022-45482, CVE-2022-45481</div>",
+            "url": "https://github.com/M507/nmap-vulnerability-scan-scripts",
+            "title": "M507/nmap-vulnerability-scan-scripts: nmap detection scripts for CVE-2022-45477, CVE-2022-45479, CVE-2022-45482, CVE-2022-45481",
+            "date_modified": "2024-04-19T19:57:42.000Z",
+            "date_published": "2023-02-26T23:39:42.000Z",
+            "author": {
+                "name": "M507",
+                "url": "https://github.com/M507"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/145501807?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
             "url": "https://github.com/dcheng69/CVE-2022-0185-Case-Study",
             "title": "dcheng69/CVE-2022-0185-Case-Study",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "mind2hex",
                 "url": "https://github.com/mind2hex"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/143888307?u=8e517c5504a2c6c21e3707440cabba67fcfd3aab&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A working POC found while doing a HTB challenge. Original: <a href=\"https://github.com/user0x1337/CVE-2022-39227\">https://github.com/user0x1337/CVE-2022-39227</a></div>",
-            "url": "https://github.com/NoSpaceAvailable/CVE-2022-39227",
-            "title": "NoSpaceAvailable/CVE-2022-39227: A working POC found while doing a HTB challenge. Original: https://github.com/user0x1337/CVE-2022-39227",
-            "date_modified": "2024-03-28T12:58:10.000Z",
-            "date_published": "2024-03-28T12:55:13.000Z",
-            "author": {
-                "name": "NoSpaceAvailable",
-                "url": "https://github.com/NoSpaceAvailable"
             }
         }
     ]
