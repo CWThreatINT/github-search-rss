@@ -6,10 +6,32 @@
     "description": "CVE-2023 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/102041143?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A tool that checks if a TorchServe instance is vulnerable to CVE-2023-43654</div>",
+            "url": "https://github.com/OligoCyberSecurity/ShellTorchChecker",
+            "title": "OligoCyberSecurity/ShellTorchChecker: A tool that checks if a TorchServe instance is vulnerable to CVE-2023-43654",
+            "date_modified": "2024-04-21T14:44:24.000Z",
+            "date_published": "2023-10-02T11:33:37.000Z",
+            "author": {
+                "name": "OligoCyberSecurity",
+                "url": "https://github.com/OligoCyberSecurity"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/47860813?u=5df4f49ac6dea440217fa30e032231394e6c424a&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Python POC for CVE-2023-6019 taken from <a href=\"https://huntr.com/bounties/d0290f3c-b302-4161-89f2-c13bb28b4cfe\" rel=\"nofollow\">https://huntr.com/bounties/d0290f3c-b302-4161-89f2-c13bb28b4cfe</a></div>",
+            "url": "https://github.com/Clydeston/CVE-2023-6019",
+            "title": "Clydeston/CVE-2023-6019: Python POC for CVE-2023-6019 taken from https://huntr.com/bounties/d0290f3c-b302-4161-89f2-c13bb28b4cfe",
+            "date_modified": "2024-04-21T14:32:48.000Z",
+            "date_published": "2024-04-21T14:30:28.000Z",
+            "author": {
+                "name": "Clydeston",
+                "url": "https://github.com/Clydeston"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/57496383?u=b77165a0a751a5946a937d0984c22f0b8ac445cc&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>JetBrains TeamCity Unauthenticated Remote Code Execution - Python3 Implementation</div>",
-            "url": "https://github.com/hotplugin0x01/CVE-2023-42793-POC",
-            "title": "hotplugin0x01/CVE-2023-42793-POC: JetBrains TeamCity Unauthenticated Remote Code Execution - Python3 Implementation",
-            "date_modified": "2024-04-21T14:04:19.000Z",
+            "url": "https://github.com/hotplugin0x01/CVE-2023-42793",
+            "title": "hotplugin0x01/CVE-2023-42793: JetBrains TeamCity Unauthenticated Remote Code Execution - Python3 Implementation",
+            "date_modified": "2024-04-21T14:07:19.000Z",
             "date_published": "2024-04-21T13:52:28.000Z",
             "author": {
                 "name": "hotplugin0x01",
@@ -198,28 +220,6 @@
             "title": "miguelc49/CVE-2023-33264-2",
             "date_modified": "2024-04-14T17:39:34.000Z",
             "date_published": "2024-04-14T07:35:13.000Z",
-            "author": {
-                "name": "miguelc49",
-                "url": "https://github.com/miguelc49"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/158234444?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
-            "url": "https://github.com/miguelc49/CVE-2023-33264-1",
-            "title": "miguelc49/CVE-2023-33264-1",
-            "date_modified": "2024-04-14T17:39:29.000Z",
-            "date_published": "2024-04-14T07:35:15.000Z",
-            "author": {
-                "name": "miguelc49",
-                "url": "https://github.com/miguelc49"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/158234444?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
-            "url": "https://github.com/miguelc49/CVE-2023-34458-1",
-            "title": "miguelc49/CVE-2023-34458-1",
-            "date_modified": "2024-04-14T17:39:41.000Z",
-            "date_published": "2024-04-14T07:39:26.000Z",
             "author": {
                 "name": "miguelc49",
                 "url": "https://github.com/miguelc49"
