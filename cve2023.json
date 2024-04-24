@@ -6,25 +6,25 @@
     "description": "CVE-2023 FEED on GitHub",
     "items": [
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/52281871?u=8d8b8fca9c336fcf592b60e0cb7cc0d4ea8056e6&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>JetBrains TeamCity 2023.05.3 - Remote Code Execution (RCE)</div>",
-            "url": "https://github.com/Zyad-Elsayed/CVE-2023-42793",
-            "title": "Zyad-Elsayed/CVE-2023-42793: JetBrains TeamCity 2023.05.3 - Remote Code Execution (RCE)",
-            "date_modified": "2024-04-24T21:04:26.000Z",
-            "date_published": "2024-04-24T16:33:20.000Z",
-            "author": {
-                "name": "Zyad-Elsayed",
-                "url": "https://github.com/Zyad-Elsayed"
-            }
-        },
-        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/18195825?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023</div>",
             "url": "https://github.com/CVEProject/cvelist",
             "title": "CVEProject/cvelist: Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023",
-            "date_modified": "2024-04-24T21:00:45.000Z",
+            "date_modified": "2024-04-24T22:00:47.000Z",
             "date_published": "2020-11-02T19:30:55.000Z",
             "author": {
                 "name": "CVEProject",
                 "url": "https://github.com/CVEProject"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/52281871?u=8d8b8fca9c336fcf592b60e0cb7cc0d4ea8056e6&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>JetBrains TeamCity 2023.05.3 - Remote Code Execution (RCE)</div>",
+            "url": "https://github.com/Zyad-Elsayed/CVE-2023-42793",
+            "title": "Zyad-Elsayed/CVE-2023-42793: JetBrains TeamCity 2023.05.3 - Remote Code Execution (RCE)",
+            "date_modified": "2024-04-24T21:54:13.000Z",
+            "date_published": "2024-04-24T16:33:20.000Z",
+            "author": {
+                "name": "Zyad-Elsayed",
+                "url": "https://github.com/Zyad-Elsayed"
             }
         },
         {
@@ -174,7 +174,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/57496383?u=b77165a0a751a5946a937d0984c22f0b8ac445cc&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>JetBrains TeamCity Unauthenticated Remote Code Execution - Python3 Implementation</div>",
             "url": "https://github.com/hotplugin0x01/CVE-2023-42793",
             "title": "hotplugin0x01/CVE-2023-42793: JetBrains TeamCity Unauthenticated Remote Code Execution - Python3 Implementation",
-            "date_modified": "2024-04-21T14:07:19.000Z",
+            "date_modified": "2024-04-24T21:54:53.000Z",
             "date_published": "2024-04-21T13:52:28.000Z",
             "author": {
                 "name": "hotplugin0x01",
