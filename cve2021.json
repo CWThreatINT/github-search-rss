@@ -6,6 +6,17 @@
     "description": "CVE-2021 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/123419537?u=feff4b792c50d63c9e7f8ef661fd04487778e166&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>exploit CVE-2021-44228 </div>",
+            "url": "https://github.com/sec13b/CVE-2021-44228-POC",
+            "title": "sec13b/CVE-2021-44228-POC: exploit CVE-2021-44228 ",
+            "date_modified": "2024-04-24T00:59:25.000Z",
+            "date_published": "2024-03-23T05:03:44.000Z",
+            "author": {
+                "name": "sec13b",
+                "url": "https://github.com/sec13b"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/123502260?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Part of my cybersecurity thesis consists in exploring and exploiting this vulnerability.</div>",
             "url": "https://github.com/Kyyomaa/CVE-2021-3560-EXPLOIT",
             "title": "Kyyomaa/CVE-2021-3560-EXPLOIT: Part of my cybersecurity thesis consists in exploring and exploiting this vulnerability.",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "YangHyperData",
                 "url": "https://github.com/YangHyperData"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/58673953?u=a4ca3e25effd6a35293789eeb84f3750708d4fc3&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Ubuntu OverlayFS Local Privesc</div>",
-            "url": "https://github.com/briskets/CVE-2021-3493",
-            "title": "briskets/CVE-2021-3493: Ubuntu OverlayFS Local Privesc",
-            "date_modified": "2024-04-12T07:10:22.000Z",
-            "date_published": "2021-04-19T20:07:01.000Z",
-            "author": {
-                "name": "briskets",
-                "url": "https://github.com/briskets"
             }
         }
     ]
