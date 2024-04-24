@@ -6,14 +6,36 @@
     "description": "CVE-2023 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/166605385?u=837d6531d5ca060f566cdfb10941b7ca3d8e2a00&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>In Spring for Apache Kafka 3.0.9 and earlier and versions 2.9.10 and earlier, a possible deserialization attack vector existed, but only if unusual configuration was applied. An attacker would have to construct a malicious serialized object in one of the deserialization exception record headers. Cre: NVD</div>",
+            "url": "https://github.com/buiduchoang24/CVE-2023-34040",
+            "title": "buiduchoang24/CVE-2023-34040: In Spring for Apache Kafka 3.0.9 and earlier and versions 2.9.10 and earlier, a possible deserialization attack vector existed, but only if unusual configuration was applied. An attacker would have to construct a malicious serialized object in one of the deserialization exception record headers. Cre: NVD",
+            "date_modified": "2024-04-24T04:04:00.000Z",
+            "date_published": "2024-04-24T03:54:16.000Z",
+            "author": {
+                "name": "buiduchoang24",
+                "url": "https://github.com/buiduchoang24"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/18195825?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023</div>",
             "url": "https://github.com/CVEProject/cvelist",
             "title": "CVEProject/cvelist: Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023",
-            "date_modified": "2024-04-24T03:01:05.000Z",
+            "date_modified": "2024-04-24T04:01:02.000Z",
             "date_published": "2020-11-02T19:30:55.000Z",
             "author": {
                 "name": "CVEProject",
                 "url": "https://github.com/CVEProject"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/166605385?u=837d6531d5ca060f566cdfb10941b7ca3d8e2a00&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>This project aims at re-analyzing and PoC about CVE-2023-33733. Reportlab up to v3.6.12 allows attackers to execute arbitrary code via supplying a crafted PDF file. </div>",
+            "url": "https://github.com/buiduchoang24/CVE-2023-33733",
+            "title": "buiduchoang24/CVE-2023-33733: This project aims at re-analyzing and PoC about CVE-2023-33733. Reportlab up to v3.6.12 allows attackers to execute arbitrary code via supplying a crafted PDF file. ",
+            "date_modified": "2024-04-24T03:48:47.000Z",
+            "date_published": "2024-04-22T09:32:54.000Z",
+            "author": {
+                "name": "buiduchoang24",
+                "url": "https://github.com/buiduchoang24"
             }
         },
         {
@@ -91,17 +113,6 @@
             "author": {
                 "name": "miguelc49",
                 "url": "https://github.com/miguelc49"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/166605385?u=837d6531d5ca060f566cdfb10941b7ca3d8e2a00&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
-            "url": "https://github.com/buiduchoang24/CVE-2023-33733",
-            "title": "buiduchoang24/CVE-2023-33733",
-            "date_modified": "2024-04-22T13:44:47.000Z",
-            "date_published": "2024-04-22T09:32:54.000Z",
-            "author": {
-                "name": "buiduchoang24",
-                "url": "https://github.com/buiduchoang24"
             }
         },
         {
@@ -209,17 +220,6 @@
             "title": "vulncheck-oss/cve-2023-22527: Three go-exploits exploiting CVE-2023-22527 to execute arbitrary code in memory",
             "date_modified": "2024-03-11T16:13:04.000Z",
             "date_published": "2024-03-04T19:09:57.000Z",
-            "author": {
-                "name": "vulncheck-oss",
-                "url": "https://github.com/vulncheck-oss"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/134310220?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A go-exploit for Apache Druid CVE-2023-25194</div>",
-            "url": "https://github.com/vulncheck-oss/cve-2023-25194",
-            "title": "vulncheck-oss/cve-2023-25194: A go-exploit for Apache Druid CVE-2023-25194",
-            "date_modified": "2024-04-17T13:53:11.000Z",
-            "date_published": "2024-04-17T13:36:34.000Z",
             "author": {
                 "name": "vulncheck-oss",
                 "url": "https://github.com/vulncheck-oss"
