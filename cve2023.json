@@ -9,11 +9,22 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/18195825?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023</div>",
             "url": "https://github.com/CVEProject/cvelist",
             "title": "CVEProject/cvelist: Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023",
-            "date_modified": "2024-04-25T19:00:49.000Z",
+            "date_modified": "2024-04-25T20:01:00.000Z",
             "date_published": "2020-11-02T19:30:55.000Z",
             "author": {
                 "name": "CVEProject",
                 "url": "https://github.com/CVEProject"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/129133392?u=4df17cb68eea3e96ae8f0be0bfd12bf9ed7b5d59&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Joomla Unauthenticated Information Disclosure (CVE-2023-23752) exploit</div>",
+            "url": "https://github.com/AlissonFaoli/CVE-2023-23752",
+            "title": "AlissonFaoli/CVE-2023-23752: Joomla Unauthenticated Information Disclosure (CVE-2023-23752) exploit",
+            "date_modified": "2024-04-25T19:49:11.000Z",
+            "date_published": "2023-10-20T13:32:28.000Z",
+            "author": {
+                "name": "AlissonFaoli",
+                "url": "https://github.com/AlissonFaoli"
             }
         },
         {
@@ -212,17 +223,6 @@
             "author": {
                 "name": "OracleNep",
                 "url": "https://github.com/OracleNep"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/5803348?u=d8ebe54df1b836b7892d14436ad89e48759ace51&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Improper Access Control on D-Link DIR-605L router</div>",
-            "url": "https://github.com/OscarAkaElvis/CVE-2023-51119",
-            "title": "OscarAkaElvis/CVE-2023-51119: Improper Access Control on D-Link DIR-605L router",
-            "date_modified": "2024-04-20T23:42:02.000Z",
-            "date_published": "2024-04-20T23:37:10.000Z",
-            "author": {
-                "name": "OscarAkaElvis",
-                "url": "https://github.com/OscarAkaElvis"
             }
         }
     ]
