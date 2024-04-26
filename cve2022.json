@@ -6,6 +6,17 @@
     "description": "CVE-2022 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/134574598?u=7656f8bca4ff602bb8e2830a02daafc1ed89e71e&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Explore CVE-2022-41741 with the Evil MP4 repository. It offers educational PoCs, mitigation strategies, and detailed documentation on securing nginx against MP4 file vulnerabilities. For legal, ethical security testing only.</div>",
+            "url": "https://github.com/dumbbutt0/evilMP4",
+            "title": "dumbbutt0/evilMP4: Explore CVE-2022-41741 with the Evil MP4 repository. It offers educational PoCs, mitigation strategies, and detailed documentation on securing nginx against MP4 file vulnerabilities. For legal, ethical security testing only.",
+            "date_modified": "2024-04-26T17:56:18.000Z",
+            "date_published": "2024-04-26T17:18:52.000Z",
+            "author": {
+                "name": "dumbbutt0",
+                "url": "https://github.com/dumbbutt0"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/90939597?u=03d53e7deac5393568b86e405e6d8a4b8f5150e9&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>PoC exploit for GLPI - Command injection using a third-party library script</div>",
             "url": "https://github.com/allendemoura/CVE-2022-35914",
             "title": "allendemoura/CVE-2022-35914: PoC exploit for GLPI - Command injection using a third-party library script",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "solomon12354",
                 "url": "https://github.com/solomon12354"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/12976017?u=6d3d423fda6a56643a0ca1acae5223cdf08a3c28&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>This is a one-time signature verification bypass. For persistent signature verification bypass, check <a href=\"https://github.com/TomKing062/CVE-2022-38691_38692\">https://github.com/TomKing062/CVE-2022-38691_38692</a></div>",
-            "url": "https://github.com/TomKing062/CVE-2022-38694_unlock_bootloader",
-            "title": "TomKing062/CVE-2022-38694_unlock_bootloader: This is a one-time signature verification bypass. For persistent signature verification bypass, check https://github.com/TomKing062/CVE-2022-38691_38692",
-            "date_modified": "2024-04-25T06:48:23.000Z",
-            "date_published": "2023-06-10T08:31:26.000Z",
-            "author": {
-                "name": "TomKing062",
-                "url": "https://github.com/TomKing062"
             }
         }
     ]
