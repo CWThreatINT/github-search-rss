@@ -6,6 +6,17 @@
     "description": "CVE-2022 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/90939597?u=03d53e7deac5393568b86e405e6d8a4b8f5150e9&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>PoC exploit for GLPI - Command injection using a third-party library script</div>",
+            "url": "https://github.com/allendemoura/CVE-2022-35914",
+            "title": "allendemoura/CVE-2022-35914: PoC exploit for GLPI - Command injection using a third-party library script",
+            "date_modified": "2024-04-26T05:37:11.000Z",
+            "date_published": "2024-04-24T06:39:10.000Z",
+            "author": {
+                "name": "allendemoura",
+                "url": "https://github.com/allendemoura"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/44779781?u=2152659ec4038fe7317accd509c9b79f58e4fd16&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>rpc.py 0.6.0 - Remote Code Execution (RCE)</div>",
             "url": "https://github.com/fuzzlove/CVE-2022-35411",
             "title": "fuzzlove/CVE-2022-35411: rpc.py 0.6.0 - Remote Code Execution (RCE)",
@@ -25,17 +36,6 @@
             "author": {
                 "name": "Schira4396",
                 "url": "https://github.com/Schira4396"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/90939597?u=03d53e7deac5393568b86e405e6d8a4b8f5150e9&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>PoC exploit for GLPI - Command injection using a third-party library script</div>",
-            "url": "https://github.com/allendemoura/CVE-2022-35914",
-            "title": "allendemoura/CVE-2022-35914: PoC exploit for GLPI - Command injection using a third-party library script",
-            "date_modified": "2024-04-24T09:21:55.000Z",
-            "date_published": "2024-04-24T06:39:10.000Z",
-            "author": {
-                "name": "allendemoura",
-                "url": "https://github.com/allendemoura"
             }
         },
         {
