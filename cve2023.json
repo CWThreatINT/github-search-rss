@@ -6,14 +6,36 @@
     "description": "CVE-2023 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/167255943?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2023-20198-RCE, support adding/deleting users and executing cli commands/system commands.</div>",
+            "url": "https://github.com/Codeb3af/CVE-2023-20198-RCE",
+            "title": "Codeb3af/CVE-2023-20198-RCE: CVE-2023-20198-RCE, support adding/deleting users and executing cli commands/system commands.",
+            "date_modified": "2024-04-28T01:28:03.000Z",
+            "date_published": "2024-04-28T01:25:41.000Z",
+            "author": {
+                "name": "Codeb3af",
+                "url": "https://github.com/Codeb3af"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/18195825?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023</div>",
             "url": "https://github.com/CVEProject/cvelist",
             "title": "CVEProject/cvelist: Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023",
-            "date_modified": "2024-04-28T00:03:56.000Z",
+            "date_modified": "2024-04-28T01:00:57.000Z",
             "date_published": "2020-11-02T19:30:55.000Z",
             "author": {
                 "name": "CVEProject",
                 "url": "https://github.com/CVEProject"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/151980876?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>TOP All bugbounty pentesting CVE-2023- POC Exp  RCE example payload  Things</div>",
+            "url": "https://github.com/GhostTroops/TOP",
+            "title": "GhostTroops/TOP: TOP All bugbounty pentesting CVE-2023- POC Exp  RCE example payload  Things",
+            "date_modified": "2024-04-28T00:54:16.000Z",
+            "date_published": "2022-03-19T01:54:15.000Z",
+            "author": {
+                "name": "GhostTroops",
+                "url": "https://github.com/GhostTroops"
             }
         },
         {
@@ -116,17 +138,6 @@
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/151980876?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>TOP All bugbounty pentesting CVE-2023- POC Exp  RCE example payload  Things</div>",
-            "url": "https://github.com/GhostTroops/TOP",
-            "title": "GhostTroops/TOP: TOP All bugbounty pentesting CVE-2023- POC Exp  RCE example payload  Things",
-            "date_modified": "2024-04-27T00:49:46.000Z",
-            "date_published": "2022-03-19T01:54:15.000Z",
-            "author": {
-                "name": "GhostTroops",
-                "url": "https://github.com/GhostTroops"
-            }
-        },
-        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/57405939?u=ae515cecec19230e497d288940ae799f51d66777&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>NSE script for checking the presence of CVE-2023-22515</div>",
             "url": "https://github.com/fyx1t/NSE--CVE-2023-22515",
             "title": "fyx1t/NSE--CVE-2023-22515: NSE script for checking the presence of CVE-2023-22515",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "onion2203",
                 "url": "https://github.com/onion2203"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/166605385?u=837d6531d5ca060f566cdfb10941b7ca3d8e2a00&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>This project aims at re-analyzing and PoC about CVE-2023-33733. Reportlab up to v3.6.12 allows attackers to execute arbitrary code via supplying a crafted PDF file. </div>",
-            "url": "https://github.com/buiduchoang24/CVE-2023-33733",
-            "title": "buiduchoang24/CVE-2023-33733: This project aims at re-analyzing and PoC about CVE-2023-33733. Reportlab up to v3.6.12 allows attackers to execute arbitrary code via supplying a crafted PDF file. ",
-            "date_modified": "2024-04-24T10:16:57.000Z",
-            "date_published": "2024-04-22T09:32:54.000Z",
-            "author": {
-                "name": "buiduchoang24",
-                "url": "https://github.com/buiduchoang24"
             }
         }
     ]
