@@ -6,6 +6,17 @@
     "description": "CVE-2022 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/168295718?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
+            "url": "https://github.com/xsxtw/SpringFramework_CVE-2022-22965_RCE",
+            "title": "xsxtw/SpringFramework_CVE-2022-22965_RCE",
+            "date_modified": "2024-05-01T02:39:16.000Z",
+            "date_published": "2024-05-01T02:36:13.000Z",
+            "author": {
+                "name": "xsxtw",
+                "url": "https://github.com/xsxtw"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/48636787?u=0caeb3f9ff8cd50bd83c1cbcd8e45b8a69a29f51&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A remote code execution vulnerability exists in the iControl REST API feature of F5's BIG-IP product. An unauthenticated, remote attacker can exploit this to bypass authentication and execute arbitrary commands with root privileges.</div>",
             "url": "https://github.com/gotr00t0day/CVE-2022-1388",
             "title": "gotr00t0day/CVE-2022-1388: A remote code execution vulnerability exists in the iControl REST API feature of F5's BIG-IP product. An unauthenticated, remote attacker can exploit this to bypass authentication and execute arbitrary commands with root privileges.",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "alien-keric",
                 "url": "https://github.com/alien-keric"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/655248?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>PoC for CVE-2022-21340</div>",
-            "url": "https://github.com/Alexandre-Bartel/CVE-2022-21340",
-            "title": "Alexandre-Bartel/CVE-2022-21340: PoC for CVE-2022-21340",
-            "date_modified": "2024-04-09T10:45:03.000Z",
-            "date_published": "2024-04-09T10:41:12.000Z",
-            "author": {
-                "name": "Alexandre-Bartel",
-                "url": "https://github.com/Alexandre-Bartel"
             }
         }
     ]
