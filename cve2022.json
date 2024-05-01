@@ -6,6 +6,17 @@
     "description": "CVE-2022 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/168295718?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
+            "url": "https://github.com/xsxtw/CVE-2022-0847",
+            "title": "xsxtw/CVE-2022-0847",
+            "date_modified": "2024-05-01T05:18:06.000Z",
+            "date_published": "2024-05-01T05:16:16.000Z",
+            "author": {
+                "name": "xsxtw",
+                "url": "https://github.com/xsxtw"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/60900565?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>GSoC 2022 Project testing CVEs against CRS</div>",
             "url": "https://github.com/coreruleset/project-seaweed",
             "title": "coreruleset/project-seaweed: GSoC 2022 Project testing CVEs against CRS",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "watchtowrlabs",
                 "url": "https://github.com/watchtowrlabs"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/102582785?u=247dee199c574ec61a6623709e90393ccb7efa63&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>The script is from  <a href=\"https://github.com/JohnHammond/msdt-follina\">https://github.com/JohnHammond/msdt-follina</a>, just make it simple for me to use it and this script aim at generating the payload for more information refer the johnn hammond link</div>",
-            "url": "https://github.com/alien-keric/CVE-2022-30190",
-            "title": "alien-keric/CVE-2022-30190: The script is from  https://github.com/JohnHammond/msdt-follina, just make it simple for me to use it and this script aim at generating the payload for more information refer the johnn hammond link",
-            "date_modified": "2024-04-10T01:26:23.000Z",
-            "date_published": "2024-04-09T22:40:09.000Z",
-            "author": {
-                "name": "alien-keric",
-                "url": "https://github.com/alien-keric"
             }
         }
     ]
