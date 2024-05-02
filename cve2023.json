@@ -9,7 +9,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/18195825?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023</div>",
             "url": "https://github.com/CVEProject/cvelist",
             "title": "CVEProject/cvelist: Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023",
-            "date_modified": "2024-05-02T14:01:07.000Z",
+            "date_modified": "2024-05-02T15:01:08.000Z",
             "date_published": "2020-11-02T19:30:55.000Z",
             "author": {
                 "name": "CVEProject",
@@ -17,10 +17,21 @@
             }
         },
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/168197422?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Microsoft Windows HTA (HTML Application) - Pinnacle of Remote Code Execution</div>",
+            "url": "https://github.com/CarsPound/Hta-Exploit-Builder-Slient-Builder-Exploit-Database-Cve-2023-Malware",
+            "title": "CarsPound/Hta-Exploit-Builder-Slient-Builder-Exploit-Database-Cve-2023-Malware: Microsoft Windows HTA (HTML Application) - Pinnacle of Remote Code Execution",
+            "date_modified": "2024-05-02T14:59:59.000Z",
+            "date_published": "2024-04-26T13:12:41.000Z",
+            "author": {
+                "name": "CarsPound",
+                "url": "https://github.com/CarsPound"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/168197422?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A meticulous scrutiny of the Exploit PDFs innards exposes a network of malevolence, unveiling both the nefarious hyperlink and the URL that precipitates</div>",
             "url": "https://github.com/CarsPound/Slient-PDF-FUD-Exploit-Slient-Builder-Exploit-Database-Cve-2023-Malware",
             "title": "CarsPound/Slient-PDF-FUD-Exploit-Slient-Builder-Exploit-Database-Cve-2023-Malware: A meticulous scrutiny of the Exploit PDFs innards exposes a network of malevolence, unveiling both the nefarious hyperlink and the URL that precipitates",
-            "date_modified": "2024-05-02T14:00:00.000Z",
+            "date_modified": "2024-05-02T14:59:27.000Z",
             "date_published": "2024-04-26T13:12:41.000Z",
             "author": {
                 "name": "CarsPound",
@@ -31,7 +42,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/168197422?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>In the hushed galleries of the Silent JPG Exploit, a symphony shrouded in enigma unfurls—an opus named silent-jpg-exploit-2018—a title that reverberates through the annals of intrigue.</div>",
             "url": "https://github.com/CarsPound/Jpg-Png-Exploit-Slient-Builder-Exploit-Database-Cve-2023-Malware",
             "title": "CarsPound/Jpg-Png-Exploit-Slient-Builder-Exploit-Database-Cve-2023-Malware: In the hushed galleries of the Silent JPG Exploit, a symphony shrouded in enigma unfurls—an opus named silent-jpg-exploit-2018—a title that reverberates through the annals of intrigue.",
-            "date_modified": "2024-05-02T13:56:27.000Z",
+            "date_modified": "2024-05-02T14:54:39.000Z",
             "date_published": "2024-04-26T13:12:41.000Z",
             "author": {
                 "name": "CarsPound",
@@ -42,7 +53,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/168197422?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>URL Contamination Exploit Muted Java Drive-By downloads can transpire during the act of perusing a website, inaugurating an electronic mail communication.</div>",
             "url": "https://github.com/CarsPound/Slient-Url-Exploit-Slient-Builder-Exploit-Database-Cve-2023-Malware",
             "title": "CarsPound/Slient-Url-Exploit-Slient-Builder-Exploit-Database-Cve-2023-Malware: URL Contamination Exploit Muted Java Drive-By downloads can transpire during the act of perusing a website, inaugurating an electronic mail communication.",
-            "date_modified": "2024-05-02T13:56:08.000Z",
+            "date_modified": "2024-05-02T14:53:43.000Z",
             "date_published": "2024-04-26T13:12:41.000Z",
             "author": {
                 "name": "CarsPound",
@@ -50,14 +61,14 @@
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/168197422?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Microsoft Windows HTA (HTML Application) - Pinnacle of Remote Code Execution</div>",
-            "url": "https://github.com/CarsPound/Hta-Exploit-Builder-Slient-Builder-Exploit-Database-Cve-2023-Malware",
-            "title": "CarsPound/Hta-Exploit-Builder-Slient-Builder-Exploit-Database-Cve-2023-Malware: Microsoft Windows HTA (HTML Application) - Pinnacle of Remote Code Execution",
-            "date_modified": "2024-05-02T13:55:03.000Z",
-            "date_published": "2024-04-26T13:12:41.000Z",
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/62648617?u=fe8d8a93396dc9e49a0902c416364e7e632b6a3e&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>This POC exploits a format validation vulnerability in the RTSP service of the Hipcam RealServer/V1.0, inducing a crash for approximately 45 seconds by injecting random data into the 'client_port' parameter during the RTSP SETUP request. Hipcam RealServer/V1.0 is used in many Hipcam Cameras. | CVE-2023-50685</div>",
+            "url": "https://github.com/UnderwaterCoder/Hipcam-RTSP-Format-Validation-Vulnerability",
+            "title": "UnderwaterCoder/Hipcam-RTSP-Format-Validation-Vulnerability: This POC exploits a format validation vulnerability in the RTSP service of the Hipcam RealServer/V1.0, inducing a crash for approximately 45 seconds by injecting random data into the 'client_port' parameter during the RTSP SETUP request. Hipcam RealServer/V1.0 is used in many Hipcam Cameras. | CVE-2023-50685",
+            "date_modified": "2024-05-02T14:40:08.000Z",
+            "date_published": "2023-12-10T13:21:43.000Z",
             "author": {
-                "name": "CarsPound",
-                "url": "https://github.com/CarsPound"
+                "name": "UnderwaterCoder",
+                "url": "https://github.com/UnderwaterCoder"
             }
         },
         {
@@ -212,17 +223,6 @@
             "author": {
                 "name": "thinkycx",
                 "url": "https://github.com/thinkycx"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/168156205?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
-            "url": "https://github.com/libertycityhacker/CVE-2023-43364-Exploit-CVE",
-            "title": "libertycityhacker/CVE-2023-43364-Exploit-CVE",
-            "date_modified": "2024-04-26T03:12:27.000Z",
-            "date_published": "2024-04-26T03:09:09.000Z",
-            "author": {
-                "name": "libertycityhacker",
-                "url": "https://github.com/libertycityhacker"
             }
         }
     ]
