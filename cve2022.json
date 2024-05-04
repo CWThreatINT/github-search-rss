@@ -20,7 +20,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/48636787?u=0caeb3f9ff8cd50bd83c1cbcd8e45b8a69a29f51&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A remote code execution vulnerability exists in the iControl REST API feature of F5's BIG-IP product. An unauthenticated, remote attacker can exploit this to bypass authentication and execute arbitrary commands with root privileges.</div>",
             "url": "https://github.com/gotr00t0day/CVE-2022-1388",
             "title": "gotr00t0day/CVE-2022-1388: A remote code execution vulnerability exists in the iControl REST API feature of F5's BIG-IP product. An unauthenticated, remote attacker can exploit this to bypass authentication and execute arbitrary commands with root privileges.",
-            "date_modified": "2024-04-30T01:12:22.000Z",
+            "date_modified": "2024-05-04T12:58:59.000Z",
             "date_published": "2024-04-30T01:10:05.000Z",
             "author": {
                 "name": "gotr00t0day",
