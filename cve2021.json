@@ -138,6 +138,17 @@
             }
         },
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/136675?u=4c736320009a865c9228c938781fe22c80c80b91&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Spring Boot web application vulnerable to Log4Shell (CVE-2021-44228).</div>",
+            "url": "https://github.com/christophetd/log4shell-vulnerable-app",
+            "title": "christophetd/log4shell-vulnerable-app: Spring Boot web application vulnerable to Log4Shell (CVE-2021-44228).",
+            "date_modified": "2024-05-04T17:46:39.000Z",
+            "date_published": "2021-12-10T12:38:20.000Z",
+            "author": {
+                "name": "christophetd",
+                "url": "https://github.com/christophetd"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/57404930?u=15c8c306eb2a82d233cacd9ae77893665db1de24&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>一款针对Vcenter的综合利用工具，包含目前最主流的CVE-2021-21972、CVE-2021-21985以及CVE-2021-22005、One Access的CVE-2022-22954、CVE-2022-22972/31656以及log4j，提供一键上传webshell，命令执行或者上传公钥使用SSH免密连接</div>",
             "url": "https://github.com/Schira4396/VcenterKiller",
             "title": "Schira4396/VcenterKiller: 一款针对Vcenter的综合利用工具，包含目前最主流的CVE-2021-21972、CVE-2021-21985以及CVE-2021-22005、One Access的CVE-2022-22954、CVE-2022-22972/31656以及log4j，提供一键上传webshell，命令执行或者上传公钥使用SSH免密连接",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "ASG-CASTLE",
                 "url": "https://github.com/ASG-CASTLE"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/158234444?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
-            "url": "https://github.com/miguelc49/CVE-2021-46063-3",
-            "title": "miguelc49/CVE-2021-46063-3",
-            "date_modified": "2024-04-14T17:38:58.000Z",
-            "date_published": "2024-04-14T07:38:42.000Z",
-            "author": {
-                "name": "miguelc49",
-                "url": "https://github.com/miguelc49"
             }
         }
     ]
