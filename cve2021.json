@@ -6,17 +6,6 @@
     "description": "CVE-2021 FEED on GitHub",
     "items": [
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/66146701?u=582fd377537b9e72c83286b3912a4b27c994e96a&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
-            "url": "https://github.com/c0d3cr4f73r/CVE-2021-44228",
-            "title": "c0d3cr4f73r/CVE-2021-44228",
-            "date_modified": "2024-05-05T12:28:38.000Z",
-            "date_published": "2024-05-05T11:50:44.000Z",
-            "author": {
-                "name": "c0d3cr4f73r",
-                "url": "https://github.com/c0d3cr4f73r"
-            }
-        },
-        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/88459207?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
             "url": "https://github.com/supportingmx/cve-2021-4034",
             "title": "supportingmx/cve-2021-4034",
@@ -223,6 +212,17 @@
             "author": {
                 "name": "Part01-Pai",
                 "url": "https://github.com/Part01-Pai"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/160751832?u=fb7a16e89fc9cbbbbee755c462f18bdc0bc6e215&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
+            "url": "https://github.com/ASG-CASTLE/CVE-2021-4034",
+            "title": "ASG-CASTLE/CVE-2021-4034",
+            "date_modified": "2024-04-19T04:33:14.000Z",
+            "date_published": "2024-04-19T04:33:14.000Z",
+            "author": {
+                "name": "ASG-CASTLE",
+                "url": "https://github.com/ASG-CASTLE"
             }
         }
     ]
