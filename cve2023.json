@@ -6,10 +6,21 @@
     "description": "CVE-2023 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/10403781?u=0d24f271775e3d29cfd9ef9b5d449bcd7a088cc8&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Critical use-after-free vulnerability discovered in Tinyproxy</div>",
+            "url": "https://github.com/d0rb/CVE-2023-49606",
+            "title": "d0rb/CVE-2023-49606: Critical use-after-free vulnerability discovered in Tinyproxy",
+            "date_modified": "2024-05-07T10:06:12.000Z",
+            "date_published": "2024-05-07T10:03:01.000Z",
+            "author": {
+                "name": "d0rb",
+                "url": "https://github.com/d0rb"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/18195825?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023</div>",
             "url": "https://github.com/CVEProject/cvelist",
             "title": "CVEProject/cvelist: Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023",
-            "date_modified": "2024-05-07T09:00:56.000Z",
+            "date_modified": "2024-05-07T10:00:59.000Z",
             "date_published": "2020-11-02T19:30:55.000Z",
             "author": {
                 "name": "CVEProject",
@@ -20,11 +31,66 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/168197422?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>In the hushed galleries of the Silent JPG Exploit, a symphony shrouded in enigma unfurls—an opus named silent-jpg-exploit-2018—a title that reverberates through the annals of intrigue.</div>",
             "url": "https://github.com/CarsPound/Jpg-Png-Exploit-Slient-Builder-Exploit-Database-Cve-2023-Malware",
             "title": "CarsPound/Jpg-Png-Exploit-Slient-Builder-Exploit-Database-Cve-2023-Malware: In the hushed galleries of the Silent JPG Exploit, a symphony shrouded in enigma unfurls—an opus named silent-jpg-exploit-2018—a title that reverberates through the annals of intrigue.",
-            "date_modified": "2024-05-07T08:57:55.000Z",
+            "date_modified": "2024-05-07T10:00:07.000Z",
             "date_published": "2024-04-26T13:12:41.000Z",
             "author": {
                 "name": "CarsPound",
                 "url": "https://github.com/CarsPound"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/168197422?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Microsoft Windows HTA (HTML Application) - Pinnacle of Remote Code Execution</div>",
+            "url": "https://github.com/CarsPound/Hta-Exploit-Builder-Slient-Builder-Exploit-Database-Cve-2023-Malware",
+            "title": "CarsPound/Hta-Exploit-Builder-Slient-Builder-Exploit-Database-Cve-2023-Malware: Microsoft Windows HTA (HTML Application) - Pinnacle of Remote Code Execution",
+            "date_modified": "2024-05-07T09:58:59.000Z",
+            "date_published": "2024-04-26T13:12:41.000Z",
+            "author": {
+                "name": "CarsPound",
+                "url": "https://github.com/CarsPound"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/168197422?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A meticulous scrutiny of the Exploit PDFs innards exposes a network of malevolence, unveiling both the nefarious hyperlink and the URL that precipitates</div>",
+            "url": "https://github.com/CarsPound/Slient-PDF-FUD-Exploit-Slient-Builder-Exploit-Database-Cve-2023-Malware",
+            "title": "CarsPound/Slient-PDF-FUD-Exploit-Slient-Builder-Exploit-Database-Cve-2023-Malware: A meticulous scrutiny of the Exploit PDFs innards exposes a network of malevolence, unveiling both the nefarious hyperlink and the URL that precipitates",
+            "date_modified": "2024-05-07T09:56:59.000Z",
+            "date_published": "2024-04-26T13:12:41.000Z",
+            "author": {
+                "name": "CarsPound",
+                "url": "https://github.com/CarsPound"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/168197422?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>URL Contamination Exploit Muted Java Drive-By downloads can transpire during the act of perusing a website, inaugurating an electronic mail communication.</div>",
+            "url": "https://github.com/CarsPound/Slient-Url-Exploit-Slient-Builder-Exploit-Database-Cve-2023-Malware",
+            "title": "CarsPound/Slient-Url-Exploit-Slient-Builder-Exploit-Database-Cve-2023-Malware: URL Contamination Exploit Muted Java Drive-By downloads can transpire during the act of perusing a website, inaugurating an electronic mail communication.",
+            "date_modified": "2024-05-07T09:52:15.000Z",
+            "date_published": "2024-04-26T13:12:41.000Z",
+            "author": {
+                "name": "CarsPound",
+                "url": "https://github.com/CarsPound"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/62617135?u=4c9da9bf8aab6e6deedc49cee660ac5abddb46f7&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>LINKSYS AC1900 EA7500v3 IGD UPnP Stack Buffer Overflow Remote Code Execution Vulnerability</div>",
+            "url": "https://github.com/dest-3/CVE-2023-46012",
+            "title": "dest-3/CVE-2023-46012: LINKSYS AC1900 EA7500v3 IGD UPnP Stack Buffer Overflow Remote Code Execution Vulnerability",
+            "date_modified": "2024-05-07T09:46:35.000Z",
+            "date_published": "2024-05-06T16:35:19.000Z",
+            "author": {
+                "name": "dest-3",
+                "url": "https://github.com/dest-3"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/159681973?u=5f58ba628dbe5f9dc8bad03ec134367f6af6e2b7&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>历史漏洞的细节以及利用方法汇总收集</div>",
+            "url": "https://github.com/OracleNep/Nday-Exploit-Plan",
+            "title": "OracleNep/Nday-Exploit-Plan: 历史漏洞的细节以及利用方法汇总收集",
+            "date_modified": "2024-05-07T09:44:34.000Z",
+            "date_published": "2024-02-11T06:55:47.000Z",
+            "author": {
+                "name": "OracleNep",
+                "url": "https://github.com/OracleNep"
             }
         },
         {
@@ -36,50 +102,6 @@
             "author": {
                 "name": "ronmadar",
                 "url": "https://github.com/ronmadar"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/168197422?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>URL Contamination Exploit Muted Java Drive-By downloads can transpire during the act of perusing a website, inaugurating an electronic mail communication.</div>",
-            "url": "https://github.com/CarsPound/Slient-Url-Exploit-Slient-Builder-Exploit-Database-Cve-2023-Malware",
-            "title": "CarsPound/Slient-Url-Exploit-Slient-Builder-Exploit-Database-Cve-2023-Malware: URL Contamination Exploit Muted Java Drive-By downloads can transpire during the act of perusing a website, inaugurating an electronic mail communication.",
-            "date_modified": "2024-05-07T08:56:26.000Z",
-            "date_published": "2024-04-26T13:12:41.000Z",
-            "author": {
-                "name": "CarsPound",
-                "url": "https://github.com/CarsPound"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/168197422?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Microsoft Windows HTA (HTML Application) - Pinnacle of Remote Code Execution</div>",
-            "url": "https://github.com/CarsPound/Hta-Exploit-Builder-Slient-Builder-Exploit-Database-Cve-2023-Malware",
-            "title": "CarsPound/Hta-Exploit-Builder-Slient-Builder-Exploit-Database-Cve-2023-Malware: Microsoft Windows HTA (HTML Application) - Pinnacle of Remote Code Execution",
-            "date_modified": "2024-05-07T08:55:57.000Z",
-            "date_published": "2024-04-26T13:12:41.000Z",
-            "author": {
-                "name": "CarsPound",
-                "url": "https://github.com/CarsPound"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/168197422?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A meticulous scrutiny of the Exploit PDFs innards exposes a network of malevolence, unveiling both the nefarious hyperlink and the URL that precipitates</div>",
-            "url": "https://github.com/CarsPound/Slient-PDF-FUD-Exploit-Slient-Builder-Exploit-Database-Cve-2023-Malware",
-            "title": "CarsPound/Slient-PDF-FUD-Exploit-Slient-Builder-Exploit-Database-Cve-2023-Malware: A meticulous scrutiny of the Exploit PDFs innards exposes a network of malevolence, unveiling both the nefarious hyperlink and the URL that precipitates",
-            "date_modified": "2024-05-07T08:54:16.000Z",
-            "date_published": "2024-04-26T13:12:41.000Z",
-            "author": {
-                "name": "CarsPound",
-                "url": "https://github.com/CarsPound"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/159681973?u=5f58ba628dbe5f9dc8bad03ec134367f6af6e2b7&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>历史漏洞的细节以及利用方法汇总收集</div>",
-            "url": "https://github.com/OracleNep/Nday-Exploit-Plan",
-            "title": "OracleNep/Nday-Exploit-Plan: 历史漏洞的细节以及利用方法汇总收集",
-            "date_modified": "2024-05-07T07:59:31.000Z",
-            "date_published": "2024-02-11T06:55:47.000Z",
-            "author": {
-                "name": "OracleNep",
-                "url": "https://github.com/OracleNep"
             }
         },
         {
@@ -124,17 +146,6 @@
             "author": {
                 "name": "miguelc49",
                 "url": "https://github.com/miguelc49"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/62617135?u=4c9da9bf8aab6e6deedc49cee660ac5abddb46f7&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>LINKSYS AC1900 EA7500v3 IGD UPnP Stack Buffer Overflow Remote Code Execution Vulnerability</div>",
-            "url": "https://github.com/dest-3/CVE-2023-46012",
-            "title": "dest-3/CVE-2023-46012: LINKSYS AC1900 EA7500v3 IGD UPnP Stack Buffer Overflow Remote Code Execution Vulnerability",
-            "date_modified": "2024-05-06T16:41:08.000Z",
-            "date_published": "2024-05-06T16:35:19.000Z",
-            "author": {
-                "name": "dest-3",
-                "url": "https://github.com/dest-3"
             }
         },
         {
@@ -212,17 +223,6 @@
             "author": {
                 "name": "ronmadar",
                 "url": "https://github.com/ronmadar"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/66146701?u=582fd377537b9e72c83286b3912a4b27c994e96a&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
-            "url": "https://github.com/c0d3cr4f73r/CVE-2023-1326",
-            "title": "c0d3cr4f73r/CVE-2023-1326",
-            "date_modified": "2024-05-05T02:19:49.000Z",
-            "date_published": "2024-05-04T19:47:58.000Z",
-            "author": {
-                "name": "c0d3cr4f73r",
-                "url": "https://github.com/c0d3cr4f73r"
             }
         }
     ]
