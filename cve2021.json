@@ -6,6 +6,17 @@
     "description": "CVE-2021 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/120470330?u=23819a4b5283a4add5e5ead2e1118b6d3963c595&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A version of the PoC for CVE-2021-31630 from <a href=\"https://github.com/Hunt3r0x/CVE-2021-31630-HTB\">https://github.com/Hunt3r0x/CVE-2021-31630-HTB</a> but without the political messages, because they are unneccessary.</div>",
+            "url": "https://github.com/sealldeveloper/CVE-2021-31630-PoC",
+            "title": "sealldeveloper/CVE-2021-31630-PoC: A version of the PoC for CVE-2021-31630 from https://github.com/Hunt3r0x/CVE-2021-31630-HTB but without the political messages, because they are unneccessary.",
+            "date_modified": "2024-05-13T15:21:58.000Z",
+            "date_published": "2024-05-13T15:17:38.000Z",
+            "author": {
+                "name": "sealldeveloper",
+                "url": "https://github.com/sealldeveloper"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/12827152?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Scans for Log4j versions effected by CVE-2021-44228</div>",
             "url": "https://github.com/inettgmbh/checkmk-log4j-scanner",
             "title": "inettgmbh/checkmk-log4j-scanner: Scans for Log4j versions effected by CVE-2021-44228",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "sec13b",
                 "url": "https://github.com/sec13b"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/123502260?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Part of my cybersecurity thesis consists in exploring and exploiting this vulnerability.</div>",
-            "url": "https://github.com/Kyyomaa/CVE-2021-3560-EXPLOIT",
-            "title": "Kyyomaa/CVE-2021-3560-EXPLOIT: Part of my cybersecurity thesis consists in exploring and exploiting this vulnerability.",
-            "date_modified": "2024-04-23T11:02:22.000Z",
-            "date_published": "2024-03-24T11:37:18.000Z",
-            "author": {
-                "name": "Kyyomaa",
-                "url": "https://github.com/Kyyomaa"
             }
         }
     ]
