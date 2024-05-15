@@ -9,7 +9,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/18195825?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023</div>",
             "url": "https://github.com/CVEProject/cvelist",
             "title": "CVEProject/cvelist: Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023",
-            "date_modified": "2024-05-15T15:00:46.000Z",
+            "date_modified": "2024-05-15T16:00:49.000Z",
             "date_published": "2020-11-02T19:30:55.000Z",
             "author": {
                 "name": "CVEProject",
@@ -20,7 +20,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/168197422?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A meticulous scrutiny of the Exploit PDFs innards exposes a network of malevolence, unveiling both the nefarious hyperlink and the URL that precipitates</div>",
             "url": "https://github.com/CarsPound/Slient-PDF-FUD-Exploit-Slient-Builder-Exploit-Database-Cve-2023-Malware",
             "title": "CarsPound/Slient-PDF-FUD-Exploit-Slient-Builder-Exploit-Database-Cve-2023-Malware: A meticulous scrutiny of the Exploit PDFs innards exposes a network of malevolence, unveiling both the nefarious hyperlink and the URL that precipitates",
-            "date_modified": "2024-05-15T14:59:29.000Z",
+            "date_modified": "2024-05-15T15:58:26.000Z",
             "date_published": "2024-04-26T13:12:41.000Z",
             "author": {
                 "name": "CarsPound",
@@ -31,18 +31,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/168197422?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>In the hushed galleries of the Silent JPG Exploit, a symphony shrouded in enigma unfurls—an opus named silent-jpg-exploit-2018—a title that reverberates through the annals of intrigue.</div>",
             "url": "https://github.com/CarsPound/Jpg-Png-Exploit-Slient-Builder-Exploit-Database-Cve-2023-Malware",
             "title": "CarsPound/Jpg-Png-Exploit-Slient-Builder-Exploit-Database-Cve-2023-Malware: In the hushed galleries of the Silent JPG Exploit, a symphony shrouded in enigma unfurls—an opus named silent-jpg-exploit-2018—a title that reverberates through the annals of intrigue.",
-            "date_modified": "2024-05-15T14:58:00.000Z",
-            "date_published": "2024-04-26T13:12:41.000Z",
-            "author": {
-                "name": "CarsPound",
-                "url": "https://github.com/CarsPound"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/168197422?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>URL Contamination Exploit Muted Java Drive-By downloads can transpire during the act of perusing a website, inaugurating an electronic mail communication.</div>",
-            "url": "https://github.com/CarsPound/Slient-Url-Exploit-Slient-Builder-Exploit-Database-Cve-2023-Malware",
-            "title": "CarsPound/Slient-Url-Exploit-Slient-Builder-Exploit-Database-Cve-2023-Malware: URL Contamination Exploit Muted Java Drive-By downloads can transpire during the act of perusing a website, inaugurating an electronic mail communication.",
-            "date_modified": "2024-05-15T14:55:03.000Z",
+            "date_modified": "2024-05-15T15:57:54.000Z",
             "date_published": "2024-04-26T13:12:41.000Z",
             "author": {
                 "name": "CarsPound",
@@ -53,11 +42,33 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/168197422?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Microsoft Windows HTA (HTML Application) - Pinnacle of Remote Code Execution</div>",
             "url": "https://github.com/CarsPound/Hta-Exploit-Builder-Slient-Builder-Exploit-Database-Cve-2023-Malware",
             "title": "CarsPound/Hta-Exploit-Builder-Slient-Builder-Exploit-Database-Cve-2023-Malware: Microsoft Windows HTA (HTML Application) - Pinnacle of Remote Code Execution",
-            "date_modified": "2024-05-15T14:53:40.000Z",
+            "date_modified": "2024-05-15T15:56:02.000Z",
             "date_published": "2024-04-26T13:12:41.000Z",
             "author": {
                 "name": "CarsPound",
                 "url": "https://github.com/CarsPound"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/168197422?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>URL Contamination Exploit Muted Java Drive-By downloads can transpire during the act of perusing a website, inaugurating an electronic mail communication.</div>",
+            "url": "https://github.com/CarsPound/Slient-Url-Exploit-Slient-Builder-Exploit-Database-Cve-2023-Malware",
+            "title": "CarsPound/Slient-Url-Exploit-Slient-Builder-Exploit-Database-Cve-2023-Malware: URL Contamination Exploit Muted Java Drive-By downloads can transpire during the act of perusing a website, inaugurating an electronic mail communication.",
+            "date_modified": "2024-05-15T15:53:18.000Z",
+            "date_published": "2024-04-26T13:12:41.000Z",
+            "author": {
+                "name": "CarsPound",
+                "url": "https://github.com/CarsPound"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/49879157?u=133acc3841808f2d1af1697b7ae164b1577d7f38&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div> Stakater Forecastle 1.0.127 allows directory traversal in the website component</div>",
+            "url": "https://github.com/sahar042/CVE-2023-40297",
+            "title": "sahar042/CVE-2023-40297:  Stakater Forecastle 1.0.127 allows directory traversal in the website component",
+            "date_modified": "2024-05-15T15:21:41.000Z",
+            "date_published": "2023-08-14T06:18:48.000Z",
+            "author": {
+                "name": "sahar042",
+                "url": "https://github.com/sahar042"
             }
         },
         {
@@ -97,7 +108,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/144001335?u=c42bea7e07a206065e90fc34c073c2292c885b40&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>🚨 CVE-2023-45866 - BlueDucky Implementation (Using DuckyScript) 🔓 Unauthenticated Peering Leading to Code Execution (Using HID Keyboard)</div>",
             "url": "https://github.com/pentestfunctions/BlueDucky",
             "title": "pentestfunctions/BlueDucky: 🚨 CVE-2023-45866 - BlueDucky Implementation (Using DuckyScript) 🔓 Unauthenticated Peering Leading to Code Execution (Using HID Keyboard)",
-            "date_modified": "2024-05-15T14:39:00.000Z",
+            "date_modified": "2024-05-15T16:06:41.000Z",
             "date_published": "2024-01-16T06:52:02.000Z",
             "author": {
                 "name": "pentestfunctions",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "Rajneeshkarya",
                 "url": "https://github.com/Rajneeshkarya"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/33289300?u=aed4539814b68022b734b73d52b3a6d01bf8199d&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Tool for finding CVE-2023-27524 (Apache Superset - Authentication Bypass)</div>",
-            "url": "https://github.com/karthi-the-hacker/CVE-2023-27524",
-            "title": "karthi-the-hacker/CVE-2023-27524: Tool for finding CVE-2023-27524 (Apache Superset - Authentication Bypass)",
-            "date_modified": "2024-05-11T12:23:39.000Z",
-            "date_published": "2024-05-11T12:19:55.000Z",
-            "author": {
-                "name": "karthi-the-hacker",
-                "url": "https://github.com/karthi-the-hacker"
             }
         }
     ]
