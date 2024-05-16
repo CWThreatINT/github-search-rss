@@ -6,6 +6,17 @@
     "description": "CVE-2021 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/39155974?u=2ecd5d7ba0c390c02bd2f4fb31433e7793cf8ee5&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>JumpServer 堡垒机未授权综合漏洞利用, Exploit for CVE-2023-42442 / CVE-2023-42820 / RCE 2021</div>",
+            "url": "https://github.com/tarihub/blackjump",
+            "title": "tarihub/blackjump: JumpServer 堡垒机未授权综合漏洞利用, Exploit for CVE-2023-42442 / CVE-2023-42820 / RCE 2021",
+            "date_modified": "2024-05-16T07:42:04.000Z",
+            "date_published": "2023-10-14T09:35:07.000Z",
+            "author": {
+                "name": "tarihub",
+                "url": "https://github.com/tarihub"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/31022473?u=6d7a6f60c8a7af3fe2eaa39c42fb8e7d9f6bf661&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A Java Agent that disables Apache Log4J's JNDI Lookup to mitigate CVE-2021-44228 (\"Log4Shell\").</div>",
             "url": "https://github.com/winnpixie/log4noshell",
             "title": "winnpixie/log4noshell: A Java Agent that disables Apache Log4J's JNDI Lookup to mitigate CVE-2021-44228 (\"Log4Shell\").",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "topyagyuu",
                 "url": "https://github.com/topyagyuu"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/136675?u=4c736320009a865c9228c938781fe22c80c80b91&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Spring Boot web application vulnerable to Log4Shell (CVE-2021-44228).</div>",
-            "url": "https://github.com/christophetd/log4shell-vulnerable-app",
-            "title": "christophetd/log4shell-vulnerable-app: Spring Boot web application vulnerable to Log4Shell (CVE-2021-44228).",
-            "date_modified": "2024-05-10T10:43:28.000Z",
-            "date_published": "2021-12-10T12:38:20.000Z",
-            "author": {
-                "name": "christophetd",
-                "url": "https://github.com/christophetd"
             }
         }
     ]
