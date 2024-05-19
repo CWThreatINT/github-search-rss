@@ -6,6 +6,17 @@
     "description": "CVE-2021 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/5584548?u=e0431fc102efaed8bc22712540e97c5701dd17c3&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
+            "url": "https://github.com/threat/CVE-2021-20511",
+            "title": "threat/CVE-2021-20511",
+            "date_modified": "2024-05-19T00:30:37.000Z",
+            "date_published": "2024-05-19T00:28:31.000Z",
+            "author": {
+                "name": "threat",
+                "url": "https://github.com/threat"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/39155974?u=2ecd5d7ba0c390c02bd2f4fb31433e7793cf8ee5&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>JumpServer 堡垒机未授权综合漏洞利用, Exploit for CVE-2023-42442 / CVE-2023-42820 / RCE 2021</div>",
             "url": "https://github.com/tarihub/blackjump",
             "title": "tarihub/blackjump: JumpServer 堡垒机未授权综合漏洞利用, Exploit for CVE-2023-42442 / CVE-2023-42820 / RCE 2021",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "artemis-mike",
                 "url": "https://github.com/artemis-mike"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/167684629?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
-            "url": "https://github.com/topyagyuu/CVE-2021-43798",
-            "title": "topyagyuu/CVE-2021-43798",
-            "date_modified": "2024-05-01T19:11:37.000Z",
-            "date_published": "2024-04-24T20:47:29.000Z",
-            "author": {
-                "name": "topyagyuu",
-                "url": "https://github.com/topyagyuu"
             }
         }
     ]
