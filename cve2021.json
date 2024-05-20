@@ -6,6 +6,17 @@
     "description": "CVE-2021 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/102907425?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>WordPress WPS Hide Login &lt;1.9.1 - Information Disclosure</div>",
+            "url": "https://github.com/Cappricio-Securities/CVE-2021-24917",
+            "title": "Cappricio-Securities/CVE-2021-24917: WordPress WPS Hide Login <1.9.1 - Information Disclosure",
+            "date_modified": "2024-05-20T02:16:47.000Z",
+            "date_published": "2024-05-20T02:07:52.000Z",
+            "author": {
+                "name": "Cappricio-Securities",
+                "url": "https://github.com/Cappricio-Securities"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/103961201?u=3d350369bdfc65ed264ec847797e0225c142f143&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A exploit script for CVE-2021-3129</div>",
             "url": "https://github.com/cc3305/CVE-2021-3129",
             "title": "cc3305/CVE-2021-3129: A exploit script for CVE-2021-3129",
@@ -31,7 +42,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/5151193?u=a12ac173ce1fac8931cb4d2c9a5e527ac3618e57&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A PrintNightmare (CVE-2021-34527) Python Scanner. Scan entire subnets for hosts vulnerable to the PrintNightmare RCE</div>",
             "url": "https://github.com/byt3bl33d3r/ItWasAllADream",
             "title": "byt3bl33d3r/ItWasAllADream: A PrintNightmare (CVE-2021-34527) Python Scanner. Scan entire subnets for hosts vulnerable to the PrintNightmare RCE",
-            "date_modified": "2024-05-20T01:04:40.000Z",
+            "date_modified": "2024-05-20T02:02:10.000Z",
             "date_published": "2021-07-05T20:13:49.000Z",
             "author": {
                 "name": "byt3bl33d3r",
@@ -64,7 +75,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/39155974?u=2ecd5d7ba0c390c02bd2f4fb31433e7793cf8ee5&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>JumpServer 堡垒机未授权综合漏洞利用, Exploit for CVE-2023-42442 / CVE-2023-42820 / RCE 2021</div>",
             "url": "https://github.com/tarihub/blackjump",
             "title": "tarihub/blackjump: JumpServer 堡垒机未授权综合漏洞利用, Exploit for CVE-2023-42442 / CVE-2023-42820 / RCE 2021",
-            "date_modified": "2024-05-18T07:24:43.000Z",
+            "date_modified": "2024-05-20T02:15:06.000Z",
             "date_published": "2023-10-14T09:35:07.000Z",
             "author": {
                 "name": "tarihub",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "JolynNgSC",
                 "url": "https://github.com/JolynNgSC"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/10504574?u=8210c6a151310845dd43dceb8153ba82fb14cd84&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
-            "url": "https://github.com/b-abderrahmane/CVE-2021-44228-playground",
-            "title": "b-abderrahmane/CVE-2021-44228-playground",
-            "date_modified": "2024-04-29T17:48:37.000Z",
-            "date_published": "2021-12-11T12:16:45.000Z",
-            "author": {
-                "name": "b-abderrahmane",
-                "url": "https://github.com/b-abderrahmane"
             }
         }
     ]
