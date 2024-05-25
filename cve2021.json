@@ -6,6 +6,17 @@
     "description": "CVE-2021 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/170830154?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Using CVE-2021-40449 to manual map kernel mode driver</div>",
+            "url": "https://github.com/SultanPLX/SamuelTulach_voidmap",
+            "title": "SultanPLX/SamuelTulach_voidmap: Using CVE-2021-40449 to manual map kernel mode driver",
+            "date_modified": "2024-05-25T20:58:31.000Z",
+            "date_published": "2024-05-25T20:58:26.000Z",
+            "author": {
+                "name": "SultanPLX",
+                "url": "https://github.com/SultanPLX"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/164972007?u=0be4bd13e9446ef0b5c9947232e9a9c816b97b1b&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Downloaded a packet capture (.pcapng) file from malware-traffic-analysis.net which was an example of an attempted attack against a webserver using the Log4J vulnerability (CVE-2021-44228). I examined teh amount of endpoints communicating with the server and knowing jnidi as a common in the vulnerbilty found it in clear text</div>",
             "url": "https://github.com/KirkDJohnson/Wireshark",
             "title": "KirkDJohnson/Wireshark: Downloaded a packet capture (.pcapng) file from malware-traffic-analysis.net which was an example of an attempted attack against a webserver using the Log4J vulnerability (CVE-2021-44228). I examined teh amount of endpoints communicating with the server and knowing jnidi as a common in the vulnerbilty found it in clear text",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "inettgmbh",
                 "url": "https://github.com/inettgmbh"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/163496398?u=b3e2ce5430bb2de120fe8460da065c9919663673&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
-            "url": "https://github.com/jrbH4CK/CVE-2021-41091",
-            "title": "jrbH4CK/CVE-2021-41091",
-            "date_modified": "2024-05-10T04:48:04.000Z",
-            "date_published": "2024-05-10T04:42:35.000Z",
-            "author": {
-                "name": "jrbH4CK",
-                "url": "https://github.com/jrbH4CK"
             }
         }
     ]
