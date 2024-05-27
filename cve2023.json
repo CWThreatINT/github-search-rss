@@ -6,21 +6,10 @@
     "description": "CVE-2023 FEED on GitHub",
     "items": [
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/114946384?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Poc for CVE-2023-30253 </div>",
-            "url": "https://github.com/04Shivam/CVE-2023-30253-Exploit",
-            "title": "04Shivam/CVE-2023-30253-Exploit: Poc for CVE-2023-30253 ",
-            "date_modified": "2024-05-27T11:07:19.000Z",
-            "date_published": "2024-05-27T11:00:43.000Z",
-            "author": {
-                "name": "04Shivam",
-                "url": "https://github.com/04Shivam"
-            }
-        },
-        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/18195825?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023</div>",
             "url": "https://github.com/CVEProject/cvelist",
             "title": "CVEProject/cvelist: Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023",
-            "date_modified": "2024-05-27T11:01:00.000Z",
+            "date_modified": "2024-05-27T12:00:46.000Z",
             "date_published": "2020-11-02T19:30:55.000Z",
             "author": {
                 "name": "CVEProject",
@@ -28,21 +17,21 @@
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/168197422?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>In the hushed galleries of the Silent JPG Exploit, a symphony shrouded in enigma unfurls—an opus named silent-jpg-exploit-2018—a title that reverberates through the annals of intrigue.</div>",
-            "url": "https://github.com/CarsPound/Jpg-Png-Exploit-Slient-Builder-Exploit-Database-Cve-2023-Malware",
-            "title": "CarsPound/Jpg-Png-Exploit-Slient-Builder-Exploit-Database-Cve-2023-Malware: In the hushed galleries of the Silent JPG Exploit, a symphony shrouded in enigma unfurls—an opus named silent-jpg-exploit-2018—a title that reverberates through the annals of intrigue.",
-            "date_modified": "2024-05-27T10:57:24.000Z",
-            "date_published": "2024-04-26T13:12:41.000Z",
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/163991309?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>This project generates DNS zonefiles with custom NSEC3 parameters to reproduce and evaluate the attacks in CVE-2023-50868.</div>",
+            "url": "https://github.com/Goethe-Universitat-Cybersecurity/NSEC3-Encloser-Attack",
+            "title": "Goethe-Universitat-Cybersecurity/NSEC3-Encloser-Attack: This project generates DNS zonefiles with custom NSEC3 parameters to reproduce and evaluate the attacks in CVE-2023-50868.",
+            "date_modified": "2024-05-27T12:02:09.000Z",
+            "date_published": "2024-03-19T16:13:14.000Z",
             "author": {
-                "name": "CarsPound",
-                "url": "https://github.com/CarsPound"
+                "name": "Goethe-Universitat-Cybersecurity",
+                "url": "https://github.com/Goethe-Universitat-Cybersecurity"
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/168197422?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Microsoft Windows HTA (HTML Application) - Pinnacle of Remote Code Execution</div>",
-            "url": "https://github.com/CarsPound/Hta-Exploit-Builder-Slient-Builder-Exploit-Database-Cve-2023-Malware",
-            "title": "CarsPound/Hta-Exploit-Builder-Slient-Builder-Exploit-Database-Cve-2023-Malware: Microsoft Windows HTA (HTML Application) - Pinnacle of Remote Code Execution",
-            "date_modified": "2024-05-27T10:56:51.000Z",
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/168197422?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A meticulous scrutiny of the Exploit PDFs innards exposes a network of malevolence, unveiling both the nefarious hyperlink and the URL that precipitates</div>",
+            "url": "https://github.com/CarsPound/Slient-PDF-FUD-Exploit-Slient-Builder-Exploit-Database-Cve-2023-Malware",
+            "title": "CarsPound/Slient-PDF-FUD-Exploit-Slient-Builder-Exploit-Database-Cve-2023-Malware: A meticulous scrutiny of the Exploit PDFs innards exposes a network of malevolence, unveiling both the nefarious hyperlink and the URL that precipitates",
+            "date_modified": "2024-05-27T11:58:30.000Z",
             "date_published": "2024-04-26T13:12:41.000Z",
             "author": {
                 "name": "CarsPound",
@@ -53,7 +42,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/168197422?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>URL Contamination Exploit Muted Java Drive-By downloads can transpire during the act of perusing a website, inaugurating an electronic mail communication.</div>",
             "url": "https://github.com/CarsPound/Slient-Url-Exploit-Slient-Builder-Exploit-Database-Cve-2023-Malware",
             "title": "CarsPound/Slient-Url-Exploit-Slient-Builder-Exploit-Database-Cve-2023-Malware: URL Contamination Exploit Muted Java Drive-By downloads can transpire during the act of perusing a website, inaugurating an electronic mail communication.",
-            "date_modified": "2024-05-27T10:55:23.000Z",
+            "date_modified": "2024-05-27T11:55:26.000Z",
             "date_published": "2024-04-26T13:12:41.000Z",
             "author": {
                 "name": "CarsPound",
@@ -61,14 +50,36 @@
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/168197422?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A meticulous scrutiny of the Exploit PDFs innards exposes a network of malevolence, unveiling both the nefarious hyperlink and the URL that precipitates</div>",
-            "url": "https://github.com/CarsPound/Slient-PDF-FUD-Exploit-Slient-Builder-Exploit-Database-Cve-2023-Malware",
-            "title": "CarsPound/Slient-PDF-FUD-Exploit-Slient-Builder-Exploit-Database-Cve-2023-Malware: A meticulous scrutiny of the Exploit PDFs innards exposes a network of malevolence, unveiling both the nefarious hyperlink and the URL that precipitates",
-            "date_modified": "2024-05-27T10:54:20.000Z",
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/168197422?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>In the hushed galleries of the Silent JPG Exploit, a symphony shrouded in enigma unfurls—an opus named silent-jpg-exploit-2018—a title that reverberates through the annals of intrigue.</div>",
+            "url": "https://github.com/CarsPound/Jpg-Png-Exploit-Slient-Builder-Exploit-Database-Cve-2023-Malware",
+            "title": "CarsPound/Jpg-Png-Exploit-Slient-Builder-Exploit-Database-Cve-2023-Malware: In the hushed galleries of the Silent JPG Exploit, a symphony shrouded in enigma unfurls—an opus named silent-jpg-exploit-2018—a title that reverberates through the annals of intrigue.",
+            "date_modified": "2024-05-27T11:55:02.000Z",
             "date_published": "2024-04-26T13:12:41.000Z",
             "author": {
                 "name": "CarsPound",
                 "url": "https://github.com/CarsPound"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/168197422?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Microsoft Windows HTA (HTML Application) - Pinnacle of Remote Code Execution</div>",
+            "url": "https://github.com/CarsPound/Hta-Exploit-Builder-Slient-Builder-Exploit-Database-Cve-2023-Malware",
+            "title": "CarsPound/Hta-Exploit-Builder-Slient-Builder-Exploit-Database-Cve-2023-Malware: Microsoft Windows HTA (HTML Application) - Pinnacle of Remote Code Execution",
+            "date_modified": "2024-05-27T11:54:35.000Z",
+            "date_published": "2024-04-26T13:12:41.000Z",
+            "author": {
+                "name": "CarsPound",
+                "url": "https://github.com/CarsPound"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/114946384?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Poc for CVE-2023-30253 </div>",
+            "url": "https://github.com/04Shivam/CVE-2023-30253-Exploit",
+            "title": "04Shivam/CVE-2023-30253-Exploit: Poc for CVE-2023-30253 ",
+            "date_modified": "2024-05-27T11:16:05.000Z",
+            "date_published": "2024-05-27T11:00:43.000Z",
+            "author": {
+                "name": "04Shivam",
+                "url": "https://github.com/04Shivam"
             }
         },
         {
@@ -86,7 +97,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/144001335?u=c42bea7e07a206065e90fc34c073c2292c885b40&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>🚨 CVE-2023-45866 - BlueDucky Implementation (Using DuckyScript) 🔓 Unauthenticated Peering Leading to Code Execution (Using HID Keyboard)</div>",
             "url": "https://github.com/pentestfunctions/BlueDucky",
             "title": "pentestfunctions/BlueDucky: 🚨 CVE-2023-45866 - BlueDucky Implementation (Using DuckyScript) 🔓 Unauthenticated Peering Leading to Code Execution (Using HID Keyboard)",
-            "date_modified": "2024-05-27T04:30:58.000Z",
+            "date_modified": "2024-05-27T12:06:45.000Z",
             "date_published": "2024-01-16T06:52:02.000Z",
             "author": {
                 "name": "pentestfunctions",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "JAckLosingHeart",
                 "url": "https://github.com/JAckLosingHeart"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/102907425?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Defender Security &lt; 4.1.0 - Protection Bypass (Hidden Login Page)</div>",
-            "url": "https://github.com/Cappricio-Securities/CVE-2023-5089",
-            "title": "Cappricio-Securities/CVE-2023-5089: Defender Security < 4.1.0 - Protection Bypass (Hidden Login Page)",
-            "date_modified": "2024-05-24T07:16:27.000Z",
-            "date_published": "2024-05-24T07:14:55.000Z",
-            "author": {
-                "name": "Cappricio-Securities",
-                "url": "https://github.com/Cappricio-Securities"
             }
         }
     ]
