@@ -6,6 +6,17 @@
     "description": "CVE-2021 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/49958238?u=44110b0c58b71743e59f62a5c0e7971d5828470e&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
+            "url": "https://github.com/thalpius/Microsoft-CVE-2021-1675",
+            "title": "thalpius/Microsoft-CVE-2021-1675",
+            "date_modified": "2024-05-27T19:04:19.000Z",
+            "date_published": "2021-07-16T18:06:05.000Z",
+            "author": {
+                "name": "thalpius",
+                "url": "https://github.com/thalpius"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/170830154?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Using CVE-2021-40449 to manual map kernel mode driver</div>",
             "url": "https://github.com/SultanPLX/SamuelTulach_voidmap",
             "title": "SultanPLX/SamuelTulach_voidmap: Using CVE-2021-40449 to manual map kernel mode driver",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "sealldeveloper",
                 "url": "https://github.com/sealldeveloper"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/12827152?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Scans for Log4j versions effected by CVE-2021-44228</div>",
-            "url": "https://github.com/inettgmbh/checkmk-log4j-scanner",
-            "title": "inettgmbh/checkmk-log4j-scanner: Scans for Log4j versions effected by CVE-2021-44228",
-            "date_modified": "2024-05-13T12:42:03.000Z",
-            "date_published": "2021-12-15T16:21:26.000Z",
-            "author": {
-                "name": "inettgmbh",
-                "url": "https://github.com/inettgmbh"
             }
         }
     ]
