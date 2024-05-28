@@ -6,6 +6,17 @@
     "description": "CVE-2021 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/89791546?u=3bd5e37792b0177a66d27ffba65d4ddf06d88ceb&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
+            "url": "https://github.com/Hoanle396/CVE-2021-44228-demo",
+            "title": "Hoanle396/CVE-2021-44228-demo",
+            "date_modified": "2024-05-28T13:43:00.000Z",
+            "date_published": "2024-05-28T13:40:20.000Z",
+            "author": {
+                "name": "Hoanle396",
+                "url": "https://github.com/Hoanle396"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/49958238?u=44110b0c58b71743e59f62a5c0e7971d5828470e&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
             "url": "https://github.com/thalpius/Microsoft-CVE-2021-1675",
             "title": "thalpius/Microsoft-CVE-2021-1675",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "alvaciroliveira",
                 "url": "https://github.com/alvaciroliveira"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/120470330?u=23819a4b5283a4add5e5ead2e1118b6d3963c595&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A version of the PoC for CVE-2021-31630 from <a href=\"https://github.com/Hunt3r0x/CVE-2021-31630-HTB\">https://github.com/Hunt3r0x/CVE-2021-31630-HTB</a> but without the political messages, because they are unneccessary.</div>",
-            "url": "https://github.com/sealldeveloper/CVE-2021-31630-PoC",
-            "title": "sealldeveloper/CVE-2021-31630-PoC: A version of the PoC for CVE-2021-31630 from https://github.com/Hunt3r0x/CVE-2021-31630-HTB but without the political messages, because they are unneccessary.",
-            "date_modified": "2024-05-13T15:21:58.000Z",
-            "date_published": "2024-05-13T15:17:38.000Z",
-            "author": {
-                "name": "sealldeveloper",
-                "url": "https://github.com/sealldeveloper"
             }
         }
     ]
