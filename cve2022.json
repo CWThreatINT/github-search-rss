@@ -6,6 +6,17 @@
     "description": "CVE-2022 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/138330732?u=f25a0b581da363cc8e2eb214377d762a00158c80&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>𓃌 - htmlLawed 1.2.5 Remote code Execution</div>",
+            "url": "https://github.com/0romos/CVE-2022-35914",
+            "title": "0romos/CVE-2022-35914: 𓃌 - htmlLawed 1.2.5 Remote code Execution",
+            "date_modified": "2024-05-29T19:58:46.000Z",
+            "date_published": "2024-05-29T19:54:15.000Z",
+            "author": {
+                "name": "0romos",
+                "url": "https://github.com/0romos"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/102907425?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>WordPress Page Builder KingComposer &lt;=2.9.6 - Open Redirect</div>",
             "url": "https://github.com/Cappricio-Securities/CVE-2022-0165",
             "title": "Cappricio-Securities/CVE-2022-0165: WordPress Page Builder KingComposer <=2.9.6 - Open Redirect",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "dumbbutt0",
                 "url": "https://github.com/dumbbutt0"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/90939597?u=03d53e7deac5393568b86e405e6d8a4b8f5150e9&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>PoC exploit for GLPI - Command injection using a third-party library script</div>",
-            "url": "https://github.com/allendemoura/CVE-2022-35914",
-            "title": "allendemoura/CVE-2022-35914: PoC exploit for GLPI - Command injection using a third-party library script",
-            "date_modified": "2024-04-26T05:37:11.000Z",
-            "date_published": "2024-04-24T06:39:10.000Z",
-            "author": {
-                "name": "allendemoura",
-                "url": "https://github.com/allendemoura"
             }
         }
     ]
