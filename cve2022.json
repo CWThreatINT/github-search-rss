@@ -6,6 +6,17 @@
     "description": "CVE-2022 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/132546612?u=acd3a74d513f128291c2b199bc91318516fa74cb&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>confluence rce (CVE-2021-26084, CVE-2022-26134, CVE-2023-22527)</div>",
+            "url": "https://github.com/BBD-YZZ/Confluence-RCE",
+            "title": "BBD-YZZ/Confluence-RCE: confluence rce (CVE-2021-26084, CVE-2022-26134, CVE-2023-22527)",
+            "date_modified": "2024-05-29T04:35:55.000Z",
+            "date_published": "2024-05-29T03:20:22.000Z",
+            "author": {
+                "name": "BBD-YZZ",
+                "url": "https://github.com/BBD-YZZ"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/102907425?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>WordPress Page Builder KingComposer &lt;=2.9.6 - Open Redirect</div>",
             "url": "https://github.com/Cappricio-Securities/CVE-2022-0165",
             "title": "Cappricio-Securities/CVE-2022-0165: WordPress Page Builder KingComposer <=2.9.6 - Open Redirect",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "fuzzlove",
                 "url": "https://github.com/fuzzlove"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/57404930?u=15c8c306eb2a82d233cacd9ae77893665db1de24&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>一款针对Vcenter的综合利用工具，包含目前最主流的CVE-2021-21972、CVE-2021-21985以及CVE-2021-22005、One Access的CVE-2022-22954、CVE-2022-22972/31656以及log4j，提供一键上传webshell，命令执行或者上传公钥使用SSH免密连接</div>",
-            "url": "https://github.com/Schira4396/VcenterKiller",
-            "title": "Schira4396/VcenterKiller: 一款针对Vcenter的综合利用工具，包含目前最主流的CVE-2021-21972、CVE-2021-21985以及CVE-2021-22005、One Access的CVE-2022-22954、CVE-2022-22972/31656以及log4j，提供一键上传webshell，命令执行或者上传公钥使用SSH免密连接",
-            "date_modified": "2024-05-28T09:56:20.000Z",
-            "date_published": "2022-10-04T03:39:27.000Z",
-            "author": {
-                "name": "Schira4396",
-                "url": "https://github.com/Schira4396"
             }
         }
     ]
