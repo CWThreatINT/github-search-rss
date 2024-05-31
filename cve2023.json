@@ -6,10 +6,32 @@
     "description": "CVE-2023 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/60004847?u=9278141595df1c3b597c6bbcabfbec2d5e6f6414&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>El script explota una vulnerabilidad de deserialización insegura en Apache ActiveMQ (CVE-2023-46604) </div>",
+            "url": "https://github.com/pulentoski/CVE-2023-46604",
+            "title": "pulentoski/CVE-2023-46604: El script explota una vulnerabilidad de deserialización insegura en Apache ActiveMQ (CVE-2023-46604) ",
+            "date_modified": "2024-05-31T02:23:36.000Z",
+            "date_published": "2024-05-31T00:38:47.000Z",
+            "author": {
+                "name": "pulentoski",
+                "url": "https://github.com/pulentoski"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/102907425?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Ivanti ICS - Authentication Bypass</div>",
+            "url": "https://github.com/Cappricio-Securities/CVE-2023-46805",
+            "title": "Cappricio-Securities/CVE-2023-46805: Ivanti ICS - Authentication Bypass",
+            "date_modified": "2024-05-31T02:20:47.000Z",
+            "date_published": "2024-05-31T02:18:57.000Z",
+            "author": {
+                "name": "Cappricio-Securities",
+                "url": "https://github.com/Cappricio-Securities"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/168197422?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Microsoft Windows HTA (HTML Application) - Pinnacle of Remote Code Execution</div>",
             "url": "https://github.com/CarsPound/Hta-Exploit-Builder-Slient-Builder-Exploit-Database-Cve-2023-Malware",
             "title": "CarsPound/Hta-Exploit-Builder-Slient-Builder-Exploit-Database-Cve-2023-Malware: Microsoft Windows HTA (HTML Application) - Pinnacle of Remote Code Execution",
-            "date_modified": "2024-05-31T01:42:07.000Z",
+            "date_modified": "2024-05-31T02:20:30.000Z",
             "date_published": "2024-04-26T13:12:41.000Z",
             "author": {
                 "name": "CarsPound",
@@ -20,7 +42,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/168197422?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>URL Contamination Exploit Muted Java Drive-By downloads can transpire during the act of perusing a website, inaugurating an electronic mail communication.</div>",
             "url": "https://github.com/CarsPound/Slient-Url-Exploit-Slient-Builder-Exploit-Database-Cve-2023-Malware",
             "title": "CarsPound/Slient-Url-Exploit-Slient-Builder-Exploit-Database-Cve-2023-Malware: URL Contamination Exploit Muted Java Drive-By downloads can transpire during the act of perusing a website, inaugurating an electronic mail communication.",
-            "date_modified": "2024-05-31T01:24:20.000Z",
+            "date_modified": "2024-05-31T02:09:12.000Z",
             "date_published": "2024-04-26T13:12:41.000Z",
             "author": {
                 "name": "CarsPound",
@@ -31,7 +53,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/18195825?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023</div>",
             "url": "https://github.com/CVEProject/cvelist",
             "title": "CVEProject/cvelist: Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023",
-            "date_modified": "2024-05-31T01:01:01.000Z",
+            "date_modified": "2024-05-31T02:00:44.000Z",
             "date_published": "2020-11-02T19:30:55.000Z",
             "author": {
                 "name": "CVEProject",
@@ -42,7 +64,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/168197422?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>In the hushed galleries of the Silent JPG Exploit, a symphony shrouded in enigma unfurls—an opus named silent-jpg-exploit-2018—a title that reverberates through the annals of intrigue.</div>",
             "url": "https://github.com/CarsPound/Jpg-Png-Exploit-Slient-Builder-Exploit-Database-Cve-2023-Malware",
             "title": "CarsPound/Jpg-Png-Exploit-Slient-Builder-Exploit-Database-Cve-2023-Malware: In the hushed galleries of the Silent JPG Exploit, a symphony shrouded in enigma unfurls—an opus named silent-jpg-exploit-2018—a title that reverberates through the annals of intrigue.",
-            "date_modified": "2024-05-31T01:00:17.000Z",
+            "date_modified": "2024-05-31T01:58:31.000Z",
             "date_published": "2024-04-26T13:12:41.000Z",
             "author": {
                 "name": "CarsPound",
@@ -53,7 +75,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/168197422?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A meticulous scrutiny of the Exploit PDFs innards exposes a network of malevolence, unveiling both the nefarious hyperlink and the URL that precipitates</div>",
             "url": "https://github.com/CarsPound/Slient-PDF-FUD-Exploit-Slient-Builder-Exploit-Database-Cve-2023-Malware",
             "title": "CarsPound/Slient-PDF-FUD-Exploit-Slient-Builder-Exploit-Database-Cve-2023-Malware: A meticulous scrutiny of the Exploit PDFs innards exposes a network of malevolence, unveiling both the nefarious hyperlink and the URL that precipitates",
-            "date_modified": "2024-05-31T00:58:37.000Z",
+            "date_modified": "2024-05-31T01:58:07.000Z",
             "date_published": "2024-04-26T13:12:41.000Z",
             "author": {
                 "name": "CarsPound",
@@ -69,17 +91,6 @@
             "author": {
                 "name": "GhostTroops",
                 "url": "https://github.com/GhostTroops"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/60004847?u=9278141595df1c3b597c6bbcabfbec2d5e6f6414&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>El script explota una vulnerabilidad de deserialización insegura en Apache ActiveMQ (CVE-2023-46604) </div>",
-            "url": "https://github.com/pulentoski/CVE-2023-46604",
-            "title": "pulentoski/CVE-2023-46604: El script explota una vulnerabilidad de deserialización insegura en Apache ActiveMQ (CVE-2023-46604) ",
-            "date_modified": "2024-05-31T00:40:24.000Z",
-            "date_published": "2024-05-31T00:38:47.000Z",
-            "author": {
-                "name": "pulentoski",
-                "url": "https://github.com/pulentoski"
             }
         },
         {
@@ -212,17 +223,6 @@
             "author": {
                 "name": "Cappricio-Securities",
                 "url": "https://github.com/Cappricio-Securities"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/96344826?u=43964d68af654c0c70e5d7cfff33d40d8ca581bc&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Reverse Shell POC exploit for Dolibarr &lt;= 17.0.0 (CVE-2023-30253), PHP Code Injection</div>",
-            "url": "https://github.com/nikn0laty/Exploit-for-Dolibarr-17.0.0-CVE-2023-30253",
-            "title": "nikn0laty/Exploit-for-Dolibarr-17.0.0-CVE-2023-30253: Reverse Shell POC exploit for Dolibarr <= 17.0.0 (CVE-2023-30253), PHP Code Injection",
-            "date_modified": "2024-05-31T01:01:59.000Z",
-            "date_published": "2024-05-27T15:10:12.000Z",
-            "author": {
-                "name": "nikn0laty",
-                "url": "https://github.com/nikn0laty"
             }
         }
     ]
