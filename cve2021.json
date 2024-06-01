@@ -6,6 +6,17 @@
     "description": "CVE-2021 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/115383747?u=74c86f64ec6ca7a16a2f0aaad02d01aadc3e605c&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
+            "url": "https://github.com/w1n-gl0ry/CVE-2021-21225",
+            "title": "w1n-gl0ry/CVE-2021-21225",
+            "date_modified": "2024-06-01T05:35:40.000Z",
+            "date_published": "2024-06-01T05:35:39.000Z",
+            "author": {
+                "name": "w1n-gl0ry",
+                "url": "https://github.com/w1n-gl0ry"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/102907425?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>WordPress WPS Hide Login &lt;1.9.1 - Information Disclosure</div>",
             "url": "https://github.com/Cappricio-Securities/CVE-2021-24917",
             "title": "Cappricio-Securities/CVE-2021-24917: WordPress WPS Hide Login <1.9.1 - Information Disclosure",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "OracleNep",
                 "url": "https://github.com/OracleNep"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/129803614?u=2ac94427ff277ab136a34c403c306b320b156886&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Soluciona a CVE-2021-1678 - RpcAuthnLevelPrivacyEnabled</div>",
-            "url": "https://github.com/alvaciroliveira/RpcAuthnLevelPrivacyEnabled",
-            "title": "alvaciroliveira/RpcAuthnLevelPrivacyEnabled: Soluciona a CVE-2021-1678 - RpcAuthnLevelPrivacyEnabled",
-            "date_modified": "2024-05-13T20:24:51.000Z",
-            "date_published": "2024-05-13T20:19:38.000Z",
-            "author": {
-                "name": "alvaciroliveira",
-                "url": "https://github.com/alvaciroliveira"
             }
         }
     ]
