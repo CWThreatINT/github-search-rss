@@ -6,6 +6,17 @@
     "description": "CVE-2022 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/20056452?u=87917e69597c431c2b7e3d2f8f268a0a49d211c3&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Exploit created by nu11secur1ty (<a href=\"https://github.com/nu11secur1ty/CVE-mitre/tree/main/CVE-2022-37706\">https://github.com/nu11secur1ty/CVE-mitre/tree/main/CVE-2022-37706</a>)</div>",
+            "url": "https://github.com/junnythemarksman/CVE-2022-37706",
+            "title": "junnythemarksman/CVE-2022-37706: Exploit created by nu11secur1ty (https://github.com/nu11secur1ty/CVE-mitre/tree/main/CVE-2022-37706)",
+            "date_modified": "2024-06-03T01:30:01.000Z",
+            "date_published": "2024-06-03T01:17:04.000Z",
+            "author": {
+                "name": "junnythemarksman",
+                "url": "https://github.com/junnythemarksman"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/60900565?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>GSoC 2022 Project testing CVEs against CRS</div>",
             "url": "https://github.com/coreruleset/project-seaweed",
             "title": "coreruleset/project-seaweed: GSoC 2022 Project testing CVEs against CRS",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "dumbbutt0",
                 "url": "https://github.com/dumbbutt0"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/90939597?u=03d53e7deac5393568b86e405e6d8a4b8f5150e9&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>PoC exploit for GLPI - Command injection using a third-party library script</div>",
-            "url": "https://github.com/allendemoura/CVE-2022-35914",
-            "title": "allendemoura/CVE-2022-35914: PoC exploit for GLPI - Command injection using a third-party library script",
-            "date_modified": "2024-05-30T15:08:51.000Z",
-            "date_published": "2024-04-24T06:39:10.000Z",
-            "author": {
-                "name": "allendemoura",
-                "url": "https://github.com/allendemoura"
             }
         }
     ]
