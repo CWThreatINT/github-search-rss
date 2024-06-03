@@ -6,6 +6,17 @@
     "description": "CVE-2022 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/80041099?u=f3a5b946cbecbd405e6eefa4505aebcf2c2f5ac0&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>exploit code</div>",
+            "url": "https://github.com/EmadYaY/CVE-2022-36779",
+            "title": "EmadYaY/CVE-2022-36779: exploit code",
+            "date_modified": "2024-06-03T22:32:34.000Z",
+            "date_published": "2024-06-03T22:25:31.000Z",
+            "author": {
+                "name": "EmadYaY",
+                "url": "https://github.com/EmadYaY"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/92728059?u=e6318baf13bf98eee37f7582d9e3f680b8532b81&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>New exploit for Apache APISIX 2.12.1 - Remote Code Execution (RCE)</div>",
             "url": "https://github.com/btar1gan/exploit_CVE-2022-24112",
             "title": "btar1gan/exploit_CVE-2022-24112: New exploit for Apache APISIX 2.12.1 - Remote Code Execution (RCE)",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "jrbH4CK",
                 "url": "https://github.com/jrbH4CK"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/48636787?u=0caeb3f9ff8cd50bd83c1cbcd8e45b8a69a29f51&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A remote code execution vulnerability exists in the iControl REST API feature of F5's BIG-IP product. An unauthenticated, remote attacker can exploit this to bypass authentication and execute arbitrary commands with root privileges.</div>",
-            "url": "https://github.com/gotr00t0day/CVE-2022-1388",
-            "title": "gotr00t0day/CVE-2022-1388: A remote code execution vulnerability exists in the iControl REST API feature of F5's BIG-IP product. An unauthenticated, remote attacker can exploit this to bypass authentication and execute arbitrary commands with root privileges.",
-            "date_modified": "2024-05-04T12:58:59.000Z",
-            "date_published": "2024-04-30T01:10:05.000Z",
-            "author": {
-                "name": "gotr00t0day",
-                "url": "https://github.com/gotr00t0day"
             }
         }
     ]
