@@ -6,6 +6,17 @@
     "description": "CVE-2022 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/92728059?u=e6318baf13bf98eee37f7582d9e3f680b8532b81&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>New exploit for Apache APISIX 2.12.1 - Remote Code Execution (RCE)</div>",
+            "url": "https://github.com/btar1gan/exploit_CVE-2022-24112",
+            "title": "btar1gan/exploit_CVE-2022-24112: New exploit for Apache APISIX 2.12.1 - Remote Code Execution (RCE)",
+            "date_modified": "2024-06-03T17:34:00.000Z",
+            "date_published": "2024-06-03T17:33:59.000Z",
+            "author": {
+                "name": "btar1gan",
+                "url": "https://github.com/btar1gan"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/60900565?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>GSoC 2022 Project testing CVEs against CRS</div>",
             "url": "https://github.com/coreruleset/project-seaweed",
             "title": "coreruleset/project-seaweed: GSoC 2022 Project testing CVEs against CRS",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "gotr00t0day",
                 "url": "https://github.com/gotr00t0day"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/134574598?u=7656f8bca4ff602bb8e2830a02daafc1ed89e71e&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Explore CVE-2022-41741 with the Evil MP4 repository. It offers educational PoCs,and documentation on securing nginx against MP4 file vulnerabilities. For legal, ethical security testing only.</div>",
-            "url": "https://github.com/dumbbutt0/evilMP4",
-            "title": "dumbbutt0/evilMP4: Explore CVE-2022-41741 with the Evil MP4 repository. It offers educational PoCs,and documentation on securing nginx against MP4 file vulnerabilities. For legal, ethical security testing only.",
-            "date_modified": "2024-04-26T19:00:29.000Z",
-            "date_published": "2024-04-26T17:18:52.000Z",
-            "author": {
-                "name": "dumbbutt0",
-                "url": "https://github.com/dumbbutt0"
             }
         }
     ]
