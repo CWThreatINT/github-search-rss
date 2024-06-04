@@ -6,6 +6,17 @@
     "description": "CVE-2021 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/20056452?u=87917e69597c431c2b7e3d2f8f268a0a49d211c3&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Modified the PoC CVE-2021-31630 script by Fellipe Oliveira for HTB </div>",
+            "url": "https://github.com/junnythemarksman/CVE-2021-31630",
+            "title": "junnythemarksman/CVE-2021-31630: Modified the PoC CVE-2021-31630 script by Fellipe Oliveira for HTB ",
+            "date_modified": "2024-06-04T00:46:34.000Z",
+            "date_published": "2024-06-04T00:44:47.000Z",
+            "author": {
+                "name": "junnythemarksman",
+                "url": "https://github.com/junnythemarksman"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/87483432?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2021-41773.py</div>",
             "url": "https://github.com/Maybe4a6f7365/CVE-2021-41773",
             "title": "Maybe4a6f7365/CVE-2021-41773: CVE-2021-41773.py",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "0xB455",
                 "url": "https://github.com/0xB455"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/146327014?u=374a3e85df9939eafe1c71bca7ec80ca2141e4d0&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Checker for CVE-2021-3156 with static version check</div>",
-            "url": "https://github.com/lypd0/CVE-2021-3156-checker",
-            "title": "lypd0/CVE-2021-3156-checker: Checker for CVE-2021-3156 with static version check",
-            "date_modified": "2024-05-14T17:04:55.000Z",
-            "date_published": "2024-05-14T16:35:09.000Z",
-            "author": {
-                "name": "lypd0",
-                "url": "https://github.com/lypd0"
             }
         }
     ]
