@@ -6,6 +6,17 @@
     "description": "CVE-2022 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/68430129?u=40c651f74825c6131498e82571e223c4b382bd9f&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
+            "url": "https://github.com/muhammad1596/CVE-2022-0847-dirty-pipe-checker",
+            "title": "muhammad1596/CVE-2022-0847-dirty-pipe-checker",
+            "date_modified": "2024-06-04T13:29:51.000Z",
+            "date_published": "2024-06-04T13:25:04.000Z",
+            "author": {
+                "name": "muhammad1596",
+                "url": "https://github.com/muhammad1596"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/60900565?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>GSoC 2022 Project testing CVEs against CRS</div>",
             "url": "https://github.com/coreruleset/project-seaweed",
             "title": "coreruleset/project-seaweed: GSoC 2022 Project testing CVEs against CRS",
@@ -141,7 +152,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/103281826?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Exploit for CVE-2022–25765 (pdfkit) - Command Injection</div>",
             "url": "https://github.com/UNICORDev/exploit-CVE-2022-25765",
             "title": "UNICORDev/exploit-CVE-2022-25765: Exploit for CVE-2022–25765 (pdfkit) - Command Injection",
-            "date_modified": "2024-05-20T00:34:52.000Z",
+            "date_modified": "2024-06-04T13:45:32.000Z",
             "date_published": "2023-02-10T00:50:35.000Z",
             "author": {
                 "name": "UNICORDev",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "rweijnen",
                 "url": "https://github.com/rweijnen"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/163496398?u=b3e2ce5430bb2de120fe8460da065c9919663673&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
-            "url": "https://github.com/jrbH4CK/CVE-2022-22963",
-            "title": "jrbH4CK/CVE-2022-22963",
-            "date_modified": "2024-05-08T04:32:57.000Z",
-            "date_published": "2024-05-08T04:25:29.000Z",
-            "author": {
-                "name": "jrbH4CK",
-                "url": "https://github.com/jrbH4CK"
             }
         }
     ]
