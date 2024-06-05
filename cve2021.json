@@ -6,6 +6,17 @@
     "description": "CVE-2021 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/53834222?u=e80f365c127c79e541527f3cf29459ae698b6ba0&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2021-1675/CVE-2021-34527 PrintNightmare &amp; CVE-2020-0668</div>",
+            "url": "https://github.com/0xSs0rZ/Windows_Exploit",
+            "title": "0xSs0rZ/Windows_Exploit: CVE-2021-1675/CVE-2021-34527 PrintNightmare & CVE-2020-0668",
+            "date_modified": "2024-06-05T10:04:29.000Z",
+            "date_published": "2024-06-05T10:01:18.000Z",
+            "author": {
+                "name": "0xSs0rZ",
+                "url": "https://github.com/0xSs0rZ"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/20056452?u=87917e69597c431c2b7e3d2f8f268a0a49d211c3&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Modified the PoC CVE-2021-31630 script by Fellipe Oliveira for HTB </div>",
             "url": "https://github.com/junnythemarksman/CVE-2021-31630",
             "title": "junnythemarksman/CVE-2021-31630: Modified the PoC CVE-2021-31630 script by Fellipe Oliveira for HTB ",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "winnpixie",
                 "url": "https://github.com/winnpixie"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/17347389?u=13807d8693f53e5afc548ca25a77f3d77fe0b048&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>PoC for CVE-2021-34646</div>",
-            "url": "https://github.com/0xB455/CVE-2021-34646",
-            "title": "0xB455/CVE-2021-34646: PoC for CVE-2021-34646",
-            "date_modified": "2024-05-16T08:27:29.000Z",
-            "date_published": "2024-05-15T06:35:42.000Z",
-            "author": {
-                "name": "0xB455",
-                "url": "https://github.com/0xB455"
             }
         }
     ]
