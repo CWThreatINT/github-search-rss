@@ -6,6 +6,17 @@
     "description": "CVE-2022 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/68430129?u=40c651f74825c6131498e82571e223c4b382bd9f&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
+            "url": "https://github.com/muhammad1596/CVE-2022-0847-DirtyPipe-Exploits",
+            "title": "muhammad1596/CVE-2022-0847-DirtyPipe-Exploits",
+            "date_modified": "2024-06-06T14:39:21.000Z",
+            "date_published": "2024-06-06T14:27:41.000Z",
+            "author": {
+                "name": "muhammad1596",
+                "url": "https://github.com/muhammad1596"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/102907425?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Oracle WebLogic Server (LFI)</div>",
             "url": "https://github.com/Cappricio-Securities/CVE-2022-21371",
             "title": "Cappricio-Securities/CVE-2022-21371: Oracle WebLogic Server (LFI)",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "dcheng69",
                 "url": "https://github.com/dcheng69"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/121653522?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>(CVE-2023-31290) Trust Wallet Core before 3.1.1, as used in the Trust Wallet browser extension before 0.0.183, allows theft of funds because the entropy is 32 bits, as exploited in the wild in December 2022 and March 2023.</div>",
-            "url": "https://github.com/00000rest/py_trustwallet_wasm",
-            "title": "00000rest/py_trustwallet_wasm: (CVE-2023-31290) Trust Wallet Core before 3.1.1, as used in the Trust Wallet browser extension before 0.0.183, allows theft of funds because the entropy is 32 bits, as exploited in the wild in December 2022 and March 2023.",
-            "date_modified": "2024-05-08T21:50:49.000Z",
-            "date_published": "2024-05-07T15:02:22.000Z",
-            "author": {
-                "name": "00000rest",
-                "url": "https://github.com/00000rest"
             }
         }
     ]
