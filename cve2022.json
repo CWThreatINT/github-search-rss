@@ -6,6 +6,17 @@
     "description": "CVE-2022 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/92728059?u=e6318baf13bf98eee37f7582d9e3f680b8532b81&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>New exploit for Apache APISIX 2.12.1 - Remote Code Execution (RCE)</div>",
+            "url": "https://github.com/btar1gan/exploit_CVE-2022-24112",
+            "title": "btar1gan/exploit_CVE-2022-24112: New exploit for Apache APISIX 2.12.1 - Remote Code Execution (RCE)",
+            "date_modified": "2024-06-07T05:07:11.000Z",
+            "date_published": "2024-06-03T17:33:59.000Z",
+            "author": {
+                "name": "btar1gan",
+                "url": "https://github.com/btar1gan"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/68430129?u=40c651f74825c6131498e82571e223c4b382bd9f&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
             "url": "https://github.com/muhammad1596/CVE-2022-0847-DirtyPipe-Exploits",
             "title": "muhammad1596/CVE-2022-0847-DirtyPipe-Exploits",
@@ -58,17 +69,6 @@
             "author": {
                 "name": "EmadYaY",
                 "url": "https://github.com/EmadYaY"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/92728059?u=e6318baf13bf98eee37f7582d9e3f680b8532b81&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>New exploit for Apache APISIX 2.12.1 - Remote Code Execution (RCE)</div>",
-            "url": "https://github.com/btar1gan/exploit_CVE-2022-24112",
-            "title": "btar1gan/exploit_CVE-2022-24112: New exploit for Apache APISIX 2.12.1 - Remote Code Execution (RCE)",
-            "date_modified": "2024-06-03T17:34:00.000Z",
-            "date_published": "2024-06-03T17:33:59.000Z",
-            "author": {
-                "name": "btar1gan",
-                "url": "https://github.com/btar1gan"
             }
         },
         {
