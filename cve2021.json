@@ -6,6 +6,17 @@
     "description": "CVE-2021 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/18383407?u=c9d1276bd9ccb8b06b724c3057b1ef683fa81de7&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2021-42558: Multiple Cross-Site Scripting in MITRE Caldera</div>",
+            "url": "https://github.com/mbadanoiu/CVE-2021-42558",
+            "title": "mbadanoiu/CVE-2021-42558: CVE-2021-42558: Multiple Cross-Site Scripting in MITRE Caldera",
+            "date_modified": "2024-06-09T20:34:14.000Z",
+            "date_published": "2024-06-09T20:20:46.000Z",
+            "author": {
+                "name": "mbadanoiu",
+                "url": "https://github.com/mbadanoiu"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/126980610?u=5f28d850eed592a45ad5a24a4648a8fc54098252&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Objective: Demonstrate the exploitation of the Log4Shell vulnerability (CVE-2021-44228) within a simulated banking application environment.</div>",
             "url": "https://github.com/tadash10/Exploiting-CVE-2021-44228-Log4Shell-in-a-Banking-Environment",
             "title": "tadash10/Exploiting-CVE-2021-44228-Log4Shell-in-a-Banking-Environment: Objective: Demonstrate the exploitation of the Log4Shell vulnerability (CVE-2021-44228) within a simulated banking application environment.",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "byt3bl33d3r",
                 "url": "https://github.com/byt3bl33d3r"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/161194427?u=60a3e2ce70f3e7e212105f156d86911176357696&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
-            "url": "https://github.com/X-Projetion/Exploiting-PwnKit-CVE-2021-4034-",
-            "title": "X-Projetion/Exploiting-PwnKit-CVE-2021-4034-",
-            "date_modified": "2024-05-19T09:00:24.000Z",
-            "date_published": "2024-05-19T08:58:00.000Z",
-            "author": {
-                "name": "X-Projetion",
-                "url": "https://github.com/X-Projetion"
             }
         }
     ]
