@@ -6,6 +6,17 @@
     "description": "CVE-2021 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/18383407?u=c9d1276bd9ccb8b06b724c3057b1ef683fa81de7&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2021-42561: Command Injection via the Human Plugin in MITRE Caldera</div>",
+            "url": "https://github.com/mbadanoiu/CVE-2021-42561",
+            "title": "mbadanoiu/CVE-2021-42561: CVE-2021-42561: Command Injection via the Human Plugin in MITRE Caldera",
+            "date_modified": "2024-06-09T22:57:08.000Z",
+            "date_published": "2024-06-09T22:39:46.000Z",
+            "author": {
+                "name": "mbadanoiu",
+                "url": "https://github.com/mbadanoiu"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/18383407?u=c9d1276bd9ccb8b06b724c3057b1ef683fa81de7&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2021-42560: Unsafe XML Parsing in MITRE Caldera</div>",
             "url": "https://github.com/mbadanoiu/CVE-2021-42560",
             "title": "mbadanoiu/CVE-2021-42560: CVE-2021-42560: Unsafe XML Parsing in MITRE Caldera",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "cc3305",
                 "url": "https://github.com/cc3305"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/55309735?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
-            "url": "https://github.com/wechicken456/CVE-2021-4034-CTF-writeup",
-            "title": "wechicken456/CVE-2021-4034-CTF-writeup",
-            "date_modified": "2024-05-20T18:33:17.000Z",
-            "date_published": "2024-02-04T19:00:38.000Z",
-            "author": {
-                "name": "wechicken456",
-                "url": "https://github.com/wechicken456"
             }
         }
     ]
