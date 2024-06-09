@@ -6,6 +6,17 @@
     "description": "CVE-2022 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/61376744?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>My exploit for CVE-2022-32250 for linux kernel 5.18</div>",
+            "url": "https://github.com/Kristal-g/CVE-2022-32250",
+            "title": "Kristal-g/CVE-2022-32250: My exploit for CVE-2022-32250 for linux kernel 5.18",
+            "date_modified": "2024-06-09T20:03:01.000Z",
+            "date_published": "2024-06-09T19:53:54.000Z",
+            "author": {
+                "name": "Kristal-g",
+                "url": "https://github.com/Kristal-g"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/102907425?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Oracle E-Business Suite &lt;=12.2 - Authentication Bypass</div>",
             "url": "https://github.com/Cappricio-Securities/CVE-2022-21500",
             "title": "Cappricio-Securities/CVE-2022-21500: Oracle E-Business Suite <=12.2 - Authentication Bypass",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "wan9xx",
                 "url": "https://github.com/wan9xx"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/103281826?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Exploit for CVE-2022–25765 (pdfkit) - Command Injection</div>",
-            "url": "https://github.com/UNICORDev/exploit-CVE-2022-25765",
-            "title": "UNICORDev/exploit-CVE-2022-25765: Exploit for CVE-2022–25765 (pdfkit) - Command Injection",
-            "date_modified": "2024-06-04T13:45:32.000Z",
-            "date_published": "2023-02-10T00:50:35.000Z",
-            "author": {
-                "name": "UNICORDev",
-                "url": "https://github.com/UNICORDev"
             }
         }
     ]
