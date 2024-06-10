@@ -6,6 +6,17 @@
     "description": "CVE-2021 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/18383407?u=c9d1276bd9ccb8b06b724c3057b1ef683fa81de7&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2021-42562: Improper Access Control in MITRE Caldera</div>",
+            "url": "https://github.com/mbadanoiu/CVE-2021-42562",
+            "title": "mbadanoiu/CVE-2021-42562: CVE-2021-42562: Improper Access Control in MITRE Caldera",
+            "date_modified": "2024-06-09T23:25:44.000Z",
+            "date_published": "2024-06-09T23:04:45.000Z",
+            "author": {
+                "name": "mbadanoiu",
+                "url": "https://github.com/mbadanoiu"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/18383407?u=c9d1276bd9ccb8b06b724c3057b1ef683fa81de7&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2021-42561: Command Injection via the Human Plugin in MITRE Caldera</div>",
             "url": "https://github.com/mbadanoiu/CVE-2021-42561",
             "title": "mbadanoiu/CVE-2021-42561: CVE-2021-42561: Command Injection via the Human Plugin in MITRE Caldera",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "Cappricio-Securities",
                 "url": "https://github.com/Cappricio-Securities"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/103961201?u=3d350369bdfc65ed264ec847797e0225c142f143&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2021-22205 exploit script</div>",
-            "url": "https://github.com/cc3305/CVE-2021-22205",
-            "title": "cc3305/CVE-2021-22205: CVE-2021-22205 exploit script",
-            "date_modified": "2024-05-20T18:48:22.000Z",
-            "date_published": "2024-05-19T23:14:48.000Z",
-            "author": {
-                "name": "cc3305",
-                "url": "https://github.com/cc3305"
             }
         }
     ]
