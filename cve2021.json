@@ -6,6 +6,17 @@
     "description": "CVE-2021 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/97350255?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>For learning purpose did a complete analysis on CVE-2021-40444 POC (proof of concept)</div>",
+            "url": "https://github.com/skitkat/CVE-2021-40444-POC",
+            "title": "skitkat/CVE-2021-40444-POC: For learning purpose did a complete analysis on CVE-2021-40444 POC (proof of concept)",
+            "date_modified": "2024-06-14T19:04:05.000Z",
+            "date_published": "2024-06-14T19:04:02.000Z",
+            "author": {
+                "name": "skitkat",
+                "url": "https://github.com/skitkat"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/126980610?u=5f28d850eed592a45ad5a24a4648a8fc54098252&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Objective: Demonstrate the exploitation of the Log4Shell vulnerability (CVE-2021-44228) within a simulated banking application environment.</div>",
             "url": "https://github.com/tadash10/Exploiting-CVE-2021-44228-Log4Shell-in-a-Banking-Environment",
             "title": "tadash10/Exploiting-CVE-2021-44228-Log4Shell-in-a-Banking-Environment: Objective: Demonstrate the exploitation of the Log4Shell vulnerability (CVE-2021-44228) within a simulated banking application environment.",
@@ -209,17 +220,6 @@
             "title": "Cappricio-Securities/CVE-2021-40438: Apache <= 2.4.48 Mod_Proxy - Server-Side Request Forgery",
             "date_modified": "2024-05-21T08:00:25.000Z",
             "date_published": "2024-05-19T11:04:58.000Z",
-            "author": {
-                "name": "Cappricio-Securities",
-                "url": "https://github.com/Cappricio-Securities"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/102907425?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Tool for finding CVE-2021-20323</div>",
-            "url": "https://github.com/Cappricio-Securities/CVE-2021-20323",
-            "title": "Cappricio-Securities/CVE-2021-20323: Tool for finding CVE-2021-20323",
-            "date_modified": "2024-05-21T06:59:31.000Z",
-            "date_published": "2024-01-11T16:02:07.000Z",
             "author": {
                 "name": "Cappricio-Securities",
                 "url": "https://github.com/Cappricio-Securities"
