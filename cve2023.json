@@ -9,11 +9,22 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/18195825?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023</div>",
             "url": "https://github.com/CVEProject/cvelist",
             "title": "CVEProject/cvelist: Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023",
-            "date_modified": "2024-06-20T13:00:55.000Z",
+            "date_modified": "2024-06-20T14:00:56.000Z",
             "date_published": "2020-11-02T19:30:55.000Z",
             "author": {
                 "name": "CVEProject",
                 "url": "https://github.com/CVEProject"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/32276847?u=3afaab8bd90971318c225d6de26a2318ca072070&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
+            "url": "https://github.com/CamillaFranceschini/CVE-2023-4357",
+            "title": "CamillaFranceschini/CVE-2023-4357",
+            "date_modified": "2024-06-20T13:20:56.000Z",
+            "date_published": "2024-06-20T13:20:43.000Z",
+            "author": {
+                "name": "CamillaFranceschini",
+                "url": "https://github.com/CamillaFranceschini"
             }
         },
         {
@@ -75,7 +86,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/144001335?u=c42bea7e07a206065e90fc34c073c2292c885b40&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>🚨 CVE-2023-45866 - BlueDucky Implementation (Using DuckyScript) 🔓 Unauthenticated Peering Leading to Code Execution (Using HID Keyboard)</div>",
             "url": "https://github.com/pentestfunctions/BlueDucky",
             "title": "pentestfunctions/BlueDucky: 🚨 CVE-2023-45866 - BlueDucky Implementation (Using DuckyScript) 🔓 Unauthenticated Peering Leading to Code Execution (Using HID Keyboard)",
-            "date_modified": "2024-06-20T10:09:18.000Z",
+            "date_modified": "2024-06-20T14:06:24.000Z",
             "date_published": "2024-01-16T06:52:02.000Z",
             "author": {
                 "name": "pentestfunctions",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "md-thalal",
                 "url": "https://github.com/md-thalal"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/57813053?u=3d53aaaf395c224abc40a3176ddfe478cea29007&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>This repository contains the exploit code for CVE-2023-33105, a vulnerability identified in Qualcomm devices. The exploit leverages authentication frames to perform a denial of service (DoS) attack on a target access point (AP) by sending a large number of open authentication frames with an invalid transaction sequence number.</div>",
-            "url": "https://github.com/D3adP3nguin/CVE-2023-33105-Transient-DOS-in-WLAN-Host-and-Firmware",
-            "title": "D3adP3nguin/CVE-2023-33105-Transient-DOS-in-WLAN-Host-and-Firmware: This repository contains the exploit code for CVE-2023-33105, a vulnerability identified in Qualcomm devices. The exploit leverages authentication frames to perform a denial of service (DoS) attack on a target access point (AP) by sending a large number of open authentication frames with an invalid transaction sequence number.",
-            "date_modified": "2024-06-11T18:50:14.000Z",
-            "date_published": "2024-06-10T17:20:06.000Z",
-            "author": {
-                "name": "D3adP3nguin",
-                "url": "https://github.com/D3adP3nguin"
             }
         }
     ]
