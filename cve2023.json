@@ -6,14 +6,36 @@
     "description": "CVE-2023 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/150204934?u=48414ebc3423d1f7641ce76d1cc6603a9747e0ff&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2023-30253 PoC</div>",
+            "url": "https://github.com/g4nkd/CVE-2023-30253-PoC",
+            "title": "g4nkd/CVE-2023-30253-PoC: CVE-2023-30253 PoC",
+            "date_modified": "2024-06-21T01:51:46.000Z",
+            "date_published": "2024-06-21T01:41:34.000Z",
+            "author": {
+                "name": "g4nkd",
+                "url": "https://github.com/g4nkd"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/18195825?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023</div>",
             "url": "https://github.com/CVEProject/cvelist",
             "title": "CVEProject/cvelist: Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023",
-            "date_modified": "2024-06-21T00:08:58.000Z",
+            "date_modified": "2024-06-21T01:01:00.000Z",
             "date_published": "2020-11-02T19:30:55.000Z",
             "author": {
                 "name": "CVEProject",
                 "url": "https://github.com/CVEProject"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/151980876?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>TOP All bugbounty pentesting CVE-2023- POC Exp  RCE example payload  Things</div>",
+            "url": "https://github.com/GhostTroops/TOP",
+            "title": "GhostTroops/TOP: TOP All bugbounty pentesting CVE-2023- POC Exp  RCE example payload  Things",
+            "date_modified": "2024-06-21T00:53:41.000Z",
+            "date_published": "2022-03-19T01:54:15.000Z",
+            "author": {
+                "name": "GhostTroops",
+                "url": "https://github.com/GhostTroops"
             }
         },
         {
@@ -58,17 +80,6 @@
             "author": {
                 "name": "SmileTabLabo",
                 "url": "https://github.com/SmileTabLabo"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/151980876?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>TOP All bugbounty pentesting CVE-2023- POC Exp  RCE example payload  Things</div>",
-            "url": "https://github.com/GhostTroops/TOP",
-            "title": "GhostTroops/TOP: TOP All bugbounty pentesting CVE-2023- POC Exp  RCE example payload  Things",
-            "date_modified": "2024-06-20T00:53:13.000Z",
-            "date_published": "2022-03-19T01:54:15.000Z",
-            "author": {
-                "name": "GhostTroops",
-                "url": "https://github.com/GhostTroops"
             }
         },
         {
@@ -212,17 +223,6 @@
             "author": {
                 "name": "Chapoly1305",
                 "url": "https://github.com/Chapoly1305"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/54619779?u=c6b4ec16ff148947f8ee8cb17ef0f6b2bbd6aadb&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2023-20598 Kernel Driver - Elevation of Privilege</div>",
-            "url": "https://github.com/H4rk3nz0/CVE-2023-20598-PDFWKRNL",
-            "title": "H4rk3nz0/CVE-2023-20598-PDFWKRNL: CVE-2023-20598 Kernel Driver - Elevation of Privilege",
-            "date_modified": "2024-06-13T21:34:48.000Z",
-            "date_published": "2024-06-11T22:03:51.000Z",
-            "author": {
-                "name": "H4rk3nz0",
-                "url": "https://github.com/H4rk3nz0"
             }
         }
     ]
