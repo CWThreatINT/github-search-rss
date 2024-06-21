@@ -6,6 +6,28 @@
     "description": "CVE-2021 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/102907425?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>WordPress WPS Hide Login &lt;1.9.1 - Information Disclosure</div>",
+            "url": "https://github.com/Cappricio-Securities/CVE-2021-24917",
+            "title": "Cappricio-Securities/CVE-2021-24917: WordPress WPS Hide Login <1.9.1 - Information Disclosure",
+            "date_modified": "2024-06-21T08:44:32.000Z",
+            "date_published": "2024-05-20T02:07:52.000Z",
+            "author": {
+                "name": "Cappricio-Securities",
+                "url": "https://github.com/Cappricio-Securities"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/102907425?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Apache &lt;= 2.4.48 Mod_Proxy - Server-Side Request Forgery</div>",
+            "url": "https://github.com/Cappricio-Securities/CVE-2021-40438",
+            "title": "Cappricio-Securities/CVE-2021-40438: Apache <= 2.4.48 Mod_Proxy - Server-Side Request Forgery",
+            "date_modified": "2024-06-21T08:18:21.000Z",
+            "date_published": "2024-05-19T11:04:58.000Z",
+            "author": {
+                "name": "Cappricio-Securities",
+                "url": "https://github.com/Cappricio-Securities"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/102907425?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A POST based reflected Cross Site Scripting vulnerability on has been identified in Keycloak.</div>",
             "url": "https://github.com/Cappricio-Securities/CVE-2021-20323",
             "title": "Cappricio-Securities/CVE-2021-20323: A POST based reflected Cross Site Scripting vulnerability on has been identified in Keycloak.",
@@ -201,28 +223,6 @@
             "author": {
                 "name": "junnythemarksman",
                 "url": "https://github.com/junnythemarksman"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/87483432?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2021-41773.py</div>",
-            "url": "https://github.com/Maybe4a6f7365/CVE-2021-41773",
-            "title": "Maybe4a6f7365/CVE-2021-41773: CVE-2021-41773.py",
-            "date_modified": "2024-06-03T00:03:13.000Z",
-            "date_published": "2024-06-02T23:43:35.000Z",
-            "author": {
-                "name": "Maybe4a6f7365",
-                "url": "https://github.com/Maybe4a6f7365"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/129803614?u=2ac94427ff277ab136a34c403c306b320b156886&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Soluciona a CVE-2021-1678 - RpcAuthnLevelPrivacyEnabled</div>",
-            "url": "https://github.com/alvaciroliveira/RpcAuthnLevelPrivacyEnabled",
-            "title": "alvaciroliveira/RpcAuthnLevelPrivacyEnabled: Soluciona a CVE-2021-1678 - RpcAuthnLevelPrivacyEnabled",
-            "date_modified": "2024-06-02T01:46:56.000Z",
-            "date_published": "2024-05-13T20:19:38.000Z",
-            "author": {
-                "name": "alvaciroliveira",
-                "url": "https://github.com/alvaciroliveira"
             }
         }
     ]

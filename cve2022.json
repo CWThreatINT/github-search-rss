@@ -6,6 +6,17 @@
     "description": "CVE-2022 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/102907425?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>WordPress Page Builder KingComposer &lt;=2.9.6 - Open Redirect</div>",
+            "url": "https://github.com/Cappricio-Securities/CVE-2022-0165",
+            "title": "Cappricio-Securities/CVE-2022-0165: WordPress Page Builder KingComposer <=2.9.6 - Open Redirect",
+            "date_modified": "2024-06-21T08:35:47.000Z",
+            "date_published": "2024-05-29T04:00:25.000Z",
+            "author": {
+                "name": "Cappricio-Securities",
+                "url": "https://github.com/Cappricio-Securities"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/103961201?u=3d350369bdfc65ed264ec847797e0225c142f143&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2022-29464 exploit script</div>",
             "url": "https://github.com/cc3305/CVE-2022-29464",
             "title": "cc3305/CVE-2022-29464: CVE-2022-29464 exploit script",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "junnythemarksman",
                 "url": "https://github.com/junnythemarksman"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/138330732?u=f25a0b581da363cc8e2eb214377d762a00158c80&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>𓃌 - htmlLawed 1.2.5 Remote code Execution</div>",
-            "url": "https://github.com/0romos/CVE-2022-35914",
-            "title": "0romos/CVE-2022-35914: 𓃌 - htmlLawed 1.2.5 Remote code Execution",
-            "date_modified": "2024-05-29T19:58:46.000Z",
-            "date_published": "2024-05-29T19:54:15.000Z",
-            "author": {
-                "name": "0romos",
-                "url": "https://github.com/0romos"
             }
         }
     ]
