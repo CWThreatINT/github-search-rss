@@ -6,6 +6,17 @@
     "description": "CVE-2022 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/107208935?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2022-36946 linux kernel panic in netfilter_queue</div>",
+            "url": "https://github.com/Pwnzer0tt1/CVE-2022-36946",
+            "title": "Pwnzer0tt1/CVE-2022-36946: CVE-2022-36946 linux kernel panic in netfilter_queue",
+            "date_modified": "2024-06-21T18:53:30.000Z",
+            "date_published": "2022-07-28T11:22:13.000Z",
+            "author": {
+                "name": "Pwnzer0tt1",
+                "url": "https://github.com/Pwnzer0tt1"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/95855503?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
             "url": "https://github.com/phanthibichtram12/CVE-2022-1565",
             "title": "phanthibichtram12/CVE-2022-1565",
@@ -209,17 +220,6 @@
             "title": "muhammad1596/CVE-2022-0847-DirtyPipe-Exploits",
             "date_modified": "2024-06-06T14:39:21.000Z",
             "date_published": "2024-06-06T14:27:41.000Z",
-            "author": {
-                "name": "muhammad1596",
-                "url": "https://github.com/muhammad1596"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/68430129?u=40c651f74825c6131498e82571e223c4b382bd9f&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
-            "url": "https://github.com/muhammad1596/CVE-2022-0847-dirty-pipe-checker",
-            "title": "muhammad1596/CVE-2022-0847-dirty-pipe-checker",
-            "date_modified": "2024-06-04T16:18:38.000Z",
-            "date_published": "2024-06-04T13:25:04.000Z",
             "author": {
                 "name": "muhammad1596",
                 "url": "https://github.com/muhammad1596"
