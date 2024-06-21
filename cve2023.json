@@ -9,7 +9,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/18195825?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023</div>",
             "url": "https://github.com/CVEProject/cvelist",
             "title": "CVEProject/cvelist: Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023",
-            "date_modified": "2024-06-21T07:00:53.000Z",
+            "date_modified": "2024-06-21T08:00:58.000Z",
             "date_published": "2020-11-02T19:30:55.000Z",
             "author": {
                 "name": "CVEProject",
@@ -17,10 +17,21 @@
             }
         },
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/102907425?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Apache Superset - Authentication Bypass</div>",
+            "url": "https://github.com/Cappricio-Securities/CVE-2023-27524",
+            "title": "Cappricio-Securities/CVE-2023-27524: Apache Superset - Authentication Bypass",
+            "date_modified": "2024-06-21T07:28:41.000Z",
+            "date_published": "2024-05-11T12:29:08.000Z",
+            "author": {
+                "name": "Cappricio-Securities",
+                "url": "https://github.com/Cappricio-Securities"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/102907425?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>An issue was discovered in cPanel before 11.109.9999.116. Cross-Site Scripting can occur on the cpsrvd error page via an invalid webcall ID.</div>",
             "url": "https://github.com/Cappricio-Securities/CVE-2023-29489",
             "title": "Cappricio-Securities/CVE-2023-29489: An issue was discovered in cPanel before 11.109.9999.116. Cross-Site Scripting can occur on the cpsrvd error page via an invalid webcall ID.",
-            "date_modified": "2024-06-21T06:12:29.000Z",
+            "date_modified": "2024-06-21T07:23:23.000Z",
             "date_published": "2024-04-21T12:26:22.000Z",
             "author": {
                 "name": "Cappricio-Securities",
@@ -36,6 +47,17 @@
             "author": {
                 "name": "ISH2YU",
                 "url": "https://github.com/ISH2YU"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/52069677?u=49395ff4e3917d509adf0f73d40039a65debdc82&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2023-6241 for Pixel 8</div>",
+            "url": "https://github.com/s1204IT/CVE-2023-6241",
+            "title": "s1204IT/CVE-2023-6241: CVE-2023-6241 for Pixel 8",
+            "date_modified": "2024-06-21T07:29:49.000Z",
+            "date_published": "2024-05-02T02:17:31.000Z",
+            "author": {
+                "name": "s1204IT",
+                "url": "https://github.com/s1204IT"
             }
         },
         {
@@ -91,17 +113,6 @@
             "author": {
                 "name": "CamillaFranceschini",
                 "url": "https://github.com/CamillaFranceschini"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/52069677?u=49395ff4e3917d509adf0f73d40039a65debdc82&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
-            "url": "https://github.com/s1204IT/CVE-2023-6241",
-            "title": "s1204IT/CVE-2023-6241",
-            "date_modified": "2024-06-21T05:06:22.000Z",
-            "date_published": "2024-05-02T02:17:31.000Z",
-            "author": {
-                "name": "s1204IT",
-                "url": "https://github.com/s1204IT"
             }
         },
         {
@@ -212,17 +223,6 @@
             "author": {
                 "name": "the-emmons",
                 "url": "https://github.com/the-emmons"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/172750025?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
-            "url": "https://github.com/cve-2024/CVE-2023-1326-PoC",
-            "title": "cve-2024/CVE-2023-1326-PoC",
-            "date_modified": "2024-06-14T07:18:15.000Z",
-            "date_published": "2024-06-14T07:15:50.000Z",
-            "author": {
-                "name": "cve-2024",
-                "url": "https://github.com/cve-2024"
             }
         }
     ]
