@@ -6,6 +6,17 @@
     "description": "CVE-2021 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/76139191?u=6dbf7dba9147dc816f22b3a3384e8e2f1e0c8a74&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>This is a automation of cve-2021-31630 exploitation</div>",
+            "url": "https://github.com/adibabdala123/cve-2021-31630",
+            "title": "adibabdala123/cve-2021-31630: This is a automation of cve-2021-31630 exploitation",
+            "date_modified": "2024-06-21T23:01:21.000Z",
+            "date_published": "2024-06-21T22:10:49.000Z",
+            "author": {
+                "name": "adibabdala123",
+                "url": "https://github.com/adibabdala123"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/102907425?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>WordPress WPS Hide Login &lt;1.9.1 - Information Disclosure</div>",
             "url": "https://github.com/Cappricio-Securities/CVE-2021-24917",
             "title": "Cappricio-Securities/CVE-2021-24917: WordPress WPS Hide Login <1.9.1 - Information Disclosure",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "JHVIW",
                 "url": "https://github.com/JHVIW"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/20056452?u=87917e69597c431c2b7e3d2f8f268a0a49d211c3&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Modified the PoC CVE-2021-31630 script by Fellipe Oliveira for HTB </div>",
-            "url": "https://github.com/junnythemarksman/CVE-2021-31630",
-            "title": "junnythemarksman/CVE-2021-31630: Modified the PoC CVE-2021-31630 script by Fellipe Oliveira for HTB ",
-            "date_modified": "2024-06-04T00:46:34.000Z",
-            "date_published": "2024-06-04T00:44:47.000Z",
-            "author": {
-                "name": "junnythemarksman",
-                "url": "https://github.com/junnythemarksman"
             }
         }
     ]
