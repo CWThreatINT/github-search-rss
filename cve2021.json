@@ -6,6 +6,17 @@
     "description": "CVE-2021 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/49351264?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
+            "url": "https://github.com/glen-pearson/ProxyLogon-CVE-2021-26855",
+            "title": "glen-pearson/ProxyLogon-CVE-2021-26855",
+            "date_modified": "2024-06-28T18:52:14.000Z",
+            "date_published": "2023-04-23T22:26:45.000Z",
+            "author": {
+                "name": "glen-pearson",
+                "url": "https://github.com/glen-pearson"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/52586579?u=f335b83fa3d90d519ec4c6e95218058ea6d75b40&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2021-42013, a critical vulnerability in the Apache HTTP Server (2.4.50)</div>",
             "url": "https://github.com/rafifdna/CVE-2021-42013",
             "title": "rafifdna/CVE-2021-42013: CVE-2021-42013, a critical vulnerability in the Apache HTTP Server (2.4.50)",
@@ -209,17 +220,6 @@
             "title": "mbadanoiu/CVE-2021-42560: CVE-2021-42560: Unsafe XML Parsing in MITRE Caldera",
             "date_modified": "2024-06-09T21:42:54.000Z",
             "date_published": "2024-06-09T21:33:07.000Z",
-            "author": {
-                "name": "mbadanoiu",
-                "url": "https://github.com/mbadanoiu"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/18383407?u=c9d1276bd9ccb8b06b724c3057b1ef683fa81de7&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2021-42559: Command Injection via Configurations in MITRE Caldera</div>",
-            "url": "https://github.com/mbadanoiu/CVE-2021-42559",
-            "title": "mbadanoiu/CVE-2021-42559: CVE-2021-42559: Command Injection via Configurations in MITRE Caldera",
-            "date_modified": "2024-06-09T21:14:20.000Z",
-            "date_published": "2024-06-09T21:07:16.000Z",
             "author": {
                 "name": "mbadanoiu",
                 "url": "https://github.com/mbadanoiu"
