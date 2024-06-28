@@ -9,8 +9,19 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/52069677?u=49395ff4e3917d509adf0f73d40039a65debdc82&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
             "url": "https://github.com/s1204IT/CVE-2022-20186",
             "title": "s1204IT/CVE-2022-20186",
-            "date_modified": "2024-06-28T15:58:43.000Z",
+            "date_modified": "2024-06-28T17:05:29.000Z",
             "date_published": "2024-06-28T15:53:30.000Z",
+            "author": {
+                "name": "s1204IT",
+                "url": "https://github.com/s1204IT"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/52069677?u=49395ff4e3917d509adf0f73d40039a65debdc82&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
+            "url": "https://github.com/s1204IT/CVE-2022-46395",
+            "title": "s1204IT/CVE-2022-46395",
+            "date_modified": "2024-06-28T16:52:38.000Z",
+            "date_published": "2024-06-28T16:37:46.000Z",
             "author": {
                 "name": "s1204IT",
                 "url": "https://github.com/s1204IT"
@@ -212,17 +223,6 @@
             "author": {
                 "name": "Wack0",
                 "url": "https://github.com/Wack0"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/92728059?u=e6318baf13bf98eee37f7582d9e3f680b8532b81&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>New exploit for Apache APISIX 2.12.1 - Remote Code Execution (RCE)</div>",
-            "url": "https://github.com/btar1gan/exploit_CVE-2022-24112",
-            "title": "btar1gan/exploit_CVE-2022-24112: New exploit for Apache APISIX 2.12.1 - Remote Code Execution (RCE)",
-            "date_modified": "2024-06-07T05:09:52.000Z",
-            "date_published": "2024-06-03T17:33:59.000Z",
-            "author": {
-                "name": "btar1gan",
-                "url": "https://github.com/btar1gan"
             }
         }
     ]
