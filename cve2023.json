@@ -6,6 +6,28 @@
     "description": "CVE-2023 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/49351264?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Modified RCE with a remote shell and logging</div>",
+            "url": "https://github.com/glen-pearson/MoveIT-CVE-2023-34362-RCE",
+            "title": "glen-pearson/MoveIT-CVE-2023-34362-RCE: Modified RCE with a remote shell and logging",
+            "date_modified": "2024-06-29T01:41:48.000Z",
+            "date_published": "2024-06-28T17:13:15.000Z",
+            "author": {
+                "name": "glen-pearson",
+                "url": "https://github.com/glen-pearson"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/151980876?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>TOP All bugbounty pentesting CVE-2023- POC Exp  RCE example payload  Things</div>",
+            "url": "https://github.com/GhostTroops/TOP",
+            "title": "GhostTroops/TOP: TOP All bugbounty pentesting CVE-2023- POC Exp  RCE example payload  Things",
+            "date_modified": "2024-06-29T00:53:42.000Z",
+            "date_published": "2022-03-19T01:54:15.000Z",
+            "author": {
+                "name": "GhostTroops",
+                "url": "https://github.com/GhostTroops"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/18195825?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023</div>",
             "url": "https://github.com/CVEProject/cvelist",
             "title": "CVEProject/cvelist: Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023",
@@ -61,17 +83,6 @@
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/49351264?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Modified RCE with a remote shell and logging</div>",
-            "url": "https://github.com/glen-pearson/MoveIT-CVE-2023-34362-RCE",
-            "title": "glen-pearson/MoveIT-CVE-2023-34362-RCE: Modified RCE with a remote shell and logging",
-            "date_modified": "2024-06-28T21:17:13.000Z",
-            "date_published": "2024-06-28T17:13:15.000Z",
-            "author": {
-                "name": "glen-pearson",
-                "url": "https://github.com/glen-pearson"
-            }
-        },
-        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/78493240?u=7a58cf59392ee886a3593c6d441857aa36c1f4e0&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Exploit_CVE_2023_7028 </div>",
             "url": "https://github.com/olebris/Exploit_CVE_2023_7028-",
             "title": "olebris/Exploit_CVE_2023_7028-: Exploit_CVE_2023_7028 ",
@@ -80,17 +91,6 @@
             "author": {
                 "name": "olebris",
                 "url": "https://github.com/olebris"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/151980876?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>TOP All bugbounty pentesting CVE-2023- POC Exp  RCE example payload  Things</div>",
-            "url": "https://github.com/GhostTroops/TOP",
-            "title": "GhostTroops/TOP: TOP All bugbounty pentesting CVE-2023- POC Exp  RCE example payload  Things",
-            "date_modified": "2024-06-28T00:54:32.000Z",
-            "date_published": "2022-03-19T01:54:15.000Z",
-            "author": {
-                "name": "GhostTroops",
-                "url": "https://github.com/GhostTroops"
             }
         },
         {
