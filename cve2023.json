@@ -6,33 +6,33 @@
     "description": "CVE-2023 FEED on GitHub",
     "items": [
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/18195825?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023</div>",
-            "url": "https://github.com/CVEProject/cvelist",
-            "title": "CVEProject/cvelist: Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023",
-            "date_modified": "2024-06-30T21:01:07.000Z",
-            "date_published": "2020-11-02T19:30:55.000Z",
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/57265360?u=5a0d0ca6c5153d7e41b9f498a12fe2b35498adf6&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Server Broken Access Control in Confluence - CVE-2023-22515</div>",
+            "url": "https://github.com/LucasPDiniz/CVE-2023-22515",
+            "title": "LucasPDiniz/CVE-2023-22515: Server Broken Access Control in Confluence - CVE-2023-22515",
+            "date_modified": "2024-06-30T22:00:53.000Z",
+            "date_published": "2023-11-08T05:18:30.000Z",
             "author": {
-                "name": "CVEProject",
-                "url": "https://github.com/CVEProject"
+                "name": "LucasPDiniz",
+                "url": "https://github.com/LucasPDiniz"
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/173569777?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A meticulous scrutiny of the Exploit PDFs innards exposes a network of malevolence, unveiling both the nefarious hyperlink and the URL that precipitates</div>",
-            "url": "https://github.com/Megalitons/Slient-PDF-FUD-Exploit-Slient-Builder-Exploit-Database-Cve-2023-Malware",
-            "title": "Megalitons/Slient-PDF-FUD-Exploit-Slient-Builder-Exploit-Database-Cve-2023-Malware: A meticulous scrutiny of the Exploit PDFs innards exposes a network of malevolence, unveiling both the nefarious hyperlink and the URL that precipitates",
-            "date_modified": "2024-06-30T20:59:50.000Z",
-            "date_published": "2024-06-22T18:54:09.000Z",
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/173569777?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>URL Contamination Exploit Muted Java Drive-By downloads can transpire during the act of perusing a website, inaugurating an electronic mail communication.</div>",
+            "url": "https://github.com/Megalitons/Slient-Url-Exploit-Slient-Builder-Exploit-Database-Cve-2023-Malware",
+            "title": "Megalitons/Slient-Url-Exploit-Slient-Builder-Exploit-Database-Cve-2023-Malware: URL Contamination Exploit Muted Java Drive-By downloads can transpire during the act of perusing a website, inaugurating an electronic mail communication.",
+            "date_modified": "2024-06-30T22:00:12.000Z",
+            "date_published": "2024-06-22T18:54:10.000Z",
             "author": {
                 "name": "Megalitons",
                 "url": "https://github.com/Megalitons"
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/173569777?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Microsoft Windows HTA (HTML Application) - Pinnacle of Remote Code Execution</div>",
-            "url": "https://github.com/Megalitons/Hta-Exploit-Builder-Slient-Builder-Exploit-Database-Cve-2023-Malware",
-            "title": "Megalitons/Hta-Exploit-Builder-Slient-Builder-Exploit-Database-Cve-2023-Malware: Microsoft Windows HTA (HTML Application) - Pinnacle of Remote Code Execution",
-            "date_modified": "2024-06-30T20:56:18.000Z",
-            "date_published": "2024-06-22T18:54:10.000Z",
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/173569777?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A meticulous scrutiny of the Exploit PDFs innards exposes a network of malevolence, unveiling both the nefarious hyperlink and the URL that precipitates</div>",
+            "url": "https://github.com/Megalitons/Slient-PDF-FUD-Exploit-Slient-Builder-Exploit-Database-Cve-2023-Malware",
+            "title": "Megalitons/Slient-PDF-FUD-Exploit-Slient-Builder-Exploit-Database-Cve-2023-Malware: A meticulous scrutiny of the Exploit PDFs innards exposes a network of malevolence, unveiling both the nefarious hyperlink and the URL that precipitates",
+            "date_modified": "2024-06-30T21:58:54.000Z",
+            "date_published": "2024-06-22T18:54:09.000Z",
             "author": {
                 "name": "Megalitons",
                 "url": "https://github.com/Megalitons"
@@ -42,7 +42,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/173569777?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>In the hushed galleries of the Silent JPG Exploit, a symphony shrouded in enigma unfurls—an opus named silent-jpg-exploit-2018—a title that reverberates through the annals of intrigue.</div>",
             "url": "https://github.com/Megalitons/Jpg-Png-Exploit-Slient-Builder-Exploit-Database-Cve-2023-Malware",
             "title": "Megalitons/Jpg-Png-Exploit-Slient-Builder-Exploit-Database-Cve-2023-Malware: In the hushed galleries of the Silent JPG Exploit, a symphony shrouded in enigma unfurls—an opus named silent-jpg-exploit-2018—a title that reverberates through the annals of intrigue.",
-            "date_modified": "2024-06-30T20:55:47.000Z",
+            "date_modified": "2024-06-30T21:55:04.000Z",
             "date_published": "2024-06-22T18:54:10.000Z",
             "author": {
                 "name": "Megalitons",
@@ -50,14 +50,36 @@
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/173569777?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>URL Contamination Exploit Muted Java Drive-By downloads can transpire during the act of perusing a website, inaugurating an electronic mail communication.</div>",
-            "url": "https://github.com/Megalitons/Slient-Url-Exploit-Slient-Builder-Exploit-Database-Cve-2023-Malware",
-            "title": "Megalitons/Slient-Url-Exploit-Slient-Builder-Exploit-Database-Cve-2023-Malware: URL Contamination Exploit Muted Java Drive-By downloads can transpire during the act of perusing a website, inaugurating an electronic mail communication.",
-            "date_modified": "2024-06-30T20:49:50.000Z",
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/57265360?u=5a0d0ca6c5153d7e41b9f498a12fe2b35498adf6&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Takeover Account OpenSSH</div>",
+            "url": "https://github.com/LucasPDiniz/CVE-2023-38408",
+            "title": "LucasPDiniz/CVE-2023-38408: Takeover Account OpenSSH",
+            "date_modified": "2024-06-30T21:54:58.000Z",
+            "date_published": "2023-11-09T04:34:39.000Z",
+            "author": {
+                "name": "LucasPDiniz",
+                "url": "https://github.com/LucasPDiniz"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/173569777?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Microsoft Windows HTA (HTML Application) - Pinnacle of Remote Code Execution</div>",
+            "url": "https://github.com/Megalitons/Hta-Exploit-Builder-Slient-Builder-Exploit-Database-Cve-2023-Malware",
+            "title": "Megalitons/Hta-Exploit-Builder-Slient-Builder-Exploit-Database-Cve-2023-Malware: Microsoft Windows HTA (HTML Application) - Pinnacle of Remote Code Execution",
+            "date_modified": "2024-06-30T21:54:56.000Z",
             "date_published": "2024-06-22T18:54:10.000Z",
             "author": {
                 "name": "Megalitons",
                 "url": "https://github.com/Megalitons"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/18195825?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023</div>",
+            "url": "https://github.com/CVEProject/cvelist",
+            "title": "CVEProject/cvelist: Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023",
+            "date_modified": "2024-06-30T21:01:07.000Z",
+            "date_published": "2020-11-02T19:30:55.000Z",
+            "author": {
+                "name": "CVEProject",
+                "url": "https://github.com/CVEProject"
             }
         },
         {
@@ -201,28 +223,6 @@
             "author": {
                 "name": "dollarboysushil",
                 "url": "https://github.com/dollarboysushil"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/102907425?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Plesk Obsidian &lt;=18.0.49 - Open Redirect</div>",
-            "url": "https://github.com/Cappricio-Securities/CVE-2023-24044",
-            "title": "Cappricio-Securities/CVE-2023-24044: Plesk Obsidian <=18.0.49 - Open Redirect",
-            "date_modified": "2024-06-24T09:05:16.000Z",
-            "date_published": "2024-05-26T06:56:05.000Z",
-            "author": {
-                "name": "Cappricio-Securities",
-                "url": "https://github.com/Cappricio-Securities"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/102907425?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Defender Security &lt; 4.1.0 - Protection Bypass (Hidden Login Page)</div>",
-            "url": "https://github.com/Cappricio-Securities/CVE-2023-5089",
-            "title": "Cappricio-Securities/CVE-2023-5089: Defender Security < 4.1.0 - Protection Bypass (Hidden Login Page)",
-            "date_modified": "2024-06-24T08:44:07.000Z",
-            "date_published": "2024-05-24T07:14:55.000Z",
-            "author": {
-                "name": "Cappricio-Securities",
-                "url": "https://github.com/Cappricio-Securities"
             }
         }
     ]

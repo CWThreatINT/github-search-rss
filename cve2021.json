@@ -6,6 +6,39 @@
     "description": "CVE-2021 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/57265360?u=5a0d0ca6c5153d7e41b9f498a12fe2b35498adf6&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Exploitation of the CVE-2021-3560 polkit vulnerability</div>",
+            "url": "https://github.com/LucasPDiniz/CVE-2021-3560",
+            "title": "LucasPDiniz/CVE-2021-3560: Exploitation of the CVE-2021-3560 polkit vulnerability",
+            "date_modified": "2024-06-30T22:01:58.000Z",
+            "date_published": "2023-11-08T05:11:56.000Z",
+            "author": {
+                "name": "LucasPDiniz",
+                "url": "https://github.com/LucasPDiniz"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/57265360?u=5a0d0ca6c5153d7e41b9f498a12fe2b35498adf6&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Local Privilege Escalation (LPE) vulnerability in Polkit - Pwnkit</div>",
+            "url": "https://github.com/LucasPDiniz/CVE-2021-4034",
+            "title": "LucasPDiniz/CVE-2021-4034: Local Privilege Escalation (LPE) vulnerability in Polkit - Pwnkit",
+            "date_modified": "2024-06-30T21:55:56.000Z",
+            "date_published": "2024-01-06T19:41:41.000Z",
+            "author": {
+                "name": "LucasPDiniz",
+                "url": "https://github.com/LucasPDiniz"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/57265360?u=5a0d0ca6c5153d7e41b9f498a12fe2b35498adf6&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Log4j Vulnerability RCE - CVE-2021-44228</div>",
+            "url": "https://github.com/LucasPDiniz/CVE-2021-44228",
+            "title": "LucasPDiniz/CVE-2021-44228: Log4j Vulnerability RCE - CVE-2021-44228",
+            "date_modified": "2024-06-30T21:52:24.000Z",
+            "date_published": "2023-11-13T16:57:22.000Z",
+            "author": {
+                "name": "LucasPDiniz",
+                "url": "https://github.com/LucasPDiniz"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/174135229?u=91a4825d7af4daad9d3c253e7c846346184aa3c5&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>This exploit offers an in-depth look at the CVE-2021-41091 security vulnerability and provides a step-by-step guide on how to utilize the exploit script to achieve privilege escalation on a host.</div>",
             "url": "https://github.com/SNE-M23-SN/Vulnerable-Docker-Engine",
             "title": "SNE-M23-SN/Vulnerable-Docker-Engine: This exploit offers an in-depth look at the CVE-2021-41091 security vulnerability and provides a step-by-step guide on how to utilize the exploit script to achieve privilege escalation on a host.",
@@ -190,39 +223,6 @@
             "author": {
                 "name": "skitkat",
                 "url": "https://github.com/skitkat"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/126980610?u=5f28d850eed592a45ad5a24a4648a8fc54098252&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Objective: Demonstrate the exploitation of the Log4Shell vulnerability (CVE-2021-44228) within a simulated banking application environment.</div>",
-            "url": "https://github.com/tadash10/Exploiting-CVE-2021-44228-Log4Shell-in-a-Banking-Environment",
-            "title": "tadash10/Exploiting-CVE-2021-44228-Log4Shell-in-a-Banking-Environment: Objective: Demonstrate the exploitation of the Log4Shell vulnerability (CVE-2021-44228) within a simulated banking application environment.",
-            "date_modified": "2024-06-27T01:45:52.000Z",
-            "date_published": "2024-06-09T02:49:42.000Z",
-            "author": {
-                "name": "tadash10",
-                "url": "https://github.com/tadash10"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/18383407?u=c9d1276bd9ccb8b06b724c3057b1ef683fa81de7&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2021-42562: Improper Access Control in MITRE Caldera</div>",
-            "url": "https://github.com/mbadanoiu/CVE-2021-42562",
-            "title": "mbadanoiu/CVE-2021-42562: CVE-2021-42562: Improper Access Control in MITRE Caldera",
-            "date_modified": "2024-06-09T23:25:44.000Z",
-            "date_published": "2024-06-09T23:04:45.000Z",
-            "author": {
-                "name": "mbadanoiu",
-                "url": "https://github.com/mbadanoiu"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/18383407?u=c9d1276bd9ccb8b06b724c3057b1ef683fa81de7&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2021-42561: Command Injection via the Human Plugin in MITRE Caldera</div>",
-            "url": "https://github.com/mbadanoiu/CVE-2021-42561",
-            "title": "mbadanoiu/CVE-2021-42561: CVE-2021-42561: Command Injection via the Human Plugin in MITRE Caldera",
-            "date_modified": "2024-06-09T22:57:08.000Z",
-            "date_published": "2024-06-09T22:39:46.000Z",
-            "author": {
-                "name": "mbadanoiu",
-                "url": "https://github.com/mbadanoiu"
             }
         }
     ]
