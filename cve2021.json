@@ -6,6 +6,17 @@
     "description": "CVE-2021 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/174135229?u=91a4825d7af4daad9d3c253e7c846346184aa3c5&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>This exploit offers an in-depth look at the CVE-2021-41091 security vulnerability and provides a step-by-step guide on how to utilize the exploit script to achieve privilege escalation on a host.</div>",
+            "url": "https://github.com/SNE-M23-SN/Vulnerable-Docker-Engine",
+            "title": "SNE-M23-SN/Vulnerable-Docker-Engine: This exploit offers an in-depth look at the CVE-2021-41091 security vulnerability and provides a step-by-step guide on how to utilize the exploit script to achieve privilege escalation on a host.",
+            "date_modified": "2024-06-30T11:00:35.000Z",
+            "date_published": "2024-06-30T10:57:02.000Z",
+            "author": {
+                "name": "SNE-M23-SN",
+                "url": "https://github.com/SNE-M23-SN"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/76139191?u=0fd0de85f2f444bea7c6afc057cfb7cc42bc3411&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>This is a automation of cve-2021-31630 exploitation</div>",
             "url": "https://github.com/adibabdala123/cve-2021-31630",
             "title": "adibabdala123/cve-2021-31630: This is a automation of cve-2021-31630 exploitation",
@@ -209,17 +220,6 @@
             "title": "mbadanoiu/CVE-2021-42561: CVE-2021-42561: Command Injection via the Human Plugin in MITRE Caldera",
             "date_modified": "2024-06-09T22:57:08.000Z",
             "date_published": "2024-06-09T22:39:46.000Z",
-            "author": {
-                "name": "mbadanoiu",
-                "url": "https://github.com/mbadanoiu"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/18383407?u=c9d1276bd9ccb8b06b724c3057b1ef683fa81de7&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2021-42560: Unsafe XML Parsing in MITRE Caldera</div>",
-            "url": "https://github.com/mbadanoiu/CVE-2021-42560",
-            "title": "mbadanoiu/CVE-2021-42560: CVE-2021-42560: Unsafe XML Parsing in MITRE Caldera",
-            "date_modified": "2024-06-09T21:42:54.000Z",
-            "date_published": "2024-06-09T21:33:07.000Z",
             "author": {
                 "name": "mbadanoiu",
                 "url": "https://github.com/mbadanoiu"
