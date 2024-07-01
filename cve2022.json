@@ -6,6 +6,17 @@
     "description": "CVE-2022 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/34680708?u=4542a9b743c27ba697767459e243b2eb53a56461&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
+            "url": "https://github.com/Asbatel/CBDS_CVE-2022-0847_POC",
+            "title": "Asbatel/CBDS_CVE-2022-0847_POC",
+            "date_modified": "2024-07-01T18:57:06.000Z",
+            "date_published": "2022-06-30T13:07:55.000Z",
+            "author": {
+                "name": "Asbatel",
+                "url": "https://github.com/Asbatel"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/57265360?u=5a0d0ca6c5153d7e41b9f498a12fe2b35498adf6&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Spring4Shell Vulnerability RCE - CVE-2022-22965 </div>",
             "url": "https://github.com/LucasPDiniz/CVE-2022-22965",
             "title": "LucasPDiniz/CVE-2022-22965: Spring4Shell Vulnerability RCE - CVE-2022-22965 ",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "paradox0909",
                 "url": "https://github.com/paradox0909"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/61376744?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>My exploit for CVE-2022-32250 for linux kernel 5.18</div>",
-            "url": "https://github.com/Kristal-g/CVE-2022-32250",
-            "title": "Kristal-g/CVE-2022-32250: My exploit for CVE-2022-32250 for linux kernel 5.18",
-            "date_modified": "2024-06-09T20:03:01.000Z",
-            "date_published": "2024-06-09T19:53:54.000Z",
-            "author": {
-                "name": "Kristal-g",
-                "url": "https://github.com/Kristal-g"
             }
         }
     ]
