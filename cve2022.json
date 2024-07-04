@@ -6,6 +6,17 @@
     "description": "CVE-2022 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/97619614?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
+            "url": "https://github.com/iamz24/CVE-2021-3493_CVE-2022-3357",
+            "title": "iamz24/CVE-2021-3493_CVE-2022-3357",
+            "date_modified": "2024-07-04T17:45:15.000Z",
+            "date_published": "2024-07-04T17:29:28.000Z",
+            "author": {
+                "name": "iamz24",
+                "url": "https://github.com/iamz24"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/153509222?u=22fc5f29dfee82c3bdab71c8e25086e46df42cb6&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>The exploit is tested on Ubuntu 22.04</div>",
             "url": "https://github.com/AleksPwn/CVE-2022-37706",
             "title": "AleksPwn/CVE-2022-37706: The exploit is tested on Ubuntu 22.04",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "r0lh",
                 "url": "https://github.com/r0lh"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/118144091?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2022-36446 POC 실습</div>",
-            "url": "https://github.com/Kang3639/CVE-2022-36446",
-            "title": "Kang3639/CVE-2022-36446: CVE-2022-36446 POC 실습",
-            "date_modified": "2024-06-11T05:01:36.000Z",
-            "date_published": "2024-06-11T04:21:28.000Z",
-            "author": {
-                "name": "Kang3639",
-                "url": "https://github.com/Kang3639"
             }
         }
     ]
