@@ -6,6 +6,17 @@
     "description": "CVE-2022 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/153509222?u=22fc5f29dfee82c3bdab71c8e25086e46df42cb6&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>The exploit is tested on Ubuntu 22.04</div>",
+            "url": "https://github.com/AleksPwn/CVE-2022-37706",
+            "title": "AleksPwn/CVE-2022-37706: The exploit is tested on Ubuntu 22.04",
+            "date_modified": "2024-07-04T07:46:30.000Z",
+            "date_published": "2024-07-04T07:42:37.000Z",
+            "author": {
+                "name": "AleksPwn",
+                "url": "https://github.com/AleksPwn"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/116582950?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Bootloader unlock using CVE-2022-38694 for Anbernic Unisoc T820 devices</div>",
             "url": "https://github.com/TheGammaSqueeze/Bootloader_Unlock_Anbernic_T820",
             "title": "TheGammaSqueeze/Bootloader_Unlock_Anbernic_T820: Bootloader unlock using CVE-2022-38694 for Anbernic Unisoc T820 devices",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "Kang3639",
                 "url": "https://github.com/Kang3639"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/85692552?u=a24fc4365f64ae988b60a0cbacea92be42c10fb5&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
-            "url": "https://github.com/paradox0909/cve-2022-30333_online_rar_extracor",
-            "title": "paradox0909/cve-2022-30333_online_rar_extracor",
-            "date_modified": "2024-06-10T08:20:11.000Z",
-            "date_published": "2024-06-10T08:17:50.000Z",
-            "author": {
-                "name": "paradox0909",
-                "url": "https://github.com/paradox0909"
             }
         }
     ]
