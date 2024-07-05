@@ -9,11 +9,22 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/18195825?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023</div>",
             "url": "https://github.com/CVEProject/cvelist",
             "title": "CVEProject/cvelist: Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023",
-            "date_modified": "2024-07-05T17:01:06.000Z",
+            "date_modified": "2024-07-05T18:01:00.000Z",
             "date_published": "2020-11-02T19:30:55.000Z",
             "author": {
                 "name": "CVEProject",
                 "url": "https://github.com/CVEProject"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/88688451?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>TeamCity RCE for Linux (CVE-2023-42793)</div>",
+            "url": "https://github.com/HusenjanDev/CVE-2023-42793",
+            "title": "HusenjanDev/CVE-2023-42793: TeamCity RCE for Linux (CVE-2023-42793)",
+            "date_modified": "2024-07-05T17:48:29.000Z",
+            "date_published": "2024-07-05T17:39:25.000Z",
+            "author": {
+                "name": "HusenjanDev",
+                "url": "https://github.com/HusenjanDev"
             }
         },
         {
@@ -212,17 +223,6 @@
             "author": {
                 "name": "PavilionQ",
                 "url": "https://github.com/PavilionQ"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/49351264?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Modified RCE with a remote shell and logging</div>",
-            "url": "https://github.com/glen-pearson/MoveIT-CVE-2023-34362-RCE",
-            "title": "glen-pearson/MoveIT-CVE-2023-34362-RCE: Modified RCE with a remote shell and logging",
-            "date_modified": "2024-06-29T01:41:48.000Z",
-            "date_published": "2024-06-28T17:13:15.000Z",
-            "author": {
-                "name": "glen-pearson",
-                "url": "https://github.com/glen-pearson"
             }
         }
     ]
