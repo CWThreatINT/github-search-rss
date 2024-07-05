@@ -9,55 +9,11 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/18195825?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023</div>",
             "url": "https://github.com/CVEProject/cvelist",
             "title": "CVEProject/cvelist: Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023",
-            "date_modified": "2024-07-05T04:02:16.000Z",
+            "date_modified": "2024-07-05T05:01:45.000Z",
             "date_published": "2020-11-02T19:30:55.000Z",
             "author": {
                 "name": "CVEProject",
                 "url": "https://github.com/CVEProject"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/173569777?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Microsoft Windows HTA (HTML Application) - Pinnacle of Remote Code Execution</div>",
-            "url": "https://github.com/Megalitons/Hta-Exploit-Builder-Slient-Builder-Exploit-Database-Cve-2023-Malware",
-            "title": "Megalitons/Hta-Exploit-Builder-Slient-Builder-Exploit-Database-Cve-2023-Malware: Microsoft Windows HTA (HTML Application) - Pinnacle of Remote Code Execution",
-            "date_modified": "2024-07-05T03:56:19.000Z",
-            "date_published": "2024-06-22T18:54:10.000Z",
-            "author": {
-                "name": "Megalitons",
-                "url": "https://github.com/Megalitons"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/173569777?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>In the hushed galleries of the Silent JPG Exploit, a symphony shrouded in enigma unfurls—an opus named silent-jpg-exploit-2018—a title that reverberates through the annals of intrigue.</div>",
-            "url": "https://github.com/Megalitons/Jpg-Png-Exploit-Slient-Builder-Exploit-Database-Cve-2023-Malware",
-            "title": "Megalitons/Jpg-Png-Exploit-Slient-Builder-Exploit-Database-Cve-2023-Malware: In the hushed galleries of the Silent JPG Exploit, a symphony shrouded in enigma unfurls—an opus named silent-jpg-exploit-2018—a title that reverberates through the annals of intrigue.",
-            "date_modified": "2024-07-05T03:55:59.000Z",
-            "date_published": "2024-06-22T18:54:10.000Z",
-            "author": {
-                "name": "Megalitons",
-                "url": "https://github.com/Megalitons"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/173569777?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A meticulous scrutiny of the Exploit PDFs innards exposes a network of malevolence, unveiling both the nefarious hyperlink and the URL that precipitates</div>",
-            "url": "https://github.com/Megalitons/Slient-PDF-FUD-Exploit-Slient-Builder-Exploit-Database-Cve-2023-Malware",
-            "title": "Megalitons/Slient-PDF-FUD-Exploit-Slient-Builder-Exploit-Database-Cve-2023-Malware: A meticulous scrutiny of the Exploit PDFs innards exposes a network of malevolence, unveiling both the nefarious hyperlink and the URL that precipitates",
-            "date_modified": "2024-07-05T03:54:32.000Z",
-            "date_published": "2024-06-22T18:54:09.000Z",
-            "author": {
-                "name": "Megalitons",
-                "url": "https://github.com/Megalitons"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/173569777?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>URL Contamination Exploit Muted Java Drive-By downloads can transpire during the act of perusing a website, inaugurating an electronic mail communication.</div>",
-            "url": "https://github.com/Megalitons/Slient-Url-Exploit-Slient-Builder-Exploit-Database-Cve-2023-Malware",
-            "title": "Megalitons/Slient-Url-Exploit-Slient-Builder-Exploit-Database-Cve-2023-Malware: URL Contamination Exploit Muted Java Drive-By downloads can transpire during the act of perusing a website, inaugurating an electronic mail communication.",
-            "date_modified": "2024-07-05T03:54:00.000Z",
-            "date_published": "2024-06-22T18:54:10.000Z",
-            "author": {
-                "name": "Megalitons",
-                "url": "https://github.com/Megalitons"
             }
         },
         {
@@ -223,6 +179,50 @@
             "author": {
                 "name": "PavilionQ",
                 "url": "https://github.com/PavilionQ"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/49351264?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Modified RCE with a remote shell and logging</div>",
+            "url": "https://github.com/glen-pearson/MoveIT-CVE-2023-34362-RCE",
+            "title": "glen-pearson/MoveIT-CVE-2023-34362-RCE: Modified RCE with a remote shell and logging",
+            "date_modified": "2024-06-29T01:41:48.000Z",
+            "date_published": "2024-06-28T17:13:15.000Z",
+            "author": {
+                "name": "glen-pearson",
+                "url": "https://github.com/glen-pearson"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/78493240?u=7a58cf59392ee886a3593c6d441857aa36c1f4e0&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Exploit_CVE_2023_7028 </div>",
+            "url": "https://github.com/olebris/Exploit_CVE_2023_7028-",
+            "title": "olebris/Exploit_CVE_2023_7028-: Exploit_CVE_2023_7028 ",
+            "date_modified": "2024-06-28T10:13:05.000Z",
+            "date_published": "2024-06-28T09:54:59.000Z",
+            "author": {
+                "name": "olebris",
+                "url": "https://github.com/olebris"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/10403781?u=a3608c76b14a9717f2f35bba52650de21cd53348&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>This is a simple proof of concept for CVE-2023-49103.</div>",
+            "url": "https://github.com/d0rb/CVE-2023-49103",
+            "title": "d0rb/CVE-2023-49103: This is a simple proof of concept for CVE-2023-49103.",
+            "date_modified": "2024-06-27T13:49:50.000Z",
+            "date_published": "2024-06-27T13:46:46.000Z",
+            "author": {
+                "name": "d0rb",
+                "url": "https://github.com/d0rb"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/58937379?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>It is a simple script to automate internal port scanning dueto SSRF in requests-baskets v 1.2.1. this script can also assisst in solving 'SAU' machine from hackthebox</div>",
+            "url": "https://github.com/Rishabh-Kumar-Cyber-Sec/CVE-2023-27163-ssrf-to-port-scanning",
+            "title": "Rishabh-Kumar-Cyber-Sec/CVE-2023-27163-ssrf-to-port-scanning: It is a simple script to automate internal port scanning dueto SSRF in requests-baskets v 1.2.1. this script can also assisst in solving 'SAU' machine from hackthebox",
+            "date_modified": "2024-06-27T09:53:26.000Z",
+            "date_published": "2024-06-27T09:48:14.000Z",
+            "author": {
+                "name": "Rishabh-Kumar-Cyber-Sec",
+                "url": "https://github.com/Rishabh-Kumar-Cyber-Sec"
             }
         }
     ]
