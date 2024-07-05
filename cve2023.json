@@ -6,6 +6,17 @@
     "description": "CVE-2023 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/45532566?u=f4e8aa83e7e965630365692662ea1a3dbe6103de&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Exploit for file upload vulnerability in BoidCMS version &lt;=2.0.0</div>",
+            "url": "https://github.com/1337kid/CVE-2023-38836",
+            "title": "1337kid/CVE-2023-38836: Exploit for file upload vulnerability in BoidCMS version <=2.0.0",
+            "date_modified": "2024-07-05T18:17:10.000Z",
+            "date_published": "2023-08-16T14:30:30.000Z",
+            "author": {
+                "name": "1337kid",
+                "url": "https://github.com/1337kid"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/18195825?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023</div>",
             "url": "https://github.com/CVEProject/cvelist",
             "title": "CVEProject/cvelist: Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023",
@@ -64,7 +75,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/144001335?u=c42bea7e07a206065e90fc34c073c2292c885b40&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>🚨 CVE-2023-45866 - BlueDucky Implementation (Using DuckyScript) 🔓 Unauthenticated Peering Leading to Code Execution (Using HID Keyboard)</div>",
             "url": "https://github.com/pentestfunctions/BlueDucky",
             "title": "pentestfunctions/BlueDucky: 🚨 CVE-2023-45866 - BlueDucky Implementation (Using DuckyScript) 🔓 Unauthenticated Peering Leading to Code Execution (Using HID Keyboard)",
-            "date_modified": "2024-07-05T13:07:08.000Z",
+            "date_modified": "2024-07-05T18:40:01.000Z",
             "date_published": "2024-01-16T06:52:02.000Z",
             "author": {
                 "name": "pentestfunctions",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "cisnarfu",
                 "url": "https://github.com/cisnarfu"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/174171023?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
-            "url": "https://github.com/PavilionQ/CVE-2023-33246-mitigation",
-            "title": "PavilionQ/CVE-2023-33246-mitigation",
-            "date_modified": "2024-06-29T07:26:05.000Z",
-            "date_published": "2024-06-29T06:31:17.000Z",
-            "author": {
-                "name": "PavilionQ",
-                "url": "https://github.com/PavilionQ"
             }
         }
     ]
