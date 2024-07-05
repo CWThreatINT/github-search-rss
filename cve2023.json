@@ -6,10 +6,21 @@
     "description": "CVE-2023 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/18195825?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023</div>",
+            "url": "https://github.com/CVEProject/cvelist",
+            "title": "CVEProject/cvelist: Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023",
+            "date_modified": "2024-07-05T16:01:02.000Z",
+            "date_published": "2020-11-02T19:30:55.000Z",
+            "author": {
+                "name": "CVEProject",
+                "url": "https://github.com/CVEProject"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/71263121?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
             "url": "https://github.com/Ailenchick/CVE-2023-20945",
             "title": "Ailenchick/CVE-2023-20945",
-            "date_modified": "2024-07-05T15:03:43.000Z",
+            "date_modified": "2024-07-05T15:07:42.000Z",
             "date_published": "2024-07-05T15:03:40.000Z",
             "author": {
                 "name": "Ailenchick",
@@ -20,22 +31,11 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/71263121?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
             "url": "https://github.com/Ailenchick/CVE-2023-20963",
             "title": "Ailenchick/CVE-2023-20963",
-            "date_modified": "2024-07-05T15:02:43.000Z",
+            "date_modified": "2024-07-05T15:15:12.000Z",
             "date_published": "2024-07-05T15:02:07.000Z",
             "author": {
                 "name": "Ailenchick",
                 "url": "https://github.com/Ailenchick"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/18195825?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023</div>",
-            "url": "https://github.com/CVEProject/cvelist",
-            "title": "CVEProject/cvelist: Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023",
-            "date_modified": "2024-07-05T15:01:01.000Z",
-            "date_published": "2020-11-02T19:30:55.000Z",
-            "author": {
-                "name": "CVEProject",
-                "url": "https://github.com/CVEProject"
             }
         },
         {
