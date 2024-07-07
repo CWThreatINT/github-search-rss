@@ -9,11 +9,22 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/18195825?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023</div>",
             "url": "https://github.com/CVEProject/cvelist",
             "title": "CVEProject/cvelist: Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023",
-            "date_modified": "2024-07-06T21:01:04.000Z",
+            "date_modified": "2024-07-07T00:01:01.000Z",
             "date_published": "2020-11-02T19:30:55.000Z",
             "author": {
                 "name": "CVEProject",
                 "url": "https://github.com/CVEProject"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/42323126?u=05facba6c616634c33009d8a649333ef183e4df1&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A vulnerable driver exploited by me (BYOVD) that is capable of terminating several EDRs and antivirus software in the market, rendering them ineffective, working for both x32 and x64(CVE-2023-44976).</div>",
+            "url": "https://github.com/keowu/BadRentdrv2",
+            "title": "keowu/BadRentdrv2: A vulnerable driver exploited by me (BYOVD) that is capable of terminating several EDRs and antivirus software in the market, rendering them ineffective, working for both x32 and x64(CVE-2023-44976).",
+            "date_modified": "2024-07-06T23:35:54.000Z",
+            "date_published": "2023-10-01T18:24:38.000Z",
+            "author": {
+                "name": "keowu",
+                "url": "https://github.com/keowu"
             }
         },
         {
@@ -209,17 +220,6 @@
             "title": "LucasPDiniz/CVE-2023-22515: Server Broken Access Control in Confluence - CVE-2023-22515",
             "date_modified": "2024-06-30T22:00:53.000Z",
             "date_published": "2023-11-08T05:18:30.000Z",
-            "author": {
-                "name": "LucasPDiniz",
-                "url": "https://github.com/LucasPDiniz"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/57265360?u=5a0d0ca6c5153d7e41b9f498a12fe2b35498adf6&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Takeover Account OpenSSH</div>",
-            "url": "https://github.com/LucasPDiniz/CVE-2023-38408",
-            "title": "LucasPDiniz/CVE-2023-38408: Takeover Account OpenSSH",
-            "date_modified": "2024-06-30T21:54:58.000Z",
-            "date_published": "2023-11-09T04:34:39.000Z",
             "author": {
                 "name": "LucasPDiniz",
                 "url": "https://github.com/LucasPDiniz"
