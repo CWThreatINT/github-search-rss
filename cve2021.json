@@ -6,6 +6,17 @@
     "description": "CVE-2021 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/71453093?u=a3da5d192e589905f1db01c9a246b53a4da00474&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>This script demonstrates a time-based blind SQL injection on Moodle platforms, exploiting response delays to extract data.</div>",
+            "url": "https://github.com/T0X1Cx/CVE-2021-36396-Exploit",
+            "title": "T0X1Cx/CVE-2021-36396-Exploit: This script demonstrates a time-based blind SQL injection on Moodle platforms, exploiting response delays to extract data.",
+            "date_modified": "2024-07-07T18:40:13.000Z",
+            "date_published": "2023-11-04T11:45:55.000Z",
+            "author": {
+                "name": "T0X1Cx",
+                "url": "https://github.com/T0X1Cx"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/174135229?u=91a4825d7af4daad9d3c253e7c846346184aa3c5&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>This exploit offers an in-depth look at the CVE-2021-41091 security vulnerability and provides a step-by-step guide on how to utilize the exploit script to achieve privilege escalation on a host.</div>",
             "url": "https://github.com/SNE-M23-SN/Vulnerable-Docker-Engine",
             "title": "SNE-M23-SN/Vulnerable-Docker-Engine: This exploit offers an in-depth look at the CVE-2021-41091 security vulnerability and provides a step-by-step guide on how to utilize the exploit script to achieve privilege escalation on a host.",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "Cappricio-Securities",
                 "url": "https://github.com/Cappricio-Securities"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/127455300?u=a25159184ae7b9f689ec5190d7d7e8163cd5fe09&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
-            "url": "https://github.com/MalekAlthubiany/CVE-2021-43798",
-            "title": "MalekAlthubiany/CVE-2021-43798",
-            "date_modified": "2024-06-20T04:11:01.000Z",
-            "date_published": "2024-06-19T23:27:01.000Z",
-            "author": {
-                "name": "MalekAlthubiany",
-                "url": "https://github.com/MalekAlthubiany"
             }
         }
     ]

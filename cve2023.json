@@ -6,6 +6,17 @@
     "description": "CVE-2023 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/130102748?u=798a2b777bf34b319dfb3e38b4575ba400514a6a&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>This is a script written in Python that allows the exploitation of the Chamilo's LMS software security flaw described in CVE-2023-4220</div>",
+            "url": "https://github.com/m3m0o/chamilo-lms-unauthenticated-big-upload-rce-poc",
+            "title": "m3m0o/chamilo-lms-unauthenticated-big-upload-rce-poc: This is a script written in Python that allows the exploitation of the Chamilo's LMS software security flaw described in CVE-2023-4220",
+            "date_modified": "2024-07-07T18:15:02.000Z",
+            "date_published": "2024-07-07T15:08:30.000Z",
+            "author": {
+                "name": "m3m0o",
+                "url": "https://github.com/m3m0o"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/18195825?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023</div>",
             "url": "https://github.com/CVEProject/cvelist",
             "title": "CVEProject/cvelist: Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023",
@@ -50,17 +61,6 @@
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/130102748?u=798a2b777bf34b319dfb3e38b4575ba400514a6a&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>This is a script written in Python that allows the exploitation of the Chamilo's LMS software security flaw described in CVE-2023-4220</div>",
-            "url": "https://github.com/m3m0o/chamilo-lms-unauthenticated-big-upload-rce-poc",
-            "title": "m3m0o/chamilo-lms-unauthenticated-big-upload-rce-poc: This is a script written in Python that allows the exploitation of the Chamilo's LMS software security flaw described in CVE-2023-4220",
-            "date_modified": "2024-07-07T17:39:57.000Z",
-            "date_published": "2024-07-07T15:08:30.000Z",
-            "author": {
-                "name": "m3m0o",
-                "url": "https://github.com/m3m0o"
-            }
-        },
-        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/48991715?u=b5b4c1abf43a39c7d683416246da5d8d3c8f2a31&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Unrestricted file upload in big file upload functionality in `/main/inc/lib/javascript/bigupload/inc/bigUpload.php` in Chamilo LMS &lt;= v1.11.24 allows unauthenticated attackers to perform stored cross-site scripting attacks and obtain remote code execution via uploading of web shell.</div>",
             "url": "https://github.com/dollarboysushil/Chamilo-LMS-Unauthenticated-File-Upload-CVE-2023-4220",
             "title": "dollarboysushil/Chamilo-LMS-Unauthenticated-File-Upload-CVE-2023-4220: Unrestricted file upload in big file upload functionality in `/main/inc/lib/javascript/bigupload/inc/bigUpload.php` in Chamilo LMS <= v1.11.24 allows unauthenticated attackers to perform stored cross-site scripting attacks and obtain remote code execution via uploading of web shell.",
@@ -86,7 +86,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/42323126?u=05facba6c616634c33009d8a649333ef183e4df1&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A vulnerable driver exploited by me (BYOVD) that is capable of terminating several EDRs and antivirus software in the market, rendering them ineffective, working for both x32 and x64(CVE-2023-44976).</div>",
             "url": "https://github.com/keowu/BadRentdrv2",
             "title": "keowu/BadRentdrv2: A vulnerable driver exploited by me (BYOVD) that is capable of terminating several EDRs and antivirus software in the market, rendering them ineffective, working for both x32 and x64(CVE-2023-44976).",
-            "date_modified": "2024-07-06T23:35:54.000Z",
+            "date_modified": "2024-07-07T18:29:47.000Z",
             "date_published": "2023-10-01T18:24:38.000Z",
             "author": {
                 "name": "keowu",
