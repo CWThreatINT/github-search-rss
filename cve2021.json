@@ -6,6 +6,17 @@
     "description": "CVE-2021 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/173960819?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Exploitation Scanner Cross Site Scripting vulnerability in Keycloak.</div>",
+            "url": "https://github.com/cscpwn0sec/CVE-2021-20323",
+            "title": "cscpwn0sec/CVE-2021-20323: Exploitation Scanner Cross Site Scripting vulnerability in Keycloak.",
+            "date_modified": "2024-07-07T23:06:53.000Z",
+            "date_published": "2024-07-07T23:02:00.000Z",
+            "author": {
+                "name": "cscpwn0sec",
+                "url": "https://github.com/cscpwn0sec"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/71453093?u=a3da5d192e589905f1db01c9a246b53a4da00474&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>This script demonstrates a time-based blind SQL injection on Moodle platforms, exploiting response delays to extract data.</div>",
             "url": "https://github.com/T0X1Cx/CVE-2021-36396-Exploit",
             "title": "T0X1Cx/CVE-2021-36396-Exploit: This script demonstrates a time-based blind SQL injection on Moodle platforms, exploiting response delays to extract data.",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "7Ragnarok7",
                 "url": "https://github.com/7Ragnarok7"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/102907425?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A POST based reflected Cross Site Scripting vulnerability on has been identified in Keycloak.</div>",
-            "url": "https://github.com/Cappricio-Securities/CVE-2021-20323",
-            "title": "Cappricio-Securities/CVE-2021-20323: A POST based reflected Cross Site Scripting vulnerability on has been identified in Keycloak.",
-            "date_modified": "2024-06-21T06:54:42.000Z",
-            "date_published": "2024-01-11T16:02:07.000Z",
-            "author": {
-                "name": "Cappricio-Securities",
-                "url": "https://github.com/Cappricio-Securities"
             }
         }
     ]
