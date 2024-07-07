@@ -9,11 +9,22 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/18195825?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023</div>",
             "url": "https://github.com/CVEProject/cvelist",
             "title": "CVEProject/cvelist: Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023",
-            "date_modified": "2024-07-07T11:32:19.000Z",
+            "date_modified": "2024-07-07T16:01:26.000Z",
             "date_published": "2020-11-02T19:30:55.000Z",
             "author": {
                 "name": "CVEProject",
                 "url": "https://github.com/CVEProject"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/130102748?u=798a2b777bf34b319dfb3e38b4575ba400514a6a&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>This is a script written in Python that allows the exploitation of the Chamilo's LMS software security flaw described in CVE-2023-4220</div>",
+            "url": "https://github.com/m3m0o/chamilo-lms-unauthenticated-big-upload-rce-poc",
+            "title": "m3m0o/chamilo-lms-unauthenticated-big-upload-rce-poc: This is a script written in Python that allows the exploitation of the Chamilo's LMS software security flaw described in CVE-2023-4220",
+            "date_modified": "2024-07-07T15:32:24.000Z",
+            "date_published": "2024-07-07T15:08:30.000Z",
+            "author": {
+                "name": "m3m0o",
+                "url": "https://github.com/m3m0o"
             }
         },
         {
@@ -212,17 +223,6 @@
             "author": {
                 "name": "saurabh2088",
                 "url": "https://github.com/saurabh2088"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/57265360?u=5a0d0ca6c5153d7e41b9f498a12fe2b35498adf6&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Server Broken Access Control in Confluence - CVE-2023-22515</div>",
-            "url": "https://github.com/LucasPDiniz/CVE-2023-22515",
-            "title": "LucasPDiniz/CVE-2023-22515: Server Broken Access Control in Confluence - CVE-2023-22515",
-            "date_modified": "2024-06-30T22:00:53.000Z",
-            "date_published": "2023-11-08T05:18:30.000Z",
-            "author": {
-                "name": "LucasPDiniz",
-                "url": "https://github.com/LucasPDiniz"
             }
         }
     ]
