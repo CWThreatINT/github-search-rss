@@ -9,11 +9,22 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/18195825?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023</div>",
             "url": "https://github.com/CVEProject/cvelist",
             "title": "CVEProject/cvelist: Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023",
-            "date_modified": "2024-07-08T09:01:01.000Z",
+            "date_modified": "2024-07-08T10:01:02.000Z",
             "date_published": "2020-11-02T19:30:55.000Z",
             "author": {
                 "name": "CVEProject",
                 "url": "https://github.com/CVEProject"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/60154552?u=b3063a2d5cf33274258f75856a6e031e6d46a378&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>This is an Exploit for Unrestricted file upload in big file upload functionality in Chamilo-LMS for this location \"/main/inc/lib/javascript/bigupload/inc/bigUpload.php\" in Chamilo LMS &lt;= v1.11.24, and Attackers can obtain remote code execution via uploading of web shell.</div>",
+            "url": "https://github.com/Ziad-Sakr/Chamilo-LMS-CVE-2023-4220-Exploit",
+            "title": "Ziad-Sakr/Chamilo-LMS-CVE-2023-4220-Exploit: This is an Exploit for Unrestricted file upload in big file upload functionality in Chamilo-LMS for this location \"/main/inc/lib/javascript/bigupload/inc/bigUpload.php\" in Chamilo LMS <= v1.11.24, and Attackers can obtain remote code execution via uploading of web shell.",
+            "date_modified": "2024-07-08T09:48:42.000Z",
+            "date_published": "2024-07-08T09:48:38.000Z",
+            "author": {
+                "name": "Ziad-Sakr",
+                "url": "https://github.com/Ziad-Sakr"
             }
         },
         {
@@ -212,17 +223,6 @@
             "author": {
                 "name": "0x0jr",
                 "url": "https://github.com/0x0jr"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/9975818?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
-            "url": "https://github.com/N00BIER/CVE-2023-35985",
-            "title": "N00BIER/CVE-2023-35985",
-            "date_modified": "2024-07-02T12:53:42.000Z",
-            "date_published": "2024-07-02T12:50:59.000Z",
-            "author": {
-                "name": "N00BIER",
-                "url": "https://github.com/N00BIER"
             }
         }
     ]
