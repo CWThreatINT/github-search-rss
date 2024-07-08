@@ -6,6 +6,17 @@
     "description": "CVE-2021 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/97350255?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>For learning purpose did a complete analysis on CVE-2021-40444 POC (proof of concept)</div>",
+            "url": "https://github.com/skitkat/CVE-2021-40444-POC",
+            "title": "skitkat/CVE-2021-40444-POC: For learning purpose did a complete analysis on CVE-2021-40444 POC (proof of concept)",
+            "date_modified": "2024-07-08T14:57:27.000Z",
+            "date_published": "2024-06-14T19:04:02.000Z",
+            "author": {
+                "name": "skitkat",
+                "url": "https://github.com/skitkat"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/174670608?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
             "url": "https://github.com/Typical0day/CVE-2021-3156",
             "title": "Typical0day/CVE-2021-3156",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "Cappricio-Securities",
                 "url": "https://github.com/Cappricio-Securities"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/35977703?u=8f50b78e5a5d47abc50935bb0f9d04359ee6df47&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Vulnerability details and exploit for CVE-2021-3754</div>",
-            "url": "https://github.com/7Ragnarok7/CVE-2021-3754",
-            "title": "7Ragnarok7/CVE-2021-3754: Vulnerability details and exploit for CVE-2021-3754",
-            "date_modified": "2024-06-22T04:47:02.000Z",
-            "date_published": "2023-09-07T07:49:21.000Z",
-            "author": {
-                "name": "7Ragnarok7",
-                "url": "https://github.com/7Ragnarok7"
             }
         }
     ]
