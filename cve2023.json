@@ -9,7 +9,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/18195825?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023</div>",
             "url": "https://github.com/CVEProject/cvelist",
             "title": "CVEProject/cvelist: Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023",
-            "date_modified": "2024-07-09T09:01:00.000Z",
+            "date_modified": "2024-07-09T10:00:59.000Z",
             "date_published": "2020-11-02T19:30:55.000Z",
             "author": {
                 "name": "CVEProject",
@@ -25,6 +25,17 @@
             "author": {
                 "name": "puckiestyle",
                 "url": "https://github.com/puckiestyle"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/151133481?u=521d381cc1101dfdac540951ba78309659f6be0f&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>it's a CVE-2023-28252 ( patched ), but feel free to use it for check any outdated software or reseach</div>",
+            "url": "https://github.com/pxcs/CLFS",
+            "title": "pxcs/CLFS: it's a CVE-2023-28252 ( patched ), but feel free to use it for check any outdated software or reseach",
+            "date_modified": "2024-07-09T09:42:04.000Z",
+            "date_published": "2024-03-21T16:16:52.000Z",
+            "author": {
+                "name": "pxcs",
+                "url": "https://github.com/pxcs"
             }
         },
         {
@@ -47,6 +58,17 @@
             "author": {
                 "name": "ynwarcs",
                 "url": "https://github.com/ynwarcs"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/151133481?u=521d381cc1101dfdac540951ba78309659f6be0f&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>it's a CVE-2023-28229 ( patched ), but feel free to use it for check any outdated software or reseach</div>",
+            "url": "https://github.com/pxcs/CrackKeyIso",
+            "title": "pxcs/CrackKeyIso: it's a CVE-2023-28229 ( patched ), but feel free to use it for check any outdated software or reseach",
+            "date_modified": "2024-07-09T09:42:09.000Z",
+            "date_published": "2024-03-27T20:57:46.000Z",
+            "author": {
+                "name": "pxcs",
+                "url": "https://github.com/pxcs"
             }
         },
         {
@@ -196,33 +218,11 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/144001335?u=c42bea7e07a206065e90fc34c073c2292c885b40&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>🚨 CVE-2023-45866 - BlueDucky Implementation (Using DuckyScript) 🔓 Unauthenticated Peering Leading to Code Execution (Using HID Keyboard)</div>",
             "url": "https://github.com/pentestfunctions/BlueDucky",
             "title": "pentestfunctions/BlueDucky: 🚨 CVE-2023-45866 - BlueDucky Implementation (Using DuckyScript) 🔓 Unauthenticated Peering Leading to Code Execution (Using HID Keyboard)",
-            "date_modified": "2024-07-09T06:01:49.000Z",
+            "date_modified": "2024-07-09T09:49:12.000Z",
             "date_published": "2024-01-16T06:52:02.000Z",
             "author": {
                 "name": "pentestfunctions",
                 "url": "https://github.com/pentestfunctions"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/64188977?u=86c63e5e054351d854498e4b3ac570e81c5d826f&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
-            "url": "https://github.com/aditibv/MOVEit-CVE-2023-34362",
-            "title": "aditibv/MOVEit-CVE-2023-34362",
-            "date_modified": "2024-07-04T21:47:27.000Z",
-            "date_published": "2024-07-04T21:13:48.000Z",
-            "author": {
-                "name": "aditibv",
-                "url": "https://github.com/aditibv"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/141626082?u=a28c2c94e875b1ed9edd6c01099476a1761b13cc&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2017-0144 (Eternal Blue) | CVE-2023-3881 | CVE-2011-2523</div>",
-            "url": "https://github.com/AnugiArrawwala/CVE-Research",
-            "title": "AnugiArrawwala/CVE-Research: CVE-2017-0144 (Eternal Blue) | CVE-2023-3881 | CVE-2011-2523",
-            "date_modified": "2024-07-03T06:52:39.000Z",
-            "date_published": "2024-07-03T06:30:54.000Z",
-            "author": {
-                "name": "AnugiArrawwala",
-                "url": "https://github.com/AnugiArrawwala"
             }
         }
     ]
