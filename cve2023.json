@@ -9,11 +9,33 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/18195825?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023</div>",
             "url": "https://github.com/CVEProject/cvelist",
             "title": "CVEProject/cvelist: Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023",
-            "date_modified": "2024-07-10T13:01:30.000Z",
+            "date_modified": "2024-07-10T14:01:05.000Z",
             "date_published": "2020-11-02T19:30:55.000Z",
             "author": {
                 "name": "CVEProject",
                 "url": "https://github.com/CVEProject"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/71210670?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2023-29489-XSS</div>",
+            "url": "https://github.com/Abdullah7-ma/CVE-2023-29489",
+            "title": "Abdullah7-ma/CVE-2023-29489: CVE-2023-29489-XSS",
+            "date_modified": "2024-07-10T13:47:36.000Z",
+            "date_published": "2023-06-01T18:13:17.000Z",
+            "author": {
+                "name": "Abdullah7-ma",
+                "url": "https://github.com/Abdullah7-ma"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/77125551?u=5271c38fcd56e2e988af686483718ba136be9fa1&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Proof of concept exploit for CVE-2023-4220</div>",
+            "url": "https://github.com/B1TC0R3/CVE-2023-4220-PoC",
+            "title": "B1TC0R3/CVE-2023-4220-PoC: Proof of concept exploit for CVE-2023-4220",
+            "date_modified": "2024-07-10T13:26:12.000Z",
+            "date_published": "2024-07-09T20:06:40.000Z",
+            "author": {
+                "name": "B1TC0R3",
+                "url": "https://github.com/B1TC0R3"
             }
         },
         {
@@ -69,17 +91,6 @@
             "author": {
                 "name": "GhostTroops",
                 "url": "https://github.com/GhostTroops"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/77125551?u=5271c38fcd56e2e988af686483718ba136be9fa1&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Proof of concept exploit for CVE-2023-4220</div>",
-            "url": "https://github.com/B1TC0R3/CVE-2023-4220-PoC",
-            "title": "B1TC0R3/CVE-2023-4220-PoC: Proof of concept exploit for CVE-2023-4220",
-            "date_modified": "2024-07-09T23:37:44.000Z",
-            "date_published": "2024-07-09T20:06:40.000Z",
-            "author": {
-                "name": "B1TC0R3",
-                "url": "https://github.com/B1TC0R3"
             }
         },
         {
@@ -212,17 +223,6 @@
             "author": {
                 "name": "dollarboysushil",
                 "url": "https://github.com/dollarboysushil"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/42323126?u=d10bdc8126ec14c00b627e98d124743cd68be5e2&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A vulnerable driver exploited by me (BYOVD) that is capable of terminating several EDRs and antivirus software in the market, rendering them ineffective, working for both x32 and x64(CVE-2023-44976).</div>",
-            "url": "https://github.com/keowu/BadRentdrv2",
-            "title": "keowu/BadRentdrv2: A vulnerable driver exploited by me (BYOVD) that is capable of terminating several EDRs and antivirus software in the market, rendering them ineffective, working for both x32 and x64(CVE-2023-44976).",
-            "date_modified": "2024-07-07T18:29:47.000Z",
-            "date_published": "2023-10-01T18:24:38.000Z",
-            "author": {
-                "name": "keowu",
-                "url": "https://github.com/keowu"
             }
         }
     ]
