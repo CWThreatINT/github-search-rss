@@ -9,11 +9,33 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/18195825?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023</div>",
             "url": "https://github.com/CVEProject/cvelist",
             "title": "CVEProject/cvelist: Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023",
-            "date_modified": "2024-07-10T17:01:05.000Z",
+            "date_modified": "2024-07-10T18:01:16.000Z",
             "date_published": "2020-11-02T19:30:55.000Z",
             "author": {
                 "name": "CVEProject",
                 "url": "https://github.com/CVEProject"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/143883929?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>year 2 semester 1 Systems and Network Programming Assignment</div>",
+            "url": "https://github.com/Cmadhushanka/CVE-2023-32784-Exploitation",
+            "title": "Cmadhushanka/CVE-2023-32784-Exploitation: year 2 semester 1 Systems and Network Programming Assignment",
+            "date_modified": "2024-07-10T18:00:56.000Z",
+            "date_published": "2024-07-10T17:55:48.000Z",
+            "author": {
+                "name": "Cmadhushanka",
+                "url": "https://github.com/Cmadhushanka"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/173541052?u=3fd141b8d95eb4d749797e0bdbbf2f6266e53d71&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2023-28432 - MinIO information disclosure</div>",
+            "url": "https://github.com/fhAnso/CVE-2023-28432",
+            "title": "fhAnso/CVE-2023-28432: CVE-2023-28432 - MinIO information disclosure",
+            "date_modified": "2024-07-10T17:39:05.000Z",
+            "date_published": "2024-07-09T21:10:33.000Z",
+            "author": {
+                "name": "fhAnso",
+                "url": "https://github.com/fhAnso"
             }
         },
         {
@@ -47,17 +69,6 @@
             "author": {
                 "name": "puckiestyle",
                 "url": "https://github.com/puckiestyle"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/173541052?u=3fd141b8d95eb4d749797e0bdbbf2f6266e53d71&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2023-28432 - MinIO information disclosure</div>",
-            "url": "https://github.com/fhAnso/CVE-2023-28432",
-            "title": "fhAnso/CVE-2023-28432: CVE-2023-28432 - MinIO information disclosure",
-            "date_modified": "2024-07-10T16:21:55.000Z",
-            "date_published": "2024-07-09T21:10:33.000Z",
-            "author": {
-                "name": "fhAnso",
-                "url": "https://github.com/fhAnso"
             }
         },
         {
@@ -212,17 +223,6 @@
             "author": {
                 "name": "m3m0o",
                 "url": "https://github.com/m3m0o"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/48991715?u=b5b4c1abf43a39c7d683416246da5d8d3c8f2a31&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Unrestricted file upload in big file upload functionality in `/main/inc/lib/javascript/bigupload/inc/bigUpload.php` in Chamilo LMS &lt;= v1.11.24 allows unauthenticated attackers to perform stored cross-site scripting attacks and obtain remote code execution via uploading of web shell.</div>",
-            "url": "https://github.com/dollarboysushil/Chamilo-LMS-Unauthenticated-File-Upload-CVE-2023-4220",
-            "title": "dollarboysushil/Chamilo-LMS-Unauthenticated-File-Upload-CVE-2023-4220: Unrestricted file upload in big file upload functionality in `/main/inc/lib/javascript/bigupload/inc/bigUpload.php` in Chamilo LMS <= v1.11.24 allows unauthenticated attackers to perform stored cross-site scripting attacks and obtain remote code execution via uploading of web shell.",
-            "date_modified": "2024-07-07T16:23:54.000Z",
-            "date_published": "2024-07-07T15:53:54.000Z",
-            "author": {
-                "name": "dollarboysushil",
-                "url": "https://github.com/dollarboysushil"
             }
         }
     ]
