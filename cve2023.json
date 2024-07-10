@@ -6,10 +6,21 @@
     "description": "CVE-2023 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/55576296?u=bc1093bab734d7c48c1a954dcf1627066426e6c1&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>POC for CVE-2023-4220 - Chamilo LMS Unauthenticated Big Upload File Remote Code Execution</div>",
+            "url": "https://github.com/krishnan-tech/CVE-2023-4226-POC",
+            "title": "krishnan-tech/CVE-2023-4226-POC: POC for CVE-2023-4220 - Chamilo LMS Unauthenticated Big Upload File Remote Code Execution",
+            "date_modified": "2024-07-10T02:27:06.000Z",
+            "date_published": "2024-07-10T02:26:01.000Z",
+            "author": {
+                "name": "krishnan-tech",
+                "url": "https://github.com/krishnan-tech"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/18195825?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023</div>",
             "url": "https://github.com/CVEProject/cvelist",
             "title": "CVEProject/cvelist: Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023",
-            "date_modified": "2024-07-10T01:01:05.000Z",
+            "date_modified": "2024-07-10T02:01:00.000Z",
             "date_published": "2020-11-02T19:30:55.000Z",
             "author": {
                 "name": "CVEProject",
@@ -117,9 +128,9 @@
         },
         {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/60154552?u=b3063a2d5cf33274258f75856a6e031e6d46a378&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>This is an Exploit for Unrestricted file upload in big file upload functionality in Chamilo-LMS for this location \"/main/inc/lib/javascript/bigupload/inc/bigUpload.php\" in Chamilo LMS &lt;= v1.11.24, and Attackers can obtain remote code execution via uploading of web shell.</div>",
-            "url": "https://github.com/Ziad-Sakr/Chamilo-LMS-CVE-2023-4220-Exploit",
-            "title": "Ziad-Sakr/Chamilo-LMS-CVE-2023-4220-Exploit: This is an Exploit for Unrestricted file upload in big file upload functionality in Chamilo-LMS for this location \"/main/inc/lib/javascript/bigupload/inc/bigUpload.php\" in Chamilo LMS <= v1.11.24, and Attackers can obtain remote code execution via uploading of web shell.",
-            "date_modified": "2024-07-09T13:10:01.000Z",
+            "url": "https://github.com/Ziad-Sakr/Chamilo-CVE-2023-4220-Exploit",
+            "title": "Ziad-Sakr/Chamilo-CVE-2023-4220-Exploit: This is an Exploit for Unrestricted file upload in big file upload functionality in Chamilo-LMS for this location \"/main/inc/lib/javascript/bigupload/inc/bigUpload.php\" in Chamilo LMS <= v1.11.24, and Attackers can obtain remote code execution via uploading of web shell.",
+            "date_modified": "2024-07-10T02:23:16.000Z",
             "date_published": "2024-07-08T09:48:38.000Z",
             "author": {
                 "name": "Ziad-Sakr",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "zt20xx",
                 "url": "https://github.com/zt20xx"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/45532566?u=f4e8aa83e7e965630365692662ea1a3dbe6103de&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Exploit for file upload vulnerability in BoidCMS version &lt;=2.0.0</div>",
-            "url": "https://github.com/1337kid/CVE-2023-38836",
-            "title": "1337kid/CVE-2023-38836: Exploit for file upload vulnerability in BoidCMS version <=2.0.0",
-            "date_modified": "2024-07-05T18:17:10.000Z",
-            "date_published": "2023-08-16T14:30:30.000Z",
-            "author": {
-                "name": "1337kid",
-                "url": "https://github.com/1337kid"
             }
         }
     ]
