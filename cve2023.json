@@ -6,10 +6,21 @@
     "description": "CVE-2023 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/104433163?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2023–4220 Exploit</div>",
+            "url": "https://github.com/nr4x4/CVE-2023-4220",
+            "title": "nr4x4/CVE-2023-4220: CVE-2023–4220 Exploit",
+            "date_modified": "2024-07-11T13:06:47.000Z",
+            "date_published": "2024-07-11T13:06:17.000Z",
+            "author": {
+                "name": "nr4x4",
+                "url": "https://github.com/nr4x4"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/18195825?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023</div>",
             "url": "https://github.com/CVEProject/cvelist",
             "title": "CVEProject/cvelist: Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023",
-            "date_modified": "2024-07-11T12:01:02.000Z",
+            "date_modified": "2024-07-11T13:01:16.000Z",
             "date_published": "2020-11-02T19:30:55.000Z",
             "author": {
                 "name": "CVEProject",
@@ -31,7 +42,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/151980876?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>TOP All bugbounty pentesting CVE-2023- POC Exp  RCE example payload  Things</div>",
             "url": "https://github.com/GhostTroops/TOP",
             "title": "GhostTroops/TOP: TOP All bugbounty pentesting CVE-2023- POC Exp  RCE example payload  Things",
-            "date_modified": "2024-07-11T00:56:21.000Z",
+            "date_modified": "2024-07-11T12:45:03.000Z",
             "date_published": "2022-03-19T01:54:15.000Z",
             "author": {
                 "name": "GhostTroops",
@@ -209,17 +220,6 @@
             "title": "m3m0o/zoneminder-snapshots-rce-poc: This is a script written in Python that allows the exploitation of the Zoneminder's security flaw described in CVE-2023-26035. ",
             "date_modified": "2024-07-07T17:46:07.000Z",
             "date_published": "2023-12-12T14:44:19.000Z",
-            "author": {
-                "name": "m3m0o",
-                "url": "https://github.com/m3m0o"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/130102748?u=798a2b777bf34b319dfb3e38b4575ba400514a6a&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>This is a script written in Python that allows the exploitation of the Metabase's software security flaw described in CVE-2023-38646.</div>",
-            "url": "https://github.com/m3m0o/metabase-pre-auth-rce-poc",
-            "title": "m3m0o/metabase-pre-auth-rce-poc: This is a script written in Python that allows the exploitation of the Metabase's software security flaw described in CVE-2023-38646.",
-            "date_modified": "2024-07-07T17:44:19.000Z",
-            "date_published": "2023-10-09T00:26:38.000Z",
             "author": {
                 "name": "m3m0o",
                 "url": "https://github.com/m3m0o"
