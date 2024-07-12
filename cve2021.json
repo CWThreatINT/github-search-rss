@@ -6,6 +6,17 @@
     "description": "CVE-2021 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/94842031?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A exploit tool for Grafana Unauthorized arbitrary file reading vulnerability (CVE-2021-43798), it can burst plugins / extract secret_key / decrypt data_source info automatic.</div>",
+            "url": "https://github.com/A-D-Team/grafanaExp",
+            "title": "A-D-Team/grafanaExp: A exploit tool for Grafana Unauthorized arbitrary file reading vulnerability (CVE-2021-43798), it can burst plugins / extract secret_key / decrypt data_source info automatic.",
+            "date_modified": "2024-07-12T14:14:15.000Z",
+            "date_published": "2021-12-07T15:11:34.000Z",
+            "author": {
+                "name": "A-D-Team",
+                "url": "https://github.com/A-D-Team"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/120346950?u=b632b2c10ca535211e4d8cae1d4cd828af90dda8&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
             "url": "https://github.com/MehdiBoukhobza/SandBox_CVE-2021-23358",
             "title": "MehdiBoukhobza/SandBox_CVE-2021-23358",
@@ -14,17 +25,6 @@
             "author": {
                 "name": "MehdiBoukhobza",
                 "url": "https://github.com/MehdiBoukhobza"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/94842031?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A exploit tool for Grafana Unauthorized arbitrary file reading vulnerability (CVE-2021-43798), it can burst plugins / extract secret_key / decrypt data_source info automatic.</div>",
-            "url": "https://github.com/A-D-Team/grafanaExp",
-            "title": "A-D-Team/grafanaExp: A exploit tool for Grafana Unauthorized arbitrary file reading vulnerability (CVE-2021-43798), it can burst plugins / extract secret_key / decrypt data_source info automatic.",
-            "date_modified": "2024-07-12T12:03:56.000Z",
-            "date_published": "2021-12-07T15:11:34.000Z",
-            "author": {
-                "name": "A-D-Team",
-                "url": "https://github.com/A-D-Team"
             }
         },
         {
