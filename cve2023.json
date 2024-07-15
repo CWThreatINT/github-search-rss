@@ -9,7 +9,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/18195825?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023</div>",
             "url": "https://github.com/CVEProject/cvelist",
             "title": "CVEProject/cvelist: Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023",
-            "date_modified": "2024-07-15T00:01:04.000Z",
+            "date_modified": "2024-07-15T02:00:59.000Z",
             "date_published": "2020-11-02T19:30:55.000Z",
             "author": {
                 "name": "CVEProject",
@@ -17,10 +17,21 @@
             }
         },
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/115897853?u=2222596c71f837b8201ed2c6190eb5e66d4663f2&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>LMS Chamilo 1.11.24 CVE-2023-4220  Exploit</div>",
+            "url": "https://github.com/Al3xGD/CVE-2023-4220-Exploit",
+            "title": "Al3xGD/CVE-2023-4220-Exploit: LMS Chamilo 1.11.24 CVE-2023-4220  Exploit",
+            "date_modified": "2024-07-15T01:51:16.000Z",
+            "date_published": "2024-07-15T01:38:47.000Z",
+            "author": {
+                "name": "Al3xGD",
+                "url": "https://github.com/Al3xGD"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/19195374?u=8ca6a4ccd9409edee68dec2662e28a45619bd49c&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>An authenticated RCE exploit for Dolibarr ERP/CRM CVE-2023-30253.</div>",
             "url": "https://github.com/andria-dev/DolibabyPhp",
             "title": "andria-dev/DolibabyPhp: An authenticated RCE exploit for Dolibarr ERP/CRM CVE-2023-30253.",
-            "date_modified": "2024-07-14T20:47:57.000Z",
+            "date_modified": "2024-07-15T01:13:05.000Z",
             "date_published": "2024-07-10T05:39:01.000Z",
             "author": {
                 "name": "andria-dev",
@@ -31,7 +42,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/151980876?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>TOP All bugbounty pentesting CVE-2023- POC Exp  RCE example payload  Things</div>",
             "url": "https://github.com/GhostTroops/TOP",
             "title": "GhostTroops/TOP: TOP All bugbounty pentesting CVE-2023- POC Exp  RCE example payload  Things",
-            "date_modified": "2024-07-14T01:00:22.000Z",
+            "date_modified": "2024-07-15T00:57:39.000Z",
             "date_published": "2022-03-19T01:54:15.000Z",
             "author": {
                 "name": "GhostTroops",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "puckiestyle",
                 "url": "https://github.com/puckiestyle"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/55576296?u=bc1093bab734d7c48c1a954dcf1627066426e6c1&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>POC for CVE-2023-4220 - Chamilo LMS Unauthenticated Big Upload File Remote Code Execution</div>",
-            "url": "https://github.com/krishnan-tech/CVE-2023-4226-POC",
-            "title": "krishnan-tech/CVE-2023-4226-POC: POC for CVE-2023-4220 - Chamilo LMS Unauthenticated Big Upload File Remote Code Execution",
-            "date_modified": "2024-07-10T02:27:06.000Z",
-            "date_published": "2024-07-10T02:26:01.000Z",
-            "author": {
-                "name": "krishnan-tech",
-                "url": "https://github.com/krishnan-tech"
             }
         }
     ]
