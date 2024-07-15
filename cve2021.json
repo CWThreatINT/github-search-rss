@@ -6,6 +6,17 @@
     "description": "CVE-2021 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/17744127?u=05d9fe9463b8042ea029bfd970b0aa20884d1af5&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2021-44228</div>",
+            "url": "https://github.com/ShlomiRex/log4shell_lab",
+            "title": "ShlomiRex/log4shell_lab: CVE-2021-44228",
+            "date_modified": "2024-07-15T07:35:10.000Z",
+            "date_published": "2023-11-30T18:55:40.000Z",
+            "author": {
+                "name": "ShlomiRex",
+                "url": "https://github.com/ShlomiRex"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/173960819?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Exploitation Scanner Cross Site Scripting vulnerability in Keycloak.</div>",
             "url": "https://github.com/cscpwn0sec/CVE-2021-20323",
             "title": "cscpwn0sec/CVE-2021-20323: Exploitation Scanner Cross Site Scripting vulnerability in Keycloak.",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "Hirusha-N",
                 "url": "https://github.com/Hirusha-N"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/102907425?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>WordPress WPS Hide Login &lt;1.9.1 - Information Disclosure</div>",
-            "url": "https://github.com/Cappricio-Securities/CVE-2021-24917",
-            "title": "Cappricio-Securities/CVE-2021-24917: WordPress WPS Hide Login <1.9.1 - Information Disclosure",
-            "date_modified": "2024-06-24T08:20:12.000Z",
-            "date_published": "2024-05-20T02:07:52.000Z",
-            "author": {
-                "name": "Cappricio-Securities",
-                "url": "https://github.com/Cappricio-Securities"
             }
         }
     ]
