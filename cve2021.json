@@ -6,6 +6,17 @@
     "description": "CVE-2021 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/77881655?u=e4ec6df6328332abc7477c7846a7ba152cdd0dd8&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Laravel Debug Mode and Payload</div>",
+            "url": "https://github.com/Tinsleytrn/CVE-2021-3129-",
+            "title": "Tinsleytrn/CVE-2021-3129-: Laravel Debug Mode and Payload",
+            "date_modified": "2024-07-16T06:58:38.000Z",
+            "date_published": "2024-07-16T06:48:24.000Z",
+            "author": {
+                "name": "Tinsleytrn",
+                "url": "https://github.com/Tinsleytrn"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/114837630?u=4c4b7d0c682812060783b669a5fb96271916ce79&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>On October 4, 2021, Apache HTTP Server Project released Security advisory on a Path traversal and File disclosure vulnerability in Apache HTTP Server 2.4.49 and 2.4.50 tracked as CVE-2021-41773 and CVE-2021-42013. In the advisory, Apache also highlighted “the issue is known to be exploited in the wild” and later it was identified that the vulnerabi</div>",
             "url": "https://github.com/Jhonsonwannaa/cve-2021-42013-apache",
             "title": "Jhonsonwannaa/cve-2021-42013-apache: On October 4, 2021, Apache HTTP Server Project released Security advisory on a Path traversal and File disclosure vulnerability in Apache HTTP Server 2.4.49 and 2.4.50 tracked as CVE-2021-41773 and CVE-2021-42013. In the advisory, Apache also highlighted “the issue is known to be exploited in the wild” and later it was identified that the vulnerabi",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "glen-pearson",
                 "url": "https://github.com/glen-pearson"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/52586579?u=f335b83fa3d90d519ec4c6e95218058ea6d75b40&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2021-42013, a critical vulnerability in the Apache HTTP Server (2.4.50)</div>",
-            "url": "https://github.com/rafifdna/CVE-2021-42013",
-            "title": "rafifdna/CVE-2021-42013: CVE-2021-42013, a critical vulnerability in the Apache HTTP Server (2.4.50)",
-            "date_modified": "2024-07-01T14:42:17.000Z",
-            "date_published": "2024-06-26T13:57:52.000Z",
-            "author": {
-                "name": "rafifdna",
-                "url": "https://github.com/rafifdna"
             }
         }
     ]
