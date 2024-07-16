@@ -6,6 +6,17 @@
     "description": "CVE-2023 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/72267897?u=6654594f4e3c7cb65471c6d4252ae0c4efac929f&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Exploits for Tenda Ac8v4 stack-based overflow to Remote-Code Execution via Mipsel Ropping (CVE-2023-33669 - CVE-2023-33675)</div>",
+            "url": "https://github.com/retr0reg/Tenda-Ac8v4-PoC",
+            "title": "retr0reg/Tenda-Ac8v4-PoC: Exploits for Tenda Ac8v4 stack-based overflow to Remote-Code Execution via Mipsel Ropping (CVE-2023-33669 - CVE-2023-33675)",
+            "date_modified": "2024-07-16T03:00:23.000Z",
+            "date_published": "2023-05-13T04:10:15.000Z",
+            "author": {
+                "name": "retr0reg",
+                "url": "https://github.com/retr0reg"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/18195825?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023</div>",
             "url": "https://github.com/CVEProject/cvelist",
             "title": "CVEProject/cvelist: Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "nr4x4",
                 "url": "https://github.com/nr4x4"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/73880723?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2023-22726</div>",
-            "url": "https://github.com/ProxyPog/POC-CVE-2023-22726",
-            "title": "ProxyPog/POC-CVE-2023-22726: CVE-2023-22726",
-            "date_modified": "2024-07-12T07:18:22.000Z",
-            "date_published": "2024-05-29T10:38:30.000Z",
-            "author": {
-                "name": "ProxyPog",
-                "url": "https://github.com/ProxyPog"
             }
         }
     ]
