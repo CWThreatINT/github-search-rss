@@ -9,11 +9,22 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/18195825?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023</div>",
             "url": "https://github.com/CVEProject/cvelist",
             "title": "CVEProject/cvelist: Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023",
-            "date_modified": "2024-07-18T19:01:01.000Z",
+            "date_modified": "2024-07-18T20:00:59.000Z",
             "date_published": "2020-11-02T19:30:55.000Z",
             "author": {
                 "name": "CVEProject",
                 "url": "https://github.com/CVEProject"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/92234381?u=f1b880c01cee8c2ba01850f4e2c6a4628e7c15c4&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Vulnerability checking tool via Nmap Scripting Engine</div>",
+            "url": "https://github.com/spareack/CVE-2023-22515-NSE",
+            "title": "spareack/CVE-2023-22515-NSE: Vulnerability checking tool via Nmap Scripting Engine",
+            "date_modified": "2024-07-18T19:56:03.000Z",
+            "date_published": "2024-07-18T19:55:59.000Z",
+            "author": {
+                "name": "spareack",
+                "url": "https://github.com/spareack"
             }
         },
         {
@@ -209,17 +220,6 @@
             "title": "Jansen-C-Moreira/CVE-2024-40506: OpenPetra v.2023.02 CVE-2024-40506",
             "date_modified": "2024-07-13T22:08:39.000Z",
             "date_published": "2024-07-13T21:42:23.000Z",
-            "author": {
-                "name": "Jansen-C-Moreira",
-                "url": "https://github.com/Jansen-C-Moreira"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/66726884?u=415f9c71b82374ad88b8a09a8aa1d1625dc9a16a&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>OpenPetra v.2023.02 CVE-2024-40512</div>",
-            "url": "https://github.com/Jansen-C-Moreira/CVE-2024-40512",
-            "title": "Jansen-C-Moreira/CVE-2024-40512: OpenPetra v.2023.02 CVE-2024-40512",
-            "date_modified": "2024-07-13T22:07:10.000Z",
-            "date_published": "2024-07-13T22:06:16.000Z",
             "author": {
                 "name": "Jansen-C-Moreira",
                 "url": "https://github.com/Jansen-C-Moreira"
