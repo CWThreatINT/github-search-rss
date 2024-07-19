@@ -6,6 +6,17 @@
     "description": "CVE-2021 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/73788695?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Report documentation of this script is below</div>",
+            "url": "https://github.com/RyanBoomer30/CVE-2021-21239-Exploit",
+            "title": "RyanBoomer30/CVE-2021-21239-Exploit: Report documentation of this script is below",
+            "date_modified": "2024-07-18T23:15:39.000Z",
+            "date_published": "2024-07-18T23:02:10.000Z",
+            "author": {
+                "name": "RyanBoomer30",
+                "url": "https://github.com/RyanBoomer30"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/114837630?u=4c4b7d0c682812060783b669a5fb96271916ce79&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>On October 4, 2021, Apache HTTP Server Project released Security advisory on a Path traversal and File disclosure vulnerability in Apache HTTP Server 2.4.49 and 2.4.50 tracked as CVE-2021-41773 and CVE-2021-42013. In the advisory, Apache also highlighted “the issue is known to be exploited in the wild” and later it was identified that the vulnerabi</div>",
             "url": "https://github.com/Jhonsonwannaa/cve-2021-42013-apache",
             "title": "Jhonsonwannaa/cve-2021-42013-apache: On October 4, 2021, Apache HTTP Server Project released Security advisory on a Path traversal and File disclosure vulnerability in Apache HTTP Server 2.4.49 and 2.4.50 tracked as CVE-2021-41773 and CVE-2021-42013. In the advisory, Apache also highlighted “the issue is known to be exploited in the wild” and later it was identified that the vulnerabi",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "LucasPDiniz",
                 "url": "https://github.com/LucasPDiniz"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/76139191?u=97aec78d30675ecadd79404ad3ed196bd8989e78&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>This is a automation of cve-2021-31630 exploitation</div>",
-            "url": "https://github.com/adibabdala123/cve-2021-31630",
-            "title": "adibabdala123/cve-2021-31630: This is a automation of cve-2021-31630 exploitation",
-            "date_modified": "2024-06-29T17:40:49.000Z",
-            "date_published": "2024-06-21T22:10:49.000Z",
-            "author": {
-                "name": "adibabdala123",
-                "url": "https://github.com/adibabdala123"
             }
         }
     ]
