@@ -6,6 +6,17 @@
     "description": "CVE-2022 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/120341635?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2022-37706-Enlightenment v0.25.3 - Privilege escalation</div>",
+            "url": "https://github.com/TACTICAL-HACK/CVE-2022-37706-SUID",
+            "title": "TACTICAL-HACK/CVE-2022-37706-SUID: CVE-2022-37706-Enlightenment v0.25.3 - Privilege escalation",
+            "date_modified": "2024-07-19T23:12:43.000Z",
+            "date_published": "2024-07-19T23:12:40.000Z",
+            "author": {
+                "name": "TACTICAL-HACK",
+                "url": "https://github.com/TACTICAL-HACK"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/69167284?u=12352316cf9a00e4d9862346d7a82c71c8affc5c&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Lighttpd CVE-2022-30780 checker</div>",
             "url": "https://github.com/xiw1ll/CVE-2022-30780_Checker",
             "title": "xiw1ll/CVE-2022-30780_Checker: Lighttpd CVE-2022-30780 checker",
@@ -209,17 +220,6 @@
             "title": "phanthibichtram12/CVE-2022-1565",
             "date_modified": "2024-06-21T11:10:04.000Z",
             "date_published": "2024-06-21T11:08:26.000Z",
-            "author": {
-                "name": "phanthibichtram12",
-                "url": "https://github.com/phanthibichtram12"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/95855503?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
-            "url": "https://github.com/phanthibichtram12/CVE-2022-1329",
-            "title": "phanthibichtram12/CVE-2022-1329",
-            "date_modified": "2024-06-21T10:38:10.000Z",
-            "date_published": "2024-06-21T10:05:03.000Z",
             "author": {
                 "name": "phanthibichtram12",
                 "url": "https://github.com/phanthibichtram12"
