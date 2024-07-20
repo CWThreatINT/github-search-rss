@@ -6,6 +6,17 @@
     "description": "CVE-2021 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/76691705?u=713d3b96c5604831c00802486dfbb4ea27eb3841&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Unauthenticated Sensitive Information Disclosure</div>",
+            "url": "https://github.com/aratane/CVE-2021-3831",
+            "title": "aratane/CVE-2021-3831: Unauthenticated Sensitive Information Disclosure",
+            "date_modified": "2024-07-20T09:41:53.000Z",
+            "date_published": "2024-07-20T09:36:51.000Z",
+            "author": {
+                "name": "aratane",
+                "url": "https://github.com/aratane"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/73788695?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Report documentation of this script is below</div>",
             "url": "https://github.com/RyanBoomer30/CVE-2021-21239-Exploit",
             "title": "RyanBoomer30/CVE-2021-21239-Exploit: Report documentation of this script is below",
@@ -209,17 +220,6 @@
             "title": "LucasPDiniz/CVE-2021-4034: Local Privilege Escalation (LPE) vulnerability in Polkit - Pwnkit",
             "date_modified": "2024-06-30T21:55:56.000Z",
             "date_published": "2024-01-06T19:41:41.000Z",
-            "author": {
-                "name": "LucasPDiniz",
-                "url": "https://github.com/LucasPDiniz"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/57265360?u=5a0d0ca6c5153d7e41b9f498a12fe2b35498adf6&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Log4j Vulnerability RCE - CVE-2021-44228</div>",
-            "url": "https://github.com/LucasPDiniz/CVE-2021-44228",
-            "title": "LucasPDiniz/CVE-2021-44228: Log4j Vulnerability RCE - CVE-2021-44228",
-            "date_modified": "2024-06-30T21:52:24.000Z",
-            "date_published": "2023-11-13T16:57:22.000Z",
             "author": {
                 "name": "LucasPDiniz",
                 "url": "https://github.com/LucasPDiniz"
