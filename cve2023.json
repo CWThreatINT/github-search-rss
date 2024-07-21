@@ -6,6 +6,17 @@
     "description": "CVE-2023 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/74649794?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE 2023-22515</div>",
+            "url": "https://github.com/Onedy1703/CVE-2023-22515",
+            "title": "Onedy1703/CVE-2023-22515: CVE 2023-22515",
+            "date_modified": "2024-07-21T18:08:36.000Z",
+            "date_published": "2024-07-21T17:19:36.000Z",
+            "author": {
+                "name": "Onedy1703",
+                "url": "https://github.com/Onedy1703"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/18195825?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023</div>",
             "url": "https://github.com/CVEProject/cvelist",
             "title": "CVEProject/cvelist: Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "retr0reg",
                 "url": "https://github.com/retr0reg"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/115897853?u=2222596c71f837b8201ed2c6190eb5e66d4663f2&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>LMS Chamilo 1.11.24 CVE-2023-4220  Exploit</div>",
-            "url": "https://github.com/Al3xGD/CVE-2023-4220-Exploit",
-            "title": "Al3xGD/CVE-2023-4220-Exploit: LMS Chamilo 1.11.24 CVE-2023-4220  Exploit",
-            "date_modified": "2024-07-15T01:51:16.000Z",
-            "date_published": "2024-07-15T01:38:47.000Z",
-            "author": {
-                "name": "Al3xGD",
-                "url": "https://github.com/Al3xGD"
             }
         }
     ]
