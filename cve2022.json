@@ -6,6 +6,17 @@
     "description": "CVE-2022 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/37070105?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Bypass for Symantec Endpoint Protection's Client User Interface Password</div>",
+            "url": "https://github.com/apeppels/CVE-2022-37017",
+            "title": "apeppels/CVE-2022-37017: Bypass for Symantec Endpoint Protection's Client User Interface Password",
+            "date_modified": "2024-07-21T12:43:43.000Z",
+            "date_published": "2024-07-21T12:26:35.000Z",
+            "author": {
+                "name": "apeppels",
+                "url": "https://github.com/apeppels"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/12976017?u=6d3d423fda6a56643a0ca1acae5223cdf08a3c28&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>This is a one-time signature verification bypass. For persistent signature verification bypass, check <a href=\"https://github.com/TomKing062/CVE-2022-38691_38692\">https://github.com/TomKing062/CVE-2022-38691_38692</a></div>",
             "url": "https://github.com/TomKing062/CVE-2022-38694_unlock_bootloader",
             "title": "TomKing062/CVE-2022-38694_unlock_bootloader: This is a one-time signature verification bypass. For persistent signature verification bypass, check https://github.com/TomKing062/CVE-2022-38691_38692",
@@ -209,17 +220,6 @@
             "title": "Cappricio-Securities/CVE-2022-21371: Oracle WebLogic Server (LFI)",
             "date_modified": "2024-06-24T10:35:46.000Z",
             "date_published": "2024-06-05T16:29:16.000Z",
-            "author": {
-                "name": "Cappricio-Securities",
-                "url": "https://github.com/Cappricio-Securities"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/102907425?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>WordPress Page Builder KingComposer &lt;=2.9.6 - Open Redirect</div>",
-            "url": "https://github.com/Cappricio-Securities/CVE-2022-0165",
-            "title": "Cappricio-Securities/CVE-2022-0165: WordPress Page Builder KingComposer <=2.9.6 - Open Redirect",
-            "date_modified": "2024-06-24T09:29:49.000Z",
-            "date_published": "2024-05-29T04:00:25.000Z",
             "author": {
                 "name": "Cappricio-Securities",
                 "url": "https://github.com/Cappricio-Securities"
