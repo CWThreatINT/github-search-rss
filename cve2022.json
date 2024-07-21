@@ -6,6 +6,17 @@
     "description": "CVE-2022 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/12976017?u=6d3d423fda6a56643a0ca1acae5223cdf08a3c28&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>This is a one-time signature verification bypass. For persistent signature verification bypass, check <a href=\"https://github.com/TomKing062/CVE-2022-38691_38692\">https://github.com/TomKing062/CVE-2022-38691_38692</a></div>",
+            "url": "https://github.com/TomKing062/CVE-2022-38694_unlock_bootloader",
+            "title": "TomKing062/CVE-2022-38694_unlock_bootloader: This is a one-time signature verification bypass. For persistent signature verification bypass, check https://github.com/TomKing062/CVE-2022-38691_38692",
+            "date_modified": "2024-07-21T03:23:05.000Z",
+            "date_published": "2023-06-10T08:31:26.000Z",
+            "author": {
+                "name": "TomKing062",
+                "url": "https://github.com/TomKing062"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/82314652?u=7137d844abe5533d4d9db5c9c783801f01661946&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Educational exploit for CVE-2022-30190</div>",
             "url": "https://github.com/ethicalblue/Follina-CVE-2022-30190-Sample",
             "title": "ethicalblue/Follina-CVE-2022-30190-Sample: Educational exploit for CVE-2022-30190",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "Cappricio-Securities",
                 "url": "https://github.com/Cappricio-Securities"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/107208935?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2022-36946 linux kernel panic in netfilter_queue</div>",
-            "url": "https://github.com/Pwnzer0tt1/CVE-2022-36946",
-            "title": "Pwnzer0tt1/CVE-2022-36946: CVE-2022-36946 linux kernel panic in netfilter_queue",
-            "date_modified": "2024-06-21T18:53:30.000Z",
-            "date_published": "2022-07-28T11:22:13.000Z",
-            "author": {
-                "name": "Pwnzer0tt1",
-                "url": "https://github.com/Pwnzer0tt1"
             }
         }
     ]
