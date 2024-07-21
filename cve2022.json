@@ -6,6 +6,17 @@
     "description": "CVE-2022 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/159681973?u=5f58ba628dbe5f9dc8bad03ec134367f6af6e2b7&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>历史漏洞的细节以及利用方法汇总收集</div>",
+            "url": "https://github.com/OracleNep/Nday-Exploit-Plan",
+            "title": "OracleNep/Nday-Exploit-Plan: 历史漏洞的细节以及利用方法汇总收集",
+            "date_modified": "2024-07-21T13:17:32.000Z",
+            "date_published": "2024-02-11T06:55:47.000Z",
+            "author": {
+                "name": "OracleNep",
+                "url": "https://github.com/OracleNep"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/37070105?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Bypass for Symantec Endpoint Protection's Client User Interface Password</div>",
             "url": "https://github.com/apeppels/CVE-2022-37017",
             "title": "apeppels/CVE-2022-37017: Bypass for Symantec Endpoint Protection's Client User Interface Password",
@@ -209,17 +220,6 @@
             "title": "Cappricio-Securities/CVE-2022-21500: Oracle E-Business Suite <=12.2 - Authentication Bypass",
             "date_modified": "2024-06-24T10:52:01.000Z",
             "date_published": "2024-06-09T02:59:45.000Z",
-            "author": {
-                "name": "Cappricio-Securities",
-                "url": "https://github.com/Cappricio-Securities"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/102907425?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Oracle WebLogic Server (LFI)</div>",
-            "url": "https://github.com/Cappricio-Securities/CVE-2022-21371",
-            "title": "Cappricio-Securities/CVE-2022-21371: Oracle WebLogic Server (LFI)",
-            "date_modified": "2024-06-24T10:35:46.000Z",
-            "date_published": "2024-06-05T16:29:16.000Z",
             "author": {
                 "name": "Cappricio-Securities",
                 "url": "https://github.com/Cappricio-Securities"

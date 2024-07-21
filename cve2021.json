@@ -6,6 +6,17 @@
     "description": "CVE-2021 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/159681973?u=5f58ba628dbe5f9dc8bad03ec134367f6af6e2b7&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>历史漏洞的细节以及利用方法汇总收集</div>",
+            "url": "https://github.com/OracleNep/Nday-Exploit-Plan",
+            "title": "OracleNep/Nday-Exploit-Plan: 历史漏洞的细节以及利用方法汇总收集",
+            "date_modified": "2024-07-21T13:17:32.000Z",
+            "date_published": "2024-02-11T06:55:47.000Z",
+            "author": {
+                "name": "OracleNep",
+                "url": "https://github.com/OracleNep"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/76691705?u=713d3b96c5604831c00802486dfbb4ea27eb3841&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Unauthenticated Sensitive Information Disclosure</div>",
             "url": "https://github.com/aratane/CVE-2021-3831",
             "title": "aratane/CVE-2021-3831: Unauthenticated Sensitive Information Disclosure",
@@ -209,17 +220,6 @@
             "title": "LucasPDiniz/CVE-2021-3560: Exploitation of the CVE-2021-3560 polkit vulnerability",
             "date_modified": "2024-06-30T22:01:58.000Z",
             "date_published": "2023-11-08T05:11:56.000Z",
-            "author": {
-                "name": "LucasPDiniz",
-                "url": "https://github.com/LucasPDiniz"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/57265360?u=5a0d0ca6c5153d7e41b9f498a12fe2b35498adf6&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Local Privilege Escalation (LPE) vulnerability in Polkit - Pwnkit</div>",
-            "url": "https://github.com/LucasPDiniz/CVE-2021-4034",
-            "title": "LucasPDiniz/CVE-2021-4034: Local Privilege Escalation (LPE) vulnerability in Polkit - Pwnkit",
-            "date_modified": "2024-06-30T21:55:56.000Z",
-            "date_published": "2024-01-06T19:41:41.000Z",
             "author": {
                 "name": "LucasPDiniz",
                 "url": "https://github.com/LucasPDiniz"
