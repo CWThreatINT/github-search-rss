@@ -6,6 +6,17 @@
     "description": "CVE-2023 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/108242154?u=c651e3f5381247a7bae46896c8278e8e7f0b9447&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
+            "url": "https://github.com/Rai2en/CVE-2023-50564_Pluck-v4.7.18_PoC",
+            "title": "Rai2en/CVE-2023-50564_Pluck-v4.7.18_PoC",
+            "date_modified": "2024-07-21T21:04:31.000Z",
+            "date_published": "2024-07-21T20:15:10.000Z",
+            "author": {
+                "name": "Rai2en",
+                "url": "https://github.com/Rai2en"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/18195825?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023</div>",
             "url": "https://github.com/CVEProject/cvelist",
             "title": "CVEProject/cvelist: Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "khanhtranngoccva",
                 "url": "https://github.com/khanhtranngoccva"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/72267897?u=6654594f4e3c7cb65471c6d4252ae0c4efac929f&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Exploits for Tenda Ac8v4 stack-based overflow to Remote-Code Execution via Mipsel Ropping (CVE-2023-33669 - CVE-2023-33675)</div>",
-            "url": "https://github.com/retr0reg/Tenda-Ac8v4-PoC",
-            "title": "retr0reg/Tenda-Ac8v4-PoC: Exploits for Tenda Ac8v4 stack-based overflow to Remote-Code Execution via Mipsel Ropping (CVE-2023-33669 - CVE-2023-33675)",
-            "date_modified": "2024-07-16T03:00:23.000Z",
-            "date_published": "2023-05-13T04:10:15.000Z",
-            "author": {
-                "name": "retr0reg",
-                "url": "https://github.com/retr0reg"
             }
         }
     ]
