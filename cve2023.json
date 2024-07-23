@@ -9,11 +9,22 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/18195825?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023</div>",
             "url": "https://github.com/CVEProject/cvelist",
             "title": "CVEProject/cvelist: Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023",
-            "date_modified": "2024-07-23T15:01:02.000Z",
+            "date_modified": "2024-07-23T16:01:34.000Z",
             "date_published": "2020-11-02T19:30:55.000Z",
             "author": {
                 "name": "CVEProject",
                 "url": "https://github.com/CVEProject"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/134471901?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Scanner for CVE-2023-46805 - Ivanti Connect Secure</div>",
+            "url": "https://github.com/yoryio/CVE-2023-46805",
+            "title": "yoryio/CVE-2023-46805: Scanner for CVE-2023-46805 - Ivanti Connect Secure",
+            "date_modified": "2024-07-23T16:01:15.000Z",
+            "date_published": "2024-01-14T18:30:11.000Z",
+            "author": {
+                "name": "yoryio",
+                "url": "https://github.com/yoryio"
             }
         },
         {
@@ -209,17 +220,6 @@
             "title": "ynwarcs/CVE-2023-24871: pocs & exploit for CVE-2023-24871 (rce + lpe)",
             "date_modified": "2024-07-23T06:06:44.000Z",
             "date_published": "2024-06-21T15:01:15.000Z",
-            "author": {
-                "name": "ynwarcs",
-                "url": "https://github.com/ynwarcs"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/108408574?u=ef048c414954554691fd34c7cc9d8444286aea86&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>poc for CVE-2023-23388 (LPE in Windows 10/11 bthserv service)</div>",
-            "url": "https://github.com/ynwarcs/CVE-2023-23388",
-            "title": "ynwarcs/CVE-2023-23388: poc for CVE-2023-23388 (LPE in Windows 10/11 bthserv service)",
-            "date_modified": "2024-07-17T12:25:28.000Z",
-            "date_published": "2024-06-23T19:52:09.000Z",
             "author": {
                 "name": "ynwarcs",
                 "url": "https://github.com/ynwarcs"
