@@ -9,11 +9,33 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/18195825?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023</div>",
             "url": "https://github.com/CVEProject/cvelist",
             "title": "CVEProject/cvelist: Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023",
-            "date_modified": "2024-07-23T06:01:07.000Z",
+            "date_modified": "2024-07-23T08:01:02.000Z",
             "date_published": "2020-11-02T19:30:55.000Z",
             "author": {
                 "name": "CVEProject",
                 "url": "https://github.com/CVEProject"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/159681973?u=5f58ba628dbe5f9dc8bad03ec134367f6af6e2b7&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>历史漏洞的细节以及利用方法汇总收集</div>",
+            "url": "https://github.com/OracleNep/Nday-Exploit-Plan",
+            "title": "OracleNep/Nday-Exploit-Plan: 历史漏洞的细节以及利用方法汇总收集",
+            "date_modified": "2024-07-23T07:58:33.000Z",
+            "date_published": "2024-02-11T06:55:47.000Z",
+            "author": {
+                "name": "OracleNep",
+                "url": "https://github.com/OracleNep"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/49879157?u=133acc3841808f2d1af1697b7ae164b1577d7f38&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2023-4771 PoC CKEditor 4 Cross-site scripting (XSS) vulnerability in AJAX sample</div>",
+            "url": "https://github.com/sahar042/CVE-2023-4771",
+            "title": "sahar042/CVE-2023-4771: CVE-2023-4771 PoC CKEditor 4 Cross-site scripting (XSS) vulnerability in AJAX sample",
+            "date_modified": "2024-07-23T07:48:38.000Z",
+            "date_published": "2024-06-10T08:19:24.000Z",
+            "author": {
+                "name": "sahar042",
+                "url": "https://github.com/sahar042"
             }
         },
         {
@@ -47,17 +69,6 @@
             "author": {
                 "name": "griffinsectio",
                 "url": "https://github.com/griffinsectio"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/159681973?u=5f58ba628dbe5f9dc8bad03ec134367f6af6e2b7&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>历史漏洞的细节以及利用方法汇总收集</div>",
-            "url": "https://github.com/OracleNep/Nday-Exploit-Plan",
-            "title": "OracleNep/Nday-Exploit-Plan: 历史漏洞的细节以及利用方法汇总收集",
-            "date_modified": "2024-07-22T03:13:01.000Z",
-            "date_published": "2024-02-11T06:55:47.000Z",
-            "author": {
-                "name": "OracleNep",
-                "url": "https://github.com/OracleNep"
             }
         },
         {
@@ -212,17 +223,6 @@
             "author": {
                 "name": "ynwarcs",
                 "url": "https://github.com/ynwarcs"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/49835583?u=5c8a735c145917bfca540936847db1326f4bf156&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Proof of concept for CVE-2023-30800</div>",
-            "url": "https://github.com/griffinsectio/CVE-2023-30800_PoC",
-            "title": "griffinsectio/CVE-2023-30800_PoC: Proof of concept for CVE-2023-30800",
-            "date_modified": "2024-07-17T06:26:45.000Z",
-            "date_published": "2024-07-17T06:24:41.000Z",
-            "author": {
-                "name": "griffinsectio",
-                "url": "https://github.com/griffinsectio"
             }
         }
     ]
