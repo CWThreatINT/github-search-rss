@@ -6,6 +6,17 @@
     "description": "CVE-2021 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/174135229?u=91a4825d7af4daad9d3c253e7c846346184aa3c5&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>This exploit offers an in-depth look at the CVE-2021-41091 security vulnerability and provides a step-by-step guide on how to utilize the exploit script to achieve privilege escalation on a host.</div>",
+            "url": "https://github.com/SNE-M23-SN/Vulnerable-Docker-Engine",
+            "title": "SNE-M23-SN/Vulnerable-Docker-Engine: This exploit offers an in-depth look at the CVE-2021-41091 security vulnerability and provides a step-by-step guide on how to utilize the exploit script to achieve privilege escalation on a host.",
+            "date_modified": "2024-07-24T11:03:44.000Z",
+            "date_published": "2024-06-30T10:57:02.000Z",
+            "author": {
+                "name": "SNE-M23-SN",
+                "url": "https://github.com/SNE-M23-SN"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/94911442?u=055bfc8bfe827d93af3b6dd96a04b31970cfdcc4&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2021-44270</div>",
             "url": "https://github.com/pinpinsec/CVE-2021-44270",
             "title": "pinpinsec/CVE-2021-44270: CVE-2021-44270",
@@ -157,17 +168,6 @@
             "author": {
                 "name": "T0X1Cx",
                 "url": "https://github.com/T0X1Cx"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/174135229?u=91a4825d7af4daad9d3c253e7c846346184aa3c5&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>This exploit offers an in-depth look at the CVE-2021-41091 security vulnerability and provides a step-by-step guide on how to utilize the exploit script to achieve privilege escalation on a host.</div>",
-            "url": "https://github.com/SNE-M23-SN/Vulnerable-Docker-Engine",
-            "title": "SNE-M23-SN/Vulnerable-Docker-Engine: This exploit offers an in-depth look at the CVE-2021-41091 security vulnerability and provides a step-by-step guide on how to utilize the exploit script to achieve privilege escalation on a host.",
-            "date_modified": "2024-07-17T08:16:42.000Z",
-            "date_published": "2024-06-30T10:57:02.000Z",
-            "author": {
-                "name": "SNE-M23-SN",
-                "url": "https://github.com/SNE-M23-SN"
             }
         },
         {
