@@ -6,6 +6,17 @@
     "description": "CVE-2021 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/29311335?u=aef09b3d181140e80aa1912d923d9f0605634f52&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>OpenPLC 3 WebServer Authenticated Remote Code Execution.</div>",
+            "url": "https://github.com/manuelsantosiglesias/CVE-2021-31630",
+            "title": "manuelsantosiglesias/CVE-2021-31630: OpenPLC 3 WebServer Authenticated Remote Code Execution.",
+            "date_modified": "2024-07-24T15:42:08.000Z",
+            "date_published": "2024-07-24T15:28:47.000Z",
+            "author": {
+                "name": "manuelsantosiglesias",
+                "url": "https://github.com/manuelsantosiglesias"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/174135229?u=91a4825d7af4daad9d3c253e7c846346184aa3c5&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>This exploit offers an in-depth look at the CVE-2021-41091 security vulnerability and provides a step-by-step guide on how to utilize the exploit script to achieve privilege escalation on a host.</div>",
             "url": "https://github.com/SNE-M23-SN/Vulnerable-Docker-Engine",
             "title": "SNE-M23-SN/Vulnerable-Docker-Engine: This exploit offers an in-depth look at the CVE-2021-41091 security vulnerability and provides a step-by-step guide on how to utilize the exploit script to achieve privilege escalation on a host.",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "Sic4rio",
                 "url": "https://github.com/Sic4rio"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/113887123?u=c0b0d56be8f0682adc1454bd73393d1985d7e436&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>polkit</div>",
-            "url": "https://github.com/evkl1d/CVE-2021-4034",
-            "title": "evkl1d/CVE-2021-4034: polkit",
-            "date_modified": "2024-07-01T08:13:02.000Z",
-            "date_published": "2024-07-01T08:04:29.000Z",
-            "author": {
-                "name": "evkl1d",
-                "url": "https://github.com/evkl1d"
             }
         }
     ]
