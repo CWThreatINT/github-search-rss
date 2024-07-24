@@ -6,6 +6,17 @@
     "description": "CVE-2021 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/94911442?u=055bfc8bfe827d93af3b6dd96a04b31970cfdcc4&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2021-44270</div>",
+            "url": "https://github.com/pinpinsec/CVE-2021-44270",
+            "title": "pinpinsec/CVE-2021-44270: CVE-2021-44270",
+            "date_modified": "2024-07-24T08:56:23.000Z",
+            "date_published": "2021-11-23T15:04:23.000Z",
+            "author": {
+                "name": "pinpinsec",
+                "url": "https://github.com/pinpinsec"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/159681973?u=5f58ba628dbe5f9dc8bad03ec134367f6af6e2b7&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>历史漏洞的细节以及利用方法汇总收集</div>",
             "url": "https://github.com/OracleNep/Nday-Exploit-Plan",
             "title": "OracleNep/Nday-Exploit-Plan: 历史漏洞的细节以及利用方法汇总收集",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "evkl1d",
                 "url": "https://github.com/evkl1d"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/57265360?u=5a0d0ca6c5153d7e41b9f498a12fe2b35498adf6&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Exploitation of the CVE-2021-3560 polkit vulnerability</div>",
-            "url": "https://github.com/LucasPDiniz/CVE-2021-3560",
-            "title": "LucasPDiniz/CVE-2021-3560: Exploitation of the CVE-2021-3560 polkit vulnerability",
-            "date_modified": "2024-06-30T22:01:58.000Z",
-            "date_published": "2023-11-08T05:11:56.000Z",
-            "author": {
-                "name": "LucasPDiniz",
-                "url": "https://github.com/LucasPDiniz"
             }
         }
     ]
