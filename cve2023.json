@@ -9,7 +9,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/174169862?u=72247a02d70e045d10187ead04d75c579f5a07a9&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2023-4220 POC RCE</div>",
             "url": "https://github.com/insomnia-jacob/CVE-2023-4220-",
             "title": "insomnia-jacob/CVE-2023-4220-: CVE-2023-4220 POC RCE",
-            "date_modified": "2024-07-25T02:44:03.000Z",
+            "date_modified": "2024-07-25T04:00:37.000Z",
             "date_published": "2024-07-08T07:31:35.000Z",
             "author": {
                 "name": "insomnia-jacob",
@@ -58,6 +58,17 @@
             "author": {
                 "name": "Onedy1703",
                 "url": "https://github.com/Onedy1703"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/144001335?u=c42bea7e07a206065e90fc34c073c2292c885b40&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>🚨 CVE-2023-45866 - BlueDucky Implementation (Using DuckyScript) 🔓 Unauthenticated Peering Leading to Code Execution (Using HID Keyboard)</div>",
+            "url": "https://github.com/pentestfunctions/BlueDucky",
+            "title": "pentestfunctions/BlueDucky: 🚨 CVE-2023-45866 - BlueDucky Implementation (Using DuckyScript) 🔓 Unauthenticated Peering Leading to Code Execution (Using HID Keyboard)",
+            "date_modified": "2024-07-25T03:40:36.000Z",
+            "date_published": "2024-01-16T06:52:02.000Z",
+            "author": {
+                "name": "pentestfunctions",
+                "url": "https://github.com/pentestfunctions"
             }
         },
         {
@@ -209,17 +220,6 @@
             "title": "vulncheck-oss/cve-2023-36845-scanner: A go-exploit to scan for Juniper firewalls vulnerable to CVE-2023-36845",
             "date_modified": "2024-07-17T18:50:04.000Z",
             "date_published": "2023-09-16T09:11:21.000Z",
-            "author": {
-                "name": "vulncheck-oss",
-                "url": "https://github.com/vulncheck-oss"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/134310220?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A go-exploit for Apache ActiveMQ CVE-2023-46604</div>",
-            "url": "https://github.com/vulncheck-oss/cve-2023-46604",
-            "title": "vulncheck-oss/cve-2023-46604: A go-exploit for Apache ActiveMQ CVE-2023-46604",
-            "date_modified": "2024-07-17T18:47:30.000Z",
-            "date_published": "2024-04-17T13:10:34.000Z",
             "author": {
                 "name": "vulncheck-oss",
                 "url": "https://github.com/vulncheck-oss"
