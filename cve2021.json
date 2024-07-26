@@ -6,6 +6,17 @@
     "description": "CVE-2021 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/170850781?u=ce100622f41a47db83308f8f6c2e5b74cc0d297c&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Exploit for CVE-2021-31630 written in Python3 and using C reverse shell with non-blocking mode</div>",
+            "url": "https://github.com/FlojBoj/CVE-2021-31630",
+            "title": "FlojBoj/CVE-2021-31630: Exploit for CVE-2021-31630 written in Python3 and using C reverse shell with non-blocking mode",
+            "date_modified": "2024-07-26T15:06:44.000Z",
+            "date_published": "2024-07-26T15:06:44.000Z",
+            "author": {
+                "name": "FlojBoj",
+                "url": "https://github.com/FlojBoj"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/29311335?u=aef09b3d181140e80aa1912d923d9f0605634f52&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>OpenPLC 3 WebServer Authenticated Remote Code Execution.</div>",
             "url": "https://github.com/manuelsantosiglesias/CVE-2021-31630",
             "title": "manuelsantosiglesias/CVE-2021-31630: OpenPLC 3 WebServer Authenticated Remote Code Execution.",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "Typical0day",
                 "url": "https://github.com/Typical0day"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/75425513?u=64edd56aefb8bebc03dbae4fbc613932b6c3b02f&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Grafana Decryptor for CVE-2021-43798</div>",
-            "url": "https://github.com/Sic4rio/Grafana-Decryptor-for-CVE-2021-43798",
-            "title": "Sic4rio/Grafana-Decryptor-for-CVE-2021-43798: Grafana Decryptor for CVE-2021-43798",
-            "date_modified": "2024-07-02T09:00:01.000Z",
-            "date_published": "2024-07-02T08:43:45.000Z",
-            "author": {
-                "name": "Sic4rio",
-                "url": "https://github.com/Sic4rio"
             }
         }
     ]
