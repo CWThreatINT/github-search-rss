@@ -6,6 +6,17 @@
     "description": "CVE-2022 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/103564619?u=770213e670855e68b33e4ee4450df84ed778d709&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
+            "url": "https://github.com/TLD1027/CVE-2022-3910",
+            "title": "TLD1027/CVE-2022-3910",
+            "date_modified": "2024-07-26T02:30:17.000Z",
+            "date_published": "2024-07-26T02:21:08.000Z",
+            "author": {
+                "name": "TLD1027",
+                "url": "https://github.com/TLD1027"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/159681973?u=5f58ba628dbe5f9dc8bad03ec134367f6af6e2b7&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>历史漏洞的细节以及利用方法汇总收集</div>",
             "url": "https://github.com/OracleNep/Nday-Exploit-Plan",
             "title": "OracleNep/Nday-Exploit-Plan: 历史漏洞的细节以及利用方法汇总收集",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "SmileTabLabo",
                 "url": "https://github.com/SmileTabLabo"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/102907425?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Oracle E-Business Suite &lt;=12.2 - Authentication Bypass</div>",
-            "url": "https://github.com/Cappricio-Securities/CVE-2022-21500",
-            "title": "Cappricio-Securities/CVE-2022-21500: Oracle E-Business Suite <=12.2 - Authentication Bypass",
-            "date_modified": "2024-06-24T10:52:01.000Z",
-            "date_published": "2024-06-09T02:59:45.000Z",
-            "author": {
-                "name": "Cappricio-Securities",
-                "url": "https://github.com/Cappricio-Securities"
             }
         }
     ]
