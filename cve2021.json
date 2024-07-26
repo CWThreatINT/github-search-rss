@@ -6,6 +6,17 @@
     "description": "CVE-2021 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/43491476?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2021-44228 vulnerability study</div>",
+            "url": "https://github.com/asd58584388/CVE-2021-44228",
+            "title": "asd58584388/CVE-2021-44228: CVE-2021-44228 vulnerability study",
+            "date_modified": "2024-07-26T19:59:50.000Z",
+            "date_published": "2024-07-26T19:59:47.000Z",
+            "author": {
+                "name": "asd58584388",
+                "url": "https://github.com/asd58584388"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/170850781?u=ce100622f41a47db83308f8f6c2e5b74cc0d297c&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>POC Exploit for CVE-2021-31630 written in Python3 and using C reverse shell with non-blocking mode</div>",
             "url": "https://github.com/FlojBoj/CVE-2021-31630",
             "title": "FlojBoj/CVE-2021-31630: POC Exploit for CVE-2021-31630 written in Python3 and using C reverse shell with non-blocking mode",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "YangHyperData",
                 "url": "https://github.com/YangHyperData"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/174670608?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
-            "url": "https://github.com/Typical0day/CVE-2021-4034",
-            "title": "Typical0day/CVE-2021-4034",
-            "date_modified": "2024-07-04T02:34:26.000Z",
-            "date_published": "2024-07-04T02:33:57.000Z",
-            "author": {
-                "name": "Typical0day",
-                "url": "https://github.com/Typical0day"
             }
         }
     ]
