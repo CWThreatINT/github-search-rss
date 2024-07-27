@@ -9,8 +9,19 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/103961201?u=3d350369bdfc65ed264ec847797e0225c142f143&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2023-6553 exploit script</div>",
             "url": "https://github.com/cc3305/CVE-2023-6553",
             "title": "cc3305/CVE-2023-6553: CVE-2023-6553 exploit script",
-            "date_modified": "2024-07-27T17:34:00.000Z",
+            "date_modified": "2024-07-27T20:20:42.000Z",
             "date_published": "2024-06-29T17:01:51.000Z",
+            "author": {
+                "name": "cc3305",
+                "url": "https://github.com/cc3305"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/103961201?u=3d350369bdfc65ed264ec847797e0225c142f143&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2023-2825 exploit script</div>",
+            "url": "https://github.com/cc3305/CVE-2023-2825",
+            "title": "cc3305/CVE-2023-2825: CVE-2023-2825 exploit script",
+            "date_modified": "2024-07-27T20:19:49.000Z",
+            "date_published": "2024-06-20T20:22:01.000Z",
             "author": {
                 "name": "cc3305",
                 "url": "https://github.com/cc3305"
@@ -212,17 +223,6 @@
             "author": {
                 "name": "MaorBuskila",
                 "url": "https://github.com/MaorBuskila"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/134471901?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Scanner for CVE-2023-46805 - Ivanti Connect Secure</div>",
-            "url": "https://github.com/yoryio/CVE-2023-46805",
-            "title": "yoryio/CVE-2023-46805: Scanner for CVE-2023-46805 - Ivanti Connect Secure",
-            "date_modified": "2024-07-23T16:01:15.000Z",
-            "date_published": "2024-01-14T18:30:11.000Z",
-            "author": {
-                "name": "yoryio",
-                "url": "https://github.com/yoryio"
             }
         }
     ]
