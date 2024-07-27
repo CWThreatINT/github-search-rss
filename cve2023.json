@@ -6,6 +6,17 @@
     "description": "CVE-2023 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/130102748?u=798a2b777bf34b319dfb3e38b4575ba400514a6a&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>This is a script written in Python that allows the exploitation of the Chamilo's LMS software security flaw described in CVE-2023-4220</div>",
+            "url": "https://github.com/m3m0o/chamilo-lms-unauthenticated-big-upload-rce-poc",
+            "title": "m3m0o/chamilo-lms-unauthenticated-big-upload-rce-poc: This is a script written in Python that allows the exploitation of the Chamilo's LMS software security flaw described in CVE-2023-4220",
+            "date_modified": "2024-07-27T00:19:21.000Z",
+            "date_published": "2024-07-07T15:08:30.000Z",
+            "author": {
+                "name": "m3m0o",
+                "url": "https://github.com/m3m0o"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/134310220?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A go-exploit for Apache ActiveMQ CVE-2023-46604</div>",
             "url": "https://github.com/vulncheck-oss/cve-2023-46604",
             "title": "vulncheck-oss/cve-2023-46604: A go-exploit for Apache ActiveMQ CVE-2023-46604",
@@ -108,7 +119,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/144001335?u=c42bea7e07a206065e90fc34c073c2292c885b40&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>🚨 CVE-2023-45866 - BlueDucky Implementation (Using DuckyScript) 🔓 Unauthenticated Peering Leading to Code Execution (Using HID Keyboard)</div>",
             "url": "https://github.com/pentestfunctions/BlueDucky",
             "title": "pentestfunctions/BlueDucky: 🚨 CVE-2023-45866 - BlueDucky Implementation (Using DuckyScript) 🔓 Unauthenticated Peering Leading to Code Execution (Using HID Keyboard)",
-            "date_modified": "2024-07-26T21:05:13.000Z",
+            "date_modified": "2024-07-26T23:45:45.000Z",
             "date_published": "2024-01-16T06:52:02.000Z",
             "author": {
                 "name": "pentestfunctions",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "ze0r",
                 "url": "https://github.com/ze0r"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/61324033?u=f5df2331d4bc73c78af17ae350581ab7f7ec0737&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2023-3824</div>",
-            "url": "https://github.com/m1sn0w/CVE-2023-3824",
-            "title": "m1sn0w/CVE-2023-3824: CVE-2023-3824",
-            "date_modified": "2024-07-19T02:42:02.000Z",
-            "date_published": "2024-07-19T02:37:36.000Z",
-            "author": {
-                "name": "m1sn0w",
-                "url": "https://github.com/m1sn0w"
             }
         }
     ]
