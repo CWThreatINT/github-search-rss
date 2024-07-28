@@ -6,6 +6,17 @@
     "description": "CVE-2021 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/106730920?u=fe4627a037e41a976f3d999a70f0181d4c55af28&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>This repository contains scripts and resources for exploiting the Follina CVE and CVE-2021-40444 vulnerabilities in Microsoft Office. The scripts generate malicious document files that can execute arbitrary code on the target system.</div>",
+            "url": "https://github.com/basim-ahmad/Follina-CVE-and-CVE-2021-40444",
+            "title": "basim-ahmad/Follina-CVE-and-CVE-2021-40444: This repository contains scripts and resources for exploiting the Follina CVE and CVE-2021-40444 vulnerabilities in Microsoft Office. The scripts generate malicious document files that can execute arbitrary code on the target system.",
+            "date_modified": "2024-07-28T17:40:54.000Z",
+            "date_published": "2024-07-28T17:23:43.000Z",
+            "author": {
+                "name": "basim-ahmad",
+                "url": "https://github.com/basim-ahmad"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/86119333?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>在21年，SpringBlade框架曾发现一个JWT认证的漏洞。尽管我们搜索了许多基于原理的扫描工具，但没有找到能够支持这个漏洞的工具。可能是因为这个漏洞相对冷门而不被广泛关注。</div>",
             "url": "https://github.com/dockern/CVE-2021-44910_SpringBlade",
             "title": "dockern/CVE-2021-44910_SpringBlade: 在21年，SpringBlade框架曾发现一个JWT认证的漏洞。尽管我们搜索了许多基于原理的扫描工具，但没有找到能够支持这个漏洞的工具。可能是因为这个漏洞相对冷门而不被广泛关注。",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "thewhiteh4t",
                 "url": "https://github.com/thewhiteh4t"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/97350255?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>For learning purpose did a complete analysis on CVE-2021-40444 POC (proof of concept)</div>",
-            "url": "https://github.com/skitkat/CVE-2021-40444-POC",
-            "title": "skitkat/CVE-2021-40444-POC: For learning purpose did a complete analysis on CVE-2021-40444 POC (proof of concept)",
-            "date_modified": "2024-07-08T14:57:27.000Z",
-            "date_published": "2024-06-14T19:04:02.000Z",
-            "author": {
-                "name": "skitkat",
-                "url": "https://github.com/skitkat"
             }
         }
     ]
