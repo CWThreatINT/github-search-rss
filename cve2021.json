@@ -193,6 +193,17 @@
             }
         },
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/36354846?u=99d06a9237c301569774dac1c70218d5c032773a&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Python script for exploiting command injection in Open PLC Webserver v3</div>",
+            "url": "https://github.com/thewhiteh4t/cve-2021-31630",
+            "title": "thewhiteh4t/cve-2021-31630: Python script for exploiting command injection in Open PLC Webserver v3",
+            "date_modified": "2024-07-28T02:26:55.000Z",
+            "date_published": "2024-03-28T21:31:45.000Z",
+            "author": {
+                "name": "thewhiteh4t",
+                "url": "https://github.com/thewhiteh4t"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/97350255?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>For learning purpose did a complete analysis on CVE-2021-40444 POC (proof of concept)</div>",
             "url": "https://github.com/skitkat/CVE-2021-40444-POC",
             "title": "skitkat/CVE-2021-40444-POC: For learning purpose did a complete analysis on CVE-2021-40444 POC (proof of concept)",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "Typical0day",
                 "url": "https://github.com/Typical0day"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/71453093?u=a3da5d192e589905f1db01c9a246b53a4da00474&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>This script demonstrates a time-based blind SQL injection on Moodle platforms, exploiting response delays to extract data.</div>",
-            "url": "https://github.com/T0X1Cx/CVE-2021-36396-Exploit",
-            "title": "T0X1Cx/CVE-2021-36396-Exploit: This script demonstrates a time-based blind SQL injection on Moodle platforms, exploiting response delays to extract data.",
-            "date_modified": "2024-07-07T21:43:34.000Z",
-            "date_published": "2023-11-04T11:45:55.000Z",
-            "author": {
-                "name": "T0X1Cx",
-                "url": "https://github.com/T0X1Cx"
             }
         }
     ]
