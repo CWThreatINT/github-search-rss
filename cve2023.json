@@ -9,11 +9,22 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/18195825?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023</div>",
             "url": "https://github.com/CVEProject/cvelist",
             "title": "CVEProject/cvelist: Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023",
-            "date_modified": "2024-07-29T12:01:05.000Z",
+            "date_modified": "2024-07-29T13:01:02.000Z",
             "date_published": "2020-11-02T19:30:55.000Z",
             "author": {
                 "name": "CVEProject",
                 "url": "https://github.com/CVEProject"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/49879157?u=133acc3841808f2d1af1697b7ae164b1577d7f38&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div> Stakater Forecastle =&gt; v1.0.139 allows directory traversal in the website component</div>",
+            "url": "https://github.com/sahar042/CVE-2023-40297",
+            "title": "sahar042/CVE-2023-40297:  Stakater Forecastle => v1.0.139 allows directory traversal in the website component",
+            "date_modified": "2024-07-29T12:15:18.000Z",
+            "date_published": "2023-08-14T06:18:48.000Z",
+            "author": {
+                "name": "sahar042",
+                "url": "https://github.com/sahar042"
             }
         },
         {
@@ -212,17 +223,6 @@
             "author": {
                 "name": "pinpinsec",
                 "url": "https://github.com/pinpinsec"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/124352319?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>信呼 v2.3.2 针对CVE-2023-1773的研究环境</div>",
-            "url": "https://github.com/CTF-Archives/xinhu-v2.3.2",
-            "title": "CTF-Archives/xinhu-v2.3.2: 信呼 v2.3.2 针对CVE-2023-1773的研究环境",
-            "date_modified": "2024-07-25T05:06:36.000Z",
-            "date_published": "2024-07-22T17:07:33.000Z",
-            "author": {
-                "name": "CTF-Archives",
-                "url": "https://github.com/CTF-Archives"
             }
         }
     ]
