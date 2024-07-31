@@ -6,6 +6,17 @@
     "description": "CVE-2022 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/163496398?u=b3e2ce5430bb2de120fe8460da065c9919663673&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
+            "url": "https://github.com/jrbH4CK/CVE-2022-22963",
+            "title": "jrbH4CK/CVE-2022-22963",
+            "date_modified": "2024-07-30T23:22:39.000Z",
+            "date_published": "2024-05-08T04:25:29.000Z",
+            "author": {
+                "name": "jrbH4CK",
+                "url": "https://github.com/jrbH4CK"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/69148883?u=9a573201bbc1adeff87b245057c974e9d8159712&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Dirty COW restricted to shmem in linux kernel</div>",
             "url": "https://github.com/hyeonjun17/CVE-2022-2590-analysis",
             "title": "hyeonjun17/CVE-2022-2590-analysis: Dirty COW restricted to shmem in linux kernel",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "iamz24",
                 "url": "https://github.com/iamz24"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/153509222?u=22fc5f29dfee82c3bdab71c8e25086e46df42cb6&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>The exploit is tested on Ubuntu 22.04</div>",
-            "url": "https://github.com/AleksPwn/CVE-2022-37706",
-            "title": "AleksPwn/CVE-2022-37706: The exploit is tested on Ubuntu 22.04",
-            "date_modified": "2024-07-04T07:46:30.000Z",
-            "date_published": "2024-07-04T07:42:37.000Z",
-            "author": {
-                "name": "AleksPwn",
-                "url": "https://github.com/AleksPwn"
             }
         }
     ]
