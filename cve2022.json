@@ -6,6 +6,17 @@
     "description": "CVE-2022 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/66146701?u=582fd377537b9e72c83286b3912a4b27c994e96a&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Exploit script for CVE-2022-41544 in GetSimple CMS, with enhanced error handling and detailed usage instructions.</div>",
+            "url": "https://github.com/Sp3c73rSh4d0w/CVE-2022-41544",
+            "title": "Sp3c73rSh4d0w/CVE-2022-41544: Exploit script for CVE-2022-41544 in GetSimple CMS, with enhanced error handling and detailed usage instructions.",
+            "date_modified": "2024-07-31T18:37:04.000Z",
+            "date_published": "2024-07-31T18:27:53.000Z",
+            "author": {
+                "name": "Sp3c73rSh4d0w",
+                "url": "https://github.com/Sp3c73rSh4d0w"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/12976017?u=6d3d423fda6a56643a0ca1acae5223cdf08a3c28&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>This is a one-time signature verification bypass. For persistent signature verification bypass, check <a href=\"https://github.com/TomKing062/CVE-2022-38691_38692\">https://github.com/TomKing062/CVE-2022-38691_38692</a></div>",
             "url": "https://github.com/TomKing062/CVE-2022-38694_unlock_bootloader",
             "title": "TomKing062/CVE-2022-38694_unlock_bootloader: This is a one-time signature verification bypass. For persistent signature verification bypass, check https://github.com/TomKing062/CVE-2022-38691_38692",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "skitkat",
                 "url": "https://github.com/skitkat"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/98271783?u=86456af1e8507066ea2867c9ab8f39ab21411d99&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
-            "url": "https://github.com/ToontjeM/CVE-2022-21724",
-            "title": "ToontjeM/CVE-2022-21724",
-            "date_modified": "2024-07-08T07:13:59.000Z",
-            "date_published": "2024-07-08T07:13:55.000Z",
-            "author": {
-                "name": "ToontjeM",
-                "url": "https://github.com/ToontjeM"
             }
         }
     ]
