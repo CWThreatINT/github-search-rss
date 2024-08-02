@@ -9,11 +9,22 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/18195825?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023</div>",
             "url": "https://github.com/CVEProject/cvelist",
             "title": "CVEProject/cvelist: Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023",
-            "date_modified": "2024-08-02T06:01:05.000Z",
+            "date_modified": "2024-08-02T07:00:59.000Z",
             "date_published": "2020-11-02T19:30:55.000Z",
             "author": {
                 "name": "CVEProject",
                 "url": "https://github.com/CVEProject"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/59109697?u=117e039f6a582371731e903657a31e3f1b7480ee&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>This is a script written in Python that allows the exploitation of the Chamilo's LMS software security flaw described in CVE-2023-4220 </div>",
+            "url": "https://github.com/charchit-subedi/chamilo-lms-unauthenticated-rce-poc",
+            "title": "charchit-subedi/chamilo-lms-unauthenticated-rce-poc: This is a script written in Python that allows the exploitation of the Chamilo's LMS software security flaw described in CVE-2023-4220 ",
+            "date_modified": "2024-08-02T06:17:33.000Z",
+            "date_published": "2024-08-02T06:14:56.000Z",
+            "author": {
+                "name": "charchit-subedi",
+                "url": "https://github.com/charchit-subedi"
             }
         },
         {
@@ -212,17 +223,6 @@
             "author": {
                 "name": "Rai2en",
                 "url": "https://github.com/Rai2en"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/74649794?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE 2023-22515</div>",
-            "url": "https://github.com/Onedy1703/CVE-2023-22515",
-            "title": "Onedy1703/CVE-2023-22515: CVE 2023-22515",
-            "date_modified": "2024-07-24T15:04:55.000Z",
-            "date_published": "2024-07-21T17:19:36.000Z",
-            "author": {
-                "name": "Onedy1703",
-                "url": "https://github.com/Onedy1703"
             }
         }
     ]
