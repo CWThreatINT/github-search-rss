@@ -6,14 +6,36 @@
     "description": "CVE-2023 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/109107529?u=00ebcd62539926bdcf0f6da1130feea112998593&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2023-50564 PoC</div>",
+            "url": "https://github.com/ipuig/CVE-2023-50564",
+            "title": "ipuig/CVE-2023-50564: CVE-2023-50564 PoC",
+            "date_modified": "2024-08-02T14:03:32.000Z",
+            "date_published": "2024-08-02T13:37:39.000Z",
+            "author": {
+                "name": "ipuig",
+                "url": "https://github.com/ipuig"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/18195825?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023</div>",
             "url": "https://github.com/CVEProject/cvelist",
             "title": "CVEProject/cvelist: Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023",
-            "date_modified": "2024-08-02T13:01:06.000Z",
+            "date_modified": "2024-08-02T14:00:48.000Z",
             "date_published": "2020-11-02T19:30:55.000Z",
             "author": {
                 "name": "CVEProject",
                 "url": "https://github.com/CVEProject"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/4213469?u=8478bb4fbb206c6907053d2b50063cb5b7c06fcc&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Python Script that will DoS a WP server that is utilizing WP-CRON</div>",
+            "url": "https://github.com/michael-david-fry/CVE-2023-22622",
+            "title": "michael-david-fry/CVE-2023-22622: Python Script that will DoS a WP server that is utilizing WP-CRON",
+            "date_modified": "2024-08-02T13:26:56.000Z",
+            "date_published": "2024-03-20T13:48:48.000Z",
+            "author": {
+                "name": "michael-david-fry",
+                "url": "https://github.com/michael-david-fry"
             }
         },
         {
@@ -201,28 +223,6 @@
             "author": {
                 "name": "vulncheck-oss",
                 "url": "https://github.com/vulncheck-oss"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/134310220?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A go-exploit for Apache Druid CVE-2023-25194</div>",
-            "url": "https://github.com/vulncheck-oss/cve-2023-25194",
-            "title": "vulncheck-oss/cve-2023-25194: A go-exploit for Apache Druid CVE-2023-25194",
-            "date_modified": "2024-07-26T13:32:23.000Z",
-            "date_published": "2024-04-17T13:36:34.000Z",
-            "author": {
-                "name": "vulncheck-oss",
-                "url": "https://github.com/vulncheck-oss"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/87374678?u=3742519415eb6d6e2e47b95c4816b82dff5da0ca&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Implementation and exploitation of CVE-2023-7028 account takeover vulnerability related to GO-TO CVE weekly articles of the 11th week.</div>",
-            "url": "https://github.com/soltanali0/CVE-2023-7028",
-            "title": "soltanali0/CVE-2023-7028: Implementation and exploitation of CVE-2023-7028 account takeover vulnerability related to GO-TO CVE weekly articles of the 11th week.",
-            "date_modified": "2024-07-25T12:26:04.000Z",
-            "date_published": "2024-07-25T11:39:01.000Z",
-            "author": {
-                "name": "soltanali0",
-                "url": "https://github.com/soltanali0"
             }
         }
     ]
