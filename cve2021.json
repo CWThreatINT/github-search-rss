@@ -6,6 +6,17 @@
     "description": "CVE-2021 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/68890963?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Proof of concept exploit for CVE-2021-21551</div>",
+            "url": "https://github.com/Eap2468/CVE-2021-21551",
+            "title": "Eap2468/CVE-2021-21551: Proof of concept exploit for CVE-2021-21551",
+            "date_modified": "2024-08-02T20:23:02.000Z",
+            "date_published": "2024-08-02T20:14:27.000Z",
+            "author": {
+                "name": "Eap2468",
+                "url": "https://github.com/Eap2468"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/177087379?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
             "url": "https://github.com/bananoname/cve-2021-42013",
             "title": "bananoname/cve-2021-42013",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "piperpwn",
                 "url": "https://github.com/piperpwn"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/17744127?u=05d9fe9463b8042ea029bfd970b0aa20884d1af5&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2021-44228</div>",
-            "url": "https://github.com/ShlomiRex/log4shell_lab",
-            "title": "ShlomiRex/log4shell_lab: CVE-2021-44228",
-            "date_modified": "2024-07-15T07:35:10.000Z",
-            "date_published": "2023-11-30T18:55:40.000Z",
-            "author": {
-                "name": "ShlomiRex",
-                "url": "https://github.com/ShlomiRex"
             }
         }
     ]
