@@ -6,6 +6,17 @@
     "description": "CVE-2021 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/16516497?u=de50f2a7b07c84d20687e67b02c4567eef4cf94e&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Laravel RCE (CVE-2021-3129)</div>",
+            "url": "https://github.com/joshuavanderpoll/CVE-2021-3129",
+            "title": "joshuavanderpoll/CVE-2021-3129: Laravel RCE (CVE-2021-3129)",
+            "date_modified": "2024-08-05T13:03:59.000Z",
+            "date_published": "2022-04-16T17:22:55.000Z",
+            "author": {
+                "name": "joshuavanderpoll",
+                "url": "https://github.com/joshuavanderpoll"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/106393710?u=7541c09c02ae7f03adf395c67b60d7d0e141755c&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Some test files to make a good nuclei template for a JQuery UI XSS vuln</div>",
             "url": "https://github.com/aredspy/CVE-2021-41182-Tester",
             "title": "aredspy/CVE-2021-41182-Tester: Some test files to make a good nuclei template for a JQuery UI XSS vuln",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "RyanBoomer30",
                 "url": "https://github.com/RyanBoomer30"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/114837630?u=5df06720742508e503ad442920c87f22bad07e75&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>On October 4, 2021, Apache HTTP Server Project released Security advisory on a Path traversal and File disclosure vulnerability in Apache HTTP Server 2.4.49 and 2.4.50 tracked as CVE-2021-41773 and CVE-2021-42013. In the advisory, Apache also highlighted “the issue is known to be exploited in the wild” and later it was identified that the vulnerabi</div>",
-            "url": "https://github.com/Jhonsonwannaa/cve-2021-42013-apache",
-            "title": "Jhonsonwannaa/cve-2021-42013-apache: On October 4, 2021, Apache HTTP Server Project released Security advisory on a Path traversal and File disclosure vulnerability in Apache HTTP Server 2.4.49 and 2.4.50 tracked as CVE-2021-41773 and CVE-2021-42013. In the advisory, Apache also highlighted “the issue is known to be exploited in the wild” and later it was identified that the vulnerabi",
-            "date_modified": "2024-07-18T14:23:38.000Z",
-            "date_published": "2024-07-16T00:12:18.000Z",
-            "author": {
-                "name": "Jhonsonwannaa",
-                "url": "https://github.com/Jhonsonwannaa"
             }
         }
     ]
