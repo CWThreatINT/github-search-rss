@@ -6,6 +6,28 @@
     "description": "CVE-2021 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/106393710?u=7541c09c02ae7f03adf395c67b60d7d0e141755c&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Some test files to make a good nuclei template for a JQuery UI XSS vuln</div>",
+            "url": "https://github.com/aredspy/CVE-2021-41182-Tester",
+            "title": "aredspy/CVE-2021-41182-Tester: Some test files to make a good nuclei template for a JQuery UI XSS vuln",
+            "date_modified": "2024-08-05T09:33:18.000Z",
+            "date_published": "2024-08-05T09:31:05.000Z",
+            "author": {
+                "name": "aredspy",
+                "url": "https://github.com/aredspy"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/106393710?u=7541c09c02ae7f03adf395c67b60d7d0e141755c&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
+            "url": "https://github.com/aredspy/CVE-2021-41182",
+            "title": "aredspy/CVE-2021-41182",
+            "date_modified": "2024-08-05T09:27:57.000Z",
+            "date_published": "2024-08-05T09:27:56.000Z",
+            "author": {
+                "name": "aredspy",
+                "url": "https://github.com/aredspy"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/68890963?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Proof of concept exploit for CVE-2021-21551</div>",
             "url": "https://github.com/Eap2468/CVE-2021-21551",
             "title": "Eap2468/CVE-2021-21551: Proof of concept exploit for CVE-2021-21551",
@@ -201,28 +223,6 @@
             "author": {
                 "name": "Jhonsonwannaa",
                 "url": "https://github.com/Jhonsonwannaa"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/10403781?u=a3608c76b14a9717f2f35bba52650de21cd53348&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>This script exploits the \"Port Shadow\" vulnerability (CVE-2021-3773) in OpenVPN servers using Netfilter for NAT.</div>",
-            "url": "https://github.com/d0rb/CVE-2021-3773",
-            "title": "d0rb/CVE-2021-3773: This script exploits the \"Port Shadow\" vulnerability (CVE-2021-3773) in OpenVPN servers using Netfilter for NAT.",
-            "date_modified": "2024-07-18T06:54:23.000Z",
-            "date_published": "2024-07-18T06:43:12.000Z",
-            "author": {
-                "name": "d0rb",
-                "url": "https://github.com/d0rb"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/77881655?u=e4ec6df6328332abc7477c7846a7ba152cdd0dd8&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Laravel Debug Mode and Payload</div>",
-            "url": "https://github.com/piperpwn/CVE-2021-3129-",
-            "title": "piperpwn/CVE-2021-3129-: Laravel Debug Mode and Payload",
-            "date_modified": "2024-07-16T06:58:38.000Z",
-            "date_published": "2024-07-16T06:48:24.000Z",
-            "author": {
-                "name": "piperpwn",
-                "url": "https://github.com/piperpwn"
             }
         }
     ]
