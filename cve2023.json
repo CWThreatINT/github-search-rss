@@ -7,13 +7,24 @@
     "items": [
         {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/94828747?u=5cbcedd1bf3f7905c23f0b35d529e43b2022ff44&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Proof of concept on Unauthenticated Administrator Email Disclosure CVE-2023-6444</div>",
-            "url": "https://github.com/Wayne-Ker/CVE-202306444-POC",
-            "title": "Wayne-Ker/CVE-202306444-POC: Proof of concept on Unauthenticated Administrator Email Disclosure CVE-2023-6444",
-            "date_modified": "2024-08-07T01:58:45.000Z",
+            "url": "https://github.com/Wayne-Ker/CVE-2023-6444-POC",
+            "title": "Wayne-Ker/CVE-2023-6444-POC: Proof of concept on Unauthenticated Administrator Email Disclosure CVE-2023-6444",
+            "date_modified": "2024-08-07T02:23:47.000Z",
             "date_published": "2024-08-07T01:58:04.000Z",
             "author": {
                 "name": "Wayne-Ker",
                 "url": "https://github.com/Wayne-Ker"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/18195825?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023</div>",
+            "url": "https://github.com/CVEProject/cvelist",
+            "title": "CVEProject/cvelist: Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023",
+            "date_modified": "2024-08-07T02:01:04.000Z",
+            "date_published": "2020-11-02T19:30:55.000Z",
+            "author": {
+                "name": "CVEProject",
+                "url": "https://github.com/CVEProject"
             }
         },
         {
@@ -25,17 +36,6 @@
             "author": {
                 "name": "GhostTroops",
                 "url": "https://github.com/GhostTroops"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/18195825?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023</div>",
-            "url": "https://github.com/CVEProject/cvelist",
-            "title": "CVEProject/cvelist: Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023",
-            "date_modified": "2024-08-07T00:01:11.000Z",
-            "date_published": "2020-11-02T19:30:55.000Z",
-            "author": {
-                "name": "CVEProject",
-                "url": "https://github.com/CVEProject"
             }
         },
         {
