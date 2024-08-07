@@ -6,6 +6,28 @@
     "description": "CVE-2023 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/94828747?u=5cbcedd1bf3f7905c23f0b35d529e43b2022ff44&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Proof of concept on Unauthenticated Administrator Email Disclosure CVE-2023-6444</div>",
+            "url": "https://github.com/Wayne-Ker/CVE-202306444-POC",
+            "title": "Wayne-Ker/CVE-202306444-POC: Proof of concept on Unauthenticated Administrator Email Disclosure CVE-2023-6444",
+            "date_modified": "2024-08-07T01:58:45.000Z",
+            "date_published": "2024-08-07T01:58:04.000Z",
+            "author": {
+                "name": "Wayne-Ker",
+                "url": "https://github.com/Wayne-Ker"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/151980876?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>TOP All bugbounty pentesting CVE-2023- POC Exp  RCE example payload  Things</div>",
+            "url": "https://github.com/GhostTroops/TOP",
+            "title": "GhostTroops/TOP: TOP All bugbounty pentesting CVE-2023- POC Exp  RCE example payload  Things",
+            "date_modified": "2024-08-07T00:57:30.000Z",
+            "date_published": "2022-03-19T01:54:15.000Z",
+            "author": {
+                "name": "GhostTroops",
+                "url": "https://github.com/GhostTroops"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/18195825?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023</div>",
             "url": "https://github.com/CVEProject/cvelist",
             "title": "CVEProject/cvelist: Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023",
@@ -17,7 +39,7 @@
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/18398621?u=beb8fa43e43ef934db336b2dd15f45509d4cc27c&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>This Python application scans for the CVE-2023-38831 vulnerability in WinRAR.</div>",
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/18398621?u=bf3c3d6fe08236193f8441310fffc288d016bccb&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>This Python application scans for the CVE-2023-38831 vulnerability in WinRAR.</div>",
             "url": "https://github.com/yezzfusl/cve_2023_38831_scanner",
             "title": "yezzfusl/cve_2023_38831_scanner: This Python application scans for the CVE-2023-38831 vulnerability in WinRAR.",
             "date_modified": "2024-08-06T14:44:37.000Z",
@@ -36,17 +58,6 @@
             "author": {
                 "name": "X-Projetion",
                 "url": "https://github.com/X-Projetion"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/151980876?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>TOP All bugbounty pentesting CVE-2023- POC Exp  RCE example payload  Things</div>",
-            "url": "https://github.com/GhostTroops/TOP",
-            "title": "GhostTroops/TOP: TOP All bugbounty pentesting CVE-2023- POC Exp  RCE example payload  Things",
-            "date_modified": "2024-08-06T00:56:43.000Z",
-            "date_published": "2022-03-19T01:54:15.000Z",
-            "author": {
-                "name": "GhostTroops",
-                "url": "https://github.com/GhostTroops"
             }
         },
         {
@@ -212,17 +223,6 @@
             "author": {
                 "name": "L41KAA",
                 "url": "https://github.com/L41KAA"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/134310220?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A go-exploit to scan for Juniper firewalls vulnerable to CVE-2023-36845</div>",
-            "url": "https://github.com/vulncheck-oss/cve-2023-36845-scanner",
-            "title": "vulncheck-oss/cve-2023-36845-scanner: A go-exploit to scan for Juniper firewalls vulnerable to CVE-2023-36845",
-            "date_modified": "2024-07-27T09:07:06.000Z",
-            "date_published": "2023-09-16T09:11:21.000Z",
-            "author": {
-                "name": "vulncheck-oss",
-                "url": "https://github.com/vulncheck-oss"
             }
         }
     ]
