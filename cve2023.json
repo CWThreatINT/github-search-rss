@@ -6,25 +6,25 @@
     "description": "CVE-2023 FEED on GitHub",
     "items": [
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/63135823?u=30c5642aa375cad98de9b22ea56d5dcb2a943fd2&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Exploit script for CVE-2023-24249 - a vulnerability allowing remote code execution via file upload and command injection.</div>",
-            "url": "https://github.com/IDUZZEL/CVE-2023-24249-Exploit",
-            "title": "IDUZZEL/CVE-2023-24249-Exploit: Exploit script for CVE-2023-24249 - a vulnerability allowing remote code execution via file upload and command injection.",
-            "date_modified": "2024-08-07T04:05:49.000Z",
-            "date_published": "2024-08-07T03:36:01.000Z",
-            "author": {
-                "name": "IDUZZEL",
-                "url": "https://github.com/IDUZZEL"
-            }
-        },
-        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/18195825?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023</div>",
             "url": "https://github.com/CVEProject/cvelist",
             "title": "CVEProject/cvelist: Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023",
-            "date_modified": "2024-08-07T04:01:03.000Z",
+            "date_modified": "2024-08-07T05:01:07.000Z",
             "date_published": "2020-11-02T19:30:55.000Z",
             "author": {
                 "name": "CVEProject",
                 "url": "https://github.com/CVEProject"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/63135823?u=30c5642aa375cad98de9b22ea56d5dcb2a943fd2&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Exploit script for CVE-2023-24249 - a vulnerability allowing remote code execution via file upload and command injection.</div>",
+            "url": "https://github.com/IDUZZEL/CVE-2023-24249-Exploit",
+            "title": "IDUZZEL/CVE-2023-24249-Exploit: Exploit script for CVE-2023-24249 - a vulnerability allowing remote code execution via file upload and command injection.",
+            "date_modified": "2024-08-07T04:43:19.000Z",
+            "date_published": "2024-08-07T04:36:44.000Z",
+            "author": {
+                "name": "IDUZZEL",
+                "url": "https://github.com/IDUZZEL"
             }
         },
         {
