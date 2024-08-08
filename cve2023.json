@@ -9,11 +9,22 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/18195825?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023</div>",
             "url": "https://github.com/CVEProject/cvelist",
             "title": "CVEProject/cvelist: Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023",
-            "date_modified": "2024-08-08T06:01:03.000Z",
+            "date_modified": "2024-08-08T08:01:11.000Z",
             "date_published": "2020-11-02T19:30:55.000Z",
             "author": {
                 "name": "CVEProject",
                 "url": "https://github.com/CVEProject"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/140469824?u=3e9537d19826d79d7e6297f8df3d65bf64ea228e&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>The PoC of CVE-2023-36123</div>",
+            "url": "https://github.com/9Bakabaka/CVE-2023-36123",
+            "title": "9Bakabaka/CVE-2023-36123: The PoC of CVE-2023-36123",
+            "date_modified": "2024-08-08T07:40:26.000Z",
+            "date_published": "2023-09-06T14:29:18.000Z",
+            "author": {
+                "name": "9Bakabaka",
+                "url": "https://github.com/9Bakabaka"
             }
         },
         {
@@ -209,17 +220,6 @@
             "title": "cc3305/CVE-2023-6553: CVE-2023-6553 exploit script",
             "date_modified": "2024-07-27T20:20:42.000Z",
             "date_published": "2024-06-29T17:01:51.000Z",
-            "author": {
-                "name": "cc3305",
-                "url": "https://github.com/cc3305"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/103961201?u=3d350369bdfc65ed264ec847797e0225c142f143&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2023-2825 exploit script</div>",
-            "url": "https://github.com/cc3305/CVE-2023-2825",
-            "title": "cc3305/CVE-2023-2825: CVE-2023-2825 exploit script",
-            "date_modified": "2024-07-27T20:19:49.000Z",
-            "date_published": "2024-06-20T20:22:01.000Z",
             "author": {
                 "name": "cc3305",
                 "url": "https://github.com/cc3305"
