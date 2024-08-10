@@ -6,25 +6,25 @@
     "description": "CVE-2023 FEED on GitHub",
     "items": [
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/81826371?u=1f1864122a06360571406243d34ee41aa123efeb&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Metabase open source before 0.46.6.1 and Metabase Enterprise before 1.46.6.1 allow attackers to execute arbitrary commands on the server, at the server's privilege level. Authentication is not required for exploitation. The other fixed versions are 0.45.4.1, 1.45.4.1, 0.44.7.1, 1.44.7.1, 0.43.7.2, and 1.43.7.2.</div>",
-            "url": "https://github.com/birdm4nw/CVE-2023-38646",
-            "title": "birdm4nw/CVE-2023-38646: Metabase open source before 0.46.6.1 and Metabase Enterprise before 1.46.6.1 allow attackers to execute arbitrary commands on the server, at the server's privilege level. Authentication is not required for exploitation. The other fixed versions are 0.45.4.1, 1.45.4.1, 0.44.7.1, 1.44.7.1, 0.43.7.2, and 1.43.7.2.",
-            "date_modified": "2024-08-10T06:09:17.000Z",
-            "date_published": "2023-10-17T07:43:58.000Z",
-            "author": {
-                "name": "birdm4nw",
-                "url": "https://github.com/birdm4nw"
-            }
-        },
-        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/18195825?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023</div>",
             "url": "https://github.com/CVEProject/cvelist",
             "title": "CVEProject/cvelist: Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023",
-            "date_modified": "2024-08-10T06:01:02.000Z",
+            "date_modified": "2024-08-10T07:01:02.000Z",
             "date_published": "2020-11-02T19:30:55.000Z",
             "author": {
                 "name": "CVEProject",
                 "url": "https://github.com/CVEProject"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/81826371?u=1f1864122a06360571406243d34ee41aa123efeb&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>This script is designed to exploit vulnerable Metabase software versions by providing you as attacker a shell.</div>",
+            "url": "https://github.com/birdm4nw/CVE-2023-38646",
+            "title": "birdm4nw/CVE-2023-38646: This script is designed to exploit vulnerable Metabase software versions by providing you as attacker a shell.",
+            "date_modified": "2024-08-10T06:24:08.000Z",
+            "date_published": "2023-10-17T07:43:58.000Z",
+            "author": {
+                "name": "birdm4nw",
+                "url": "https://github.com/birdm4nw"
             }
         },
         {
