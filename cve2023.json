@@ -6,6 +6,17 @@
     "description": "CVE-2023 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/71108402?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A bash automation that exploits the vulnerable endpoints for the Joomla! API 4.0 - 4.2.7</div>",
+            "url": "https://github.com/Aureum01/CVE-2023-23752",
+            "title": "Aureum01/CVE-2023-23752: A bash automation that exploits the vulnerable endpoints for the Joomla! API 4.0 - 4.2.7",
+            "date_modified": "2024-08-11T14:58:48.000Z",
+            "date_published": "2024-08-11T14:55:50.000Z",
+            "author": {
+                "name": "Aureum01",
+                "url": "https://github.com/Aureum01"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/18195825?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023</div>",
             "url": "https://github.com/CVEProject/cvelist",
             "title": "CVEProject/cvelist: Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "g4nkd",
                 "url": "https://github.com/g4nkd"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/2565849?u=680a09f06a2ae95ee078738abd64f8b13b3387af&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2023-43040 PoC</div>",
-            "url": "https://github.com/riza/CVE-2023-43040",
-            "title": "riza/CVE-2023-43040: CVE-2023-43040 PoC",
-            "date_modified": "2024-07-30T05:53:26.000Z",
-            "date_published": "2024-07-29T17:39:14.000Z",
-            "author": {
-                "name": "riza",
-                "url": "https://github.com/riza"
             }
         }
     ]
