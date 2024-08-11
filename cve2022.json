@@ -9,7 +9,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/137893386?u=d8ae31ca086382549eecf57a1a5f2b835b7ff881&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>it is script that enables Telnet on routers by sending a specially crafted request. The script allows users to specify the router's URL, Telnet port, and password. It validates the inputs and logs the process, providing feedback on whether the exploit was successful.</div>",
             "url": "https://github.com/geniuszlyy/CVE-2022-46080",
             "title": "geniuszlyy/CVE-2022-46080: it is script that enables Telnet on routers by sending a specially crafted request. The script allows users to specify the router's URL, Telnet port, and password. It validates the inputs and logs the process, providing feedback on whether the exploit was successful.",
-            "date_modified": "2024-08-11T12:32:16.000Z",
+            "date_modified": "2024-08-11T16:10:10.000Z",
             "date_published": "2024-08-09T19:32:32.000Z",
             "author": {
                 "name": "geniuszlyy",
@@ -20,7 +20,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/137893386?u=d8ae31ca086382549eecf57a1a5f2b835b7ff881&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>it is script designed to exploit certain vulnerabilities in routers by sending payloads through SNMP (Simple Network Management Protocol). The script automates the process of authorization, payload generation, and execution, allowing for remote command execution on the target device.</div>",
             "url": "https://github.com/geniuszlyy/CVE-2022-45701",
             "title": "geniuszlyy/CVE-2022-45701: it is script designed to exploit certain vulnerabilities in routers by sending payloads through SNMP (Simple Network Management Protocol). The script automates the process of authorization, payload generation, and execution, allowing for remote command execution on the target device.",
-            "date_modified": "2024-08-09T19:43:17.000Z",
+            "date_modified": "2024-08-11T16:09:27.000Z",
             "date_published": "2024-08-09T19:30:20.000Z",
             "author": {
                 "name": "geniuszlyy",
@@ -31,7 +31,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/137893386?u=d8ae31ca086382549eecf57a1a5f2b835b7ff881&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>it is script designed to interact with a router by sending a payload to its system tools. The script retrieves the router's configuration from environment variables to ensure security. It includes functions for generating an authorization header, sending a payload, and logging the process.</div>",
             "url": "https://github.com/geniuszlyy/CVE-2022-44149",
             "title": "geniuszlyy/CVE-2022-44149: it is script designed to interact with a router by sending a payload to its system tools. The script retrieves the router's configuration from environment variables to ensure security. It includes functions for generating an authorization header, sending a payload, and logging the process.",
-            "date_modified": "2024-08-09T19:43:17.000Z",
+            "date_modified": "2024-08-11T16:09:23.000Z",
             "date_published": "2024-08-09T19:27:22.000Z",
             "author": {
                 "name": "geniuszlyy",
