@@ -9,11 +9,22 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/18195825?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023</div>",
             "url": "https://github.com/CVEProject/cvelist",
             "title": "CVEProject/cvelist: Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023",
-            "date_modified": "2024-08-12T11:01:09.000Z",
+            "date_modified": "2024-08-12T12:01:08.000Z",
             "date_published": "2020-11-02T19:30:55.000Z",
             "author": {
                 "name": "CVEProject",
                 "url": "https://github.com/CVEProject"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/32686360?u=5d9be61f792f41f7f7c5e08e64006d4f148e0842&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Read more at Medium</div>",
+            "url": "https://github.com/mnqazi/CVE-2023-33977",
+            "title": "mnqazi/CVE-2023-33977: Read more at Medium",
+            "date_modified": "2024-08-12T11:16:42.000Z",
+            "date_published": "2023-06-01T13:10:31.000Z",
+            "author": {
+                "name": "mnqazi",
+                "url": "https://github.com/mnqazi"
             }
         },
         {
@@ -212,17 +223,6 @@
             "author": {
                 "name": "ipuig",
                 "url": "https://github.com/ipuig"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/4213469?u=8478bb4fbb206c6907053d2b50063cb5b7c06fcc&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Python Script that will DoS a WP server that is utilizing WP-CRON</div>",
-            "url": "https://github.com/michael-david-fry/CVE-2023-22622",
-            "title": "michael-david-fry/CVE-2023-22622: Python Script that will DoS a WP server that is utilizing WP-CRON",
-            "date_modified": "2024-08-02T13:26:56.000Z",
-            "date_published": "2024-03-20T13:48:48.000Z",
-            "author": {
-                "name": "michael-david-fry",
-                "url": "https://github.com/michael-david-fry"
             }
         }
     ]
