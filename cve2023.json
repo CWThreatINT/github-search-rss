@@ -6,6 +6,17 @@
     "description": "CVE-2023 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/174169862?u=72247a02d70e045d10187ead04d75c579f5a07a9&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>WonderCMS RCE CVE-2023-41425</div>",
+            "url": "https://github.com/insomnia-jacob/CVE-2023-41425",
+            "title": "insomnia-jacob/CVE-2023-41425: WonderCMS RCE CVE-2023-41425",
+            "date_modified": "2024-08-12T06:55:33.000Z",
+            "date_published": "2024-08-12T06:16:17.000Z",
+            "author": {
+                "name": "insomnia-jacob",
+                "url": "https://github.com/insomnia-jacob"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/18195825?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023</div>",
             "url": "https://github.com/CVEProject/cvelist",
             "title": "CVEProject/cvelist: Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "Jhonsonwannaa",
                 "url": "https://github.com/Jhonsonwannaa"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/59109697?u=117e039f6a582371731e903657a31e3f1b7480ee&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>This is a script written in Python that allows the exploitation of the Chamilo's LMS software security flaw described in CVE-2023-4220 </div>",
-            "url": "https://github.com/charchit-subedi/chamilo-lms-unauthenticated-rce-poc",
-            "title": "charchit-subedi/chamilo-lms-unauthenticated-rce-poc: This is a script written in Python that allows the exploitation of the Chamilo's LMS software security flaw described in CVE-2023-4220 ",
-            "date_modified": "2024-08-02T06:17:33.000Z",
-            "date_published": "2024-08-02T06:14:56.000Z",
-            "author": {
-                "name": "charchit-subedi",
-                "url": "https://github.com/charchit-subedi"
             }
         }
     ]
