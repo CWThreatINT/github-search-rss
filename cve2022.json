@@ -17,39 +17,6 @@
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/137893386?u=d8ae31ca086382549eecf57a1a5f2b835b7ff881&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>it is script that enables Telnet on routers by sending a specially crafted request. The script allows users to specify the router's URL, Telnet port, and password. It validates the inputs and logs the process, providing feedback on whether the exploit was successful.</div>",
-            "url": "https://github.com/geniuszlyy/CVE-2022-46080",
-            "title": "geniuszlyy/CVE-2022-46080: it is script that enables Telnet on routers by sending a specially crafted request. The script allows users to specify the router's URL, Telnet port, and password. It validates the inputs and logs the process, providing feedback on whether the exploit was successful.",
-            "date_modified": "2024-08-12T07:08:10.000Z",
-            "date_published": "2024-08-09T19:32:32.000Z",
-            "author": {
-                "name": "geniuszlyy",
-                "url": "https://github.com/geniuszlyy"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/137893386?u=d8ae31ca086382549eecf57a1a5f2b835b7ff881&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>it is script designed to exploit certain vulnerabilities in routers by sending payloads through SNMP (Simple Network Management Protocol). The script automates the process of authorization, payload generation, and execution, allowing for remote command execution on the target device.</div>",
-            "url": "https://github.com/geniuszlyy/CVE-2022-45701",
-            "title": "geniuszlyy/CVE-2022-45701: it is script designed to exploit certain vulnerabilities in routers by sending payloads through SNMP (Simple Network Management Protocol). The script automates the process of authorization, payload generation, and execution, allowing for remote command execution on the target device.",
-            "date_modified": "2024-08-12T07:08:10.000Z",
-            "date_published": "2024-08-09T19:30:20.000Z",
-            "author": {
-                "name": "geniuszlyy",
-                "url": "https://github.com/geniuszlyy"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/137893386?u=d8ae31ca086382549eecf57a1a5f2b835b7ff881&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>it is script designed to interact with a router by sending a payload to its system tools. The script retrieves the router's configuration from environment variables to ensure security. It includes functions for generating an authorization header, sending a payload, and logging the process.</div>",
-            "url": "https://github.com/geniuszlyy/CVE-2022-44149",
-            "title": "geniuszlyy/CVE-2022-44149: it is script designed to interact with a router by sending a payload to its system tools. The script retrieves the router's configuration from environment variables to ensure security. It includes functions for generating an authorization header, sending a payload, and logging the process.",
-            "date_modified": "2024-08-12T07:08:10.000Z",
-            "date_published": "2024-08-09T19:27:22.000Z",
-            "author": {
-                "name": "geniuszlyy",
-                "url": "https://github.com/geniuszlyy"
-            }
-        },
-        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/66146701?u=0a55e2fb9bdf79f8eea9ce2271cfb4e7e1954195&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Exploit script for CVE-2022-41544 in GetSimple CMS, with enhanced error handling and detailed usage instructions.</div>",
             "url": "https://github.com/N3rdyN3xus/CVE-2022-41544",
             "title": "N3rdyN3xus/CVE-2022-41544: Exploit script for CVE-2022-41544 in GetSimple CMS, with enhanced error handling and detailed usage instructions.",
@@ -223,6 +190,39 @@
             "author": {
                 "name": "OracleNep",
                 "url": "https://github.com/OracleNep"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/37070105?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Bypass for Symantec Endpoint Protection's Client User Interface Password</div>",
+            "url": "https://github.com/apeppels/CVE-2022-37017",
+            "title": "apeppels/CVE-2022-37017: Bypass for Symantec Endpoint Protection's Client User Interface Password",
+            "date_modified": "2024-07-21T12:43:43.000Z",
+            "date_published": "2024-07-21T12:26:35.000Z",
+            "author": {
+                "name": "apeppels",
+                "url": "https://github.com/apeppels"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/82314652?u=7137d844abe5533d4d9db5c9c783801f01661946&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Educational exploit for CVE-2022-30190</div>",
+            "url": "https://github.com/ethicalblue/Follina-CVE-2022-30190-Sample",
+            "title": "ethicalblue/Follina-CVE-2022-30190-Sample: Educational exploit for CVE-2022-30190",
+            "date_modified": "2024-07-20T19:56:33.000Z",
+            "date_published": "2024-07-20T17:50:48.000Z",
+            "author": {
+                "name": "ethicalblue",
+                "url": "https://github.com/ethicalblue"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/120341635?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2022-37706-Enlightenment v0.25.3 - Privilege escalation</div>",
+            "url": "https://github.com/TACTICAL-HACK/CVE-2022-37706-SUID",
+            "title": "TACTICAL-HACK/CVE-2022-37706-SUID: CVE-2022-37706-Enlightenment v0.25.3 - Privilege escalation",
+            "date_modified": "2024-07-20T15:53:52.000Z",
+            "date_published": "2024-07-19T23:12:40.000Z",
+            "author": {
+                "name": "TACTICAL-HACK",
+                "url": "https://github.com/TACTICAL-HACK"
             }
         }
     ]
