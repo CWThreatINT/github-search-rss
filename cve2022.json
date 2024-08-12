@@ -6,6 +6,17 @@
     "description": "CVE-2022 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/4451504?u=e87b8d974e3da44dded6269df8add4b08bb2e164&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Proof of Concept for CVE-2022-38725 against syslog-ng</div>",
+            "url": "https://github.com/wdahlenburg/CVE-2022-38725",
+            "title": "wdahlenburg/CVE-2022-38725: Proof of Concept for CVE-2022-38725 against syslog-ng",
+            "date_modified": "2024-08-12T18:32:01.000Z",
+            "date_published": "2024-08-12T17:27:57.000Z",
+            "author": {
+                "name": "wdahlenburg",
+                "url": "https://github.com/wdahlenburg"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/53938283?u=dea31bb990a555ce34e7e497fa8f0ba4255090a0&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>This script is a proof-of-concept exploit for pfBlockerNG &lt;= 2.1.4_26 that allows for remote code execution. It takes a single target URL or a list of URLs, tries to upload a shell using multiple payloads, executes a command, and then deletes the shell.</div>",
             "url": "https://github.com/ArunHAtter/CVE-2022-31814",
             "title": "ArunHAtter/CVE-2022-31814: This script is a proof-of-concept exploit for pfBlockerNG <= 2.1.4_26 that allows for remote code execution. It takes a single target URL or a list of URLs, tries to upload a shell using multiple payloads, executes a command, and then deletes the shell.",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "ethicalblue",
                 "url": "https://github.com/ethicalblue"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/120341635?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2022-37706-Enlightenment v0.25.3 - Privilege escalation</div>",
-            "url": "https://github.com/TACTICAL-HACK/CVE-2022-37706-SUID",
-            "title": "TACTICAL-HACK/CVE-2022-37706-SUID: CVE-2022-37706-Enlightenment v0.25.3 - Privilege escalation",
-            "date_modified": "2024-07-20T15:53:52.000Z",
-            "date_published": "2024-07-19T23:12:40.000Z",
-            "author": {
-                "name": "TACTICAL-HACK",
-                "url": "https://github.com/TACTICAL-HACK"
             }
         }
     ]
