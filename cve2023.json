@@ -9,7 +9,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/18195825?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023</div>",
             "url": "https://github.com/CVEProject/cvelist",
             "title": "CVEProject/cvelist: Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023",
-            "date_modified": "2024-08-12T02:01:03.000Z",
+            "date_modified": "2024-08-12T03:01:06.000Z",
             "date_published": "2020-11-02T19:30:55.000Z",
             "author": {
                 "name": "CVEProject",
@@ -69,6 +69,17 @@
             "author": {
                 "name": "birdm4nw",
                 "url": "https://github.com/birdm4nw"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/90048856?u=a4706502cd5c603fd966db560e6d26fb9e260332&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Newbie's approach to firmware hacking</div>",
+            "url": "https://github.com/HoangREALER/CVE-2023-27216",
+            "title": "HoangREALER/CVE-2023-27216: Newbie's approach to firmware hacking",
+            "date_modified": "2024-08-12T02:32:34.000Z",
+            "date_published": "2024-08-09T10:05:34.000Z",
+            "author": {
+                "name": "HoangREALER",
+                "url": "https://github.com/HoangREALER"
             }
         },
         {
@@ -212,17 +223,6 @@
             "author": {
                 "name": "charchit-subedi",
                 "url": "https://github.com/charchit-subedi"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/134310220?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Three go-exploits exploiting CVE-2023-22527 to execute arbitrary code in memory</div>",
-            "url": "https://github.com/vulncheck-oss/cve-2023-22527",
-            "title": "vulncheck-oss/cve-2023-22527: Three go-exploits exploiting CVE-2023-22527 to execute arbitrary code in memory",
-            "date_modified": "2024-07-31T10:07:52.000Z",
-            "date_published": "2024-03-04T19:09:57.000Z",
-            "author": {
-                "name": "vulncheck-oss",
-                "url": "https://github.com/vulncheck-oss"
             }
         }
     ]
