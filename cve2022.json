@@ -6,6 +6,17 @@
     "description": "CVE-2022 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/53938283?u=dea31bb990a555ce34e7e497fa8f0ba4255090a0&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>This script is a proof-of-concept exploit for pfBlockerNG &lt;= 2.1.4_26 that allows for remote code execution. It takes a single target URL or a list of URLs, tries to upload a shell using multiple payloads, executes a command, and then deletes the shell.</div>",
+            "url": "https://github.com/ArunHAtter/CVE-2022-31814",
+            "title": "ArunHAtter/CVE-2022-31814: This script is a proof-of-concept exploit for pfBlockerNG <= 2.1.4_26 that allows for remote code execution. It takes a single target URL or a list of URLs, tries to upload a shell using multiple payloads, executes a command, and then deletes the shell.",
+            "date_modified": "2024-08-12T12:57:41.000Z",
+            "date_published": "2024-08-12T12:50:48.000Z",
+            "author": {
+                "name": "ArunHAtter",
+                "url": "https://github.com/ArunHAtter"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/137893386?u=d8ae31ca086382549eecf57a1a5f2b835b7ff881&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>it is script that enables Telnet on routers by sending a specially crafted request. The script allows users to specify the router's URL, Telnet port, and password. It validates the inputs and logs the process, providing feedback on whether the exploit was successful.</div>",
             "url": "https://github.com/geniuszlyy/CVE-2022-46080",
             "title": "geniuszlyy/CVE-2022-46080: it is script that enables Telnet on routers by sending a specially crafted request. The script allows users to specify the router's URL, Telnet port, and password. It validates the inputs and logs the process, providing feedback on whether the exploit was successful.",
@@ -196,7 +207,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/130553966?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Updated Exploit - pfBlockerNG &lt;= 2.1.4_26 Unauth RCE (CVE-2022-31814)</div>",
             "url": "https://github.com/Laburity/CVE-2022-31814",
             "title": "Laburity/CVE-2022-31814: Updated Exploit - pfBlockerNG <= 2.1.4_26 Unauth RCE (CVE-2022-31814)",
-            "date_modified": "2024-08-12T10:05:58.000Z",
+            "date_modified": "2024-08-12T12:18:51.000Z",
             "date_published": "2024-07-23T09:44:46.000Z",
             "author": {
                 "name": "Laburity",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "OracleNep",
                 "url": "https://github.com/OracleNep"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/37070105?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Bypass for Symantec Endpoint Protection's Client User Interface Password</div>",
-            "url": "https://github.com/apeppels/CVE-2022-37017",
-            "title": "apeppels/CVE-2022-37017: Bypass for Symantec Endpoint Protection's Client User Interface Password",
-            "date_modified": "2024-07-21T12:43:43.000Z",
-            "date_published": "2024-07-21T12:26:35.000Z",
-            "author": {
-                "name": "apeppels",
-                "url": "https://github.com/apeppels"
             }
         }
     ]
