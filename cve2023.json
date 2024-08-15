@@ -9,11 +9,22 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/18195825?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023</div>",
             "url": "https://github.com/CVEProject/cvelist",
             "title": "CVEProject/cvelist: Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023",
-            "date_modified": "2024-08-15T20:01:00.000Z",
+            "date_modified": "2024-08-15T21:01:02.000Z",
             "date_published": "2020-11-02T19:30:55.000Z",
             "author": {
                 "name": "CVEProject",
                 "url": "https://github.com/CVEProject"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/165074489?u=0f51171fde88f4ae59eabdf26534d0cc4eaf3908&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
+            "url": "https://github.com/1amthebest1/CVE-2023-27372",
+            "title": "1amthebest1/CVE-2023-27372",
+            "date_modified": "2024-08-15T20:39:41.000Z",
+            "date_published": "2024-08-15T20:36:59.000Z",
+            "author": {
+                "name": "1amthebest1",
+                "url": "https://github.com/1amthebest1"
             }
         },
         {
@@ -212,17 +223,6 @@
             "author": {
                 "name": "vulncheck-oss",
                 "url": "https://github.com/vulncheck-oss"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/63135823?u=30c5642aa375cad98de9b22ea56d5dcb2a943fd2&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Exploit script for CVE-2023-24249 - a vulnerability allowing remote code execution via file upload and command injection.</div>",
-            "url": "https://github.com/IDUZZEL/CVE-2023-24249-Exploit",
-            "title": "IDUZZEL/CVE-2023-24249-Exploit: Exploit script for CVE-2023-24249 - a vulnerability allowing remote code execution via file upload and command injection.",
-            "date_modified": "2024-08-11T10:16:32.000Z",
-            "date_published": "2024-08-07T04:36:44.000Z",
-            "author": {
-                "name": "IDUZZEL",
-                "url": "https://github.com/IDUZZEL"
             }
         }
     ]
