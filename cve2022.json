@@ -6,6 +6,17 @@
     "description": "CVE-2022 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/59002589?u=db4b8f1cb521109dca923a128c3570719b2f3c6f&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
+            "url": "https://github.com/DukeSec97/CVE-2022-24834-",
+            "title": "DukeSec97/CVE-2022-24834-",
+            "date_modified": "2024-08-18T12:39:19.000Z",
+            "date_published": "2024-08-18T12:33:36.000Z",
+            "author": {
+                "name": "DukeSec97",
+                "url": "https://github.com/DukeSec97"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/159681973?u=5f58ba628dbe5f9dc8bad03ec134367f6af6e2b7&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>历史漏洞的细节以及利用方法汇总收集</div>",
             "url": "https://github.com/OracleNep/Nday-Exploit-Plan",
             "title": "OracleNep/Nday-Exploit-Plan: 历史漏洞的细节以及利用方法汇总收集",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "Laburity",
                 "url": "https://github.com/Laburity"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/37070105?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Bypass for Symantec Endpoint Protection's Client User Interface Password</div>",
-            "url": "https://github.com/apeppels/CVE-2022-37017",
-            "title": "apeppels/CVE-2022-37017: Bypass for Symantec Endpoint Protection's Client User Interface Password",
-            "date_modified": "2024-07-21T12:43:43.000Z",
-            "date_published": "2024-07-21T12:26:35.000Z",
-            "author": {
-                "name": "apeppels",
-                "url": "https://github.com/apeppels"
             }
         }
     ]
