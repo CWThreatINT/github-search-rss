@@ -6,6 +6,17 @@
     "description": "CVE-2022 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/35313392?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>For CVE-2022-33891 Apache Spark: Emulation and Detection by West Shepherd</div>",
+            "url": "https://github.com/ps-interactive/lab_security_apache_spark_emulation_detection",
+            "title": "ps-interactive/lab_security_apache_spark_emulation_detection: For CVE-2022-33891 Apache Spark: Emulation and Detection by West Shepherd",
+            "date_modified": "2024-08-19T17:00:34.000Z",
+            "date_published": "2022-12-06T23:44:30.000Z",
+            "author": {
+                "name": "ps-interactive",
+                "url": "https://github.com/ps-interactive"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/59002589?u=db4b8f1cb521109dca923a128c3570719b2f3c6f&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
             "url": "https://github.com/DukeSec97/CVE-2022-24834-",
             "title": "DukeSec97/CVE-2022-24834-",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "TLD1027",
                 "url": "https://github.com/TLD1027"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/130553966?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Updated Exploit - pfBlockerNG &lt;= 2.1.4_26 Unauth RCE (CVE-2022-31814)</div>",
-            "url": "https://github.com/Laburity/CVE-2022-31814",
-            "title": "Laburity/CVE-2022-31814: Updated Exploit - pfBlockerNG <= 2.1.4_26 Unauth RCE (CVE-2022-31814)",
-            "date_modified": "2024-08-18T20:22:48.000Z",
-            "date_published": "2024-07-23T09:44:46.000Z",
-            "author": {
-                "name": "Laburity",
-                "url": "https://github.com/Laburity"
             }
         }
     ]
