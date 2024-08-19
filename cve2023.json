@@ -9,11 +9,33 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/18195825?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023</div>",
             "url": "https://github.com/CVEProject/cvelist",
             "title": "CVEProject/cvelist: Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023",
-            "date_modified": "2024-08-19T19:01:03.000Z",
+            "date_modified": "2024-08-19T20:01:03.000Z",
             "date_published": "2020-11-02T19:30:55.000Z",
             "author": {
                 "name": "CVEProject",
                 "url": "https://github.com/CVEProject"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/111239114?u=7aa9f0688c9e24a586b08c20b7c8829a62c6e8e3&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
+            "url": "https://github.com/dgndrn/CVE-2023-4590",
+            "title": "dgndrn/CVE-2023-4590",
+            "date_modified": "2024-08-19T19:27:46.000Z",
+            "date_published": "2024-08-19T19:08:18.000Z",
+            "author": {
+                "name": "dgndrn",
+                "url": "https://github.com/dgndrn"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/92234381?u=f1b880c01cee8c2ba01850f4e2c6a4628e7c15c4&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Vulnerability checking tool via Nmap Scripting Engine</div>",
+            "url": "https://github.com/spareack/CVE-2023-22515-NSE",
+            "title": "spareack/CVE-2023-22515-NSE: Vulnerability checking tool via Nmap Scripting Engine",
+            "date_modified": "2024-08-19T19:11:54.000Z",
+            "date_published": "2024-07-18T19:55:59.000Z",
+            "author": {
+                "name": "spareack",
+                "url": "https://github.com/spareack"
             }
         },
         {
@@ -201,28 +223,6 @@
             "author": {
                 "name": "insomnia-jacob",
                 "url": "https://github.com/insomnia-jacob"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/26895987?u=7ccac78663f7efe9a3e7c7cb62acdd9883452a74&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Wonder CMS RCE (XSS)</div>",
-            "url": "https://github.com/charlesgargasson/CVE-2023-41425",
-            "title": "charlesgargasson/CVE-2023-41425: Wonder CMS RCE (XSS)",
-            "date_modified": "2024-08-12T16:36:36.000Z",
-            "date_published": "2024-08-11T16:43:56.000Z",
-            "author": {
-                "name": "charlesgargasson",
-                "url": "https://github.com/charlesgargasson"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/71108402?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A bash automation that exploits the vulnerable endpoints for the Joomla! API 4.0 - 4.2.7</div>",
-            "url": "https://github.com/Aureum01/CVE-2023-23752",
-            "title": "Aureum01/CVE-2023-23752: A bash automation that exploits the vulnerable endpoints for the Joomla! API 4.0 - 4.2.7",
-            "date_modified": "2024-08-11T15:07:13.000Z",
-            "date_published": "2024-08-11T14:55:50.000Z",
-            "author": {
-                "name": "Aureum01",
-                "url": "https://github.com/Aureum01"
             }
         }
     ]
