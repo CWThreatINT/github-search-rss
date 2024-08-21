@@ -9,11 +9,22 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/18195825?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023</div>",
             "url": "https://github.com/CVEProject/cvelist",
             "title": "CVEProject/cvelist: Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023",
-            "date_modified": "2024-08-21T17:01:07.000Z",
+            "date_modified": "2024-08-21T20:01:19.000Z",
             "date_published": "2020-11-02T19:30:55.000Z",
             "author": {
                 "name": "CVEProject",
                 "url": "https://github.com/CVEProject"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/79595418?u=67d4d0e00dbc2c566841443c35c82394c6d21a29&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Jenkins 2.50 through 2.423 (both inclusive), LTS 2.60.1 through 2.414.1 (both inclusive) File Read</div>",
+            "url": "https://github.com/mqxmm/CVE-2023-43494",
+            "title": "mqxmm/CVE-2023-43494: Jenkins 2.50 through 2.423 (both inclusive), LTS 2.60.1 through 2.414.1 (both inclusive) File Read",
+            "date_modified": "2024-08-21T19:33:22.000Z",
+            "date_published": "2024-08-21T19:26:09.000Z",
+            "author": {
+                "name": "mqxmm",
+                "url": "https://github.com/mqxmm"
             }
         },
         {
@@ -212,17 +223,6 @@
             "author": {
                 "name": "KevinMitchell-OSWP-CISSP",
                 "url": "https://github.com/KevinMitchell-OSWP-CISSP"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/50677809?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Python Script to exploit CVE-2023-50564</div>",
-            "url": "https://github.com/rwexecute/CVE-2023-50564",
-            "title": "rwexecute/CVE-2023-50564: Python Script to exploit CVE-2023-50564",
-            "date_modified": "2024-08-17T10:51:48.000Z",
-            "date_published": "2024-08-17T10:46:02.000Z",
-            "author": {
-                "name": "rwexecute",
-                "url": "https://github.com/rwexecute"
             }
         }
     ]
