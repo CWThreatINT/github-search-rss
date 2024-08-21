@@ -6,6 +6,17 @@
     "description": "CVE-2022 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/68890963?u=e5795b9fe8afd5572c00ca228b76a8a3083f62e2&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Proof of Concept exploit for CVE-2022-3699</div>",
+            "url": "https://github.com/Eap2468/CVE-2022-3699",
+            "title": "Eap2468/CVE-2022-3699: Proof of Concept exploit for CVE-2022-3699",
+            "date_modified": "2024-08-21T00:51:19.000Z",
+            "date_published": "2024-08-21T00:42:40.000Z",
+            "author": {
+                "name": "Eap2468",
+                "url": "https://github.com/Eap2468"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/35313392?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>For CVE-2022-33891 Apache Spark: Emulation and Detection by West Shepherd</div>",
             "url": "https://github.com/ps-interactive/lab_security_apache_spark_emulation_detection",
             "title": "ps-interactive/lab_security_apache_spark_emulation_detection: For CVE-2022-33891 Apache Spark: Emulation and Detection by West Shepherd",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "cc3305",
                 "url": "https://github.com/cc3305"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/103564619?u=770213e670855e68b33e4ee4450df84ed778d709&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>使用两种不同的角度实现对于CVE-2022-3910的利用</div>",
-            "url": "https://github.com/TLD1027/CVE-2022-3910",
-            "title": "TLD1027/CVE-2022-3910: 使用两种不同的角度实现对于CVE-2022-3910的利用",
-            "date_modified": "2024-07-26T02:35:58.000Z",
-            "date_published": "2024-07-26T02:21:08.000Z",
-            "author": {
-                "name": "TLD1027",
-                "url": "https://github.com/TLD1027"
             }
         }
     ]
