@@ -6,6 +6,17 @@
     "description": "CVE-2022 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/68890963?u=e5795b9fe8afd5572c00ca228b76a8a3083f62e2&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Proof of Concept exploit for CVE-2022-3699</div>",
+            "url": "https://github.com/Eap2468/CVE-2022-3699",
+            "title": "Eap2468/CVE-2022-3699: Proof of Concept exploit for CVE-2022-3699",
+            "date_modified": "2024-08-21T17:02:43.000Z",
+            "date_published": "2024-08-21T00:42:40.000Z",
+            "author": {
+                "name": "Eap2468",
+                "url": "https://github.com/Eap2468"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/117660722?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Demonstrate some functionalities of Morion by generating an exploit for CVE-2022-27646 (stack buffer overflow on Netgear R6700v3 routers).</div>",
             "url": "https://github.com/cyber-defence-campus/netgear_r6700v3_circled",
             "title": "cyber-defence-campus/netgear_r6700v3_circled: Demonstrate some functionalities of Morion by generating an exploit for CVE-2022-27646 (stack buffer overflow on Netgear R6700v3 routers).",
@@ -14,17 +25,6 @@
             "author": {
                 "name": "cyber-defence-campus",
                 "url": "https://github.com/cyber-defence-campus"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/68890963?u=e5795b9fe8afd5572c00ca228b76a8a3083f62e2&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Proof of Concept exploit for CVE-2022-3699</div>",
-            "url": "https://github.com/Eap2468/CVE-2022-3699",
-            "title": "Eap2468/CVE-2022-3699: Proof of Concept exploit for CVE-2022-3699",
-            "date_modified": "2024-08-21T00:51:19.000Z",
-            "date_published": "2024-08-21T00:42:40.000Z",
-            "author": {
-                "name": "Eap2468",
-                "url": "https://github.com/Eap2468"
             }
         },
         {
