@@ -6,6 +6,17 @@
     "description": "CVE-2021 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/42175824?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>DO NOT USE FOR ANYTHING REAL. Simple springboot sample app with vulnerability CVE-2021-44228 aka \"Log4Shell\" </div>",
+            "url": "https://github.com/srcporter/CVE-2021-44228",
+            "title": "srcporter/CVE-2021-44228: DO NOT USE FOR ANYTHING REAL. Simple springboot sample app with vulnerability CVE-2021-44228 aka \"Log4Shell\" ",
+            "date_modified": "2024-08-22T18:40:38.000Z",
+            "date_published": "2022-11-08T15:29:42.000Z",
+            "author": {
+                "name": "srcporter",
+                "url": "https://github.com/srcporter"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/159681973?u=5f58ba628dbe5f9dc8bad03ec134367f6af6e2b7&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>历史漏洞的细节以及利用方法汇总收集</div>",
             "url": "https://github.com/OracleNep/Nday-Exploit-Plan",
             "title": "OracleNep/Nday-Exploit-Plan: 历史漏洞的细节以及利用方法汇总收集",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "SNE-M23-SN",
                 "url": "https://github.com/SNE-M23-SN"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/94911442?u=055bfc8bfe827d93af3b6dd96a04b31970cfdcc4&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2021-44270</div>",
-            "url": "https://github.com/pinpinsec/CVE-2021-44270",
-            "title": "pinpinsec/CVE-2021-44270: CVE-2021-44270",
-            "date_modified": "2024-07-24T08:56:23.000Z",
-            "date_published": "2021-11-23T15:04:23.000Z",
-            "author": {
-                "name": "pinpinsec",
-                "url": "https://github.com/pinpinsec"
             }
         }
     ]
