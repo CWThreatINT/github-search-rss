@@ -6,10 +6,21 @@
     "description": "CVE-2023 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/11711101?u=261713aa5c23edb716752f583d1c5b2cac95df4b&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
+            "url": "https://github.com/YSaxon/CVE-2023-29929",
+            "title": "YSaxon/CVE-2023-29929",
+            "date_modified": "2024-08-22T21:06:49.000Z",
+            "date_published": "2023-04-14T15:41:12.000Z",
+            "author": {
+                "name": "YSaxon",
+                "url": "https://github.com/YSaxon"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/18195825?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023</div>",
             "url": "https://github.com/CVEProject/cvelist",
             "title": "CVEProject/cvelist: Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023",
-            "date_modified": "2024-08-22T20:00:58.000Z",
+            "date_modified": "2024-08-22T21:00:59.000Z",
             "date_published": "2020-11-02T19:30:55.000Z",
             "author": {
                 "name": "CVEProject",
@@ -102,17 +113,6 @@
             "author": {
                 "name": "PumpkinBridge",
                 "url": "https://github.com/PumpkinBridge"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/11711101?u=261713aa5c23edb716752f583d1c5b2cac95df4b&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
-            "url": "https://github.com/YSaxon/CVE-2023-29929",
-            "title": "YSaxon/CVE-2023-29929",
-            "date_modified": "2024-08-20T20:59:12.000Z",
-            "date_published": "2023-04-14T15:41:12.000Z",
-            "author": {
-                "name": "YSaxon",
-                "url": "https://github.com/YSaxon"
             }
         },
         {
