@@ -9,11 +9,22 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/18195825?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023</div>",
             "url": "https://github.com/CVEProject/cvelist",
             "title": "CVEProject/cvelist: Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023",
-            "date_modified": "2024-08-23T05:00:57.000Z",
+            "date_modified": "2024-08-23T06:01:00.000Z",
             "date_published": "2020-11-02T19:30:55.000Z",
             "author": {
                 "name": "CVEProject",
                 "url": "https://github.com/CVEProject"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/140477743?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Vertical Privilege Escalation via Session Storage by Amjad Ali (CVE-2023-43317)</div>",
+            "url": "https://github.com/amjadali-110/CVE-2023-43317",
+            "title": "amjadali-110/CVE-2023-43317: Vertical Privilege Escalation via Session Storage by Amjad Ali (CVE-2023-43317)",
+            "date_modified": "2024-08-23T05:41:32.000Z",
+            "date_published": "2024-01-23T07:27:30.000Z",
+            "author": {
+                "name": "amjadali-110",
+                "url": "https://github.com/amjadali-110"
             }
         },
         {
@@ -212,17 +223,6 @@
             "author": {
                 "name": "OracleNep",
                 "url": "https://github.com/OracleNep"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/144001335?u=c42bea7e07a206065e90fc34c073c2292c885b40&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>🚨 CVE-2023-45866 - BlueDucky Implementation (Using DuckyScript) 🔓 Unauthenticated Peering Leading to Code Execution (Using HID Keyboard)</div>",
-            "url": "https://github.com/pentestfunctions/BlueDucky",
-            "title": "pentestfunctions/BlueDucky: 🚨 CVE-2023-45866 - BlueDucky Implementation (Using DuckyScript) 🔓 Unauthenticated Peering Leading to Code Execution (Using HID Keyboard)",
-            "date_modified": "2024-08-22T23:13:48.000Z",
-            "date_published": "2024-01-16T06:52:02.000Z",
-            "author": {
-                "name": "pentestfunctions",
-                "url": "https://github.com/pentestfunctions"
             }
         }
     ]
