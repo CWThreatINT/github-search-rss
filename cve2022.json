@@ -6,6 +6,17 @@
     "description": "CVE-2022 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/72358603?u=cd563dfb5041405499469b04abfa1d6be8ede398&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Atlassian Confluence (CVE-2022-26134) - Unauthenticated Remote code execution (RCE)</div>",
+            "url": "https://github.com/nxtexploit/CVE-2022-26134",
+            "title": "nxtexploit/CVE-2022-26134: Atlassian Confluence (CVE-2022-26134) - Unauthenticated Remote code execution (RCE)",
+            "date_modified": "2024-08-23T18:52:54.000Z",
+            "date_published": "2022-07-05T04:30:42.000Z",
+            "author": {
+                "name": "nxtexploit",
+                "url": "https://github.com/nxtexploit"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/68890963?u=e5795b9fe8afd5572c00ca228b76a8a3083f62e2&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Proof of Concept exploit for CVE-2022-3699</div>",
             "url": "https://github.com/Eap2468/CVE-2022-3699",
             "title": "Eap2468/CVE-2022-3699: Proof of Concept exploit for CVE-2022-3699",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "soulfoodisgood",
                 "url": "https://github.com/soulfoodisgood"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/103961201?u=3d350369bdfc65ed264ec847797e0225c142f143&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2022-29464 exploit script</div>",
-            "url": "https://github.com/cc3305/CVE-2022-29464",
-            "title": "cc3305/CVE-2022-29464: CVE-2022-29464 exploit script",
-            "date_modified": "2024-07-27T20:18:09.000Z",
-            "date_published": "2024-06-07T22:17:05.000Z",
-            "author": {
-                "name": "cc3305",
-                "url": "https://github.com/cc3305"
             }
         }
     ]
