@@ -9,11 +9,22 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/18195825?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023</div>",
             "url": "https://github.com/CVEProject/cvelist",
             "title": "CVEProject/cvelist: Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023",
-            "date_modified": "2024-08-22T23:00:56.000Z",
+            "date_modified": "2024-08-23T00:01:00.000Z",
             "date_published": "2020-11-02T19:30:55.000Z",
             "author": {
                 "name": "CVEProject",
                 "url": "https://github.com/CVEProject"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/77606941?u=2297d4c9c0ca1ba385bb4ea2554682817941eb10&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Research</div>",
+            "url": "https://github.com/tiyeume25112004/CVE-2023-41425",
+            "title": "tiyeume25112004/CVE-2023-41425: Research",
+            "date_modified": "2024-08-22T23:28:16.000Z",
+            "date_published": "2024-08-22T23:27:48.000Z",
+            "author": {
+                "name": "tiyeume25112004",
+                "url": "https://github.com/tiyeume25112004"
             }
         },
         {
@@ -207,22 +218,11 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/144001335?u=c42bea7e07a206065e90fc34c073c2292c885b40&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>🚨 CVE-2023-45866 - BlueDucky Implementation (Using DuckyScript) 🔓 Unauthenticated Peering Leading to Code Execution (Using HID Keyboard)</div>",
             "url": "https://github.com/pentestfunctions/BlueDucky",
             "title": "pentestfunctions/BlueDucky: 🚨 CVE-2023-45866 - BlueDucky Implementation (Using DuckyScript) 🔓 Unauthenticated Peering Leading to Code Execution (Using HID Keyboard)",
-            "date_modified": "2024-08-22T22:00:46.000Z",
+            "date_modified": "2024-08-22T23:13:48.000Z",
             "date_published": "2024-01-16T06:52:02.000Z",
             "author": {
                 "name": "pentestfunctions",
                 "url": "https://github.com/pentestfunctions"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/15947372?u=7b0d2bb7e6315f8bdd2bcdd5c10db8ef85cfa4f9&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>PoC for 2023-52709 - TI Bluetooth stack can fail to generate a resolvable Random Private Address (RPA) leading to DoS for already bonded peer devices. </div>",
-            "url": "https://github.com/KevinMitchell-OSWP-CISSP/CVE-2023-52709-PoC",
-            "title": "KevinMitchell-OSWP-CISSP/CVE-2023-52709-PoC: PoC for 2023-52709 - TI Bluetooth stack can fail to generate a resolvable Random Private Address (RPA) leading to DoS for already bonded peer devices. ",
-            "date_modified": "2024-08-17T18:58:35.000Z",
-            "date_published": "2024-07-08T16:48:29.000Z",
-            "author": {
-                "name": "KevinMitchell-OSWP-CISSP",
-                "url": "https://github.com/KevinMitchell-OSWP-CISSP"
             }
         }
     ]
