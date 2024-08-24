@@ -6,6 +6,17 @@
     "description": "CVE-2023 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/45040001?u=aac3fd767d1108b95b5380f9f71cb3b82fc1975e&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE 2023 25690 Proof of concept - mod_proxy vulnerable configuration on Apache HTTP Server versions 2.4.0 - 2.4.55 leads to HTTP Request Smuggling vulnerability.</div>",
+            "url": "https://github.com/dhmosfunk/CVE-2023-25690-POC",
+            "title": "dhmosfunk/CVE-2023-25690-POC: CVE 2023 25690 Proof of concept - mod_proxy vulnerable configuration on Apache HTTP Server versions 2.4.0 - 2.4.55 leads to HTTP Request Smuggling vulnerability.",
+            "date_modified": "2024-08-24T13:38:53.000Z",
+            "date_published": "2023-05-22T03:06:31.000Z",
+            "author": {
+                "name": "dhmosfunk",
+                "url": "https://github.com/dhmosfunk"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/18195825?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023</div>",
             "url": "https://github.com/CVEProject/cvelist",
             "title": "CVEProject/cvelist: Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "B1TC0R3",
                 "url": "https://github.com/B1TC0R3"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/110150285?u=4af4284e83390401e682a5615c19613163679707&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Chamilo LMS Unauthenticated Big Upload File that allows remote code execution</div>",
-            "url": "https://github.com/LGenAgul/CVE-2023-4220-Proof-of-concept",
-            "title": "LGenAgul/CVE-2023-4220-Proof-of-concept: Chamilo LMS Unauthenticated Big Upload File that allows remote code execution",
-            "date_modified": "2024-08-18T20:10:32.000Z",
-            "date_published": "2024-08-18T20:00:33.000Z",
-            "author": {
-                "name": "LGenAgul",
-                "url": "https://github.com/LGenAgul"
             }
         }
     ]
