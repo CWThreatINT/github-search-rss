@@ -6,11 +6,11 @@
     "description": "CVE-2022 FEED on GitHub",
     "items": [
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/111706416?u=960e2f056f0412ccde6d568cacbdcd4925ad2594&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Modified for GLPI with disabled exec function</div>",
-            "url": "https://github.com/noxlumens/CVE-2022-35914",
-            "title": "noxlumens/CVE-2022-35914: Modified for GLPI with disabled exec function",
-            "date_modified": "2024-08-25T19:05:10.000Z",
-            "date_published": "2024-08-25T18:41:12.000Z",
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/111706416?u=960e2f056f0412ccde6d568cacbdcd4925ad2594&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Modified for GLPI Offsec Lab: call_user_func, array_map, passthru</div>",
+            "url": "https://github.com/noxlumens/CVE-2022-35914_poc",
+            "title": "noxlumens/CVE-2022-35914_poc: Modified for GLPI Offsec Lab: call_user_func, array_map, passthru",
+            "date_modified": "2024-08-25T19:34:26.000Z",
+            "date_published": "2024-08-25T19:32:59.000Z",
             "author": {
                 "name": "noxlumens",
                 "url": "https://github.com/noxlumens"
