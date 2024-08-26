@@ -6,6 +6,17 @@
     "description": "CVE-2021 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/105418279?u=c69154effc1ec4bca97f8998d88e4680b321bc42&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>POC &amp; Lab For CVE-2021-41773</div>",
+            "url": "https://github.com/0xc4t/CVE-2021-41773",
+            "title": "0xc4t/CVE-2021-41773: POC & Lab For CVE-2021-41773",
+            "date_modified": "2024-08-26T09:08:05.000Z",
+            "date_published": "2024-08-26T09:07:33.000Z",
+            "author": {
+                "name": "0xc4t",
+                "url": "https://github.com/0xc4t"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/178087340?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
             "url": "https://github.com/WHS-SEGFAULT/CVE-2021-39863",
             "title": "WHS-SEGFAULT/CVE-2021-39863",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "manuelsantosiglesias",
                 "url": "https://github.com/manuelsantosiglesias"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/174135229?u=91a4825d7af4daad9d3c253e7c846346184aa3c5&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>This exploit offers an in-depth look at the CVE-2021-41091 security vulnerability and provides a step-by-step guide on how to utilize the exploit script to achieve privilege escalation on a host.</div>",
-            "url": "https://github.com/SNE-M23-SN/Vulnerable-Docker-Engine",
-            "title": "SNE-M23-SN/Vulnerable-Docker-Engine: This exploit offers an in-depth look at the CVE-2021-41091 security vulnerability and provides a step-by-step guide on how to utilize the exploit script to achieve privilege escalation on a host.",
-            "date_modified": "2024-07-24T11:06:49.000Z",
-            "date_published": "2024-06-30T10:57:02.000Z",
-            "author": {
-                "name": "SNE-M23-SN",
-                "url": "https://github.com/SNE-M23-SN"
             }
         }
     ]
