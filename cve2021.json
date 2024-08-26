@@ -6,10 +6,21 @@
     "description": "CVE-2021 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/132546612?u=acd3a74d513f128291c2b199bc91318516fa74cb&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>confluence rce (CVE-2021-26084, CVE-2022-26134, CVE-2023-22527)</div>",
+            "url": "https://github.com/BBD-YZZ/Confluence-RCE",
+            "title": "BBD-YZZ/Confluence-RCE: confluence rce (CVE-2021-26084, CVE-2022-26134, CVE-2023-22527)",
+            "date_modified": "2024-08-26T09:24:34.000Z",
+            "date_published": "2024-05-29T03:20:22.000Z",
+            "author": {
+                "name": "BBD-YZZ",
+                "url": "https://github.com/BBD-YZZ"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/105418279?u=c69154effc1ec4bca97f8998d88e4680b321bc42&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>POC &amp; Lab For CVE-2021-41773</div>",
             "url": "https://github.com/0xc4t/CVE-2021-41773",
             "title": "0xc4t/CVE-2021-41773: POC & Lab For CVE-2021-41773",
-            "date_modified": "2024-08-26T09:08:05.000Z",
+            "date_modified": "2024-08-26T09:13:49.000Z",
             "date_published": "2024-08-26T09:07:33.000Z",
             "author": {
                 "name": "0xc4t",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "asd58584388",
                 "url": "https://github.com/asd58584388"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/29311335?u=aef09b3d181140e80aa1912d923d9f0605634f52&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>OpenPLC 3 WebServer Authenticated Remote Code Execution.</div>",
-            "url": "https://github.com/manuelsantosiglesias/CVE-2021-31630",
-            "title": "manuelsantosiglesias/CVE-2021-31630: OpenPLC 3 WebServer Authenticated Remote Code Execution.",
-            "date_modified": "2024-07-24T16:22:41.000Z",
-            "date_published": "2024-07-24T15:28:47.000Z",
-            "author": {
-                "name": "manuelsantosiglesias",
-                "url": "https://github.com/manuelsantosiglesias"
             }
         }
     ]

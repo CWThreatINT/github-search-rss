@@ -6,6 +6,17 @@
     "description": "CVE-2022 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/132546612?u=acd3a74d513f128291c2b199bc91318516fa74cb&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>confluence rce (CVE-2021-26084, CVE-2022-26134, CVE-2023-22527)</div>",
+            "url": "https://github.com/BBD-YZZ/Confluence-RCE",
+            "title": "BBD-YZZ/Confluence-RCE: confluence rce (CVE-2021-26084, CVE-2022-26134, CVE-2023-22527)",
+            "date_modified": "2024-08-26T09:24:34.000Z",
+            "date_published": "2024-05-29T03:20:22.000Z",
+            "author": {
+                "name": "BBD-YZZ",
+                "url": "https://github.com/BBD-YZZ"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/111706416?u=960e2f056f0412ccde6d568cacbdcd4925ad2594&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Modified for GLPI Offsec Lab: call_user_func, array_map, passthru</div>",
             "url": "https://github.com/noxlumens/CVE-2022-35914_poc",
             "title": "noxlumens/CVE-2022-35914_poc: Modified for GLPI Offsec Lab: call_user_func, array_map, passthru",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "jrbH4CK",
                 "url": "https://github.com/jrbH4CK"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/69148883?u=9a573201bbc1adeff87b245057c974e9d8159712&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Dirty COW restricted to shmem in linux kernel</div>",
-            "url": "https://github.com/hyeonjun17/CVE-2022-2590-analysis",
-            "title": "hyeonjun17/CVE-2022-2590-analysis: Dirty COW restricted to shmem in linux kernel",
-            "date_modified": "2024-07-31T07:03:57.000Z",
-            "date_published": "2024-07-30T15:54:07.000Z",
-            "author": {
-                "name": "hyeonjun17",
-                "url": "https://github.com/hyeonjun17"
             }
         }
     ]
