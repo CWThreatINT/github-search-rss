@@ -28,6 +28,17 @@
             }
         },
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/178906552?u=c227af3e9a10d44c14d8ef9bf6cf830cef830a1c&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Apache-HTTP-Server-2.4.50-RCE This tool is designed to test Apache servers for the CVE-2021-41773 / CVE-2021-42013 vulnerability. It is intended for educational purposes only and should be used responsibly on systems you have explicit permission to test.</div>",
+            "url": "https://github.com/Zyx2440/Apache-HTTP-Server-2.4.50-RCE",
+            "title": "Zyx2440/Apache-HTTP-Server-2.4.50-RCE: Apache-HTTP-Server-2.4.50-RCE This tool is designed to test Apache servers for the CVE-2021-41773 / CVE-2021-42013 vulnerability. It is intended for educational purposes only and should be used responsibly on systems you have explicit permission to test.",
+            "date_modified": "2024-08-27T12:54:48.000Z",
+            "date_published": "2024-08-26T01:54:06.000Z",
+            "author": {
+                "name": "Zyx2440",
+                "url": "https://github.com/Zyx2440"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/132546612?u=acd3a74d513f128291c2b199bc91318516fa74cb&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>confluence rce (CVE-2021-26084, CVE-2022-26134, CVE-2023-22527)</div>",
             "url": "https://github.com/BBD-YZZ/Confluence-RCE",
             "title": "BBD-YZZ/Confluence-RCE: confluence rce (CVE-2021-26084, CVE-2022-26134, CVE-2023-22527)",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "cc3305",
                 "url": "https://github.com/cc3305"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/170850781?u=ce100622f41a47db83308f8f6c2e5b74cc0d297c&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>POC Exploit for CVE-2021-31630 written in Python3 and using C reverse shell with non-blocking mode</div>",
-            "url": "https://github.com/FlojBoj/CVE-2021-31630",
-            "title": "FlojBoj/CVE-2021-31630: POC Exploit for CVE-2021-31630 written in Python3 and using C reverse shell with non-blocking mode",
-            "date_modified": "2024-07-27T14:33:18.000Z",
-            "date_published": "2024-07-26T15:06:44.000Z",
-            "author": {
-                "name": "FlojBoj",
-                "url": "https://github.com/FlojBoj"
             }
         }
     ]
