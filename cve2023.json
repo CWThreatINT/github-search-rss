@@ -9,11 +9,22 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/18195825?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023</div>",
             "url": "https://github.com/CVEProject/cvelist",
             "title": "CVEProject/cvelist: Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023",
-            "date_modified": "2024-08-27T17:01:11.000Z",
+            "date_modified": "2024-08-27T18:01:08.000Z",
             "date_published": "2020-11-02T19:30:55.000Z",
             "author": {
                 "name": "CVEProject",
                 "url": "https://github.com/CVEProject"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/176516119?u=73654df2f32df880a78c58f1bab1dc7aebc3360c&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2023-4220 Chamilo Exploit</div>",
+            "url": "https://github.com/qrxnz/CVE-2023-4220",
+            "title": "qrxnz/CVE-2023-4220: CVE-2023-4220 Chamilo Exploit",
+            "date_modified": "2024-08-27T17:17:27.000Z",
+            "date_published": "2024-08-27T17:12:48.000Z",
+            "author": {
+                "name": "qrxnz",
+                "url": "https://github.com/qrxnz"
             }
         },
         {
@@ -212,17 +223,6 @@
             "author": {
                 "name": "saimahmed",
                 "url": "https://github.com/saimahmed"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/176820518?u=1619c9833ad072b6dadf5363e2a5b90d336ced50&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>exr viewer</div>",
-            "url": "https://github.com/200101WhoAmI/CVE-2023-50245",
-            "title": "200101WhoAmI/CVE-2023-50245: exr viewer",
-            "date_modified": "2024-08-21T04:49:40.000Z",
-            "date_published": "2024-08-21T04:49:18.000Z",
-            "author": {
-                "name": "200101WhoAmI",
-                "url": "https://github.com/200101WhoAmI"
             }
         }
     ]
