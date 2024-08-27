@@ -9,11 +9,22 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/18195825?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023</div>",
             "url": "https://github.com/CVEProject/cvelist",
             "title": "CVEProject/cvelist: Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023",
-            "date_modified": "2024-08-27T16:01:10.000Z",
+            "date_modified": "2024-08-27T17:01:11.000Z",
             "date_published": "2020-11-02T19:30:55.000Z",
             "author": {
                 "name": "CVEProject",
                 "url": "https://github.com/CVEProject"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/94797978?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Cross Site Scripting vulnerability in Wonder CMS v.3.2.0 thru v.3.4.2 allows a remote attacker to execute arbitrary code via a crafted script uploaded to the installModule component.</div>",
+            "url": "https://github.com/thefizzyfish/CVE-2023-41425-wonderCMS_RCE",
+            "title": "thefizzyfish/CVE-2023-41425-wonderCMS_RCE: Cross Site Scripting vulnerability in Wonder CMS v.3.2.0 thru v.3.4.2 allows a remote attacker to execute arbitrary code via a crafted script uploaded to the installModule component.",
+            "date_modified": "2024-08-27T16:33:12.000Z",
+            "date_published": "2024-08-27T16:10:08.000Z",
+            "author": {
+                "name": "thefizzyfish",
+                "url": "https://github.com/thefizzyfish"
             }
         },
         {
@@ -209,17 +220,6 @@
             "title": "200101WhoAmI/CVE-2023-50245: exr viewer",
             "date_modified": "2024-08-21T04:49:40.000Z",
             "date_published": "2024-08-21T04:49:18.000Z",
-            "author": {
-                "name": "200101WhoAmI",
-                "url": "https://github.com/200101WhoAmI"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/176820518?u=1619c9833ad072b6dadf5363e2a5b90d336ced50&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>pp</div>",
-            "url": "https://github.com/200101WhoAmI/CVE-2023-45827",
-            "title": "200101WhoAmI/CVE-2023-45827: pp",
-            "date_modified": "2024-08-21T04:41:16.000Z",
-            "date_published": "2024-08-21T04:40:33.000Z",
             "author": {
                 "name": "200101WhoAmI",
                 "url": "https://github.com/200101WhoAmI"
