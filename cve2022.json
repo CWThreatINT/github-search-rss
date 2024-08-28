@@ -6,6 +6,17 @@
     "description": "CVE-2022 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/108422861?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
+            "url": "https://github.com/PanAdamski/CVE-2022-44268-automated",
+            "title": "PanAdamski/CVE-2022-44268-automated",
+            "date_modified": "2024-08-28T11:37:15.000Z",
+            "date_published": "2024-08-28T11:28:34.000Z",
+            "author": {
+                "name": "PanAdamski",
+                "url": "https://github.com/PanAdamski"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/178880761?u=6d7276344f9432b09e276a85dd0075ef201df47c&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>arbitrary file upload em routers cisco com payloads encodificados para bypassar proteções XSS-PROTECTION e CSP. </div>",
             "url": "https://github.com/m1erphy/CVE-2022-20073",
             "title": "m1erphy/CVE-2022-20073: arbitrary file upload em routers cisco com payloads encodificados para bypassar proteções XSS-PROTECTION e CSP. ",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "TomKing062",
                 "url": "https://github.com/TomKing062"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/177111000?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2022-22978's Nuclei-Template</div>",
-            "url": "https://github.com/BoB13-Opensource-Contribution-Team9/CVE-2022-22978",
-            "title": "BoB13-Opensource-Contribution-Team9/CVE-2022-22978: CVE-2022-22978's Nuclei-Template",
-            "date_modified": "2024-07-31T10:12:34.000Z",
-            "date_published": "2024-07-31T10:12:33.000Z",
-            "author": {
-                "name": "BoB13-Opensource-Contribution-Team9",
-                "url": "https://github.com/BoB13-Opensource-Contribution-Team9"
             }
         }
     ]
