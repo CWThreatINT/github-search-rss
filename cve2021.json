@@ -105,6 +105,17 @@
             }
         },
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/17049332?u=ef4c33021f47bc9d27f62acf9a27b1790a2778cf&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Tool check: CVE-2021-41773, CVE-2021-42013, CVE-2020-17519</div>",
+            "url": "https://github.com/MrCl0wnLab/SimplesApachePathTraversal",
+            "title": "MrCl0wnLab/SimplesApachePathTraversal: Tool check: CVE-2021-41773, CVE-2021-42013, CVE-2020-17519",
+            "date_modified": "2024-08-28T17:32:14.000Z",
+            "date_published": "2021-10-13T17:03:56.000Z",
+            "author": {
+                "name": "MrCl0wnLab",
+                "url": "https://github.com/MrCl0wnLab"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/16516497?u=de50f2a7b07c84d20687e67b02c4567eef4cf94e&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Laravel RCE (CVE-2021-3129)</div>",
             "url": "https://github.com/joshuavanderpoll/CVE-2021-3129",
             "title": "joshuavanderpoll/CVE-2021-3129: Laravel RCE (CVE-2021-3129)",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "W000i",
                 "url": "https://github.com/W000i"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/103961201?u=3d350369bdfc65ed264ec847797e0225c142f143&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A exploit script for CVE-2021-3129</div>",
-            "url": "https://github.com/cc3305/CVE-2021-3129",
-            "title": "cc3305/CVE-2021-3129: A exploit script for CVE-2021-3129",
-            "date_modified": "2024-07-27T20:15:21.000Z",
-            "date_published": "2024-05-19T21:25:25.000Z",
-            "author": {
-                "name": "cc3305",
-                "url": "https://github.com/cc3305"
             }
         }
     ]
