@@ -9,11 +9,22 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/18195825?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023</div>",
             "url": "https://github.com/CVEProject/cvelist",
             "title": "CVEProject/cvelist: Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023",
-            "date_modified": "2024-08-28T10:00:47.000Z",
+            "date_modified": "2024-08-28T11:01:08.000Z",
             "date_published": "2020-11-02T19:30:55.000Z",
             "author": {
                 "name": "CVEProject",
                 "url": "https://github.com/CVEProject"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/59293085?u=6e3dcea881813bd3ebf55b9ba5357c66cd233b70&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Atlassian Confluence Data Center and Server Broken Access Control Vulnerability</div>",
+            "url": "https://github.com/rxerium/CVE-2023-22515",
+            "title": "rxerium/CVE-2023-22515: Atlassian Confluence Data Center and Server Broken Access Control Vulnerability",
+            "date_modified": "2024-08-28T10:46:39.000Z",
+            "date_published": "2024-02-24T16:04:35.000Z",
+            "author": {
+                "name": "rxerium",
+                "url": "https://github.com/rxerium"
             }
         },
         {
@@ -212,17 +223,6 @@
             "author": {
                 "name": "mqxmm",
                 "url": "https://github.com/mqxmm"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/25364793?u=599bdfbd7eb2c1483ea1bcebcc026b03640ee599&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>MLflow LFI/RFI Vulnerability -CVE-2023-1177 - Reproduced</div>",
-            "url": "https://github.com/saimahmed/MLflow-Vuln",
-            "title": "saimahmed/MLflow-Vuln: MLflow LFI/RFI Vulnerability -CVE-2023-1177 - Reproduced",
-            "date_modified": "2024-08-21T16:27:43.000Z",
-            "date_published": "2024-08-21T16:11:31.000Z",
-            "author": {
-                "name": "saimahmed",
-                "url": "https://github.com/saimahmed"
             }
         }
     ]
