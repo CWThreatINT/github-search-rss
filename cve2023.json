@@ -9,11 +9,33 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/18195825?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023</div>",
             "url": "https://github.com/CVEProject/cvelist",
             "title": "CVEProject/cvelist: Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023",
-            "date_modified": "2024-08-30T00:01:06.000Z",
+            "date_modified": "2024-08-30T02:01:01.000Z",
             "date_published": "2020-11-02T19:30:55.000Z",
             "author": {
                 "name": "CVEProject",
                 "url": "https://github.com/CVEProject"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/43215579?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>C# / .NET version of CVE-2023-21768</div>",
+            "url": "https://github.com/xboxoneresearch/CVE-2023-21768-dotnet",
+            "title": "xboxoneresearch/CVE-2023-21768-dotnet: C# / .NET version of CVE-2023-21768",
+            "date_modified": "2024-08-30T01:30:37.000Z",
+            "date_published": "2024-05-15T17:42:10.000Z",
+            "author": {
+                "name": "xboxoneresearch",
+                "url": "https://github.com/xboxoneresearch"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/151980876?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>TOP All bugbounty pentesting CVE-2023- POC Exp  RCE example payload  Things</div>",
+            "url": "https://github.com/GhostTroops/TOP",
+            "title": "GhostTroops/TOP: TOP All bugbounty pentesting CVE-2023- POC Exp  RCE example payload  Things",
+            "date_modified": "2024-08-30T00:59:48.000Z",
+            "date_published": "2022-03-19T01:54:15.000Z",
+            "author": {
+                "name": "GhostTroops",
+                "url": "https://github.com/GhostTroops"
             }
         },
         {
@@ -36,17 +58,6 @@
             "author": {
                 "name": "sahar042",
                 "url": "https://github.com/sahar042"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/151980876?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>TOP All bugbounty pentesting CVE-2023- POC Exp  RCE example payload  Things</div>",
-            "url": "https://github.com/GhostTroops/TOP",
-            "title": "GhostTroops/TOP: TOP All bugbounty pentesting CVE-2023- POC Exp  RCE example payload  Things",
-            "date_modified": "2024-08-29T03:59:05.000Z",
-            "date_published": "2022-03-19T01:54:15.000Z",
-            "author": {
-                "name": "GhostTroops",
-                "url": "https://github.com/GhostTroops"
             }
         },
         {
@@ -212,17 +223,6 @@
             "author": {
                 "name": "dhmosfunk",
                 "url": "https://github.com/dhmosfunk"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/140477743?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Vertical Privilege Escalation via Session Storage by Amjad Ali (CVE-2023-43317)</div>",
-            "url": "https://github.com/amjadali-110/CVE-2023-43317",
-            "title": "amjadali-110/CVE-2023-43317: Vertical Privilege Escalation via Session Storage by Amjad Ali (CVE-2023-43317)",
-            "date_modified": "2024-08-23T05:41:32.000Z",
-            "date_published": "2024-01-23T07:27:30.000Z",
-            "author": {
-                "name": "amjadali-110",
-                "url": "https://github.com/amjadali-110"
             }
         }
     ]
