@@ -6,11 +6,22 @@
     "description": "CVE-2023 FEED on GitHub",
     "items": [
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/135882723?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>POC for CVE-2023–29360 </div>",
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/150431788?u=8386b596777c7bfab94deaabaa8a50a80df28702&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>cve-2023 vuln certify</div>",
+            "url": "https://github.com/2aqu/CVE-2023-VULN",
+            "title": "2aqu/CVE-2023-VULN: cve-2023 vuln certify",
+            "date_modified": "2024-08-31T21:44:09.000Z",
+            "date_published": "2024-08-31T21:43:56.000Z",
+            "author": {
+                "name": "2aqu",
+                "url": "https://github.com/2aqu"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/135882723?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>POC for CVE-2023-29360</div>",
             "url": "https://github.com/0xDivyanshu-new/CVE-2023-29360",
-            "title": "0xDivyanshu-new/CVE-2023-29360: POC for CVE-2023–29360 ",
-            "date_modified": "2024-08-31T20:07:33.000Z",
-            "date_published": "2024-08-31T18:01:46.000Z",
+            "title": "0xDivyanshu-new/CVE-2023-29360: POC for CVE-2023-29360",
+            "date_modified": "2024-08-31T21:11:42.000Z",
+            "date_published": "2024-08-31T21:08:39.000Z",
             "author": {
                 "name": "0xDivyanshu-new",
                 "url": "https://github.com/0xDivyanshu-new"
@@ -212,17 +223,6 @@
             "author": {
                 "name": "laxmiyamkolu",
                 "url": "https://github.com/laxmiyamkolu"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/170850781?u=ce100622f41a47db83308f8f6c2e5b74cc0d297c&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>TeamCity CVE-2023-42793 RCE (Remote Code Execution)</div>",
-            "url": "https://github.com/FlojBoj/CVE-2023-42793",
-            "title": "FlojBoj/CVE-2023-42793: TeamCity CVE-2023-42793 RCE (Remote Code Execution)",
-            "date_modified": "2024-08-25T20:58:50.000Z",
-            "date_published": "2024-08-24T17:17:21.000Z",
-            "author": {
-                "name": "FlojBoj",
-                "url": "https://github.com/FlojBoj"
             }
         }
     ]
