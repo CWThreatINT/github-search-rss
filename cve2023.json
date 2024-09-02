@@ -6,21 +6,10 @@
     "description": "CVE-2023 FEED on GitHub",
     "items": [
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/18195825?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023</div>",
-            "url": "https://github.com/CVEProject/cvelist",
-            "title": "CVEProject/cvelist: Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023",
-            "date_modified": "2024-09-02T12:01:04.000Z",
-            "date_published": "2020-11-02T19:30:55.000Z",
-            "author": {
-                "name": "CVEProject",
-                "url": "https://github.com/CVEProject"
-            }
-        },
-        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/180081508?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>In the hushed galleries of the Silent JPG Exploit, a symphony shrouded in enigma unfurls—an opus named silent-jpg-exploit-2018—a title that reverberates through the annals of intrigue.</div>",
             "url": "https://github.com/Shareoks/Jpg-Png-Exploit-Slient-Builder-Exploit-Database-Cve-2023-Malware",
             "title": "Shareoks/Jpg-Png-Exploit-Slient-Builder-Exploit-Database-Cve-2023-Malware: In the hushed galleries of the Silent JPG Exploit, a symphony shrouded in enigma unfurls—an opus named silent-jpg-exploit-2018—a title that reverberates through the annals of intrigue.",
-            "date_modified": "2024-09-02T11:59:40.000Z",
+            "date_modified": "2024-09-02T13:02:06.000Z",
             "date_published": "2024-09-01T09:12:25.000Z",
             "author": {
                 "name": "Shareoks",
@@ -28,10 +17,21 @@
             }
         },
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/18195825?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023</div>",
+            "url": "https://github.com/CVEProject/cvelist",
+            "title": "CVEProject/cvelist: Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023",
+            "date_modified": "2024-09-02T13:01:03.000Z",
+            "date_published": "2020-11-02T19:30:55.000Z",
+            "author": {
+                "name": "CVEProject",
+                "url": "https://github.com/CVEProject"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/175971139?u=cc0885d519eea3f9002218410bb338bacaa47d18&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>This module exploits a vulnerability in the target service identified as CVE-2023-42115. It sends a crafted payload to the vulnerable service to achieve a specific action.</div>",
             "url": "https://github.com/isotaka134/cve-2023-42115",
             "title": "isotaka134/cve-2023-42115: This module exploits a vulnerability in the target service identified as CVE-2023-42115. It sends a crafted payload to the vulnerable service to achieve a specific action.",
-            "date_modified": "2024-09-02T10:50:04.000Z",
+            "date_modified": "2024-09-02T12:28:41.000Z",
             "date_published": "2024-09-02T09:30:55.000Z",
             "author": {
                 "name": "isotaka134",
@@ -97,7 +97,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/135882723?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>POC for CVE-2023-29360</div>",
             "url": "https://github.com/0xDivyanshu-new/CVE-2023-29360",
             "title": "0xDivyanshu-new/CVE-2023-29360: POC for CVE-2023-29360",
-            "date_modified": "2024-09-02T04:59:05.000Z",
+            "date_modified": "2024-09-02T12:41:54.000Z",
             "date_published": "2024-08-31T21:08:39.000Z",
             "author": {
                 "name": "0xDivyanshu-new",
