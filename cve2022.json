@@ -6,6 +6,17 @@
     "description": "CVE-2022 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/170850781?u=ce100622f41a47db83308f8f6c2e5b74cc0d297c&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>ImageMagick 7.1.0-49 vulnerable to Information Disclosure</div>",
+            "url": "https://github.com/FlojBoj/CVE-2022-44268",
+            "title": "FlojBoj/CVE-2022-44268: ImageMagick 7.1.0-49 vulnerable to Information Disclosure",
+            "date_modified": "2024-09-02T09:56:19.000Z",
+            "date_published": "2024-09-02T09:11:45.000Z",
+            "author": {
+                "name": "FlojBoj",
+                "url": "https://github.com/FlojBoj"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/42322439?u=16d3d6fb1c4b9ca782b3473b5c12968c53654d30&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
             "url": "https://github.com/Yowise/CVE-2022-26923",
             "title": "Yowise/CVE-2022-26923",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "N3rdyN3xus",
                 "url": "https://github.com/N3rdyN3xus"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/2069803?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
-            "url": "https://github.com/huynhvanphuc/CVE-2022-3590-WordPress-Vulnerability-Scanner",
-            "title": "huynhvanphuc/CVE-2022-3590-WordPress-Vulnerability-Scanner",
-            "date_modified": "2024-08-08T03:03:59.000Z",
-            "date_published": "2024-08-08T03:02:05.000Z",
-            "author": {
-                "name": "huynhvanphuc",
-                "url": "https://github.com/huynhvanphuc"
             }
         }
     ]

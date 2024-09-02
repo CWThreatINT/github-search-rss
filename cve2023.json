@@ -9,7 +9,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/18195825?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023</div>",
             "url": "https://github.com/CVEProject/cvelist",
             "title": "CVEProject/cvelist: Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023",
-            "date_modified": "2024-09-02T09:01:04.000Z",
+            "date_modified": "2024-09-02T10:01:06.000Z",
             "date_published": "2020-11-02T19:30:55.000Z",
             "author": {
                 "name": "CVEProject",
@@ -20,11 +20,22 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/180081508?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>In the hushed galleries of the Silent JPG Exploit, a symphony shrouded in enigma unfurls—an opus named silent-jpg-exploit-2018—a title that reverberates through the annals of intrigue.</div>",
             "url": "https://github.com/Shareoks/Jpg-Png-Exploit-Slient-Builder-Exploit-Database-Cve-2023-Malware",
             "title": "Shareoks/Jpg-Png-Exploit-Slient-Builder-Exploit-Database-Cve-2023-Malware: In the hushed galleries of the Silent JPG Exploit, a symphony shrouded in enigma unfurls—an opus named silent-jpg-exploit-2018—a title that reverberates through the annals of intrigue.",
-            "date_modified": "2024-09-02T08:55:03.000Z",
+            "date_modified": "2024-09-02T09:59:31.000Z",
             "date_published": "2024-09-01T09:12:25.000Z",
             "author": {
                 "name": "Shareoks",
                 "url": "https://github.com/Shareoks"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/175971139?u=cc0885d519eea3f9002218410bb338bacaa47d18&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>This module exploits a vulnerability in the target service identified as CVE-2023-42115. It sends a crafted payload to the vulnerable service to achieve a specific action.</div>",
+            "url": "https://github.com/isotaka134/cve-2023-42115",
+            "title": "isotaka134/cve-2023-42115: This module exploits a vulnerability in the target service identified as CVE-2023-42115. It sends a crafted payload to the vulnerable service to achieve a specific action.",
+            "date_modified": "2024-09-02T09:30:56.000Z",
+            "date_published": "2024-09-02T09:30:55.000Z",
+            "author": {
+                "name": "isotaka134",
+                "url": "https://github.com/isotaka134"
             }
         },
         {
@@ -212,17 +223,6 @@
             "author": {
                 "name": "nitzanoligo",
                 "url": "https://github.com/nitzanoligo"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/132546612?u=acd3a74d513f128291c2b199bc91318516fa74cb&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>confluence rce (CVE-2021-26084, CVE-2022-26134, CVE-2023-22527)</div>",
-            "url": "https://github.com/BBD-YZZ/Confluence-RCE",
-            "title": "BBD-YZZ/Confluence-RCE: confluence rce (CVE-2021-26084, CVE-2022-26134, CVE-2023-22527)",
-            "date_modified": "2024-08-26T09:24:34.000Z",
-            "date_published": "2024-05-29T03:20:22.000Z",
-            "author": {
-                "name": "BBD-YZZ",
-                "url": "https://github.com/BBD-YZZ"
             }
         }
     ]
