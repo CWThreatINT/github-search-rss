@@ -6,6 +6,17 @@
     "description": "CVE-2021 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/26369589?u=1ce9fe91fa60f45f0084f428f06c030b5d50a4e1&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Script en bash que permite identificar la vulnerabilidad Log4j CVE-2021-44228 de forma remota.</div>",
+            "url": "https://github.com/julian911015/Log4j-Scanner-Exploit",
+            "title": "julian911015/Log4j-Scanner-Exploit: Script en bash que permite identificar la vulnerabilidad Log4j CVE-2021-44228 de forma remota.",
+            "date_modified": "2024-09-03T15:25:53.000Z",
+            "date_published": "2021-12-20T15:22:50.000Z",
+            "author": {
+                "name": "julian911015",
+                "url": "https://github.com/julian911015"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/51857894?u=9167e74facbf2bffd39fb2c87c74a6b80d2db336&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Apache: a Mainstream Web Service Turned a Vector of Attack for Remote Code Execution</div>",
             "url": "https://github.com/jkska23/Additive-Vulnerability-Analysis-CVE-2021-41773",
             "title": "jkska23/Additive-Vulnerability-Analysis-CVE-2021-41773: Apache: a Mainstream Web Service Turned a Vector of Attack for Remote Code Execution",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "basim-ahmad",
                 "url": "https://github.com/basim-ahmad"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/86119333?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>在21年，SpringBlade框架曾发现一个JWT认证的漏洞。尽管我们搜索了许多基于原理的扫描工具，但没有找到能够支持这个漏洞的工具。可能是因为这个漏洞相对冷门而不被广泛关注。</div>",
-            "url": "https://github.com/W000i/CVE-2021-44910_SpringBlade",
-            "title": "W000i/CVE-2021-44910_SpringBlade: 在21年，SpringBlade框架曾发现一个JWT认证的漏洞。尽管我们搜索了许多基于原理的扫描工具，但没有找到能够支持这个漏洞的工具。可能是因为这个漏洞相对冷门而不被广泛关注。",
-            "date_modified": "2024-08-13T02:09:36.000Z",
-            "date_published": "2023-07-22T16:48:24.000Z",
-            "author": {
-                "name": "W000i",
-                "url": "https://github.com/W000i"
             }
         }
     ]
