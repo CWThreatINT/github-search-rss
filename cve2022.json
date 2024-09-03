@@ -6,6 +6,17 @@
     "description": "CVE-2022 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/6657270?u=6e86e69e91892c67607a092b1566a77bc710e446&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Full Chain Analysis of CVE-2022-4262, a non-trivial feedback slot type confusion in V8.</div>",
+            "url": "https://github.com/bjrjk/CVE-2022-4262",
+            "title": "bjrjk/CVE-2022-4262: Full Chain Analysis of CVE-2022-4262, a non-trivial feedback slot type confusion in V8.",
+            "date_modified": "2024-09-03T12:26:20.000Z",
+            "date_published": "2023-07-13T13:17:20.000Z",
+            "author": {
+                "name": "bjrjk",
+                "url": "https://github.com/bjrjk"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/117660722?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Demonstrate some functionalities of Morion by generating an exploit for CVE-2022-27646 (stack buffer overflow on Netgear R6700v3 routers).</div>",
             "url": "https://github.com/cyber-defence-campus/netgear_r6700v3_circled",
             "title": "cyber-defence-campus/netgear_r6700v3_circled: Demonstrate some functionalities of Morion by generating an exploit for CVE-2022-27646 (stack buffer overflow on Netgear R6700v3 routers).",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "N3rdyN3xus",
                 "url": "https://github.com/N3rdyN3xus"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/2069803?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
-            "url": "https://github.com/huynhvanphuc/CVE-2022-3590-WordPress-Vulnerability-Scanner",
-            "title": "huynhvanphuc/CVE-2022-3590-WordPress-Vulnerability-Scanner",
-            "date_modified": "2024-08-08T03:03:59.000Z",
-            "date_published": "2024-08-08T03:02:05.000Z",
-            "author": {
-                "name": "huynhvanphuc",
-                "url": "https://github.com/huynhvanphuc"
             }
         }
     ]
