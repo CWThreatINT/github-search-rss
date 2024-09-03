@@ -6,6 +6,17 @@
     "description": "CVE-2021 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/21672558?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
+            "url": "https://github.com/corelight/CVE-2021-1675",
+            "title": "corelight/CVE-2021-1675",
+            "date_modified": "2024-09-03T18:23:12.000Z",
+            "date_published": "2021-07-02T16:44:24.000Z",
+            "author": {
+                "name": "corelight",
+                "url": "https://github.com/corelight"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/26369589?u=1ce9fe91fa60f45f0084f428f06c030b5d50a4e1&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Script en bash que permite identificar la vulnerabilidad Log4j CVE-2021-44228 de forma remota.</div>",
             "url": "https://github.com/julian911015/Log4j-Scanner-Exploit",
             "title": "julian911015/Log4j-Scanner-Exploit: Script en bash que permite identificar la vulnerabilidad Log4j CVE-2021-44228 de forma remota.",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "projectforsix",
                 "url": "https://github.com/projectforsix"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/106730920?u=fe4627a037e41a976f3d999a70f0181d4c55af28&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>This repository contains scripts and resources for exploiting the Follina CVE and CVE-2021-40444 vulnerabilities in Microsoft Office. The scripts generate malicious document files that can execute arbitrary code on the target system.</div>",
-            "url": "https://github.com/basim-ahmad/Follina-CVE-and-CVE-2021-40444",
-            "title": "basim-ahmad/Follina-CVE-and-CVE-2021-40444: This repository contains scripts and resources for exploiting the Follina CVE and CVE-2021-40444 vulnerabilities in Microsoft Office. The scripts generate malicious document files that can execute arbitrary code on the target system.",
-            "date_modified": "2024-07-29T06:57:10.000Z",
-            "date_published": "2024-07-28T17:23:43.000Z",
-            "author": {
-                "name": "basim-ahmad",
-                "url": "https://github.com/basim-ahmad"
             }
         }
     ]
