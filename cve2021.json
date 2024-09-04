@@ -9,7 +9,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/112651256?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2021-22954 is a critical vulnerability in the F5 BIG-IP TMUI. It allows an unauthenticated attacker to execute arbitrary system commands by sending crafted HTTP requests to the vulnerable server.</div>",
             "url": "https://github.com/kloutkake/CVE-2021-22954-PoC",
             "title": "kloutkake/CVE-2021-22954-PoC: CVE-2021-22954 is a critical vulnerability in the F5 BIG-IP TMUI. It allows an unauthenticated attacker to execute arbitrary system commands by sending crafted HTTP requests to the vulnerable server.",
-            "date_modified": "2024-09-04T20:04:43.000Z",
+            "date_modified": "2024-09-04T20:26:26.000Z",
             "date_published": "2024-09-04T19:59:29.000Z",
             "author": {
                 "name": "kloutkake",
