@@ -6,10 +6,21 @@
     "description": "CVE-2023 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/18195825?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023</div>",
+            "url": "https://github.com/CVEProject/cvelist",
+            "title": "CVEProject/cvelist: Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023",
+            "date_modified": "2024-09-05T14:01:03.000Z",
+            "date_published": "2020-11-02T19:30:55.000Z",
+            "author": {
+                "name": "CVEProject",
+                "url": "https://github.com/CVEProject"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/180081508?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>In the hushed galleries of the Silent JPG Exploit, a symphony shrouded in enigma unfurls—an opus named silent-jpg-exploit-2018—a title that reverberates through the annals of intrigue.</div>",
             "url": "https://github.com/Shareoks/Jpg-Png-Exploit-Slient-Builder-Exploit-Database-Cve-2023-Malware",
             "title": "Shareoks/Jpg-Png-Exploit-Slient-Builder-Exploit-Database-Cve-2023-Malware: In the hushed galleries of the Silent JPG Exploit, a symphony shrouded in enigma unfurls—an opus named silent-jpg-exploit-2018—a title that reverberates through the annals of intrigue.",
-            "date_modified": "2024-09-05T13:11:06.000Z",
+            "date_modified": "2024-09-05T13:57:21.000Z",
             "date_published": "2024-09-01T09:12:25.000Z",
             "author": {
                 "name": "Shareoks",
@@ -17,14 +28,25 @@
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/18195825?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023</div>",
-            "url": "https://github.com/CVEProject/cvelist",
-            "title": "CVEProject/cvelist: Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023",
-            "date_modified": "2024-09-05T13:01:03.000Z",
-            "date_published": "2020-11-02T19:30:55.000Z",
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/49879157?u=133acc3841808f2d1af1697b7ae164b1577d7f38&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div> Stakater Forecastle =&gt; v1.0.143 allows directory traversal in the website component</div>",
+            "url": "https://github.com/sahar042/CVE-2023-40297",
+            "title": "sahar042/CVE-2023-40297:  Stakater Forecastle => v1.0.143 allows directory traversal in the website component",
+            "date_modified": "2024-09-05T13:25:22.000Z",
+            "date_published": "2023-08-14T06:18:48.000Z",
             "author": {
-                "name": "CVEProject",
-                "url": "https://github.com/CVEProject"
+                "name": "sahar042",
+                "url": "https://github.com/sahar042"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/11196523?u=7707732b48453789052663f0eab4c743c07aa279&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
+            "url": "https://github.com/bryanqb07/CVE-2023-32315",
+            "title": "bryanqb07/CVE-2023-32315",
+            "date_modified": "2024-09-05T13:22:34.000Z",
+            "date_published": "2024-09-05T13:22:34.000Z",
+            "author": {
+                "name": "bryanqb07",
+                "url": "https://github.com/bryanqb07"
             }
         },
         {
@@ -201,28 +223,6 @@
             "author": {
                 "name": "saimahmed",
                 "url": "https://github.com/saimahmed"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/150431788?u=d3e53e8da3dc80e5bcfe227f0a199f65d6e0183d&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>cve-2023 vuln certify</div>",
-            "url": "https://github.com/2aqu/CVE-2023-VULN",
-            "title": "2aqu/CVE-2023-VULN: cve-2023 vuln certify",
-            "date_modified": "2024-09-01T23:41:57.000Z",
-            "date_published": "2024-08-31T21:43:56.000Z",
-            "author": {
-                "name": "2aqu",
-                "url": "https://github.com/2aqu"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/135882723?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>POC for CVE-2023-29360</div>",
-            "url": "https://github.com/0xDivyanshu-new/CVE-2023-29360",
-            "title": "0xDivyanshu-new/CVE-2023-29360: POC for CVE-2023-29360",
-            "date_modified": "2024-09-03T01:46:31.000Z",
-            "date_published": "2024-08-31T21:08:39.000Z",
-            "author": {
-                "name": "0xDivyanshu-new",
-                "url": "https://github.com/0xDivyanshu-new"
             }
         }
     ]
