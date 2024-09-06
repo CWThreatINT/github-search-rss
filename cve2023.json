@@ -9,7 +9,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/18195825?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023</div>",
             "url": "https://github.com/CVEProject/cvelist",
             "title": "CVEProject/cvelist: Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023",
-            "date_modified": "2024-09-06T15:01:10.000Z",
+            "date_modified": "2024-09-06T16:01:07.000Z",
             "date_published": "2020-11-02T19:30:55.000Z",
             "author": {
                 "name": "CVEProject",
@@ -17,10 +17,21 @@
             }
         },
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/114817859?u=df1ad6fd5d970188b78dd937de22cd144c16e2c8&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Multithredded DoS Python Script For CVE-2023-30800</div>",
+            "url": "https://github.com/KhogenTheRabbit/cve-2023-30800-multithread-doser",
+            "title": "KhogenTheRabbit/cve-2023-30800-multithread-doser: Multithredded DoS Python Script For CVE-2023-30800",
+            "date_modified": "2024-09-06T16:08:18.000Z",
+            "date_published": "2024-09-06T15:17:06.000Z",
+            "author": {
+                "name": "KhogenTheRabbit",
+                "url": "https://github.com/KhogenTheRabbit"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/180081508?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>In the hushed galleries of the Silent JPG Exploit, a symphony shrouded in enigma unfurls—an opus named silent-jpg-exploit-2018—a title that reverberates through the annals of intrigue.</div>",
             "url": "https://github.com/Shareoks/Jpg-Png-Exploit-Slient-Builder-Exploit-Database-Cve-2023-Malware",
             "title": "Shareoks/Jpg-Png-Exploit-Slient-Builder-Exploit-Database-Cve-2023-Malware: In the hushed galleries of the Silent JPG Exploit, a symphony shrouded in enigma unfurls—an opus named silent-jpg-exploit-2018—a title that reverberates through the annals of intrigue.",
-            "date_modified": "2024-09-06T14:57:41.000Z",
+            "date_modified": "2024-09-06T15:55:43.000Z",
             "date_published": "2024-09-01T09:12:25.000Z",
             "author": {
                 "name": "Shareoks",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "isotaka134",
                 "url": "https://github.com/isotaka134"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/97275279?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Exploits Tested in Mi A2 Lite and Realme 2 pro</div>",
-            "url": "https://github.com/AvishekDhakal/CVE-2023-45866_EXPLOITS",
-            "title": "AvishekDhakal/CVE-2023-45866_EXPLOITS: Exploits Tested in Mi A2 Lite and Realme 2 pro",
-            "date_modified": "2024-09-02T10:15:53.000Z",
-            "date_published": "2024-09-02T10:13:27.000Z",
-            "author": {
-                "name": "AvishekDhakal",
-                "url": "https://github.com/AvishekDhakal"
             }
         }
     ]
