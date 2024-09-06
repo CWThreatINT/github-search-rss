@@ -9,7 +9,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/18195825?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023</div>",
             "url": "https://github.com/CVEProject/cvelist",
             "title": "CVEProject/cvelist: Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023",
-            "date_modified": "2024-09-06T18:01:03.000Z",
+            "date_modified": "2024-09-06T19:01:03.000Z",
             "date_published": "2020-11-02T19:30:55.000Z",
             "author": {
                 "name": "CVEProject",
@@ -20,11 +20,33 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/180081508?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>In the hushed galleries of the Silent JPG Exploit, a symphony shrouded in enigma unfurls—an opus named silent-jpg-exploit-2018—a title that reverberates through the annals of intrigue.</div>",
             "url": "https://github.com/Shareoks/Jpg-Png-Exploit-Slient-Builder-Exploit-Database-Cve-2023-Malware",
             "title": "Shareoks/Jpg-Png-Exploit-Slient-Builder-Exploit-Database-Cve-2023-Malware: In the hushed galleries of the Silent JPG Exploit, a symphony shrouded in enigma unfurls—an opus named silent-jpg-exploit-2018—a title that reverberates through the annals of intrigue.",
-            "date_modified": "2024-09-06T17:58:00.000Z",
+            "date_modified": "2024-09-06T18:57:45.000Z",
             "date_published": "2024-09-01T09:12:25.000Z",
             "author": {
                 "name": "Shareoks",
                 "url": "https://github.com/Shareoks"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/43215579?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>C# / .NET version of CVE-2023-21768</div>",
+            "url": "https://github.com/xboxoneresearch/CVE-2023-21768-dotnet",
+            "title": "xboxoneresearch/CVE-2023-21768-dotnet: C# / .NET version of CVE-2023-21768",
+            "date_modified": "2024-09-06T18:19:34.000Z",
+            "date_published": "2024-05-15T17:42:10.000Z",
+            "author": {
+                "name": "xboxoneresearch",
+                "url": "https://github.com/xboxoneresearch"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/43872449?u=c56a5b499ef004ee33615457400c5354a3960b52&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>POC for CVE-2023-39024 and CVE-2023-39025 (Harman Media Suite)</div>",
+            "url": "https://github.com/BenTheCyberOne/CVE-2023-39024-5-POC",
+            "title": "BenTheCyberOne/CVE-2023-39024-5-POC: POC for CVE-2023-39024 and CVE-2023-39025 (Harman Media Suite)",
+            "date_modified": "2024-09-06T18:13:25.000Z",
+            "date_published": "2024-09-06T18:13:21.000Z",
+            "author": {
+                "name": "BenTheCyberOne",
+                "url": "https://github.com/BenTheCyberOne"
             }
         },
         {
@@ -201,28 +223,6 @@
             "author": {
                 "name": "Raffli-Dev",
                 "url": "https://github.com/Raffli-Dev"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/173750065?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
-            "url": "https://github.com/inviewp/CVE-2023-3450",
-            "title": "inviewp/CVE-2023-3450",
-            "date_modified": "2024-09-02T15:01:25.000Z",
-            "date_published": "2024-09-02T15:01:00.000Z",
-            "author": {
-                "name": "inviewp",
-                "url": "https://github.com/inviewp"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/175971139?u=cc0885d519eea3f9002218410bb338bacaa47d18&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>This module exploits a vulnerability in the target service identified as CVE-2023-42115.</div>",
-            "url": "https://github.com/isotaka134/cve-2023-42115",
-            "title": "isotaka134/cve-2023-42115: This module exploits a vulnerability in the target service identified as CVE-2023-42115.",
-            "date_modified": "2024-09-02T13:47:01.000Z",
-            "date_published": "2024-09-02T09:30:55.000Z",
-            "author": {
-                "name": "isotaka134",
-                "url": "https://github.com/isotaka134"
             }
         }
     ]
