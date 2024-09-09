@@ -6,6 +6,17 @@
     "description": "CVE-2022 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/78989650?u=3d62cecca5e26eff3ce64ff18c58e4eb1833b02a&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>PoC code written for CVE-2022-0944 to make exploitation easier. Based on information found here:  <a href=\"https://huntr.com/bounties/46630727-d923-4444-a421-537ecd63e7fb\" rel=\"nofollow\">https://huntr.com/bounties/46630727-d923-4444-a421-537ecd63e7fb</a></div>",
+            "url": "https://github.com/Philip-Otter/CVE-2022-0944_RCE_Automation",
+            "title": "Philip-Otter/CVE-2022-0944_RCE_Automation: PoC code written for CVE-2022-0944 to make exploitation easier. Based on information found here:  https://huntr.com/bounties/46630727-d923-4444-a421-537ecd63e7fb",
+            "date_modified": "2024-09-09T08:36:25.000Z",
+            "date_published": "2024-09-09T08:33:17.000Z",
+            "author": {
+                "name": "Philip-Otter",
+                "url": "https://github.com/Philip-Otter"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/179271961?u=22f4923112465cd273828ef8526434a0621c7238&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A proof of concept exploit for SQLPad RCE (CVE-2022-0944).</div>",
             "url": "https://github.com/shhrew/CVE-2022-0944",
             "title": "shhrew/CVE-2022-0944: A proof of concept exploit for SQLPad RCE (CVE-2022-0944).",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "ArunHAtter",
                 "url": "https://github.com/ArunHAtter"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/18260135?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>cve-2022-23131 zabbix-saml-bypass-exp</div>",
-            "url": "https://github.com/Mr-xn/cve-2022-23131",
-            "title": "Mr-xn/cve-2022-23131: cve-2022-23131 zabbix-saml-bypass-exp",
-            "date_modified": "2024-08-14T04:30:19.000Z",
-            "date_published": "2022-02-18T11:51:47.000Z",
-            "author": {
-                "name": "Mr-xn",
-                "url": "https://github.com/Mr-xn"
             }
         }
     ]
