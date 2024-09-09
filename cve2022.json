@@ -6,6 +6,17 @@
     "description": "CVE-2022 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/179271961?u=22f4923112465cd273828ef8526434a0621c7238&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A proof of concept exploit for SQLPad RCE (CVE-2022-0944).</div>",
+            "url": "https://github.com/shhrew/CVE-2022-0944",
+            "title": "shhrew/CVE-2022-0944: A proof of concept exploit for SQLPad RCE (CVE-2022-0944).",
+            "date_modified": "2024-09-08T23:57:31.000Z",
+            "date_published": "2024-09-08T23:39:24.000Z",
+            "author": {
+                "name": "shhrew",
+                "url": "https://github.com/shhrew"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/179964021?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>PoC for Cacti 1.2.22 - CVE-2022-46169</div>",
             "url": "https://github.com/rockyroadonline/CVE-2022-46169",
             "title": "rockyroadonline/CVE-2022-46169: PoC for Cacti 1.2.22 - CVE-2022-46169",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "Mr-xn",
                 "url": "https://github.com/Mr-xn"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/66146701?u=0a55e2fb9bdf79f8eea9ce2271cfb4e7e1954195&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Exploit script for CVE-2022-41544 in GetSimple CMS, with enhanced error handling and detailed usage instructions.</div>",
-            "url": "https://github.com/N3rdyN3xus/CVE-2022-41544",
-            "title": "N3rdyN3xus/CVE-2022-41544: Exploit script for CVE-2022-41544 in GetSimple CMS, with enhanced error handling and detailed usage instructions.",
-            "date_modified": "2024-08-09T13:18:25.000Z",
-            "date_published": "2024-07-31T18:27:53.000Z",
-            "author": {
-                "name": "N3rdyN3xus",
-                "url": "https://github.com/N3rdyN3xus"
             }
         }
     ]
