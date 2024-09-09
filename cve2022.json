@@ -6,6 +6,17 @@
     "description": "CVE-2022 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/170850781?u=ce100622f41a47db83308f8f6c2e5b74cc0d297c&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>SQLPad - Template injection</div>",
+            "url": "https://github.com/FlojBoj/CVE-2022-0944",
+            "title": "FlojBoj/CVE-2022-0944: SQLPad - Template injection",
+            "date_modified": "2024-09-09T20:04:17.000Z",
+            "date_published": "2024-09-09T19:09:43.000Z",
+            "author": {
+                "name": "FlojBoj",
+                "url": "https://github.com/FlojBoj"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/78989650?u=3d62cecca5e26eff3ce64ff18c58e4eb1833b02a&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>PoC code written for CVE-2022-0944 to make exploitation easier. Based on information found here:  <a href=\"https://huntr.com/bounties/46630727-d923-4444-a421-537ecd63e7fb\" rel=\"nofollow\">https://huntr.com/bounties/46630727-d923-4444-a421-537ecd63e7fb</a></div>",
             "url": "https://github.com/Philip-Otter/CVE-2022-0944_RCE_Automation",
             "title": "Philip-Otter/CVE-2022-0944_RCE_Automation: PoC code written for CVE-2022-0944 to make exploitation easier. Based on information found here:  https://huntr.com/bounties/46630727-d923-4444-a421-537ecd63e7fb",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "wdahlenburg",
                 "url": "https://github.com/wdahlenburg"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/53938283?u=dea31bb990a555ce34e7e497fa8f0ba4255090a0&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>This script is a proof-of-concept exploit for pfBlockerNG &lt;= 2.1.4_26 that allows for remote code execution. It takes a single target URL or a list of URLs, tries to upload a shell using multiple payloads, executes a command, and then deletes the shell.</div>",
-            "url": "https://github.com/ArunHAtter/CVE-2022-31814",
-            "title": "ArunHAtter/CVE-2022-31814: This script is a proof-of-concept exploit for pfBlockerNG <= 2.1.4_26 that allows for remote code execution. It takes a single target URL or a list of URLs, tries to upload a shell using multiple payloads, executes a command, and then deletes the shell.",
-            "date_modified": "2024-08-12T12:57:41.000Z",
-            "date_published": "2024-08-12T12:50:48.000Z",
-            "author": {
-                "name": "ArunHAtter",
-                "url": "https://github.com/ArunHAtter"
             }
         }
     ]
