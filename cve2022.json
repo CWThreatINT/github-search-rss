@@ -6,6 +6,17 @@
     "description": "CVE-2022 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/170850781?u=ce100622f41a47db83308f8f6c2e5b74cc0d297c&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>SQLPad - Template injection (POC exploit for SQLPad RCE [CVE-2022-0944])</div>",
+            "url": "https://github.com/FlojBoj/CVE-2022-0944",
+            "title": "FlojBoj/CVE-2022-0944: SQLPad - Template injection (POC exploit for SQLPad RCE [CVE-2022-0944])",
+            "date_modified": "2024-09-10T14:30:04.000Z",
+            "date_published": "2024-09-09T19:09:43.000Z",
+            "author": {
+                "name": "FlojBoj",
+                "url": "https://github.com/FlojBoj"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/63966704?u=f1dd6fd73c86a80f3700131561cc9c0255722748&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
             "url": "https://github.com/KaoXx/CVE-2022-37706",
             "title": "KaoXx/CVE-2022-37706",
@@ -36,17 +47,6 @@
             "author": {
                 "name": "cyber-defence-campus",
                 "url": "https://github.com/cyber-defence-campus"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/170850781?u=ce100622f41a47db83308f8f6c2e5b74cc0d297c&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>SQLPad - Template injection</div>",
-            "url": "https://github.com/FlojBoj/CVE-2022-0944",
-            "title": "FlojBoj/CVE-2022-0944: SQLPad - Template injection",
-            "date_modified": "2024-09-09T20:04:17.000Z",
-            "date_published": "2024-09-09T19:09:43.000Z",
-            "author": {
-                "name": "FlojBoj",
-                "url": "https://github.com/FlojBoj"
             }
         },
         {
