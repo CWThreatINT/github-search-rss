@@ -9,7 +9,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/18195825?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023</div>",
             "url": "https://github.com/CVEProject/cvelist",
             "title": "CVEProject/cvelist: Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023",
-            "date_modified": "2024-09-10T13:03:42.000Z",
+            "date_modified": "2024-09-10T14:08:16.000Z",
             "date_published": "2020-11-02T19:30:55.000Z",
             "author": {
                 "name": "CVEProject",
@@ -17,10 +17,21 @@
             }
         },
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/110085007?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2023-46371 and CVE-2023-46527 update</div>",
+            "url": "https://github.com/Jianchun-Ding/CVE-poc-update",
+            "title": "Jianchun-Ding/CVE-poc-update: CVE-2023-46371 and CVE-2023-46527 update",
+            "date_modified": "2024-09-10T14:01:36.000Z",
+            "date_published": "2024-09-10T13:18:02.000Z",
+            "author": {
+                "name": "Jianchun-Ding",
+                "url": "https://github.com/Jianchun-Ding"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/180081508?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>In the hushed galleries of the Silent JPG Exploit, a symphony shrouded in enigma unfurls—an opus named silent-jpg-exploit-2018—a title that reverberates through the annals of intrigue.</div>",
             "url": "https://github.com/Shareoks/Jpg-Png-Exploit-Slient-Builder-Exploit-Database-Cve-2023-Malware",
             "title": "Shareoks/Jpg-Png-Exploit-Slient-Builder-Exploit-Database-Cve-2023-Malware: In the hushed galleries of the Silent JPG Exploit, a symphony shrouded in enigma unfurls—an opus named silent-jpg-exploit-2018—a title that reverberates through the annals of intrigue.",
-            "date_modified": "2024-09-10T13:02:20.000Z",
+            "date_modified": "2024-09-10T14:02:34.000Z",
             "date_published": "2024-09-01T09:12:25.000Z",
             "author": {
                 "name": "Shareoks",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "m-lito13",
                 "url": "https://github.com/m-lito13"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/2186082?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Reflected Cross-Site Scripting in TOTVS Fluig Plataform 1.6.X - 1.8.1</div>",
-            "url": "https://github.com/erickfernandox/CVE-2023-6275",
-            "title": "erickfernandox/CVE-2023-6275: Reflected Cross-Site Scripting in TOTVS Fluig Plataform 1.6.X - 1.8.1",
-            "date_modified": "2024-09-04T02:37:09.000Z",
-            "date_published": "2024-09-04T02:33:46.000Z",
-            "author": {
-                "name": "erickfernandox",
-                "url": "https://github.com/erickfernandox"
             }
         }
     ]
