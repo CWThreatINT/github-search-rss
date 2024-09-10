@@ -6,6 +6,17 @@
     "description": "CVE-2022 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/117660722?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Demonstrate some functionalities of Morion by generating an exploit for CVE-2022-27646 (stack buffer overflow on Netgear R6700v3 routers).</div>",
+            "url": "https://github.com/cyber-defence-campus/netgear_r6700v3_circled",
+            "title": "cyber-defence-campus/netgear_r6700v3_circled: Demonstrate some functionalities of Morion by generating an exploit for CVE-2022-27646 (stack buffer overflow on Netgear R6700v3 routers).",
+            "date_modified": "2024-09-10T07:23:04.000Z",
+            "date_published": "2023-06-01T05:10:56.000Z",
+            "author": {
+                "name": "cyber-defence-campus",
+                "url": "https://github.com/cyber-defence-campus"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/170850781?u=ce100622f41a47db83308f8f6c2e5b74cc0d297c&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>SQLPad - Template injection</div>",
             "url": "https://github.com/FlojBoj/CVE-2022-0944",
             "title": "FlojBoj/CVE-2022-0944: SQLPad - Template injection",
@@ -58,17 +69,6 @@
             "author": {
                 "name": "bjrjk",
                 "url": "https://github.com/bjrjk"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/117660722?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Demonstrate some functionalities of Morion by generating an exploit for CVE-2022-27646 (stack buffer overflow on Netgear R6700v3 routers).</div>",
-            "url": "https://github.com/cyber-defence-campus/netgear_r6700v3_circled",
-            "title": "cyber-defence-campus/netgear_r6700v3_circled: Demonstrate some functionalities of Morion by generating an exploit for CVE-2022-27646 (stack buffer overflow on Netgear R6700v3 routers).",
-            "date_modified": "2024-09-03T08:38:14.000Z",
-            "date_published": "2023-06-01T05:10:56.000Z",
-            "author": {
-                "name": "cyber-defence-campus",
-                "url": "https://github.com/cyber-defence-campus"
             }
         },
         {
