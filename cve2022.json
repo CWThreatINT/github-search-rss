@@ -6,6 +6,17 @@
     "description": "CVE-2022 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/117660722?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Demonstrate some functionalities of Morion by generating an exploit for CVE-2022-27646 (stack buffer overflow on Netgear R6700v3 routers).</div>",
+            "url": "https://github.com/cyber-defence-campus/netgear_r6700v3_circled",
+            "title": "cyber-defence-campus/netgear_r6700v3_circled: Demonstrate some functionalities of Morion by generating an exploit for CVE-2022-27646 (stack buffer overflow on Netgear R6700v3 routers).",
+            "date_modified": "2024-09-11T08:01:43.000Z",
+            "date_published": "2023-06-01T05:10:56.000Z",
+            "author": {
+                "name": "cyber-defence-campus",
+                "url": "https://github.com/cyber-defence-campus"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/78989650?u=3d62cecca5e26eff3ce64ff18c58e4eb1833b02a&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>PoC code written for CVE-2022-0944 to make exploitation easier. Based on information found here:  <a href=\"https://huntr.com/bounties/46630727-d923-4444-a421-537ecd63e7fb\" rel=\"nofollow\">https://huntr.com/bounties/46630727-d923-4444-a421-537ecd63e7fb</a></div>",
             "url": "https://github.com/Philip-Otter/CVE-2022-0944_RCE_Automation",
             "title": "Philip-Otter/CVE-2022-0944_RCE_Automation: PoC code written for CVE-2022-0944 to make exploitation easier. Based on information found here:  https://huntr.com/bounties/46630727-d923-4444-a421-537ecd63e7fb",
@@ -47,17 +58,6 @@
             "author": {
                 "name": "KaoXx",
                 "url": "https://github.com/KaoXx"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/117660722?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Demonstrate some functionalities of Morion by generating an exploit for CVE-2022-27646 (stack buffer overflow on Netgear R6700v3 routers).</div>",
-            "url": "https://github.com/cyber-defence-campus/netgear_r6700v3_circled",
-            "title": "cyber-defence-campus/netgear_r6700v3_circled: Demonstrate some functionalities of Morion by generating an exploit for CVE-2022-27646 (stack buffer overflow on Netgear R6700v3 routers).",
-            "date_modified": "2024-09-10T07:23:04.000Z",
-            "date_published": "2023-06-01T05:10:56.000Z",
-            "author": {
-                "name": "cyber-defence-campus",
-                "url": "https://github.com/cyber-defence-campus"
             }
         },
         {
