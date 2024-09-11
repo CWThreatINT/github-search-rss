@@ -6,6 +6,17 @@
     "description": "CVE-2021 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/180378107?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Log4J exploit CVE-2021-44228</div>",
+            "url": "https://github.com/safeer-accuknox/log4j-shell-poc",
+            "title": "safeer-accuknox/log4j-shell-poc: Log4J exploit CVE-2021-44228",
+            "date_modified": "2024-09-11T05:06:53.000Z",
+            "date_published": "2024-09-11T05:06:50.000Z",
+            "author": {
+                "name": "safeer-accuknox",
+                "url": "https://github.com/safeer-accuknox"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/78093502?u=6d04c36c5304a8f742eeb586d49dc9796613f819&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
             "url": "https://github.com/OtisSymbos/CVE-2021-44228-Log4Shell-",
             "title": "OtisSymbos/CVE-2021-44228-Log4Shell-",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "bananoname",
                 "url": "https://github.com/bananoname"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/89144246?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
-            "url": "https://github.com/naroSEC/CVE-2021-33699_Task_Hijacking",
-            "title": "naroSEC/CVE-2021-33699_Task_Hijacking",
-            "date_modified": "2024-07-31T16:34:38.000Z",
-            "date_published": "2024-07-30T13:06:59.000Z",
-            "author": {
-                "name": "naroSEC",
-                "url": "https://github.com/naroSEC"
             }
         }
     ]
