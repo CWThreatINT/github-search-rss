@@ -9,11 +9,22 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/18195825?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023</div>",
             "url": "https://github.com/CVEProject/cvelist",
             "title": "CVEProject/cvelist: Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023",
-            "date_modified": "2024-09-12T16:01:23.000Z",
+            "date_modified": "2024-09-12T17:01:02.000Z",
             "date_published": "2020-11-02T19:30:55.000Z",
             "author": {
                 "name": "CVEProject",
                 "url": "https://github.com/CVEProject"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/95245480?u=48d44d8122d0002c4ed771b6f18a15efc3881903&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Exploit for CVE-2023-42860</div>",
+            "url": "https://github.com/Trigii/CVE-2023-42860",
+            "title": "Trigii/CVE-2023-42860: Exploit for CVE-2023-42860",
+            "date_modified": "2024-09-12T16:55:41.000Z",
+            "date_published": "2024-04-09T14:53:46.000Z",
+            "author": {
+                "name": "Trigii",
+                "url": "https://github.com/Trigii"
             }
         },
         {
@@ -212,17 +223,6 @@
             "author": {
                 "name": "erickfernandox",
                 "url": "https://github.com/erickfernandox"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/10076254?u=b3e5ed0898f0e851e632d5fab452f60d3fab91a1&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>(CVE-2023-4220) Chamilo LMS Unauthenticated Big Upload File Remote Code Execution </div>",
-            "url": "https://github.com/0x00-null/Chamilo-CVE-2023-4220-RCE-Exploit",
-            "title": "0x00-null/Chamilo-CVE-2023-4220-RCE-Exploit: (CVE-2023-4220) Chamilo LMS Unauthenticated Big Upload File Remote Code Execution ",
-            "date_modified": "2024-09-10T12:37:45.000Z",
-            "date_published": "2024-09-03T12:16:52.000Z",
-            "author": {
-                "name": "0x00-null",
-                "url": "https://github.com/0x00-null"
             }
         }
     ]
