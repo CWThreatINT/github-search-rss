@@ -6,6 +6,17 @@
     "description": "CVE-2022 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/16020669?u=3ef5209db5652d914efea7f754b0deb551d8965a&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Old weaponized CVE-2022-1388 exploit.</div>",
+            "url": "https://github.com/impost0r/CVE-2022-1388",
+            "title": "impost0r/CVE-2022-1388: Old weaponized CVE-2022-1388 exploit.",
+            "date_modified": "2024-09-12T17:27:23.000Z",
+            "date_published": "2024-09-12T17:25:23.000Z",
+            "author": {
+                "name": "impost0r",
+                "url": "https://github.com/impost0r"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/103617578?u=562d1fb9641f18a4bbadaa90edafecc22f968d01&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
             "url": "https://github.com/xpectomas/CVE-2022-41852-Disable",
             "title": "xpectomas/CVE-2022-41852-Disable",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "sanan2004",
                 "url": "https://github.com/sanan2004"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/59002589?u=db4b8f1cb521109dca923a128c3570719b2f3c6f&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
-            "url": "https://github.com/DukeSec97/CVE-2022-24834-",
-            "title": "DukeSec97/CVE-2022-24834-",
-            "date_modified": "2024-08-18T12:39:19.000Z",
-            "date_published": "2024-08-18T12:33:36.000Z",
-            "author": {
-                "name": "DukeSec97",
-                "url": "https://github.com/DukeSec97"
             }
         }
     ]
