@@ -6,6 +6,17 @@
     "description": "CVE-2022 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/103617578?u=562d1fb9641f18a4bbadaa90edafecc22f968d01&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
+            "url": "https://github.com/xpectomas/CVE-2022-41852-Disable",
+            "title": "xpectomas/CVE-2022-41852-Disable",
+            "date_modified": "2024-09-12T05:51:40.000Z",
+            "date_published": "2024-09-12T05:43:31.000Z",
+            "author": {
+                "name": "xpectomas",
+                "url": "https://github.com/xpectomas"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/117660722?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Demonstrate some functionalities of Morion by generating an exploit for CVE-2022-27646 (stack buffer overflow on Netgear R6700v3 routers).</div>",
             "url": "https://github.com/cyber-defence-campus/netgear_r6700v3_circled",
             "title": "cyber-defence-campus/netgear_r6700v3_circled: Demonstrate some functionalities of Morion by generating an exploit for CVE-2022-27646 (stack buffer overflow on Netgear R6700v3 routers).",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "DukeSec97",
                 "url": "https://github.com/DukeSec97"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/118365296?u=b1683ba5df3ecf9d4e60b77900f3630ec9cf4f37&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>PoC</div>",
-            "url": "https://github.com/sanan2004/CVE-2022-37706",
-            "title": "sanan2004/CVE-2022-37706: PoC",
-            "date_modified": "2024-08-21T10:03:16.000Z",
-            "date_published": "2024-08-18T11:57:58.000Z",
-            "author": {
-                "name": "sanan2004",
-                "url": "https://github.com/sanan2004"
             }
         }
     ]
