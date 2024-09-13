@@ -6,6 +6,17 @@
     "description": "CVE-2022 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/181462171?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
+            "url": "https://github.com/Robocopsita/CVE-2022-0944_RCE_POC",
+            "title": "Robocopsita/CVE-2022-0944_RCE_POC",
+            "date_modified": "2024-09-13T09:44:59.000Z",
+            "date_published": "2024-09-13T09:30:08.000Z",
+            "author": {
+                "name": "Robocopsita",
+                "url": "https://github.com/Robocopsita"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/16020669?u=3ef5209db5652d914efea7f754b0deb551d8965a&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Old weaponized CVE-2022-1388 exploit.</div>",
             "url": "https://github.com/impost0r/CVE-2022-1388",
             "title": "impost0r/CVE-2022-1388: Old weaponized CVE-2022-1388 exploit.",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "ps-interactive",
                 "url": "https://github.com/ps-interactive"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/118365296?u=b1683ba5df3ecf9d4e60b77900f3630ec9cf4f37&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>PoC</div>",
-            "url": "https://github.com/sanan2004/CVE-2022-27925",
-            "title": "sanan2004/CVE-2022-27925: PoC",
-            "date_modified": "2024-08-21T09:20:35.000Z",
-            "date_published": "2024-08-19T17:17:24.000Z",
-            "author": {
-                "name": "sanan2004",
-                "url": "https://github.com/sanan2004"
             }
         }
     ]
