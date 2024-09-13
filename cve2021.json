@@ -6,6 +6,17 @@
     "description": "CVE-2021 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/181438567?u=81aa7c698882fc05b5b7643f5916addeaf4b4a0f&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
+            "url": "https://github.com/acidburn2049/CVE-2021-3156",
+            "title": "acidburn2049/CVE-2021-3156",
+            "date_modified": "2024-09-13T04:20:37.000Z",
+            "date_published": "2024-09-13T04:20:36.000Z",
+            "author": {
+                "name": "acidburn2049",
+                "url": "https://github.com/acidburn2049"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/180378107?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Log4J exploit CVE-2021-44228</div>",
             "url": "https://github.com/safeer-accuknox/log4j-shell-poc",
             "title": "safeer-accuknox/log4j-shell-poc: Log4J exploit CVE-2021-44228",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "Eap2468",
                 "url": "https://github.com/Eap2468"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/177087379?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
-            "url": "https://github.com/bananoname/cve-2021-42013",
-            "title": "bananoname/cve-2021-42013",
-            "date_modified": "2024-08-01T13:25:27.000Z",
-            "date_published": "2024-07-31T07:48:39.000Z",
-            "author": {
-                "name": "bananoname",
-                "url": "https://github.com/bananoname"
             }
         }
     ]
