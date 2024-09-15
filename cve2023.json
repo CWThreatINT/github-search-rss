@@ -9,11 +9,22 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/18195825?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023</div>",
             "url": "https://github.com/CVEProject/cvelist",
             "title": "CVEProject/cvelist: Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023",
-            "date_modified": "2024-09-15T17:00:57.000Z",
+            "date_modified": "2024-09-15T18:05:27.000Z",
             "date_published": "2020-11-02T19:30:55.000Z",
             "author": {
                 "name": "CVEProject",
                 "url": "https://github.com/CVEProject"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/92728059?u=e6318baf13bf98eee37f7582d9e3f680b8532b81&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>New exploit for pyLoad v0.5.0 - Unauthenticated remote code excecution</div>",
+            "url": "https://github.com/btar1gan/exploit_CVE-2023-0297",
+            "title": "btar1gan/exploit_CVE-2023-0297: New exploit for pyLoad v0.5.0 - Unauthenticated remote code excecution",
+            "date_modified": "2024-09-15T17:19:52.000Z",
+            "date_published": "2024-09-15T17:15:33.000Z",
+            "author": {
+                "name": "btar1gan",
+                "url": "https://github.com/btar1gan"
             }
         },
         {
@@ -212,17 +223,6 @@
             "author": {
                 "name": "xboxoneresearch",
                 "url": "https://github.com/xboxoneresearch"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/114817859?u=df1ad6fd5d970188b78dd937de22cd144c16e2c8&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Multithredded DoS Python Script For CVE-2023-30800</div>",
-            "url": "https://github.com/KhogenTheRabbit/cve-2023-30800-multithread-doser",
-            "title": "KhogenTheRabbit/cve-2023-30800-multithread-doser: Multithredded DoS Python Script For CVE-2023-30800",
-            "date_modified": "2024-09-06T16:08:18.000Z",
-            "date_published": "2024-09-06T15:17:06.000Z",
-            "author": {
-                "name": "KhogenTheRabbit",
-                "url": "https://github.com/KhogenTheRabbit"
             }
         }
     ]
