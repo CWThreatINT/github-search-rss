@@ -6,6 +6,17 @@
     "description": "CVE-2022 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/21672558?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Detects attempts and successful exploitation of CVE-2022-26809</div>",
+            "url": "https://github.com/corelight/cve-2022-26809",
+            "title": "corelight/cve-2022-26809: Detects attempts and successful exploitation of CVE-2022-26809",
+            "date_modified": "2024-09-16T15:44:38.000Z",
+            "date_published": "2022-04-14T16:58:09.000Z",
+            "author": {
+                "name": "corelight",
+                "url": "https://github.com/corelight"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/44172898?u=94232037b89db262882bf50ae517be351bd21ff2&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Automated CVE 2022 35914 Checker</div>",
             "url": "https://github.com/joelindra/htmlawedchekcer",
             "title": "joelindra/htmlawedchekcer: Automated CVE 2022 35914 Checker",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "nxtexploit",
                 "url": "https://github.com/nxtexploit"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/68890963?u=e5795b9fe8afd5572c00ca228b76a8a3083f62e2&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Proof of Concept exploit for CVE-2022-3699</div>",
-            "url": "https://github.com/Eap2468/CVE-2022-3699",
-            "title": "Eap2468/CVE-2022-3699: Proof of Concept exploit for CVE-2022-3699",
-            "date_modified": "2024-08-21T18:39:04.000Z",
-            "date_published": "2024-08-21T00:42:40.000Z",
-            "author": {
-                "name": "Eap2468",
-                "url": "https://github.com/Eap2468"
             }
         }
     ]
