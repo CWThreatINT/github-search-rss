@@ -9,11 +9,22 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/18195825?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023</div>",
             "url": "https://github.com/CVEProject/cvelist",
             "title": "CVEProject/cvelist: Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023",
-            "date_modified": "2024-09-16T14:00:52.000Z",
+            "date_modified": "2024-09-16T15:01:09.000Z",
             "date_published": "2020-11-02T19:30:55.000Z",
             "author": {
                 "name": "CVEProject",
                 "url": "https://github.com/CVEProject"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/79593994?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Ivanti EPM AgentPortal RCE Vulnerability</div>",
+            "url": "https://github.com/horizon3ai/CVE-2023-28324",
+            "title": "horizon3ai/CVE-2023-28324: Ivanti EPM AgentPortal RCE Vulnerability",
+            "date_modified": "2024-09-16T14:24:53.000Z",
+            "date_published": "2024-09-13T14:02:04.000Z",
+            "author": {
+                "name": "horizon3ai",
+                "url": "https://github.com/horizon3ai"
             }
         },
         {
@@ -212,17 +223,6 @@
             "author": {
                 "name": "WiwiSinta",
                 "url": "https://github.com/WiwiSinta"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/43215579?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>C# / .NET version of CVE-2023-21768</div>",
-            "url": "https://github.com/xboxoneresearch/CVE-2023-21768-dotnet",
-            "title": "xboxoneresearch/CVE-2023-21768-dotnet: C# / .NET version of CVE-2023-21768",
-            "date_modified": "2024-09-06T18:19:34.000Z",
-            "date_published": "2024-05-15T17:42:10.000Z",
-            "author": {
-                "name": "xboxoneresearch",
-                "url": "https://github.com/xboxoneresearch"
             }
         }
     ]
