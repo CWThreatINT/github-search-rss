@@ -9,11 +9,22 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/18195825?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023</div>",
             "url": "https://github.com/CVEProject/cvelist",
             "title": "CVEProject/cvelist: Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023",
-            "date_modified": "2024-09-17T15:01:06.000Z",
+            "date_modified": "2024-09-17T16:01:03.000Z",
             "date_published": "2020-11-02T19:30:55.000Z",
             "author": {
                 "name": "CVEProject",
                 "url": "https://github.com/CVEProject"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/2186082?u=55bb4753159a2278a2911c1dc147ddd3ddbbd8bd&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Reflected Cross-Site Scripting in TOTVS Fluig Plataform 1.6.X - 1.8.1</div>",
+            "url": "https://github.com/erickfernandox/CVE-2023-6275",
+            "title": "erickfernandox/CVE-2023-6275: Reflected Cross-Site Scripting in TOTVS Fluig Plataform 1.6.X - 1.8.1",
+            "date_modified": "2024-09-17T15:08:37.000Z",
+            "date_published": "2024-09-04T02:33:46.000Z",
+            "author": {
+                "name": "erickfernandox",
+                "url": "https://github.com/erickfernandox"
             }
         },
         {
@@ -212,17 +223,6 @@
             "author": {
                 "name": "heapbytes",
                 "url": "https://github.com/heapbytes"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/178727588?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
-            "url": "https://github.com/WiwiSinta/CVE-2023-420",
-            "title": "WiwiSinta/CVE-2023-420",
-            "date_modified": "2024-09-07T15:13:20.000Z",
-            "date_published": "2024-09-07T15:12:26.000Z",
-            "author": {
-                "name": "WiwiSinta",
-                "url": "https://github.com/WiwiSinta"
             }
         }
     ]
