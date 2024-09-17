@@ -6,6 +6,17 @@
     "description": "CVE-2022 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/25670930?u=6fad2f13c751b51fd47e377945d79369743f5948&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2024-40431+CVE-2022-25479 chain for EOP(DATA ONLY ATTACK) ROUGHT SKELLETON ATM. WILL EVENTUALLY TURN IT INTO FULL EOP</div>",
+            "url": "https://github.com/SpiralBL0CK/CVE-2024-40431-CVE-2022-25479-EOP-CHAIN",
+            "title": "SpiralBL0CK/CVE-2024-40431-CVE-2022-25479-EOP-CHAIN: CVE-2024-40431+CVE-2022-25479 chain for EOP(DATA ONLY ATTACK) ROUGHT SKELLETON ATM. WILL EVENTUALLY TURN IT INTO FULL EOP",
+            "date_modified": "2024-09-17T07:05:06.000Z",
+            "date_published": "2024-09-17T06:28:17.000Z",
+            "author": {
+                "name": "SpiralBL0CK",
+                "url": "https://github.com/SpiralBL0CK"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/21672558?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Detects attempts and successful exploitation of CVE-2022-26809</div>",
             "url": "https://github.com/corelight/cve-2022-26809",
             "title": "corelight/cve-2022-26809: Detects attempts and successful exploitation of CVE-2022-26809",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "noxlumens",
                 "url": "https://github.com/noxlumens"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/72358603?u=75f9e04010c6964d0a87126eb8bee08e5712ba30&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Atlassian Confluence (CVE-2022-26134) - Unauthenticated Remote code execution (RCE)</div>",
-            "url": "https://github.com/nxtexploit/CVE-2022-26134",
-            "title": "nxtexploit/CVE-2022-26134: Atlassian Confluence (CVE-2022-26134) - Unauthenticated Remote code execution (RCE)",
-            "date_modified": "2024-08-23T18:52:54.000Z",
-            "date_published": "2022-07-05T04:30:42.000Z",
-            "author": {
-                "name": "nxtexploit",
-                "url": "https://github.com/nxtexploit"
             }
         }
     ]
