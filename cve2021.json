@@ -6,6 +6,17 @@
     "description": "CVE-2021 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/47251535?u=9c9ca78cdd818d948ebae90c256665702f40de66&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Exploit for command injection vulnerability found in uhttpd binary from TP-Link Tapo c200 IP camera</div>",
+            "url": "https://github.com/hacefresko/CVE-2021-4045",
+            "title": "hacefresko/CVE-2021-4045: Exploit for command injection vulnerability found in uhttpd binary from TP-Link Tapo c200 IP camera",
+            "date_modified": "2024-09-17T14:27:14.000Z",
+            "date_published": "2021-11-15T14:48:14.000Z",
+            "author": {
+                "name": "hacefresko",
+                "url": "https://github.com/hacefresko"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/88498991?u=c98158e015f6bbe82d2339a374d15e6bff0d4577&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Exploit a 2021 Kernel vulnerability in Ubuntu to become root almost instantly!</div>",
             "url": "https://github.com/fathallah17/OverlayFS-CVE-2021-3493",
             "title": "fathallah17/OverlayFS-CVE-2021-3493: Exploit a 2021 Kernel vulnerability in Ubuntu to become root almost instantly!",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "MrCl0wnLab",
                 "url": "https://github.com/MrCl0wnLab"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/106393710?u=7541c09c02ae7f03adf395c67b60d7d0e141755c&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Some test files to make a good nuclei template for a JQuery UI XSS vuln</div>",
-            "url": "https://github.com/aredspy/CVE-2021-41182-Tester",
-            "title": "aredspy/CVE-2021-41182-Tester: Some test files to make a good nuclei template for a JQuery UI XSS vuln",
-            "date_modified": "2024-08-05T22:56:29.000Z",
-            "date_published": "2024-08-05T09:31:05.000Z",
-            "author": {
-                "name": "aredspy",
-                "url": "https://github.com/aredspy"
             }
         }
     ]
