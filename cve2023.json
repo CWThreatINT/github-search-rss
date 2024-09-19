@@ -6,6 +6,39 @@
     "description": "CVE-2023 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/124332420?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2023-47253 | Qualitor &amp;lt;= 8.20 RCE</div>",
+            "url": "https://github.com/OpenXP-Research/CVE-2023-47253",
+            "title": "OpenXP-Research/CVE-2023-47253: CVE-2023-47253 | Qualitor &lt;= 8.20 RCE",
+            "date_modified": "2024-09-19T14:06:58.000Z",
+            "date_published": "2024-09-19T14:06:47.000Z",
+            "author": {
+                "name": "OpenXP-Research",
+                "url": "https://github.com/OpenXP-Research"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/51921808?u=689b0dfa050e4285f731e049e1a7407c9958e084&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2023-47253 | Qualitor &lt;= 8.20 RCE</div>",
+            "url": "https://github.com/vnxdtzip/CVE-2023-47253",
+            "title": "vnxdtzip/CVE-2023-47253: CVE-2023-47253 | Qualitor <= 8.20 RCE",
+            "date_modified": "2024-09-19T14:01:44.000Z",
+            "date_published": "2024-09-19T13:59:07.000Z",
+            "author": {
+                "name": "vnxdtzip",
+                "url": "https://github.com/vnxdtzip"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/18195825?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023</div>",
+            "url": "https://github.com/CVEProject/cvelist",
+            "title": "CVEProject/cvelist: Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023",
+            "date_modified": "2024-09-19T14:01:07.000Z",
+            "date_published": "2020-11-02T19:30:55.000Z",
+            "author": {
+                "name": "CVEProject",
+                "url": "https://github.com/CVEProject"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/26895987?u=7ccac78663f7efe9a3e7c7cb62acdd9883452a74&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>MLFlow Path Traversal</div>",
             "url": "https://github.com/charlesgargasson/CVE-2023-1177",
             "title": "charlesgargasson/CVE-2023-1177: MLFlow Path Traversal",
@@ -14,17 +47,6 @@
             "author": {
                 "name": "charlesgargasson",
                 "url": "https://github.com/charlesgargasson"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/18195825?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023</div>",
-            "url": "https://github.com/CVEProject/cvelist",
-            "title": "CVEProject/cvelist: Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023",
-            "date_modified": "2024-09-19T11:52:49.000Z",
-            "date_published": "2020-11-02T19:30:55.000Z",
-            "author": {
-                "name": "CVEProject",
-                "url": "https://github.com/CVEProject"
             }
         },
         {
@@ -201,28 +223,6 @@
             "author": {
                 "name": "Trigii",
                 "url": "https://github.com/Trigii"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/110085007?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2023-46371 and CVE-2023-46527 update</div>",
-            "url": "https://github.com/Jianchun-Ding/CVE-poc-update",
-            "title": "Jianchun-Ding/CVE-poc-update: CVE-2023-46371 and CVE-2023-46527 update",
-            "date_modified": "2024-09-10T14:01:36.000Z",
-            "date_published": "2024-09-10T13:18:02.000Z",
-            "author": {
-                "name": "Jianchun-Ding",
-                "url": "https://github.com/Jianchun-Ding"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/49879157?u=133acc3841808f2d1af1697b7ae164b1577d7f38&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div> Stakater Forecastle =&gt; v1.0.144 allows directory traversal in the website component</div>",
-            "url": "https://github.com/sahar042/CVE-2023-40297",
-            "title": "sahar042/CVE-2023-40297:  Stakater Forecastle => v1.0.144 allows directory traversal in the website component",
-            "date_modified": "2024-09-10T10:16:06.000Z",
-            "date_published": "2023-08-14T06:18:48.000Z",
-            "author": {
-                "name": "sahar042",
-                "url": "https://github.com/sahar042"
             }
         }
     ]
