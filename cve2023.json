@@ -6,10 +6,21 @@
     "description": "CVE-2023 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/26895987?u=7ccac78663f7efe9a3e7c7cb62acdd9883452a74&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>MLFlow Path Traversal</div>",
+            "url": "https://github.com/charlesgargasson/CVE-2023-1177",
+            "title": "charlesgargasson/CVE-2023-1177: MLFlow Path Traversal",
+            "date_modified": "2024-09-19T11:04:13.000Z",
+            "date_published": "2024-09-19T10:59:31.000Z",
+            "author": {
+                "name": "charlesgargasson",
+                "url": "https://github.com/charlesgargasson"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/18195825?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023</div>",
             "url": "https://github.com/CVEProject/cvelist",
             "title": "CVEProject/cvelist: Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023",
-            "date_modified": "2024-09-19T10:01:05.000Z",
+            "date_modified": "2024-09-19T11:01:12.000Z",
             "date_published": "2020-11-02T19:30:55.000Z",
             "author": {
                 "name": "CVEProject",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "sahar042",
                 "url": "https://github.com/sahar042"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/43872449?u=c56a5b499ef004ee33615457400c5354a3960b52&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>POC for CVE-2023-39024 and CVE-2023-39025 (Harman Media Suite)</div>",
-            "url": "https://github.com/BenTheCyberOne/CVE-2023-39024-5-POC",
-            "title": "BenTheCyberOne/CVE-2023-39024-5-POC: POC for CVE-2023-39024 and CVE-2023-39025 (Harman Media Suite)",
-            "date_modified": "2024-09-09T02:24:33.000Z",
-            "date_published": "2024-09-06T18:13:21.000Z",
-            "author": {
-                "name": "BenTheCyberOne",
-                "url": "https://github.com/BenTheCyberOne"
             }
         }
     ]
