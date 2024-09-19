@@ -6,6 +6,17 @@
     "description": "CVE-2021 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/124332420?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Webrun &lt;= 3.6.0.42 SQLi</div>",
+            "url": "https://github.com/OpenXP-Research/CVE-2021-43650",
+            "title": "OpenXP-Research/CVE-2021-43650: Webrun <= 3.6.0.42 SQLi",
+            "date_modified": "2024-09-19T14:10:58.000Z",
+            "date_published": "2024-09-19T14:10:00.000Z",
+            "author": {
+                "name": "OpenXP-Research",
+                "url": "https://github.com/OpenXP-Research"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/47251535?u=9c9ca78cdd818d948ebae90c256665702f40de66&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Exploit for command injection vulnerability found in uhttpd binary from TP-Link Tapo c200 IP camera</div>",
             "url": "https://github.com/hacefresko/CVE-2021-4045",
             "title": "hacefresko/CVE-2021-4045: Exploit for command injection vulnerability found in uhttpd binary from TP-Link Tapo c200 IP camera",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "ps-interactive",
                 "url": "https://github.com/ps-interactive"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/17049332?u=ef4c33021f47bc9d27f62acf9a27b1790a2778cf&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Tool check: CVE-2021-41773, CVE-2021-42013, CVE-2020-17519</div>",
-            "url": "https://github.com/MrCl0wnLab/SimplesApachePathTraversal",
-            "title": "MrCl0wnLab/SimplesApachePathTraversal: Tool check: CVE-2021-41773, CVE-2021-42013, CVE-2020-17519",
-            "date_modified": "2024-08-28T17:32:14.000Z",
-            "date_published": "2021-10-13T17:03:56.000Z",
-            "author": {
-                "name": "MrCl0wnLab",
-                "url": "https://github.com/MrCl0wnLab"
             }
         }
     ]
