@@ -6,10 +6,21 @@
     "description": "CVE-2023 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/154050956?u=786c43ee944d4f603c956107feb82e5e0b7cf6ad&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Dolibarr 17.0.0 PHP Code Injection Exploit</div>",
+            "url": "https://github.com/bluetoothStrawberry/CVE-2023-30253",
+            "title": "bluetoothStrawberry/CVE-2023-30253: Dolibarr 17.0.0 PHP Code Injection Exploit",
+            "date_modified": "2024-09-20T20:05:34.000Z",
+            "date_published": "2024-09-20T19:54:22.000Z",
+            "author": {
+                "name": "bluetoothStrawberry",
+                "url": "https://github.com/bluetoothStrawberry"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/18195825?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023</div>",
             "url": "https://github.com/CVEProject/cvelist",
             "title": "CVEProject/cvelist: Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023",
-            "date_modified": "2024-09-20T19:01:07.000Z",
+            "date_modified": "2024-09-20T20:01:05.000Z",
             "date_published": "2020-11-02T19:30:55.000Z",
             "author": {
                 "name": "CVEProject",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "Arlenhiack",
                 "url": "https://github.com/Arlenhiack"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/179945455?u=c46372a1604afdb67a4463223319562895dca5e1&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Event ID 189 Rule Name SOC227  Microsoft SharePoint Server Elevation of Privilege Possible CVE-2023-29357 ..  Exploitation</div>",
-            "url": "https://github.com/AhmedMansour93/Event-ID-189-Rule-Name-SOC227-CVE-2023-29357",
-            "title": "AhmedMansour93/Event-ID-189-Rule-Name-SOC227-CVE-2023-29357: Event ID 189 Rule Name SOC227  Microsoft SharePoint Server Elevation of Privilege Possible CVE-2023-29357 ..  Exploitation",
-            "date_modified": "2024-09-12T17:45:57.000Z",
-            "date_published": "2024-09-12T17:45:25.000Z",
-            "author": {
-                "name": "AhmedMansour93",
-                "url": "https://github.com/AhmedMansour93"
             }
         }
     ]

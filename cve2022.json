@@ -6,6 +6,17 @@
     "description": "CVE-2022 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/92728059?u=e6318baf13bf98eee37f7582d9e3f680b8532b81&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
+            "url": "https://github.com/btar1gan/exploit_CVE-2022-35914",
+            "title": "btar1gan/exploit_CVE-2022-35914",
+            "date_modified": "2024-09-20T19:43:22.000Z",
+            "date_published": "2024-09-20T19:28:27.000Z",
+            "author": {
+                "name": "btar1gan",
+                "url": "https://github.com/btar1gan"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/124332420?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Academy LMS &lt;= 5.10 CSRF</div>",
             "url": "https://github.com/OpenXP-Research/CVE-2022-47130",
             "title": "OpenXP-Research/CVE-2022-47130: Academy LMS <= 5.10 CSRF",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "bjrjk",
                 "url": "https://github.com/bjrjk"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/170850781?u=ce100622f41a47db83308f8f6c2e5b74cc0d297c&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>ImageMagick 7.1.0-49 vulnerable to Information Disclosure</div>",
-            "url": "https://github.com/FlojBoj/CVE-2022-44268",
-            "title": "FlojBoj/CVE-2022-44268: ImageMagick 7.1.0-49 vulnerable to Information Disclosure",
-            "date_modified": "2024-09-02T09:56:19.000Z",
-            "date_published": "2024-09-02T09:11:45.000Z",
-            "author": {
-                "name": "FlojBoj",
-                "url": "https://github.com/FlojBoj"
             }
         }
     ]
