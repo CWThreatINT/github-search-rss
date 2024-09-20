@@ -6,6 +6,17 @@
     "description": "CVE-2021 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/16516497?u=fcdd412f795c62666a6ce7e01a3c87c4ab1cceb1&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Laravel RCE Exploit Script (CVE-2021-3129) (Python)</div>",
+            "url": "https://github.com/joshuavanderpoll/CVE-2021-3129",
+            "title": "joshuavanderpoll/CVE-2021-3129: Laravel RCE Exploit Script (CVE-2021-3129) (Python)",
+            "date_modified": "2024-09-20T08:40:11.000Z",
+            "date_published": "2022-04-16T17:22:55.000Z",
+            "author": {
+                "name": "joshuavanderpoll",
+                "url": "https://github.com/joshuavanderpoll"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/124332420?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Webrun &lt;= 3.6.0.42 SQLi</div>",
             "url": "https://github.com/OpenXP-Research/CVE-2021-43650",
             "title": "OpenXP-Research/CVE-2021-43650: Webrun <= 3.6.0.42 SQLi",
@@ -91,17 +102,6 @@
             "author": {
                 "name": "phirojshah",
                 "url": "https://github.com/phirojshah"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/16516497?u=fcdd412f795c62666a6ce7e01a3c87c4ab1cceb1&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Laravel RCE Exploit Script (CVE-2021-3129) (Python)</div>",
-            "url": "https://github.com/joshuavanderpoll/CVE-2021-3129",
-            "title": "joshuavanderpoll/CVE-2021-3129: Laravel RCE Exploit Script (CVE-2021-3129) (Python)",
-            "date_modified": "2024-09-05T08:06:24.000Z",
-            "date_published": "2022-04-16T17:22:55.000Z",
-            "author": {
-                "name": "joshuavanderpoll",
-                "url": "https://github.com/joshuavanderpoll"
             }
         },
         {
