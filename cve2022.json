@@ -204,17 +204,6 @@
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/179964021?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>PoC for Cacti 1.2.22 - CVE-2022-46169</div>",
-            "url": "https://github.com/rockyroadonline/CVE-2022-46169",
-            "title": "rockyroadonline/CVE-2022-46169: PoC for Cacti 1.2.22 - CVE-2022-46169",
-            "date_modified": "2024-09-04T23:18:04.000Z",
-            "date_published": "2024-09-04T23:13:41.000Z",
-            "author": {
-                "name": "rockyroadonline",
-                "url": "https://github.com/rockyroadonline"
-            }
-        },
-        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/6657270?u=6e86e69e91892c67607a092b1566a77bc710e446&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Full Chain Analysis of CVE-2022-4262, a non-trivial feedback slot type confusion in V8.</div>",
             "url": "https://github.com/bjrjk/CVE-2022-4262",
             "title": "bjrjk/CVE-2022-4262: Full Chain Analysis of CVE-2022-4262, a non-trivial feedback slot type confusion in V8.",
@@ -223,6 +212,17 @@
             "author": {
                 "name": "bjrjk",
                 "url": "https://github.com/bjrjk"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/170850781?u=ce100622f41a47db83308f8f6c2e5b74cc0d297c&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>ImageMagick 7.1.0-49 vulnerable to Information Disclosure</div>",
+            "url": "https://github.com/FlojBoj/CVE-2022-44268",
+            "title": "FlojBoj/CVE-2022-44268: ImageMagick 7.1.0-49 vulnerable to Information Disclosure",
+            "date_modified": "2024-09-02T09:56:19.000Z",
+            "date_published": "2024-09-02T09:11:45.000Z",
+            "author": {
+                "name": "FlojBoj",
+                "url": "https://github.com/FlojBoj"
             }
         }
     ]
