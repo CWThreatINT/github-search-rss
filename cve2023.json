@@ -6,6 +6,28 @@
     "description": "CVE-2023 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/15947372?u=7b0d2bb7e6315f8bdd2bcdd5c10db8ef85cfa4f9&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>PoC for 2023-52709 - TI Bluetooth stack can fail to generate a resolvable Random Private Address (RPA) leading to DoS for already bonded peer devices. </div>",
+            "url": "https://github.com/KevinMitchell-OSWP-CISSP/CVE-2023-52709-PoC",
+            "title": "KevinMitchell-OSWP-CISSP/CVE-2023-52709-PoC: PoC for 2023-52709 - TI Bluetooth stack can fail to generate a resolvable Random Private Address (RPA) leading to DoS for already bonded peer devices. ",
+            "date_modified": "2024-09-25T01:46:17.000Z",
+            "date_published": "2024-07-08T16:48:29.000Z",
+            "author": {
+                "name": "KevinMitchell-OSWP-CISSP",
+                "url": "https://github.com/KevinMitchell-OSWP-CISSP"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/151980876?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>TOP All bugbounty pentesting CVE-2023- POC Exp  RCE example payload  Things</div>",
+            "url": "https://github.com/GhostTroops/TOP",
+            "title": "GhostTroops/TOP: TOP All bugbounty pentesting CVE-2023- POC Exp  RCE example payload  Things",
+            "date_modified": "2024-09-25T01:04:34.000Z",
+            "date_published": "2022-03-19T01:54:15.000Z",
+            "author": {
+                "name": "GhostTroops",
+                "url": "https://github.com/GhostTroops"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/18195825?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023</div>",
             "url": "https://github.com/CVEProject/cvelist",
             "title": "CVEProject/cvelist: Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023",
@@ -25,17 +47,6 @@
             "author": {
                 "name": "chunzhennn",
                 "url": "https://github.com/chunzhennn"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/151980876?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>TOP All bugbounty pentesting CVE-2023- POC Exp  RCE example payload  Things</div>",
-            "url": "https://github.com/GhostTroops/TOP",
-            "title": "GhostTroops/TOP: TOP All bugbounty pentesting CVE-2023- POC Exp  RCE example payload  Things",
-            "date_modified": "2024-09-24T01:03:43.000Z",
-            "date_published": "2022-03-19T01:54:15.000Z",
-            "author": {
-                "name": "GhostTroops",
-                "url": "https://github.com/GhostTroops"
             }
         },
         {
@@ -212,17 +223,6 @@
             "author": {
                 "name": "inviewp",
                 "url": "https://github.com/inviewp"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/179945455?u=c46372a1604afdb67a4463223319562895dca5e1&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>🚨 Just completed an incident report on Event ID 217: Apache OFBiz Auth Bypass and Code Injection 0-Day (CVE-2023-51467). This critical vulnerability allows attackers to bypass authentication and execute code remotely! Stay vigilant and ensure your systems are patched! Big thanks to LetsDefend.io for the platform to practice real-world scenarios.</div>",
-            "url": "https://github.com/AhmedMansour93/Event-ID-217-Rule-Name-SOC254-Apache-OFBiz-Auth-Bypass-and-Code-Injection-0Day-CVE-2023-51467-",
-            "title": "AhmedMansour93/Event-ID-217-Rule-Name-SOC254-Apache-OFBiz-Auth-Bypass-and-Code-Injection-0Day-CVE-2023-51467-: 🚨 Just completed an incident report on Event ID 217: Apache OFBiz Auth Bypass and Code Injection 0-Day (CVE-2023-51467). This critical vulnerability allows attackers to bypass authentication and execute code remotely! Stay vigilant and ensure your systems are patched! Big thanks to LetsDefend.io for the platform to practice real-world scenarios.",
-            "date_modified": "2024-09-13T11:48:06.000Z",
-            "date_published": "2024-09-13T11:47:07.000Z",
-            "author": {
-                "name": "AhmedMansour93",
-                "url": "https://github.com/AhmedMansour93"
             }
         }
     ]
