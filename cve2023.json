@@ -9,11 +9,22 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/18195825?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023</div>",
             "url": "https://github.com/CVEProject/cvelist",
             "title": "CVEProject/cvelist: Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023",
-            "date_modified": "2024-09-27T19:00:45.000Z",
+            "date_modified": "2024-09-27T20:00:45.000Z",
             "date_published": "2020-11-02T19:30:55.000Z",
             "author": {
                 "name": "CVEProject",
                 "url": "https://github.com/CVEProject"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/183143582?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
+            "url": "https://github.com/technicalcorp2/CVE-2023-38831-exploit-generator",
+            "title": "technicalcorp2/CVE-2023-38831-exploit-generator",
+            "date_modified": "2024-09-27T19:14:08.000Z",
+            "date_published": "2024-09-27T19:11:07.000Z",
+            "author": {
+                "name": "technicalcorp2",
+                "url": "https://github.com/technicalcorp2"
             }
         },
         {
@@ -212,17 +223,6 @@
             "author": {
                 "name": "pingjuiliao",
                 "url": "https://github.com/pingjuiliao"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/92728059?u=e6318baf13bf98eee37f7582d9e3f680b8532b81&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>New exploit for FUXA v1.1.13 - Unauthenticated remote code excecution</div>",
-            "url": "https://github.com/btar1gan/exploit_CVE-2023-33831",
-            "title": "btar1gan/exploit_CVE-2023-33831: New exploit for FUXA v1.1.13 - Unauthenticated remote code excecution",
-            "date_modified": "2024-09-13T20:37:11.000Z",
-            "date_published": "2024-09-13T20:25:31.000Z",
-            "author": {
-                "name": "btar1gan",
-                "url": "https://github.com/btar1gan"
             }
         }
     ]
