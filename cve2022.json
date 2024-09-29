@@ -6,6 +6,28 @@
     "description": "CVE-2022 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/18383407?u=c9d1276bd9ccb8b06b724c3057b1ef683fa81de7&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2022-23862: Local Privilege Escalation via Unauthenticated JMX in YSoft SafeQ</div>",
+            "url": "https://github.com/mbadanoiu/CVE-2022-23862",
+            "title": "mbadanoiu/CVE-2022-23862: CVE-2022-23862: Local Privilege Escalation via Unauthenticated JMX in YSoft SafeQ",
+            "date_modified": "2024-09-29T13:40:39.000Z",
+            "date_published": "2024-09-29T13:24:40.000Z",
+            "author": {
+                "name": "mbadanoiu",
+                "url": "https://github.com/mbadanoiu"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/18383407?u=c9d1276bd9ccb8b06b724c3057b1ef683fa81de7&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2022-23861: Multiple Stored Cross-Site Scripting in YSoft SafeQ</div>",
+            "url": "https://github.com/mbadanoiu/CVE-2022-23861",
+            "title": "mbadanoiu/CVE-2022-23861: CVE-2022-23861: Multiple Stored Cross-Site Scripting in YSoft SafeQ",
+            "date_modified": "2024-09-29T13:19:14.000Z",
+            "date_published": "2024-09-29T12:57:38.000Z",
+            "author": {
+                "name": "mbadanoiu",
+                "url": "https://github.com/mbadanoiu"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/92728059?u=e6318baf13bf98eee37f7582d9e3f680b8532b81&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
             "url": "https://github.com/btar1gan/exploit_CVE-2022-35914",
             "title": "btar1gan/exploit_CVE-2022-35914",
@@ -201,28 +223,6 @@
             "author": {
                 "name": "shhrew",
                 "url": "https://github.com/shhrew"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/6657270?u=6e86e69e91892c67607a092b1566a77bc710e446&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Full Chain Analysis of CVE-2022-4262, a non-trivial feedback slot type confusion in V8.</div>",
-            "url": "https://github.com/bjrjk/CVE-2022-4262",
-            "title": "bjrjk/CVE-2022-4262: Full Chain Analysis of CVE-2022-4262, a non-trivial feedback slot type confusion in V8.",
-            "date_modified": "2024-09-04T18:01:30.000Z",
-            "date_published": "2023-07-13T13:17:20.000Z",
-            "author": {
-                "name": "bjrjk",
-                "url": "https://github.com/bjrjk"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/170850781?u=ce100622f41a47db83308f8f6c2e5b74cc0d297c&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>ImageMagick 7.1.0-49 vulnerable to Information Disclosure</div>",
-            "url": "https://github.com/FlojBoj/CVE-2022-44268",
-            "title": "FlojBoj/CVE-2022-44268: ImageMagick 7.1.0-49 vulnerable to Information Disclosure",
-            "date_modified": "2024-09-02T09:56:19.000Z",
-            "date_published": "2024-09-02T09:11:45.000Z",
-            "author": {
-                "name": "FlojBoj",
-                "url": "https://github.com/FlojBoj"
             }
         }
     ]
