@@ -6,6 +6,17 @@
     "description": "CVE-2022 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/101915378?u=14ee21c8bc4ab0647e3101e931635b9188032fad&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>XSS via Host Header injection and Steal  Password Reset Token of another user</div>",
+            "url": "https://github.com/cyberhawk000/CVE-2022-24181",
+            "title": "cyberhawk000/CVE-2022-24181: XSS via Host Header injection and Steal  Password Reset Token of another user",
+            "date_modified": "2024-10-01T09:58:11.000Z",
+            "date_published": "2022-03-22T08:06:53.000Z",
+            "author": {
+                "name": "cyberhawk000",
+                "url": "https://github.com/cyberhawk000"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/25670930?u=6fad2f13c751b51fd47e377945d79369743f5948&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2024-40431+CVE-2022-25479 chain for EOP(DATA ONLY ATTACK) ROUGHT SKELLETON ATM. WILL EVENTUALLY TURN IT INTO FULL EOP</div>",
             "url": "https://github.com/SpiralBL0CK/CVE-2024-40431-CVE-2022-25479-EOP-CHAIN",
             "title": "SpiralBL0CK/CVE-2024-40431-CVE-2022-25479-EOP-CHAIN: CVE-2024-40431+CVE-2022-25479 chain for EOP(DATA ONLY ATTACK) ROUGHT SKELLETON ATM. WILL EVENTUALLY TURN IT INTO FULL EOP",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "KaoXx",
                 "url": "https://github.com/KaoXx"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/179271961?u=22f4923112465cd273828ef8526434a0621c7238&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A proof of concept exploit for SQLPad RCE (CVE-2022-0944).</div>",
-            "url": "https://github.com/shhrew/CVE-2022-0944",
-            "title": "shhrew/CVE-2022-0944: A proof of concept exploit for SQLPad RCE (CVE-2022-0944).",
-            "date_modified": "2024-09-21T23:32:34.000Z",
-            "date_published": "2024-09-08T23:39:24.000Z",
-            "author": {
-                "name": "shhrew",
-                "url": "https://github.com/shhrew"
             }
         }
     ]
