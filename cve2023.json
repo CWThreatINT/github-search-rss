@@ -9,7 +9,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/18195825?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023</div>",
             "url": "https://github.com/CVEProject/cvelist",
             "title": "CVEProject/cvelist: Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023",
-            "date_modified": "2024-10-01T08:00:50.000Z",
+            "date_modified": "2024-10-01T09:00:51.000Z",
             "date_published": "2020-11-02T19:30:55.000Z",
             "author": {
                 "name": "CVEProject",
@@ -20,11 +20,22 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/183241815?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>In the hushed galleries of the Silent JPG Exploit, a symphony shrouded in enigma unfurls—an opus named silent-jpg-exploit-2018—a title that reverberates through the annals of intrigue.</div>",
             "url": "https://github.com/MystersCat/Jpg-Png-Exploit-Slient-Builder-Exploit-Database-Cve-2023-Malware",
             "title": "MystersCat/Jpg-Png-Exploit-Slient-Builder-Exploit-Database-Cve-2023-Malware: In the hushed galleries of the Silent JPG Exploit, a symphony shrouded in enigma unfurls—an opus named silent-jpg-exploit-2018—a title that reverberates through the annals of intrigue.",
-            "date_modified": "2024-10-01T07:59:48.000Z",
+            "date_modified": "2024-10-01T08:54:46.000Z",
             "date_published": "2024-09-28T21:16:12.000Z",
             "author": {
                 "name": "MystersCat",
                 "url": "https://github.com/MystersCat"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/76210733?u=0653c9a5b80c333252561cf8ca3d5a15a4073f7f&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Looney Tunables Local privilege escalation (CVE-2023-4911) workshop</div>",
+            "url": "https://github.com/KernelKrise/CVE-2023-4911",
+            "title": "KernelKrise/CVE-2023-4911: Looney Tunables Local privilege escalation (CVE-2023-4911) workshop",
+            "date_modified": "2024-10-01T08:39:18.000Z",
+            "date_published": "2023-10-25T11:59:34.000Z",
+            "author": {
+                "name": "KernelKrise",
+                "url": "https://github.com/KernelKrise"
             }
         },
         {
@@ -212,17 +223,6 @@
             "author": {
                 "name": "charlesgargasson",
                 "url": "https://github.com/charlesgargasson"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/2186082?u=55bb4753159a2278a2911c1dc147ddd3ddbbd8bd&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Reflected Cross-Site Scripting in TOTVS Fluig Plataform 1.6.X - 1.8.1</div>",
-            "url": "https://github.com/erickfernandox/CVE-2023-6275",
-            "title": "erickfernandox/CVE-2023-6275: Reflected Cross-Site Scripting in TOTVS Fluig Plataform 1.6.X - 1.8.1",
-            "date_modified": "2024-09-17T15:08:37.000Z",
-            "date_published": "2024-09-04T02:33:46.000Z",
-            "author": {
-                "name": "erickfernandox",
-                "url": "https://github.com/erickfernandox"
             }
         }
     ]
