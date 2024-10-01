@@ -6,14 +6,25 @@
     "description": "CVE-2023 FEED on GitHub",
     "items": [
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/78701239?u=9e68d2365d0c26e3994dc3e04864bc97ccb91348&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2023-46918 | CVE-2023-46919</div>",
-            "url": "https://github.com/actuator/com.phlox.simpleserver",
-            "title": "actuator/com.phlox.simpleserver: CVE-2023-46918 | CVE-2023-46919",
-            "date_modified": "2024-10-01T00:38:14.000Z",
-            "date_published": "2023-09-13T22:15:21.000Z",
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/18195825?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023</div>",
+            "url": "https://github.com/CVEProject/cvelist",
+            "title": "CVEProject/cvelist: Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023",
+            "date_modified": "2024-10-01T02:00:47.000Z",
+            "date_published": "2020-11-02T19:30:55.000Z",
             "author": {
-                "name": "actuator",
-                "url": "https://github.com/actuator"
+                "name": "CVEProject",
+                "url": "https://github.com/CVEProject"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/151980876?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>TOP All bugbounty pentesting CVE-2023- POC Exp  RCE example payload  Things</div>",
+            "url": "https://github.com/GhostTroops/TOP",
+            "title": "GhostTroops/TOP: TOP All bugbounty pentesting CVE-2023- POC Exp  RCE example payload  Things",
+            "date_modified": "2024-10-01T01:09:57.000Z",
+            "date_published": "2022-03-19T01:54:15.000Z",
+            "author": {
+                "name": "GhostTroops",
+                "url": "https://github.com/GhostTroops"
             }
         },
         {
@@ -25,17 +36,6 @@
             "author": {
                 "name": "MystersCat",
                 "url": "https://github.com/MystersCat"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/18195825?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023</div>",
-            "url": "https://github.com/CVEProject/cvelist",
-            "title": "CVEProject/cvelist: Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023",
-            "date_modified": "2024-09-30T23:00:45.000Z",
-            "date_published": "2020-11-02T19:30:55.000Z",
-            "author": {
-                "name": "CVEProject",
-                "url": "https://github.com/CVEProject"
             }
         },
         {
@@ -80,17 +80,6 @@
             "author": {
                 "name": "dywsy21",
                 "url": "https://github.com/dywsy21"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/151980876?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>TOP All bugbounty pentesting CVE-2023- POC Exp  RCE example payload  Things</div>",
-            "url": "https://github.com/GhostTroops/TOP",
-            "title": "GhostTroops/TOP: TOP All bugbounty pentesting CVE-2023- POC Exp  RCE example payload  Things",
-            "date_modified": "2024-09-30T01:05:52.000Z",
-            "date_published": "2022-03-19T01:54:15.000Z",
-            "author": {
-                "name": "GhostTroops",
-                "url": "https://github.com/GhostTroops"
             }
         },
         {
@@ -223,6 +212,17 @@
             "author": {
                 "name": "charlesgargasson",
                 "url": "https://github.com/charlesgargasson"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/2186082?u=55bb4753159a2278a2911c1dc147ddd3ddbbd8bd&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Reflected Cross-Site Scripting in TOTVS Fluig Plataform 1.6.X - 1.8.1</div>",
+            "url": "https://github.com/erickfernandox/CVE-2023-6275",
+            "title": "erickfernandox/CVE-2023-6275: Reflected Cross-Site Scripting in TOTVS Fluig Plataform 1.6.X - 1.8.1",
+            "date_modified": "2024-09-17T15:08:37.000Z",
+            "date_published": "2024-09-04T02:33:46.000Z",
+            "author": {
+                "name": "erickfernandox",
+                "url": "https://github.com/erickfernandox"
             }
         }
     ]
