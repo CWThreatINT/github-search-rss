@@ -9,7 +9,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/18195825?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023</div>",
             "url": "https://github.com/CVEProject/cvelist",
             "title": "CVEProject/cvelist: Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023",
-            "date_modified": "2024-10-03T19:00:47.000Z",
+            "date_modified": "2024-10-03T20:00:50.000Z",
             "date_published": "2020-11-02T19:30:55.000Z",
             "author": {
                 "name": "CVEProject",
@@ -20,11 +20,44 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/183241815?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>In the hushed galleries of the Silent JPG Exploit, a symphony shrouded in enigma unfurls—an opus named silent-jpg-exploit-2018—a title that reverberates through the annals of intrigue.</div>",
             "url": "https://github.com/MystersCat/Jpg-Png-Exploit-Slient-Builder-Exploit-Database-Cve-2023-Malware",
             "title": "MystersCat/Jpg-Png-Exploit-Slient-Builder-Exploit-Database-Cve-2023-Malware: In the hushed galleries of the Silent JPG Exploit, a symphony shrouded in enigma unfurls—an opus named silent-jpg-exploit-2018—a title that reverberates through the annals of intrigue.",
-            "date_modified": "2024-10-03T18:51:31.000Z",
+            "date_modified": "2024-10-03T19:50:33.000Z",
             "date_published": "2024-09-28T21:16:12.000Z",
             "author": {
                 "name": "MystersCat",
                 "url": "https://github.com/MystersCat"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/94797978?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2023-50564 -  An arbitrary file upload vulnerability in the component /inc/modules_install.php of Pluck-CMS v4.7.18 allows attackers to execute arbitrary code via uploading a crafted ZIP file.</div>",
+            "url": "https://github.com/thefizzyfish/CVE-2023-50564-pluck",
+            "title": "thefizzyfish/CVE-2023-50564-pluck: CVE-2023-50564 -  An arbitrary file upload vulnerability in the component /inc/modules_install.php of Pluck-CMS v4.7.18 allows attackers to execute arbitrary code via uploading a crafted ZIP file.",
+            "date_modified": "2024-10-03T19:30:39.000Z",
+            "date_published": "2024-08-24T19:09:21.000Z",
+            "author": {
+                "name": "thefizzyfish",
+                "url": "https://github.com/thefizzyfish"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/94797978?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2023-41425 - Cross Site Scripting vulnerability in Wonder CMS v.3.2.0 thru v.3.4.2 allows a remote attacker to execute arbitrary code via a crafted script uploaded to the installModule component.</div>",
+            "url": "https://github.com/thefizzyfish/CVE-2023-41425-wonderCMS_RCE",
+            "title": "thefizzyfish/CVE-2023-41425-wonderCMS_RCE: CVE-2023-41425 - Cross Site Scripting vulnerability in Wonder CMS v.3.2.0 thru v.3.4.2 allows a remote attacker to execute arbitrary code via a crafted script uploaded to the installModule component.",
+            "date_modified": "2024-10-03T19:30:07.000Z",
+            "date_published": "2024-08-27T16:10:08.000Z",
+            "author": {
+                "name": "thefizzyfish",
+                "url": "https://github.com/thefizzyfish"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/94797978?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Python exploit for Chamilo Unrestricted File Upload Vuln - CVE-2023-4220</div>",
+            "url": "https://github.com/thefizzyfish/CVE-2023-4220",
+            "title": "thefizzyfish/CVE-2023-4220: Python exploit for Chamilo Unrestricted File Upload Vuln - CVE-2023-4220",
+            "date_modified": "2024-10-03T19:29:04.000Z",
+            "date_published": "2024-08-24T15:25:28.000Z",
+            "author": {
+                "name": "thefizzyfish",
+                "url": "https://github.com/thefizzyfish"
             }
         },
         {
@@ -190,39 +223,6 @@
             "author": {
                 "name": "bluetoothStrawberry",
                 "url": "https://github.com/bluetoothStrawberry"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/177733389?u=9af4fb91ec8777d8d4858def97b660049696f2bb&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>teamcity-exploit-cve-2023-42793</div>",
-            "url": "https://github.com/SwiftSecur/teamcity-exploit-cve-2023-42793",
-            "title": "SwiftSecur/teamcity-exploit-cve-2023-42793: teamcity-exploit-cve-2023-42793",
-            "date_modified": "2024-09-23T08:47:09.000Z",
-            "date_published": "2024-09-20T12:15:25.000Z",
-            "author": {
-                "name": "SwiftSecur",
-                "url": "https://github.com/SwiftSecur"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/124332420?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2023-47253 | Qualitor &lt;= 8.20 RCE</div>",
-            "url": "https://github.com/OpenXP-Research/CVE-2023-47253",
-            "title": "OpenXP-Research/CVE-2023-47253: CVE-2023-47253 | Qualitor <= 8.20 RCE",
-            "date_modified": "2024-09-19T14:15:31.000Z",
-            "date_published": "2024-09-19T14:06:47.000Z",
-            "author": {
-                "name": "OpenXP-Research",
-                "url": "https://github.com/OpenXP-Research"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/51921808?u=689b0dfa050e4285f731e049e1a7407c9958e084&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2023-47253 | Qualitor &lt;= 8.20 RCE</div>",
-            "url": "https://github.com/vnxdtzip/CVE-2023-47253",
-            "title": "vnxdtzip/CVE-2023-47253: CVE-2023-47253 | Qualitor <= 8.20 RCE",
-            "date_modified": "2024-09-26T01:46:35.000Z",
-            "date_published": "2024-09-19T13:59:07.000Z",
-            "author": {
-                "name": "vnxdtzip",
-                "url": "https://github.com/vnxdtzip"
             }
         }
     ]
