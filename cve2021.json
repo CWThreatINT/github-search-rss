@@ -6,6 +6,17 @@
     "description": "CVE-2021 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/73353966?u=967f983122da0ffd9ba40346fd0c789b7e08a4b4&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
+            "url": "https://github.com/EuJin03/CVE-2021-4034-PoC",
+            "title": "EuJin03/CVE-2021-4034-PoC",
+            "date_modified": "2024-10-04T12:41:57.000Z",
+            "date_published": "2024-10-04T12:33:59.000Z",
+            "author": {
+                "name": "EuJin03",
+                "url": "https://github.com/EuJin03"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/44860700?u=f81e55de1bcfcb050b3f05c43edec6499c28b984&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
             "url": "https://github.com/9lyph/CVE-2021-45901",
             "title": "9lyph/CVE-2021-45901",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "Zyx2440",
                 "url": "https://github.com/Zyx2440"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/132546612?u=acd3a74d513f128291c2b199bc91318516fa74cb&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>confluence rce (CVE-2021-26084, CVE-2022-26134, CVE-2023-22527)</div>",
-            "url": "https://github.com/BBD-YZZ/Confluence-RCE",
-            "title": "BBD-YZZ/Confluence-RCE: confluence rce (CVE-2021-26084, CVE-2022-26134, CVE-2023-22527)",
-            "date_modified": "2024-09-22T06:25:09.000Z",
-            "date_published": "2024-05-29T03:20:22.000Z",
-            "author": {
-                "name": "BBD-YZZ",
-                "url": "https://github.com/BBD-YZZ"
             }
         }
     ]
