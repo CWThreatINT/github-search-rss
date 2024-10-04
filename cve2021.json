@@ -6,6 +6,17 @@
     "description": "CVE-2021 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/39704385?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Exploit of CVE-2021-23639 for the vulnerable library 'md-to-pdf' in JS</div>",
+            "url": "https://github.com/MohandAcherir/CVE-2021-23639",
+            "title": "MohandAcherir/CVE-2021-23639: Exploit of CVE-2021-23639 for the vulnerable library 'md-to-pdf' in JS",
+            "date_modified": "2024-10-04T14:05:42.000Z",
+            "date_published": "2024-10-04T14:02:46.000Z",
+            "author": {
+                "name": "MohandAcherir",
+                "url": "https://github.com/MohandAcherir"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/73353966?u=967f983122da0ffd9ba40346fd0c789b7e08a4b4&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
             "url": "https://github.com/EuJin03/CVE-2021-4034-PoC",
             "title": "EuJin03/CVE-2021-4034-PoC",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "lsclsclsc",
                 "url": "https://github.com/lsclsclsc"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/178906552?u=c227af3e9a10d44c14d8ef9bf6cf830cef830a1c&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Apache-HTTP-Server-2.4.50-RCE This tool is designed to test Apache servers for the CVE-2021-41773 / CVE-2021-42013 vulnerability. It is intended for educational purposes only and should be used responsibly on systems you have explicit permission to test.</div>",
-            "url": "https://github.com/Zyx2440/Apache-HTTP-Server-2.4.50-RCE",
-            "title": "Zyx2440/Apache-HTTP-Server-2.4.50-RCE: Apache-HTTP-Server-2.4.50-RCE This tool is designed to test Apache servers for the CVE-2021-41773 / CVE-2021-42013 vulnerability. It is intended for educational purposes only and should be used responsibly on systems you have explicit permission to test.",
-            "date_modified": "2024-08-27T12:54:48.000Z",
-            "date_published": "2024-08-26T01:54:06.000Z",
-            "author": {
-                "name": "Zyx2440",
-                "url": "https://github.com/Zyx2440"
             }
         }
     ]
