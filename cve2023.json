@@ -6,10 +6,21 @@
     "description": "CVE-2023 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/18195825?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023</div>",
+            "url": "https://github.com/CVEProject/cvelist",
+            "title": "CVEProject/cvelist: Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023",
+            "date_modified": "2024-10-05T07:00:40.000Z",
+            "date_published": "2020-11-02T19:30:55.000Z",
+            "author": {
+                "name": "CVEProject",
+                "url": "https://github.com/CVEProject"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/183241815?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>In the hushed galleries of the Silent JPG Exploit, a symphony shrouded in enigma unfurls—an opus named silent-jpg-exploit-2018—a title that reverberates through the annals of intrigue.</div>",
             "url": "https://github.com/MystersCat/Jpg-Png-Exploit-Slient-Builder-Exploit-Database-Cve-2023-Malware",
             "title": "MystersCat/Jpg-Png-Exploit-Slient-Builder-Exploit-Database-Cve-2023-Malware: In the hushed galleries of the Silent JPG Exploit, a symphony shrouded in enigma unfurls—an opus named silent-jpg-exploit-2018—a title that reverberates through the annals of intrigue.",
-            "date_modified": "2024-10-05T05:53:25.000Z",
+            "date_modified": "2024-10-05T06:59:32.000Z",
             "date_published": "2024-09-28T21:16:12.000Z",
             "author": {
                 "name": "MystersCat",
@@ -17,14 +28,47 @@
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/18195825?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023</div>",
-            "url": "https://github.com/CVEProject/cvelist",
-            "title": "CVEProject/cvelist: Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023",
-            "date_modified": "2024-10-05T03:00:41.000Z",
-            "date_published": "2020-11-02T19:30:55.000Z",
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/173750065?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
+            "url": "https://github.com/inviewp/Qualitor_CVE-2023-47253",
+            "title": "inviewp/Qualitor_CVE-2023-47253",
+            "date_modified": "2024-10-05T06:32:53.000Z",
+            "date_published": "2024-10-05T06:31:22.000Z",
             "author": {
-                "name": "CVEProject",
-                "url": "https://github.com/CVEProject"
+                "name": "inviewp",
+                "url": "https://github.com/inviewp"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/59293085?u=6e3dcea881813bd3ebf55b9ba5357c66cd233b70&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>The Popup Builder WordPress plugin before 4.2.3 does not prevent simple visitors from updating existing popups, and injecting raw JavaScript in them, which could lead to Stored XSS attacks.</div>",
+            "url": "https://github.com/rxerium/CVE-2023-6000",
+            "title": "rxerium/CVE-2023-6000: The Popup Builder WordPress plugin before 4.2.3 does not prevent simple visitors from updating existing popups, and injecting raw JavaScript in them, which could lead to Stored XSS attacks.",
+            "date_modified": "2024-10-05T06:21:01.000Z",
+            "date_published": "2024-03-10T16:20:22.000Z",
+            "author": {
+                "name": "rxerium",
+                "url": "https://github.com/rxerium"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/59293085?u=6e3dcea881813bd3ebf55b9ba5357c66cd233b70&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>LiteSpeed Cache plugin for WordPress that could enable unauthenticated users to escalate their privileges</div>",
+            "url": "https://github.com/rxerium/CVE-2023-40000",
+            "title": "rxerium/CVE-2023-40000: LiteSpeed Cache plugin for WordPress that could enable unauthenticated users to escalate their privileges",
+            "date_modified": "2024-10-05T06:19:13.000Z",
+            "date_published": "2024-02-28T19:36:40.000Z",
+            "author": {
+                "name": "rxerium",
+                "url": "https://github.com/rxerium"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/59293085?u=6e3dcea881813bd3ebf55b9ba5357c66cd233b70&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Atlassian Confluence Data Center and Server Broken Access Control Vulnerability</div>",
+            "url": "https://github.com/rxerium/CVE-2023-22515",
+            "title": "rxerium/CVE-2023-22515: Atlassian Confluence Data Center and Server Broken Access Control Vulnerability",
+            "date_modified": "2024-10-05T06:16:42.000Z",
+            "date_published": "2024-02-24T16:04:35.000Z",
+            "author": {
+                "name": "rxerium",
+                "url": "https://github.com/rxerium"
             }
         },
         {
@@ -179,50 +223,6 @@
             "author": {
                 "name": "dywsy21",
                 "url": "https://github.com/dywsy21"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/170502012?u=116d07ea559b768c9727ebac2cd5d607ca7febd6&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>This project contains a Python script that exploits **CVE-2023-38831**, a vulnerability in **WinRAR** versions prior to 6.23. The exploit generates a **malicious RAR archive** that triggers the execution of arbitrary code when the victim opens a benign-looking file within the archive (such as a PDF). </div>",
-            "url": "https://github.com/technicalcorp0/CVE-2023-38831-Exploit",
-            "title": "technicalcorp0/CVE-2023-38831-Exploit: This project contains a Python script that exploits **CVE-2023-38831**, a vulnerability in **WinRAR** versions prior to 6.23. The exploit generates a **malicious RAR archive** that triggers the execution of arbitrary code when the victim opens a benign-looking file within the archive (such as a PDF). ",
-            "date_modified": "2024-09-27T18:28:09.000Z",
-            "date_published": "2024-09-27T18:23:30.000Z",
-            "author": {
-                "name": "technicalcorp0",
-                "url": "https://github.com/technicalcorp0"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/122083416?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>d</div>",
-            "url": "https://github.com/ra3edAJ/LAB-DFIR-cve-2023-38831",
-            "title": "ra3edAJ/LAB-DFIR-cve-2023-38831: d",
-            "date_modified": "2024-09-26T19:49:33.000Z",
-            "date_published": "2024-09-26T19:44:08.000Z",
-            "author": {
-                "name": "ra3edAJ",
-                "url": "https://github.com/ra3edAJ"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/15947372?u=7b0d2bb7e6315f8bdd2bcdd5c10db8ef85cfa4f9&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>PoC for 2023-52709 - TI Bluetooth stack can fail to generate a resolvable Random Private Address (RPA) leading to DoS for already bonded peer devices. </div>",
-            "url": "https://github.com/KevinMitchell-OSWP-CISSP/CVE-2023-52709-PoC",
-            "title": "KevinMitchell-OSWP-CISSP/CVE-2023-52709-PoC: PoC for 2023-52709 - TI Bluetooth stack can fail to generate a resolvable Random Private Address (RPA) leading to DoS for already bonded peer devices. ",
-            "date_modified": "2024-09-26T15:27:13.000Z",
-            "date_published": "2024-07-08T16:48:29.000Z",
-            "author": {
-                "name": "KevinMitchell-OSWP-CISSP",
-                "url": "https://github.com/KevinMitchell-OSWP-CISSP"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/38834411?u=6bafffa2a559af0c94370c0c5a84d1c952061cf4&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Oracle VirtualBox VGA OOB-Read Vulnerability</div>",
-            "url": "https://github.com/chunzhennn/cve-2023-21987-poc",
-            "title": "chunzhennn/cve-2023-21987-poc: Oracle VirtualBox VGA OOB-Read Vulnerability",
-            "date_modified": "2024-09-24T14:04:06.000Z",
-            "date_published": "2024-09-24T14:01:57.000Z",
-            "author": {
-                "name": "chunzhennn",
-                "url": "https://github.com/chunzhennn"
             }
         }
     ]
