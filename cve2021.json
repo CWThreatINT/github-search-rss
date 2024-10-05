@@ -6,6 +6,17 @@
     "description": "CVE-2021 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/18898977?u=9406f686f6ac65cde2f37a375fc7e0370ec58a3c&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2021-3129 Laravel Ignition RCE Exploit</div>",
+            "url": "https://github.com/0x0d3ad/CVE-2021-3129",
+            "title": "0x0d3ad/CVE-2021-3129: CVE-2021-3129 Laravel Ignition RCE Exploit",
+            "date_modified": "2024-10-05T05:04:45.000Z",
+            "date_published": "2024-09-29T05:09:41.000Z",
+            "author": {
+                "name": "0x0d3ad",
+                "url": "https://github.com/0x0d3ad"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/99600256?u=d67fa98888f602ccec6d8c71739d47eae7c0fe35&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2021-25646 Apache Druid 远程代码执行 漏洞检测和利用工具</div>",
             "url": "https://github.com/luobai8/CVE-2021-25646-exp",
             "title": "luobai8/CVE-2021-25646-exp: CVE-2021-25646 Apache Druid 远程代码执行 漏洞检测和利用工具",
@@ -47,17 +58,6 @@
             "author": {
                 "name": "9lyph",
                 "url": "https://github.com/9lyph"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/18898977?u=9406f686f6ac65cde2f37a375fc7e0370ec58a3c&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2021-3129 Laravel Ignition RCE Exploit</div>",
-            "url": "https://github.com/0x0d3ad/CVE-2021-3129",
-            "title": "0x0d3ad/CVE-2021-3129: CVE-2021-3129 Laravel Ignition RCE Exploit",
-            "date_modified": "2024-09-29T11:18:51.000Z",
-            "date_published": "2024-09-29T05:09:41.000Z",
-            "author": {
-                "name": "0x0d3ad",
-                "url": "https://github.com/0x0d3ad"
             }
         },
         {
