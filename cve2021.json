@@ -6,6 +6,17 @@
     "description": "CVE-2021 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/59094087?u=49ca49d54126928fa62d48000992ad10bc345be7&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Python implementation of a tool for decrypting and encrypting sensitive data in Grafana, specifically addressing the vulnerabilities associated with CVE-2021-43798. Grafana encrypts all data source passwords using the AES algorithm with the secret_key found in the defaults.ini configuration file.</div>",
+            "url": "https://github.com/sazzad1337/Grafana-CVE-2021-43798",
+            "title": "sazzad1337/Grafana-CVE-2021-43798: Python implementation of a tool for decrypting and encrypting sensitive data in Grafana, specifically addressing the vulnerabilities associated with CVE-2021-43798. Grafana encrypts all data source passwords using the AES algorithm with the secret_key found in the defaults.ini configuration file.",
+            "date_modified": "2024-10-05T18:51:16.000Z",
+            "date_published": "2024-10-05T18:51:12.000Z",
+            "author": {
+                "name": "sazzad1337",
+                "url": "https://github.com/sazzad1337"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/18898977?u=9406f686f6ac65cde2f37a375fc7e0370ec58a3c&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2021-3129 Laravel Ignition RCE Exploit</div>",
             "url": "https://github.com/0x0d3ad/CVE-2021-3129",
             "title": "0x0d3ad/CVE-2021-3129: CVE-2021-3129 Laravel Ignition RCE Exploit",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "jkska23",
                 "url": "https://github.com/jkska23"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/105418279?u=c69154effc1ec4bca97f8998d88e4680b321bc42&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>POC &amp; Lab For CVE-2021-41773</div>",
-            "url": "https://github.com/0xc4t/CVE-2021-41773",
-            "title": "0xc4t/CVE-2021-41773: POC & Lab For CVE-2021-41773",
-            "date_modified": "2024-08-27T11:37:07.000Z",
-            "date_published": "2024-08-26T09:07:33.000Z",
-            "author": {
-                "name": "0xc4t",
-                "url": "https://github.com/0xc4t"
             }
         }
     ]
