@@ -6,10 +6,21 @@
     "description": "CVE-2023 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/18195825?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023</div>",
+            "url": "https://github.com/CVEProject/cvelist",
+            "title": "CVEProject/cvelist: Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023",
+            "date_modified": "2024-10-06T19:00:41.000Z",
+            "date_published": "2020-11-02T19:30:55.000Z",
+            "author": {
+                "name": "CVEProject",
+                "url": "https://github.com/CVEProject"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/183241815?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>In the hushed galleries of the Silent JPG Exploit, a symphony shrouded in enigma unfurls—an opus named silent-jpg-exploit-2018—a title that reverberates through the annals of intrigue.</div>",
             "url": "https://github.com/MystersCat/Jpg-Png-Exploit-Slient-Builder-Exploit-Database-Cve-2023-Malware",
             "title": "MystersCat/Jpg-Png-Exploit-Slient-Builder-Exploit-Database-Cve-2023-Malware: In the hushed galleries of the Silent JPG Exploit, a symphony shrouded in enigma unfurls—an opus named silent-jpg-exploit-2018—a title that reverberates through the annals of intrigue.",
-            "date_modified": "2024-10-06T17:51:50.000Z",
+            "date_modified": "2024-10-06T18:57:15.000Z",
             "date_published": "2024-09-28T21:16:12.000Z",
             "author": {
                 "name": "MystersCat",
@@ -17,14 +28,14 @@
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/18195825?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023</div>",
-            "url": "https://github.com/CVEProject/cvelist",
-            "title": "CVEProject/cvelist: Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023",
-            "date_modified": "2024-10-06T17:00:40.000Z",
-            "date_published": "2020-11-02T19:30:55.000Z",
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/108727157?u=c6ddcb8d6e9aa87f820c1c4687cec66ee97ec2bd&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Stack-Overflow on Citrix</div>",
+            "url": "https://github.com/Mohammaddvd/CVE-2023-3519",
+            "title": "Mohammaddvd/CVE-2023-3519: Stack-Overflow on Citrix",
+            "date_modified": "2024-10-06T18:51:15.000Z",
+            "date_published": "2023-10-27T18:39:31.000Z",
             "author": {
-                "name": "CVEProject",
-                "url": "https://github.com/CVEProject"
+                "name": "Mohammaddvd",
+                "url": "https://github.com/Mohammaddvd"
             }
         },
         {
@@ -212,17 +223,6 @@
             "author": {
                 "name": "7h3w4lk3r",
                 "url": "https://github.com/7h3w4lk3r"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/76210733?u=0653c9a5b80c333252561cf8ca3d5a15a4073f7f&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Looney Tunables Local privilege escalation (CVE-2023-4911) workshop</div>",
-            "url": "https://github.com/KernelKrise/CVE-2023-4911",
-            "title": "KernelKrise/CVE-2023-4911: Looney Tunables Local privilege escalation (CVE-2023-4911) workshop",
-            "date_modified": "2024-10-01T08:39:18.000Z",
-            "date_published": "2023-10-25T11:59:34.000Z",
-            "author": {
-                "name": "KernelKrise",
-                "url": "https://github.com/KernelKrise"
             }
         }
     ]
