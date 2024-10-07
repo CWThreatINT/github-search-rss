@@ -6,6 +6,17 @@
     "description": "CVE-2022 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/137893386?u=d8ae31ca086382549eecf57a1a5f2b835b7ff881&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>is a PoC script for demonstrating an XML External Entity (XXE) vulnerability exploitation</div>",
+            "url": "https://github.com/geniuszlyy/CVE-2022-2414",
+            "title": "geniuszlyy/CVE-2022-2414: is a PoC script for demonstrating an XML External Entity (XXE) vulnerability exploitation",
+            "date_modified": "2024-10-07T15:37:31.000Z",
+            "date_published": "2024-10-07T15:36:39.000Z",
+            "author": {
+                "name": "geniuszlyy",
+                "url": "https://github.com/geniuszlyy"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/59293085?u=6e3dcea881813bd3ebf55b9ba5357c66cd233b70&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Zimbra Collaboration (ZCS) Arbitrary File Upload Vulnerability</div>",
             "url": "https://github.com/rxerium/CVE-2022-41352",
             "title": "rxerium/CVE-2022-41352: Zimbra Collaboration (ZCS) Arbitrary File Upload Vulnerability",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "xpectomas",
                 "url": "https://github.com/xpectomas"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/117660722?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Demonstrate some functionalities of Morion by generating an exploit for CVE-2022-27646 (stack buffer overflow on Netgear R6700v3 routers).</div>",
-            "url": "https://github.com/cyber-defence-campus/netgear_r6700v3_circled",
-            "title": "cyber-defence-campus/netgear_r6700v3_circled: Demonstrate some functionalities of Morion by generating an exploit for CVE-2022-27646 (stack buffer overflow on Netgear R6700v3 routers).",
-            "date_modified": "2024-09-16T20:21:57.000Z",
-            "date_published": "2023-06-01T05:10:56.000Z",
-            "author": {
-                "name": "cyber-defence-campus",
-                "url": "https://github.com/cyber-defence-campus"
             }
         }
     ]
