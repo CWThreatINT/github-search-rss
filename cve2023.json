@@ -6,10 +6,21 @@
     "description": "CVE-2023 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/25670930?u=6fad2f13c751b51fd47e377945d79369743f5948&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div> CVE-2023-35985 reproduction</div>",
+            "url": "https://github.com/SpiralBL0CK/-CVE-2023-35985",
+            "title": "SpiralBL0CK/-CVE-2023-35985:  CVE-2023-35985 reproduction",
+            "date_modified": "2024-10-07T07:07:05.000Z",
+            "date_published": "2023-12-30T06:35:21.000Z",
+            "author": {
+                "name": "SpiralBL0CK",
+                "url": "https://github.com/SpiralBL0CK"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/18195825?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023</div>",
             "url": "https://github.com/CVEProject/cvelist",
             "title": "CVEProject/cvelist: Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023",
-            "date_modified": "2024-10-07T06:00:42.000Z",
+            "date_modified": "2024-10-07T07:00:41.000Z",
             "date_published": "2020-11-02T19:30:55.000Z",
             "author": {
                 "name": "CVEProject",
@@ -20,7 +31,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/183241815?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>In the hushed galleries of the Silent JPG Exploit, a symphony shrouded in enigma unfurls—an opus named silent-jpg-exploit-2018—a title that reverberates through the annals of intrigue.</div>",
             "url": "https://github.com/MystersCat/Jpg-Png-Exploit-Slient-Builder-Exploit-Database-Cve-2023-Malware",
             "title": "MystersCat/Jpg-Png-Exploit-Slient-Builder-Exploit-Database-Cve-2023-Malware: In the hushed galleries of the Silent JPG Exploit, a symphony shrouded in enigma unfurls—an opus named silent-jpg-exploit-2018—a title that reverberates through the annals of intrigue.",
-            "date_modified": "2024-10-07T05:58:20.000Z",
+            "date_modified": "2024-10-07T06:56:19.000Z",
             "date_published": "2024-09-28T21:16:12.000Z",
             "author": {
                 "name": "MystersCat",
@@ -75,7 +86,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/22832463?u=bbefdaf998aa886d628f9c4a1d276dca8630eb9c&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Apache HTTP Server Vulnerability Testing Tool | PoC for CVE-2024-38472 , CVE-2024-39573 , CVE-2024-38477 , CVE-2024-38476 , CVE-2024-38475 , CVE-2024-38474 ,  CVE-2024-38473 , CVE-2023-38709</div>",
             "url": "https://github.com/mrmtwoj/apache-vulnerability-testing",
             "title": "mrmtwoj/apache-vulnerability-testing: Apache HTTP Server Vulnerability Testing Tool | PoC for CVE-2024-38472 , CVE-2024-39573 , CVE-2024-38477 , CVE-2024-38476 , CVE-2024-38475 , CVE-2024-38474 ,  CVE-2024-38473 , CVE-2023-38709",
-            "date_modified": "2024-10-07T05:28:42.000Z",
+            "date_modified": "2024-10-07T06:43:17.000Z",
             "date_published": "2024-10-05T20:32:45.000Z",
             "author": {
                 "name": "mrmtwoj",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "thefizzyfish",
                 "url": "https://github.com/thefizzyfish"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/129839654?u=c66c0d35f4fe48086068c3b7bdeaaa20719e3cfa&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2023-41425 (Wonder CMS XSS to RCE) exploit which serves required scripts locally. Good if you're lost at sea and have found a problem with your bike.</div>",
-            "url": "https://github.com/duck-sec/CVE-2023-41425",
-            "title": "duck-sec/CVE-2023-41425: CVE-2023-41425 (Wonder CMS XSS to RCE) exploit which serves required scripts locally. Good if you're lost at sea and have found a problem with your bike.",
-            "date_modified": "2024-10-02T14:20:23.000Z",
-            "date_published": "2024-10-02T14:05:19.000Z",
-            "author": {
-                "name": "duck-sec",
-                "url": "https://github.com/duck-sec"
             }
         }
     ]
