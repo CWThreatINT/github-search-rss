@@ -6,6 +6,17 @@
     "description": "CVE-2022 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/25135469?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Injection EJS, reverse shell possible</div>",
+            "url": "https://github.com/Hack-Oeil/EJS_INJECTION_CVE_2022",
+            "title": "Hack-Oeil/EJS_INJECTION_CVE_2022: Injection EJS, reverse shell possible",
+            "date_modified": "2024-10-08T13:56:13.000Z",
+            "date_published": "2023-11-18T10:38:25.000Z",
+            "author": {
+                "name": "Hack-Oeil",
+                "url": "https://github.com/Hack-Oeil"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/137893386?u=d8ae31ca086382549eecf57a1a5f2b835b7ff881&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>is a PoC script for demonstrating an XML External Entity (XXE) vulnerability exploitation</div>",
             "url": "https://github.com/geniuszlyy/CVE-2022-2414",
             "title": "geniuszlyy/CVE-2022-2414: is a PoC script for demonstrating an XML External Entity (XXE) vulnerability exploitation",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "impost0r",
                 "url": "https://github.com/impost0r"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/103617578?u=562d1fb9641f18a4bbadaa90edafecc22f968d01&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
-            "url": "https://github.com/xpectomas/CVE-2022-41852-Disable",
-            "title": "xpectomas/CVE-2022-41852-Disable",
-            "date_modified": "2024-09-12T05:51:40.000Z",
-            "date_published": "2024-09-12T05:43:31.000Z",
-            "author": {
-                "name": "xpectomas",
-                "url": "https://github.com/xpectomas"
             }
         }
     ]
