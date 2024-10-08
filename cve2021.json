@@ -6,6 +6,28 @@
     "description": "CVE-2021 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/75860783?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Proof of Concept (PoC) for the Log4Shell vulnerability (CVE-2021-44228), developed as part of the coursework for the curricular unit TPAS in the Master's degree in Information Security at FCUP.</div>",
+            "url": "https://github.com/Carlos-Mesquita/TPASLog4ShellPoC",
+            "title": "Carlos-Mesquita/TPASLog4ShellPoC: Proof of Concept (PoC) for the Log4Shell vulnerability (CVE-2021-44228), developed as part of the coursework for the curricular unit TPAS in the Master's degree in Information Security at FCUP.",
+            "date_modified": "2024-10-08T18:07:26.000Z",
+            "date_published": "2024-10-08T18:07:21.000Z",
+            "author": {
+                "name": "Carlos-Mesquita",
+                "url": "https://github.com/Carlos-Mesquita"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/170657414?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
+            "url": "https://github.com/Agilevatester/FlaskCache_CVE-2021-33026_POC",
+            "title": "Agilevatester/FlaskCache_CVE-2021-33026_POC",
+            "date_modified": "2024-10-08T18:00:09.000Z",
+            "date_published": "2024-10-08T17:27:56.000Z",
+            "author": {
+                "name": "Agilevatester",
+                "url": "https://github.com/Agilevatester"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/59094087?u=49ca49d54126928fa62d48000992ad10bc345be7&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Python implementation of a tool for decrypting and encrypting sensitive data in Grafana, specifically addressing the vulnerabilities associated with CVE-2021-43798. Grafana encrypts all data source passwords using the AES algorithm with the secret_key found in the defaults.ini configuration file.</div>",
             "url": "https://github.com/sazzad1337/Grafana-CVE-2021-43798",
             "title": "sazzad1337/Grafana-CVE-2021-43798: Python implementation of a tool for decrypting and encrypting sensitive data in Grafana, specifically addressing the vulnerabilities associated with CVE-2021-43798. Grafana encrypts all data source passwords using the AES algorithm with the secret_key found in the defaults.ini configuration file.",
@@ -201,28 +223,6 @@
             "author": {
                 "name": "corelight",
                 "url": "https://github.com/corelight"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/26369589?u=1ce9fe91fa60f45f0084f428f06c030b5d50a4e1&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Script en bash que permite identificar la vulnerabilidad Log4j CVE-2021-44228 de forma remota.</div>",
-            "url": "https://github.com/julian911015/Log4j-Scanner-Exploit",
-            "title": "julian911015/Log4j-Scanner-Exploit: Script en bash que permite identificar la vulnerabilidad Log4j CVE-2021-44228 de forma remota.",
-            "date_modified": "2024-09-19T08:09:04.000Z",
-            "date_published": "2021-12-20T15:22:50.000Z",
-            "author": {
-                "name": "julian911015",
-                "url": "https://github.com/julian911015"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/51857894?u=9167e74facbf2bffd39fb2c87c74a6b80d2db336&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Apache: a Mainstream Web Service Turned a Vector of Attack for Remote Code Execution</div>",
-            "url": "https://github.com/jkska23/Additive-Vulnerability-Analysis-CVE-2021-41773",
-            "title": "jkska23/Additive-Vulnerability-Analysis-CVE-2021-41773: Apache: a Mainstream Web Service Turned a Vector of Attack for Remote Code Execution",
-            "date_modified": "2024-08-28T00:54:26.000Z",
-            "date_published": "2024-08-28T00:49:09.000Z",
-            "author": {
-                "name": "jkska23",
-                "url": "https://github.com/jkska23"
             }
         }
     ]
