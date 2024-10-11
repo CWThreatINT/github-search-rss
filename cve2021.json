@@ -6,6 +6,17 @@
     "description": "CVE-2021 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/159681973?u=5f58ba628dbe5f9dc8bad03ec134367f6af6e2b7&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>历史漏洞的细节以及利用方法汇总收集</div>",
+            "url": "https://github.com/OracleNep/Nday-Exploit-Plan",
+            "title": "OracleNep/Nday-Exploit-Plan: 历史漏洞的细节以及利用方法汇总收集",
+            "date_modified": "2024-10-11T03:10:03.000Z",
+            "date_published": "2024-02-11T06:55:47.000Z",
+            "author": {
+                "name": "OracleNep",
+                "url": "https://github.com/OracleNep"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/114837630?u=5d2f4f15f37a28681dd93884be0b32a575f29819&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>On October 4, 2021, Apache HTTP Server Project released Security advisory on a Path traversal and File disclosure vulnerability in Apache HTTP Server 2.4.49 and 2.4.50 tracked as CVE-2021-41773 and CVE-2021-42013. In the advisory, Apache also highlighted “the issue is known to be exploited in the wild” and later it was identified that the vulnerabi</div>",
             "url": "https://github.com/dream434/cve-2021-42013-apache",
             "title": "dream434/cve-2021-42013-apache: On October 4, 2021, Apache HTTP Server Project released Security advisory on a Path traversal and File disclosure vulnerability in Apache HTTP Server 2.4.49 and 2.4.50 tracked as CVE-2021-41773 and CVE-2021-42013. In the advisory, Apache also highlighted “the issue is known to be exploited in the wild” and later it was identified that the vulnerabi",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "OtisSymbos",
                 "url": "https://github.com/OtisSymbos"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/41940520?u=b98452f9596d0fe8dc9236850de678cd1ad93295&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
-            "url": "https://github.com/phirojshah/CVE-2021-4044",
-            "title": "phirojshah/CVE-2021-4044",
-            "date_modified": "2024-09-05T16:26:52.000Z",
-            "date_published": "2024-09-05T15:15:28.000Z",
-            "author": {
-                "name": "phirojshah",
-                "url": "https://github.com/phirojshah"
             }
         }
     ]

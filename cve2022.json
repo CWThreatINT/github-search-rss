@@ -6,6 +6,17 @@
     "description": "CVE-2022 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/159681973?u=5f58ba628dbe5f9dc8bad03ec134367f6af6e2b7&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>历史漏洞的细节以及利用方法汇总收集</div>",
+            "url": "https://github.com/OracleNep/Nday-Exploit-Plan",
+            "title": "OracleNep/Nday-Exploit-Plan: 历史漏洞的细节以及利用方法汇总收集",
+            "date_modified": "2024-10-11T03:10:03.000Z",
+            "date_published": "2024-02-11T06:55:47.000Z",
+            "author": {
+                "name": "OracleNep",
+                "url": "https://github.com/OracleNep"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/25135469?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Injection EJS, reverse shell possible</div>",
             "url": "https://github.com/Hack-Oeil/EJS_INJECTION_CVE_2022",
             "title": "Hack-Oeil/EJS_INJECTION_CVE_2022: Injection EJS, reverse shell possible",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "Robocopsita",
                 "url": "https://github.com/Robocopsita"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/16020669?u=3ef5209db5652d914efea7f754b0deb551d8965a&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Old weaponized CVE-2022-1388 exploit.</div>",
-            "url": "https://github.com/impost0r/CVE-2022-1388",
-            "title": "impost0r/CVE-2022-1388: Old weaponized CVE-2022-1388 exploit.",
-            "date_modified": "2024-09-12T17:27:23.000Z",
-            "date_published": "2024-09-12T17:25:23.000Z",
-            "author": {
-                "name": "impost0r",
-                "url": "https://github.com/impost0r"
             }
         }
     ]
