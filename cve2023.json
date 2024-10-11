@@ -6,10 +6,21 @@
     "description": "CVE-2023 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/184635963?u=99f5ede87e03060052330a6dac0aa394790b0143&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2023-3824 PoC</div>",
+            "url": "https://github.com/baesh3r/poc-CVE-2023-3824",
+            "title": "baesh3r/poc-CVE-2023-3824: CVE-2023-3824 PoC",
+            "date_modified": "2024-10-11T11:02:23.000Z",
+            "date_published": "2024-10-11T10:53:04.000Z",
+            "author": {
+                "name": "baesh3r",
+                "url": "https://github.com/baesh3r"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/183241815?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>In the hushed galleries of the Silent JPG Exploit, a symphony shrouded in enigma unfurls—an opus named silent-jpg-exploit-2018—a title that reverberates through the annals of intrigue.</div>",
             "url": "https://github.com/MystersCat/Jpg-Png-Exploit-Slient-Builder-Exploit-Database-Cve-2023-Malware",
             "title": "MystersCat/Jpg-Png-Exploit-Slient-Builder-Exploit-Database-Cve-2023-Malware: In the hushed galleries of the Silent JPG Exploit, a symphony shrouded in enigma unfurls—an opus named silent-jpg-exploit-2018—a title that reverberates through the annals of intrigue.",
-            "date_modified": "2024-10-11T09:51:51.000Z",
+            "date_modified": "2024-10-11T10:57:38.000Z",
             "date_published": "2024-09-28T21:16:12.000Z",
             "author": {
                 "name": "MystersCat",
@@ -209,17 +220,6 @@
             "title": "rxerium/CVE-2023-6000: The Popup Builder WordPress plugin before 4.2.3 does not prevent simple visitors from updating existing popups, and injecting raw JavaScript in them, which could lead to Stored XSS attacks.",
             "date_modified": "2024-10-05T06:21:01.000Z",
             "date_published": "2024-03-10T16:20:22.000Z",
-            "author": {
-                "name": "rxerium",
-                "url": "https://github.com/rxerium"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/59293085?u=6e3dcea881813bd3ebf55b9ba5357c66cd233b70&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>LiteSpeed Cache plugin for WordPress that could enable unauthenticated users to escalate their privileges</div>",
-            "url": "https://github.com/rxerium/CVE-2023-40000",
-            "title": "rxerium/CVE-2023-40000: LiteSpeed Cache plugin for WordPress that could enable unauthenticated users to escalate their privileges",
-            "date_modified": "2024-10-05T06:19:13.000Z",
-            "date_published": "2024-02-28T19:36:40.000Z",
             "author": {
                 "name": "rxerium",
                 "url": "https://github.com/rxerium"
