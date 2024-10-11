@@ -6,6 +6,17 @@
     "description": "CVE-2022 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/73068658?u=42657502d4616dbd31276f2577ee6abad1d8be6e&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
+            "url": "https://github.com/AgustinESI/CVE-2022-1329",
+            "title": "AgustinESI/CVE-2022-1329",
+            "date_modified": "2024-10-11T16:58:40.000Z",
+            "date_published": "2024-10-11T16:57:20.000Z",
+            "author": {
+                "name": "AgustinESI",
+                "url": "https://github.com/AgustinESI"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/159681973?u=5f58ba628dbe5f9dc8bad03ec134367f6af6e2b7&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>历史漏洞的细节以及利用方法汇总收集</div>",
             "url": "https://github.com/OracleNep/Nday-Exploit-Plan",
             "title": "OracleNep/Nday-Exploit-Plan: 历史漏洞的细节以及利用方法汇总收集",
@@ -31,7 +42,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/137893386?u=d8ae31ca086382549eecf57a1a5f2b835b7ff881&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>is a PoC script for demonstrating an XML External Entity (XXE) vulnerability exploitation</div>",
             "url": "https://github.com/geniuszlyy/CVE-2022-2414",
             "title": "geniuszlyy/CVE-2022-2414: is a PoC script for demonstrating an XML External Entity (XXE) vulnerability exploitation",
-            "date_modified": "2024-10-07T15:37:31.000Z",
+            "date_modified": "2024-10-11T16:47:28.000Z",
             "date_published": "2024-10-07T15:36:39.000Z",
             "author": {
                 "name": "geniuszlyy",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "joelindra",
                 "url": "https://github.com/joelindra"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/181462171?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
-            "url": "https://github.com/Robocopsita/CVE-2022-0944_RCE_POC",
-            "title": "Robocopsita/CVE-2022-0944_RCE_POC",
-            "date_modified": "2024-09-27T11:59:56.000Z",
-            "date_published": "2024-09-13T09:30:08.000Z",
-            "author": {
-                "name": "Robocopsita",
-                "url": "https://github.com/Robocopsita"
             }
         }
     ]
