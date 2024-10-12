@@ -6,6 +6,28 @@
     "description": "CVE-2021 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/184594317?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2021-40539：ADSelfService Plus RCE漏洞</div>",
+            "url": "https://github.com/lpyydxs/CVE-2021-40539",
+            "title": "lpyydxs/CVE-2021-40539: CVE-2021-40539：ADSelfService Plus RCE漏洞",
+            "date_modified": "2024-10-12T09:09:04.000Z",
+            "date_published": "2024-10-12T09:09:00.000Z",
+            "author": {
+                "name": "lpyydxs",
+                "url": "https://github.com/lpyydxs"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/178446553?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2021-40539：ADSelfService Plus RCE漏洞</div>",
+            "url": "https://github.com/lpyzds/CVE-2021-40539",
+            "title": "lpyzds/CVE-2021-40539: CVE-2021-40539：ADSelfService Plus RCE漏洞",
+            "date_modified": "2024-10-12T09:06:21.000Z",
+            "date_published": "2024-10-12T09:01:42.000Z",
+            "author": {
+                "name": "lpyzds",
+                "url": "https://github.com/lpyzds"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/159681973?u=5f58ba628dbe5f9dc8bad03ec134367f6af6e2b7&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>历史漏洞的细节以及利用方法汇总收集</div>",
             "url": "https://github.com/OracleNep/Nday-Exploit-Plan",
             "title": "OracleNep/Nday-Exploit-Plan: 历史漏洞的细节以及利用方法汇总收集",
@@ -201,28 +223,6 @@
             "author": {
                 "name": "acidburn2049",
                 "url": "https://github.com/acidburn2049"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/180378107?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Log4J exploit CVE-2021-44228</div>",
-            "url": "https://github.com/safeer-accuknox/log4j-shell-poc",
-            "title": "safeer-accuknox/log4j-shell-poc: Log4J exploit CVE-2021-44228",
-            "date_modified": "2024-09-11T09:39:58.000Z",
-            "date_published": "2024-09-11T05:06:50.000Z",
-            "author": {
-                "name": "safeer-accuknox",
-                "url": "https://github.com/safeer-accuknox"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/78093502?u=6d04c36c5304a8f742eeb586d49dc9796613f819&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
-            "url": "https://github.com/OtisSymbos/CVE-2021-44228-Log4Shell-",
-            "title": "OtisSymbos/CVE-2021-44228-Log4Shell-",
-            "date_modified": "2024-09-11T01:20:42.000Z",
-            "date_published": "2024-09-11T01:13:35.000Z",
-            "author": {
-                "name": "OtisSymbos",
-                "url": "https://github.com/OtisSymbos"
             }
         }
     ]
