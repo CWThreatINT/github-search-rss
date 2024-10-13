@@ -6,6 +6,17 @@
     "description": "CVE-2022 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/148013535?u=256603644cf5a49adcb0e936d59eb44938c2da89&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>PoC for RCE in SQLPad (CVE-2022-0944)</div>",
+            "url": "https://github.com/toneillcodes/poc-cve-2022-0944",
+            "title": "toneillcodes/poc-cve-2022-0944: PoC for RCE in SQLPad (CVE-2022-0944)",
+            "date_modified": "2024-10-13T22:34:09.000Z",
+            "date_published": "2024-10-13T22:34:09.000Z",
+            "author": {
+                "name": "toneillcodes",
+                "url": "https://github.com/toneillcodes"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/67920312?u=f976f928d669ae0ae4d68f8cee8aacec09ff08bd&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
             "url": "https://github.com/Agentgilspy/CVE-2022-26134",
             "title": "Agentgilspy/CVE-2022-26134",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "OpenXP-Research",
                 "url": "https://github.com/OpenXP-Research"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/57873842?u=e00e43856f978dff358b46165ef5c46fd6d9c06f&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2022-23131 Zabbix Server SAML authentication exploit</div>",
-            "url": "https://github.com/fork-bombed/CVE-2022-23131",
-            "title": "fork-bombed/CVE-2022-23131: CVE-2022-23131 Zabbix Server SAML authentication exploit",
-            "date_modified": "2024-09-18T16:20:37.000Z",
-            "date_published": "2024-09-18T15:42:26.000Z",
-            "author": {
-                "name": "fork-bombed",
-                "url": "https://github.com/fork-bombed"
             }
         }
     ]
