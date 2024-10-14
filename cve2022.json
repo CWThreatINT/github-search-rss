@@ -6,6 +6,17 @@
     "description": "CVE-2022 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/21672558?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>cve-2022-21907</div>",
+            "url": "https://github.com/corelight/cve-2022-21907",
+            "title": "corelight/cve-2022-21907: cve-2022-21907",
+            "date_modified": "2024-10-14T14:34:14.000Z",
+            "date_published": "2022-01-11T05:00:55.000Z",
+            "author": {
+                "name": "corelight",
+                "url": "https://github.com/corelight"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/148013535?u=256603644cf5a49adcb0e936d59eb44938c2da89&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>PoC for RCE in SQLPad (CVE-2022-0944)</div>",
             "url": "https://github.com/toneillcodes/CVE-2022-0944",
             "title": "toneillcodes/CVE-2022-0944: PoC for RCE in SQLPad (CVE-2022-0944)",
@@ -36,17 +47,6 @@
             "author": {
                 "name": "AgustinESI",
                 "url": "https://github.com/AgustinESI"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/21672558?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>cve-2022-21907</div>",
-            "url": "https://github.com/corelight/cve-2022-21907",
-            "title": "corelight/cve-2022-21907: cve-2022-21907",
-            "date_modified": "2024-10-12T10:25:17.000Z",
-            "date_published": "2022-01-11T05:00:55.000Z",
-            "author": {
-                "name": "corelight",
-                "url": "https://github.com/corelight"
             }
         },
         {
