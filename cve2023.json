@@ -9,7 +9,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/18195825?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023</div>",
             "url": "https://github.com/CVEProject/cvelist",
             "title": "CVEProject/cvelist: Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023",
-            "date_modified": "2024-10-15T15:01:07.000Z",
+            "date_modified": "2024-10-15T16:00:49.000Z",
             "date_published": "2020-11-02T19:30:55.000Z",
             "author": {
                 "name": "CVEProject",
@@ -17,14 +17,36 @@
             }
         },
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/118843990?u=d1aeefe1074ccd848bb6c5593d91fbd7ea3a8a16&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
+            "url": "https://github.com/Mrterrestrial/CVE-2023-50564",
+            "title": "Mrterrestrial/CVE-2023-50564",
+            "date_modified": "2024-10-15T15:58:11.000Z",
+            "date_published": "2024-10-15T15:58:06.000Z",
+            "author": {
+                "name": "Mrterrestrial",
+                "url": "https://github.com/Mrterrestrial"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/183241815?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>In the hushed galleries of the Silent JPG Exploit, a symphony shrouded in enigma unfurls—an opus named silent-jpg-exploit-2018—a title that reverberates through the annals of intrigue.</div>",
             "url": "https://github.com/MystersCat/Jpg-Png-Exploit-Slient-Builder-Exploit-Database-Cve-2023-Malware",
             "title": "MystersCat/Jpg-Png-Exploit-Slient-Builder-Exploit-Database-Cve-2023-Malware: In the hushed galleries of the Silent JPG Exploit, a symphony shrouded in enigma unfurls—an opus named silent-jpg-exploit-2018—a title that reverberates through the annals of intrigue.",
-            "date_modified": "2024-10-15T15:00:01.000Z",
+            "date_modified": "2024-10-15T15:54:56.000Z",
             "date_published": "2024-09-28T21:16:12.000Z",
             "author": {
                 "name": "MystersCat",
                 "url": "https://github.com/MystersCat"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/132420742?u=d152e0ac13127e8b49d39887f92b31fee7acf99c&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE + VDM Controls</div>",
+            "url": "https://github.com/bxtshit/CVE-2023-1488",
+            "title": "bxtshit/CVE-2023-1488: CVE + VDM Controls",
+            "date_modified": "2024-10-15T15:24:57.000Z",
+            "date_published": "2024-10-15T01:32:39.000Z",
+            "author": {
+                "name": "bxtshit",
+                "url": "https://github.com/bxtshit"
             }
         },
         {
@@ -47,17 +69,6 @@
             "author": {
                 "name": "idkwastaken",
                 "url": "https://github.com/idkwastaken"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/132420742?u=d152e0ac13127e8b49d39887f92b31fee7acf99c&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE + VDM Controls</div>",
-            "url": "https://github.com/bxtshit/CVE-2023-1488",
-            "title": "bxtshit/CVE-2023-1488: CVE + VDM Controls",
-            "date_modified": "2024-10-15T01:34:48.000Z",
-            "date_published": "2024-10-15T01:32:39.000Z",
-            "author": {
-                "name": "bxtshit",
-                "url": "https://github.com/bxtshit"
             }
         },
         {
@@ -212,17 +223,6 @@
             "author": {
                 "name": "RandomRobbieBF",
                 "url": "https://github.com/RandomRobbieBF"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/64693844?u=1eda9e9c751d9977eed771a3f8c339701e14b271&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2023-22527 | RCE using SSTI in Confluence</div>",
-            "url": "https://github.com/kh4sh3i/CVE-2023-22527",
-            "title": "kh4sh3i/CVE-2023-22527: CVE-2023-22527 | RCE using SSTI in Confluence",
-            "date_modified": "2024-10-08T14:45:52.000Z",
-            "date_published": "2024-10-06T15:16:04.000Z",
-            "author": {
-                "name": "kh4sh3i",
-                "url": "https://github.com/kh4sh3i"
             }
         }
     ]
