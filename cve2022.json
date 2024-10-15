@@ -6,17 +6,6 @@
     "description": "CVE-2022 FEED on GitHub",
     "items": [
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/16520726?u=099d8a05201f7d23b72623441abffb86ab43a966&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2022-27643 Report</div>",
-            "url": "https://github.com/MohamedNourTN/QuarksLabTest",
-            "title": "MohamedNourTN/QuarksLabTest: CVE-2022-27643 Report",
-            "date_modified": "2024-10-15T15:07:34.000Z",
-            "date_published": "2024-10-15T15:07:22.000Z",
-            "author": {
-                "name": "MohamedNourTN",
-                "url": "https://github.com/MohamedNourTN"
-            }
-        },
-        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/21672558?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A Zeek package to detect CVE-2022-26937, a vulnerability in the Network Lock Manager (NLM) protocol in Windows NFS server.</div>",
             "url": "https://github.com/corelight/CVE-2022-26937",
             "title": "corelight/CVE-2022-26937: A Zeek package to detect CVE-2022-26937, a vulnerability in the Network Lock Manager (NLM) protocol in Windows NFS server.",
@@ -223,6 +212,17 @@
             "author": {
                 "name": "btar1gan",
                 "url": "https://github.com/btar1gan"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/124332420?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Academy LMS &lt;= 5.10 CSRF</div>",
+            "url": "https://github.com/OpenXP-Research/CVE-2022-47130",
+            "title": "OpenXP-Research/CVE-2022-47130: Academy LMS <= 5.10 CSRF",
+            "date_modified": "2024-09-19T14:14:40.000Z",
+            "date_published": "2024-09-19T14:14:14.000Z",
+            "author": {
+                "name": "OpenXP-Research",
+                "url": "https://github.com/OpenXP-Research"
             }
         }
     ]
