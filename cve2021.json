@@ -6,6 +6,17 @@
     "description": "CVE-2021 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/48653609?u=de524ace6b1ad04fe649a39a1f809479ca295705&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>This document provides step-by-step instructions on performing a proof of concept (PoC) exploit on Apache HTTP Server 2.4.29, taking advantage of the path traversal vulnerability (CVE-2021-41773) and the globally accessible /tmp folder on Linux.</div>",
+            "url": "https://github.com/nwclasantha/Apache_2.4.29_Exploit",
+            "title": "nwclasantha/Apache_2.4.29_Exploit: This document provides step-by-step instructions on performing a proof of concept (PoC) exploit on Apache HTTP Server 2.4.29, taking advantage of the path traversal vulnerability (CVE-2021-41773) and the globally accessible /tmp folder on Linux.",
+            "date_modified": "2024-10-16T08:53:02.000Z",
+            "date_published": "2024-10-16T08:38:50.000Z",
+            "author": {
+                "name": "nwclasantha",
+                "url": "https://github.com/nwclasantha"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/184594317?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2021-40539：ADSelfService Plus RCE漏洞</div>",
             "url": "https://github.com/lpyydxs/CVE-2021-40539",
             "title": "lpyydxs/CVE-2021-40539: CVE-2021-40539：ADSelfService Plus RCE漏洞",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "philsajdak",
                 "url": "https://github.com/philsajdak"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/181438567?u=81aa7c698882fc05b5b7643f5916addeaf4b4a0f&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
-            "url": "https://github.com/acidburn2049/CVE-2021-3156",
-            "title": "acidburn2049/CVE-2021-3156",
-            "date_modified": "2024-09-13T04:20:37.000Z",
-            "date_published": "2024-09-13T04:20:36.000Z",
-            "author": {
-                "name": "acidburn2049",
-                "url": "https://github.com/acidburn2049"
             }
         }
     ]
