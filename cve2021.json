@@ -9,11 +9,22 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/48653609?u=de524ace6b1ad04fe649a39a1f809479ca295705&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>This document provides step-by-step instructions on performing a proof of concept (PoC) exploit on Apache HTTP Server 2.4.29, taking advantage of the path traversal vulnerability (CVE-2021-41773) and the globally accessible /tmp folder on Linux and MITIGATION</div>",
             "url": "https://github.com/nwclasantha/Apache_2.4.29_Exploit",
             "title": "nwclasantha/Apache_2.4.29_Exploit: This document provides step-by-step instructions on performing a proof of concept (PoC) exploit on Apache HTTP Server 2.4.29, taking advantage of the path traversal vulnerability (CVE-2021-41773) and the globally accessible /tmp folder on Linux and MITIGATION",
-            "date_modified": "2024-10-16T10:53:29.000Z",
+            "date_modified": "2024-10-16T11:41:55.000Z",
             "date_published": "2024-10-16T08:38:50.000Z",
             "author": {
                 "name": "nwclasantha",
                 "url": "https://github.com/nwclasantha"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/169526025?u=eac51da8da44333748f8abf5cf3c0dd5468af398&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>ADSelfService Plus RCE漏洞 检测工具 (二开)</div>",
+            "url": "https://github.com/Bu0uCat/ADSelfService-Plus-RCE-CVE-2021-40539",
+            "title": "Bu0uCat/ADSelfService-Plus-RCE-CVE-2021-40539: ADSelfService Plus RCE漏洞 检测工具 (二开)",
+            "date_modified": "2024-10-16T11:34:13.000Z",
+            "date_published": "2024-10-16T11:23:43.000Z",
+            "author": {
+                "name": "Bu0uCat",
+                "url": "https://github.com/Bu0uCat"
             }
         },
         {
@@ -212,17 +223,6 @@
             "author": {
                 "name": "fathallah17",
                 "url": "https://github.com/fathallah17"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/144462254?u=0303e0b98d7964a244c832f612d39add116a71dc&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2021-38304 Proof of Concept</div>",
-            "url": "https://github.com/philsajdak/CVE-2021-38304-PoC",
-            "title": "philsajdak/CVE-2021-38304-PoC: CVE-2021-38304 Proof of Concept",
-            "date_modified": "2024-09-17T19:49:15.000Z",
-            "date_published": "2024-09-15T02:33:25.000Z",
-            "author": {
-                "name": "philsajdak",
-                "url": "https://github.com/philsajdak"
             }
         }
     ]
