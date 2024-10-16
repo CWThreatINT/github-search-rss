@@ -6,10 +6,10 @@
     "description": "CVE-2021 FEED on GitHub",
     "items": [
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/48653609?u=de524ace6b1ad04fe649a39a1f809479ca295705&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>This document provides step-by-step instructions on performing a proof of concept (PoC) exploit on Apache HTTP Server 2.4.29, taking advantage of the path traversal vulnerability (CVE-2021-41773) and the globally accessible /tmp folder on Linux.</div>",
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/48653609?u=de524ace6b1ad04fe649a39a1f809479ca295705&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>This document provides step-by-step instructions on performing a proof of concept (PoC) exploit on Apache HTTP Server 2.4.29, taking advantage of the path traversal vulnerability (CVE-2021-41773) and the globally accessible /tmp folder on Linux and MITIGATION</div>",
             "url": "https://github.com/nwclasantha/Apache_2.4.29_Exploit",
-            "title": "nwclasantha/Apache_2.4.29_Exploit: This document provides step-by-step instructions on performing a proof of concept (PoC) exploit on Apache HTTP Server 2.4.29, taking advantage of the path traversal vulnerability (CVE-2021-41773) and the globally accessible /tmp folder on Linux.",
-            "date_modified": "2024-10-16T08:53:02.000Z",
+            "title": "nwclasantha/Apache_2.4.29_Exploit: This document provides step-by-step instructions on performing a proof of concept (PoC) exploit on Apache HTTP Server 2.4.29, taking advantage of the path traversal vulnerability (CVE-2021-41773) and the globally accessible /tmp folder on Linux and MITIGATION",
+            "date_modified": "2024-10-16T09:14:10.000Z",
             "date_published": "2024-10-16T08:38:50.000Z",
             "author": {
                 "name": "nwclasantha",
