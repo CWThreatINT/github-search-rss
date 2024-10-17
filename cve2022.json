@@ -6,6 +6,17 @@
     "description": "CVE-2022 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/173133346?u=ef63fec0624e57cadc5bd53c79799856292d4cf9&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Reappear-CVE-2022-21449-TLS-PoC</div>",
+            "url": "https://github.com/HeyMrSalt/AIS3-2024-Project-D5Team",
+            "title": "HeyMrSalt/AIS3-2024-Project-D5Team: Reappear-CVE-2022-21449-TLS-PoC",
+            "date_modified": "2024-10-17T21:19:59.000Z",
+            "date_published": "2024-08-01T03:27:17.000Z",
+            "author": {
+                "name": "HeyMrSalt",
+                "url": "https://github.com/HeyMrSalt"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/90939597?u=959ebde7b0ef7fb5bccc3a9dc6996f5036127cb8&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>PoC exploit for GLPI - Command injection using a third-party library script</div>",
             "url": "https://github.com/senderend/CVE-2022-35914",
             "title": "senderend/CVE-2022-35914: PoC exploit for GLPI - Command injection using a third-party library script",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "cyberhawk000",
                 "url": "https://github.com/cyberhawk000"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/18383407?u=c9d1276bd9ccb8b06b724c3057b1ef683fa81de7&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2022-23862: Local Privilege Escalation via Unauthenticated JMX in YSoft SafeQ</div>",
-            "url": "https://github.com/mbadanoiu/CVE-2022-23862",
-            "title": "mbadanoiu/CVE-2022-23862: CVE-2022-23862: Local Privilege Escalation via Unauthenticated JMX in YSoft SafeQ",
-            "date_modified": "2024-09-29T13:40:39.000Z",
-            "date_published": "2024-09-29T13:24:40.000Z",
-            "author": {
-                "name": "mbadanoiu",
-                "url": "https://github.com/mbadanoiu"
             }
         }
     ]
