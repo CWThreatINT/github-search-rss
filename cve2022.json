@@ -6,6 +6,17 @@
     "description": "CVE-2022 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/18663141?u=2f4646b4e3f9b108365fcca3eb28adcdea03429d&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Android kernel exploitation for CVE-2022-20409</div>",
+            "url": "https://github.com/Markakd/bad_io_uring",
+            "title": "Markakd/bad_io_uring: Android kernel exploitation for CVE-2022-20409",
+            "date_modified": "2024-10-17T16:27:57.000Z",
+            "date_published": "2022-11-21T22:42:50.000Z",
+            "author": {
+                "name": "Markakd",
+                "url": "https://github.com/Markakd"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/25670930?u=6fad2f13c751b51fd47e377945d79369743f5948&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2024-40431+CVE-2022-25479 chain for EOP(DATA ONLY ATTACK) </div>",
             "url": "https://github.com/SpiralBL0CK/CVE-2024-40431-CVE-2022-25479-EOP-CHAIN",
             "title": "SpiralBL0CK/CVE-2024-40431-CVE-2022-25479-EOP-CHAIN: CVE-2024-40431+CVE-2022-25479 chain for EOP(DATA ONLY ATTACK) ",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "mbadanoiu",
                 "url": "https://github.com/mbadanoiu"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/92728059?u=e6318baf13bf98eee37f7582d9e3f680b8532b81&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
-            "url": "https://github.com/btar1gan/exploit_CVE-2022-35914",
-            "title": "btar1gan/exploit_CVE-2022-35914",
-            "date_modified": "2024-09-20T19:43:22.000Z",
-            "date_published": "2024-09-20T19:28:27.000Z",
-            "author": {
-                "name": "btar1gan",
-                "url": "https://github.com/btar1gan"
             }
         }
     ]
