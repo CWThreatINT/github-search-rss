@@ -6,6 +6,17 @@
     "description": "CVE-2021 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/21672558?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>HTTP Protocol Stack CVE-2021-31166</div>",
+            "url": "https://github.com/corelight/CVE-2021-31166",
+            "title": "corelight/CVE-2021-31166: HTTP Protocol Stack CVE-2021-31166",
+            "date_modified": "2024-10-17T04:45:54.000Z",
+            "date_published": "2021-05-17T23:54:12.000Z",
+            "author": {
+                "name": "corelight",
+                "url": "https://github.com/corelight"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/48653609?u=de524ace6b1ad04fe649a39a1f809479ca295705&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>This document provides step-by-step instructions on performing a proof of concept (PoC) exploit on Apache HTTP Server 2.4.29, taking advantage of the path traversal vulnerability (CVE-2021-41773) and the globally accessible /tmp folder on Linux and MITIGATION</div>",
             "url": "https://github.com/nwclasantha/Apache_2.4.29_Exploit",
             "title": "nwclasantha/Apache_2.4.29_Exploit: This document provides step-by-step instructions on performing a proof of concept (PoC) exploit on Apache HTTP Server 2.4.29, taking advantage of the path traversal vulnerability (CVE-2021-41773) and the globally accessible /tmp folder on Linux and MITIGATION",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "hacefresko",
                 "url": "https://github.com/hacefresko"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/88498991?u=c98158e015f6bbe82d2339a374d15e6bff0d4577&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Exploit a 2021 Kernel vulnerability in Ubuntu to become root almost instantly!</div>",
-            "url": "https://github.com/fathallah17/OverlayFS-CVE-2021-3493",
-            "title": "fathallah17/OverlayFS-CVE-2021-3493: Exploit a 2021 Kernel vulnerability in Ubuntu to become root almost instantly!",
-            "date_modified": "2024-09-16T12:37:40.000Z",
-            "date_published": "2024-09-16T11:28:32.000Z",
-            "author": {
-                "name": "fathallah17",
-                "url": "https://github.com/fathallah17"
             }
         }
     ]
