@@ -6,6 +6,39 @@
     "description": "CVE-2023 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/183241815?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>In the hushed galleries of the Silent JPG Exploit, a symphony shrouded in enigma unfurls—an opus named silent-jpg-exploit-2018—a title that reverberates through the annals of intrigue.</div>",
+            "url": "https://github.com/MystersCat/Jpg-Png-Exploit-Slient-Builder-Exploit-Database-Cve-2023-Malware",
+            "title": "MystersCat/Jpg-Png-Exploit-Slient-Builder-Exploit-Database-Cve-2023-Malware: In the hushed galleries of the Silent JPG Exploit, a symphony shrouded in enigma unfurls—an opus named silent-jpg-exploit-2018—a title that reverberates through the annals of intrigue.",
+            "date_modified": "2024-10-17T13:15:13.000Z",
+            "date_published": "2024-09-28T21:16:12.000Z",
+            "author": {
+                "name": "MystersCat",
+                "url": "https://github.com/MystersCat"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/25384256?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Vulnerability Overview CVE-2023-38408 affects OpenSSH versions &lt; 9.3p2 and stems from improper validation of data when SSH agent forwarding is enabled. When users connect to a remote server with ssh -A, they allow the agent on their local machine to be used for authentication to further systems</div>",
+            "url": "https://github.com/fazilbaig1/cve_2023_38408_scanner",
+            "title": "fazilbaig1/cve_2023_38408_scanner: Vulnerability Overview CVE-2023-38408 affects OpenSSH versions < 9.3p2 and stems from improper validation of data when SSH agent forwarding is enabled. When users connect to a remote server with ssh -A, they allow the agent on their local machine to be used for authentication to further systems",
+            "date_modified": "2024-10-17T13:08:15.000Z",
+            "date_published": "2024-10-17T13:03:42.000Z",
+            "author": {
+                "name": "fazilbaig1",
+                "url": "https://github.com/fazilbaig1"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/18195825?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023</div>",
+            "url": "https://github.com/CVEProject/cvelist",
+            "title": "CVEProject/cvelist: Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023",
+            "date_modified": "2024-10-17T13:00:47.000Z",
+            "date_published": "2020-11-02T19:30:55.000Z",
+            "author": {
+                "name": "CVEProject",
+                "url": "https://github.com/CVEProject"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/150417245?u=a4a6c551f3f8c4e78c696fe0d499cbaa004f7e34&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
             "url": "https://github.com/dywsy21/CVE-2023-6350_Reproduction",
             "title": "dywsy21/CVE-2023-6350_Reproduction",
@@ -14,28 +47,6 @@
             "author": {
                 "name": "dywsy21",
                 "url": "https://github.com/dywsy21"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/18195825?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023</div>",
-            "url": "https://github.com/CVEProject/cvelist",
-            "title": "CVEProject/cvelist: Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023",
-            "date_modified": "2024-10-17T12:00:42.000Z",
-            "date_published": "2020-11-02T19:30:55.000Z",
-            "author": {
-                "name": "CVEProject",
-                "url": "https://github.com/CVEProject"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/183241815?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>In the hushed galleries of the Silent JPG Exploit, a symphony shrouded in enigma unfurls—an opus named silent-jpg-exploit-2018—a title that reverberates through the annals of intrigue.</div>",
-            "url": "https://github.com/MystersCat/Jpg-Png-Exploit-Slient-Builder-Exploit-Database-Cve-2023-Malware",
-            "title": "MystersCat/Jpg-Png-Exploit-Slient-Builder-Exploit-Database-Cve-2023-Malware: In the hushed galleries of the Silent JPG Exploit, a symphony shrouded in enigma unfurls—an opus named silent-jpg-exploit-2018—a title that reverberates through the annals of intrigue.",
-            "date_modified": "2024-10-17T11:59:27.000Z",
-            "date_published": "2024-09-28T21:16:12.000Z",
-            "author": {
-                "name": "MystersCat",
-                "url": "https://github.com/MystersCat"
             }
         },
         {
@@ -212,17 +223,6 @@
             "author": {
                 "name": "functionofpwnosec",
                 "url": "https://github.com/functionofpwnosec"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/184635963?u=99f5ede87e03060052330a6dac0aa394790b0143&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2023-3824 PoC</div>",
-            "url": "https://github.com/baesh3r/poc-CVE-2023-3824",
-            "title": "baesh3r/poc-CVE-2023-3824: CVE-2023-3824 PoC",
-            "date_modified": "2024-10-15T10:26:10.000Z",
-            "date_published": "2024-10-11T10:53:04.000Z",
-            "author": {
-                "name": "baesh3r",
-                "url": "https://github.com/baesh3r"
             }
         }
     ]
