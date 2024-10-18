@@ -6,6 +6,17 @@
     "description": "CVE-2022 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/44172898?u=94232037b89db262882bf50ae517be351bd21ff2&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Automated CVE 2022 35914 Checker</div>",
+            "url": "https://github.com/joelindra/htmlawedchekcer",
+            "title": "joelindra/htmlawedchekcer: Automated CVE 2022 35914 Checker",
+            "date_modified": "2024-10-18T19:53:55.000Z",
+            "date_published": "2024-05-27T04:25:12.000Z",
+            "author": {
+                "name": "joelindra",
+                "url": "https://github.com/joelindra"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/173133346?u=ef63fec0624e57cadc5bd53c79799856292d4cf9&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Reappear-CVE-2022-21449-TLS-PoC</div>",
             "url": "https://github.com/HeyMrSalt/AIS3-2024-Project-D5Team",
             "title": "HeyMrSalt/AIS3-2024-Project-D5Team: Reappear-CVE-2022-21449-TLS-PoC",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "9lyph",
                 "url": "https://github.com/9lyph"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/101915378?u=14ee21c8bc4ab0647e3101e931635b9188032fad&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>XSS via Host Header injection and Steal  Password Reset Token of another user</div>",
-            "url": "https://github.com/cyberhawk000/CVE-2022-24181",
-            "title": "cyberhawk000/CVE-2022-24181: XSS via Host Header injection and Steal  Password Reset Token of another user",
-            "date_modified": "2024-10-01T09:58:11.000Z",
-            "date_published": "2022-03-22T08:06:53.000Z",
-            "author": {
-                "name": "cyberhawk000",
-                "url": "https://github.com/cyberhawk000"
             }
         }
     ]
