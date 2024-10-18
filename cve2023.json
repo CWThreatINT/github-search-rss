@@ -6,10 +6,32 @@
     "description": "CVE-2023 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/98224710?u=5504cb855f301a67e82ad69b2e4539204dfccf96&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Authenticated Code execution</div>",
+            "url": "https://github.com/Ant1sec-ops/CVE-2023-26785",
+            "title": "Ant1sec-ops/CVE-2023-26785: Authenticated Code execution",
+            "date_modified": "2024-10-18T05:08:34.000Z",
+            "date_published": "2024-09-03T06:38:33.000Z",
+            "author": {
+                "name": "Ant1sec-ops",
+                "url": "https://github.com/Ant1sec-ops"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/98224710?u=5504cb855f301a67e82ad69b2e4539204dfccf96&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Database authenticated code execution</div>",
+            "url": "https://github.com/Ant1sec-ops/CVE-2023-39593",
+            "title": "Ant1sec-ops/CVE-2023-39593: Database authenticated code execution",
+            "date_modified": "2024-10-18T05:07:31.000Z",
+            "date_published": "2022-06-19T15:22:51.000Z",
+            "author": {
+                "name": "Ant1sec-ops",
+                "url": "https://github.com/Ant1sec-ops"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/18195825?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023</div>",
             "url": "https://github.com/CVEProject/cvelist",
             "title": "CVEProject/cvelist: Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023",
-            "date_modified": "2024-10-18T04:00:43.000Z",
+            "date_modified": "2024-10-18T05:00:42.000Z",
             "date_published": "2020-11-02T19:30:55.000Z",
             "author": {
                 "name": "CVEProject",
@@ -20,7 +42,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/183241815?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>In the hushed galleries of the Silent JPG Exploit, a symphony shrouded in enigma unfurls—an opus named silent-jpg-exploit-2018—a title that reverberates through the annals of intrigue.</div>",
             "url": "https://github.com/MystersCat/Jpg-Png-Exploit-Slient-Builder-Exploit-Database-Cve-2023-Malware",
             "title": "MystersCat/Jpg-Png-Exploit-Slient-Builder-Exploit-Database-Cve-2023-Malware: In the hushed galleries of the Silent JPG Exploit, a symphony shrouded in enigma unfurls—an opus named silent-jpg-exploit-2018—a title that reverberates through the annals of intrigue.",
-            "date_modified": "2024-10-18T03:52:53.000Z",
+            "date_modified": "2024-10-18T04:50:58.000Z",
             "date_published": "2024-09-28T21:16:12.000Z",
             "author": {
                 "name": "MystersCat",
@@ -201,28 +223,6 @@
             "author": {
                 "name": "ersinerenler",
                 "url": "https://github.com/ersinerenler"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/87349040?u=e1971e4752eebcf3df466c155b4d384aa3a495e0&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Authentication Bypass for FreeScout End-User Portal</div>",
-            "url": "https://github.com/squ1dw3rm/CVE-2023-52268",
-            "title": "squ1dw3rm/CVE-2023-52268: Authentication Bypass for FreeScout End-User Portal",
-            "date_modified": "2024-10-13T02:50:46.000Z",
-            "date_published": "2024-10-13T02:17:03.000Z",
-            "author": {
-                "name": "squ1dw3rm",
-                "url": "https://github.com/squ1dw3rm"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/38102497?u=e5fad90f9ed435972cbd2e3c311f603032dbc4e4&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Juniper Networks POC Understanding CVE-2023–36845 Remote Code Execution Exploit and Protection</div>",
-            "url": "https://github.com/functionofpwnosec/CVE-2023-36845",
-            "title": "functionofpwnosec/CVE-2023-36845: Juniper Networks POC Understanding CVE-2023–36845 Remote Code Execution Exploit and Protection",
-            "date_modified": "2024-10-11T18:30:23.000Z",
-            "date_published": "2024-10-11T18:18:37.000Z",
-            "author": {
-                "name": "functionofpwnosec",
-                "url": "https://github.com/functionofpwnosec"
             }
         }
     ]
