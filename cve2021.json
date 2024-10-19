@@ -6,6 +6,28 @@
     "description": "CVE-2021 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/25384256?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>The package handlebars before 4.7.7 are vulnerable to Prototype Pollution when selecting certain compiling options to compile templates coming from an untrusted source.</div>",
+            "url": "https://github.com/fazilbaig1/CVE-2021-23383",
+            "title": "fazilbaig1/CVE-2021-23383: The package handlebars before 4.7.7 are vulnerable to Prototype Pollution when selecting certain compiling options to compile templates coming from an untrusted source.",
+            "date_modified": "2024-10-19T11:41:20.000Z",
+            "date_published": "2024-10-19T11:37:19.000Z",
+            "author": {
+                "name": "fazilbaig1",
+                "url": "https://github.com/fazilbaig1"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/25384256?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Handlebars CVE-2021-23369 Vulnerability</div>",
+            "url": "https://github.com/fazilbaig1/CVE-2021-23369",
+            "title": "fazilbaig1/CVE-2021-23369: Handlebars CVE-2021-23369 Vulnerability",
+            "date_modified": "2024-10-19T11:31:23.000Z",
+            "date_published": "2024-10-19T11:27:31.000Z",
+            "author": {
+                "name": "fazilbaig1",
+                "url": "https://github.com/fazilbaig1"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/21672558?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>HTTP Protocol Stack CVE-2021-31166</div>",
             "url": "https://github.com/corelight/CVE-2021-31166",
             "title": "corelight/CVE-2021-31166: HTTP Protocol Stack CVE-2021-31166",
@@ -201,28 +223,6 @@
             "author": {
                 "name": "joshuavanderpoll",
                 "url": "https://github.com/joshuavanderpoll"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/124332420?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Webrun &lt;= 3.6.0.42 SQLi</div>",
-            "url": "https://github.com/OpenXP-Research/CVE-2021-43650",
-            "title": "OpenXP-Research/CVE-2021-43650: Webrun <= 3.6.0.42 SQLi",
-            "date_modified": "2024-09-19T14:10:58.000Z",
-            "date_published": "2024-09-19T14:10:00.000Z",
-            "author": {
-                "name": "OpenXP-Research",
-                "url": "https://github.com/OpenXP-Research"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/47251535?u=9c9ca78cdd818d948ebae90c256665702f40de66&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Exploit for command injection vulnerability found in uhttpd binary from TP-Link Tapo c200 IP camera</div>",
-            "url": "https://github.com/hacefresko/CVE-2021-4045",
-            "title": "hacefresko/CVE-2021-4045: Exploit for command injection vulnerability found in uhttpd binary from TP-Link Tapo c200 IP camera",
-            "date_modified": "2024-10-15T00:55:39.000Z",
-            "date_published": "2021-11-15T14:48:14.000Z",
-            "author": {
-                "name": "hacefresko",
-                "url": "https://github.com/hacefresko"
             }
         }
     ]
