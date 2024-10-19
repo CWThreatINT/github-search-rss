@@ -6,6 +6,17 @@
     "description": "CVE-2021 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/43640284?u=71fb2fc005169f5575171f66584a32e182bf2561&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Kerentanan ini merupakan jenis Local File Inclusion (LFI) yang terdapat pada versi BIQS IT Biqs-drive v1.83 dan di bawahnya. Kerentanan ini dapat dieksploitasi dengan mengirimkan payload tertentu sebagai parameter file ke download/index.php</div>",
+            "url": "https://github.com/ibnurusdianto/CVE-2021-39433",
+            "title": "ibnurusdianto/CVE-2021-39433: Kerentanan ini merupakan jenis Local File Inclusion (LFI) yang terdapat pada versi BIQS IT Biqs-drive v1.83 dan di bawahnya. Kerentanan ini dapat dieksploitasi dengan mengirimkan payload tertentu sebagai parameter file ke download/index.php",
+            "date_modified": "2024-10-19T19:04:27.000Z",
+            "date_published": "2024-10-19T19:04:27.000Z",
+            "author": {
+                "name": "ibnurusdianto",
+                "url": "https://github.com/ibnurusdianto"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/25384256?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Affected versions of this package are vulnerable to Race Condition. The whitespace normalisation using in 1.x and 2.x removes any unicode whitespace. Under certain specific conditions this could potentially allow a malicious user to execute code remotely.</div>",
             "url": "https://github.com/fazilbaig1/CVE-2021-32708",
             "title": "fazilbaig1/CVE-2021-32708: Affected versions of this package are vulnerable to Race Condition. The whitespace normalisation using in 1.x and 2.x removes any unicode whitespace. Under certain specific conditions this could potentially allow a malicious user to execute code remotely.",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "jammy0903",
                 "url": "https://github.com/jammy0903"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/51722811?u=a195458fc64bade6e8616d1d5c43883f0abde0c0&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>WP Email Users &lt;= 1.7.6 - SQL Injection</div>",
-            "url": "https://github.com/RandomRobbieBF/CVE-2021-24959",
-            "title": "RandomRobbieBF/CVE-2021-24959: WP Email Users <= 1.7.6 - SQL Injection",
-            "date_modified": "2024-10-18T17:57:38.000Z",
-            "date_published": "2024-09-23T13:15:34.000Z",
-            "author": {
-                "name": "RandomRobbieBF",
-                "url": "https://github.com/RandomRobbieBF"
             }
         }
     ]
