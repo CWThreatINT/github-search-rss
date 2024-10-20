@@ -9,7 +9,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/43640284?u=71fb2fc005169f5575171f66584a32e182bf2561&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Kerentanan ini merupakan jenis Local File Inclusion (LFI) yang terdapat pada versi BIQS IT Biqs-drive v1.83 dan di bawahnya. Kerentanan ini dapat dieksploitasi dengan mengirimkan payload tertentu sebagai parameter file ke download/index.php</div>",
             "url": "https://github.com/ibnurusdianto/CVE-2021-39433",
             "title": "ibnurusdianto/CVE-2021-39433: Kerentanan ini merupakan jenis Local File Inclusion (LFI) yang terdapat pada versi BIQS IT Biqs-drive v1.83 dan di bawahnya. Kerentanan ini dapat dieksploitasi dengan mengirimkan payload tertentu sebagai parameter file ke download/index.php",
-            "date_modified": "2024-10-19T19:15:31.000Z",
+            "date_modified": "2024-10-20T00:20:30.000Z",
             "date_published": "2024-10-19T19:04:27.000Z",
             "author": {
                 "name": "ibnurusdianto",
