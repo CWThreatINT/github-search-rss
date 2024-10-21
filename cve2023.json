@@ -6,25 +6,36 @@
     "description": "CVE-2023 FEED on GitHub",
     "items": [
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/18195825?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023</div>",
-            "url": "https://github.com/CVEProject/cvelist",
-            "title": "CVEProject/cvelist: Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023",
-            "date_modified": "2024-10-21T12:00:42.000Z",
-            "date_published": "2020-11-02T19:30:55.000Z",
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/185799838?u=3ecddae54d15672452b5ce4aad83e83db35561f6&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2023-46747-Mass-RCE</div>",
+            "url": "https://github.com/Jumeyros/CVE-2023-46747-Mass-RCE",
+            "title": "Jumeyros/CVE-2023-46747-Mass-RCE: CVE-2023-46747-Mass-RCE",
+            "date_modified": "2024-10-21T13:09:57.000Z",
+            "date_published": "2024-10-21T13:09:53.000Z",
             "author": {
-                "name": "CVEProject",
-                "url": "https://github.com/CVEProject"
+                "name": "Jumeyros",
+                "url": "https://github.com/Jumeyros"
             }
         },
         {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/183241815?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>In the hushed galleries of the Silent JPG Exploit, a symphony shrouded in enigma unfurls—an opus named silent-jpg-exploit-2018—a title that reverberates through the annals of intrigue.</div>",
             "url": "https://github.com/MystersCat/Jpg-Png-Exploit-Slient-Builder-Exploit-Database-Cve-2023-Malware",
             "title": "MystersCat/Jpg-Png-Exploit-Slient-Builder-Exploit-Database-Cve-2023-Malware: In the hushed galleries of the Silent JPG Exploit, a symphony shrouded in enigma unfurls—an opus named silent-jpg-exploit-2018—a title that reverberates through the annals of intrigue.",
-            "date_modified": "2024-10-21T11:50:37.000Z",
+            "date_modified": "2024-10-21T13:05:11.000Z",
             "date_published": "2024-09-28T21:16:12.000Z",
             "author": {
                 "name": "MystersCat",
                 "url": "https://github.com/MystersCat"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/18195825?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023</div>",
+            "url": "https://github.com/CVEProject/cvelist",
+            "title": "CVEProject/cvelist: Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023",
+            "date_modified": "2024-10-21T13:01:12.000Z",
+            "date_published": "2020-11-02T19:30:55.000Z",
+            "author": {
+                "name": "CVEProject",
+                "url": "https://github.com/CVEProject"
             }
         },
         {
@@ -75,7 +86,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/98224710?u=5504cb855f301a67e82ad69b2e4539204dfccf96&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Authenticated Code execution</div>",
             "url": "https://github.com/Ant1sec-ops/CVE-2023-26785",
             "title": "Ant1sec-ops/CVE-2023-26785: Authenticated Code execution",
-            "date_modified": "2024-10-18T19:39:43.000Z",
+            "date_modified": "2024-10-21T13:17:46.000Z",
             "date_published": "2024-09-03T06:38:33.000Z",
             "author": {
                 "name": "Ant1sec-ops",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "rwexecute",
                 "url": "https://github.com/rwexecute"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/66285128?u=4a7b490277748d47963c66d3df68036533afc817&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>SPIP before 4.2.1 allows Remote Code Execution via form values in the public area because serialization is mishandled. The fixed versions are 3.2.18, 4.0.10, 4.1.8, and 4.2.1.</div>",
-            "url": "https://github.com/nuts7/CVE-2023-27372",
-            "title": "nuts7/CVE-2023-27372: SPIP before 4.2.1 allows Remote Code Execution via form values in the public area because serialization is mishandled. The fixed versions are 3.2.18, 4.0.10, 4.1.8, and 4.2.1.",
-            "date_modified": "2024-10-20T23:56:38.000Z",
-            "date_published": "2023-06-19T14:36:47.000Z",
-            "author": {
-                "name": "nuts7",
-                "url": "https://github.com/nuts7"
             }
         }
     ]
