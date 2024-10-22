@@ -6,6 +6,17 @@
     "description": "CVE-2022 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/22019133?u=2f65706d247887d4f96150684399d875ccf0b241&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A proof-of-concept for CVE-2022-48656 - python plistlib XML deserialisation attack</div>",
+            "url": "https://github.com/Einstein2150/CVE-2022-48656-POC",
+            "title": "Einstein2150/CVE-2022-48656-POC: A proof-of-concept for CVE-2022-48656 - python plistlib XML deserialisation attack",
+            "date_modified": "2024-10-22T06:02:32.000Z",
+            "date_published": "2024-10-22T05:58:24.000Z",
+            "author": {
+                "name": "Einstein2150",
+                "url": "https://github.com/Einstein2150"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/44172898?u=94232037b89db262882bf50ae517be351bd21ff2&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Automated CVE 2022 35914 Checker</div>",
             "url": "https://github.com/joelindra/htmlawedchekcer",
             "title": "joelindra/htmlawedchekcer: Automated CVE 2022 35914 Checker",
@@ -209,17 +220,6 @@
             "title": "9lyph/CVE-2022-43704: Sinilink XY-WFTX Wifi Remote Thermostat Module Temperature Controller",
             "date_modified": "2024-10-04T02:48:39.000Z",
             "date_published": "2022-08-31T10:00:09.000Z",
-            "author": {
-                "name": "9lyph",
-                "url": "https://github.com/9lyph"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/44860700?u=f81e55de1bcfcb050b3f05c43edec6499c28b984&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
-            "url": "https://github.com/9lyph/CVE-2022-29593",
-            "title": "9lyph/CVE-2022-29593",
-            "date_modified": "2024-10-04T02:06:14.000Z",
-            "date_published": "2022-03-04T12:03:33.000Z",
             "author": {
                 "name": "9lyph",
                 "url": "https://github.com/9lyph"
