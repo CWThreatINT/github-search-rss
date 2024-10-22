@@ -6,10 +6,21 @@
     "description": "CVE-2023 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/18195825?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023</div>",
+            "url": "https://github.com/CVEProject/cvelist",
+            "title": "CVEProject/cvelist: Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023",
+            "date_modified": "2024-10-22T14:00:46.000Z",
+            "date_published": "2020-11-02T19:30:55.000Z",
+            "author": {
+                "name": "CVEProject",
+                "url": "https://github.com/CVEProject"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/183241815?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>In the hushed galleries of the Silent JPG Exploit, a symphony shrouded in enigma unfurls—an opus named silent-jpg-exploit-2018—a title that reverberates through the annals of intrigue.</div>",
             "url": "https://github.com/MystersCat/Jpg-Png-Exploit-Slient-Builder-Exploit-Database-Cve-2023-Malware",
             "title": "MystersCat/Jpg-Png-Exploit-Slient-Builder-Exploit-Database-Cve-2023-Malware: In the hushed galleries of the Silent JPG Exploit, a symphony shrouded in enigma unfurls—an opus named silent-jpg-exploit-2018—a title that reverberates through the annals of intrigue.",
-            "date_modified": "2024-10-22T13:16:14.000Z",
+            "date_modified": "2024-10-22T13:52:51.000Z",
             "date_published": "2024-09-28T21:16:12.000Z",
             "author": {
                 "name": "MystersCat",
@@ -17,14 +28,14 @@
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/18195825?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023</div>",
-            "url": "https://github.com/CVEProject/cvelist",
-            "title": "CVEProject/cvelist: Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023",
-            "date_modified": "2024-10-22T13:00:46.000Z",
-            "date_published": "2020-11-02T19:30:55.000Z",
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/185805926?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2023-46747-Mass-RCE</div>",
+            "url": "https://github.com/Rizzler4562/CVE-2023-46747-Mass-RCE",
+            "title": "Rizzler4562/CVE-2023-46747-Mass-RCE: CVE-2023-46747-Mass-RCE",
+            "date_modified": "2024-10-22T13:51:41.000Z",
+            "date_published": "2024-10-22T13:51:37.000Z",
             "author": {
-                "name": "CVEProject",
-                "url": "https://github.com/CVEProject"
+                "name": "Rizzler4562",
+                "url": "https://github.com/Rizzler4562"
             }
         },
         {
@@ -212,17 +223,6 @@
             "author": {
                 "name": "idkwastaken",
                 "url": "https://github.com/idkwastaken"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/177733389?u=9af4fb91ec8777d8d4858def97b660049696f2bb&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>teamcity-exploit-cve-2023-42793</div>",
-            "url": "https://github.com/SwiftSecur/teamcity-exploit-cve-2023-42793",
-            "title": "SwiftSecur/teamcity-exploit-cve-2023-42793: teamcity-exploit-cve-2023-42793",
-            "date_modified": "2024-10-14T22:21:08.000Z",
-            "date_published": "2024-09-20T12:15:25.000Z",
-            "author": {
-                "name": "SwiftSecur",
-                "url": "https://github.com/SwiftSecur"
             }
         }
     ]
