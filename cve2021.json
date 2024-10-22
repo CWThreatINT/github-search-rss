@@ -61,17 +61,6 @@
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/48653609?u=de524ace6b1ad04fe649a39a1f809479ca295705&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>This document provides step-by-step instructions on performing a proof of concept (PoC) exploit on Apache HTTP Server 2.4.29, taking advantage of the path traversal vulnerability (CVE-2021-41773) and the globally accessible /tmp folder on Linux and MITIGATION</div>",
-            "url": "https://github.com/nwclasantha/Apache_2.4.29_Exploit",
-            "title": "nwclasantha/Apache_2.4.29_Exploit: This document provides step-by-step instructions on performing a proof of concept (PoC) exploit on Apache HTTP Server 2.4.29, taking advantage of the path traversal vulnerability (CVE-2021-41773) and the globally accessible /tmp folder on Linux and MITIGATION",
-            "date_modified": "2024-10-18T06:52:06.000Z",
-            "date_published": "2024-10-16T08:38:50.000Z",
-            "author": {
-                "name": "nwclasantha",
-                "url": "https://github.com/nwclasantha"
-            }
-        },
-        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/169526025?u=eac51da8da44333748f8abf5cf3c0dd5468af398&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>ADSelfService Plus RCE漏洞 检测工具 (二开)</div>",
             "url": "https://github.com/Bu0uCat/ADSelfService-Plus-RCE-CVE-2021-40539",
             "title": "Bu0uCat/ADSelfService-Plus-RCE-CVE-2021-40539: ADSelfService Plus RCE漏洞 检测工具 (二开)",
@@ -223,6 +212,17 @@
             "author": {
                 "name": "jammy0903",
                 "url": "https://github.com/jammy0903"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/51722811?u=a195458fc64bade6e8616d1d5c43883f0abde0c0&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>WP Email Users &lt;= 1.7.6 - SQL Injection</div>",
+            "url": "https://github.com/RandomRobbieBF/CVE-2021-24959",
+            "title": "RandomRobbieBF/CVE-2021-24959: WP Email Users <= 1.7.6 - SQL Injection",
+            "date_modified": "2024-10-18T17:57:38.000Z",
+            "date_published": "2024-09-23T13:15:34.000Z",
+            "author": {
+                "name": "RandomRobbieBF",
+                "url": "https://github.com/RandomRobbieBF"
             }
         }
     ]
