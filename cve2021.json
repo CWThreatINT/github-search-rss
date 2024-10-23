@@ -6,6 +6,17 @@
     "description": "CVE-2021 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/159681973?u=5f58ba628dbe5f9dc8bad03ec134367f6af6e2b7&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>历史漏洞的细节以及利用方法汇总收集</div>",
+            "url": "https://github.com/OracleNep/Nday-Exploit-Plan",
+            "title": "OracleNep/Nday-Exploit-Plan: 历史漏洞的细节以及利用方法汇总收集",
+            "date_modified": "2024-10-23T01:45:34.000Z",
+            "date_published": "2024-02-11T06:55:47.000Z",
+            "author": {
+                "name": "OracleNep",
+                "url": "https://github.com/OracleNep"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/43640284?u=71fb2fc005169f5575171f66584a32e182bf2561&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Kerentanan ini merupakan jenis Local File Inclusion (LFI) yang terdapat pada versi BIQS IT Biqs-drive v1.83 dan di bawahnya. Kerentanan ini dapat dieksploitasi dengan mengirimkan payload tertentu sebagai parameter file ke download/index.php</div>",
             "url": "https://github.com/ibnurusdianto/CVE-2021-39433",
             "title": "ibnurusdianto/CVE-2021-39433: Kerentanan ini merupakan jenis Local File Inclusion (LFI) yang terdapat pada versi BIQS IT Biqs-drive v1.83 dan di bawahnya. Kerentanan ini dapat dieksploitasi dengan mengirimkan payload tertentu sebagai parameter file ke download/index.php",
@@ -91,17 +102,6 @@
             "author": {
                 "name": "lpyzds",
                 "url": "https://github.com/lpyzds"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/159681973?u=5f58ba628dbe5f9dc8bad03ec134367f6af6e2b7&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>历史漏洞的细节以及利用方法汇总收集</div>",
-            "url": "https://github.com/OracleNep/Nday-Exploit-Plan",
-            "title": "OracleNep/Nday-Exploit-Plan: 历史漏洞的细节以及利用方法汇总收集",
-            "date_modified": "2024-10-11T08:36:40.000Z",
-            "date_published": "2024-02-11T06:55:47.000Z",
-            "author": {
-                "name": "OracleNep",
-                "url": "https://github.com/OracleNep"
             }
         },
         {
