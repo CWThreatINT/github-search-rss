@@ -6,6 +6,17 @@
     "description": "CVE-2022 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/87374678?u=3742519415eb6d6e2e47b95c4816b82dff5da0ca&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>aa</div>",
+            "url": "https://github.com/soltanali0/CVE-2022-41082",
+            "title": "soltanali0/CVE-2022-41082: aa",
+            "date_modified": "2024-10-24T13:10:45.000Z",
+            "date_published": "2024-10-24T12:56:52.000Z",
+            "author": {
+                "name": "soltanali0",
+                "url": "https://github.com/soltanali0"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/159681973?u=5f58ba628dbe5f9dc8bad03ec134367f6af6e2b7&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>历史漏洞的细节以及利用方法汇总收集</div>",
             "url": "https://github.com/OracleNep/Nday-Exploit-Plan",
             "title": "OracleNep/Nday-Exploit-Plan: 历史漏洞的细节以及利用方法汇总收集",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "rxerium",
                 "url": "https://github.com/rxerium"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/44860700?u=f81e55de1bcfcb050b3f05c43edec6499c28b984&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Sinilink XY-WFTX Wifi Remote Thermostat Module Temperature Controller</div>",
-            "url": "https://github.com/9lyph/CVE-2022-43704",
-            "title": "9lyph/CVE-2022-43704: Sinilink XY-WFTX Wifi Remote Thermostat Module Temperature Controller",
-            "date_modified": "2024-10-04T02:48:39.000Z",
-            "date_published": "2022-08-31T10:00:09.000Z",
-            "author": {
-                "name": "9lyph",
-                "url": "https://github.com/9lyph"
             }
         }
     ]
