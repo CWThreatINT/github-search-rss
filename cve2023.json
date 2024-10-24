@@ -9,7 +9,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/18195825?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023</div>",
             "url": "https://github.com/CVEProject/cvelist",
             "title": "CVEProject/cvelist: Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023",
-            "date_modified": "2024-10-24T20:00:45.000Z",
+            "date_modified": "2024-10-24T21:00:44.000Z",
             "date_published": "2020-11-02T19:30:55.000Z",
             "author": {
                 "name": "CVEProject",
@@ -20,11 +20,22 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/183241815?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>In the hushed galleries of the Silent JPG Exploit, a symphony shrouded in enigma unfurls—an opus named silent-jpg-exploit-2018—a title that reverberates through the annals of intrigue.</div>",
             "url": "https://github.com/MystersCat/Jpg-Png-Exploit-Slient-Builder-Exploit-Database-Cve-2023-Malware",
             "title": "MystersCat/Jpg-Png-Exploit-Slient-Builder-Exploit-Database-Cve-2023-Malware: In the hushed galleries of the Silent JPG Exploit, a symphony shrouded in enigma unfurls—an opus named silent-jpg-exploit-2018—a title that reverberates through the annals of intrigue.",
-            "date_modified": "2024-10-24T19:56:30.000Z",
+            "date_modified": "2024-10-24T20:53:17.000Z",
             "date_published": "2024-09-28T21:16:12.000Z",
             "author": {
                 "name": "MystersCat",
                 "url": "https://github.com/MystersCat"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/186207976?u=cedb6a809dd8ebf91af9ef874fa048d0752d0056&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2023-46747-Mass-RCE</div>",
+            "url": "https://github.com/AMELYA13/CVE-2023-46747-Mass-RCE",
+            "title": "AMELYA13/CVE-2023-46747-Mass-RCE: CVE-2023-46747-Mass-RCE",
+            "date_modified": "2024-10-24T20:52:47.000Z",
+            "date_published": "2024-10-24T20:51:31.000Z",
+            "author": {
+                "name": "AMELYA13",
+                "url": "https://github.com/AMELYA13"
             }
         },
         {
@@ -212,17 +223,6 @@
             "author": {
                 "name": "dywsy21",
                 "url": "https://github.com/dywsy21"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/14954655?u=1f5bdd288b03b59aa8ec1613660e3c6fd962c6b5&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2023-6319 proof of concept</div>",
-            "url": "https://github.com/illixion/root-my-webos-tv",
-            "title": "illixion/root-my-webos-tv: CVE-2023-6319 proof of concept",
-            "date_modified": "2024-10-17T11:18:50.000Z",
-            "date_published": "2024-04-11T18:58:17.000Z",
-            "author": {
-                "name": "illixion",
-                "url": "https://github.com/illixion"
             }
         }
     ]
