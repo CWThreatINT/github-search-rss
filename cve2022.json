@@ -6,6 +6,17 @@
     "description": "CVE-2022 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/185408601?u=fa82f069c604cd4f50af016903bf68a586763ebf&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Known hardware CVE's {Ref: NIST 2022}</div>",
+            "url": "https://github.com/TerminalNator2000/Baicelss-Technology-Risk-Analysis",
+            "title": "TerminalNator2000/Baicelss-Technology-Risk-Analysis: Known hardware CVE's {Ref: NIST 2022}",
+            "date_modified": "2024-10-24T22:57:45.000Z",
+            "date_published": "2024-10-24T22:55:53.000Z",
+            "author": {
+                "name": "TerminalNator2000",
+                "url": "https://github.com/TerminalNator2000"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/87374678?u=3742519415eb6d6e2e47b95c4816b82dff5da0ca&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2022-41082-poc</div>",
             "url": "https://github.com/soltanali0/CVE-2022-41082",
             "title": "soltanali0/CVE-2022-41082: CVE-2022-41082-poc",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "geniuszlyy",
                 "url": "https://github.com/geniuszlyy"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/59293085?u=6e3dcea881813bd3ebf55b9ba5357c66cd233b70&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Zimbra Collaboration (ZCS) Arbitrary File Upload Vulnerability</div>",
-            "url": "https://github.com/rxerium/CVE-2022-41352",
-            "title": "rxerium/CVE-2022-41352: Zimbra Collaboration (ZCS) Arbitrary File Upload Vulnerability",
-            "date_modified": "2024-10-05T06:20:48.000Z",
-            "date_published": "2024-03-17T19:59:58.000Z",
-            "author": {
-                "name": "rxerium",
-                "url": "https://github.com/rxerium"
             }
         }
     ]
