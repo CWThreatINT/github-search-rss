@@ -6,6 +6,39 @@
     "description": "CVE-2023 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/18195825?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023</div>",
+            "url": "https://github.com/CVEProject/cvelist",
+            "title": "CVEProject/cvelist: Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023",
+            "date_modified": "2024-10-25T18:00:45.000Z",
+            "date_published": "2020-11-02T19:30:55.000Z",
+            "author": {
+                "name": "CVEProject",
+                "url": "https://github.com/CVEProject"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/134310220?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Three go-exploits exploiting CVE-2023-22527 to execute arbitrary code in memory</div>",
+            "url": "https://github.com/vulncheck-oss/cve-2023-22527",
+            "title": "vulncheck-oss/cve-2023-22527: Three go-exploits exploiting CVE-2023-22527 to execute arbitrary code in memory",
+            "date_modified": "2024-10-25T17:56:14.000Z",
+            "date_published": "2024-03-04T19:09:57.000Z",
+            "author": {
+                "name": "vulncheck-oss",
+                "url": "https://github.com/vulncheck-oss"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/183241815?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>In the hushed galleries of the Silent JPG Exploit, a symphony shrouded in enigma unfurls—an opus named silent-jpg-exploit-2018—a title that reverberates through the annals of intrigue.</div>",
+            "url": "https://github.com/MystersCat/Jpg-Png-Exploit-Slient-Builder-Exploit-Database-Cve-2023-Malware",
+            "title": "MystersCat/Jpg-Png-Exploit-Slient-Builder-Exploit-Database-Cve-2023-Malware: In the hushed galleries of the Silent JPG Exploit, a symphony shrouded in enigma unfurls—an opus named silent-jpg-exploit-2018—a title that reverberates through the annals of intrigue.",
+            "date_modified": "2024-10-25T17:51:59.000Z",
+            "date_published": "2024-09-28T21:16:12.000Z",
+            "author": {
+                "name": "MystersCat",
+                "url": "https://github.com/MystersCat"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/186207823?u=dcb6e5655397049ea773d789de901a51bf10597e&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2023-46747-Mass-RCE</div>",
             "url": "https://github.com/MacTavish2/CVE-2023-46747-Mass-RCE",
             "title": "MacTavish2/CVE-2023-46747-Mass-RCE: CVE-2023-46747-Mass-RCE",
@@ -14,28 +47,6 @@
             "author": {
                 "name": "MacTavish2",
                 "url": "https://github.com/MacTavish2"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/18195825?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023</div>",
-            "url": "https://github.com/CVEProject/cvelist",
-            "title": "CVEProject/cvelist: Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023",
-            "date_modified": "2024-10-25T17:00:47.000Z",
-            "date_published": "2020-11-02T19:30:55.000Z",
-            "author": {
-                "name": "CVEProject",
-                "url": "https://github.com/CVEProject"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/183241815?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>In the hushed galleries of the Silent JPG Exploit, a symphony shrouded in enigma unfurls—an opus named silent-jpg-exploit-2018—a title that reverberates through the annals of intrigue.</div>",
-            "url": "https://github.com/MystersCat/Jpg-Png-Exploit-Slient-Builder-Exploit-Database-Cve-2023-Malware",
-            "title": "MystersCat/Jpg-Png-Exploit-Slient-Builder-Exploit-Database-Cve-2023-Malware: In the hushed galleries of the Silent JPG Exploit, a symphony shrouded in enigma unfurls—an opus named silent-jpg-exploit-2018—a title that reverberates through the annals of intrigue.",
-            "date_modified": "2024-10-25T16:52:11.000Z",
-            "date_published": "2024-09-28T21:16:12.000Z",
-            "author": {
-                "name": "MystersCat",
-                "url": "https://github.com/MystersCat"
             }
         },
         {
@@ -212,17 +223,6 @@
             "author": {
                 "name": "Jianchun-Ding",
                 "url": "https://github.com/Jianchun-Ding"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/25384256?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Vulnerability Overview CVE-2023-38408 affects OpenSSH versions &lt; 9.3p2 and stems from improper validation of data when SSH agent forwarding is enabled. When users connect to a remote server with ssh -A, they allow the agent on their local machine to be used for authentication to further systems</div>",
-            "url": "https://github.com/fazilbaig1/cve_2023_38408_scanner",
-            "title": "fazilbaig1/cve_2023_38408_scanner: Vulnerability Overview CVE-2023-38408 affects OpenSSH versions < 9.3p2 and stems from improper validation of data when SSH agent forwarding is enabled. When users connect to a remote server with ssh -A, they allow the agent on their local machine to be used for authentication to further systems",
-            "date_modified": "2024-10-17T13:08:15.000Z",
-            "date_published": "2024-10-17T13:03:42.000Z",
-            "author": {
-                "name": "fazilbaig1",
-                "url": "https://github.com/fazilbaig1"
             }
         }
     ]
