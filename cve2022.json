@@ -6,6 +6,17 @@
     "description": "CVE-2022 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/151560338?u=900780028192d51d8de5349b00d05fefbeaf7931&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2022-0944 Remote Code Execution Exploit</div>",
+            "url": "https://github.com/LipeOzyy/SQLPad-RCE-Exploit-CVE-2022-0944",
+            "title": "LipeOzyy/SQLPad-RCE-Exploit-CVE-2022-0944: CVE-2022-0944 Remote Code Execution Exploit",
+            "date_modified": "2024-10-25T20:31:13.000Z",
+            "date_published": "2024-10-25T20:31:09.000Z",
+            "author": {
+                "name": "LipeOzyy",
+                "url": "https://github.com/LipeOzyy"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/156780826?u=de24bff3d8e98cf3d7d6d1a3815508ca8b6a16ec&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Zabbix Frontend Authentication Bypass Vulnerability</div>",
             "url": "https://github.com/davidzzo23/CVE-2022-23131",
             "title": "davidzzo23/CVE-2022-23131: Zabbix Frontend Authentication Bypass Vulnerability",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "toneillcodes",
                 "url": "https://github.com/toneillcodes"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/67920312?u=f976f928d669ae0ae4d68f8cee8aacec09ff08bd&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
-            "url": "https://github.com/Agentgilspy/CVE-2022-26134",
-            "title": "Agentgilspy/CVE-2022-26134",
-            "date_modified": "2024-10-13T13:47:03.000Z",
-            "date_published": "2024-10-13T13:38:07.000Z",
-            "author": {
-                "name": "Agentgilspy",
-                "url": "https://github.com/Agentgilspy"
             }
         }
     ]
