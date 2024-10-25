@@ -6,6 +6,17 @@
     "description": "CVE-2022 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/46268083?u=e0fe71218584c83b4405273c33a4210cb60cabe9&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE_2022_0847</div>",
+            "url": "https://github.com/ShaharyarJalaluddin/cve20220847",
+            "title": "ShaharyarJalaluddin/cve20220847: CVE_2022_0847",
+            "date_modified": "2024-10-25T03:34:05.000Z",
+            "date_published": "2024-10-25T03:32:11.000Z",
+            "author": {
+                "name": "ShaharyarJalaluddin",
+                "url": "https://github.com/ShaharyarJalaluddin"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/185408601?u=fa82f069c604cd4f50af016903bf68a586763ebf&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Known hardware CVE's {Ref: NIST 2022}</div>",
             "url": "https://github.com/TerminalNator2000/Baicelss-Technology-Risk-Analysis",
             "title": "TerminalNator2000/Baicelss-Technology-Risk-Analysis: Known hardware CVE's {Ref: NIST 2022}",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "Hack-Oeil",
                 "url": "https://github.com/Hack-Oeil"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/137893386?u=d8ae31ca086382549eecf57a1a5f2b835b7ff881&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>is a PoC script for demonstrating an XML External Entity (XXE) vulnerability exploitation</div>",
-            "url": "https://github.com/geniuszlyy/CVE-2022-2414",
-            "title": "geniuszlyy/CVE-2022-2414: is a PoC script for demonstrating an XML External Entity (XXE) vulnerability exploitation",
-            "date_modified": "2024-10-21T08:15:06.000Z",
-            "date_published": "2024-10-07T15:36:39.000Z",
-            "author": {
-                "name": "geniuszlyy",
-                "url": "https://github.com/geniuszlyy"
             }
         }
     ]
