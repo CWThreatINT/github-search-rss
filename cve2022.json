@@ -6,6 +6,17 @@
     "description": "CVE-2022 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/22019133?u=2f65706d247887d4f96150684399d875ccf0b241&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A proof-of-concept for CVE-2022-48565 - python plistlib XML deserialisation attack</div>",
+            "url": "https://github.com/Einstein2150/CVE-2022-48565-POC",
+            "title": "Einstein2150/CVE-2022-48565-POC: A proof-of-concept for CVE-2022-48565 - python plistlib XML deserialisation attack",
+            "date_modified": "2024-10-28T16:07:17.000Z",
+            "date_published": "2024-10-22T05:58:24.000Z",
+            "author": {
+                "name": "Einstein2150",
+                "url": "https://github.com/Einstein2150"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/117660722?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Demonstrate some functionalities of Morion by generating an exploit for CVE-2022-27646 (stack buffer overflow on Netgear R6700v3 routers).</div>",
             "url": "https://github.com/cyber-defence-campus/netgear_r6700v3_circled",
             "title": "cyber-defence-campus/netgear_r6700v3_circled: Demonstrate some functionalities of Morion by generating an exploit for CVE-2022-27646 (stack buffer overflow on Netgear R6700v3 routers).",
@@ -80,17 +91,6 @@
             "author": {
                 "name": "davidzzo23",
                 "url": "https://github.com/davidzzo23"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/22019133?u=2f65706d247887d4f96150684399d875ccf0b241&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A proof-of-concept for CVE-2022-48656 - python plistlib XML deserialisation attack</div>",
-            "url": "https://github.com/Einstein2150/CVE-2022-48656-POC",
-            "title": "Einstein2150/CVE-2022-48656-POC: A proof-of-concept for CVE-2022-48656 - python plistlib XML deserialisation attack",
-            "date_modified": "2024-10-25T09:52:01.000Z",
-            "date_published": "2024-10-22T05:58:24.000Z",
-            "author": {
-                "name": "Einstein2150",
-                "url": "https://github.com/Einstein2150"
             }
         },
         {
