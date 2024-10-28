@@ -6,6 +6,17 @@
     "description": "CVE-2022 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/62440997?u=d35a0fec7fd1bebe70bab25657f7bd5b2a9c7e1d&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
+            "url": "https://github.com/devetop/CVE-2022-2639-PipeVersion",
+            "title": "devetop/CVE-2022-2639-PipeVersion",
+            "date_modified": "2024-10-27T23:15:41.000Z",
+            "date_published": "2024-10-27T23:14:48.000Z",
+            "author": {
+                "name": "devetop",
+                "url": "https://github.com/devetop"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/95960398?u=d28b4aab493be20a7a46ae03a49cfba0f7dac790&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Refurbish</div>",
             "url": "https://github.com/TanveerS1ngh/SQLPad-6.10.0-Exploit-CVE-2022-0944",
             "title": "TanveerS1ngh/SQLPad-6.10.0-Exploit-CVE-2022-0944: Refurbish",
@@ -20,7 +31,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/159681973?u=5f58ba628dbe5f9dc8bad03ec134367f6af6e2b7&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>历史漏洞的细节以及利用方法汇总收集</div>",
             "url": "https://github.com/OracleNep/Nday-Exploit-Plan",
             "title": "OracleNep/Nday-Exploit-Plan: 历史漏洞的细节以及利用方法汇总收集",
-            "date_modified": "2024-10-27T03:33:05.000Z",
+            "date_modified": "2024-10-28T00:06:38.000Z",
             "date_published": "2024-02-11T06:55:47.000Z",
             "author": {
                 "name": "OracleNep",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "seadragnol",
                 "url": "https://github.com/seadragnol"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/21672558?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>cve-2022-21907</div>",
-            "url": "https://github.com/corelight/cve-2022-21907",
-            "title": "corelight/cve-2022-21907: cve-2022-21907",
-            "date_modified": "2024-10-14T14:34:14.000Z",
-            "date_published": "2022-01-11T05:00:55.000Z",
-            "author": {
-                "name": "corelight",
-                "url": "https://github.com/corelight"
             }
         }
     ]
