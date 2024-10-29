@@ -6,10 +6,21 @@
     "description": "CVE-2023 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/18195825?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023</div>",
+            "url": "https://github.com/CVEProject/cvelist",
+            "title": "CVEProject/cvelist: Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023",
+            "date_modified": "2024-10-29T14:00:56.000Z",
+            "date_published": "2020-11-02T19:30:55.000Z",
+            "author": {
+                "name": "CVEProject",
+                "url": "https://github.com/CVEProject"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/183241815?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>In the hushed galleries of the Silent JPG Exploit, a symphony shrouded in enigma unfurls—an opus named silent-jpg-exploit-2018—a title that reverberates through the annals of intrigue.</div>",
             "url": "https://github.com/MystersCat/Jpg-Png-Exploit-Slient-Builder-Exploit-Database-Cve-2023-Malware",
             "title": "MystersCat/Jpg-Png-Exploit-Slient-Builder-Exploit-Database-Cve-2023-Malware: In the hushed galleries of the Silent JPG Exploit, a symphony shrouded in enigma unfurls—an opus named silent-jpg-exploit-2018—a title that reverberates through the annals of intrigue.",
-            "date_modified": "2024-10-29T13:15:30.000Z",
+            "date_modified": "2024-10-29T13:56:50.000Z",
             "date_published": "2024-09-28T21:16:12.000Z",
             "author": {
                 "name": "MystersCat",
@@ -17,14 +28,14 @@
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/18195825?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023</div>",
-            "url": "https://github.com/CVEProject/cvelist",
-            "title": "CVEProject/cvelist: Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023",
-            "date_modified": "2024-10-29T13:00:51.000Z",
-            "date_published": "2020-11-02T19:30:55.000Z",
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/114722053?u=fac8835a49c295ffa0a9a27165966cf71978fc52&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Checker for CVE-2023-22518 vulnerability on Confluence</div>",
+            "url": "https://github.com/zgimszhd61/CVE-2023-22518",
+            "title": "zgimszhd61/CVE-2023-22518: Checker for CVE-2023-22518 vulnerability on Confluence",
+            "date_modified": "2024-10-29T13:32:45.000Z",
+            "date_published": "2024-10-29T13:29:15.000Z",
             "author": {
-                "name": "CVEProject",
-                "url": "https://github.com/CVEProject"
+                "name": "zgimszhd61",
+                "url": "https://github.com/zgimszhd61"
             }
         },
         {
@@ -212,17 +223,6 @@
             "author": {
                 "name": "chunzhennn",
                 "url": "https://github.com/chunzhennn"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/101872898?u=ff91a9355029d7341ab430bfc2802eb4d72f92d7&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>exploit for f5-big-ip RCE cve-2023-46747</div>",
-            "url": "https://github.com/W01fh4cker/CVE-2023-46747-RCE",
-            "title": "W01fh4cker/CVE-2023-46747-RCE: exploit for f5-big-ip RCE cve-2023-46747",
-            "date_modified": "2024-10-22T21:53:45.000Z",
-            "date_published": "2023-11-01T09:31:05.000Z",
-            "author": {
-                "name": "W01fh4cker",
-                "url": "https://github.com/W01fh4cker"
             }
         }
     ]
