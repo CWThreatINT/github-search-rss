@@ -9,7 +9,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/18195825?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023</div>",
             "url": "https://github.com/CVEProject/cvelist",
             "title": "CVEProject/cvelist: Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023",
-            "date_modified": "2024-10-30T09:00:49.000Z",
+            "date_modified": "2024-10-30T10:00:44.000Z",
             "date_published": "2020-11-02T19:30:55.000Z",
             "author": {
                 "name": "CVEProject",
@@ -20,11 +20,22 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/183241815?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>In the hushed galleries of the Silent JPG Exploit, a symphony shrouded in enigma unfurls—an opus named silent-jpg-exploit-2018—a title that reverberates through the annals of intrigue.</div>",
             "url": "https://github.com/MystersCat/Jpg-Png-Exploit-Slient-Builder-Exploit-Database-Cve-2023-Malware",
             "title": "MystersCat/Jpg-Png-Exploit-Slient-Builder-Exploit-Database-Cve-2023-Malware: In the hushed galleries of the Silent JPG Exploit, a symphony shrouded in enigma unfurls—an opus named silent-jpg-exploit-2018—a title that reverberates through the annals of intrigue.",
-            "date_modified": "2024-10-30T08:54:24.000Z",
+            "date_modified": "2024-10-30T09:52:52.000Z",
             "date_published": "2024-09-28T21:16:12.000Z",
             "author": {
                 "name": "MystersCat",
                 "url": "https://github.com/MystersCat"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/186808597?u=23008986158f1e6cb581dbde822dfd747b8b9fec&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>POC CVE 2023-21716</div>",
+            "url": "https://github.com/n0s3ns33/poc-cve-2023-21716",
+            "title": "n0s3ns33/poc-cve-2023-21716: POC CVE 2023-21716",
+            "date_modified": "2024-10-30T09:50:53.000Z",
+            "date_published": "2024-10-30T09:38:36.000Z",
+            "author": {
+                "name": "n0s3ns33",
+                "url": "https://github.com/n0s3ns33"
             }
         },
         {
@@ -212,17 +223,6 @@
             "author": {
                 "name": "dvtarsoul",
                 "url": "https://github.com/dvtarsoul"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/38834411?u=6bafffa2a559af0c94370c0c5a84d1c952061cf4&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Oracle VirtualBox VGA OOB-Read Vulnerability</div>",
-            "url": "https://github.com/chunzhennn/cve-2023-21987-poc",
-            "title": "chunzhennn/cve-2023-21987-poc: Oracle VirtualBox VGA OOB-Read Vulnerability",
-            "date_modified": "2024-10-21T18:15:25.000Z",
-            "date_published": "2024-09-24T14:01:57.000Z",
-            "author": {
-                "name": "chunzhennn",
-                "url": "https://github.com/chunzhennn"
             }
         }
     ]
