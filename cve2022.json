@@ -6,6 +6,17 @@
     "description": "CVE-2022 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/124332420?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>2022-29380</div>",
+            "url": "https://github.com/OpenXP-Research/CVE-2022-29380",
+            "title": "OpenXP-Research/CVE-2022-29380: 2022-29380",
+            "date_modified": "2024-10-30T15:51:46.000Z",
+            "date_published": "2024-10-30T15:50:46.000Z",
+            "author": {
+                "name": "OpenXP-Research",
+                "url": "https://github.com/OpenXP-Research"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/25670930?u=6fad2f13c751b51fd47e377945d79369743f5948&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>SIDECHANNEL+CVE-2022-38029</div>",
             "url": "https://github.com/SpiralBL0CK/SIDECHANNEL-CVE-2022-38029",
             "title": "SpiralBL0CK/SIDECHANNEL-CVE-2022-38029: SIDECHANNEL+CVE-2022-38029",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "muhammadhendro",
                 "url": "https://github.com/muhammadhendro"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/21672558?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A Zeek package to detect CVE-2022-26937, a vulnerability in the Network Lock Manager (NLM) protocol in Windows NFS server.</div>",
-            "url": "https://github.com/corelight/CVE-2022-26937",
-            "title": "corelight/CVE-2022-26937: A Zeek package to detect CVE-2022-26937, a vulnerability in the Network Lock Manager (NLM) protocol in Windows NFS server.",
-            "date_modified": "2024-10-18T12:05:57.000Z",
-            "date_published": "2022-05-11T18:36:45.000Z",
-            "author": {
-                "name": "corelight",
-                "url": "https://github.com/corelight"
             }
         }
     ]
