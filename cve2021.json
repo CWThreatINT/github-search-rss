@@ -6,6 +6,17 @@
     "description": "CVE-2021 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/184205862?u=f61e04ca237bcc2792d6b6746cac1e8e198288ff&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
+            "url": "https://github.com/GodOfServer/CVE-2021-3129",
+            "title": "GodOfServer/CVE-2021-3129",
+            "date_modified": "2024-10-31T11:31:41.000Z",
+            "date_published": "2024-10-31T11:30:23.000Z",
+            "author": {
+                "name": "GodOfServer",
+                "url": "https://github.com/GodOfServer"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/159681973?u=5f58ba628dbe5f9dc8bad03ec134367f6af6e2b7&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>历史漏洞的细节以及利用方法汇总收集</div>",
             "url": "https://github.com/OracleNep/Nday-Exploit-Plan",
             "title": "OracleNep/Nday-Exploit-Plan: 历史漏洞的细节以及利用方法汇总收集",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "sazzad1337",
                 "url": "https://github.com/sazzad1337"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/18898977?u=9406f686f6ac65cde2f37a375fc7e0370ec58a3c&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2021-3129 Laravel Ignition RCE Exploit</div>",
-            "url": "https://github.com/0x0d3ad/CVE-2021-3129",
-            "title": "0x0d3ad/CVE-2021-3129: CVE-2021-3129 Laravel Ignition RCE Exploit",
-            "date_modified": "2024-10-05T05:58:32.000Z",
-            "date_published": "2024-09-29T05:09:41.000Z",
-            "author": {
-                "name": "0x0d3ad",
-                "url": "https://github.com/0x0d3ad"
             }
         }
     ]
