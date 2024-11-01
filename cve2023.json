@@ -9,7 +9,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/18195825?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023</div>",
             "url": "https://github.com/CVEProject/cvelist",
             "title": "CVEProject/cvelist: Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023",
-            "date_modified": "2024-11-01T08:00:42.000Z",
+            "date_modified": "2024-11-01T09:00:46.000Z",
             "date_published": "2020-11-02T19:30:55.000Z",
             "author": {
                 "name": "CVEProject",
@@ -17,10 +17,32 @@
             }
         },
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/65416059?u=319a514c9f87e960a6e05fd5a101b04942d7ce31&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2023-42326 exploit</div>",
+            "url": "https://github.com/Farzan-Kh/CVE-2023-42326",
+            "title": "Farzan-Kh/CVE-2023-42326: CVE-2023-42326 exploit",
+            "date_modified": "2024-11-01T08:57:04.000Z",
+            "date_published": "2024-10-31T18:51:54.000Z",
+            "author": {
+                "name": "Farzan-Kh",
+                "url": "https://github.com/Farzan-Kh"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/65416059?u=319a514c9f87e960a6e05fd5a101b04942d7ce31&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2023-48123 exploit</div>",
+            "url": "https://github.com/Farzan-Kh/CVE-2023-48123",
+            "title": "Farzan-Kh/CVE-2023-48123: CVE-2023-48123 exploit",
+            "date_modified": "2024-11-01T08:55:26.000Z",
+            "date_published": "2024-10-31T19:35:07.000Z",
+            "author": {
+                "name": "Farzan-Kh",
+                "url": "https://github.com/Farzan-Kh"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/183241815?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>In the hushed galleries of the Silent JPG Exploit, a symphony shrouded in enigma unfurls—an opus named silent-jpg-exploit-2018—a title that reverberates through the annals of intrigue.</div>",
             "url": "https://github.com/MystersCat/Jpg-Png-Exploit-Slient-Builder-Exploit-Database-Cve-2023-Malware",
             "title": "MystersCat/Jpg-Png-Exploit-Slient-Builder-Exploit-Database-Cve-2023-Malware: In the hushed galleries of the Silent JPG Exploit, a symphony shrouded in enigma unfurls—an opus named silent-jpg-exploit-2018—a title that reverberates through the annals of intrigue.",
-            "date_modified": "2024-11-01T07:59:44.000Z",
+            "date_modified": "2024-11-01T08:54:06.000Z",
             "date_published": "2024-09-28T21:16:12.000Z",
             "author": {
                 "name": "MystersCat",
@@ -58,17 +80,6 @@
             "author": {
                 "name": "GhostTroops",
                 "url": "https://github.com/GhostTroops"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/65416059?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2023-42326 exploit</div>",
-            "url": "https://github.com/Farzan-Kh/CVE-2023-42326",
-            "title": "Farzan-Kh/CVE-2023-42326: CVE-2023-42326 exploit",
-            "date_modified": "2024-10-31T19:38:52.000Z",
-            "date_published": "2024-10-31T18:51:54.000Z",
-            "author": {
-                "name": "Farzan-Kh",
-                "url": "https://github.com/Farzan-Kh"
             }
         },
         {
@@ -212,17 +223,6 @@
             "author": {
                 "name": "Mohammaddvd",
                 "url": "https://github.com/Mohammaddvd"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/54555784?u=f6c62173c0ea90f125c7625c5cbb46d3b095be79&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Description and exploit of CVE-2023-33831 affecting FUXA web-based Process Visualization (SCADA/HMI/Dashboard) software.</div>",
-            "url": "https://github.com/rodolfomarianocy/Unauthenticated-RCE-FUXA-CVE-2023-33831",
-            "title": "rodolfomarianocy/Unauthenticated-RCE-FUXA-CVE-2023-33831: Description and exploit of CVE-2023-33831 affecting FUXA web-based Process Visualization (SCADA/HMI/Dashboard) software.",
-            "date_modified": "2024-10-27T22:55:13.000Z",
-            "date_published": "2023-09-03T19:25:15.000Z",
-            "author": {
-                "name": "rodolfomarianocy",
-                "url": "https://github.com/rodolfomarianocy"
             }
         }
     ]
