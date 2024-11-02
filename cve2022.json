@@ -6,6 +6,17 @@
     "description": "CVE-2022 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/54827262?u=fff99206033a42e1ff27bc613c7221dd6cae3ad1&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>harbor unauthorized detection</div>",
+            "url": "https://github.com/404tk/CVE-2022-46463",
+            "title": "404tk/CVE-2022-46463: harbor unauthorized detection",
+            "date_modified": "2024-11-02T09:29:34.000Z",
+            "date_published": "2023-03-21T10:40:19.000Z",
+            "author": {
+                "name": "404tk",
+                "url": "https://github.com/404tk"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/159681973?u=5f58ba628dbe5f9dc8bad03ec134367f6af6e2b7&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>历史漏洞的细节以及利用方法汇总收集</div>",
             "url": "https://github.com/OracleNep/Nday-Exploit-Plan",
             "title": "OracleNep/Nday-Exploit-Plan: 历史漏洞的细节以及利用方法汇总收集",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "SpiralBL0CK",
                 "url": "https://github.com/SpiralBL0CK"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/40570379?u=1de225fed98deeec269d4e4b62494e2605993ffa&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
-            "url": "https://github.com/muhammadhendro/CVE-2022-24439",
-            "title": "muhammadhendro/CVE-2022-24439",
-            "date_modified": "2024-10-16T05:07:07.000Z",
-            "date_published": "2024-10-16T05:06:01.000Z",
-            "author": {
-                "name": "muhammadhendro",
-                "url": "https://github.com/muhammadhendro"
             }
         }
     ]
