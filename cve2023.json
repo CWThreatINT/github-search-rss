@@ -6,10 +6,21 @@
     "description": "CVE-2023 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/187107603?u=5dd30cc1f86b690f0b55e584e8c01eedef1a8225&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2023-4220 Chamilo Exploit</div>",
+            "url": "https://github.com/H4cking4All/CVE-2023-4220",
+            "title": "H4cking4All/CVE-2023-4220: CVE-2023-4220 Chamilo Exploit",
+            "date_modified": "2024-11-02T15:07:58.000Z",
+            "date_published": "2024-11-02T14:49:51.000Z",
+            "author": {
+                "name": "H4cking4All",
+                "url": "https://github.com/H4cking4All"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/18195825?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023</div>",
             "url": "https://github.com/CVEProject/cvelist",
             "title": "CVEProject/cvelist: Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023",
-            "date_modified": "2024-11-02T14:00:47.000Z",
+            "date_modified": "2024-11-02T15:00:42.000Z",
             "date_published": "2020-11-02T19:30:55.000Z",
             "author": {
                 "name": "CVEProject",
@@ -20,7 +31,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/183241815?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>In the hushed galleries of the Silent JPG Exploit, a symphony shrouded in enigma unfurls—an opus named silent-jpg-exploit-2018—a title that reverberates through the annals of intrigue.</div>",
             "url": "https://github.com/MystersCat/Jpg-Png-Exploit-Slient-Builder-Exploit-Database-Cve-2023-Malware",
             "title": "MystersCat/Jpg-Png-Exploit-Slient-Builder-Exploit-Database-Cve-2023-Malware: In the hushed galleries of the Silent JPG Exploit, a symphony shrouded in enigma unfurls—an opus named silent-jpg-exploit-2018—a title that reverberates through the annals of intrigue.",
-            "date_modified": "2024-11-02T14:00:05.000Z",
+            "date_modified": "2024-11-02T14:54:00.000Z",
             "date_published": "2024-09-28T21:16:12.000Z",
             "author": {
                 "name": "MystersCat",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "n0s3ns33",
                 "url": "https://github.com/n0s3ns33"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/114722053?u=fac8835a49c295ffa0a9a27165966cf71978fc52&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Checker for CVE-2023-22518 vulnerability on Confluence</div>",
-            "url": "https://github.com/zgimszhd61/CVE-2023-22518",
-            "title": "zgimszhd61/CVE-2023-22518: Checker for CVE-2023-22518 vulnerability on Confluence",
-            "date_modified": "2024-10-29T13:32:45.000Z",
-            "date_published": "2024-10-29T13:29:15.000Z",
-            "author": {
-                "name": "zgimszhd61",
-                "url": "https://github.com/zgimszhd61"
             }
         }
     ]
