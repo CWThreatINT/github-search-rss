@@ -6,6 +6,17 @@
     "description": "CVE-2022 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/184559460?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
+            "url": "https://github.com/guigui237/Expoitation-de-la-vuln-rabilit-CVE-2022-22965",
+            "title": "guigui237/Expoitation-de-la-vuln-rabilit-CVE-2022-22965",
+            "date_modified": "2024-11-05T16:30:04.000Z",
+            "date_published": "2024-11-05T16:30:00.000Z",
+            "author": {
+                "name": "guigui237",
+                "url": "https://github.com/guigui237"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/143868630?u=338a900325fe149e39c9305192e97e4f84d1ad93&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Serverside Template Injection (SSTI) RCE - THM challenge \"whiterose\"    </div>",
             "url": "https://github.com/l0n3m4n/CVE-2022-29078",
             "title": "l0n3m4n/CVE-2022-29078: Serverside Template Injection (SSTI) RCE - THM challenge \"whiterose\"    ",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "senderend",
                 "url": "https://github.com/senderend"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/18663141?u=2f4646b4e3f9b108365fcca3eb28adcdea03429d&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Android kernel exploitation for CVE-2022-20409</div>",
-            "url": "https://github.com/Markakd/bad_io_uring",
-            "title": "Markakd/bad_io_uring: Android kernel exploitation for CVE-2022-20409",
-            "date_modified": "2024-10-28T20:57:28.000Z",
-            "date_published": "2022-11-21T22:42:50.000Z",
-            "author": {
-                "name": "Markakd",
-                "url": "https://github.com/Markakd"
             }
         }
     ]
