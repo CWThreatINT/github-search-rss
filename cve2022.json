@@ -6,6 +6,17 @@
     "description": "CVE-2022 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/143868630?u=338a900325fe149e39c9305192e97e4f84d1ad93&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Serverside Template Injection (SSTI) RCE - THM challenge \"whiterose\"    </div>",
+            "url": "https://github.com/l0n3m4n/CVE-2022-29078",
+            "title": "l0n3m4n/CVE-2022-29078: Serverside Template Injection (SSTI) RCE - THM challenge \"whiterose\"    ",
+            "date_modified": "2024-11-05T06:50:44.000Z",
+            "date_published": "2024-11-05T06:15:45.000Z",
+            "author": {
+                "name": "l0n3m4n",
+                "url": "https://github.com/l0n3m4n"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/54827262?u=fff99206033a42e1ff27bc613c7221dd6cae3ad1&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>harbor unauthorized detection</div>",
             "url": "https://github.com/404tk/CVE-2022-46463",
             "title": "404tk/CVE-2022-46463: harbor unauthorized detection",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "Markakd",
                 "url": "https://github.com/Markakd"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/25670930?u=6fad2f13c751b51fd47e377945d79369743f5948&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2024-40431+CVE-2022-25479 chain for EOP(DATA ONLY ATTACK) </div>",
-            "url": "https://github.com/SpiralBL0CK/CVE-2024-40431-CVE-2022-25479-EOP-CHAIN",
-            "title": "SpiralBL0CK/CVE-2024-40431-CVE-2022-25479-EOP-CHAIN: CVE-2024-40431+CVE-2022-25479 chain for EOP(DATA ONLY ATTACK) ",
-            "date_modified": "2024-10-31T01:03:05.000Z",
-            "date_published": "2024-09-17T06:28:17.000Z",
-            "author": {
-                "name": "SpiralBL0CK",
-                "url": "https://github.com/SpiralBL0CK"
             }
         }
     ]
