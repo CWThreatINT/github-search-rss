@@ -9,7 +9,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/18195825?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023</div>",
             "url": "https://github.com/CVEProject/cvelist",
             "title": "CVEProject/cvelist: Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023",
-            "date_modified": "2024-11-06T20:01:00.000Z",
+            "date_modified": "2024-11-06T21:00:43.000Z",
             "date_published": "2020-11-02T19:30:55.000Z",
             "author": {
                 "name": "CVEProject",
@@ -160,17 +160,6 @@
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/114722053?u=fac8835a49c295ffa0a9a27165966cf71978fc52&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
-            "url": "https://github.com/zgimszhd61/CVE-2023-46747-RCE-poc",
-            "title": "zgimszhd61/CVE-2023-46747-RCE-poc",
-            "date_modified": "2024-11-05T08:25:30.000Z",
-            "date_published": "2024-11-01T01:52:51.000Z",
-            "author": {
-                "name": "zgimszhd61",
-                "url": "https://github.com/zgimszhd61"
-            }
-        },
-        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/134310220?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Three go-exploits exploiting CVE-2023-22527 to execute arbitrary code in memory</div>",
             "url": "https://github.com/vulncheck-oss/cve-2023-22527",
             "title": "vulncheck-oss/cve-2023-22527: Three go-exploits exploiting CVE-2023-22527 to execute arbitrary code in memory",
@@ -220,6 +209,17 @@
             "title": "vulncheck-oss/cve-2023-51467: A go-exploit for Apache OFBiz CVE-2023-51467",
             "date_modified": "2024-10-30T15:54:43.000Z",
             "date_published": "2024-01-09T16:58:06.000Z",
+            "author": {
+                "name": "vulncheck-oss",
+                "url": "https://github.com/vulncheck-oss"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/134310220?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A go-exploit to scan for Juniper firewalls vulnerable to CVE-2023-36845</div>",
+            "url": "https://github.com/vulncheck-oss/cve-2023-36845-scanner",
+            "title": "vulncheck-oss/cve-2023-36845-scanner: A go-exploit to scan for Juniper firewalls vulnerable to CVE-2023-36845",
+            "date_modified": "2024-10-30T15:51:39.000Z",
+            "date_published": "2023-09-16T09:11:21.000Z",
             "author": {
                 "name": "vulncheck-oss",
                 "url": "https://github.com/vulncheck-oss"
