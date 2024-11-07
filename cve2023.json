@@ -9,11 +9,22 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/18195825?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023</div>",
             "url": "https://github.com/CVEProject/cvelist",
             "title": "CVEProject/cvelist: Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023",
-            "date_modified": "2024-11-07T11:00:47.000Z",
+            "date_modified": "2024-11-07T12:00:43.000Z",
             "date_published": "2020-11-02T19:30:55.000Z",
             "author": {
                 "name": "CVEProject",
                 "url": "https://github.com/CVEProject"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/51722811?u=a195458fc64bade6e8616d1d5c43883f0abde0c0&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>RSVPMarker &lt;= 10.6.6 - Unauthenticated SQL Injection</div>",
+            "url": "https://github.com/RandomRobbieBF/CVE-2023-41652",
+            "title": "RandomRobbieBF/CVE-2023-41652: RSVPMarker <= 10.6.6 - Unauthenticated SQL Injection",
+            "date_modified": "2024-11-07T11:51:54.000Z",
+            "date_published": "2024-11-07T11:49:36.000Z",
+            "author": {
+                "name": "RandomRobbieBF",
+                "url": "https://github.com/RandomRobbieBF"
             }
         },
         {
@@ -212,17 +223,6 @@
             "author": {
                 "name": "m3ssap0",
                 "url": "https://github.com/m3ssap0"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/49879157?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div> Stakater Forecastle =&gt; v1.0.144 allows directory traversal in the website component</div>",
-            "url": "https://github.com/sahar042/CVE-2023-40297",
-            "title": "sahar042/CVE-2023-40297:  Stakater Forecastle => v1.0.144 allows directory traversal in the website component",
-            "date_modified": "2024-10-30T16:06:29.000Z",
-            "date_published": "2023-08-14T06:18:48.000Z",
-            "author": {
-                "name": "sahar042",
-                "url": "https://github.com/sahar042"
             }
         }
     ]
