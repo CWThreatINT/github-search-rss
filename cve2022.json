@@ -6,6 +6,17 @@
     "description": "CVE-2022 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/93204032?u=c98723be1b516c0521ef1938390a3da7ca65f854&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2022-25845(fastjson1.2.80) exploit in Spring Env!</div>",
+            "url": "https://github.com/luelueking/CVE-2022-25845-In-Spring",
+            "title": "luelueking/CVE-2022-25845-In-Spring: CVE-2022-25845(fastjson1.2.80) exploit in Spring Env!",
+            "date_modified": "2024-11-07T13:06:44.000Z",
+            "date_published": "2024-11-07T13:06:44.000Z",
+            "author": {
+                "name": "luelueking",
+                "url": "https://github.com/luelueking"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/159681973?u=5f58ba628dbe5f9dc8bad03ec134367f6af6e2b7&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>历史漏洞的细节以及利用方法汇总收集</div>",
             "url": "https://github.com/OracleNep/Nday-Exploit-Plan",
             "title": "OracleNep/Nday-Exploit-Plan: 历史漏洞的细节以及利用方法汇总收集",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "HeyMrSalt",
                 "url": "https://github.com/HeyMrSalt"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/90939597?u=959ebde7b0ef7fb5bccc3a9dc6996f5036127cb8&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>PoC exploit for GLPI - Command injection using a third-party library script</div>",
-            "url": "https://github.com/senderend/CVE-2022-35914",
-            "title": "senderend/CVE-2022-35914: PoC exploit for GLPI - Command injection using a third-party library script",
-            "date_modified": "2024-10-23T14:37:19.000Z",
-            "date_published": "2024-04-24T06:39:10.000Z",
-            "author": {
-                "name": "senderend",
-                "url": "https://github.com/senderend"
             }
         }
     ]
