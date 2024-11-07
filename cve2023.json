@@ -9,11 +9,22 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/18195825?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023</div>",
             "url": "https://github.com/CVEProject/cvelist",
             "title": "CVEProject/cvelist: Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023",
-            "date_modified": "2024-11-07T14:00:44.000Z",
+            "date_modified": "2024-11-07T15:00:45.000Z",
             "date_published": "2020-11-02T19:30:55.000Z",
             "author": {
                 "name": "CVEProject",
                 "url": "https://github.com/CVEProject"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/129142444?u=04f223172a8b05789c9f8aa6973552c5d1453458&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2023-25813 Vulnerability Reproduction - SQL Injection in Sequelize</div>",
+            "url": "https://github.com/wxuycea/CVE-2023-25813",
+            "title": "wxuycea/CVE-2023-25813: CVE-2023-25813 Vulnerability Reproduction - SQL Injection in Sequelize",
+            "date_modified": "2024-11-07T14:38:56.000Z",
+            "date_published": "2024-11-07T14:21:38.000Z",
+            "author": {
+                "name": "wxuycea",
+                "url": "https://github.com/wxuycea"
             }
         },
         {
@@ -212,17 +223,6 @@
             "author": {
                 "name": "vulncheck-oss",
                 "url": "https://github.com/vulncheck-oss"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/705120?u=dc6ccaa0b34cc511a6eec8e56e4d2e27fbe649f3&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>WARNING: This is a vulnerable application to test the exploit for the Cacti command injection (CVE-2023-39362). Run it at your own risk!</div>",
-            "url": "https://github.com/m3ssap0/cacti-rce-snmp-options-vulnerable-application",
-            "title": "m3ssap0/cacti-rce-snmp-options-vulnerable-application: WARNING: This is a vulnerable application to test the exploit for the Cacti command injection (CVE-2023-39362). Run it at your own risk!",
-            "date_modified": "2024-10-30T22:32:26.000Z",
-            "date_published": "2023-07-03T09:43:21.000Z",
-            "author": {
-                "name": "m3ssap0",
-                "url": "https://github.com/m3ssap0"
             }
         }
     ]
