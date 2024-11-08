@@ -6,6 +6,17 @@
     "description": "CVE-2021 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/105281?u=34b91b58b59ab25a46eef20861ee0200496d3b56&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Exploit for HiveNightmare - CVE-2021–36934</div>",
+            "url": "https://github.com/firefart/hivenightmare",
+            "title": "firefart/hivenightmare: Exploit for HiveNightmare - CVE-2021–36934",
+            "date_modified": "2024-11-08T20:56:34.000Z",
+            "date_published": "2021-07-23T06:36:08.000Z",
+            "author": {
+                "name": "firefart",
+                "url": "https://github.com/firefart"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/159681973?u=5f58ba628dbe5f9dc8bad03ec134367f6af6e2b7&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>历史漏洞的细节以及利用方法汇总收集</div>",
             "url": "https://github.com/OracleNep/Nday-Exploit-Plan",
             "title": "OracleNep/Nday-Exploit-Plan: 历史漏洞的细节以及利用方法汇总收集",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "lpyydxs",
                 "url": "https://github.com/lpyydxs"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/178446553?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2021-40539：ADSelfService Plus RCE漏洞</div>",
-            "url": "https://github.com/lpyzds/CVE-2021-40539",
-            "title": "lpyzds/CVE-2021-40539: CVE-2021-40539：ADSelfService Plus RCE漏洞",
-            "date_modified": "2024-10-12T09:06:21.000Z",
-            "date_published": "2024-10-12T09:01:42.000Z",
-            "author": {
-                "name": "lpyzds",
-                "url": "https://github.com/lpyzds"
             }
         }
     ]
