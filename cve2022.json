@@ -6,6 +6,17 @@
     "description": "CVE-2022 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/143868630?u=338a900325fe149e39c9305192e97e4f84d1ad93&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Serverside Template Injection (SSTI) RCE - THM challenge \"whiterose\"    </div>",
+            "url": "https://github.com/l0n3m4n/CVE-2022-29078",
+            "title": "l0n3m4n/CVE-2022-29078: Serverside Template Injection (SSTI) RCE - THM challenge \"whiterose\"    ",
+            "date_modified": "2024-11-08T14:00:47.000Z",
+            "date_published": "2024-11-05T06:15:45.000Z",
+            "author": {
+                "name": "l0n3m4n",
+                "url": "https://github.com/l0n3m4n"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/48539263?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Automate updating the Windows Recovery Environment (WinRE) on deployed devices to address the security vulnerabilities in CVE-2022-41099.</div>",
             "url": "https://github.com/rhett-hislop/PatchWinRE",
             "title": "rhett-hislop/PatchWinRE: Automate updating the Windows Recovery Environment (WinRE) on deployed devices to address the security vulnerabilities in CVE-2022-41099.",
@@ -47,17 +58,6 @@
             "author": {
                 "name": "guigui237",
                 "url": "https://github.com/guigui237"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/143868630?u=338a900325fe149e39c9305192e97e4f84d1ad93&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Serverside Template Injection (SSTI) RCE - THM challenge \"whiterose\"    </div>",
-            "url": "https://github.com/l0n3m4n/CVE-2022-29078",
-            "title": "l0n3m4n/CVE-2022-29078: Serverside Template Injection (SSTI) RCE - THM challenge \"whiterose\"    ",
-            "date_modified": "2024-11-06T04:33:03.000Z",
-            "date_published": "2024-11-05T06:15:45.000Z",
-            "author": {
-                "name": "l0n3m4n",
-                "url": "https://github.com/l0n3m4n"
             }
         },
         {
