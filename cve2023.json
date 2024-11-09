@@ -9,11 +9,22 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/18195825?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023</div>",
             "url": "https://github.com/CVEProject/cvelist",
             "title": "CVEProject/cvelist: Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023",
-            "date_modified": "2024-11-09T11:00:45.000Z",
+            "date_modified": "2024-11-09T12:00:51.000Z",
             "date_published": "2020-11-02T19:30:55.000Z",
             "author": {
                 "name": "CVEProject",
                 "url": "https://github.com/CVEProject"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/179393914?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>cve-2023-25813 테스트입니다.</div>",
+            "url": "https://github.com/sea-middle/cve-2023-25813",
+            "title": "sea-middle/cve-2023-25813: cve-2023-25813 테스트입니다.",
+            "date_modified": "2024-11-09T11:38:44.000Z",
+            "date_published": "2024-11-09T11:37:03.000Z",
+            "author": {
+                "name": "sea-middle",
+                "url": "https://github.com/sea-middle"
             }
         },
         {
@@ -209,17 +220,6 @@
             "title": "Farzan-Kh/CVE-2023-42326: CVE-2023-42326 exploit",
             "date_modified": "2024-11-01T08:57:04.000Z",
             "date_published": "2024-10-31T18:51:54.000Z",
-            "author": {
-                "name": "Farzan-Kh",
-                "url": "https://github.com/Farzan-Kh"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/65416059?u=319a514c9f87e960a6e05fd5a101b04942d7ce31&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2023-48123 exploit</div>",
-            "url": "https://github.com/Farzan-Kh/CVE-2023-48123",
-            "title": "Farzan-Kh/CVE-2023-48123: CVE-2023-48123 exploit",
-            "date_modified": "2024-11-01T08:55:26.000Z",
-            "date_published": "2024-10-31T19:35:07.000Z",
             "author": {
                 "name": "Farzan-Kh",
                 "url": "https://github.com/Farzan-Kh"

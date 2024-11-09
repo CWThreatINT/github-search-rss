@@ -6,6 +6,17 @@
     "description": "CVE-2021 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/47277287?u=04756cb8ed743d4e9729366bc3e678d94d4f361f&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>XMLRPC RCE via MovableTypePoC CVE-2021-20837</div>",
+            "url": "https://github.com/lamcodeofpwnosec/CVE-2021-20837",
+            "title": "lamcodeofpwnosec/CVE-2021-20837: XMLRPC RCE via MovableTypePoC CVE-2021-20837",
+            "date_modified": "2024-11-09T11:43:48.000Z",
+            "date_published": "2024-11-09T11:43:22.000Z",
+            "author": {
+                "name": "lamcodeofpwnosec",
+                "url": "https://github.com/lamcodeofpwnosec"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/105281?u=34b91b58b59ab25a46eef20861ee0200496d3b56&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Exploit for HiveNightmare - CVE-2021–36934</div>",
             "url": "https://github.com/firefart/hivenightmare",
             "title": "firefart/hivenightmare: Exploit for HiveNightmare - CVE-2021–36934",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "Bu0uCat",
                 "url": "https://github.com/Bu0uCat"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/184594317?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2021-40539：ADSelfService Plus RCE漏洞</div>",
-            "url": "https://github.com/lpyydxs/CVE-2021-40539",
-            "title": "lpyydxs/CVE-2021-40539: CVE-2021-40539：ADSelfService Plus RCE漏洞",
-            "date_modified": "2024-10-12T09:15:57.000Z",
-            "date_published": "2024-10-12T09:09:00.000Z",
-            "author": {
-                "name": "lpyydxs",
-                "url": "https://github.com/lpyydxs"
             }
         }
     ]
