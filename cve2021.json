@@ -6,6 +6,17 @@
     "description": "CVE-2021 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/179945455?u=c46372a1604afdb67a4463223319562895dca5e1&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>In December 2021, the world of cybersecurity was shaken by the discovery of the Log4Shell vulnerability (CVE-2021-44228), embedded within the widely-used Apache Log4j library. With a CVSS score of 10</div>",
+            "url": "https://github.com/AhmedMansour93/-Unveiling-the-Lessons-from-Log4Shell-A-Wake-Up-Call-for-Cybersecurity-",
+            "title": "AhmedMansour93/-Unveiling-the-Lessons-from-Log4Shell-A-Wake-Up-Call-for-Cybersecurity-: In December 2021, the world of cybersecurity was shaken by the discovery of the Log4Shell vulnerability (CVE-2021-44228), embedded within the widely-used Apache Log4j library. With a CVSS score of 10",
+            "date_modified": "2024-11-10T13:47:01.000Z",
+            "date_published": "2024-11-10T13:45:59.000Z",
+            "author": {
+                "name": "AhmedMansour93",
+                "url": "https://github.com/AhmedMansour93"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/47277287?u=04756cb8ed743d4e9729366bc3e678d94d4f361f&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>XMLRPC RCE via MovableTypePoC CVE-2021-20837</div>",
             "url": "https://github.com/lamcodeofpwnosec/CVE-2021-20837",
             "title": "lamcodeofpwnosec/CVE-2021-20837: XMLRPC RCE via MovableTypePoC CVE-2021-20837",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "corelight",
                 "url": "https://github.com/corelight"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/169526025?u=eac51da8da44333748f8abf5cf3c0dd5468af398&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>ADSelfService Plus RCE漏洞 检测工具 (二开)</div>",
-            "url": "https://github.com/Bu0uCat/ADSelfService-Plus-RCE-CVE-2021-40539",
-            "title": "Bu0uCat/ADSelfService-Plus-RCE-CVE-2021-40539: ADSelfService Plus RCE漏洞 检测工具 (二开)",
-            "date_modified": "2024-10-17T01:41:44.000Z",
-            "date_published": "2024-10-16T11:23:43.000Z",
-            "author": {
-                "name": "Bu0uCat",
-                "url": "https://github.com/Bu0uCat"
             }
         }
     ]
