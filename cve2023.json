@@ -9,11 +9,22 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/18195825?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023</div>",
             "url": "https://github.com/CVEProject/cvelist",
             "title": "CVEProject/cvelist: Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023",
-            "date_modified": "2024-11-11T19:00:45.000Z",
+            "date_modified": "2024-11-11T20:00:45.000Z",
             "date_published": "2020-11-02T19:30:55.000Z",
             "author": {
                 "name": "CVEProject",
                 "url": "https://github.com/CVEProject"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/73880723?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2023-22726</div>",
+            "url": "https://github.com/ProxyPog/POC-CVE-2023-22726",
+            "title": "ProxyPog/POC-CVE-2023-22726: CVE-2023-22726",
+            "date_modified": "2024-11-11T19:30:31.000Z",
+            "date_published": "2024-05-29T10:38:30.000Z",
+            "author": {
+                "name": "ProxyPog",
+                "url": "https://github.com/ProxyPog"
             }
         },
         {
@@ -212,17 +223,6 @@
             "author": {
                 "name": "bde574786",
                 "url": "https://github.com/bde574786"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/55554183?u=f70e61764d2ae667e77bf47681ed70a94fd94922&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Proof of concept for CVE-2023-4911 (Looney Tunables) discovered by Qualys Threat Research Unit </div>",
-            "url": "https://github.com/Diego-AltF4/CVE-2023-4911",
-            "title": "Diego-AltF4/CVE-2023-4911: Proof of concept for CVE-2023-4911 (Looney Tunables) discovered by Qualys Threat Research Unit ",
-            "date_modified": "2024-11-03T18:00:44.000Z",
-            "date_published": "2023-10-28T20:05:30.000Z",
-            "author": {
-                "name": "Diego-AltF4",
-                "url": "https://github.com/Diego-AltF4"
             }
         }
     ]
