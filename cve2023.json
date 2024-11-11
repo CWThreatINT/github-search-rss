@@ -6,6 +6,17 @@
     "description": "CVE-2023 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/145666390?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
+            "url": "https://github.com/uthrasri/CVE-2023-44488-_libvpx_1.8.0",
+            "title": "uthrasri/CVE-2023-44488-_libvpx_1.8.0",
+            "date_modified": "2024-11-11T10:22:59.000Z",
+            "date_published": "2024-11-11T10:07:11.000Z",
+            "author": {
+                "name": "uthrasri",
+                "url": "https://github.com/uthrasri"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/18195825?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023</div>",
             "url": "https://github.com/CVEProject/cvelist",
             "title": "CVEProject/cvelist: Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "Diego-AltF4",
                 "url": "https://github.com/Diego-AltF4"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/187107603?u=5dd30cc1f86b690f0b55e584e8c01eedef1a8225&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2023-4220 Chamilo Exploit</div>",
-            "url": "https://github.com/H4cking4All/CVE-2023-4220",
-            "title": "H4cking4All/CVE-2023-4220: CVE-2023-4220 Chamilo Exploit",
-            "date_modified": "2024-11-02T15:09:11.000Z",
-            "date_published": "2024-11-02T14:49:51.000Z",
-            "author": {
-                "name": "H4cking4All",
-                "url": "https://github.com/H4cking4All"
             }
         }
     ]
