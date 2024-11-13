@@ -6,6 +6,17 @@
     "description": "CVE-2021 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/25513724?u=b593f11955834bcb9435ff3e255d368aa944c603&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>fork of worawit/CVE-2021-3156 exploit_nss.py modified to work with ifconfig instead of the ip command</div>",
+            "url": "https://github.com/Bad3r/CVE-2021-3156-without-ip-command",
+            "title": "Bad3r/CVE-2021-3156-without-ip-command: fork of worawit/CVE-2021-3156 exploit_nss.py modified to work with ifconfig instead of the ip command",
+            "date_modified": "2024-11-13T10:04:23.000Z",
+            "date_published": "2024-11-13T09:47:02.000Z",
+            "author": {
+                "name": "Bad3r",
+                "url": "https://github.com/Bad3r"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/188300861?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
             "url": "https://github.com/HimanshuS67/external_nanopb-c_AOSP10_CVE-2021-21401",
             "title": "HimanshuS67/external_nanopb-c_AOSP10_CVE-2021-21401",
@@ -209,17 +220,6 @@
             "title": "fazilbaig1/CVE-2021-32708: Affected versions of this package are vulnerable to Race Condition. The whitespace normalisation using in 1.x and 2.x removes any unicode whitespace. Under certain specific conditions this could potentially allow a malicious user to execute code remotely.",
             "date_modified": "2024-10-19T12:51:26.000Z",
             "date_published": "2024-10-19T12:49:56.000Z",
-            "author": {
-                "name": "fazilbaig1",
-                "url": "https://github.com/fazilbaig1"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/25384256?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>The package handlebars before 4.7.7 are vulnerable to Prototype Pollution when selecting certain compiling options to compile templates coming from an untrusted source.</div>",
-            "url": "https://github.com/fazilbaig1/CVE-2021-23383",
-            "title": "fazilbaig1/CVE-2021-23383: The package handlebars before 4.7.7 are vulnerable to Prototype Pollution when selecting certain compiling options to compile templates coming from an untrusted source.",
-            "date_modified": "2024-10-20T03:05:37.000Z",
-            "date_published": "2024-10-19T11:37:19.000Z",
             "author": {
                 "name": "fazilbaig1",
                 "url": "https://github.com/fazilbaig1"
