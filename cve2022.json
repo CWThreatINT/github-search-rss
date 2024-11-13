@@ -6,6 +6,17 @@
     "description": "CVE-2022 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/115413009?u=5b682e9adc58f2511a52cf9c4953b75ab58f3dd1&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
+            "url": "https://github.com/kittypurrnaz/cve-2022-21661",
+            "title": "kittypurrnaz/cve-2022-21661",
+            "date_modified": "2024-11-13T08:06:40.000Z",
+            "date_published": "2024-11-13T08:05:30.000Z",
+            "author": {
+                "name": "kittypurrnaz",
+                "url": "https://github.com/kittypurrnaz"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/78846391?u=80b841dbcd494ecee2680cdbd9c658f37ded379c&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2022-21661 docker and poc</div>",
             "url": "https://github.com/w0r1i0g1ht/CVE-2022-21661",
             "title": "w0r1i0g1ht/CVE-2022-21661: CVE-2022-21661 docker and poc",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "davidzzo23",
                 "url": "https://github.com/davidzzo23"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/183838019?u=0eb9fe2c0f3eac65e2536661ada63fbccbf9156e&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A simple bash script for exploiting Android 10/11/12 using cve-2022-20223.</div>",
-            "url": "https://github.com/xbee9/cve-2022-20223",
-            "title": "xbee9/cve-2022-20223: A simple bash script for exploiting Android 10/11/12 using cve-2022-20223.",
-            "date_modified": "2024-10-25T07:29:30.000Z",
-            "date_published": "2024-10-25T07:22:46.000Z",
-            "author": {
-                "name": "xbee9",
-                "url": "https://github.com/xbee9"
             }
         }
     ]

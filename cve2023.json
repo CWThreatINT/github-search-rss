@@ -9,11 +9,22 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/18195825?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023</div>",
             "url": "https://github.com/CVEProject/cvelist",
             "title": "CVEProject/cvelist: Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023",
-            "date_modified": "2024-11-13T07:00:44.000Z",
+            "date_modified": "2024-11-13T08:00:46.000Z",
             "date_published": "2020-11-02T19:30:55.000Z",
             "author": {
                 "name": "CVEProject",
                 "url": "https://github.com/CVEProject"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/87749392?u=0f1376a39e92d47db50488c61960bbb731c56e32&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Repository containing a Proof of Concept (PoC) demonstrating the impact of CVE-2023-4911, a vulnerability in glibc's ld.so dynamic loader, exposing risks related to Looney Tunables. </div>",
+            "url": "https://github.com/NishanthAnand21/CVE-2023-4911-PoC",
+            "title": "NishanthAnand21/CVE-2023-4911-PoC: Repository containing a Proof of Concept (PoC) demonstrating the impact of CVE-2023-4911, a vulnerability in glibc's ld.so dynamic loader, exposing risks related to Looney Tunables. ",
+            "date_modified": "2024-11-13T07:24:42.000Z",
+            "date_published": "2024-01-20T18:47:07.000Z",
+            "author": {
+                "name": "NishanthAnand21",
+                "url": "https://github.com/NishanthAnand21"
             }
         },
         {
@@ -212,17 +223,6 @@
             "author": {
                 "name": "nitzanoligo",
                 "url": "https://github.com/nitzanoligo"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/62140530?u=e7aaa9333514f8d76ba5c1ea9d2da0192db6f89c&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>This is a simple POC to for show the pfsense 2.7 Command injection Vulnerability ( CVE-2023-42326)</div>",
-            "url": "https://github.com/bl4ckarch/CVE-2023-42326",
-            "title": "bl4ckarch/CVE-2023-42326: This is a simple POC to for show the pfsense 2.7 Command injection Vulnerability ( CVE-2023-42326)",
-            "date_modified": "2024-11-05T10:00:20.000Z",
-            "date_published": "2024-10-24T03:15:30.000Z",
-            "author": {
-                "name": "bl4ckarch",
-                "url": "https://github.com/bl4ckarch"
             }
         }
     ]
