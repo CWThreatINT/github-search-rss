@@ -6,6 +6,17 @@
     "description": "CVE-2022 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/15044840?u=20bae544a1b294836fd9acbbada5a3dc1b47caf8&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>PoC of CVE-2022-20474</div>",
+            "url": "https://github.com/cxxsheng/CVE-2022-20474",
+            "title": "cxxsheng/CVE-2022-20474: PoC of CVE-2022-20474",
+            "date_modified": "2024-11-14T08:50:41.000Z",
+            "date_published": "2024-11-14T08:48:59.000Z",
+            "author": {
+                "name": "cxxsheng",
+                "url": "https://github.com/cxxsheng"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/159681973?u=5f58ba628dbe5f9dc8bad03ec134367f6af6e2b7&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>历史漏洞的细节以及利用方法汇总收集</div>",
             "url": "https://github.com/OracleNep/Nday-Exploit-Plan",
             "title": "OracleNep/Nday-Exploit-Plan: 历史漏洞的细节以及利用方法汇总收集",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "dipakpanchal05",
                 "url": "https://github.com/dipakpanchal05"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/156780826?u=de24bff3d8e98cf3d7d6d1a3815508ca8b6a16ec&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Zabbix Frontend Authentication Bypass Vulnerability</div>",
-            "url": "https://github.com/davidzzo23/CVE-2022-23131",
-            "title": "davidzzo23/CVE-2022-23131: Zabbix Frontend Authentication Bypass Vulnerability",
-            "date_modified": "2024-10-30T12:47:46.000Z",
-            "date_published": "2024-10-25T13:44:21.000Z",
-            "author": {
-                "name": "davidzzo23",
-                "url": "https://github.com/davidzzo23"
             }
         }
     ]
