@@ -9,11 +9,22 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/159681973?u=5f58ba628dbe5f9dc8bad03ec134367f6af6e2b7&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>历史漏洞的细节以及利用方法汇总收集</div>",
             "url": "https://github.com/OracleNep/Nday-Exploit-Plan",
             "title": "OracleNep/Nday-Exploit-Plan: 历史漏洞的细节以及利用方法汇总收集",
-            "date_modified": "2024-11-14T06:30:38.000Z",
+            "date_modified": "2024-11-15T02:16:43.000Z",
             "date_published": "2024-02-11T06:55:47.000Z",
             "author": {
                 "name": "OracleNep",
                 "url": "https://github.com/OracleNep"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/188337454?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>这是安徽大学 “漏洞分析实验”（大三秋冬）期中作业归档。完整文档位于<a href=\"https://testgames.me/2024/11/10/cve-2021-44228/\" rel=\"nofollow\">https://testgames.me/2024/11/10/cve-2021-44228/</a></div>",
+            "url": "https://github.com/Super-Binary/cve-2021-44228",
+            "title": "Super-Binary/cve-2021-44228: 这是安徽大学 “漏洞分析实验”（大三秋冬）期中作业归档。完整文档位于https://testgames.me/2024/11/10/cve-2021-44228/",
+            "date_modified": "2024-11-15T01:18:44.000Z",
+            "date_published": "2024-11-15T01:11:25.000Z",
+            "author": {
+                "name": "Super-Binary",
+                "url": "https://github.com/Super-Binary"
             }
         },
         {
@@ -212,17 +223,6 @@
             "author": {
                 "name": "r3s3tt",
                 "url": "https://github.com/r3s3tt"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/43640284?u=71fb2fc005169f5575171f66584a32e182bf2561&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Kerentanan ini merupakan jenis Local File Inclusion (LFI) yang terdapat pada versi BIQS IT Biqs-drive v1.83 dan di bawahnya. Kerentanan ini dapat dieksploitasi dengan mengirimkan payload tertentu sebagai parameter file ke download/index.php</div>",
-            "url": "https://github.com/ibnurusdianto/CVE-2021-39433",
-            "title": "ibnurusdianto/CVE-2021-39433: Kerentanan ini merupakan jenis Local File Inclusion (LFI) yang terdapat pada versi BIQS IT Biqs-drive v1.83 dan di bawahnya. Kerentanan ini dapat dieksploitasi dengan mengirimkan payload tertentu sebagai parameter file ke download/index.php",
-            "date_modified": "2024-10-20T03:19:51.000Z",
-            "date_published": "2024-10-19T19:04:27.000Z",
-            "author": {
-                "name": "ibnurusdianto",
-                "url": "https://github.com/ibnurusdianto"
             }
         }
     ]
