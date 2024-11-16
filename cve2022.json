@@ -6,6 +6,17 @@
     "description": "CVE-2022 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/15044840?u=20bae544a1b294836fd9acbbada5a3dc1b47caf8&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>PoC of CVE-2022-20474</div>",
+            "url": "https://github.com/cxxsheng/CVE-2022-20474",
+            "title": "cxxsheng/CVE-2022-20474: PoC of CVE-2022-20474",
+            "date_modified": "2024-11-16T08:00:53.000Z",
+            "date_published": "2024-11-14T08:48:59.000Z",
+            "author": {
+                "name": "cxxsheng",
+                "url": "https://github.com/cxxsheng"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/9442294?u=f4d05feff84989b7d0be0a8ba8ec0c1f52e84f9b&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2022-39275 Setup and POC</div>",
             "url": "https://github.com/omar2535/CVE-2022-39275",
             "title": "omar2535/CVE-2022-39275: CVE-2022-39275 Setup and POC",
@@ -14,17 +25,6 @@
             "author": {
                 "name": "omar2535",
                 "url": "https://github.com/omar2535"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/15044840?u=20bae544a1b294836fd9acbbada5a3dc1b47caf8&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>PoC of CVE-2022-20474</div>",
-            "url": "https://github.com/cxxsheng/CVE-2022-20474",
-            "title": "cxxsheng/CVE-2022-20474: PoC of CVE-2022-20474",
-            "date_modified": "2024-11-15T11:22:49.000Z",
-            "date_published": "2024-11-14T08:48:59.000Z",
-            "author": {
-                "name": "cxxsheng",
-                "url": "https://github.com/cxxsheng"
             }
         },
         {
