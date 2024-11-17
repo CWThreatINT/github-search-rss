@@ -6,6 +6,17 @@
     "description": "CVE-2022 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/67920312?u=f976f928d669ae0ae4d68f8cee8aacec09ff08bd&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
+            "url": "https://github.com/Agentgilspy/CVE-2022-26134",
+            "title": "Agentgilspy/CVE-2022-26134",
+            "date_modified": "2024-11-17T08:41:15.000Z",
+            "date_published": "2024-10-13T13:38:07.000Z",
+            "author": {
+                "name": "Agentgilspy",
+                "url": "https://github.com/Agentgilspy"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/115413009?u=5b682e9adc58f2511a52cf9c4953b75ab58f3dd1&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
             "url": "https://github.com/kittypurrnaz/cve-2022-21661",
             "title": "kittypurrnaz/cve-2022-21661",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "0xDTC",
                 "url": "https://github.com/0xDTC"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/151560338?u=900780028192d51d8de5349b00d05fefbeaf7931&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2022-0944 Remote Code Execution Exploit</div>",
-            "url": "https://github.com/LipeOzyy/SQLPad-RCE-Exploit-CVE-2022-0944",
-            "title": "LipeOzyy/SQLPad-RCE-Exploit-CVE-2022-0944: CVE-2022-0944 Remote Code Execution Exploit",
-            "date_modified": "2024-11-08T00:22:54.000Z",
-            "date_published": "2024-10-25T20:31:09.000Z",
-            "author": {
-                "name": "LipeOzyy",
-                "url": "https://github.com/LipeOzyy"
             }
         }
     ]
