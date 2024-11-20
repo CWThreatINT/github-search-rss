@@ -9,7 +9,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/18195825?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023</div>",
             "url": "https://github.com/CVEProject/cvelist",
             "title": "CVEProject/cvelist: Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023",
-            "date_modified": "2024-11-20T15:00:47.000Z",
+            "date_modified": "2024-11-20T16:00:49.000Z",
             "date_published": "2020-11-02T19:30:55.000Z",
             "author": {
                 "name": "CVEProject",
@@ -20,11 +20,22 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/188660500?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>In the hushed galleries of the Silent JPG Exploit, a symphony shrouded in enigma unfurls—an opus named silent-jpg-exploit-2018—a title that reverberates through the annals of intrigue.</div>",
             "url": "https://github.com/Mykhis/Jpg-Png-Exploit-Slient-Builder-Exploit-Database-Cve-2023-Malware",
             "title": "Mykhis/Jpg-Png-Exploit-Slient-Builder-Exploit-Database-Cve-2023-Malware: In the hushed galleries of the Silent JPG Exploit, a symphony shrouded in enigma unfurls—an opus named silent-jpg-exploit-2018—a title that reverberates through the annals of intrigue.",
-            "date_modified": "2024-11-20T14:51:38.000Z",
+            "date_modified": "2024-11-20T15:59:51.000Z",
             "date_published": "2024-11-16T08:28:51.000Z",
             "author": {
                 "name": "Mykhis",
                 "url": "https://github.com/Mykhis"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/48259298?u=e12968586e485e88abd565de86cd03553c55fe2c&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2023-28354</div>",
+            "url": "https://github.com/stormfleet/CVE-2023-28354",
+            "title": "stormfleet/CVE-2023-28354: CVE-2023-28354",
+            "date_modified": "2024-11-20T15:19:36.000Z",
+            "date_published": "2024-11-20T15:19:32.000Z",
+            "author": {
+                "name": "stormfleet",
+                "url": "https://github.com/stormfleet"
             }
         },
         {
@@ -53,7 +64,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/6135659?u=31a4cd6602d638255831d7212d3d57f45f4e0f4d&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Python POC for CVE-2023-3722 Avaya Aura Device Services Unrestricted File Upload RCE</div>",
             "url": "https://github.com/pizza-power/CVE-2023-3722",
             "title": "pizza-power/CVE-2023-3722: Python POC for CVE-2023-3722 Avaya Aura Device Services Unrestricted File Upload RCE",
-            "date_modified": "2024-11-19T19:44:39.000Z",
+            "date_modified": "2024-11-20T15:29:46.000Z",
             "date_published": "2024-11-19T19:40:41.000Z",
             "author": {
                 "name": "pizza-power",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "ProxyPog",
                 "url": "https://github.com/ProxyPog"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/145666390?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
-            "url": "https://github.com/uthrasri/CVE-2023-44488-_libvpx_1.8.0",
-            "title": "uthrasri/CVE-2023-44488-_libvpx_1.8.0",
-            "date_modified": "2024-11-11T10:22:59.000Z",
-            "date_published": "2024-11-11T10:07:11.000Z",
-            "author": {
-                "name": "uthrasri",
-                "url": "https://github.com/uthrasri"
             }
         }
     ]
