@@ -6,25 +6,36 @@
     "description": "CVE-2023 FEED on GitHub",
     "items": [
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/188660500?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>In the hushed galleries of the Silent JPG Exploit, a symphony shrouded in enigma unfurls—an opus named silent-jpg-exploit-2018—a title that reverberates through the annals of intrigue.</div>",
-            "url": "https://github.com/Mykhis/Jpg-Png-Exploit-Slient-Builder-Exploit-Database-Cve-2023-Malware",
-            "title": "Mykhis/Jpg-Png-Exploit-Slient-Builder-Exploit-Database-Cve-2023-Malware: In the hushed galleries of the Silent JPG Exploit, a symphony shrouded in enigma unfurls—an opus named silent-jpg-exploit-2018—a title that reverberates through the annals of intrigue.",
-            "date_modified": "2024-11-22T10:54:55.000Z",
-            "date_published": "2024-11-16T08:28:51.000Z",
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/50145679?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Exploit code for CVE-2023-42914 / pwn2own Vancouver 2023</div>",
+            "url": "https://github.com/synacktiv/CVE-2023-32413",
+            "title": "synacktiv/CVE-2023-32413: Exploit code for CVE-2023-42914 / pwn2own Vancouver 2023",
+            "date_modified": "2024-11-22T12:12:49.000Z",
+            "date_published": "2024-11-22T11:28:35.000Z",
             "author": {
-                "name": "Mykhis",
-                "url": "https://github.com/Mykhis"
+                "name": "synacktiv",
+                "url": "https://github.com/synacktiv"
             }
         },
         {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/18195825?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023</div>",
             "url": "https://github.com/CVEProject/cvelist",
             "title": "CVEProject/cvelist: Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023",
-            "date_modified": "2024-11-22T10:00:43.000Z",
+            "date_modified": "2024-11-22T12:00:43.000Z",
             "date_published": "2020-11-02T19:30:55.000Z",
             "author": {
                 "name": "CVEProject",
                 "url": "https://github.com/CVEProject"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/188660500?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>In the hushed galleries of the Silent JPG Exploit, a symphony shrouded in enigma unfurls—an opus named silent-jpg-exploit-2018—a title that reverberates through the annals of intrigue.</div>",
+            "url": "https://github.com/Mykhis/Jpg-Png-Exploit-Slient-Builder-Exploit-Database-Cve-2023-Malware",
+            "title": "Mykhis/Jpg-Png-Exploit-Slient-Builder-Exploit-Database-Cve-2023-Malware: In the hushed galleries of the Silent JPG Exploit, a symphony shrouded in enigma unfurls—an opus named silent-jpg-exploit-2018—a title that reverberates through the annals of intrigue.",
+            "date_modified": "2024-11-22T11:52:33.000Z",
+            "date_published": "2024-11-16T08:28:51.000Z",
+            "author": {
+                "name": "Mykhis",
+                "url": "https://github.com/Mykhis"
             }
         },
         {
@@ -42,7 +53,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/5387930?u=1cd0cfa4ab9c6e30da495e621b850e4f61a203aa&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2023-38646是Metabase中的一个远程代码执行漏洞。该漏洞源于Metabase在处理未经身份验证的API端点/api/setup/validate时，对JDBC连接字符串的处理存在安全缺陷。攻击者可以通过构造特定的JDBC连接字符串，利用该端点在服务器上执行任意命令，而无需进行身份验证。</div>",
             "url": "https://github.com/XiaomingX/cve-2023-38646-poc",
             "title": "XiaomingX/cve-2023-38646-poc: CVE-2023-38646是Metabase中的一个远程代码执行漏洞。该漏洞源于Metabase在处理未经身份验证的API端点/api/setup/validate时，对JDBC连接字符串的处理存在安全缺陷。攻击者可以通过构造特定的JDBC连接字符串，利用该端点在服务器上执行任意命令，而无需进行身份验证。",
-            "date_modified": "2024-11-22T04:18:57.000Z",
+            "date_modified": "2024-11-22T11:49:43.000Z",
             "date_published": "2024-11-22T04:15:25.000Z",
             "author": {
                 "name": "XiaomingX",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "imancybersecurity",
                 "url": "https://github.com/imancybersecurity"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/50366430?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div><a href=\"https://nvd.nist.gov/vuln/detail/CVE-2023-4220\" rel=\"nofollow\">https://nvd.nist.gov/vuln/detail/CVE-2023-4220</a></div>",
-            "url": "https://github.com/numaan911098/CVE-2023-4220",
-            "title": "numaan911098/CVE-2023-4220: https://nvd.nist.gov/vuln/detail/CVE-2023-4220",
-            "date_modified": "2024-11-13T08:34:24.000Z",
-            "date_published": "2024-11-13T08:30:00.000Z",
-            "author": {
-                "name": "numaan911098",
-                "url": "https://github.com/numaan911098"
             }
         }
     ]
