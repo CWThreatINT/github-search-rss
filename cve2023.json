@@ -6,21 +6,21 @@
     "description": "CVE-2023 FEED on GitHub",
     "items": [
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/5387930?u=1cd0cfa4ab9c6e30da495e621b850e4f61a203aa&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2023-20198是思科IOS XE软件Web UI功能中的一个严重漏洞，允许未经身份验证的远程攻击者在受影响的系统上创建具有特权级别15的账户，从而完全控制设备。</div>",
-            "url": "https://github.com/XiaomingX/CVE-2023-20198-poc",
-            "title": "XiaomingX/CVE-2023-20198-poc: CVE-2023-20198是思科IOS XE软件Web UI功能中的一个严重漏洞，允许未经身份验证的远程攻击者在受影响的系统上创建具有特权级别15的账户，从而完全控制设备。",
-            "date_modified": "2024-11-22T04:10:50.000Z",
-            "date_published": "2024-11-22T04:10:28.000Z",
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/18195825?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023</div>",
+            "url": "https://github.com/CVEProject/cvelist",
+            "title": "CVEProject/cvelist: Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023",
+            "date_modified": "2024-11-22T05:00:45.000Z",
+            "date_published": "2020-11-02T19:30:55.000Z",
             "author": {
-                "name": "XiaomingX",
-                "url": "https://github.com/XiaomingX"
+                "name": "CVEProject",
+                "url": "https://github.com/CVEProject"
             }
         },
         {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/188660500?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>In the hushed galleries of the Silent JPG Exploit, a symphony shrouded in enigma unfurls—an opus named silent-jpg-exploit-2018—a title that reverberates through the annals of intrigue.</div>",
             "url": "https://github.com/Mykhis/Jpg-Png-Exploit-Slient-Builder-Exploit-Database-Cve-2023-Malware",
             "title": "Mykhis/Jpg-Png-Exploit-Slient-Builder-Exploit-Database-Cve-2023-Malware: In the hushed galleries of the Silent JPG Exploit, a symphony shrouded in enigma unfurls—an opus named silent-jpg-exploit-2018—a title that reverberates through the annals of intrigue.",
-            "date_modified": "2024-11-22T03:50:43.000Z",
+            "date_modified": "2024-11-22T04:52:30.000Z",
             "date_published": "2024-11-16T08:28:51.000Z",
             "author": {
                 "name": "Mykhis",
@@ -28,14 +28,25 @@
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/18195825?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023</div>",
-            "url": "https://github.com/CVEProject/cvelist",
-            "title": "CVEProject/cvelist: Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023",
-            "date_modified": "2024-11-22T03:00:42.000Z",
-            "date_published": "2020-11-02T19:30:55.000Z",
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/5387930?u=1cd0cfa4ab9c6e30da495e621b850e4f61a203aa&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2023-38646是Metabase中的一个远程代码执行漏洞。该漏洞源于Metabase在处理未经身份验证的API端点/api/setup/validate时，对JDBC连接字符串的处理存在安全缺陷。攻击者可以通过构造特定的JDBC连接字符串，利用该端点在服务器上执行任意命令，而无需进行身份验证。</div>",
+            "url": "https://github.com/XiaomingX/cve-2023-38646-poc",
+            "title": "XiaomingX/cve-2023-38646-poc: CVE-2023-38646是Metabase中的一个远程代码执行漏洞。该漏洞源于Metabase在处理未经身份验证的API端点/api/setup/validate时，对JDBC连接字符串的处理存在安全缺陷。攻击者可以通过构造特定的JDBC连接字符串，利用该端点在服务器上执行任意命令，而无需进行身份验证。",
+            "date_modified": "2024-11-22T04:18:57.000Z",
+            "date_published": "2024-11-22T04:15:25.000Z",
             "author": {
-                "name": "CVEProject",
-                "url": "https://github.com/CVEProject"
+                "name": "XiaomingX",
+                "url": "https://github.com/XiaomingX"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/5387930?u=1cd0cfa4ab9c6e30da495e621b850e4f61a203aa&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2023-20198是思科IOS XE软件Web UI功能中的一个严重漏洞，允许未经身份验证的远程攻击者在受影响的系统上创建具有特权级别15的账户，从而完全控制设备。</div>",
+            "url": "https://github.com/XiaomingX/CVE-2023-20198-poc",
+            "title": "XiaomingX/CVE-2023-20198-poc: CVE-2023-20198是思科IOS XE软件Web UI功能中的一个严重漏洞，允许未经身份验证的远程攻击者在受影响的系统上创建具有特权级别15的账户，从而完全控制设备。",
+            "date_modified": "2024-11-22T04:12:15.000Z",
+            "date_published": "2024-11-22T04:10:28.000Z",
+            "author": {
+                "name": "XiaomingX",
+                "url": "https://github.com/XiaomingX"
             }
         },
         {
@@ -212,17 +223,6 @@
             "author": {
                 "name": "numaan911098",
                 "url": "https://github.com/numaan911098"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/87749392?u=0f1376a39e92d47db50488c61960bbb731c56e32&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Repository containing a Proof of Concept (PoC) demonstrating the impact of CVE-2023-4911, a vulnerability in glibc's ld.so dynamic loader, exposing risks related to Looney Tunables. </div>",
-            "url": "https://github.com/NishanthAnand21/CVE-2023-4911-PoC",
-            "title": "NishanthAnand21/CVE-2023-4911-PoC: Repository containing a Proof of Concept (PoC) demonstrating the impact of CVE-2023-4911, a vulnerability in glibc's ld.so dynamic loader, exposing risks related to Looney Tunables. ",
-            "date_modified": "2024-11-13T07:24:42.000Z",
-            "date_published": "2024-01-20T18:47:07.000Z",
-            "author": {
-                "name": "NishanthAnand21",
-                "url": "https://github.com/NishanthAnand21"
             }
         }
     ]
