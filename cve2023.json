@@ -6,10 +6,21 @@
     "description": "CVE-2023 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/153237520?u=d95e84d305ddabc0030ffa7f314738a5be31654b&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>poc for CVE-2023-50094 (rengine command injection)</div>",
+            "url": "https://github.com/Zierax/CVE-2023-50094_POC",
+            "title": "Zierax/CVE-2023-50094_POC: poc for CVE-2023-50094 (rengine command injection)",
+            "date_modified": "2024-11-23T20:05:00.000Z",
+            "date_published": "2024-11-23T20:00:29.000Z",
+            "author": {
+                "name": "Zierax",
+                "url": "https://github.com/Zierax"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/188660500?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>In the hushed galleries of the Silent JPG Exploit, a symphony shrouded in enigma unfurls—an opus named silent-jpg-exploit-2018—a title that reverberates through the annals of intrigue.</div>",
             "url": "https://github.com/Mykhis/Jpg-Png-Exploit-Slient-Builder-Exploit-Database-Cve-2023-Malware",
             "title": "Mykhis/Jpg-Png-Exploit-Slient-Builder-Exploit-Database-Cve-2023-Malware: In the hushed galleries of the Silent JPG Exploit, a symphony shrouded in enigma unfurls—an opus named silent-jpg-exploit-2018—a title that reverberates through the annals of intrigue.",
-            "date_modified": "2024-11-23T18:51:42.000Z",
+            "date_modified": "2024-11-23T19:49:30.000Z",
             "date_published": "2024-11-16T08:28:51.000Z",
             "author": {
                 "name": "Mykhis",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "Jenderal92",
                 "url": "https://github.com/Jenderal92"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/18348468?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Google Chrome Updater DosDevices Local Privilege Escalation Vulnerability</div>",
-            "url": "https://github.com/zerozenxlabs/CVE-2023-7261",
-            "title": "zerozenxlabs/CVE-2023-7261: Google Chrome Updater DosDevices Local Privilege Escalation Vulnerability",
-            "date_modified": "2024-11-20T11:26:35.000Z",
-            "date_published": "2024-11-14T23:41:32.000Z",
-            "author": {
-                "name": "zerozenxlabs",
-                "url": "https://github.com/zerozenxlabs"
             }
         }
     ]
