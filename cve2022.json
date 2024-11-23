@@ -6,6 +6,28 @@
     "description": "CVE-2022 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/5387930?u=1cd0cfa4ab9c6e30da495e621b850e4f61a203aa&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
+            "url": "https://github.com/XiaomingX/CVE-2022-1388-poc",
+            "title": "XiaomingX/CVE-2022-1388-poc",
+            "date_modified": "2024-11-23T05:41:11.000Z",
+            "date_published": "2024-11-23T05:39:26.000Z",
+            "author": {
+                "name": "XiaomingX",
+                "url": "https://github.com/XiaomingX"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/5387930?u=1cd0cfa4ab9c6e30da495e621b850e4f61a203aa&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
+            "url": "https://github.com/XiaomingX/CVE-2022-26134-poc",
+            "title": "XiaomingX/CVE-2022-26134-poc",
+            "date_modified": "2024-11-23T05:38:13.000Z",
+            "date_published": "2024-11-23T05:35:59.000Z",
+            "author": {
+                "name": "XiaomingX",
+                "url": "https://github.com/XiaomingX"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/35463594?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
             "url": "https://github.com/Performant-Labs/CVE-2022-22970",
             "title": "Performant-Labs/CVE-2022-22970",
@@ -201,28 +223,6 @@
             "author": {
                 "name": "SpiralBL0CK",
                 "url": "https://github.com/SpiralBL0CK"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/46268083?u=e0fe71218584c83b4405273c33a4210cb60cabe9&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE_2022_0847</div>",
-            "url": "https://github.com/ShaharyarJalaluddin/cve20220847",
-            "title": "ShaharyarJalaluddin/cve20220847: CVE_2022_0847",
-            "date_modified": "2024-10-29T02:18:16.000Z",
-            "date_published": "2024-10-25T03:32:11.000Z",
-            "author": {
-                "name": "ShaharyarJalaluddin",
-                "url": "https://github.com/ShaharyarJalaluddin"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/22019133?u=2f65706d247887d4f96150684399d875ccf0b241&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A proof-of-concept for CVE-2022-48565 - python plistlib XML deserialisation attack</div>",
-            "url": "https://github.com/Einstein2150/CVE-2022-48565-POC",
-            "title": "Einstein2150/CVE-2022-48565-POC: A proof-of-concept for CVE-2022-48565 - python plistlib XML deserialisation attack",
-            "date_modified": "2024-11-13T13:42:39.000Z",
-            "date_published": "2024-10-22T05:58:24.000Z",
-            "author": {
-                "name": "Einstein2150",
-                "url": "https://github.com/Einstein2150"
             }
         }
     ]
