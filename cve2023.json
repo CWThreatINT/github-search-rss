@@ -6,10 +6,21 @@
     "description": "CVE-2023 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/55863604?u=37d0e0d37e0f081587eb416876b324a1478cf06c&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Xss injection, WonderCMS 3.2.0 -3.4.2 </div>",
+            "url": "https://github.com/Diegomjx/CVE-2023-41425-WonderCMS-Authenticated-RCE",
+            "title": "Diegomjx/CVE-2023-41425-WonderCMS-Authenticated-RCE: Xss injection, WonderCMS 3.2.0 -3.4.2 ",
+            "date_modified": "2024-11-24T18:08:05.000Z",
+            "date_published": "2024-11-24T17:39:45.000Z",
+            "author": {
+                "name": "Diegomjx",
+                "url": "https://github.com/Diegomjx"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/18195825?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023</div>",
             "url": "https://github.com/CVEProject/cvelist",
             "title": "CVEProject/cvelist: Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023",
-            "date_modified": "2024-11-24T17:00:42.000Z",
+            "date_modified": "2024-11-24T18:00:42.000Z",
             "date_published": "2020-11-02T19:30:55.000Z",
             "author": {
                 "name": "CVEProject",
@@ -20,7 +31,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/188660500?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>In the hushed galleries of the Silent JPG Exploit, a symphony shrouded in enigma unfurls—an opus named silent-jpg-exploit-2018—a title that reverberates through the annals of intrigue.</div>",
             "url": "https://github.com/Mykhis/Jpg-Png-Exploit-Slient-Builder-Exploit-Database-Cve-2023-Malware",
             "title": "Mykhis/Jpg-Png-Exploit-Slient-Builder-Exploit-Database-Cve-2023-Malware: In the hushed galleries of the Silent JPG Exploit, a symphony shrouded in enigma unfurls—an opus named silent-jpg-exploit-2018—a title that reverberates through the annals of intrigue.",
-            "date_modified": "2024-11-24T16:53:23.000Z",
+            "date_modified": "2024-11-24T17:54:13.000Z",
             "date_published": "2024-11-16T08:28:51.000Z",
             "author": {
                 "name": "Mykhis",
@@ -209,17 +220,6 @@
             "title": "Jenderal92/WP-CVE-2023-28121: Wordpress CVE-2023-28121",
             "date_modified": "2024-11-21T14:57:41.000Z",
             "date_published": "2023-11-03T01:19:09.000Z",
-            "author": {
-                "name": "Jenderal92",
-                "url": "https://github.com/Jenderal92"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/59664965?u=af474d734c7e906c2984623e75c6d306dcc87c5c&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Wordpress CVE-2023-5360</div>",
-            "url": "https://github.com/Jenderal92/WP-CVE-2023-5360",
-            "title": "Jenderal92/WP-CVE-2023-5360: Wordpress CVE-2023-5360",
-            "date_modified": "2024-11-17T23:52:22.000Z",
-            "date_published": "2023-11-03T00:58:36.000Z",
             "author": {
                 "name": "Jenderal92",
                 "url": "https://github.com/Jenderal92"
