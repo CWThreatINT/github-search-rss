@@ -6,6 +6,17 @@
     "description": "CVE-2022 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/173536806?u=5de937cccf91dca4b05905b7d7d72146453b6ddf&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2022-45354 Download Monitor &lt;= 4.7.60  - Sensitive Information Exposure via REST API</div>",
+            "url": "https://github.com/NekomataCode/CVE-2022-45354",
+            "title": "NekomataCode/CVE-2022-45354: CVE-2022-45354 Download Monitor <= 4.7.60  - Sensitive Information Exposure via REST API",
+            "date_modified": "2024-11-24T00:04:48.000Z",
+            "date_published": "2024-11-23T09:56:19.000Z",
+            "author": {
+                "name": "NekomataCode",
+                "url": "https://github.com/NekomataCode"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/108672046?u=3380f78f7788aae1a8454f38c780ec0b2123671b&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
             "url": "https://github.com/0-Gram/CVE-2022-41040",
             "title": "0-Gram/CVE-2022-41040",
@@ -14,17 +25,6 @@
             "author": {
                 "name": "0-Gram",
                 "url": "https://github.com/0-Gram"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/173536806?u=d37933033308077984da6a53fc8f81853cb32b51&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2022-45354 Download Monitor &lt;= 4.7.60  - Sensitive Information Exposure via REST API</div>",
-            "url": "https://github.com/NekomataCode/CVE-2022-45354",
-            "title": "NekomataCode/CVE-2022-45354: CVE-2022-45354 Download Monitor <= 4.7.60  - Sensitive Information Exposure via REST API",
-            "date_modified": "2024-11-23T10:03:17.000Z",
-            "date_published": "2024-11-23T09:56:19.000Z",
-            "author": {
-                "name": "NekomataCode",
-                "url": "https://github.com/NekomataCode"
             }
         },
         {
@@ -163,7 +163,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/43793247?u=b64bda9946f510954184269b687950e238bd9619&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>One day based on <a href=\"https://googleprojectzero.blogspot.com/2022/10/rc4-is-still-considered-harmful.html\" rel=\"nofollow\">https://googleprojectzero.blogspot.com/2022/10/rc4-is-still-considered-harmful.html</a></div>",
             "url": "https://github.com/Bdenneu/CVE-2022-33679",
             "title": "Bdenneu/CVE-2022-33679: One day based on https://googleprojectzero.blogspot.com/2022/10/rc4-is-still-considered-harmful.html",
-            "date_modified": "2024-11-15T16:44:19.000Z",
+            "date_modified": "2024-11-23T23:33:47.000Z",
             "date_published": "2022-11-02T18:38:01.000Z",
             "author": {
                 "name": "Bdenneu",
