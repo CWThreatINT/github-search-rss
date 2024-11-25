@@ -6,6 +6,17 @@
     "description": "CVE-2022 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/172992182?u=a62eee8cfffce8778ef6c78dc15c8bb100f1de07&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>re-enacting how CVE-2022-30190 works in virtual machines</div>",
+            "url": "https://github.com/madbaiu/CVE-2022-30190",
+            "title": "madbaiu/CVE-2022-30190: re-enacting how CVE-2022-30190 works in virtual machines",
+            "date_modified": "2024-11-25T11:59:00.000Z",
+            "date_published": "2024-11-25T11:55:26.000Z",
+            "author": {
+                "name": "madbaiu",
+                "url": "https://github.com/madbaiu"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/127310257?u=1f1141f993fe4aa5ad18af5add59bad33200de0e&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Magento 2 patch for CVE-2022-24086. Fix the RCE vulnerability and related bugs by performing deep template variable escaping. If you cannot upgrade Magento or cannot apply the official patches, try this one.</div>",
             "url": "https://github.com/wubinworks/magento2-template-filter-patch",
             "title": "wubinworks/magento2-template-filter-patch: Magento 2 patch for CVE-2022-24086. Fix the RCE vulnerability and related bugs by performing deep template variable escaping. If you cannot upgrade Magento or cannot apply the official patches, try this one.",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "luelueking",
                 "url": "https://github.com/luelueking"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/184559460?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
-            "url": "https://github.com/guigui237/Expoitation-de-la-vuln-rabilit-CVE-2022-22965",
-            "title": "guigui237/Expoitation-de-la-vuln-rabilit-CVE-2022-22965",
-            "date_modified": "2024-11-06T23:04:42.000Z",
-            "date_published": "2024-11-05T16:30:00.000Z",
-            "author": {
-                "name": "guigui237",
-                "url": "https://github.com/guigui237"
             }
         }
     ]
