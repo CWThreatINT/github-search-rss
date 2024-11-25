@@ -6,6 +6,17 @@
     "description": "CVE-2022 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/127310257?u=1f1141f993fe4aa5ad18af5add59bad33200de0e&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Magento 2 patch for CVE-2022-24086. Fix the RCE vulnerability and related bugs by performing deep template variable escaping. If you cannot upgrade Magento or cannot apply the official patches, try this one.</div>",
+            "url": "https://github.com/wubinworks/magento2-template-filter-patch",
+            "title": "wubinworks/magento2-template-filter-patch: Magento 2 patch for CVE-2022-24086. Fix the RCE vulnerability and related bugs by performing deep template variable escaping. If you cannot upgrade Magento or cannot apply the official patches, try this one.",
+            "date_modified": "2024-11-25T10:10:10.000Z",
+            "date_published": "2024-11-25T06:56:05.000Z",
+            "author": {
+                "name": "wubinworks",
+                "url": "https://github.com/wubinworks"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/159681973?u=5f58ba628dbe5f9dc8bad03ec134367f6af6e2b7&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>历史漏洞的细节以及利用方法汇总收集</div>",
             "url": "https://github.com/OracleNep/Nday-Exploit-Plan",
             "title": "OracleNep/Nday-Exploit-Plan: 历史漏洞的细节以及利用方法汇总收集",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "guigui237",
                 "url": "https://github.com/guigui237"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/54827262?u=fff99206033a42e1ff27bc613c7221dd6cae3ad1&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>harbor unauthorized detection</div>",
-            "url": "https://github.com/404tk/CVE-2022-46463",
-            "title": "404tk/CVE-2022-46463: harbor unauthorized detection",
-            "date_modified": "2024-11-18T14:27:57.000Z",
-            "date_published": "2023-03-21T10:40:19.000Z",
-            "author": {
-                "name": "404tk",
-                "url": "https://github.com/404tk"
             }
         }
     ]
