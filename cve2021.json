@@ -6,6 +6,17 @@
     "description": "CVE-2021 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/26045876?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Identify hikvision ip and probe for cve-s (CVE-2017-7921,  CVE-2022-28171, CVE-2021-36260)</div>",
+            "url": "https://github.com/aengussong/hikvision_probe",
+            "title": "aengussong/hikvision_probe: Identify hikvision ip and probe for cve-s (CVE-2017-7921,  CVE-2022-28171, CVE-2021-36260)",
+            "date_modified": "2024-11-26T13:23:21.000Z",
+            "date_published": "2024-11-26T13:02:18.000Z",
+            "author": {
+                "name": "aengussong",
+                "url": "https://github.com/aengussong"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/159681973?u=5f58ba628dbe5f9dc8bad03ec134367f6af6e2b7&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>历史漏洞的细节以及利用方法汇总收集</div>",
             "url": "https://github.com/OracleNep/Nday-Exploit-Plan",
             "title": "OracleNep/Nday-Exploit-Plan: 历史漏洞的细节以及利用方法汇总收集",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "winnpixie",
                 "url": "https://github.com/winnpixie"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/49702576?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
-            "url": "https://github.com/skentagon/CVE-2021-41773",
-            "title": "skentagon/CVE-2021-41773",
-            "date_modified": "2024-10-28T08:59:20.000Z",
-            "date_published": "2022-02-27T22:39:58.000Z",
-            "author": {
-                "name": "skentagon",
-                "url": "https://github.com/skentagon"
             }
         }
     ]

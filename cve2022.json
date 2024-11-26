@@ -6,6 +6,17 @@
     "description": "CVE-2022 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/26045876?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Identify hikvision ip and probe for cve-s (CVE-2017-7921,  CVE-2022-28171, CVE-2021-36260)</div>",
+            "url": "https://github.com/aengussong/hikvision_probe",
+            "title": "aengussong/hikvision_probe: Identify hikvision ip and probe for cve-s (CVE-2017-7921,  CVE-2022-28171, CVE-2021-36260)",
+            "date_modified": "2024-11-26T13:23:21.000Z",
+            "date_published": "2024-11-26T13:02:18.000Z",
+            "author": {
+                "name": "aengussong",
+                "url": "https://github.com/aengussong"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/108201283?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>exploit by python</div>",
             "url": "https://github.com/ph0ebus/CVE-2022-25845-In-Spring",
             "title": "ph0ebus/CVE-2022-25845-In-Spring: exploit by python",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "rhett-hislop",
                 "url": "https://github.com/rhett-hislop"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/93204032?u=c98723be1b516c0521ef1938390a3da7ca65f854&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2022-25845(fastjson1.2.80) exploit in Spring Env!</div>",
-            "url": "https://github.com/luelueking/CVE-2022-25845-In-Spring",
-            "title": "luelueking/CVE-2022-25845-In-Spring: CVE-2022-25845(fastjson1.2.80) exploit in Spring Env!",
-            "date_modified": "2024-11-25T02:35:44.000Z",
-            "date_published": "2024-11-07T13:06:44.000Z",
-            "author": {
-                "name": "luelueking",
-                "url": "https://github.com/luelueking"
             }
         }
     ]
