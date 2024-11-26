@@ -6,6 +6,17 @@
     "description": "CVE-2021 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/636626?u=9e0e7ce2ab6aafe44e3109f8d4725b8fcd21fc1f&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A CodeQL workshop covering CVE-2021-21380</div>",
+            "url": "https://github.com/rvermeulen/codeql-workshop-cve-2021-21380",
+            "title": "rvermeulen/codeql-workshop-cve-2021-21380: A CodeQL workshop covering CVE-2021-21380",
+            "date_modified": "2024-11-26T14:23:34.000Z",
+            "date_published": "2022-12-06T00:53:08.000Z",
+            "author": {
+                "name": "rvermeulen",
+                "url": "https://github.com/rvermeulen"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/26045876?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Identify hikvision ip and probe for cve-s (CVE-2017-7921,  CVE-2022-28171, CVE-2021-36260)</div>",
             "url": "https://github.com/aengussong/hikvision_probe",
             "title": "aengussong/hikvision_probe: Identify hikvision ip and probe for cve-s (CVE-2017-7921,  CVE-2022-28171, CVE-2021-36260)",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "Weisant",
                 "url": "https://github.com/Weisant"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/31022473?u=76906a133ea6eb92b357b7a15df62b216da21f6e&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A Java Agent that disables Apache Log4J's JNDI Lookup to mitigate CVE-2021-44228 (\"Log4Shell\").</div>",
-            "url": "https://github.com/winnpixie/log4noshell",
-            "title": "winnpixie/log4noshell: A Java Agent that disables Apache Log4J's JNDI Lookup to mitigate CVE-2021-44228 (\"Log4Shell\").",
-            "date_modified": "2024-10-30T09:59:36.000Z",
-            "date_published": "2021-12-10T21:59:31.000Z",
-            "author": {
-                "name": "winnpixie",
-                "url": "https://github.com/winnpixie"
             }
         }
     ]
