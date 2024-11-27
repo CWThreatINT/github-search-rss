@@ -6,10 +6,21 @@
     "description": "CVE-2023 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/18195825?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023</div>",
+            "url": "https://github.com/CVEProject/cvelist",
+            "title": "CVEProject/cvelist: Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023",
+            "date_modified": "2024-11-27T04:00:40.000Z",
+            "date_published": "2020-11-02T19:30:55.000Z",
+            "author": {
+                "name": "CVEProject",
+                "url": "https://github.com/CVEProject"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/188660500?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>In the hushed galleries of the Silent JPG Exploit, a symphony shrouded in enigma unfurls—an opus named silent-jpg-exploit-2018—a title that reverberates through the annals of intrigue.</div>",
             "url": "https://github.com/Mykhis/Jpg-Png-Exploit-Slient-Builder-Exploit-Database-Cve-2023-Malware",
             "title": "Mykhis/Jpg-Png-Exploit-Slient-Builder-Exploit-Database-Cve-2023-Malware: In the hushed galleries of the Silent JPG Exploit, a symphony shrouded in enigma unfurls—an opus named silent-jpg-exploit-2018—a title that reverberates through the annals of intrigue.",
-            "date_modified": "2024-11-27T03:08:59.000Z",
+            "date_modified": "2024-11-27T03:53:27.000Z",
             "date_published": "2024-11-16T08:28:51.000Z",
             "author": {
                 "name": "Mykhis",
@@ -17,14 +28,14 @@
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/18195825?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023</div>",
-            "url": "https://github.com/CVEProject/cvelist",
-            "title": "CVEProject/cvelist: Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023",
-            "date_modified": "2024-11-27T02:00:41.000Z",
-            "date_published": "2020-11-02T19:30:55.000Z",
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/108242154?u=2b8f18bfb2d960af9ffc1749ef8bf93c2e981d36&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A Proof of Concept for CVE-2023-50564 vulnerability in Pluck CMS version 4.7.18</div>",
+            "url": "https://github.com/Rai2en/CVE-2023-50564_Pluck-v4.7.18_PoC",
+            "title": "Rai2en/CVE-2023-50564_Pluck-v4.7.18_PoC: A Proof of Concept for CVE-2023-50564 vulnerability in Pluck CMS version 4.7.18",
+            "date_modified": "2024-11-27T03:32:05.000Z",
+            "date_published": "2024-07-21T20:15:10.000Z",
             "author": {
-                "name": "CVEProject",
-                "url": "https://github.com/CVEProject"
+                "name": "Rai2en",
+                "url": "https://github.com/Rai2en"
             }
         },
         {
@@ -141,7 +152,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/50145679?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Exploit code for CVE-2023-42914 / pwn2own Vancouver 2023</div>",
             "url": "https://github.com/synacktiv/CVE-2023-32413",
             "title": "synacktiv/CVE-2023-32413: Exploit code for CVE-2023-42914 / pwn2own Vancouver 2023",
-            "date_modified": "2024-11-26T21:08:44.000Z",
+            "date_modified": "2024-11-27T04:09:03.000Z",
             "date_published": "2024-11-22T11:28:35.000Z",
             "author": {
                 "name": "synacktiv",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "pizza-power",
                 "url": "https://github.com/pizza-power"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/181740430?u=b26fbf769450677a25fff39b935f2f6557215a8b&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2023-38831 is a Zero-day WinRAR vulnerability that lets attackers disguise malicious files in archives, tricking users into executing harmful content.</div>",
-            "url": "https://github.com/RonF98/CVE-2023-38831-POC",
-            "title": "RonF98/CVE-2023-38831-POC: CVE-2023-38831 is a Zero-day WinRAR vulnerability that lets attackers disguise malicious files in archives, tricking users into executing harmful content.",
-            "date_modified": "2024-11-25T09:54:03.000Z",
-            "date_published": "2024-11-11T14:25:41.000Z",
-            "author": {
-                "name": "RonF98",
-                "url": "https://github.com/RonF98"
             }
         }
     ]
