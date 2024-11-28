@@ -6,6 +6,17 @@
     "description": "CVE-2022 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/18383407?u=c9d1276bd9ccb8b06b724c3057b1ef683fa81de7&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2022-41678: Dangerous MBeans Accessible via Jolokia API in Apache ActiveMQ</div>",
+            "url": "https://github.com/mbadanoiu/CVE-2022-41678",
+            "title": "mbadanoiu/CVE-2022-41678: CVE-2022-41678: Dangerous MBeans Accessible via Jolokia API in Apache ActiveMQ",
+            "date_modified": "2024-11-28T22:20:40.000Z",
+            "date_published": "2024-11-28T20:48:21.000Z",
+            "author": {
+                "name": "mbadanoiu",
+                "url": "https://github.com/mbadanoiu"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/26045876?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Identify hikvision ip and probe for cve-s (CVE-2017-7921,  CVE-2022-28171, CVE-2021-36260)</div>",
             "url": "https://github.com/aengussong/hikvision_probe",
             "title": "aengussong/hikvision_probe: Identify hikvision ip and probe for cve-s (CVE-2017-7921,  CVE-2022-28171, CVE-2021-36260)",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "l0n3m4n",
                 "url": "https://github.com/l0n3m4n"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/48539263?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Automate updating the Windows Recovery Environment (WinRE) on deployed devices to address the security vulnerabilities in CVE-2022-41099.</div>",
-            "url": "https://github.com/rhett-hislop/PatchWinRE",
-            "title": "rhett-hislop/PatchWinRE: Automate updating the Windows Recovery Environment (WinRE) on deployed devices to address the security vulnerabilities in CVE-2022-41099.",
-            "date_modified": "2024-11-08T10:53:43.000Z",
-            "date_published": "2024-11-08T10:50:26.000Z",
-            "author": {
-                "name": "rhett-hislop",
-                "url": "https://github.com/rhett-hislop"
             }
         }
     ]
