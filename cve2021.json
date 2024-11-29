@@ -6,6 +6,17 @@
     "description": "CVE-2021 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/1845601?u=d7844519a60e32a010e823110a2b65cbe36b78f3&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A honeypot for the Log4Shell vulnerability (CVE-2021-44228).</div>",
+            "url": "https://github.com/thomaspatzke/Log4Pot",
+            "title": "thomaspatzke/Log4Pot: A honeypot for the Log4Shell vulnerability (CVE-2021-44228).",
+            "date_modified": "2024-11-29T22:57:02.000Z",
+            "date_published": "2021-12-15T22:30:34.000Z",
+            "author": {
+                "name": "thomaspatzke",
+                "url": "https://github.com/thomaspatzke"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/61959752?u=2f015233ff1e12df876860b85fd46850c0f63c93&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2021-26690 - Null Pointer Dereference leads to Denial of Service attack on Apache HTTP Server versions 2.4.0 to 2.4.46</div>",
             "url": "https://github.com/0xdeviner/CVE-2021-26690",
             "title": "0xdeviner/CVE-2021-26690: CVE-2021-26690 - Null Pointer Dereference leads to Denial of Service attack on Apache HTTP Server versions 2.4.0 to 2.4.46",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "7own",
                 "url": "https://github.com/7own"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/47251535?u=9c9ca78cdd818d948ebae90c256665702f40de66&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Exploit for command injection vulnerability found in uhttpd binary from TP-Link Tapo c200 IP camera</div>",
-            "url": "https://github.com/hacefresko/CVE-2021-4045",
-            "title": "hacefresko/CVE-2021-4045: Exploit for command injection vulnerability found in uhttpd binary from TP-Link Tapo c200 IP camera",
-            "date_modified": "2024-11-24T15:43:36.000Z",
-            "date_published": "2021-11-15T14:48:14.000Z",
-            "author": {
-                "name": "hacefresko",
-                "url": "https://github.com/hacefresko"
             }
         }
     ]
