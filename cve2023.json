@@ -9,7 +9,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/18195825?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023</div>",
             "url": "https://github.com/CVEProject/cvelist",
             "title": "CVEProject/cvelist: Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023",
-            "date_modified": "2024-11-29T05:00:44.000Z",
+            "date_modified": "2024-11-29T06:00:43.000Z",
             "date_published": "2020-11-02T19:30:55.000Z",
             "author": {
                 "name": "CVEProject",
@@ -20,11 +20,33 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/188660500?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>In the hushed galleries of the Silent JPG Exploit, a symphony shrouded in enigma unfurls—an opus named silent-jpg-exploit-2018—a title that reverberates through the annals of intrigue.</div>",
             "url": "https://github.com/Mykhis/Jpg-Png-Exploit-Slient-Builder-Exploit-Database-Cve-2023-Malware",
             "title": "Mykhis/Jpg-Png-Exploit-Slient-Builder-Exploit-Database-Cve-2023-Malware: In the hushed galleries of the Silent JPG Exploit, a symphony shrouded in enigma unfurls—an opus named silent-jpg-exploit-2018—a title that reverberates through the annals of intrigue.",
-            "date_modified": "2024-11-29T04:54:27.000Z",
+            "date_modified": "2024-11-29T05:50:23.000Z",
             "date_published": "2024-11-16T08:28:51.000Z",
             "author": {
                 "name": "Mykhis",
                 "url": "https://github.com/Mykhis"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/65416059?u=319a514c9f87e960a6e05fd5a101b04942d7ce31&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2023-48123 exploit</div>",
+            "url": "https://github.com/Farzan-Kh/CVE-2023-48123",
+            "title": "Farzan-Kh/CVE-2023-48123: CVE-2023-48123 exploit",
+            "date_modified": "2024-11-29T05:38:55.000Z",
+            "date_published": "2024-10-31T19:35:07.000Z",
+            "author": {
+                "name": "Farzan-Kh",
+                "url": "https://github.com/Farzan-Kh"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/65416059?u=319a514c9f87e960a6e05fd5a101b04942d7ce31&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2023-42326 exploit</div>",
+            "url": "https://github.com/Farzan-Kh/CVE-2023-42326",
+            "title": "Farzan-Kh/CVE-2023-42326: CVE-2023-42326 exploit",
+            "date_modified": "2024-11-29T05:38:12.000Z",
+            "date_published": "2024-10-31T18:51:54.000Z",
+            "author": {
+                "name": "Farzan-Kh",
+                "url": "https://github.com/Farzan-Kh"
             }
         },
         {
@@ -201,28 +223,6 @@
             "author": {
                 "name": "XiaomingX",
                 "url": "https://github.com/XiaomingX"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/5387930?u=1cd0cfa4ab9c6e30da495e621b850e4f61a203aa&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2023-20198是思科IOS XE软件Web UI功能中的一个严重漏洞，允许未经身份验证的远程攻击者在受影响的系统上创建具有特权级别15的账户，从而完全控制设备。</div>",
-            "url": "https://github.com/XiaomingX/cve-2023-20198-poc",
-            "title": "XiaomingX/cve-2023-20198-poc: CVE-2023-20198是思科IOS XE软件Web UI功能中的一个严重漏洞，允许未经身份验证的远程攻击者在受影响的系统上创建具有特权级别15的账户，从而完全控制设备。",
-            "date_modified": "2024-11-26T15:13:33.000Z",
-            "date_published": "2024-11-22T04:10:28.000Z",
-            "author": {
-                "name": "XiaomingX",
-                "url": "https://github.com/XiaomingX"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/61451071?u=f27ec01199f7421ea4860eed18d87ae54bf1671a&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2023-40459 Unauthenticated DoS PoC Exploit </div>",
-            "url": "https://github.com/7h3w4lk3r/CVE-2023-40459",
-            "title": "7h3w4lk3r/CVE-2023-40459: CVE-2023-40459 Unauthenticated DoS PoC Exploit ",
-            "date_modified": "2024-11-21T08:24:47.000Z",
-            "date_published": "2024-09-21T16:53:59.000Z",
-            "author": {
-                "name": "7h3w4lk3r",
-                "url": "https://github.com/7h3w4lk3r"
             }
         }
     ]
