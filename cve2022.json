@@ -6,17 +6,6 @@
     "description": "CVE-2022 FEED on GitHub",
     "items": [
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/95502860?u=e7b0261cd5cd49c463c16c2dccecb603a5684f29&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Zimbra Lab de CVE-2022-37042 y CVE-2022-37393 </div>",
-            "url": "https://github.com/romero-javi/zimbra8_lab",
-            "title": "romero-javi/zimbra8_lab: Zimbra Lab de CVE-2022-37042 y CVE-2022-37393 ",
-            "date_modified": "2024-12-01T19:03:59.000Z",
-            "date_published": "2024-11-30T22:06:12.000Z",
-            "author": {
-                "name": "romero-javi",
-                "url": "https://github.com/romero-javi"
-            }
-        },
-        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/15044840?u=20bae544a1b294836fd9acbbada5a3dc1b47caf8&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>PoC of CVE-2022-20474</div>",
             "url": "https://github.com/cxxsheng/CVE-2022-20474",
             "title": "cxxsheng/CVE-2022-20474: PoC of CVE-2022-20474",
@@ -223,6 +212,17 @@
             "author": {
                 "name": "w0r1i0g1ht",
                 "url": "https://github.com/w0r1i0g1ht"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/43793247?u=b64bda9946f510954184269b687950e238bd9619&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>One day based on <a href=\"https://googleprojectzero.blogspot.com/2022/10/rc4-is-still-considered-harmful.html\" rel=\"nofollow\">https://googleprojectzero.blogspot.com/2022/10/rc4-is-still-considered-harmful.html</a></div>",
+            "url": "https://github.com/Bdenneu/CVE-2022-33679",
+            "title": "Bdenneu/CVE-2022-33679: One day based on https://googleprojectzero.blogspot.com/2022/10/rc4-is-still-considered-harmful.html",
+            "date_modified": "2024-11-30T19:15:36.000Z",
+            "date_published": "2022-11-02T18:38:01.000Z",
+            "author": {
+                "name": "Bdenneu",
+                "url": "https://github.com/Bdenneu"
             }
         }
     ]
