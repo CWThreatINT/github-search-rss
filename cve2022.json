@@ -6,6 +6,17 @@
     "description": "CVE-2022 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/106105250?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2022-38181 POC for FireTV 2nd gen Cube (raven)</div>",
+            "url": "https://github.com/Pro-me3us/CVE_2022_38181_Raven",
+            "title": "Pro-me3us/CVE_2022_38181_Raven: CVE-2022-38181 POC for FireTV 2nd gen Cube (raven)",
+            "date_modified": "2024-12-03T17:45:19.000Z",
+            "date_published": "2023-04-13T13:19:04.000Z",
+            "author": {
+                "name": "Pro-me3us",
+                "url": "https://github.com/Pro-me3us"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/159681973?u=fa1c34b8904383f6c4fc24930c4ffc08000d42d0&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>历史漏洞的细节以及利用方法汇总收集</div>",
             "url": "https://github.com/OracleNep/Nday-Exploit-Plan",
             "title": "OracleNep/Nday-Exploit-Plan: 历史漏洞的细节以及利用方法汇总收集",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "w0r1i0g1ht",
                 "url": "https://github.com/w0r1i0g1ht"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/43793247?u=b64bda9946f510954184269b687950e238bd9619&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>One day based on <a href=\"https://googleprojectzero.blogspot.com/2022/10/rc4-is-still-considered-harmful.html\" class=\"Link--inTextBlock\" rel=\"nofollow\">https://googleprojectzero.blogspot.com/2022/10/rc4-is-still-considered-harmful.html</a></div>",
-            "url": "https://github.com/Bdenneu/CVE-2022-33679",
-            "title": "Bdenneu/CVE-2022-33679: One day based on https://googleprojectzero.blogspot.com/2022/10/rc4-is-still-considered-harmful.html",
-            "date_modified": "2024-11-30T19:15:36.000Z",
-            "date_published": "2022-11-02T18:38:01.000Z",
-            "author": {
-                "name": "Bdenneu",
-                "url": "https://github.com/Bdenneu"
             }
         }
     ]
