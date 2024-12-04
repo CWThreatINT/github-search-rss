@@ -6,6 +6,17 @@
     "description": "CVE-2021 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/51240439?u=63030ad86383a3541fba9f35b70139342b28acf8&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Modified version of laravel ignition RCE (CVE-2021-3129) exploit script for Hour of Hack Session-4</div>",
+            "url": "https://github.com/Prabesh01/hoh4",
+            "title": "Prabesh01/hoh4: Modified version of laravel ignition RCE (CVE-2021-3129) exploit script for Hour of Hack Session-4",
+            "date_modified": "2024-12-04T18:08:39.000Z",
+            "date_published": "2024-12-04T17:04:03.000Z",
+            "author": {
+                "name": "Prabesh01",
+                "url": "https://github.com/Prabesh01"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/4291086?u=3c2a8af8255977307a6e8a5a0f73cf2216930d00&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>TinyXML 2.6.2 with fixes for CVE-2021-42260 and CVE-2023-34194</div>",
             "url": "https://github.com/vm2mv/tinyxml",
             "title": "vm2mv/tinyxml: TinyXML 2.6.2 with fixes for CVE-2021-42260 and CVE-2023-34194",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "lamcodeofpwnosec",
                 "url": "https://github.com/lamcodeofpwnosec"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/105281?u=34b91b58b59ab25a46eef20861ee0200496d3b56&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Exploit for HiveNightmare - CVE-2021–36934</div>",
-            "url": "https://github.com/firefart/hivenightmare",
-            "title": "firefart/hivenightmare: Exploit for HiveNightmare - CVE-2021–36934",
-            "date_modified": "2024-11-16T19:51:07.000Z",
-            "date_published": "2021-07-23T06:36:08.000Z",
-            "author": {
-                "name": "firefart",
-                "url": "https://github.com/firefart"
             }
         }
     ]
