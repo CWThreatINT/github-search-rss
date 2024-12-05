@@ -6,10 +6,21 @@
     "description": "CVE-2022 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/14824771?u=5e2457af70367c2f373b70253ff8991f4f6147f2&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>PoC for Watchguard CVE-2022-26318 updated to Python3.12</div>",
+            "url": "https://github.com/egilas/Watchguard-RCE-POC-CVE-2022-26318",
+            "title": "egilas/Watchguard-RCE-POC-CVE-2022-26318: PoC for Watchguard CVE-2022-26318 updated to Python3.12",
+            "date_modified": "2024-12-05T10:00:34.000Z",
+            "date_published": "2024-12-05T09:56:57.000Z",
+            "author": {
+                "name": "egilas",
+                "url": "https://github.com/egilas"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/141164867?u=2a9080ad87d4143119c83f754cc9059a9ff5de47&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>POC firewall with rules designed to detect and block Spring4Shell vulnerability (CVE-2022-22965) exploit</div>",
             "url": "https://github.com/BlackBird63030/Block-Spring4Shell",
             "title": "BlackBird63030/Block-Spring4Shell: POC firewall with rules designed to detect and block Spring4Shell vulnerability (CVE-2022-22965) exploit",
-            "date_modified": "2024-12-05T08:10:08.000Z",
+            "date_modified": "2024-12-05T09:18:06.000Z",
             "date_published": "2024-11-02T00:26:02.000Z",
             "author": {
                 "name": "BlackBird63030",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "Agentgilspy",
                 "url": "https://github.com/Agentgilspy"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/115413009?u=5b682e9adc58f2511a52cf9c4953b75ab58f3dd1&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
-            "url": "https://github.com/kittypurrnaz/cve-2022-21661",
-            "title": "kittypurrnaz/cve-2022-21661",
-            "date_modified": "2024-11-16T23:18:36.000Z",
-            "date_published": "2024-11-13T08:05:30.000Z",
-            "author": {
-                "name": "kittypurrnaz",
-                "url": "https://github.com/kittypurrnaz"
             }
         }
     ]
