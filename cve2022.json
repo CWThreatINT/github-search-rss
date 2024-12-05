@@ -6,6 +6,17 @@
     "description": "CVE-2022 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/141164867?u=2a9080ad87d4143119c83f754cc9059a9ff5de47&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>POC firewall with rules designed to detect and block Spring4Shell vulnerability (CVE-2022-22965) exploit</div>",
+            "url": "https://github.com/BlackBird63030/Block-Spring4Shell",
+            "title": "BlackBird63030/Block-Spring4Shell: POC firewall with rules designed to detect and block Spring4Shell vulnerability (CVE-2022-22965) exploit",
+            "date_modified": "2024-12-05T08:10:08.000Z",
+            "date_published": "2024-11-02T00:26:02.000Z",
+            "author": {
+                "name": "BlackBird63030",
+                "url": "https://github.com/BlackBird63030"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/47277287?u=04756cb8ed743d4e9729366bc3e678d94d4f361f&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Fusion Builder &lt; 3.6.2 - Unauthenticated SSRF</div>",
             "url": "https://github.com/lamcodeofpwnosec/CVE-2022-1386",
             "title": "lamcodeofpwnosec/CVE-2022-1386: Fusion Builder < 3.6.2 - Unauthenticated SSRF",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "kittypurrnaz",
                 "url": "https://github.com/kittypurrnaz"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/9442294?u=f4d05feff84989b7d0be0a8ba8ec0c1f52e84f9b&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2022-39275 Setup and POC</div>",
-            "url": "https://github.com/omar2535/CVE-2022-39275",
-            "title": "omar2535/CVE-2022-39275: CVE-2022-39275 Setup and POC",
-            "date_modified": "2024-11-15T22:24:28.000Z",
-            "date_published": "2024-11-15T22:21:16.000Z",
-            "author": {
-                "name": "omar2535",
-                "url": "https://github.com/omar2535"
             }
         }
     ]
