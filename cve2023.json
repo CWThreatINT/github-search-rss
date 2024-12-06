@@ -9,7 +9,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/18195825?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023</div>",
             "url": "https://github.com/CVEProject/cvelist",
             "title": "CVEProject/cvelist: Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023",
-            "date_modified": "2024-12-06T18:00:44.000Z",
+            "date_modified": "2024-12-06T19:00:45.000Z",
             "date_published": "2020-11-02T19:30:55.000Z",
             "author": {
                 "name": "CVEProject",
@@ -20,7 +20,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/188660500?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>In the hushed galleries of the Silent JPG Exploit, a symphony shrouded in enigma unfurls—an opus named silent-jpg-exploit-2018—a title that reverberates through the annals of intrigue.</div>",
             "url": "https://github.com/Mykhis/Jpg-Png-Exploit-Slient-Builder-Exploit-Database-Cve-2023-Malware",
             "title": "Mykhis/Jpg-Png-Exploit-Slient-Builder-Exploit-Database-Cve-2023-Malware: In the hushed galleries of the Silent JPG Exploit, a symphony shrouded in enigma unfurls—an opus named silent-jpg-exploit-2018—a title that reverberates through the annals of intrigue.",
-            "date_modified": "2024-12-06T17:57:55.000Z",
+            "date_modified": "2024-12-06T18:48:23.000Z",
             "date_published": "2024-11-16T08:28:51.000Z",
             "author": {
                 "name": "Mykhis",
@@ -138,17 +138,6 @@
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/106510266?u=48cfa956238f8490ff31887acd6b962a00adb521&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2023-0297 is a critical pre-authentication remote code execution (RCE) vulnerability in pyLoad versions before 0.5.0b3.dev31.</div>",
-            "url": "https://github.com/oxapavan/CVE-2023-0297",
-            "title": "oxapavan/CVE-2023-0297: CVE-2023-0297 is a critical pre-authentication remote code execution (RCE) vulnerability in pyLoad versions before 0.5.0b3.dev31.",
-            "date_modified": "2024-11-30T20:58:41.000Z",
-            "date_published": "2024-11-30T20:53:40.000Z",
-            "author": {
-                "name": "oxapavan",
-                "url": "https://github.com/oxapavan"
-            }
-        },
-        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/18898977?u=9406f686f6ac65cde2f37a375fc7e0370ec58a3c&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2023-41425 (XSS to RCE, Wonder CMS 3.2.0 &lt;= 3.4.2)</div>",
             "url": "https://github.com/0x0d3ad/CVE-2023-41425",
             "title": "0x0d3ad/CVE-2023-41425: CVE-2023-41425 (XSS to RCE, Wonder CMS 3.2.0 <= 3.4.2)",
@@ -223,6 +212,17 @@
             "author": {
                 "name": "Rai2en",
                 "url": "https://github.com/Rai2en"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/99511456?u=9b57dc21ecbac6087bae7923fc849a38ce56ef33&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Proof-of-Concept script for exploiting CVE-2023-38646. Intended for educational and research purposes only.</div>",
+            "url": "https://github.com/JayRyz/CVE-2023-38646-PoC-Metabase",
+            "title": "JayRyz/CVE-2023-38646-PoC-Metabase: Proof-of-Concept script for exploiting CVE-2023-38646. Intended for educational and research purposes only.",
+            "date_modified": "2024-11-27T16:27:28.000Z",
+            "date_published": "2024-11-26T19:05:35.000Z",
+            "author": {
+                "name": "JayRyz",
+                "url": "https://github.com/JayRyz"
             }
         }
     ]
