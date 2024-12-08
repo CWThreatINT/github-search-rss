@@ -6,6 +6,17 @@
     "description": "CVE-2021 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/112891506?u=bd91a748b37e850d47a421a2431ef988622ffcc2&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>The issue only affects nginx if the \"resolver\" directive is used in the configuration file. Further, the attack is only possible if an attacker is able to forge UDP packets from the DNS server.</div>",
+            "url": "https://github.com/z3usx01/CVE-2021-23017-POC",
+            "title": "z3usx01/CVE-2021-23017-POC: The issue only affects nginx if the \"resolver\" directive is used in the configuration file. Further, the attack is only possible if an attacker is able to forge UDP packets from the DNS server.",
+            "date_modified": "2024-12-08T09:52:26.000Z",
+            "date_published": "2024-12-08T09:47:52.000Z",
+            "author": {
+                "name": "z3usx01",
+                "url": "https://github.com/z3usx01"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/37812681?u=a02fbe629772fb5a69aab9e2fa77dbaff5a3a60a&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Results of my research I have done on CVE-2021-30481 and on wallhacks in the videogame Counter-Strike 2</div>",
             "url": "https://github.com/JHVIW/jhviw.github.io",
             "title": "JHVIW/jhviw.github.io: Results of my research I have done on CVE-2021-30481 and on wallhacks in the videogame Counter-Strike 2",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "AhmedMansour93",
                 "url": "https://github.com/AhmedMansour93"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/47277287?u=5ee5aa290185e92e60ab26ac24434cc44b703351&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>XMLRPC RCE via MovableTypePoC CVE-2021-20837</div>",
-            "url": "https://github.com/lamcodeofpwnosec/CVE-2021-20837",
-            "title": "lamcodeofpwnosec/CVE-2021-20837: XMLRPC RCE via MovableTypePoC CVE-2021-20837",
-            "date_modified": "2024-11-09T17:54:22.000Z",
-            "date_published": "2024-11-09T11:43:22.000Z",
-            "author": {
-                "name": "lamcodeofpwnosec",
-                "url": "https://github.com/lamcodeofpwnosec"
             }
         }
     ]
