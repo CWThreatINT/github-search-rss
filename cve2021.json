@@ -6,6 +6,17 @@
     "description": "CVE-2021 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/97847260?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>경희대 졸업프로젝트</div>",
+            "url": "https://github.com/mynameSumin/CVE-2021-21389",
+            "title": "mynameSumin/CVE-2021-21389: 경희대 졸업프로젝트",
+            "date_modified": "2024-12-09T20:58:12.000Z",
+            "date_published": "2024-12-09T20:44:30.000Z",
+            "author": {
+                "name": "mynameSumin",
+                "url": "https://github.com/mynameSumin"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/112891506?u=bd91a748b37e850d47a421a2431ef988622ffcc2&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>The issue only affects nginx if the \"resolver\" directive is used in the configuration file. Further, the attack is only possible if an attacker is able to forge UDP packets from the DNS server.</div>",
             "url": "https://github.com/z3usx01/CVE-2021-23017-POC",
             "title": "z3usx01/CVE-2021-23017-POC: The issue only affects nginx if the \"resolver\" directive is used in the configuration file. Further, the attack is only possible if an attacker is able to forge UDP packets from the DNS server.",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "bluetoothStrawberry",
                 "url": "https://github.com/bluetoothStrawberry"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/179945455?u=c46372a1604afdb67a4463223319562895dca5e1&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>In December 2021, the world of cybersecurity was shaken by the discovery of the Log4Shell vulnerability (CVE-2021-44228), embedded within the widely-used Apache Log4j library. With a CVSS score of 10</div>",
-            "url": "https://github.com/AhmedMansour93/-Unveiling-the-Lessons-from-Log4Shell-A-Wake-Up-Call-for-Cybersecurity-",
-            "title": "AhmedMansour93/-Unveiling-the-Lessons-from-Log4Shell-A-Wake-Up-Call-for-Cybersecurity-: In December 2021, the world of cybersecurity was shaken by the discovery of the Log4Shell vulnerability (CVE-2021-44228), embedded within the widely-used Apache Log4j library. With a CVSS score of 10",
-            "date_modified": "2024-11-10T13:47:01.000Z",
-            "date_published": "2024-11-10T13:45:59.000Z",
-            "author": {
-                "name": "AhmedMansour93",
-                "url": "https://github.com/AhmedMansour93"
             }
         }
     ]
