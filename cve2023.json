@@ -9,7 +9,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/18195825?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023</div>",
             "url": "https://github.com/CVEProject/cvelist",
             "title": "CVEProject/cvelist: Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023",
-            "date_modified": "2024-12-10T09:01:17.000Z",
+            "date_modified": "2024-12-10T10:01:23.000Z",
             "date_published": "2020-11-02T19:30:55.000Z",
             "author": {
                 "name": "CVEProject",
@@ -20,11 +20,22 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/188660500?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>In the hushed galleries of the Silent JPG Exploit, a symphony shrouded in enigma unfurls—an opus named silent-jpg-exploit-2018—a title that reverberates through the annals of intrigue.</div>",
             "url": "https://github.com/Mykhis/Jpg-Png-Exploit-Slient-Builder-Exploit-Database-Cve-2023-Malware",
             "title": "Mykhis/Jpg-Png-Exploit-Slient-Builder-Exploit-Database-Cve-2023-Malware: In the hushed galleries of the Silent JPG Exploit, a symphony shrouded in enigma unfurls—an opus named silent-jpg-exploit-2018—a title that reverberates through the annals of intrigue.",
-            "date_modified": "2024-12-10T08:49:06.000Z",
+            "date_modified": "2024-12-10T10:00:06.000Z",
             "date_published": "2024-11-16T08:28:51.000Z",
             "author": {
                 "name": "Mykhis",
                 "url": "https://github.com/Mykhis"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/147707839?u=789d8ea3c86673534c7f5e165cbbdfc8b77ef951&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2023-40028 wirkt sich auf Ghost, ein Open-Source-Content-Management-System (CMS) aus.</div>",
+            "url": "https://github.com/BBSynapse/CVE-2023-40028",
+            "title": "BBSynapse/CVE-2023-40028: CVE-2023-40028 wirkt sich auf Ghost, ein Open-Source-Content-Management-System (CMS) aus.",
+            "date_modified": "2024-12-10T09:18:19.000Z",
+            "date_published": "2024-12-10T09:12:20.000Z",
+            "author": {
+                "name": "BBSynapse",
+                "url": "https://github.com/BBSynapse"
             }
         },
         {
@@ -212,17 +223,6 @@
             "author": {
                 "name": "Rai2en",
                 "url": "https://github.com/Rai2en"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/99511456?u=9b57dc21ecbac6087bae7923fc849a38ce56ef33&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Proof-of-Concept script for exploiting CVE-2023-38646. Intended for educational and research purposes only.</div>",
-            "url": "https://github.com/JayRyz/CVE-2023-38646-PoC-Metabase",
-            "title": "JayRyz/CVE-2023-38646-PoC-Metabase: Proof-of-Concept script for exploiting CVE-2023-38646. Intended for educational and research purposes only.",
-            "date_modified": "2024-11-27T16:27:28.000Z",
-            "date_published": "2024-11-26T19:05:35.000Z",
-            "author": {
-                "name": "JayRyz",
-                "url": "https://github.com/JayRyz"
             }
         }
     ]
