@@ -138,17 +138,6 @@
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/66732115?u=9c6d4f2137dcf6ecafcd76880d1e334f258d3377&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
-            "url": "https://github.com/BanaxavSplit/CVE-2021-3490",
-            "title": "BanaxavSplit/CVE-2021-3490",
-            "date_modified": "2024-11-27T16:23:15.000Z",
-            "date_published": "2024-11-27T16:23:14.000Z",
-            "author": {
-                "name": "BanaxavSplit",
-                "url": "https://github.com/BanaxavSplit"
-            }
-        },
-        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/636626?u=9e0e7ce2ab6aafe44e3109f8d4725b8fcd21fc1f&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A CodeQL workshop covering CVE-2021-21380</div>",
             "url": "https://github.com/rvermeulen/codeql-workshop-cve-2021-21380",
             "title": "rvermeulen/codeql-workshop-cve-2021-21380: A CodeQL workshop covering CVE-2021-21380",
@@ -223,6 +212,17 @@
             "author": {
                 "name": "bluetoothStrawberry",
                 "url": "https://github.com/bluetoothStrawberry"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/179945455?u=c46372a1604afdb67a4463223319562895dca5e1&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>In December 2021, the world of cybersecurity was shaken by the discovery of the Log4Shell vulnerability (CVE-2021-44228), embedded within the widely-used Apache Log4j library. With a CVSS score of 10</div>",
+            "url": "https://github.com/AhmedMansour93/-Unveiling-the-Lessons-from-Log4Shell-A-Wake-Up-Call-for-Cybersecurity-",
+            "title": "AhmedMansour93/-Unveiling-the-Lessons-from-Log4Shell-A-Wake-Up-Call-for-Cybersecurity-: In December 2021, the world of cybersecurity was shaken by the discovery of the Log4Shell vulnerability (CVE-2021-44228), embedded within the widely-used Apache Log4j library. With a CVSS score of 10",
+            "date_modified": "2024-11-10T13:47:01.000Z",
+            "date_published": "2024-11-10T13:45:59.000Z",
+            "author": {
+                "name": "AhmedMansour93",
+                "url": "https://github.com/AhmedMansour93"
             }
         }
     ]
