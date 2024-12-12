@@ -9,7 +9,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/18195825?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023</div>",
             "url": "https://github.com/CVEProject/cvelist",
             "title": "CVEProject/cvelist: Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023",
-            "date_modified": "2024-12-12T18:01:19.000Z",
+            "date_modified": "2024-12-12T19:01:18.000Z",
             "date_published": "2020-11-02T19:30:55.000Z",
             "author": {
                 "name": "CVEProject",
@@ -17,10 +17,21 @@
             }
         },
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/95960398?u=d28b4aab493be20a7a46ae03a49cfba0f7dac790&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2023-40028 affects Ghost, an open source content management system, where versions prior to 5.59.1 allow authenticated users to upload files that are symlinks. This can be exploited to perform an arbitrary file read of any file on the host operating system.</div>",
+            "url": "https://github.com/0xDTC/Ghost-5.58-Arbitrary-File-Read-CVE-2023-40028",
+            "title": "0xDTC/Ghost-5.58-Arbitrary-File-Read-CVE-2023-40028: CVE-2023-40028 affects Ghost, an open source content management system, where versions prior to 5.59.1 allow authenticated users to upload files that are symlinks. This can be exploited to perform an arbitrary file read of any file on the host operating system.",
+            "date_modified": "2024-12-12T18:50:59.000Z",
+            "date_published": "2024-12-12T18:50:58.000Z",
+            "author": {
+                "name": "0xDTC",
+                "url": "https://github.com/0xDTC"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/188660500?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>In the hushed galleries of the Silent JPG Exploit, a symphony shrouded in enigma unfurls—an opus named silent-jpg-exploit-2018—a title that reverberates through the annals of intrigue.</div>",
             "url": "https://github.com/Mykhis/Jpg-Png-Exploit-Slient-Builder-Exploit-Database-Cve-2023-Malware",
             "title": "Mykhis/Jpg-Png-Exploit-Slient-Builder-Exploit-Database-Cve-2023-Malware: In the hushed galleries of the Silent JPG Exploit, a symphony shrouded in enigma unfurls—an opus named silent-jpg-exploit-2018—a title that reverberates through the annals of intrigue.",
-            "date_modified": "2024-12-12T17:57:51.000Z",
+            "date_modified": "2024-12-12T18:49:26.000Z",
             "date_published": "2024-11-16T08:28:51.000Z",
             "author": {
                 "name": "Mykhis",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "ewilded",
                 "url": "https://github.com/ewilded"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/13798539?u=c4b10747ce2fe4638b06cf7af21ac244f582cd76&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Use java.net.InetAddress for detection</div>",
-            "url": "https://github.com/Avento/CVE-2023-43208_Detection_PoC",
-            "title": "Avento/CVE-2023-43208_Detection_PoC: Use java.net.InetAddress for detection",
-            "date_modified": "2024-11-28T15:21:14.000Z",
-            "date_published": "2024-11-28T09:03:23.000Z",
-            "author": {
-                "name": "Avento",
-                "url": "https://github.com/Avento"
             }
         }
     ]
