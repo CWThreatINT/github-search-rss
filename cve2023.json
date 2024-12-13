@@ -9,7 +9,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/18195825?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023</div>",
             "url": "https://github.com/CVEProject/cvelist",
             "title": "CVEProject/cvelist: Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023",
-            "date_modified": "2024-12-13T11:01:20.000Z",
+            "date_modified": "2024-12-13T12:01:27.000Z",
             "date_published": "2020-11-02T19:30:55.000Z",
             "author": {
                 "name": "CVEProject",
@@ -17,10 +17,21 @@
             }
         },
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/18578688?u=bce7b85e2dc11fb29695f235e13181529152e2cd&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
+            "url": "https://github.com/sudlit/CVE-2023-40028",
+            "title": "sudlit/CVE-2023-40028",
+            "date_modified": "2024-12-13T11:55:14.000Z",
+            "date_published": "2024-12-13T11:42:51.000Z",
+            "author": {
+                "name": "sudlit",
+                "url": "https://github.com/sudlit"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/188660500?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>In the hushed galleries of the Silent JPG Exploit, a symphony shrouded in enigma unfurls—an opus named silent-jpg-exploit-2018—a title that reverberates through the annals of intrigue.</div>",
             "url": "https://github.com/Mykhis/Jpg-Png-Exploit-Slient-Builder-Exploit-Database-Cve-2023-Malware",
             "title": "Mykhis/Jpg-Png-Exploit-Slient-Builder-Exploit-Database-Cve-2023-Malware: In the hushed galleries of the Silent JPG Exploit, a symphony shrouded in enigma unfurls—an opus named silent-jpg-exploit-2018—a title that reverberates through the annals of intrigue.",
-            "date_modified": "2024-12-13T10:56:07.000Z",
+            "date_modified": "2024-12-13T11:52:34.000Z",
             "date_published": "2024-11-16T08:28:51.000Z",
             "author": {
                 "name": "Mykhis",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "ntfargo",
                 "url": "https://github.com/ntfargo"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/18898977?u=9406f686f6ac65cde2f37a375fc7e0370ec58a3c&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2023-41425 (XSS to RCE, Wonder CMS 3.2.0 &lt;= 3.4.2)</div>",
-            "url": "https://github.com/0x0d3ad/CVE-2023-41425",
-            "title": "0x0d3ad/CVE-2023-41425: CVE-2023-41425 (XSS to RCE, Wonder CMS 3.2.0 <= 3.4.2)",
-            "date_modified": "2024-11-30T19:28:45.000Z",
-            "date_published": "2024-11-30T18:34:05.000Z",
-            "author": {
-                "name": "0x0d3ad",
-                "url": "https://github.com/0x0d3ad"
             }
         }
     ]
