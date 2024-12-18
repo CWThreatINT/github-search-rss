@@ -6,6 +6,17 @@
     "description": "CVE-2022 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/47897567?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Experimenting with CVE-2022-20120 (Pixel Bootloader / ABL)  using Unicorn, derived from eShard's emulator at <a href=\"https://github.com/eshard/pixel6-boot/blob/main/run_abl_public.ipynb\" class=\"Link--inTextBlock\">https://github.com/eshard/pixel6-boot/blob/main/run_abl_public.ipynb</a></div>",
+            "url": "https://github.com/boredpentester/ABL_ROP",
+            "title": "boredpentester/ABL_ROP: Experimenting with CVE-2022-20120 (Pixel Bootloader / ABL)  using Unicorn, derived from eShard's emulator at https://github.com/eshard/pixel6-boot/blob/main/run_abl_public.ipynb",
+            "date_modified": "2024-12-18T11:00:42.000Z",
+            "date_published": "2024-12-18T10:44:34.000Z",
+            "author": {
+                "name": "boredpentester",
+                "url": "https://github.com/boredpentester"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/141164867?u=2a9080ad87d4143119c83f754cc9059a9ff5de47&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>POC firewall with rules designed to detect and block Spring4Shell vulnerability (CVE-2022-22965) exploit</div>",
             "url": "https://github.com/SkyM1raj/Block-Spring4Shell",
             "title": "SkyM1raj/Block-Spring4Shell: POC firewall with rules designed to detect and block Spring4Shell vulnerability (CVE-2022-22965) exploit",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "aengussong",
                 "url": "https://github.com/aengussong"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/127310257?u=1f1141f993fe4aa5ad18af5add59bad33200de0e&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Magento 2 patch for CVE-2022-24086. Fix the RCE vulnerability and related bugs by performing deep template variable escaping. If you cannot upgrade Magento or cannot apply the official patches, try this one.</div>",
-            "url": "https://github.com/wubinworks/magento2-template-filter-patch",
-            "title": "wubinworks/magento2-template-filter-patch: Magento 2 patch for CVE-2022-24086. Fix the RCE vulnerability and related bugs by performing deep template variable escaping. If you cannot upgrade Magento or cannot apply the official patches, try this one.",
-            "date_modified": "2024-11-27T04:14:24.000Z",
-            "date_published": "2024-11-25T06:56:05.000Z",
-            "author": {
-                "name": "wubinworks",
-                "url": "https://github.com/wubinworks"
             }
         }
     ]
