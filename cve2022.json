@@ -6,6 +6,17 @@
     "description": "CVE-2022 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/127310257?u=1f1141f993fe4aa5ad18af5add59bad33200de0e&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Magento 2 patch for CVE-2022-24086, CVE-2022-24087. Fix the RCE vulnerability and related bugs by performing deep template variable escaping. If you cannot upgrade Magento or cannot apply the official patches, try this one.</div>",
+            "url": "https://github.com/wubinworks/magento2-template-filter-patch",
+            "title": "wubinworks/magento2-template-filter-patch: Magento 2 patch for CVE-2022-24086, CVE-2022-24087. Fix the RCE vulnerability and related bugs by performing deep template variable escaping. If you cannot upgrade Magento or cannot apply the official patches, try this one.",
+            "date_modified": "2024-12-22T06:48:12.000Z",
+            "date_published": "2024-11-25T06:56:05.000Z",
+            "author": {
+                "name": "wubinworks",
+                "url": "https://github.com/wubinworks"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/25670930?u=6fad2f13c751b51fd47e377945d79369743f5948&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>poc for CVE-2022-32981 under work</div>",
             "url": "https://github.com/SpiralBL0CK/CVE-2022-32981",
             "title": "SpiralBL0CK/CVE-2022-32981: poc for CVE-2022-32981 under work",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "dagowda",
                 "url": "https://github.com/dagowda"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/18383407?u=c9d1276bd9ccb8b06b724c3057b1ef683fa81de7&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2022-41678: Dangerous MBeans Accessible via Jolokia API in Apache ActiveMQ</div>",
-            "url": "https://github.com/mbadanoiu/CVE-2022-41678",
-            "title": "mbadanoiu/CVE-2022-41678: CVE-2022-41678: Dangerous MBeans Accessible via Jolokia API in Apache ActiveMQ",
-            "date_modified": "2024-11-28T22:20:40.000Z",
-            "date_published": "2024-11-28T20:48:21.000Z",
-            "author": {
-                "name": "mbadanoiu",
-                "url": "https://github.com/mbadanoiu"
             }
         }
     ]
