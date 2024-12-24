@@ -6,6 +6,17 @@
     "description": "CVE-2023 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/188660500?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>In the hushed galleries of the Silent JPG Exploit, a symphony shrouded in enigma unfurls—an opus named silent-jpg-exploit-2018—a title that reverberates through the annals of intrigue.</div>",
+            "url": "https://github.com/Mykhis/Jpg-Png-Exploit-Slient-Builder-Exploit-Database-Cve-2023-Malware",
+            "title": "Mykhis/Jpg-Png-Exploit-Slient-Builder-Exploit-Database-Cve-2023-Malware: In the hushed galleries of the Silent JPG Exploit, a symphony shrouded in enigma unfurls—an opus named silent-jpg-exploit-2018—a title that reverberates through the annals of intrigue.",
+            "date_modified": "2024-12-24T16:01:00.000Z",
+            "date_published": "2024-11-16T08:28:51.000Z",
+            "author": {
+                "name": "Mykhis",
+                "url": "https://github.com/Mykhis"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/18195825?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023</div>",
             "url": "https://github.com/CVEProject/cvelist",
             "title": "CVEProject/cvelist: Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023",
@@ -14,17 +25,6 @@
             "author": {
                 "name": "CVEProject",
                 "url": "https://github.com/CVEProject"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/188660500?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>In the hushed galleries of the Silent JPG Exploit, a symphony shrouded in enigma unfurls—an opus named silent-jpg-exploit-2018—a title that reverberates through the annals of intrigue.</div>",
-            "url": "https://github.com/Mykhis/Jpg-Png-Exploit-Slient-Builder-Exploit-Database-Cve-2023-Malware",
-            "title": "Mykhis/Jpg-Png-Exploit-Slient-Builder-Exploit-Database-Cve-2023-Malware: In the hushed galleries of the Silent JPG Exploit, a symphony shrouded in enigma unfurls—an opus named silent-jpg-exploit-2018—a title that reverberates through the annals of intrigue.",
-            "date_modified": "2024-12-24T14:55:54.000Z",
-            "date_published": "2024-11-16T08:28:51.000Z",
-            "author": {
-                "name": "Mykhis",
-                "url": "https://github.com/Mykhis"
             }
         },
         {
@@ -53,7 +53,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/36794189?u=0a88e57e13d304190c1bd2ebd6e387ebf5229dd3&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>It was  discovered two reflected cross site scripting (XSS) vulnerabilities in the Squidex open source headless CMS software. The Reflected Cross Site Scripting vulnerabilities affect all versions of Squidex prior to 7.4.0 and affect both authenticated and unauthenticated victim users.</div>",
             "url": "https://github.com/NeCr00/CVE-2023-24278_XSS-in-Squidex",
             "title": "NeCr00/CVE-2023-24278_XSS-in-Squidex: It was  discovered two reflected cross site scripting (XSS) vulnerabilities in the Squidex open source headless CMS software. The Reflected Cross Site Scripting vulnerabilities affect all versions of Squidex prior to 7.4.0 and affect both authenticated and unauthenticated victim users.",
-            "date_modified": "2024-12-23T13:22:25.000Z",
+            "date_modified": "2024-12-24T15:44:07.000Z",
             "date_published": "2024-12-23T13:10:47.000Z",
             "author": {
                 "name": "NeCr00",
