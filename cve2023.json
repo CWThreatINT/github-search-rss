@@ -6,10 +6,21 @@
     "description": "CVE-2023 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/18195825?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023</div>",
+            "url": "https://github.com/CVEProject/cvelist",
+            "title": "CVEProject/cvelist: Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023",
+            "date_modified": "2024-12-30T04:01:24.000Z",
+            "date_published": "2020-11-02T19:30:55.000Z",
+            "author": {
+                "name": "CVEProject",
+                "url": "https://github.com/CVEProject"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/188660500?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>In the hushed galleries of the Silent JPG Exploit, a symphony shrouded in enigma unfurls—an opus named silent-jpg-exploit-2018—a title that reverberates through the annals of intrigue.</div>",
             "url": "https://github.com/Mykhis/Jpg-Png-Exploit-Slient-Builder-Exploit-Database-Cve-2023-Malware",
             "title": "Mykhis/Jpg-Png-Exploit-Slient-Builder-Exploit-Database-Cve-2023-Malware: In the hushed galleries of the Silent JPG Exploit, a symphony shrouded in enigma unfurls—an opus named silent-jpg-exploit-2018—a title that reverberates through the annals of intrigue.",
-            "date_modified": "2024-12-30T03:05:02.000Z",
+            "date_modified": "2024-12-30T04:00:02.000Z",
             "date_published": "2024-11-16T08:28:51.000Z",
             "author": {
                 "name": "Mykhis",
@@ -17,14 +28,14 @@
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/18195825?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023</div>",
-            "url": "https://github.com/CVEProject/cvelist",
-            "title": "CVEProject/cvelist: Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023",
-            "date_modified": "2024-12-30T03:01:18.000Z",
-            "date_published": "2020-11-02T19:30:55.000Z",
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/92511754?u=48eccf0ee5840890bdb48d40583e6a5a206beb15&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>POC Exploit Script in Python</div>",
+            "url": "https://github.com/kuyrathdaro/winrar-cve-2023-38831",
+            "title": "kuyrathdaro/winrar-cve-2023-38831: POC Exploit Script in Python",
+            "date_modified": "2024-12-30T03:33:23.000Z",
+            "date_published": "2024-12-30T03:33:23.000Z",
             "author": {
-                "name": "CVEProject",
-                "url": "https://github.com/CVEProject"
+                "name": "kuyrathdaro",
+                "url": "https://github.com/kuyrathdaro"
             }
         },
         {
@@ -212,17 +223,6 @@
             "author": {
                 "name": "philipsinnott",
                 "url": "https://github.com/philipsinnott"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/97209296?u=51ea04e3bc7af6a07f6a88785ef1ba7e0cb59895&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
-            "url": "https://github.com/VictoriousKnight/CVE-2023-38831_Exploit",
-            "title": "VictoriousKnight/CVE-2023-38831_Exploit",
-            "date_modified": "2024-12-16T15:10:50.000Z",
-            "date_published": "2024-12-03T11:13:37.000Z",
-            "author": {
-                "name": "VictoriousKnight",
-                "url": "https://github.com/VictoriousKnight"
             }
         }
     ]
