@@ -6,10 +6,21 @@
     "description": "CVE-2023 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/14059710?u=d3d6df5b45f9a2524df17e2675c28e61872a5aa6&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
+            "url": "https://github.com/murdok1982/Exploit-en-Python-para-CVE-2023-4147",
+            "title": "murdok1982/Exploit-en-Python-para-CVE-2023-4147",
+            "date_modified": "2024-12-30T18:10:25.000Z",
+            "date_published": "2024-12-30T18:08:46.000Z",
+            "author": {
+                "name": "murdok1982",
+                "url": "https://github.com/murdok1982"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/18195825?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023</div>",
             "url": "https://github.com/CVEProject/cvelist",
             "title": "CVEProject/cvelist: Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023",
-            "date_modified": "2024-12-30T17:01:17.000Z",
+            "date_modified": "2024-12-30T18:01:22.000Z",
             "date_published": "2020-11-02T19:30:55.000Z",
             "author": {
                 "name": "CVEProject",
@@ -20,7 +31,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/188660500?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>In the hushed galleries of the Silent JPG Exploit, a symphony shrouded in enigma unfurls—an opus named silent-jpg-exploit-2018—a title that reverberates through the annals of intrigue.</div>",
             "url": "https://github.com/Mykhis/Jpg-Png-Exploit-Slient-Builder-Exploit-Database-Cve-2023-Malware",
             "title": "Mykhis/Jpg-Png-Exploit-Slient-Builder-Exploit-Database-Cve-2023-Malware: In the hushed galleries of the Silent JPG Exploit, a symphony shrouded in enigma unfurls—an opus named silent-jpg-exploit-2018—a title that reverberates through the annals of intrigue.",
-            "date_modified": "2024-12-30T16:58:17.000Z",
+            "date_modified": "2024-12-30T18:00:20.000Z",
             "date_published": "2024-11-16T08:28:51.000Z",
             "author": {
                 "name": "Mykhis",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "akshthejo",
                 "url": "https://github.com/akshthejo"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/18383407?u=c9d1276bd9ccb8b06b724c3057b1ef683fa81de7&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2023-50780: Dangerous MBeans Accessible via Jolokia API in Apache ActiveMQ Artemis</div>",
-            "url": "https://github.com/mbadanoiu/CVE-2023-50780",
-            "title": "mbadanoiu/CVE-2023-50780: CVE-2023-50780: Dangerous MBeans Accessible via Jolokia API in Apache ActiveMQ Artemis",
-            "date_modified": "2024-12-18T01:22:01.000Z",
-            "date_published": "2024-12-17T22:07:24.000Z",
-            "author": {
-                "name": "mbadanoiu",
-                "url": "https://github.com/mbadanoiu"
             }
         }
     ]
