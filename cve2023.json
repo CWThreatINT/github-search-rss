@@ -9,11 +9,22 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/188660500?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>In the hushed galleries of the Silent JPG Exploit, a symphony shrouded in enigma unfurls—an opus named silent-jpg-exploit-2018—a title that reverberates through the annals of intrigue.</div>",
             "url": "https://github.com/Mykhis/Jpg-Png-Exploit-Slient-Builder-Exploit-Database-Cve-2023-Malware",
             "title": "Mykhis/Jpg-Png-Exploit-Slient-Builder-Exploit-Database-Cve-2023-Malware: In the hushed galleries of the Silent JPG Exploit, a symphony shrouded in enigma unfurls—an opus named silent-jpg-exploit-2018—a title that reverberates through the annals of intrigue.",
-            "date_modified": "2024-12-31T03:55:58.000Z",
+            "date_modified": "2024-12-31T04:54:46.000Z",
             "date_published": "2024-11-16T08:28:51.000Z",
             "author": {
                 "name": "Mykhis",
                 "url": "https://github.com/Mykhis"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/190506189?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2023-38831WinRAR代码执行漏洞复现资源文件</div>",
+            "url": "https://github.com/chaos198800/CVE-2023-38831WinRAR-dai-ma-zhi-xing-lou-dong-fu-xian-zi-yuan-wen-jian",
+            "title": "chaos198800/CVE-2023-38831WinRAR-dai-ma-zhi-xing-lou-dong-fu-xian-zi-yuan-wen-jian: CVE-2023-38831WinRAR代码执行漏洞复现资源文件",
+            "date_modified": "2024-12-31T04:15:31.000Z",
+            "date_published": "2024-12-31T04:14:34.000Z",
+            "author": {
+                "name": "chaos198800",
+                "url": "https://github.com/chaos198800"
             }
         },
         {
@@ -212,17 +223,6 @@
             "author": {
                 "name": "yoryio",
                 "url": "https://github.com/yoryio"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/95960398?u=d28b4aab493be20a7a46ae03a49cfba0f7dac790&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2023-40028 affects Ghost, an open source content management system, where versions prior to 5.59.1 allow authenticated users to upload files that are symlinks. This can be exploited to perform an arbitrary file read of any file on the host operating system.</div>",
-            "url": "https://github.com/0xDTC/Ghost-5.58-Arbitrary-File-Read-CVE-2023-40028",
-            "title": "0xDTC/Ghost-5.58-Arbitrary-File-Read-CVE-2023-40028: CVE-2023-40028 affects Ghost, an open source content management system, where versions prior to 5.59.1 allow authenticated users to upload files that are symlinks. This can be exploited to perform an arbitrary file read of any file on the host operating system.",
-            "date_modified": "2024-12-18T22:12:57.000Z",
-            "date_published": "2024-12-12T18:50:58.000Z",
-            "author": {
-                "name": "0xDTC",
-                "url": "https://github.com/0xDTC"
             }
         }
     ]
