@@ -6,6 +6,17 @@
     "description": "CVE-2021 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/3603819?u=270f6b5907bf400f4b84c54287082c322b305572&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Precompiled lib3mf.dll for MeshMixer which includes a backported patch for CVE-2021-21772</div>",
+            "url": "https://github.com/3dluvr/New-lib3mf.dll-for-MeshMixer",
+            "title": "3dluvr/New-lib3mf.dll-for-MeshMixer: Precompiled lib3mf.dll for MeshMixer which includes a backported patch for CVE-2021-21772",
+            "date_modified": "2024-12-31T03:56:09.000Z",
+            "date_published": "2024-12-31T03:48:46.000Z",
+            "author": {
+                "name": "3dluvr",
+                "url": "https://github.com/3dluvr"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/78235202?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
             "url": "https://github.com/danielduan2002/CVE-2021-26690",
             "title": "danielduan2002/CVE-2021-26690",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "Super-Binary",
                 "url": "https://github.com/Super-Binary"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/5387930?u=1cd0cfa4ab9c6e30da495e621b850e4f61a203aa&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Nacos Derby命令执行漏洞利用脚本</div>",
-            "url": "https://github.com/XiaomingX/cve-2021-29442-Nacos-Derby-rce-exp",
-            "title": "XiaomingX/cve-2021-29442-Nacos-Derby-rce-exp: Nacos Derby命令执行漏洞利用脚本",
-            "date_modified": "2024-12-08T18:37:41.000Z",
-            "date_published": "2024-11-22T01:32:37.000Z",
-            "author": {
-                "name": "XiaomingX",
-                "url": "https://github.com/XiaomingX"
             }
         }
     ]
