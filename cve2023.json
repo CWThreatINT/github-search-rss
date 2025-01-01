@@ -9,7 +9,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/18195825?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023</div>",
             "url": "https://github.com/CVEProject/cvelist",
             "title": "CVEProject/cvelist: Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023",
-            "date_modified": "2025-01-01T08:01:21.000Z",
+            "date_modified": "2025-01-01T09:01:16.000Z",
             "date_published": "2020-11-02T19:30:55.000Z",
             "author": {
                 "name": "CVEProject",
@@ -20,11 +20,22 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/188660500?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>In the hushed galleries of the Silent JPG Exploit, a symphony shrouded in enigma unfurls—an opus named silent-jpg-exploit-2018—a title that reverberates through the annals of intrigue.</div>",
             "url": "https://github.com/Mykhis/Jpg-Png-Exploit-Slient-Builder-Exploit-Database-Cve-2023-Malware",
             "title": "Mykhis/Jpg-Png-Exploit-Slient-Builder-Exploit-Database-Cve-2023-Malware: In the hushed galleries of the Silent JPG Exploit, a symphony shrouded in enigma unfurls—an opus named silent-jpg-exploit-2018—a title that reverberates through the annals of intrigue.",
-            "date_modified": "2025-01-01T07:52:59.000Z",
+            "date_modified": "2025-01-01T08:52:09.000Z",
             "date_published": "2024-11-16T08:28:51.000Z",
             "author": {
                 "name": "Mykhis",
                 "url": "https://github.com/Mykhis"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/16272760?u=e96bde9723c753e85e54a49d35d6b0902dac4408&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
+            "url": "https://github.com/stevenjoezhang/CVE-2023-21537",
+            "title": "stevenjoezhang/CVE-2023-21537",
+            "date_modified": "2025-01-01T08:17:32.000Z",
+            "date_published": "2025-01-01T08:17:26.000Z",
+            "author": {
+                "name": "stevenjoezhang",
+                "url": "https://github.com/stevenjoezhang"
             }
         },
         {
@@ -212,17 +223,6 @@
             "author": {
                 "name": "xG3nesis",
                 "url": "https://github.com/xG3nesis"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/134471901?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Exploit for CVE-2023-7028 - GitLab CE/EE</div>",
-            "url": "https://github.com/yoryio/CVE-2023-7028",
-            "title": "yoryio/CVE-2023-7028: Exploit for CVE-2023-7028 - GitLab CE/EE",
-            "date_modified": "2024-12-19T04:12:19.000Z",
-            "date_published": "2024-01-18T05:17:00.000Z",
-            "author": {
-                "name": "yoryio",
-                "url": "https://github.com/yoryio"
             }
         }
     ]
