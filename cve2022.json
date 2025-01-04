@@ -6,6 +6,17 @@
     "description": "CVE-2022 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/18167730?u=fdd94ba698d39aff3aa1eec33fd0e25c874dbc67&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
+            "url": "https://github.com/oalieno/CVE-2022-41924",
+            "title": "oalieno/CVE-2022-41924",
+            "date_modified": "2025-01-04T16:42:10.000Z",
+            "date_published": "2025-01-04T16:40:35.000Z",
+            "author": {
+                "name": "oalieno",
+                "url": "https://github.com/oalieno"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/177533437?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2022-46463 harbor公开镜像全自动下载脚本</div>",
             "url": "https://github.com/CodeSecurityTeam/harbor",
             "title": "CodeSecurityTeam/harbor: CVE-2022-46463 harbor公开镜像全自动下载脚本",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "cxxsheng",
                 "url": "https://github.com/cxxsheng"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/108201283?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>exploit by python</div>",
-            "url": "https://github.com/ph0ebus/CVE-2022-25845-In-Spring",
-            "title": "ph0ebus/CVE-2022-25845-In-Spring: exploit by python",
-            "date_modified": "2024-12-01T13:50:51.000Z",
-            "date_published": "2024-11-26T13:03:38.000Z",
-            "author": {
-                "name": "ph0ebus",
-                "url": "https://github.com/ph0ebus"
             }
         }
     ]
