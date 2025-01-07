@@ -6,6 +6,17 @@
     "description": "CVE-2022 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/95960398?u=d28b4aab493be20a7a46ae03a49cfba0f7dac790&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Refurbish</div>",
+            "url": "https://github.com/0xDTC/SQLPad-6.10.0-Exploit-CVE-2022-0944",
+            "title": "0xDTC/SQLPad-6.10.0-Exploit-CVE-2022-0944: Refurbish",
+            "date_modified": "2025-01-07T12:53:41.000Z",
+            "date_published": "2024-10-27T20:26:47.000Z",
+            "author": {
+                "name": "0xDTC",
+                "url": "https://github.com/0xDTC"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/97569874?u=4ede17788d5ddae1f301ef2f8ac021b76d17fe54&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
             "url": "https://github.com/JustinYe377/CTF-CVE-2022-0847",
             "title": "JustinYe377/CTF-CVE-2022-0847",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "egilas",
                 "url": "https://github.com/egilas"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/47277287?u=5ee5aa290185e92e60ab26ac24434cc44b703351&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Fusion Builder &lt; 3.6.2 - Unauthenticated SSRF</div>",
-            "url": "https://github.com/lamcodeofpwnosec/CVE-2022-1386",
-            "title": "lamcodeofpwnosec/CVE-2022-1386: Fusion Builder < 3.6.2 - Unauthenticated SSRF",
-            "date_modified": "2024-12-04T12:51:24.000Z",
-            "date_published": "2024-12-04T12:48:53.000Z",
-            "author": {
-                "name": "lamcodeofpwnosec",
-                "url": "https://github.com/lamcodeofpwnosec"
             }
         }
     ]
