@@ -6,6 +6,17 @@
     "description": "CVE-2022 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/40186049?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>PoC for CVE-2022-29078</div>",
+            "url": "https://github.com/chuckdu21/CVE-2022-29078",
+            "title": "chuckdu21/CVE-2022-29078: PoC for CVE-2022-29078",
+            "date_modified": "2025-01-07T22:07:55.000Z",
+            "date_published": "2025-01-07T22:07:52.000Z",
+            "author": {
+                "name": "chuckdu21",
+                "url": "https://github.com/chuckdu21"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/95960398?u=d28b4aab493be20a7a46ae03a49cfba0f7dac790&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Refurbish</div>",
             "url": "https://github.com/0xDTC/SQLPad-6.10.0-Exploit-CVE-2022-0944",
             "title": "0xDTC/SQLPad-6.10.0-Exploit-CVE-2022-0944: Refurbish",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "brosck",
                 "url": "https://github.com/brosck"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/14824771?u=5e2457af70367c2f373b70253ff8991f4f6147f2&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>PoC for Watchguard CVE-2022-26318 updated to Python3.12</div>",
-            "url": "https://github.com/egilas/Watchguard-RCE-POC-CVE-2022-26318",
-            "title": "egilas/Watchguard-RCE-POC-CVE-2022-26318: PoC for Watchguard CVE-2022-26318 updated to Python3.12",
-            "date_modified": "2024-12-21T15:37:08.000Z",
-            "date_published": "2024-12-05T09:56:57.000Z",
-            "author": {
-                "name": "egilas",
-                "url": "https://github.com/egilas"
             }
         }
     ]
