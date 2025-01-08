@@ -6,25 +6,36 @@
     "description": "CVE-2023 FEED on GitHub",
     "items": [
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/188660500?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>In the hushed galleries of the Silent JPG Exploit, a symphony shrouded in enigma unfurls—an opus named silent-jpg-exploit-2018—a title that reverberates through the annals of intrigue.</div>",
-            "url": "https://github.com/Mykhis/Jpg-Png-Exploit-Slient-Builder-Exploit-Database-Cve-2023-Malware",
-            "title": "Mykhis/Jpg-Png-Exploit-Slient-Builder-Exploit-Database-Cve-2023-Malware: In the hushed galleries of the Silent JPG Exploit, a symphony shrouded in enigma unfurls—an opus named silent-jpg-exploit-2018—a title that reverberates through the annals of intrigue.",
-            "date_modified": "2025-01-08T10:53:13.000Z",
-            "date_published": "2024-11-16T08:28:51.000Z",
-            "author": {
-                "name": "Mykhis",
-                "url": "https://github.com/Mykhis"
-            }
-        },
-        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/18195825?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023</div>",
             "url": "https://github.com/CVEProject/cvelist",
             "title": "CVEProject/cvelist: Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023",
-            "date_modified": "2025-01-08T10:01:26.000Z",
+            "date_modified": "2025-01-08T12:01:23.000Z",
             "date_published": "2020-11-02T19:30:55.000Z",
             "author": {
                 "name": "CVEProject",
                 "url": "https://github.com/CVEProject"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/16364955?u=b974594ceb1b162ef78a73a9368eab5978408a9d&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Exploit implementation with IO Rings for CVE-2023-21768</div>",
+            "url": "https://github.com/IlanDudnik/CVE-2023-21768",
+            "title": "IlanDudnik/CVE-2023-21768: Exploit implementation with IO Rings for CVE-2023-21768",
+            "date_modified": "2025-01-08T12:00:22.000Z",
+            "date_published": "2024-12-30T17:27:56.000Z",
+            "author": {
+                "name": "IlanDudnik",
+                "url": "https://github.com/IlanDudnik"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/188660500?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>In the hushed galleries of the Silent JPG Exploit, a symphony shrouded in enigma unfurls—an opus named silent-jpg-exploit-2018—a title that reverberates through the annals of intrigue.</div>",
+            "url": "https://github.com/Mykhis/Jpg-Png-Exploit-Slient-Builder-Exploit-Database-Cve-2023-Malware",
+            "title": "Mykhis/Jpg-Png-Exploit-Slient-Builder-Exploit-Database-Cve-2023-Malware: In the hushed galleries of the Silent JPG Exploit, a symphony shrouded in enigma unfurls—an opus named silent-jpg-exploit-2018—a title that reverberates through the annals of intrigue.",
+            "date_modified": "2025-01-08T11:51:31.000Z",
+            "date_published": "2024-11-16T08:28:51.000Z",
+            "author": {
+                "name": "Mykhis",
+                "url": "https://github.com/Mykhis"
             }
         },
         {
@@ -212,17 +223,6 @@
             "author": {
                 "name": "stevenjoezhang",
                 "url": "https://github.com/stevenjoezhang"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/190506189?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2023-38831WinRAR代码执行漏洞复现资源文件</div>",
-            "url": "https://github.com/chaos198800/CVE-2023-38831WinRAR-dai-ma-zhi-xing-lou-dong-fu-xian-zi-yuan-wen-jian",
-            "title": "chaos198800/CVE-2023-38831WinRAR-dai-ma-zhi-xing-lou-dong-fu-xian-zi-yuan-wen-jian: CVE-2023-38831WinRAR代码执行漏洞复现资源文件",
-            "date_modified": "2024-12-31T04:15:31.000Z",
-            "date_published": "2024-12-31T04:14:34.000Z",
-            "author": {
-                "name": "chaos198800",
-                "url": "https://github.com/chaos198800"
             }
         }
     ]
