@@ -6,6 +6,17 @@
     "description": "CVE-2022 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/104143246?u=d90eb5b5a3ab7d0f7cb77138af5d3e2fd61a4752&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>The **Dirty Pipe exploit (CVE-2022-0847)** is a Linux kernel vulnerability (v5.8+) allowing unprivileged attackers to overwrite arbitrary files via a flaw in the pipe mechanism. This leads to privilege escalation, granting root access. Similar to Dirty Cow but easier to exploit. Fix: Update to a patched kernel version.</div>",
+            "url": "https://github.com/mithunmadhukuttan/Dirty-Pipe-Exploit",
+            "title": "mithunmadhukuttan/Dirty-Pipe-Exploit: The **Dirty Pipe exploit (CVE-2022-0847)** is a Linux kernel vulnerability (v5.8+) allowing unprivileged attackers to overwrite arbitrary files via a flaw in the pipe mechanism. This leads to privilege escalation, granting root access. Similar to Dirty Cow but easier to exploit. Fix: Update to a patched kernel version.",
+            "date_modified": "2025-01-08T07:41:44.000Z",
+            "date_published": "2025-01-08T07:40:20.000Z",
+            "author": {
+                "name": "mithunmadhukuttan",
+                "url": "https://github.com/mithunmadhukuttan"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/40186049?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>PoC for CVE-2022-29078</div>",
             "url": "https://github.com/chuckdu21/CVE-2022-29078",
             "title": "chuckdu21/CVE-2022-29078: PoC for CVE-2022-29078",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "brosck",
                 "url": "https://github.com/brosck"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/14824771?u=5e2457af70367c2f373b70253ff8991f4f6147f2&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>PoC for Watchguard CVE-2022-26318 updated to Python3.12</div>",
-            "url": "https://github.com/egilas/Watchguard-RCE-POC-CVE-2022-26318",
-            "title": "egilas/Watchguard-RCE-POC-CVE-2022-26318: PoC for Watchguard CVE-2022-26318 updated to Python3.12",
-            "date_modified": "2024-12-21T15:37:08.000Z",
-            "date_published": "2024-12-05T09:56:57.000Z",
-            "author": {
-                "name": "egilas",
-                "url": "https://github.com/egilas"
             }
         }
     ]

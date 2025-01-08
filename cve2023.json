@@ -9,7 +9,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/18195825?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023</div>",
             "url": "https://github.com/CVEProject/cvelist",
             "title": "CVEProject/cvelist: Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023",
-            "date_modified": "2025-01-08T07:01:25.000Z",
+            "date_modified": "2025-01-08T08:01:21.000Z",
             "date_published": "2020-11-02T19:30:55.000Z",
             "author": {
                 "name": "CVEProject",
@@ -20,11 +20,22 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/188660500?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>In the hushed galleries of the Silent JPG Exploit, a symphony shrouded in enigma unfurls—an opus named silent-jpg-exploit-2018—a title that reverberates through the annals of intrigue.</div>",
             "url": "https://github.com/Mykhis/Jpg-Png-Exploit-Slient-Builder-Exploit-Database-Cve-2023-Malware",
             "title": "Mykhis/Jpg-Png-Exploit-Slient-Builder-Exploit-Database-Cve-2023-Malware: In the hushed galleries of the Silent JPG Exploit, a symphony shrouded in enigma unfurls—an opus named silent-jpg-exploit-2018—a title that reverberates through the annals of intrigue.",
-            "date_modified": "2025-01-08T06:52:17.000Z",
+            "date_modified": "2025-01-08T07:52:37.000Z",
             "date_published": "2024-11-16T08:28:51.000Z",
             "author": {
                 "name": "Mykhis",
                 "url": "https://github.com/Mykhis"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/157342883?u=aa63dd23501608e8d9163269779d5c9eca416b82&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A Python-based tool to check for vulnerabilities in OpenSSH installations on local or remote systems by scanning specific IPs. It checks if the OpenSSH version is affected by CVE-2023-48795</div>",
+            "url": "https://github.com/TrixSec/CVE-2023-48795",
+            "title": "TrixSec/CVE-2023-48795: A Python-based tool to check for vulnerabilities in OpenSSH installations on local or remote systems by scanning specific IPs. It checks if the OpenSSH version is affected by CVE-2023-48795",
+            "date_modified": "2025-01-08T07:29:16.000Z",
+            "date_published": "2025-01-08T07:19:23.000Z",
+            "author": {
+                "name": "TrixSec",
+                "url": "https://github.com/TrixSec"
             }
         },
         {
@@ -212,17 +223,6 @@
             "author": {
                 "name": "chaos198800",
                 "url": "https://github.com/chaos198800"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/53870885?u=c77d6b21bfef0862c5d1273a4a59cb46c3f36776&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>An exploit for Nagios SQL injection vulnerbility </div>",
-            "url": "https://github.com/datboi6942/Nagios-XI-s-CVE-2023-40931-Exploit",
-            "title": "datboi6942/Nagios-XI-s-CVE-2023-40931-Exploit: An exploit for Nagios SQL injection vulnerbility ",
-            "date_modified": "2024-12-30T18:46:40.000Z",
-            "date_published": "2024-12-30T18:44:34.000Z",
-            "author": {
-                "name": "datboi6942",
-                "url": "https://github.com/datboi6942"
             }
         }
     ]
