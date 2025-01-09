@@ -6,6 +6,28 @@
     "description": "CVE-2023 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/188660500?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>In the hushed galleries of the Silent JPG Exploit, a symphony shrouded in enigma unfurls—an opus named silent-jpg-exploit-2018—a title that reverberates through the annals of intrigue.</div>",
+            "url": "https://github.com/Mykhis/Jpg-Png-Exploit-Slient-Builder-Exploit-Database-Cve-2023-Malware",
+            "title": "Mykhis/Jpg-Png-Exploit-Slient-Builder-Exploit-Database-Cve-2023-Malware: In the hushed galleries of the Silent JPG Exploit, a symphony shrouded in enigma unfurls—an opus named silent-jpg-exploit-2018—a title that reverberates through the annals of intrigue.",
+            "date_modified": "2025-01-09T12:57:21.000Z",
+            "date_published": "2024-11-16T08:28:51.000Z",
+            "author": {
+                "name": "Mykhis",
+                "url": "https://github.com/Mykhis"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/76569084?u=05df7b3a76cae69c217486c483cc899b8880fdcc&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>In Paradox Security System IPR512 web panel, an unauthenticated user can input JavaScript string, such as &lt;/script&gt; that will overwrite configurations in the file \"login.xml\" and cause the login form to crash and make it unavailable. </div>",
+            "url": "https://github.com/DRAGOWN/CVE-2023-24709-PoC",
+            "title": "DRAGOWN/CVE-2023-24709-PoC: In Paradox Security System IPR512 web panel, an unauthenticated user can input JavaScript string, such as </script> that will overwrite configurations in the file \"login.xml\" and cause the login form to crash and make it unavailable. ",
+            "date_modified": "2025-01-09T12:51:53.000Z",
+            "date_published": "2023-01-26T12:13:51.000Z",
+            "author": {
+                "name": "DRAGOWN",
+                "url": "https://github.com/DRAGOWN"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/18195825?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023</div>",
             "url": "https://github.com/CVEProject/cvelist",
             "title": "CVEProject/cvelist: Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023",
@@ -14,17 +36,6 @@
             "author": {
                 "name": "CVEProject",
                 "url": "https://github.com/CVEProject"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/188660500?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>In the hushed galleries of the Silent JPG Exploit, a symphony shrouded in enigma unfurls—an opus named silent-jpg-exploit-2018—a title that reverberates through the annals of intrigue.</div>",
-            "url": "https://github.com/Mykhis/Jpg-Png-Exploit-Slient-Builder-Exploit-Database-Cve-2023-Malware",
-            "title": "Mykhis/Jpg-Png-Exploit-Slient-Builder-Exploit-Database-Cve-2023-Malware: In the hushed galleries of the Silent JPG Exploit, a symphony shrouded in enigma unfurls—an opus named silent-jpg-exploit-2018—a title that reverberates through the annals of intrigue.",
-            "date_modified": "2025-01-09T11:50:12.000Z",
-            "date_published": "2024-11-16T08:28:51.000Z",
-            "author": {
-                "name": "Mykhis",
-                "url": "https://github.com/Mykhis"
             }
         },
         {
@@ -212,17 +223,6 @@
             "author": {
                 "name": "Nxploited",
                 "url": "https://github.com/Nxploited"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/93403633?u=aecd74d0d971b31bfabf6d8a1996952ef7a2ffcc&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>对NETIS WF2409E路由器进行的一次完整硬件安全分析研究。通过对设备进行拆解分析、调试接口识别、固件提取等工作，记录了硬件分析的全过程、漏洞细节以及相应的安全建议，希望能帮助提高物联网设备的安全性。</div>",
-            "url": "https://github.com/Victorique-123/CVE-2023-38829-NETIS-WF2409E_Report",
-            "title": "Victorique-123/CVE-2023-38829-NETIS-WF2409E_Report: 对NETIS WF2409E路由器进行的一次完整硬件安全分析研究。通过对设备进行拆解分析、调试接口识别、固件提取等工作，记录了硬件分析的全过程、漏洞细节以及相应的安全建议，希望能帮助提高物联网设备的安全性。",
-            "date_modified": "2025-01-01T11:17:43.000Z",
-            "date_published": "2024-12-27T18:09:13.000Z",
-            "author": {
-                "name": "Victorique-123",
-                "url": "https://github.com/Victorique-123"
             }
         }
     ]
