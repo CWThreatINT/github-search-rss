@@ -6,6 +6,17 @@
     "description": "CVE-2021 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/16364955?u=b974594ceb1b162ef78a73a9368eab5978408a9d&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Exploit implementation for CVE-2021-21551</div>",
+            "url": "https://github.com/IlanDudnik/CVE-2021-21551",
+            "title": "IlanDudnik/CVE-2021-21551: Exploit implementation for CVE-2021-21551",
+            "date_modified": "2025-01-12T11:49:34.000Z",
+            "date_published": "2025-01-11T12:18:40.000Z",
+            "author": {
+                "name": "IlanDudnik",
+                "url": "https://github.com/IlanDudnik"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/142067779?u=62e30f89b6e3f8d620fa1cfa357cbae59604ca43&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
             "url": "https://github.com/mercylessghost/CVE-2021-21974",
             "title": "mercylessghost/CVE-2021-21974",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "vm2mv",
                 "url": "https://github.com/vm2mv"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/352355?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
-            "url": "https://github.com/azhao1981/CVE-2021-29441",
-            "title": "azhao1981/CVE-2021-29441",
-            "date_modified": "2024-12-04T06:56:15.000Z",
-            "date_published": "2024-12-04T06:55:24.000Z",
-            "author": {
-                "name": "azhao1981",
-                "url": "https://github.com/azhao1981"
             }
         }
     ]
