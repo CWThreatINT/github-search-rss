@@ -6,6 +6,17 @@
     "description": "CVE-2021 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/103281826?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Exploit for CVE-2021-22204 (ExifTool) - Arbitrary Code Execution</div>",
+            "url": "https://github.com/UNICORDev/exploit-CVE-2021-22204",
+            "title": "UNICORDev/exploit-CVE-2021-22204: Exploit for CVE-2021-22204 (ExifTool) - Arbitrary Code Execution",
+            "date_modified": "2025-01-14T18:36:38.000Z",
+            "date_published": "2022-04-16T22:49:47.000Z",
+            "author": {
+                "name": "UNICORDev",
+                "url": "https://github.com/UNICORDev"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/16364955?u=b974594ceb1b162ef78a73a9368eab5978408a9d&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Exploit implementation for CVE-2021-21551</div>",
             "url": "https://github.com/IlanDudnik/CVE-2021-21551",
             "title": "IlanDudnik/CVE-2021-21551: Exploit implementation for CVE-2021-21551",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "Prabesh01",
                 "url": "https://github.com/Prabesh01"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/4291086?u=3c2a8af8255977307a6e8a5a0f73cf2216930d00&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>TinyXML 2.6.2 with fixes for CVE-2021-42260 and CVE-2023-34194</div>",
-            "url": "https://github.com/vm2mv/tinyxml",
-            "title": "vm2mv/tinyxml: TinyXML 2.6.2 with fixes for CVE-2021-42260 and CVE-2023-34194",
-            "date_modified": "2024-12-04T09:14:12.000Z",
-            "date_published": "2024-12-04T07:24:59.000Z",
-            "author": {
-                "name": "vm2mv",
-                "url": "https://github.com/vm2mv"
             }
         }
     ]
