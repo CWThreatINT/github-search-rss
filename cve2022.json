@@ -6,6 +6,17 @@
     "description": "CVE-2022 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/103281826?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Exploit for CVE-2022–25765 (pdfkit) - Command Injection</div>",
+            "url": "https://github.com/UNICORDev/exploit-CVE-2022-25765",
+            "title": "UNICORDev/exploit-CVE-2022-25765: Exploit for CVE-2022–25765 (pdfkit) - Command Injection",
+            "date_modified": "2025-01-15T15:52:49.000Z",
+            "date_published": "2023-02-10T00:50:35.000Z",
+            "author": {
+                "name": "UNICORDev",
+                "url": "https://github.com/UNICORDev"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/34680708?u=4542a9b743c27ba697767459e243b2eb53a56461&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
             "url": "https://github.com/Asbatel/CBDS_CVE-2022-0847_POC",
             "title": "Asbatel/CBDS_CVE-2022-0847_POC",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "d3ndr1t30x",
                 "url": "https://github.com/d3ndr1t30x"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/25670930?u=6fad2f13c751b51fd47e377945d79369743f5948&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2022-31144 dos pt redis, not finished yet or too soon, this can be turned into rce but oh well if you smart enough</div>",
-            "url": "https://github.com/SpiralBL0CK/CVE-2022-31144",
-            "title": "SpiralBL0CK/CVE-2022-31144: CVE-2022-31144 dos pt redis, not finished yet or too soon, this can be turned into rce but oh well if you smart enough",
-            "date_modified": "2024-12-21T15:37:06.000Z",
-            "date_published": "2023-02-03T08:40:38.000Z",
-            "author": {
-                "name": "SpiralBL0CK",
-                "url": "https://github.com/SpiralBL0CK"
             }
         }
     ]
