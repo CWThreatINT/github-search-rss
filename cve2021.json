@@ -6,17 +6,6 @@
     "description": "CVE-2021 FEED on GitHub",
     "items": [
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/37812681?u=a02fbe629772fb5a69aab9e2fa77dbaff5a3a60a&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Results of my research I have done on CVE-2021-30481 and on wallhacks in the videogame Counter-Strike 2</div>",
-            "url": "https://github.com/JHVIW/jhviw.github.io",
-            "title": "JHVIW/jhviw.github.io: Results of my research I have done on CVE-2021-30481 and on wallhacks in the videogame Counter-Strike 2",
-            "date_modified": "2025-01-16T01:26:56.000Z",
-            "date_published": "2024-05-31T09:43:39.000Z",
-            "author": {
-                "name": "JHVIW",
-                "url": "https://github.com/JHVIW"
-            }
-        },
-        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/103281826?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Exploit for CVE-2021-22204 (ExifTool) - Arbitrary Code Execution</div>",
             "url": "https://github.com/UNICORDev/exploit-CVE-2021-22204",
             "title": "UNICORDev/exploit-CVE-2021-22204: Exploit for CVE-2021-22204 (ExifTool) - Arbitrary Code Execution",
@@ -223,6 +212,17 @@
             "author": {
                 "name": "Prabesh01",
                 "url": "https://github.com/Prabesh01"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/4291086?u=3c2a8af8255977307a6e8a5a0f73cf2216930d00&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>TinyXML 2.6.2 with fixes for CVE-2021-42260 and CVE-2023-34194</div>",
+            "url": "https://github.com/vm2mv/tinyxml",
+            "title": "vm2mv/tinyxml: TinyXML 2.6.2 with fixes for CVE-2021-42260 and CVE-2023-34194",
+            "date_modified": "2024-12-04T09:14:12.000Z",
+            "date_published": "2024-12-04T07:24:59.000Z",
+            "author": {
+                "name": "vm2mv",
+                "url": "https://github.com/vm2mv"
             }
         }
     ]
