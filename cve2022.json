@@ -6,10 +6,21 @@
     "description": "CVE-2022 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/69421356?u=e30c42f5cd4f06ff2851e05d22fb914d6ab4f843&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Proof of concept for CVE-2022-31814</div>",
+            "url": "https://github.com/Inplex-sys/CVE-2022-31814",
+            "title": "Inplex-sys/CVE-2022-31814: Proof of concept for CVE-2022-31814",
+            "date_modified": "2025-01-16T14:01:17.000Z",
+            "date_published": "2025-01-16T13:59:45.000Z",
+            "author": {
+                "name": "Inplex-sys",
+                "url": "https://github.com/Inplex-sys"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/83581293?u=62322d5e0825ae1ac03ec99a7f07410bcaf985d5&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Research repository tracking affected IPs from the Fortigate CVE-2022-40684 configuration leak by Belsen Group</div>",
             "url": "https://github.com/arsolutioner/fortigate-belsen-leak",
             "title": "arsolutioner/fortigate-belsen-leak: Research repository tracking affected IPs from the Fortigate CVE-2022-40684 configuration leak by Belsen Group",
-            "date_modified": "2025-01-16T12:17:09.000Z",
+            "date_modified": "2025-01-16T13:42:12.000Z",
             "date_published": "2025-01-16T06:54:15.000Z",
             "author": {
                 "name": "arsolutioner",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "cyber-defence-campus",
                 "url": "https://github.com/cyber-defence-campus"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/54827262?u=fff99206033a42e1ff27bc613c7221dd6cae3ad1&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>harbor unauthorized detection</div>",
-            "url": "https://github.com/404tk/CVE-2022-46463",
-            "title": "404tk/CVE-2022-46463: harbor unauthorized detection",
-            "date_modified": "2025-01-03T04:33:54.000Z",
-            "date_published": "2023-03-21T10:40:19.000Z",
-            "author": {
-                "name": "404tk",
-                "url": "https://github.com/404tk"
             }
         }
     ]
