@@ -94,6 +94,17 @@
             }
         },
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/86009160?u=b774578387fb2e4255f321f4d09dded1f7521846&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>POC of CVE-2022-36537</div>",
+            "url": "https://github.com/Malwareman007/CVE-2022-36537",
+            "title": "Malwareman007/CVE-2022-36537: POC of CVE-2022-36537",
+            "date_modified": "2025-01-17T00:56:17.000Z",
+            "date_published": "2022-12-09T14:15:52.000Z",
+            "author": {
+                "name": "Malwareman007",
+                "url": "https://github.com/Malwareman007"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/104143246?u=d90eb5b5a3ab7d0f7cb77138af5d3e2fd61a4752&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>The **Dirty Pipe exploit (CVE-2022-0847)** is a Linux kernel vulnerability (v5.8+) allowing unprivileged attackers to overwrite arbitrary files via a flaw in the pipe mechanism. This leads to privilege escalation, granting root access. Similar to Dirty Cow but easier to exploit. Fix: Update to a patched kernel version.</div>",
             "url": "https://github.com/mithunmadhukuttan/Dirty-Pipe-Exploit",
             "title": "mithunmadhukuttan/Dirty-Pipe-Exploit: The **Dirty Pipe exploit (CVE-2022-0847)** is a Linux kernel vulnerability (v5.8+) allowing unprivileged attackers to overwrite arbitrary files via a flaw in the pipe mechanism. This leads to privilege escalation, granting root access. Similar to Dirty Cow but easier to exploit. Fix: Update to a patched kernel version.",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "Aur3ns",
                 "url": "https://github.com/Aur3ns"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/77766318?u=e000a0fbba0c3f373a8486f465ad05bf3354e89c&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE to CTF FP</div>",
-            "url": "https://github.com/Shayz614/CVE-2022-22963",
-            "title": "Shayz614/CVE-2022-22963: CVE to CTF FP",
-            "date_modified": "2024-12-13T22:56:47.000Z",
-            "date_published": "2024-12-13T22:54:28.000Z",
-            "author": {
-                "name": "Shayz614",
-                "url": "https://github.com/Shayz614"
             }
         }
     ]
