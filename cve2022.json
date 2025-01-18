@@ -6,6 +6,17 @@
     "description": "CVE-2022 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/58637001?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Research repository tracking affected IPs from the Fortigate CVE-2022-40684 configuration leak by Belsen Group</div>",
+            "url": "https://github.com/AKboss1221/fortigate-belsen-leak",
+            "title": "AKboss1221/fortigate-belsen-leak: Research repository tracking affected IPs from the Fortigate CVE-2022-40684 configuration leak by Belsen Group",
+            "date_modified": "2025-01-18T15:53:31.000Z",
+            "date_published": "2025-01-18T15:32:21.000Z",
+            "author": {
+                "name": "AKboss1221",
+                "url": "https://github.com/AKboss1221"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/45449541?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A PoC for CVE-2022-34169, for the SU_PWN challenge from SUCTF 2025</div>",
             "url": "https://github.com/Disnaming/CVE-2022-34169",
             "title": "Disnaming/CVE-2022-34169: A PoC for CVE-2022-34169, for the SU_PWN challenge from SUCTF 2025",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "wubinworks",
                 "url": "https://github.com/wubinworks"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/25670930?u=6fad2f13c751b51fd47e377945d79369743f5948&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>poc for CVE-2022-32981 under work</div>",
-            "url": "https://github.com/SpiralBL0CK/CVE-2022-32981",
-            "title": "SpiralBL0CK/CVE-2022-32981: poc for CVE-2022-32981 under work",
-            "date_modified": "2024-12-20T20:37:02.000Z",
-            "date_published": "2024-12-19T21:15:39.000Z",
-            "author": {
-                "name": "SpiralBL0CK",
-                "url": "https://github.com/SpiralBL0CK"
             }
         }
     ]
