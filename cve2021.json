@@ -105,17 +105,6 @@
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/34338605?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
-            "url": "https://github.com/JanICT/poc-ldap-cve-2021-44228",
-            "title": "JanICT/poc-ldap-cve-2021-44228",
-            "date_modified": "2025-01-03T10:15:21.000Z",
-            "date_published": "2025-01-03T10:15:17.000Z",
-            "author": {
-                "name": "JanICT",
-                "url": "https://github.com/JanICT"
-            }
-        },
-        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/3603819?u=270f6b5907bf400f4b84c54287082c322b305572&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Precompiled lib3mf.dll for MeshMixer which includes a backported patch for CVE-2021-21772 and zlib 1.3.1</div>",
             "url": "https://github.com/3dluvr/New-lib3mf.dll-for-MeshMixer",
             "title": "3dluvr/New-lib3mf.dll-for-MeshMixer: Precompiled lib3mf.dll for MeshMixer which includes a backported patch for CVE-2021-21772 and zlib 1.3.1",
@@ -223,6 +212,17 @@
             "author": {
                 "name": "vm2mv",
                 "url": "https://github.com/vm2mv"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/352355?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
+            "url": "https://github.com/azhao1981/CVE-2021-29441",
+            "title": "azhao1981/CVE-2021-29441",
+            "date_modified": "2024-12-04T06:56:15.000Z",
+            "date_published": "2024-12-04T06:55:24.000Z",
+            "author": {
+                "name": "azhao1981",
+                "url": "https://github.com/azhao1981"
             }
         }
     ]
