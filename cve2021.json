@@ -6,6 +6,17 @@
     "description": "CVE-2021 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/131647136?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Compiled CVE-2021-1732(WIndows XP-10(till 20H1) LPE)</div>",
+            "url": "https://github.com/Sausageinforest/CVE-2021-1732",
+            "title": "Sausageinforest/CVE-2021-1732: Compiled CVE-2021-1732(WIndows XP-10(till 20H1) LPE)",
+            "date_modified": "2025-01-20T17:51:09.000Z",
+            "date_published": "2025-01-20T17:50:48.000Z",
+            "author": {
+                "name": "Sausageinforest",
+                "url": "https://github.com/Sausageinforest"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/48591714?u=a7c0a48debf22a3c6ec2c16d6f02495481356b83&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>调试环境</div>",
             "url": "https://github.com/ZacharyZcR/CVE-2021-44228",
             "title": "ZacharyZcR/CVE-2021-44228: 调试环境",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "Prabesh01",
                 "url": "https://github.com/Prabesh01"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/4291086?u=3c2a8af8255977307a6e8a5a0f73cf2216930d00&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>TinyXML 2.6.2 with fixes for CVE-2021-42260 and CVE-2023-34194</div>",
-            "url": "https://github.com/vm2mv/tinyxml",
-            "title": "vm2mv/tinyxml: TinyXML 2.6.2 with fixes for CVE-2021-42260 and CVE-2023-34194",
-            "date_modified": "2024-12-04T09:14:12.000Z",
-            "date_published": "2024-12-04T07:24:59.000Z",
-            "author": {
-                "name": "vm2mv",
-                "url": "https://github.com/vm2mv"
             }
         }
     ]
