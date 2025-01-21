@@ -6,6 +6,17 @@
     "description": "CVE-2021 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/195047242?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Check Point Security Gateways RCE via CVE-2021-40438</div>",
+            "url": "https://github.com/element-security/check-point-gateways-rce",
+            "title": "element-security/check-point-gateways-rce: Check Point Security Gateways RCE via CVE-2021-40438",
+            "date_modified": "2025-01-21T16:03:59.000Z",
+            "date_published": "2025-01-21T13:16:24.000Z",
+            "author": {
+                "name": "element-security",
+                "url": "https://github.com/element-security"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/131647136?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Compiled CVE-2021-1732(WIndows XP-10(till 20H1) LPE)</div>",
             "url": "https://github.com/Sausageinforest/CVE-2021-1732",
             "title": "Sausageinforest/CVE-2021-1732: Compiled CVE-2021-1732(WIndows XP-10(till 20H1) LPE)",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "z3usx01",
                 "url": "https://github.com/z3usx01"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/51240439?u=63030ad86383a3541fba9f35b70139342b28acf8&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Modified version of laravel ignition RCE (CVE-2021-3129) exploit script for Hour of Hack Session-4</div>",
-            "url": "https://github.com/Prabesh01/hoh4",
-            "title": "Prabesh01/hoh4: Modified version of laravel ignition RCE (CVE-2021-3129) exploit script for Hour of Hack Session-4",
-            "date_modified": "2024-12-04T19:32:49.000Z",
-            "date_published": "2024-12-04T17:04:03.000Z",
-            "author": {
-                "name": "Prabesh01",
-                "url": "https://github.com/Prabesh01"
             }
         }
     ]
