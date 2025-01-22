@@ -6,6 +6,17 @@
     "description": "CVE-2021 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/36505047?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>An automated, reliable scanner for the Log4Shell (CVE-2021-44228) vulnerability.</div>",
+            "url": "https://github.com/redhuntlabs/Log4JHunt",
+            "title": "redhuntlabs/Log4JHunt: An automated, reliable scanner for the Log4Shell (CVE-2021-44228) vulnerability.",
+            "date_modified": "2025-01-22T10:50:11.000Z",
+            "date_published": "2021-12-15T12:07:05.000Z",
+            "author": {
+                "name": "redhuntlabs",
+                "url": "https://github.com/redhuntlabs"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/195047242?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Check Point Security Gateways RCE via CVE-2021-40438</div>",
             "url": "https://github.com/element-security/check-point-gateways-rce",
             "title": "element-security/check-point-gateways-rce: Check Point Security Gateways RCE via CVE-2021-40438",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "mynameSumin",
                 "url": "https://github.com/mynameSumin"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/112891506?u=bd91a748b37e850d47a421a2431ef988622ffcc2&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>The issue only affects nginx if the \"resolver\" directive is used in the configuration file. Further, the attack is only possible if an attacker is able to forge UDP packets from the DNS server.</div>",
-            "url": "https://github.com/z3usx01/CVE-2021-23017-POC",
-            "title": "z3usx01/CVE-2021-23017-POC: The issue only affects nginx if the \"resolver\" directive is used in the configuration file. Further, the attack is only possible if an attacker is able to forge UDP packets from the DNS server.",
-            "date_modified": "2025-01-04T18:06:33.000Z",
-            "date_published": "2024-12-08T09:47:52.000Z",
-            "author": {
-                "name": "z3usx01",
-                "url": "https://github.com/z3usx01"
             }
         }
     ]
