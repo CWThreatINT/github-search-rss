@@ -6,10 +6,21 @@
     "description": "CVE-2023 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/187150128?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>poc for CVE-2023-40448  (under construction) ,This could probably be a piece for a jailbreak</div>",
+            "url": "https://github.com/w0wbox/CVE-2023-40448",
+            "title": "w0wbox/CVE-2023-40448: poc for CVE-2023-40448  (under construction) ,This could probably be a piece for a jailbreak",
+            "date_modified": "2025-01-31T00:26:05.000Z",
+            "date_published": "2025-01-31T00:23:37.000Z",
+            "author": {
+                "name": "w0wbox",
+                "url": "https://github.com/w0wbox"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/18195825?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023</div>",
             "url": "https://github.com/CVEProject/cvelist",
             "title": "CVEProject/cvelist: Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023",
-            "date_modified": "2025-01-30T23:00:43.000Z",
+            "date_modified": "2025-01-31T00:00:42.000Z",
             "date_published": "2020-11-02T19:30:55.000Z",
             "author": {
                 "name": "CVEProject",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "hatjwe",
                 "url": "https://github.com/hatjwe"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/51722811?u=a195458fc64bade6e8616d1d5c43883f0abde0c0&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Subscribe to Category &lt;= 2.7.4 - Unauthenticated SQL Injection</div>",
-            "url": "https://github.com/RandomRobbieBF/CVE-2023-32590",
-            "title": "RandomRobbieBF/CVE-2023-32590: Subscribe to Category <= 2.7.4 - Unauthenticated SQL Injection",
-            "date_modified": "2025-01-14T12:42:54.000Z",
-            "date_published": "2025-01-12T09:03:52.000Z",
-            "author": {
-                "name": "RandomRobbieBF",
-                "url": "https://github.com/RandomRobbieBF"
             }
         }
     ]
