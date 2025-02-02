@@ -9,11 +9,33 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/18195825?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023</div>",
             "url": "https://github.com/CVEProject/cvelist",
             "title": "CVEProject/cvelist: Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023",
-            "date_modified": "2025-02-01T23:00:42.000Z",
+            "date_modified": "2025-02-02T02:00:42.000Z",
             "date_published": "2020-11-02T19:30:55.000Z",
             "author": {
                 "name": "CVEProject",
                 "url": "https://github.com/CVEProject"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/69885253?u=3df0eca6e5167051b594246ce32c07d35f086b68&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Exploit for CVE-2023-26326 in the WordPress BuddyForms plugin, leveraging CVE-2024-2961 for remote code execution. This exploit bypasses PHP 8+ deserialization limitations by chaining vulnerabilities with php://filter.</div>",
+            "url": "https://github.com/omarelshopky/exploit_cve-2023-26326_using_cve-2024-2961",
+            "title": "omarelshopky/exploit_cve-2023-26326_using_cve-2024-2961: Exploit for CVE-2023-26326 in the WordPress BuddyForms plugin, leveraging CVE-2024-2961 for remote code execution. This exploit bypasses PHP 8+ deserialization limitations by chaining vulnerabilities with php://filter.",
+            "date_modified": "2025-02-02T01:50:31.000Z",
+            "date_published": "2025-02-02T01:35:43.000Z",
+            "author": {
+                "name": "omarelshopky",
+                "url": "https://github.com/omarelshopky"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/151980876?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>TOP All bugbounty pentesting CVE-2023- POC Exp  RCE example payload  Things</div>",
+            "url": "https://github.com/GhostTroops/TOP",
+            "title": "GhostTroops/TOP: TOP All bugbounty pentesting CVE-2023- POC Exp  RCE example payload  Things",
+            "date_modified": "2025-02-02T01:06:04.000Z",
+            "date_published": "2022-03-19T01:54:15.000Z",
+            "author": {
+                "name": "GhostTroops",
+                "url": "https://github.com/GhostTroops"
             }
         },
         {
@@ -25,17 +47,6 @@
             "author": {
                 "name": "harithlab",
                 "url": "https://github.com/harithlab"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/151980876?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>TOP All bugbounty pentesting CVE-2023- POC Exp  RCE example payload  Things</div>",
-            "url": "https://github.com/GhostTroops/TOP",
-            "title": "GhostTroops/TOP: TOP All bugbounty pentesting CVE-2023- POC Exp  RCE example payload  Things",
-            "date_modified": "2025-02-01T01:06:25.000Z",
-            "date_published": "2022-03-19T01:54:15.000Z",
-            "author": {
-                "name": "GhostTroops",
-                "url": "https://github.com/GhostTroops"
             }
         },
         {
@@ -212,17 +223,6 @@
             "author": {
                 "name": "mrmtwoj",
                 "url": "https://github.com/mrmtwoj"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/2202542?u=c204fdc6f1a34e70bf30e80fae126e3d5f338f77&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Parses the System Snapshot from an Ivanti Connect Secure applicance to identify possible IOCs related to CVE-2023-46805, CVE-2024-21887 and CVE-2025-0282.</div>",
-            "url": "https://github.com/rxwx/pulse-meter",
-            "title": "rxwx/pulse-meter: Parses the System Snapshot from an Ivanti Connect Secure applicance to identify possible IOCs related to CVE-2023-46805, CVE-2024-21887 and CVE-2025-0282.",
-            "date_modified": "2025-01-14T22:44:39.000Z",
-            "date_published": "2025-01-14T12:54:19.000Z",
-            "author": {
-                "name": "rxwx",
-                "url": "https://github.com/rxwx"
             }
         }
     ]
