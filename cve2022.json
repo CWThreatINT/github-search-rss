@@ -6,6 +6,17 @@
     "description": "CVE-2022 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/169728520?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>In this challenge, I analyzed the Spring4Shell (CVE-2022-22965) vulnerability, investigated security bypasses, and wrote an Incident Postmortem Report detailing the detection, impact, and resolution of the attack. I also implemented a firewall rule in Python to block malicious requests and prevent future exploitation.</div>",
+            "url": "https://github.com/jashan-lefty/Spring4Shell",
+            "title": "jashan-lefty/Spring4Shell: In this challenge, I analyzed the Spring4Shell (CVE-2022-22965) vulnerability, investigated security bypasses, and wrote an Incident Postmortem Report detailing the detection, impact, and resolution of the attack. I also implemented a firewall rule in Python to block malicious requests and prevent future exploitation.",
+            "date_modified": "2025-02-03T10:33:56.000Z",
+            "date_published": "2025-02-03T10:32:07.000Z",
+            "author": {
+                "name": "jashan-lefty",
+                "url": "https://github.com/jashan-lefty"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/15044840?u=20bae544a1b294836fd9acbbada5a3dc1b47caf8&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>PoC of CVE-2022-20474</div>",
             "url": "https://github.com/cxxsheng/CVE-2022-20474",
             "title": "cxxsheng/CVE-2022-20474: PoC of CVE-2022-20474",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "0xDTC",
                 "url": "https://github.com/0xDTC"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/12976017?u=6d3d423fda6a56643a0ca1acae5223cdf08a3c28&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Let's control Secure Boot Chain ourselves.</div>",
-            "url": "https://github.com/TomKing062/CVE-2022-38691_38692",
-            "title": "TomKing062/CVE-2022-38691_38692: Let's control Secure Boot Chain ourselves.",
-            "date_modified": "2025-01-30T18:30:41.000Z",
-            "date_published": "2023-12-01T07:32:18.000Z",
-            "author": {
-                "name": "TomKing062",
-                "url": "https://github.com/TomKing062"
             }
         }
     ]
