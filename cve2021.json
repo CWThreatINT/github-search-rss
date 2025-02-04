@@ -182,17 +182,6 @@
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/194431326?u=0d8a510ac00b775ab1c04989fc922b8a49e35993&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>cve-2019-11248  cve-2020-1938 cve-2001-1473 cve-2021-31755 cve-2023-21716 cve-2024-5057</div>",
-            "url": "https://github.com/bash3rt3am/poc-cve",
-            "title": "bash3rt3am/poc-cve: cve-2019-11248  cve-2020-1938 cve-2001-1473 cve-2021-31755 cve-2023-21716 cve-2024-5057",
-            "date_modified": "2025-01-10T11:26:32.000Z",
-            "date_published": "2025-01-09T21:26:22.000Z",
-            "author": {
-                "name": "bash3rt3am",
-                "url": "https://github.com/bash3rt3am"
-            }
-        },
-        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/59393271?u=26be6be457c83a437e4446dcf7ebd4a42e2c9818&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A proof-of-concept for CVE-2021-41805 which is a vulnerability in HashiCorp Consul Enterprise allowing for Remote Code Execution (RCE) with escalated privileges.</div>",
             "url": "https://github.com/acfirthh/CVE-2021-41805",
             "title": "acfirthh/CVE-2021-41805: A proof-of-concept for CVE-2021-41805 which is a vulnerability in HashiCorp Consul Enterprise allowing for Remote Code Execution (RCE) with escalated privileges.",
@@ -223,6 +212,17 @@
             "author": {
                 "name": "fjh1997",
                 "url": "https://github.com/fjh1997"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/193509744?u=d0e174afc48f77490ad619ad0422bdd27c16b94b&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>MASS CVE-2021-41773</div>",
+            "url": "https://github.com/FakesiteSecurity/CVE-2021-41773",
+            "title": "FakesiteSecurity/CVE-2021-41773: MASS CVE-2021-41773",
+            "date_modified": "2025-01-03T20:14:15.000Z",
+            "date_published": "2025-01-03T20:13:52.000Z",
+            "author": {
+                "name": "FakesiteSecurity",
+                "url": "https://github.com/FakesiteSecurity"
             }
         }
     ]
