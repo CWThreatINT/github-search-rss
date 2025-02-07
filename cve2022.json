@@ -6,6 +6,17 @@
     "description": "CVE-2022 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/198144657?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>PoC of CVE-2022-30190</div>",
+            "url": "https://github.com/Potato-9257/CVE-2022-30190_page",
+            "title": "Potato-9257/CVE-2022-30190_page: PoC of CVE-2022-30190",
+            "date_modified": "2025-02-07T00:37:28.000Z",
+            "date_published": "2025-02-07T00:35:46.000Z",
+            "author": {
+                "name": "Potato-9257",
+                "url": "https://github.com/Potato-9257"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/127310257?u=1f1141f993fe4aa5ad18af5add59bad33200de0e&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Magento 2 patch for CVE-2022-24086, CVE-2022-24087. Fix the RCE vulnerability and related bugs by performing deep template variable escaping. If you cannot upgrade Magento or cannot apply the official patches, try this one.</div>",
             "url": "https://github.com/wubinworks/magento2-template-filter-patch",
             "title": "wubinworks/magento2-template-filter-patch: Magento 2 patch for CVE-2022-24086, CVE-2022-24087. Fix the RCE vulnerability and related bugs by performing deep template variable escaping. If you cannot upgrade Magento or cannot apply the official patches, try this one.",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "UNICORDev",
                 "url": "https://github.com/UNICORDev"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/34680708?u=4542a9b743c27ba697767459e243b2eb53a56461&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
-            "url": "https://github.com/Asbatel/CBDS_CVE-2022-0847_POC",
-            "title": "Asbatel/CBDS_CVE-2022-0847_POC",
-            "date_modified": "2025-01-12T11:29:30.000Z",
-            "date_published": "2022-06-30T13:07:55.000Z",
-            "author": {
-                "name": "Asbatel",
-                "url": "https://github.com/Asbatel"
             }
         }
     ]
