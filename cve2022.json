@@ -6,10 +6,10 @@
     "description": "CVE-2022 FEED on GitHub",
     "items": [
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/4262359?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>PoC para CVE-2022-4174_CVE-2022-41742 determinar si es vulnerable Nginx 1.22.1</div>",
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/4262359?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Este PoC permite determinar si un servidor Nginx en su versión 1.22.1 es vulnerable a ciertas vulnerabilidades conocidas</div>",
             "url": "https://github.com/moften/CVE-2022-4174_CVE-2022-41742",
-            "title": "moften/CVE-2022-4174_CVE-2022-41742: PoC para CVE-2022-4174_CVE-2022-41742 determinar si es vulnerable Nginx 1.22.1",
-            "date_modified": "2025-02-10T23:07:33.000Z",
+            "title": "moften/CVE-2022-4174_CVE-2022-41742: Este PoC permite determinar si un servidor Nginx en su versión 1.22.1 es vulnerable a ciertas vulnerabilidades conocidas",
+            "date_modified": "2025-02-10T23:12:48.000Z",
             "date_published": "2025-02-10T23:04:56.000Z",
             "author": {
                 "name": "moften",
