@@ -9,7 +9,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/55759090?u=9b574c3f8d33db46edb5616ef038213c99cc148a&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A flaw was found in pki-core. Access to external entities when parsing XML documents can lead to XML external entity (XXE) attacks. This flaw allows a remote attacker to potentially retrieve the content of arbitrary files by sending specially crafted HTTP requests.</div>",
             "url": "https://github.com/amitlttwo/CVE-2022-2414-Proof-Of-Concept",
             "title": "amitlttwo/CVE-2022-2414-Proof-Of-Concept: A flaw was found in pki-core. Access to external entities when parsing XML documents can lead to XML external entity (XXE) attacks. This flaw allows a remote attacker to potentially retrieve the content of arbitrary files by sending specially crafted HTTP requests.",
-            "date_modified": "2025-02-12T17:51:41.000Z",
+            "date_modified": "2025-02-12T18:34:33.000Z",
             "date_published": "2022-12-06T14:37:08.000Z",
             "author": {
                 "name": "amitlttwo",
