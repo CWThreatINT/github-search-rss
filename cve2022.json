@@ -6,6 +6,17 @@
     "description": "CVE-2022 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/9442294?u=f4d05feff84989b7d0be0a8ba8ec0c1f52e84f9b&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2022-39275 Setup and POC</div>",
+            "url": "https://github.com/omar2535/CVE-2022-39275",
+            "title": "omar2535/CVE-2022-39275: CVE-2022-39275 Setup and POC",
+            "date_modified": "2025-02-12T03:06:23.000Z",
+            "date_published": "2024-11-15T22:21:16.000Z",
+            "author": {
+                "name": "omar2535",
+                "url": "https://github.com/omar2535"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/6657270?u=6e86e69e91892c67607a092b1566a77bc710e446&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Full Chain Analysis of CVE-2022-4262, a non-trivial feedback slot type confusion in V8.</div>",
             "url": "https://github.com/bjrjk/CVE-2022-4262",
             "title": "bjrjk/CVE-2022-4262: Full Chain Analysis of CVE-2022-4262, a non-trivial feedback slot type confusion in V8.",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "Sausageinforest",
                 "url": "https://github.com/Sausageinforest"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/45449541?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A PoC for CVE-2022-34169, for the SU_PWN challenge from SUCTF 2025</div>",
-            "url": "https://github.com/Disnaming/CVE-2022-34169",
-            "title": "Disnaming/CVE-2022-34169: A PoC for CVE-2022-34169, for the SU_PWN challenge from SUCTF 2025",
-            "date_modified": "2025-01-18T01:53:47.000Z",
-            "date_published": "2025-01-17T15:32:37.000Z",
-            "author": {
-                "name": "Disnaming",
-                "url": "https://github.com/Disnaming"
             }
         }
     ]
