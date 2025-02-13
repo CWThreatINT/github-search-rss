@@ -9,11 +9,22 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/18195825?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023</div>",
             "url": "https://github.com/CVEProject/cvelist",
             "title": "CVEProject/cvelist: Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023",
-            "date_modified": "2025-02-13T02:00:44.000Z",
+            "date_modified": "2025-02-13T03:00:43.000Z",
             "date_published": "2020-11-02T19:30:55.000Z",
             "author": {
                 "name": "CVEProject",
                 "url": "https://github.com/CVEProject"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/135180323?u=c6f493b9fcaa4e96c41b1975db156af8cdbab35a&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
+            "url": "https://github.com/K9-Modz/CVE-2023-38873-G1",
+            "title": "K9-Modz/CVE-2023-38873-G1",
+            "date_modified": "2025-02-13T02:24:34.000Z",
+            "date_published": "2025-02-13T02:15:26.000Z",
+            "author": {
+                "name": "K9-Modz",
+                "url": "https://github.com/K9-Modz"
             }
         },
         {
@@ -212,17 +223,6 @@
             "author": {
                 "name": "zora-beep",
                 "url": "https://github.com/zora-beep"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/57932150?u=d3282ce28fc87925029a3b291d7a044df54e6e55&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>POC for CVE-2023-46442 Denial of Service vulnerability found within Soot</div>",
-            "url": "https://github.com/JAckLosingHeart/CVE-2023-46442_POC",
-            "title": "JAckLosingHeart/CVE-2023-46442_POC: POC for CVE-2023-46442 Denial of Service vulnerability found within Soot",
-            "date_modified": "2025-01-24T06:15:21.000Z",
-            "date_published": "2024-05-24T10:03:38.000Z",
-            "author": {
-                "name": "JAckLosingHeart",
-                "url": "https://github.com/JAckLosingHeart"
             }
         }
     ]
