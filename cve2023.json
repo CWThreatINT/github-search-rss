@@ -9,7 +9,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/18195825?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023</div>",
             "url": "https://github.com/CVEProject/cvelist",
             "title": "CVEProject/cvelist: Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023",
-            "date_modified": "2025-02-17T14:00:43.000Z",
+            "date_modified": "2025-02-17T15:00:45.000Z",
             "date_published": "2020-11-02T19:30:55.000Z",
             "author": {
                 "name": "CVEProject",
@@ -69,17 +69,6 @@
             "author": {
                 "name": "0nsec",
                 "url": "https://github.com/0nsec"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/135180323?u=c6f493b9fcaa4e96c41b1975db156af8cdbab35a&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
-            "url": "https://github.com/K9-Modz/CVE-2023-38873-G1",
-            "title": "K9-Modz/CVE-2023-38873-G1",
-            "date_modified": "2025-02-13T02:24:34.000Z",
-            "date_published": "2025-02-13T02:15:26.000Z",
-            "author": {
-                "name": "K9-Modz",
-                "url": "https://github.com/K9-Modz"
             }
         },
         {
@@ -223,6 +212,17 @@
             "author": {
                 "name": "harithlab",
                 "url": "https://github.com/harithlab"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/187150128?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>poc for CVE-2023-40448  (under construction) ,This could probably be a piece for a jailbreak</div>",
+            "url": "https://github.com/w0wbox/CVE-2023-40448",
+            "title": "w0wbox/CVE-2023-40448: poc for CVE-2023-40448  (under construction) ,This could probably be a piece for a jailbreak",
+            "date_modified": "2025-02-12T00:31:32.000Z",
+            "date_published": "2025-01-31T00:23:37.000Z",
+            "author": {
+                "name": "w0wbox",
+                "url": "https://github.com/w0wbox"
             }
         }
     ]
