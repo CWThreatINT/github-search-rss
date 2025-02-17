@@ -9,7 +9,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/18195825?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023</div>",
             "url": "https://github.com/CVEProject/cvelist",
             "title": "CVEProject/cvelist: Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023",
-            "date_modified": "2025-02-17T12:00:56.000Z",
+            "date_modified": "2025-02-17T13:00:43.000Z",
             "date_published": "2020-11-02T19:30:55.000Z",
             "author": {
                 "name": "CVEProject",
@@ -91,6 +91,17 @@
             "author": {
                 "name": "mesudmammad1",
                 "url": "https://github.com/mesudmammad1"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/50145679?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Exploitations scripts for CVE-2023-42791 and CVE-2024-23666.</div>",
+            "url": "https://github.com/synacktiv/CVE-2023-42791_CVE-2024-23666",
+            "title": "synacktiv/CVE-2023-42791_CVE-2024-23666: Exploitations scripts for CVE-2023-42791 and CVE-2024-23666.",
+            "date_modified": "2025-02-17T13:09:16.000Z",
+            "date_published": "2025-02-12T12:41:19.000Z",
+            "author": {
+                "name": "synacktiv",
+                "url": "https://github.com/synacktiv"
             }
         },
         {
@@ -212,17 +223,6 @@
             "author": {
                 "name": "harithlab",
                 "url": "https://github.com/harithlab"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/187150128?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>poc for CVE-2023-40448  (under construction) ,This could probably be a piece for a jailbreak</div>",
-            "url": "https://github.com/w0wbox/CVE-2023-40448",
-            "title": "w0wbox/CVE-2023-40448: poc for CVE-2023-40448  (under construction) ,This could probably be a piece for a jailbreak",
-            "date_modified": "2025-02-12T00:31:32.000Z",
-            "date_published": "2025-01-31T00:23:37.000Z",
-            "author": {
-                "name": "w0wbox",
-                "url": "https://github.com/w0wbox"
             }
         }
     ]
