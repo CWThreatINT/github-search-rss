@@ -9,11 +9,22 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/18195825?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023</div>",
             "url": "https://github.com/CVEProject/cvelist",
             "title": "CVEProject/cvelist: Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023",
-            "date_modified": "2025-02-19T07:00:49.000Z",
+            "date_modified": "2025-02-19T08:00:45.000Z",
             "date_published": "2020-11-02T19:30:55.000Z",
             "author": {
                 "name": "CVEProject",
                 "url": "https://github.com/CVEProject"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/25540162?u=ee1be6e710364993823be29024e953c7d13e6d00&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CISCO CVE POC SCRIPT</div>",
+            "url": "https://github.com/sohaibeb/CVE-2023-20198",
+            "title": "sohaibeb/CVE-2023-20198: CISCO CVE POC SCRIPT",
+            "date_modified": "2025-02-19T07:21:30.000Z",
+            "date_published": "2023-10-20T23:34:12.000Z",
+            "author": {
+                "name": "sohaibeb",
+                "url": "https://github.com/sohaibeb"
             }
         },
         {
@@ -212,17 +223,6 @@
             "author": {
                 "name": "0xDTC",
                 "url": "https://github.com/0xDTC"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/69885253?u=3df0eca6e5167051b594246ce32c07d35f086b68&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Exploit for CVE-2023-26326 in the WordPress BuddyForms plugin, leveraging CVE-2024-2961 for remote code execution. This exploit bypasses PHP 8+ deserialization limitations by chaining vulnerabilities with php://filter.</div>",
-            "url": "https://github.com/omarelshopky/exploit_cve-2023-26326_using_cve-2024-2961",
-            "title": "omarelshopky/exploit_cve-2023-26326_using_cve-2024-2961: Exploit for CVE-2023-26326 in the WordPress BuddyForms plugin, leveraging CVE-2024-2961 for remote code execution. This exploit bypasses PHP 8+ deserialization limitations by chaining vulnerabilities with php://filter.",
-            "date_modified": "2025-02-02T11:26:22.000Z",
-            "date_published": "2025-02-02T01:35:43.000Z",
-            "author": {
-                "name": "omarelshopky",
-                "url": "https://github.com/omarelshopky"
             }
         }
     ]
