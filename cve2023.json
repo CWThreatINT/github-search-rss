@@ -9,11 +9,22 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/18195825?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023</div>",
             "url": "https://github.com/CVEProject/cvelist",
             "title": "CVEProject/cvelist: Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023",
-            "date_modified": "2025-02-19T17:00:49.000Z",
+            "date_modified": "2025-02-19T18:00:45.000Z",
             "date_published": "2020-11-02T19:30:55.000Z",
             "author": {
                 "name": "CVEProject",
                 "url": "https://github.com/CVEProject"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/102930183?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>This report details exploiting Trickster via an XSS in PrestaShop (CVE-2024-34716) to gain www-data access, extracting database credentials for SSH as james. A root shell in Docker is obtained via ChangeDetection.io (CVE-2024-32651), revealing adam’s credentials, followed by root escalation with CVE-2023-47268 in PrusaSlicer.</div>",
+            "url": "https://github.com/TU-M/Trickster-HTB",
+            "title": "TU-M/Trickster-HTB: This report details exploiting Trickster via an XSS in PrestaShop (CVE-2024-34716) to gain www-data access, extracting database credentials for SSH as james. A root shell in Docker is obtained via ChangeDetection.io (CVE-2024-32651), revealing adam’s credentials, followed by root escalation with CVE-2023-47268 in PrusaSlicer.",
+            "date_modified": "2025-02-19T17:54:14.000Z",
+            "date_published": "2025-02-19T17:50:18.000Z",
+            "author": {
+                "name": "TU-M",
+                "url": "https://github.com/TU-M"
             }
         },
         {
@@ -212,17 +223,6 @@
             "author": {
                 "name": "chihyeonwon",
                 "url": "https://github.com/chihyeonwon"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/75975301?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
-            "url": "https://github.com/rehan6658/CVE-2023-40028",
-            "title": "rehan6658/CVE-2023-40028",
-            "date_modified": "2025-02-02T15:57:34.000Z",
-            "date_published": "2025-02-02T15:52:28.000Z",
-            "author": {
-                "name": "rehan6658",
-                "url": "https://github.com/rehan6658"
             }
         }
     ]
