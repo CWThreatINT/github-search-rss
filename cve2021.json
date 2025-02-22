@@ -6,6 +6,17 @@
     "description": "CVE-2021 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/114837630?u=5d2f4f15f37a28681dd93884be0b32a575f29819&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>On October 4, 2021, Apache HTTP Server Project released Security advisory on a Path traversal and File disclosure vulnerability in Apache HTTP Server 2.4.49 and 2.4.50 tracked as CVE-2021-41773 and CVE-2021-42013. In the advisory, Apache also highlighted “the issue is known to be exploited in the wild” and later it was identified that the vulnerabi</div>",
+            "url": "https://github.com/dream434/cve-2021-42013-apache",
+            "title": "dream434/cve-2021-42013-apache: On October 4, 2021, Apache HTTP Server Project released Security advisory on a Path traversal and File disclosure vulnerability in Apache HTTP Server 2.4.49 and 2.4.50 tracked as CVE-2021-41773 and CVE-2021-42013. In the advisory, Apache also highlighted “the issue is known to be exploited in the wild” and later it was identified that the vulnerabi",
+            "date_modified": "2025-02-22T19:20:57.000Z",
+            "date_published": "2024-07-16T00:12:18.000Z",
+            "author": {
+                "name": "dream434",
+                "url": "https://github.com/dream434"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/378596?u=df9ef4e3ac4a091a9bfcd0f19c14085a509eed7e&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Context of CVE-2021-26291 minimal replicator</div>",
             "url": "https://github.com/jpmartins/MinimalReproducer",
             "title": "jpmartins/MinimalReproducer: Context of CVE-2021-26291 minimal replicator",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "davidr-io",
                 "url": "https://github.com/davidr-io"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/36505047?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>An automated, reliable scanner for the Log4Shell (CVE-2021-44228) vulnerability.</div>",
-            "url": "https://github.com/redhuntlabs/Log4JHunt",
-            "title": "redhuntlabs/Log4JHunt: An automated, reliable scanner for the Log4Shell (CVE-2021-44228) vulnerability.",
-            "date_modified": "2025-01-22T10:50:11.000Z",
-            "date_published": "2021-12-15T12:07:05.000Z",
-            "author": {
-                "name": "redhuntlabs",
-                "url": "https://github.com/redhuntlabs"
             }
         }
     ]
