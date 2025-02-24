@@ -6,10 +6,21 @@
     "description": "CVE-2023 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/91299560?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Copy of the POC for CVE-2023-1545</div>",
+            "url": "https://github.com/zer0-dave/CVE-2023-1545-POC",
+            "title": "zer0-dave/CVE-2023-1545-POC: Copy of the POC for CVE-2023-1545",
+            "date_modified": "2025-02-24T18:08:24.000Z",
+            "date_published": "2025-02-24T18:01:07.000Z",
+            "author": {
+                "name": "zer0-dave",
+                "url": "https://github.com/zer0-dave"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/18195825?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023</div>",
             "url": "https://github.com/CVEProject/cvelist",
             "title": "CVEProject/cvelist: Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023",
-            "date_modified": "2025-02-24T17:00:45.000Z",
+            "date_modified": "2025-02-24T18:00:48.000Z",
             "date_published": "2020-11-02T19:30:55.000Z",
             "author": {
                 "name": "CVEProject",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "0nsec",
                 "url": "https://github.com/0nsec"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/93409405?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
-            "url": "https://github.com/mesudmammad1/CVE-2023-26326_Buddyform_exploit",
-            "title": "mesudmammad1/CVE-2023-26326_Buddyform_exploit",
-            "date_modified": "2025-02-12T15:34:20.000Z",
-            "date_published": "2025-02-12T15:31:21.000Z",
-            "author": {
-                "name": "mesudmammad1",
-                "url": "https://github.com/mesudmammad1"
             }
         }
     ]
