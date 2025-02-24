@@ -9,11 +9,22 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/18195825?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023</div>",
             "url": "https://github.com/CVEProject/cvelist",
             "title": "CVEProject/cvelist: Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023",
-            "date_modified": "2025-02-24T10:00:56.000Z",
+            "date_modified": "2025-02-24T11:01:00.000Z",
             "date_published": "2020-11-02T19:30:55.000Z",
             "author": {
                 "name": "CVEProject",
                 "url": "https://github.com/CVEProject"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/198534292?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Weblogic CVE-2023-21839 RCE (无需Java依赖一键RCE)</div>",
+            "url": "https://github.com/outgoingcon/CVE-2023-21839",
+            "title": "outgoingcon/CVE-2023-21839: Weblogic CVE-2023-21839 RCE (无需Java依赖一键RCE)",
+            "date_modified": "2025-02-24T10:26:34.000Z",
+            "date_published": "2025-02-24T10:26:25.000Z",
+            "author": {
+                "name": "outgoingcon",
+                "url": "https://github.com/outgoingcon"
             }
         },
         {
@@ -212,17 +223,6 @@
             "author": {
                 "name": "synacktiv",
                 "url": "https://github.com/synacktiv"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/192897302?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>In PHP version 8.0.* before 8.0.30,  8.1.* before 8.1.22, and 8.2.* before 8.2.8, when loading phar file, while reading PHAR directory entries, insufficient length checking may lead to a stack buffer overflow, leading potentially to memory corruption or RCE. </div>",
-            "url": "https://github.com/exploitdevelop/CVE-2023-3824",
-            "title": "exploitdevelop/CVE-2023-3824: In PHP version 8.0.* before 8.0.30,  8.1.* before 8.1.22, and 8.2.* before 8.2.8, when loading phar file, while reading PHAR directory entries, insufficient length checking may lead to a stack buffer overflow, leading potentially to memory corruption or RCE. ",
-            "date_modified": "2025-02-16T22:50:03.000Z",
-            "date_published": "2025-02-10T16:03:58.000Z",
-            "author": {
-                "name": "exploitdevelop",
-                "url": "https://github.com/exploitdevelop"
             }
         }
     ]
