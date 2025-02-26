@@ -9,11 +9,22 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/18195825?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023</div>",
             "url": "https://github.com/CVEProject/cvelist",
             "title": "CVEProject/cvelist: Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023",
-            "date_modified": "2025-02-26T18:00:46.000Z",
+            "date_modified": "2025-02-26T19:00:44.000Z",
             "date_published": "2020-11-02T19:30:55.000Z",
             "author": {
                 "name": "CVEProject",
                 "url": "https://github.com/CVEProject"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/31482416?u=76310553381584c2ce6f7968f6cf598cf6e186e8&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Analysis of a logic vulnerability in the macOS SSH client leading to client passphrase exposure to a local attacker</div>",
+            "url": "https://github.com/JamesD4/CVE-2023-42829",
+            "title": "JamesD4/CVE-2023-42829: Analysis of a logic vulnerability in the macOS SSH client leading to client passphrase exposure to a local attacker",
+            "date_modified": "2025-02-26T18:59:59.000Z",
+            "date_published": "2025-02-26T18:46:20.000Z",
+            "author": {
+                "name": "JamesD4",
+                "url": "https://github.com/JamesD4"
             }
         },
         {
@@ -212,17 +223,6 @@
             "author": {
                 "name": "sariamubeen",
                 "url": "https://github.com/sariamubeen"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/132650634?u=7997cf3d40eeb845b68199dbecac40626dc98ecc&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Explore CVE-2023-33580 (XSS) &amp; CVE-2023-33584 (SQLI) discovered by me. Dive into vulnerabilities and exploits for insights.</div>",
-            "url": "https://github.com/sudovivek/Published-CVE",
-            "title": "sudovivek/Published-CVE: Explore CVE-2023-33580 (XSS) & CVE-2023-33584 (SQLI) discovered by me. Dive into vulnerabilities and exploits for insights.",
-            "date_modified": "2025-02-17T10:03:11.000Z",
-            "date_published": "2025-02-16T08:05:50.000Z",
-            "author": {
-                "name": "sudovivek",
-                "url": "https://github.com/sudovivek"
             }
         }
     ]
