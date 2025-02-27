@@ -9,11 +9,33 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/18195825?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023</div>",
             "url": "https://github.com/CVEProject/cvelist",
             "title": "CVEProject/cvelist: Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023",
-            "date_modified": "2025-02-26T23:00:44.000Z",
+            "date_modified": "2025-02-27T02:00:43.000Z",
             "date_published": "2020-11-02T19:30:55.000Z",
             "author": {
                 "name": "CVEProject",
                 "url": "https://github.com/CVEProject"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/151980876?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>TOP All bugbounty pentesting CVE-2023- POC Exp  RCE example payload  Things</div>",
+            "url": "https://github.com/GhostTroops/TOP",
+            "title": "GhostTroops/TOP: TOP All bugbounty pentesting CVE-2023- POC Exp  RCE example payload  Things",
+            "date_modified": "2025-02-27T01:05:49.000Z",
+            "date_published": "2022-03-19T01:54:15.000Z",
+            "author": {
+                "name": "GhostTroops",
+                "url": "https://github.com/GhostTroops"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/198959961?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Proof of Concept for Path Traversal in Apache Struts (\"CVE-2023-50164\")</div>",
+            "url": "https://github.com/powerlesssta/cve-2023-50164-poc",
+            "title": "powerlesssta/cve-2023-50164-poc: Proof of Concept for Path Traversal in Apache Struts (\"CVE-2023-50164\")",
+            "date_modified": "2025-02-27T00:57:29.000Z",
+            "date_published": "2025-02-27T00:57:19.000Z",
+            "author": {
+                "name": "powerlesssta",
+                "url": "https://github.com/powerlesssta"
             }
         },
         {
@@ -25,17 +47,6 @@
             "author": {
                 "name": "JamesD4",
                 "url": "https://github.com/JamesD4"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/151980876?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>TOP All bugbounty pentesting CVE-2023- POC Exp  RCE example payload  Things</div>",
-            "url": "https://github.com/GhostTroops/TOP",
-            "title": "GhostTroops/TOP: TOP All bugbounty pentesting CVE-2023- POC Exp  RCE example payload  Things",
-            "date_modified": "2025-02-26T01:05:55.000Z",
-            "date_published": "2022-03-19T01:54:15.000Z",
-            "author": {
-                "name": "GhostTroops",
-                "url": "https://github.com/GhostTroops"
             }
         },
         {
@@ -212,17 +223,6 @@
             "author": {
                 "name": "vulncheck-oss",
                 "url": "https://github.com/vulncheck-oss"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/84678833?u=7a105482d3f5020f75fbe744b513414bd90daaac&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
-            "url": "https://github.com/sariamubeen/CVE-2023-7028",
-            "title": "sariamubeen/CVE-2023-7028",
-            "date_modified": "2025-02-22T16:23:05.000Z",
-            "date_published": "2025-02-17T02:15:26.000Z",
-            "author": {
-                "name": "sariamubeen",
-                "url": "https://github.com/sariamubeen"
             }
         }
     ]
