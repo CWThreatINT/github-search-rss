@@ -9,11 +9,22 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/18195825?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023</div>",
             "url": "https://github.com/CVEProject/cvelist",
             "title": "CVEProject/cvelist: Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023",
-            "date_modified": "2025-02-28T00:00:43.000Z",
+            "date_modified": "2025-02-28T02:00:45.000Z",
             "date_published": "2020-11-02T19:30:55.000Z",
             "author": {
                 "name": "CVEProject",
                 "url": "https://github.com/CVEProject"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/151980876?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>TOP All bugbounty pentesting CVE-2023- POC Exp  RCE example payload  Things</div>",
+            "url": "https://github.com/GhostTroops/TOP",
+            "title": "GhostTroops/TOP: TOP All bugbounty pentesting CVE-2023- POC Exp  RCE example payload  Things",
+            "date_modified": "2025-02-28T01:06:19.000Z",
+            "date_published": "2022-03-19T01:54:15.000Z",
+            "author": {
+                "name": "GhostTroops",
+                "url": "https://github.com/GhostTroops"
             }
         },
         {
@@ -83,28 +94,6 @@
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/151980876?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>TOP All bugbounty pentesting CVE-2023- POC Exp  RCE example payload  Things</div>",
-            "url": "https://github.com/GhostTroops/TOP",
-            "title": "GhostTroops/TOP: TOP All bugbounty pentesting CVE-2023- POC Exp  RCE example payload  Things",
-            "date_modified": "2025-02-27T13:26:40.000Z",
-            "date_published": "2022-03-19T01:54:15.000Z",
-            "author": {
-                "name": "GhostTroops",
-                "url": "https://github.com/GhostTroops"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/198959961?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Proof of Concept for Path Traversal in Apache Struts (\"CVE-2023-50164\")</div>",
-            "url": "https://github.com/powerlesssta/cve-2023-50164-poc",
-            "title": "powerlesssta/cve-2023-50164-poc: Proof of Concept for Path Traversal in Apache Struts (\"CVE-2023-50164\")",
-            "date_modified": "2025-02-27T00:57:29.000Z",
-            "date_published": "2025-02-27T00:57:19.000Z",
-            "author": {
-                "name": "powerlesssta",
-                "url": "https://github.com/powerlesssta"
-            }
-        },
-        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/31482416?u=76310553381584c2ce6f7968f6cf598cf6e186e8&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Analysis of a logic vulnerability in the macOS SSH client leading to client passphrase exposure to a local attacker</div>",
             "url": "https://github.com/JamesD4/CVE-2023-42829",
             "title": "JamesD4/CVE-2023-42829: Analysis of a logic vulnerability in the macOS SSH client leading to client passphrase exposure to a local attacker",
@@ -152,7 +141,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/198534292?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Weblogic CVE-2023-21839 RCE (无需Java依赖一键RCE)</div>",
             "url": "https://github.com/outgoingcon/CVE-2023-21839",
             "title": "outgoingcon/CVE-2023-21839: Weblogic CVE-2023-21839 RCE (无需Java依赖一键RCE)",
-            "date_modified": "2025-02-27T23:00:40.000Z",
+            "date_modified": "2025-02-28T02:05:02.000Z",
             "date_published": "2025-02-24T10:26:25.000Z",
             "author": {
                 "name": "outgoingcon",
@@ -223,6 +212,17 @@
             "author": {
                 "name": "sohaibeb",
                 "url": "https://github.com/sohaibeb"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/118796311?u=6576661dad3481d20a2fd8fa27c81d9f4ee4fe96&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>POC for CVE-2023-44487</div>",
+            "url": "https://github.com/BMG-Black-Magic/CVE-2023-44487",
+            "title": "BMG-Black-Magic/CVE-2023-44487: POC for CVE-2023-44487",
+            "date_modified": "2025-02-19T08:16:37.000Z",
+            "date_published": "2025-02-19T08:13:41.000Z",
+            "author": {
+                "name": "BMG-Black-Magic",
+                "url": "https://github.com/BMG-Black-Magic"
             }
         }
     ]
