@@ -6,6 +6,17 @@
     "description": "CVE-2022 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/103564619?u=770213e670855e68b33e4ee4450df84ed778d709&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>使用两种不同的角度实现对于CVE-2022-3910的利用</div>",
+            "url": "https://github.com/TLD1027/CVE-2022-3910",
+            "title": "TLD1027/CVE-2022-3910: 使用两种不同的角度实现对于CVE-2022-3910的利用",
+            "date_modified": "2025-03-03T08:55:04.000Z",
+            "date_published": "2024-07-26T02:21:08.000Z",
+            "author": {
+                "name": "TLD1027",
+                "url": "https://github.com/TLD1027"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/107627976?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Project on CVE-2022-30190 exploitation and mitigation strategies</div>",
             "url": "https://github.com/yeep1115/ICT287_CVE-2022-30190_Exploit",
             "title": "yeep1115/ICT287_CVE-2022-30190_Exploit: Project on CVE-2022-30190 exploitation and mitigation strategies",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "born0monday",
                 "url": "https://github.com/born0monday"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/127310257?u=1f1141f993fe4aa5ad18af5add59bad33200de0e&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Magento 2 patch for CVE-2022-24086, CVE-2022-24087. Fix the RCE vulnerability and related bugs by performing deep template variable escaping. If you cannot upgrade Magento or cannot apply the official patches, try this one.</div>",
-            "url": "https://github.com/wubinworks/magento2-template-filter-patch",
-            "title": "wubinworks/magento2-template-filter-patch: Magento 2 patch for CVE-2022-24086, CVE-2022-24087. Fix the RCE vulnerability and related bugs by performing deep template variable escaping. If you cannot upgrade Magento or cannot apply the official patches, try this one.",
-            "date_modified": "2025-02-06T01:56:52.000Z",
-            "date_published": "2024-11-25T06:56:05.000Z",
-            "author": {
-                "name": "wubinworks",
-                "url": "https://github.com/wubinworks"
             }
         }
     ]
