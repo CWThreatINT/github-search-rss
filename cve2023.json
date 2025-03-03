@@ -6,25 +6,47 @@
     "description": "CVE-2023 FEED on GitHub",
     "items": [
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/18195825?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023</div>",
-            "url": "https://github.com/CVEProject/cvelist",
-            "title": "CVEProject/cvelist: Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023",
-            "date_modified": "2025-03-03T12:00:43.000Z",
-            "date_published": "2020-11-02T19:30:55.000Z",
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/145666390?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
+            "url": "https://github.com/uthrasri/jetty-9.4.31.v20200723_CVE-2023-26049",
+            "title": "uthrasri/jetty-9.4.31.v20200723_CVE-2023-26049",
+            "date_modified": "2025-03-03T13:13:07.000Z",
+            "date_published": "2023-11-01T20:37:41.000Z",
             "author": {
-                "name": "CVEProject",
-                "url": "https://github.com/CVEProject"
+                "name": "uthrasri",
+                "url": "https://github.com/uthrasri"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/103935434?u=8b9f38949f61524d6864684c929168807e8a52c2&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>PoC MinIO vulnerability exploit</div>",
+            "url": "https://github.com/BitWiz4rd/CVE-2023-28432",
+            "title": "BitWiz4rd/CVE-2023-28432: PoC MinIO vulnerability exploit",
+            "date_modified": "2025-03-03T13:06:56.000Z",
+            "date_published": "2024-04-13T13:52:43.000Z",
+            "author": {
+                "name": "BitWiz4rd",
+                "url": "https://github.com/BitWiz4rd"
             }
         },
         {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/201157897?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>In the hushed galleries of the Silent JPG Exploit, a symphony shrouded in enigma unfurls—an opus named silent-jpg-exploit-2018—a title that reverberates through the annals of intrigue.</div>",
             "url": "https://github.com/Meters4/Jpg-Png-Exploit-Slient-Builder-Exploit-Database-Cve-2023-Malware",
             "title": "Meters4/Jpg-Png-Exploit-Slient-Builder-Exploit-Database-Cve-2023-Malware: In the hushed galleries of the Silent JPG Exploit, a symphony shrouded in enigma unfurls—an opus named silent-jpg-exploit-2018—a title that reverberates through the annals of intrigue.",
-            "date_modified": "2025-03-03T11:51:23.000Z",
+            "date_modified": "2025-03-03T13:05:33.000Z",
             "date_published": "2025-02-27T19:58:51.000Z",
             "author": {
                 "name": "Meters4",
                 "url": "https://github.com/Meters4"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/18195825?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023</div>",
+            "url": "https://github.com/CVEProject/cvelist",
+            "title": "CVEProject/cvelist: Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023",
+            "date_modified": "2025-03-03T13:00:44.000Z",
+            "date_published": "2020-11-02T19:30:55.000Z",
+            "author": {
+                "name": "CVEProject",
+                "url": "https://github.com/CVEProject"
             }
         },
         {
@@ -201,28 +223,6 @@
             "author": {
                 "name": "TU-M",
                 "url": "https://github.com/TU-M"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/25540162?u=ee1be6e710364993823be29024e953c7d13e6d00&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CISCO CVE POC SCRIPT</div>",
-            "url": "https://github.com/sohaibeb/CVE-2023-20198",
-            "title": "sohaibeb/CVE-2023-20198: CISCO CVE POC SCRIPT",
-            "date_modified": "2025-02-19T16:14:28.000Z",
-            "date_published": "2023-10-20T23:34:12.000Z",
-            "author": {
-                "name": "sohaibeb",
-                "url": "https://github.com/sohaibeb"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/118796311?u=6576661dad3481d20a2fd8fa27c81d9f4ee4fe96&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>POC for CVE-2023-44487</div>",
-            "url": "https://github.com/BMG-Black-Magic/CVE-2023-44487",
-            "title": "BMG-Black-Magic/CVE-2023-44487: POC for CVE-2023-44487",
-            "date_modified": "2025-02-19T08:16:37.000Z",
-            "date_published": "2025-02-19T08:13:41.000Z",
-            "author": {
-                "name": "BMG-Black-Magic",
-                "url": "https://github.com/BMG-Black-Magic"
             }
         }
     ]
