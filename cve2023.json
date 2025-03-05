@@ -6,10 +6,32 @@
     "description": "CVE-2023 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/157400039?u=0acc7d7e360be10bf6c70bd8e2b73d425e2ddb3f&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
+            "url": "https://github.com/Pixel-DefaultBR/CVE-2023-50164",
+            "title": "Pixel-DefaultBR/CVE-2023-50164",
+            "date_modified": "2025-03-05T12:08:50.000Z",
+            "date_published": "2025-03-05T12:01:55.000Z",
+            "author": {
+                "name": "Pixel-DefaultBR",
+                "url": "https://github.com/Pixel-DefaultBR"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/18195825?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023</div>",
+            "url": "https://github.com/CVEProject/cvelist",
+            "title": "CVEProject/cvelist: Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023",
+            "date_modified": "2025-03-05T12:00:47.000Z",
+            "date_published": "2020-11-02T19:30:55.000Z",
+            "author": {
+                "name": "CVEProject",
+                "url": "https://github.com/CVEProject"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/201157897?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>In the hushed galleries of the Silent JPG Exploit, a symphony shrouded in enigma unfurls—an opus named silent-jpg-exploit-2018—a title that reverberates through the annals of intrigue.</div>",
             "url": "https://github.com/Meters4/Jpg-Png-Exploit-Slient-Builder-Exploit-Database-Cve-2023-Malware",
             "title": "Meters4/Jpg-Png-Exploit-Slient-Builder-Exploit-Database-Cve-2023-Malware: In the hushed galleries of the Silent JPG Exploit, a symphony shrouded in enigma unfurls—an opus named silent-jpg-exploit-2018—a title that reverberates through the annals of intrigue.",
-            "date_modified": "2025-03-05T10:51:45.000Z",
+            "date_modified": "2025-03-05T11:51:00.000Z",
             "date_published": "2025-02-27T19:58:51.000Z",
             "author": {
                 "name": "Meters4",
@@ -17,14 +39,14 @@
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/18195825?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023</div>",
-            "url": "https://github.com/CVEProject/cvelist",
-            "title": "CVEProject/cvelist: Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023",
-            "date_modified": "2025-03-05T10:00:45.000Z",
-            "date_published": "2020-11-02T19:30:55.000Z",
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/199686068?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Weblogic CVE-2023-21839 RCE (无需Java依赖一键RCE)</div>",
+            "url": "https://github.com/juniorinter/CVE-2023-21839",
+            "title": "juniorinter/CVE-2023-21839: Weblogic CVE-2023-21839 RCE (无需Java依赖一键RCE)",
+            "date_modified": "2025-03-05T12:01:35.000Z",
+            "date_published": "2025-03-05T11:21:08.000Z",
             "author": {
-                "name": "CVEProject",
-                "url": "https://github.com/CVEProject"
+                "name": "juniorinter",
+                "url": "https://github.com/juniorinter"
             }
         },
         {
@@ -201,28 +223,6 @@
             "author": {
                 "name": "vivigotnotime",
                 "url": "https://github.com/vivigotnotime"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/114837630?u=36a31be15a3a7149d4c57269bd33d70a037e6ba8&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>spip</div>",
-            "url": "https://github.com/dream434/CVE-2023-27372",
-            "title": "dream434/CVE-2023-27372: spip",
-            "date_modified": "2025-02-23T10:04:21.000Z",
-            "date_published": "2023-07-01T17:08:36.000Z",
-            "author": {
-                "name": "dream434",
-                "url": "https://github.com/dream434"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/40535627?u=b637144a17274666c0180baaa77ea3b9b04b3975&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Example usage: exploit.sh <a href=\"http://site.com\" class=\"Link--inTextBlock\" rel=\"nofollow\">http://site.com</a></div>",
-            "url": "https://github.com/HarshRajSinghania/CVE-2023-1545-Exploit",
-            "title": "HarshRajSinghania/CVE-2023-1545-Exploit: Example usage: exploit.sh http://site.com",
-            "date_modified": "2025-02-22T20:17:52.000Z",
-            "date_published": "2025-02-22T20:15:54.000Z",
-            "author": {
-                "name": "HarshRajSinghania",
-                "url": "https://github.com/HarshRajSinghania"
             }
         }
     ]
