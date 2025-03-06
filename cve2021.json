@@ -6,17 +6,6 @@
     "description": "CVE-2021 FEED on GitHub",
     "items": [
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/76695257?u=9b85f5b26beb2c153fb02a07f1ec10d2293c0bdf&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A repo to emulate the APT28 espionage campaign from 2021 that abused CVE-2021-40444, including the patched exploit. You can run it on a non vulnerable machine and it will behave the same as back then. This repo is useful for purple teaming / detection engineering rule validation.</div>",
-            "url": "https://github.com/vxCrypt0r/APT28_Emulation_CVE-2021-40444",
-            "title": "vxCrypt0r/APT28_Emulation_CVE-2021-40444: A repo to emulate the APT28 espionage campaign from 2021 that abused CVE-2021-40444, including the patched exploit. You can run it on a non vulnerable machine and it will behave the same as back then. This repo is useful for purple teaming / detection engineering rule validation.",
-            "date_modified": "2025-03-06T13:20:49.000Z",
-            "date_published": "2025-03-06T13:16:12.000Z",
-            "author": {
-                "name": "vxCrypt0r",
-                "url": "https://github.com/vxCrypt0r"
-            }
-        },
-        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/25670930?u=6fad2f13c751b51fd47e377945d79369743f5948&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>POC DOS </div>",
             "url": "https://github.com/SpiralBL0CK/CVE2021-6051",
             "title": "SpiralBL0CK/CVE2021-6051: POC DOS ",
@@ -223,6 +212,17 @@
             "author": {
                 "name": "qw3rtyou",
                 "url": "https://github.com/qw3rtyou"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/196255514?u=557f575cadaeebcd2942cf415b6489bce8677d72&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>This repository contains a Proof-of-Concept for the CVE-2021-41773. This CVE contains a LFI and RCE vulnerablity.</div>",
+            "url": "https://github.com/tiemio/SSH-key-and-RCE-PoC-for-CVE-2021-41773",
+            "title": "tiemio/SSH-key-and-RCE-PoC-for-CVE-2021-41773: This repository contains a Proof-of-Concept for the CVE-2021-41773. This CVE contains a LFI and RCE vulnerablity.",
+            "date_modified": "2025-02-02T22:19:10.000Z",
+            "date_published": "2025-02-02T20:36:23.000Z",
+            "author": {
+                "name": "tiemio",
+                "url": "https://github.com/tiemio"
             }
         }
     ]
