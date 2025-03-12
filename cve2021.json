@@ -6,6 +6,17 @@
     "description": "CVE-2021 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/62601891?u=647fb100a9a1ec1a85f35e269067ccd29c5f21f8&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Apache Druid 远程代码执行复现（CVE-2021-25646）</div>",
+            "url": "https://github.com/gps1949/CVE-2021-25646",
+            "title": "gps1949/CVE-2021-25646: Apache Druid 远程代码执行复现（CVE-2021-25646）",
+            "date_modified": "2025-03-12T07:05:19.000Z",
+            "date_published": "2025-03-12T06:44:16.000Z",
+            "author": {
+                "name": "gps1949",
+                "url": "https://github.com/gps1949"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/58906858?u=e04c372e14a1c72a58ae8fbd79dffc1458e4ebb7&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2021-44228</div>",
             "url": "https://github.com/chihyeonwon/Log4shell",
             "title": "chihyeonwon/Log4shell: CVE-2021-44228",
@@ -53,7 +64,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/199847699?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Tool that runs a test to check whether one of your applications is affected by the recent vulnerabilities in log4j: CVE-2021-44228 and CVE-2021-45046 cve-2021-44228, cve-2021-45046, dns, jndi, ldap, log4j, log4shell</div>",
             "url": "https://github.com/surprisedmo/log4shell-tools",
             "title": "surprisedmo/log4shell-tools: Tool that runs a test to check whether one of your applications is affected by the recent vulnerabilities in log4j: CVE-2021-44228 and CVE-2021-45046 cve-2021-44228, cve-2021-45046, dns, jndi, ldap, log4j, log4shell",
-            "date_modified": "2025-03-12T05:25:35.000Z",
+            "date_modified": "2025-03-12T07:02:01.000Z",
             "date_published": "2025-03-10T19:19:14.000Z",
             "author": {
                 "name": "surprisedmo",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "WHS-SEGFAULT",
                 "url": "https://github.com/WHS-SEGFAULT"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/81207744?u=afa8308ebbd9cfb0d04945ea81fcaf992a6a7ffe&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>POC for CVE-2021-44967: LimeSurvey RCE</div>",
-            "url": "https://github.com/godylockz/CVE-2021-44967",
-            "title": "godylockz/CVE-2021-44967: POC for CVE-2021-44967: LimeSurvey RCE",
-            "date_modified": "2025-02-20T07:34:10.000Z",
-            "date_published": "2025-02-17T04:55:23.000Z",
-            "author": {
-                "name": "godylockz",
-                "url": "https://github.com/godylockz"
             }
         }
     ]
