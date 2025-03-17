@@ -9,7 +9,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/18195825?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023</div>",
             "url": "https://github.com/CVEProject/cvelist",
             "title": "CVEProject/cvelist: Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023",
-            "date_modified": "2025-03-16T23:00:42.000Z",
+            "date_modified": "2025-03-17T00:00:47.000Z",
             "date_published": "2020-11-02T19:30:55.000Z",
             "author": {
                 "name": "CVEProject",
@@ -20,11 +20,22 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/202700342?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>In the hushed galleries of the Silent JPG Exploit, a symphony shrouded in enigma unfurls—an opus named silent-jpg-exploit-2018—a title that reverberates through the annals of intrigue.</div>",
             "url": "https://github.com/USDTC/Jpg-Png-Exploit-Slient-Builder-Exploit-Database-Cve-2023-Malware",
             "title": "USDTC/Jpg-Png-Exploit-Slient-Builder-Exploit-Database-Cve-2023-Malware: In the hushed galleries of the Silent JPG Exploit, a symphony shrouded in enigma unfurls—an opus named silent-jpg-exploit-2018—a title that reverberates through the annals of intrigue.",
-            "date_modified": "2025-03-16T22:57:01.000Z",
+            "date_modified": "2025-03-16T23:57:17.000Z",
             "date_published": "2025-03-10T20:10:00.000Z",
             "author": {
                 "name": "USDTC",
                 "url": "https://github.com/USDTC"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/88535377?u=badd74b326c25b71d3a0d333c40f720bc3bc98d1&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Command Injection vulnerability in MagnusSolution magnusbilling 6.x and 7.x allows remote attackers to run arbitrary commands via unauthenticated HTTP request. </div>",
+            "url": "https://github.com/Chocapikk/CVE-2023-30258",
+            "title": "Chocapikk/CVE-2023-30258: Command Injection vulnerability in MagnusSolution magnusbilling 6.x and 7.x allows remote attackers to run arbitrary commands via unauthenticated HTTP request. ",
+            "date_modified": "2025-03-16T23:52:25.000Z",
+            "date_published": "2025-03-16T23:27:52.000Z",
+            "author": {
+                "name": "Chocapikk",
+                "url": "https://github.com/Chocapikk"
             }
         },
         {
@@ -163,7 +174,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/199694982?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Proof of Concept for Path Traversal in Apache Struts (\"CVE-2023-50164\")</div>",
             "url": "https://github.com/heavyyeast/cve-2023-50164-poc",
             "title": "heavyyeast/cve-2023-50164-poc: Proof of Concept for Path Traversal in Apache Struts (\"CVE-2023-50164\")",
-            "date_modified": "2025-03-16T22:17:37.000Z",
+            "date_modified": "2025-03-16T23:36:43.000Z",
             "date_published": "2025-03-05T12:55:58.000Z",
             "author": {
                 "name": "heavyyeast",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "BitWiz4rd",
                 "url": "https://github.com/BitWiz4rd"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/114897201?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2023-1545-POC with python </div>",
-            "url": "https://github.com/sternstundes/CVE-2023-1545-POC-python",
-            "title": "sternstundes/CVE-2023-1545-POC-python: CVE-2023-1545-POC with python ",
-            "date_modified": "2025-03-01T10:25:09.000Z",
-            "date_published": "2025-03-01T10:15:38.000Z",
-            "author": {
-                "name": "sternstundes",
-                "url": "https://github.com/sternstundes"
             }
         }
     ]
