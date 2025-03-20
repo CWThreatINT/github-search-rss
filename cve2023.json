@@ -6,10 +6,21 @@
     "description": "CVE-2023 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/70560051?u=e8857a8d14ec0ae253c9770e127ba90c3dd3737b&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
+            "url": "https://github.com/Mehran-Seifalinia/CVE-2023-37979",
+            "title": "Mehran-Seifalinia/CVE-2023-37979",
+            "date_modified": "2025-03-20T18:06:00.000Z",
+            "date_published": "2023-08-01T11:40:14.000Z",
+            "author": {
+                "name": "Mehran-Seifalinia",
+                "url": "https://github.com/Mehran-Seifalinia"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/18195825?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023</div>",
             "url": "https://github.com/CVEProject/cvelist",
             "title": "CVEProject/cvelist: Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023",
-            "date_modified": "2025-03-20T17:00:44.000Z",
+            "date_modified": "2025-03-20T18:00:48.000Z",
             "date_published": "2020-11-02T19:30:55.000Z",
             "author": {
                 "name": "CVEProject",
@@ -20,7 +31,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/202700342?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>In the hushed galleries of the Silent JPG Exploit, a symphony shrouded in enigma unfurls—an opus named silent-jpg-exploit-2018—a title that reverberates through the annals of intrigue.</div>",
             "url": "https://github.com/USDTC/Jpg-Png-Exploit-Slient-Builder-Exploit-Database-Cve-2023-Malware",
             "title": "USDTC/Jpg-Png-Exploit-Slient-Builder-Exploit-Database-Cve-2023-Malware: In the hushed galleries of the Silent JPG Exploit, a symphony shrouded in enigma unfurls—an opus named silent-jpg-exploit-2018—a title that reverberates through the annals of intrigue.",
-            "date_modified": "2025-03-20T16:56:14.000Z",
+            "date_modified": "2025-03-20T17:58:11.000Z",
             "date_published": "2025-03-10T20:10:00.000Z",
             "author": {
                 "name": "USDTC",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "alfiecg24",
                 "url": "https://github.com/alfiecg24"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/106868018?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
-            "url": "https://github.com/sk00l/CVE-2023-30258",
-            "title": "sk00l/CVE-2023-30258",
-            "date_modified": "2025-03-09T15:05:50.000Z",
-            "date_published": "2025-03-09T15:01:00.000Z",
-            "author": {
-                "name": "sk00l",
-                "url": "https://github.com/sk00l"
             }
         }
     ]
