@@ -6,6 +6,17 @@
     "description": "CVE-2021 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/133626391?u=79ae004eebf3ce720b4983b9103085e0eaf67e63&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>The POC and Lab setup documentation of CVE 2021 41773 </div>",
+            "url": "https://github.com/ashique-thaha/CVE-2021-41773-POC",
+            "title": "ashique-thaha/CVE-2021-41773-POC: The POC and Lab setup documentation of CVE 2021 41773 ",
+            "date_modified": "2025-03-20T18:34:12.000Z",
+            "date_published": "2025-03-20T18:29:18.000Z",
+            "author": {
+                "name": "ashique-thaha",
+                "url": "https://github.com/ashique-thaha"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/67317571?u=a09c3feb6538d1a7f8a5f2d2a62a838ab0d22ed6&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>This repository contains all gathered resources we used during our Incident Reponse on CVE-2021-44228 and CVE-2021-45046 aka Log4Shell.</div>",
             "url": "https://github.com/0xsyr0/Log4Shell",
             "title": "0xsyr0/Log4Shell: This repository contains all gathered resources we used during our Incident Reponse on CVE-2021-44228 and CVE-2021-45046 aka Log4Shell.",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "luobai8",
                 "url": "https://github.com/luobai8"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/24803418?u=f7ec394ec2e785ebc2a65d38f6efdeda162f8768&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>This repository provides an in-depth analysis of the Log4Shell vulnerability (CVE-2021-44228) and implements a machine learning-based approach to detect exploitation attempts in log data.</div>",
-            "url": "https://github.com/yadavmukesh/Log4Shell-vulnerability-CVE-2021-44228-",
-            "title": "yadavmukesh/Log4Shell-vulnerability-CVE-2021-44228-: This repository provides an in-depth analysis of the Log4Shell vulnerability (CVE-2021-44228) and implements a machine learning-based approach to detect exploitation attempts in log data.",
-            "date_modified": "2025-02-17T08:14:51.000Z",
-            "date_published": "2025-02-17T07:03:36.000Z",
-            "author": {
-                "name": "yadavmukesh",
-                "url": "https://github.com/yadavmukesh"
             }
         }
     ]
