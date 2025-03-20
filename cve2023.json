@@ -9,7 +9,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/18195825?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023</div>",
             "url": "https://github.com/CVEProject/cvelist",
             "title": "CVEProject/cvelist: Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023",
-            "date_modified": "2025-03-20T09:00:47.000Z",
+            "date_modified": "2025-03-20T10:00:44.000Z",
             "date_published": "2020-11-02T19:30:55.000Z",
             "author": {
                 "name": "CVEProject",
@@ -20,11 +20,22 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/202700342?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>In the hushed galleries of the Silent JPG Exploit, a symphony shrouded in enigma unfurls—an opus named silent-jpg-exploit-2018—a title that reverberates through the annals of intrigue.</div>",
             "url": "https://github.com/USDTC/Jpg-Png-Exploit-Slient-Builder-Exploit-Database-Cve-2023-Malware",
             "title": "USDTC/Jpg-Png-Exploit-Slient-Builder-Exploit-Database-Cve-2023-Malware: In the hushed galleries of the Silent JPG Exploit, a symphony shrouded in enigma unfurls—an opus named silent-jpg-exploit-2018—a title that reverberates through the annals of intrigue.",
-            "date_modified": "2025-03-20T08:57:29.000Z",
+            "date_modified": "2025-03-20T09:59:05.000Z",
             "date_published": "2025-03-10T20:10:00.000Z",
             "author": {
                 "name": "USDTC",
                 "url": "https://github.com/USDTC"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/40547674?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Exploit for EasyNAS version 1.1.0. The vulnerability exploited is a command injection flaw, which requires authentication.</div>",
+            "url": "https://github.com/xbz0n/CVE-2023-0830",
+            "title": "xbz0n/CVE-2023-0830: Exploit for EasyNAS version 1.1.0. The vulnerability exploited is a command injection flaw, which requires authentication.",
+            "date_modified": "2025-03-20T09:23:19.000Z",
+            "date_published": "2023-06-29T15:23:06.000Z",
+            "author": {
+                "name": "xbz0n",
+                "url": "https://github.com/xbz0n"
             }
         },
         {
@@ -212,17 +223,6 @@
             "author": {
                 "name": "Pixel-DefaultBR",
                 "url": "https://github.com/Pixel-DefaultBR"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/44880580?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2023-40028 is a security vulnerability affecting Ghost CMS versions prior to 5.59.1.</div>",
-            "url": "https://github.com/syogod/CVE-2023-40028",
-            "title": "syogod/CVE-2023-40028: CVE-2023-40028 is a security vulnerability affecting Ghost CMS versions prior to 5.59.1.",
-            "date_modified": "2025-03-07T00:52:22.000Z",
-            "date_published": "2025-03-07T00:48:11.000Z",
-            "author": {
-                "name": "syogod",
-                "url": "https://github.com/syogod"
             }
         }
     ]
