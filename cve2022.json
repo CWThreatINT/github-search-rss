@@ -6,6 +6,28 @@
     "description": "CVE-2022 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/58906858?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>consolejndi.potal path cve 2022 14882</div>",
+            "url": "https://github.com/mr-won/oracle_weblogic_server",
+            "title": "mr-won/oracle_weblogic_server: consolejndi.potal path cve 2022 14882",
+            "date_modified": "2025-03-23T06:42:07.000Z",
+            "date_published": "2025-03-23T06:42:03.000Z",
+            "author": {
+                "name": "mr-won",
+                "url": "https://github.com/mr-won"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/41171807?u=365fa66c7280b896448d752115911ba46b3ff72b&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Writeup and POC for CVE-2022-23134</div>",
+            "url": "https://github.com/TheN00bBuilder/cve-2022-23134-poc-and-writeup",
+            "title": "TheN00bBuilder/cve-2022-23134-poc-and-writeup: Writeup and POC for CVE-2022-23134",
+            "date_modified": "2025-03-23T06:27:57.000Z",
+            "date_published": "2025-03-23T06:15:09.000Z",
+            "author": {
+                "name": "TheN00bBuilder",
+                "url": "https://github.com/TheN00bBuilder"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/39498732?u=3cf1646a4ff340ac8466fe7b33f686487d82dccd&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
             "url": "https://github.com/Bariskizilkaya/CVE_2022_38181-Mali-SAMSUNG-S6-Lite-Tablet",
             "title": "Bariskizilkaya/CVE_2022_38181-Mali-SAMSUNG-S6-Lite-Tablet",
@@ -201,28 +223,6 @@
             "author": {
                 "name": "Khalidhaimur",
                 "url": "https://github.com/Khalidhaimur"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/173133346?u=844403b10296d75d9597cc91d35a3a853c1497a2&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Reappear-CVE-2022-21449-TLS-PoC</div>",
-            "url": "https://github.com/HeyMrSalt/AIS3-2024-Project-D5Team",
-            "title": "HeyMrSalt/AIS3-2024-Project-D5Team: Reappear-CVE-2022-21449-TLS-PoC",
-            "date_modified": "2025-02-12T17:13:39.000Z",
-            "date_published": "2024-08-01T03:27:17.000Z",
-            "author": {
-                "name": "HeyMrSalt",
-                "url": "https://github.com/HeyMrSalt"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/9442294?u=f4d05feff84989b7d0be0a8ba8ec0c1f52e84f9b&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2022-39275 Setup and POC</div>",
-            "url": "https://github.com/omar2535/CVE-2022-39275",
-            "title": "omar2535/CVE-2022-39275: CVE-2022-39275 Setup and POC",
-            "date_modified": "2025-02-12T03:06:23.000Z",
-            "date_published": "2024-11-15T22:21:16.000Z",
-            "author": {
-                "name": "omar2535",
-                "url": "https://github.com/omar2535"
             }
         }
     ]
