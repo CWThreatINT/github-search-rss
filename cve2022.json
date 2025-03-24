@@ -6,6 +6,17 @@
     "description": "CVE-2022 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/1032286?u=6158112a1ec9a541336f35fac45e0f03423fa286&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A PoC for the CVE-2022-44268 - ImageMagick arbitrary file read</div>",
+            "url": "https://github.com/voidz0r/CVE-2022-44268",
+            "title": "voidz0r/CVE-2022-44268: A PoC for the CVE-2022-44268 - ImageMagick arbitrary file read",
+            "date_modified": "2025-03-24T02:13:48.000Z",
+            "date_published": "2023-02-05T18:42:27.000Z",
+            "author": {
+                "name": "voidz0r",
+                "url": "https://github.com/voidz0r"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/202398065?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
             "url": "https://github.com/ui-bootstrap/CVE-2022-36804",
             "title": "ui-bootstrap/CVE-2022-36804",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "Yami0x777",
                 "url": "https://github.com/Yami0x777"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/55759090?u=9b574c3f8d33db46edb5616ef038213c99cc148a&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A flaw was found in pki-core. Access to external entities when parsing XML documents can lead to XML external entity (XXE) attacks. This flaw allows a remote attacker to potentially retrieve the content of arbitrary files by sending specially crafted HTTP requests.</div>",
-            "url": "https://github.com/amitlttwo/CVE-2022-2414-Proof-Of-Concept",
-            "title": "amitlttwo/CVE-2022-2414-Proof-Of-Concept: A flaw was found in pki-core. Access to external entities when parsing XML documents can lead to XML external entity (XXE) attacks. This flaw allows a remote attacker to potentially retrieve the content of arbitrary files by sending specially crafted HTTP requests.",
-            "date_modified": "2025-02-12T18:34:33.000Z",
-            "date_published": "2022-12-06T14:37:08.000Z",
-            "author": {
-                "name": "amitlttwo",
-                "url": "https://github.com/amitlttwo"
             }
         }
     ]
