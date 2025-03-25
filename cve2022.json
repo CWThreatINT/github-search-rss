@@ -6,6 +6,17 @@
     "description": "CVE-2022 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/180585625?u=7f51edd73ace7eb4322fb3ccfa4dfeedf98b452d&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A root exploit for CVE-2022-0847 (Dirty Pipe)</div>",
+            "url": "https://github.com/cypherlobo/DirtyPipe-BSI",
+            "title": "cypherlobo/DirtyPipe-BSI: A root exploit for CVE-2022-0847 (Dirty Pipe)",
+            "date_modified": "2025-03-25T22:08:07.000Z",
+            "date_published": "2025-03-25T21:54:41.000Z",
+            "author": {
+                "name": "cypherlobo",
+                "url": "https://github.com/cypherlobo"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/66072013?u=fdc83dd47a7a366cb11b9e32f9081f876c52ada5&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A custom Python-based proof-of-concept (PoC) exploit targeting Text4Shell (CVE-2022-42889), a critical remote code execution vulnerability in Apache Commons Text versions &lt; 1.10.</div>",
             "url": "https://github.com/chaudharyarjun/text4shell-exploit",
             "title": "chaudharyarjun/text4shell-exploit: A custom Python-based proof-of-concept (PoC) exploit targeting Text4Shell (CVE-2022-42889), a critical remote code execution vulnerability in Apache Commons Text versions < 1.10.",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "nam3lum",
                 "url": "https://github.com/nam3lum"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/12976017?u=6d3d423fda6a56643a0ca1acae5223cdf08a3c28&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>This is a one-time signature verification bypass. For persistent signature verification bypass, check <a href=\"https://github.com/TomKing062/CVE-2022-38691_38692\" class=\"Link--inTextBlock\">https://github.com/TomKing062/CVE-2022-38691_38692</a></div>",
-            "url": "https://github.com/TomKing062/CVE-2022-38694_unlock_bootloader",
-            "title": "TomKing062/CVE-2022-38694_unlock_bootloader: This is a one-time signature verification bypass. For persistent signature verification bypass, check https://github.com/TomKing062/CVE-2022-38691_38692",
-            "date_modified": "2025-03-23T19:28:30.000Z",
-            "date_published": "2023-06-10T08:31:26.000Z",
-            "author": {
-                "name": "TomKing062",
-                "url": "https://github.com/TomKing062"
             }
         }
     ]
