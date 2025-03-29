@@ -6,6 +6,17 @@
     "description": "CVE-2022 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/8326868?u=ade36a1f8b0d5214810b46f577fb682fb08be122&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Apache CouchDB 3.2.1 - Remote Code Execution (RCE) Checker</div>",
+            "url": "https://github.com/becrevex/CVE-2022-24706",
+            "title": "becrevex/CVE-2022-24706: Apache CouchDB 3.2.1 - Remote Code Execution (RCE) Checker",
+            "date_modified": "2025-03-29T04:51:23.000Z",
+            "date_published": "2024-10-08T07:02:30.000Z",
+            "author": {
+                "name": "becrevex",
+                "url": "https://github.com/becrevex"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/59002589?u=db4b8f1cb521109dca923a128c3570719b2f3c6f&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
             "url": "https://github.com/DukeSec97/CVE-2022-24834-",
             "title": "DukeSec97/CVE-2022-24834-",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "CanVo",
                 "url": "https://github.com/CanVo"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/12976017?u=6d3d423fda6a56643a0ca1acae5223cdf08a3c28&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Let's control Secure Boot Chain ourselves.</div>",
-            "url": "https://github.com/TomKing062/CVE-2022-38691_38692",
-            "title": "TomKing062/CVE-2022-38691_38692: Let's control Secure Boot Chain ourselves.",
-            "date_modified": "2025-03-23T21:15:52.000Z",
-            "date_published": "2023-12-01T07:32:18.000Z",
-            "author": {
-                "name": "TomKing062",
-                "url": "https://github.com/TomKing062"
             }
         }
     ]
