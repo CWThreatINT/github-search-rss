@@ -9,11 +9,22 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/202700342?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>In the hushed galleries of the Silent JPG Exploit, a symphony shrouded in enigma unfurls—an opus named silent-jpg-exploit-2018—a title that reverberates through the annals of intrigue.</div>",
             "url": "https://github.com/USDTC/Jpg-Png-Exploit-Slient-Builder-Exploit-Database-Cve-2023-Malware",
             "title": "USDTC/Jpg-Png-Exploit-Slient-Builder-Exploit-Database-Cve-2023-Malware: In the hushed galleries of the Silent JPG Exploit, a symphony shrouded in enigma unfurls—an opus named silent-jpg-exploit-2018—a title that reverberates through the annals of intrigue.",
-            "date_modified": "2025-03-30T13:02:05.000Z",
+            "date_modified": "2025-03-30T13:56:41.000Z",
             "date_published": "2025-03-10T20:10:00.000Z",
             "author": {
                 "name": "USDTC",
                 "url": "https://github.com/USDTC"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/156780826?u=de24bff3d8e98cf3d7d6d1a3815508ca8b6a16ec&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>GibbonEdu Arbitrary File Write to Remote Code Execution</div>",
+            "url": "https://github.com/davidzzo23/CVE-2023-45878",
+            "title": "davidzzo23/CVE-2023-45878: GibbonEdu Arbitrary File Write to Remote Code Execution",
+            "date_modified": "2025-03-30T13:47:17.000Z",
+            "date_published": "2025-03-30T13:33:12.000Z",
+            "author": {
+                "name": "davidzzo23",
+                "url": "https://github.com/davidzzo23"
             }
         },
         {
@@ -212,17 +223,6 @@
             "author": {
                 "name": "ilGobbo00",
                 "url": "https://github.com/ilGobbo00"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/25908759?u=38d7229e3c98e688c17bdf5688748c7588e7a73d&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Gibbon v25.0.0 is vulnerable to a Local File Inclusion (LFI)</div>",
-            "url": "https://github.com/Zer0F8th/CVE-2023-34598",
-            "title": "Zer0F8th/CVE-2023-34598: Gibbon v25.0.0 is vulnerable to a Local File Inclusion (LFI)",
-            "date_modified": "2025-03-20T23:55:57.000Z",
-            "date_published": "2025-03-17T11:48:59.000Z",
-            "author": {
-                "name": "Zer0F8th",
-                "url": "https://github.com/Zer0F8th"
             }
         }
     ]
