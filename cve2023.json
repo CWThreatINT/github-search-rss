@@ -9,7 +9,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/18195825?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023</div>",
             "url": "https://github.com/CVEProject/cvelist",
             "title": "CVEProject/cvelist: Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023",
-            "date_modified": "2025-03-31T15:00:52.000Z",
+            "date_modified": "2025-03-31T16:00:50.000Z",
             "date_published": "2020-11-02T19:30:55.000Z",
             "author": {
                 "name": "CVEProject",
@@ -20,11 +20,22 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/202700342?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>In the hushed galleries of the Silent JPG Exploit, a symphony shrouded in enigma unfurls—an opus named silent-jpg-exploit-2018—a title that reverberates through the annals of intrigue.</div>",
             "url": "https://github.com/USDTC/Jpg-Png-Exploit-Slient-Builder-Exploit-Database-Cve-2023-Malware",
             "title": "USDTC/Jpg-Png-Exploit-Slient-Builder-Exploit-Database-Cve-2023-Malware: In the hushed galleries of the Silent JPG Exploit, a symphony shrouded in enigma unfurls—an opus named silent-jpg-exploit-2018—a title that reverberates through the annals of intrigue.",
-            "date_modified": "2025-03-31T14:55:48.000Z",
+            "date_modified": "2025-03-31T15:56:26.000Z",
             "date_published": "2025-03-10T20:10:00.000Z",
             "author": {
                 "name": "USDTC",
                 "url": "https://github.com/USDTC"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/52015401?u=b59e5d6396c59983d1a8ecf7e39321bd1749acfa&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>After using the KeePass password dumper maybe some character parsed as ● is incorrect and you want to know the real character</div>",
+            "url": "https://github.com/G4sp4rCS/CVE-2023-32784-password-combinator-fixer",
+            "title": "G4sp4rCS/CVE-2023-32784-password-combinator-fixer: After using the KeePass password dumper maybe some character parsed as ● is incorrect and you want to know the real character",
+            "date_modified": "2025-03-31T15:32:06.000Z",
+            "date_published": "2025-03-31T15:32:00.000Z",
+            "author": {
+                "name": "G4sp4rCS",
+                "url": "https://github.com/G4sp4rCS"
             }
         },
         {
@@ -212,17 +223,6 @@
             "author": {
                 "name": "DRAGOWN",
                 "url": "https://github.com/DRAGOWN"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/144475822?u=a4616a5ad90c61ad0df452d66398c4de0cc00c3a&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2023-45878 easy exploit | revers sehell </div>",
-            "url": "https://github.com/nrazv/CVE-2023-45878",
-            "title": "nrazv/CVE-2023-45878: CVE-2023-45878 easy exploit | revers sehell ",
-            "date_modified": "2025-03-26T08:08:06.000Z",
-            "date_published": "2025-03-19T16:44:14.000Z",
-            "author": {
-                "name": "nrazv",
-                "url": "https://github.com/nrazv"
             }
         }
     ]
