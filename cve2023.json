@@ -9,7 +9,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/18195825?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023</div>",
             "url": "https://github.com/CVEProject/cvelist",
             "title": "CVEProject/cvelist: Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023",
-            "date_modified": "2025-03-30T23:00:44.000Z",
+            "date_modified": "2025-03-31T00:00:42.000Z",
             "date_published": "2020-11-02T19:30:55.000Z",
             "author": {
                 "name": "CVEProject",
@@ -20,11 +20,22 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/202700342?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>In the hushed galleries of the Silent JPG Exploit, a symphony shrouded in enigma unfurls—an opus named silent-jpg-exploit-2018—a title that reverberates through the annals of intrigue.</div>",
             "url": "https://github.com/USDTC/Jpg-Png-Exploit-Slient-Builder-Exploit-Database-Cve-2023-Malware",
             "title": "USDTC/Jpg-Png-Exploit-Slient-Builder-Exploit-Database-Cve-2023-Malware: In the hushed galleries of the Silent JPG Exploit, a symphony shrouded in enigma unfurls—an opus named silent-jpg-exploit-2018—a title that reverberates through the annals of intrigue.",
-            "date_modified": "2025-03-30T22:58:44.000Z",
+            "date_modified": "2025-03-30T23:58:03.000Z",
             "date_published": "2025-03-10T20:10:00.000Z",
             "author": {
                 "name": "USDTC",
                 "url": "https://github.com/USDTC"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/58906858?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>chamilo soap api rce (/webservices/additional_webservices.php)</div>",
+            "url": "https://github.com/mr-won/cve-2023-34960",
+            "title": "mr-won/cve-2023-34960: chamilo soap api rce (/webservices/additional_webservices.php)",
+            "date_modified": "2025-03-30T23:48:40.000Z",
+            "date_published": "2025-03-30T23:48:36.000Z",
+            "author": {
+                "name": "mr-won",
+                "url": "https://github.com/mr-won"
             }
         },
         {
@@ -212,17 +223,6 @@
             "author": {
                 "name": "insomnia-jacob",
                 "url": "https://github.com/insomnia-jacob"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/64530671?u=41a55400d6a75b8769e3f0dc5577b8916a4b9dd7&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Adaptation of CVE-2023-6241 for Google Pixel 7 from Google Pixel 8 taken from securitylab/SecurityExploits/Android/Mali/CVE_2023_6241</div>",
-            "url": "https://github.com/ilGobbo00/CVE-2023-6241-Pixel7_Adaptation",
-            "title": "ilGobbo00/CVE-2023-6241-Pixel7_Adaptation: Adaptation of CVE-2023-6241 for Google Pixel 7 from Google Pixel 8 taken from securitylab/SecurityExploits/Android/Mali/CVE_2023_6241",
-            "date_modified": "2025-03-21T14:30:50.000Z",
-            "date_published": "2024-09-17T07:19:54.000Z",
-            "author": {
-                "name": "ilGobbo00",
-                "url": "https://github.com/ilGobbo00"
             }
         }
     ]
