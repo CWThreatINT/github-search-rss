@@ -6,6 +6,17 @@
     "description": "CVE-2021 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/100122463?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Utilize Tai-e to identify the Log4shell (a.k.a. CVE-2021-44228) Vulnerability</div>",
+            "url": "https://github.com/Tai-e/CVE-2021-44228",
+            "title": "Tai-e/CVE-2021-44228: Utilize Tai-e to identify the Log4shell (a.k.a. CVE-2021-44228) Vulnerability",
+            "date_modified": "2025-04-01T06:53:54.000Z",
+            "date_published": "2023-10-06T04:36:31.000Z",
+            "author": {
+                "name": "Tai-e",
+                "url": "https://github.com/Tai-e"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/42279120?u=8eb027b6e510ebe2f40be2360f3ad38833502a58&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Sets up a local Tapo C200 using CVE-2021-4045</div>",
             "url": "https://github.com/DorskFR/tapodate",
             "title": "DorskFR/tapodate: Sets up a local Tapo C200 using CVE-2021-4045",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "sameep0",
                 "url": "https://github.com/sameep0"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/144794997?u=5101f2b338dce5ac572b19b2e04102746df419fa&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Code to exploit CVE-2021-4034</div>",
-            "url": "https://github.com/12bijaya/CVE-2021-4034-PwnKit-",
-            "title": "12bijaya/CVE-2021-4034-PwnKit-: Code to exploit CVE-2021-4034",
-            "date_modified": "2025-02-24T18:54:24.000Z",
-            "date_published": "2025-02-24T18:10:05.000Z",
-            "author": {
-                "name": "12bijaya",
-                "url": "https://github.com/12bijaya"
             }
         }
     ]
