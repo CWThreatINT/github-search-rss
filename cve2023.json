@@ -9,11 +9,22 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/202700342?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>In the hushed galleries of the Silent JPG Exploit, a symphony shrouded in enigma unfurls—an opus named silent-jpg-exploit-2018—a title that reverberates through the annals of intrigue.</div>",
             "url": "https://github.com/USDTC/Jpg-Png-Exploit-Slient-Builder-Exploit-Database-Cve-2023-Malware",
             "title": "USDTC/Jpg-Png-Exploit-Slient-Builder-Exploit-Database-Cve-2023-Malware: In the hushed galleries of the Silent JPG Exploit, a symphony shrouded in enigma unfurls—an opus named silent-jpg-exploit-2018—a title that reverberates through the annals of intrigue.",
-            "date_modified": "2025-04-01T06:57:19.000Z",
+            "date_modified": "2025-04-01T07:57:49.000Z",
             "date_published": "2025-03-10T20:10:00.000Z",
             "author": {
                 "name": "USDTC",
                 "url": "https://github.com/USDTC"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/83302457?u=1fa395c188df115400164ce1a50c9102aa3af829&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Updated POC for Unauth Post Author Email Disclosures WordPress CVE-2023-5561</div>",
+            "url": "https://github.com/rootxsushant/CVE-2023-5561-POC-Updated",
+            "title": "rootxsushant/CVE-2023-5561-POC-Updated: Updated POC for Unauth Post Author Email Disclosures WordPress CVE-2023-5561",
+            "date_modified": "2025-04-01T07:29:54.000Z",
+            "date_published": "2025-04-01T07:19:31.000Z",
+            "author": {
+                "name": "rootxsushant",
+                "url": "https://github.com/rootxsushant"
             }
         },
         {
@@ -212,17 +223,6 @@
             "author": {
                 "name": "cnetsec",
                 "url": "https://github.com/cnetsec"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/76569084?u=05df7b3a76cae69c217486c483cc899b8880fdcc&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>In Paradox Security System IPR512 web panel, an unauthenticated user can input JavaScript string, such as &lt;/script&gt; that will overwrite configurations in the file \"login.xml\" and cause the login form to crash and make it unavailable. </div>",
-            "url": "https://github.com/DRAGOWN/CVE-2023-24709-PoC",
-            "title": "DRAGOWN/CVE-2023-24709-PoC: In Paradox Security System IPR512 web panel, an unauthenticated user can input JavaScript string, such as </script> that will overwrite configurations in the file \"login.xml\" and cause the login form to crash and make it unavailable. ",
-            "date_modified": "2025-03-27T09:35:59.000Z",
-            "date_published": "2023-01-26T12:13:51.000Z",
-            "author": {
-                "name": "DRAGOWN",
-                "url": "https://github.com/DRAGOWN"
             }
         }
     ]
