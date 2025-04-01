@@ -9,7 +9,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/202700342?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>In the hushed galleries of the Silent JPG Exploit, a symphony shrouded in enigma unfurls—an opus named silent-jpg-exploit-2018—a title that reverberates through the annals of intrigue.</div>",
             "url": "https://github.com/USDTC/Jpg-Png-Exploit-Slient-Builder-Exploit-Database-Cve-2023-Malware",
             "title": "USDTC/Jpg-Png-Exploit-Slient-Builder-Exploit-Database-Cve-2023-Malware: In the hushed galleries of the Silent JPG Exploit, a symphony shrouded in enigma unfurls—an opus named silent-jpg-exploit-2018—a title that reverberates through the annals of intrigue.",
-            "date_modified": "2025-04-01T07:57:49.000Z",
+            "date_modified": "2025-04-01T08:56:28.000Z",
             "date_published": "2025-03-10T20:10:00.000Z",
             "author": {
                 "name": "USDTC",
@@ -182,17 +182,6 @@
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/114473989?u=b8326127907b7debb00a4976897549461a1b190b&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A Python console program that exploits the security vulnerability CVE-2023-32784 in the password manager KeePass. This exploit reconstructs the master password in plain text based on memory dumps (.DMP).</div>",
-            "url": "https://github.com/SarahZimmermann-Schmutzler/exploit_keepass",
-            "title": "SarahZimmermann-Schmutzler/exploit_keepass: A Python console program that exploits the security vulnerability CVE-2023-32784 in the password manager KeePass. This exploit reconstructs the master password in plain text based on memory dumps (.DMP).",
-            "date_modified": "2025-03-28T09:25:11.000Z",
-            "date_published": "2024-11-19T13:08:51.000Z",
-            "author": {
-                "name": "SarahZimmermann-Schmutzler",
-                "url": "https://github.com/SarahZimmermann-Schmutzler"
-            }
-        },
-        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/33578715?u=ec2e9ccf856183443ae9cbfe8f54f66e6aac2858&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>📟 A tiny code that performs kernel-mode read/write using CVE-2023-38817.</div>",
             "url": "https://github.com/vxcall/kur",
             "title": "vxcall/kur: :pager: A tiny code that performs kernel-mode read/write using CVE-2023-38817.",
@@ -223,6 +212,17 @@
             "author": {
                 "name": "cnetsec",
                 "url": "https://github.com/cnetsec"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/76569084?u=05df7b3a76cae69c217486c483cc899b8880fdcc&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>In Paradox Security System IPR512 web panel, an unauthenticated user can input JavaScript string, such as &lt;/script&gt; that will overwrite configurations in the file \"login.xml\" and cause the login form to crash and make it unavailable. </div>",
+            "url": "https://github.com/DRAGOWN/CVE-2023-24709-PoC",
+            "title": "DRAGOWN/CVE-2023-24709-PoC: In Paradox Security System IPR512 web panel, an unauthenticated user can input JavaScript string, such as </script> that will overwrite configurations in the file \"login.xml\" and cause the login form to crash and make it unavailable. ",
+            "date_modified": "2025-03-27T09:35:59.000Z",
+            "date_published": "2023-01-26T12:13:51.000Z",
+            "author": {
+                "name": "DRAGOWN",
+                "url": "https://github.com/DRAGOWN"
             }
         }
     ]
