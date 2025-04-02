@@ -9,11 +9,22 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/202700342?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>In the hushed galleries of the Silent JPG Exploit, a symphony shrouded in enigma unfurls—an opus named silent-jpg-exploit-2018—a title that reverberates through the annals of intrigue.</div>",
             "url": "https://github.com/USDTC/Jpg-Png-Exploit-Slient-Builder-Exploit-Database-Cve-2023-Malware",
             "title": "USDTC/Jpg-Png-Exploit-Slient-Builder-Exploit-Database-Cve-2023-Malware: In the hushed galleries of the Silent JPG Exploit, a symphony shrouded in enigma unfurls—an opus named silent-jpg-exploit-2018—a title that reverberates through the annals of intrigue.",
-            "date_modified": "2025-04-02T03:07:57.000Z",
+            "date_modified": "2025-04-02T03:59:28.000Z",
             "date_published": "2025-03-10T20:10:00.000Z",
             "author": {
                 "name": "USDTC",
                 "url": "https://github.com/USDTC"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/21272757?u=05e07a981df6524a65291eb5aabf23ee921722bb&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Leveraging arbitrary file read to RCE on Oracle PeopleSoft</div>",
+            "url": "https://github.com/tuo4n8/CVE-2023-22047",
+            "title": "tuo4n8/CVE-2023-22047: Leveraging arbitrary file read to RCE on Oracle PeopleSoft",
+            "date_modified": "2025-04-02T03:56:33.000Z",
+            "date_published": "2025-04-02T03:54:56.000Z",
+            "author": {
+                "name": "tuo4n8",
+                "url": "https://github.com/tuo4n8"
             }
         },
         {
@@ -75,7 +86,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/14187349?u=8aabec383eccc0f67119f8254da522f9ff8354e0&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>[漏洞复现] 全球首款单文件利用 CVE-2023-4357 Chrome XXE 漏洞 EXP, 实现对访客者本地文件窃取. Chrome XXE vulnerability EXP, allowing attackers to obtain local files of visitors.</div>",
             "url": "https://github.com/xcanwin/CVE-2023-4357-Chrome-XXE",
             "title": "xcanwin/CVE-2023-4357-Chrome-XXE: [漏洞复现] 全球首款单文件利用 CVE-2023-4357 Chrome XXE 漏洞 EXP, 实现对访客者本地文件窃取. Chrome XXE vulnerability EXP, allowing attackers to obtain local files of visitors.",
-            "date_modified": "2025-03-31T13:56:03.000Z",
+            "date_modified": "2025-04-02T04:06:08.000Z",
             "date_published": "2023-11-17T10:32:31.000Z",
             "author": {
                 "name": "xcanwin",
@@ -209,17 +220,6 @@
             "title": "cnetsec/CVE-2023-26209",
             "date_modified": "2025-03-28T02:23:59.000Z",
             "date_published": "2025-03-28T02:21:12.000Z",
-            "author": {
-                "name": "cnetsec",
-                "url": "https://github.com/cnetsec"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/86935257?u=f2c0d10b212cba8a7c96d8c523f6cb9a6e66e3dd&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
-            "url": "https://github.com/cnetsec/CVE-2023-26208",
-            "title": "cnetsec/CVE-2023-26208",
-            "date_modified": "2025-03-28T02:19:53.000Z",
-            "date_published": "2025-03-28T02:16:52.000Z",
             "author": {
                 "name": "cnetsec",
                 "url": "https://github.com/cnetsec"
