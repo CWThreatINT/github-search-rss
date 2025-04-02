@@ -6,7 +6,7 @@
     "description": "CVE-2022 FEED on GitHub",
     "items": [
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/31081984?u=311b982338a0473cdc6113a9bdebfe1423621867&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>SAPGateBreaker is a PoC exploit for CVE-2022-22536, a critical HTTP Request Smuggling vulnerability in SAP NetWeaver. It demonstrates how to bypass ACLs by desynchronizing request parsing between ICM and backend services using crafted Content-Length-based payloads.</div>",
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/31081984?u=5155f39ef9adf56610a5b4d9611816d6f1429914&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>SAPGateBreaker is a PoC exploit for CVE-2022-22536, a critical HTTP Request Smuggling vulnerability in SAP NetWeaver. It demonstrates how to bypass ACLs by desynchronizing request parsing between ICM and backend services using crafted Content-Length-based payloads.</div>",
             "url": "https://github.com/BecodoExploit-mrCAT/SAPGateBreaker-Exploit",
             "title": "BecodoExploit-mrCAT/SAPGateBreaker-Exploit: SAPGateBreaker is a PoC exploit for CVE-2022-22536, a critical HTTP Request Smuggling vulnerability in SAP NetWeaver. It demonstrates how to bypass ACLs by desynchronizing request parsing between ICM and backend services using crafted Content-Length-based payloads.",
             "date_modified": "2025-04-02T00:18:09.000Z",
