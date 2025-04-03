@@ -9,7 +9,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/18195825?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023</div>",
             "url": "https://github.com/CVEProject/cvelist",
             "title": "CVEProject/cvelist: Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023",
-            "date_modified": "2025-04-03T15:00:57.000Z",
+            "date_modified": "2025-04-03T16:00:49.000Z",
             "date_published": "2020-11-02T19:30:55.000Z",
             "author": {
                 "name": "CVEProject",
@@ -20,11 +20,22 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/202700342?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>In the hushed galleries of the Silent JPG Exploit, a symphony shrouded in enigma unfurls—an opus named silent-jpg-exploit-2018—a title that reverberates through the annals of intrigue.</div>",
             "url": "https://github.com/USDTC/Jpg-Png-Exploit-Slient-Builder-Exploit-Database-Cve-2023-Malware",
             "title": "USDTC/Jpg-Png-Exploit-Slient-Builder-Exploit-Database-Cve-2023-Malware: In the hushed galleries of the Silent JPG Exploit, a symphony shrouded in enigma unfurls—an opus named silent-jpg-exploit-2018—a title that reverberates through the annals of intrigue.",
-            "date_modified": "2025-04-03T14:59:30.000Z",
+            "date_modified": "2025-04-03T15:55:42.000Z",
             "date_published": "2025-03-10T20:10:00.000Z",
             "author": {
                 "name": "USDTC",
                 "url": "https://github.com/USDTC"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/53284782?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Documentation and PoC for CVE-2023-21554 MSMQ Vulnerability</div>",
+            "url": "https://github.com/leongxudong/MSMQ-Vulnerbaility",
+            "title": "leongxudong/MSMQ-Vulnerbaility: Documentation and PoC for CVE-2023-21554 MSMQ Vulnerability",
+            "date_modified": "2025-04-03T15:38:33.000Z",
+            "date_published": "2025-03-31T09:06:57.000Z",
+            "author": {
+                "name": "leongxudong",
+                "url": "https://github.com/leongxudong"
             }
         },
         {
@@ -64,7 +75,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/21272757?u=05e07a981df6524a65291eb5aabf23ee921722bb&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Leveraging arbitrary file read to RCE on Oracle PeopleSoft</div>",
             "url": "https://github.com/tuo4n8/CVE-2023-22047",
             "title": "tuo4n8/CVE-2023-22047: Leveraging arbitrary file read to RCE on Oracle PeopleSoft",
-            "date_modified": "2025-04-03T04:16:53.000Z",
+            "date_modified": "2025-04-03T15:42:35.000Z",
             "date_published": "2025-04-02T03:54:56.000Z",
             "author": {
                 "name": "tuo4n8",
@@ -124,17 +135,6 @@
             "author": {
                 "name": "xcanwin",
                 "url": "https://github.com/xcanwin"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/53284782?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Documentation and PoC for CVE-2023-21554 MSMQ Vulnerability</div>",
-            "url": "https://github.com/leongxudong/MSMQ-Vulnerbaility",
-            "title": "leongxudong/MSMQ-Vulnerbaility: Documentation and PoC for CVE-2023-21554 MSMQ Vulnerability",
-            "date_modified": "2025-03-31T10:09:50.000Z",
-            "date_published": "2025-03-31T09:06:57.000Z",
-            "author": {
-                "name": "leongxudong",
-                "url": "https://github.com/leongxudong"
             }
         },
         {
