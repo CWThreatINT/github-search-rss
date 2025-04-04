@@ -6,10 +6,21 @@
     "description": "CVE-2023 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/202700342?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>In the hushed galleries of the Silent JPG Exploit, a symphony shrouded in enigma unfurls—an opus named silent-jpg-exploit-2018—a title that reverberates through the annals of intrigue.</div>",
+            "url": "https://github.com/USDTC/Jpg-Png-Exploit-Slient-Builder-Exploit-Database-Cve-2023-Malware",
+            "title": "USDTC/Jpg-Png-Exploit-Slient-Builder-Exploit-Database-Cve-2023-Malware: In the hushed galleries of the Silent JPG Exploit, a symphony shrouded in enigma unfurls—an opus named silent-jpg-exploit-2018—a title that reverberates through the annals of intrigue.",
+            "date_modified": "2025-04-04T13:16:50.000Z",
+            "date_published": "2025-03-10T20:10:00.000Z",
+            "author": {
+                "name": "USDTC",
+                "url": "https://github.com/USDTC"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/18195825?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023</div>",
             "url": "https://github.com/CVEProject/cvelist",
             "title": "CVEProject/cvelist: Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023",
-            "date_modified": "2025-04-04T12:00:48.000Z",
+            "date_modified": "2025-04-04T13:00:43.000Z",
             "date_published": "2020-11-02T19:30:55.000Z",
             "author": {
                 "name": "CVEProject",
@@ -17,14 +28,14 @@
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/202700342?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>In the hushed galleries of the Silent JPG Exploit, a symphony shrouded in enigma unfurls—an opus named silent-jpg-exploit-2018—a title that reverberates through the annals of intrigue.</div>",
-            "url": "https://github.com/USDTC/Jpg-Png-Exploit-Slient-Builder-Exploit-Database-Cve-2023-Malware",
-            "title": "USDTC/Jpg-Png-Exploit-Slient-Builder-Exploit-Database-Cve-2023-Malware: In the hushed galleries of the Silent JPG Exploit, a symphony shrouded in enigma unfurls—an opus named silent-jpg-exploit-2018—a title that reverberates through the annals of intrigue.",
-            "date_modified": "2025-04-04T11:57:18.000Z",
-            "date_published": "2025-03-10T20:10:00.000Z",
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/52015401?u=b59e5d6396c59983d1a8ecf7e39321bd1749acfa&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2023-40931 Proof of Concept made for HTB MONITORED</div>",
+            "url": "https://github.com/G4sp4rCS/CVE-2023-40931-POC",
+            "title": "G4sp4rCS/CVE-2023-40931-POC: CVE-2023-40931 Proof of Concept made for HTB MONITORED",
+            "date_modified": "2025-04-04T12:45:25.000Z",
+            "date_published": "2025-04-04T12:35:30.000Z",
             "author": {
-                "name": "USDTC",
-                "url": "https://github.com/USDTC"
+                "name": "G4sp4rCS",
+                "url": "https://github.com/G4sp4rCS"
             }
         },
         {
@@ -212,17 +223,6 @@
             "author": {
                 "name": "0xWhoami35",
                 "url": "https://github.com/0xWhoami35"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/8326868?u=ade36a1f8b0d5214810b46f577fb682fb08be122&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>TeamCity server scanner to detect CVE-2023-42793</div>",
-            "url": "https://github.com/becrevex/CVE-2023-42793",
-            "title": "becrevex/CVE-2023-42793: TeamCity server scanner to detect CVE-2023-42793",
-            "date_modified": "2025-03-29T04:52:13.000Z",
-            "date_published": "2024-10-08T06:33:06.000Z",
-            "author": {
-                "name": "becrevex",
-                "url": "https://github.com/becrevex"
             }
         }
     ]
