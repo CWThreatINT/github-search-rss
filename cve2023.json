@@ -6,14 +6,36 @@
     "description": "CVE-2023 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/202700342?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>In the hushed galleries of the Silent JPG Exploit, a symphony shrouded in enigma unfurls—an opus named silent-jpg-exploit-2018—a title that reverberates through the annals of intrigue.</div>",
+            "url": "https://github.com/USDTC/Jpg-Png-Exploit-Slient-Builder-Exploit-Database-Cve-2023-Malware",
+            "title": "USDTC/Jpg-Png-Exploit-Slient-Builder-Exploit-Database-Cve-2023-Malware: In the hushed galleries of the Silent JPG Exploit, a symphony shrouded in enigma unfurls—an opus named silent-jpg-exploit-2018—a title that reverberates through the annals of intrigue.",
+            "date_modified": "2025-04-07T03:11:31.000Z",
+            "date_published": "2025-03-10T20:10:00.000Z",
+            "author": {
+                "name": "USDTC",
+                "url": "https://github.com/USDTC"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/18195825?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023</div>",
             "url": "https://github.com/CVEProject/cvelist",
             "title": "CVEProject/cvelist: Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023",
-            "date_modified": "2025-04-07T02:00:45.000Z",
+            "date_modified": "2025-04-07T03:00:45.000Z",
             "date_published": "2020-11-02T19:30:55.000Z",
             "author": {
                 "name": "CVEProject",
                 "url": "https://github.com/CVEProject"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/67920312?u=f976f928d669ae0ae4d68f8cee8aacec09ff08bd&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Demonstration of CVE-2023-23397 Outlook Privellege Escalation vulnerability</div>",
+            "url": "https://github.com/Agentgilspy/CVE-2023-23397",
+            "title": "Agentgilspy/CVE-2023-23397: Demonstration of CVE-2023-23397 Outlook Privellege Escalation vulnerability",
+            "date_modified": "2025-04-07T02:34:01.000Z",
+            "date_published": "2025-04-07T02:33:56.000Z",
+            "author": {
+                "name": "Agentgilspy",
+                "url": "https://github.com/Agentgilspy"
             }
         },
         {
@@ -25,17 +47,6 @@
             "author": {
                 "name": "GhostTroops",
                 "url": "https://github.com/GhostTroops"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/202700342?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>In the hushed galleries of the Silent JPG Exploit, a symphony shrouded in enigma unfurls—an opus named silent-jpg-exploit-2018—a title that reverberates through the annals of intrigue.</div>",
-            "url": "https://github.com/USDTC/Jpg-Png-Exploit-Slient-Builder-Exploit-Database-Cve-2023-Malware",
-            "title": "USDTC/Jpg-Png-Exploit-Slient-Builder-Exploit-Database-Cve-2023-Malware: In the hushed galleries of the Silent JPG Exploit, a symphony shrouded in enigma unfurls—an opus named silent-jpg-exploit-2018—a title that reverberates through the annals of intrigue.",
-            "date_modified": "2025-04-06T23:56:56.000Z",
-            "date_published": "2025-03-10T20:10:00.000Z",
-            "author": {
-                "name": "USDTC",
-                "url": "https://github.com/USDTC"
             }
         },
         {
@@ -64,7 +75,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/14187349?u=8aabec383eccc0f67119f8254da522f9ff8354e0&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>[漏洞复现] 全球首款单文件利用 CVE-2023-4357 Chrome XXE 漏洞 EXP, 实现对访客者本地文件窃取. Chrome XXE vulnerability EXP, allowing attackers to obtain local files of visitors.</div>",
             "url": "https://github.com/xcanwin/CVE-2023-4357-Chrome-XXE",
             "title": "xcanwin/CVE-2023-4357-Chrome-XXE: [漏洞复现] 全球首款单文件利用 CVE-2023-4357 Chrome XXE 漏洞 EXP, 实现对访客者本地文件窃取. Chrome XXE vulnerability EXP, allowing attackers to obtain local files of visitors.",
-            "date_modified": "2025-04-07T02:14:12.000Z",
+            "date_modified": "2025-04-07T03:01:07.000Z",
             "date_published": "2023-11-17T10:32:31.000Z",
             "author": {
                 "name": "xcanwin",
@@ -119,7 +130,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/21272757?u=05e07a981df6524a65291eb5aabf23ee921722bb&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Leveraging arbitrary file read to RCE on Oracle PeopleSoft</div>",
             "url": "https://github.com/tuo4n8/CVE-2023-22047",
             "title": "tuo4n8/CVE-2023-22047: Leveraging arbitrary file read to RCE on Oracle PeopleSoft",
-            "date_modified": "2025-04-06T12:55:23.000Z",
+            "date_modified": "2025-04-07T02:56:29.000Z",
             "date_published": "2025-04-02T03:54:56.000Z",
             "author": {
                 "name": "tuo4n8",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "davidzzo23",
                 "url": "https://github.com/davidzzo23"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/58154356?u=f7a869a199156f93b56a51bfe8981bd82ae4db97&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>BTCPayServer version 1.7.5 and below is vulnerable for Open Redirection attack.</div>",
-            "url": "https://github.com/gonzxph/CVE-2023-0748",
-            "title": "gonzxph/CVE-2023-0748: BTCPayServer version 1.7.5 and below is vulnerable for Open Redirection attack.",
-            "date_modified": "2025-03-29T16:48:46.000Z",
-            "date_published": "2023-02-10T16:32:48.000Z",
-            "author": {
-                "name": "gonzxph",
-                "url": "https://github.com/gonzxph"
             }
         }
     ]
