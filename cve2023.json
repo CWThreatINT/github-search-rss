@@ -9,7 +9,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/18195825?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023</div>",
             "url": "https://github.com/CVEProject/cvelist",
             "title": "CVEProject/cvelist: Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023",
-            "date_modified": "2025-04-10T09:00:57.000Z",
+            "date_modified": "2025-04-10T10:00:45.000Z",
             "date_published": "2020-11-02T19:30:55.000Z",
             "author": {
                 "name": "CVEProject",
@@ -17,14 +17,14 @@
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/202700342?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>In the hushed galleries of the Silent JPG Exploit, a symphony shrouded in enigma unfurls—an opus named silent-jpg-exploit-2018—a title that reverberates through the annals of intrigue.</div>",
-            "url": "https://github.com/USDTC/Jpg-Png-Exploit-Slient-Builder-Exploit-Database-Cve-2023-Malware",
-            "title": "USDTC/Jpg-Png-Exploit-Slient-Builder-Exploit-Database-Cve-2023-Malware: In the hushed galleries of the Silent JPG Exploit, a symphony shrouded in enigma unfurls—an opus named silent-jpg-exploit-2018—a title that reverberates through the annals of intrigue.",
-            "date_modified": "2025-04-10T08:57:36.000Z",
-            "date_published": "2025-03-10T20:10:00.000Z",
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/48259298?u=e12968586e485e88abd565de86cd03553c55fe2c&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2023-28354</div>",
+            "url": "https://github.com/stormfleet/CVE-2023-28354",
+            "title": "stormfleet/CVE-2023-28354: CVE-2023-28354",
+            "date_modified": "2025-04-10T09:55:20.000Z",
+            "date_published": "2024-11-20T15:19:32.000Z",
             "author": {
-                "name": "USDTC",
-                "url": "https://github.com/USDTC"
+                "name": "stormfleet",
+                "url": "https://github.com/stormfleet"
             }
         },
         {
@@ -58,17 +58,6 @@
             "author": {
                 "name": "MartiSabate",
                 "url": "https://github.com/MartiSabate"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/48259298?u=e12968586e485e88abd565de86cd03553c55fe2c&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2023-28354</div>",
-            "url": "https://github.com/stormfleet/CVE-2023-28354",
-            "title": "stormfleet/CVE-2023-28354: CVE-2023-28354",
-            "date_modified": "2025-04-08T19:35:12.000Z",
-            "date_published": "2024-11-20T15:19:32.000Z",
-            "author": {
-                "name": "stormfleet",
-                "url": "https://github.com/stormfleet"
             }
         },
         {
@@ -223,6 +212,17 @@
             "author": {
                 "name": "DeividasTerechovas",
                 "url": "https://github.com/DeividasTerechovas"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/83302457?u=1fa395c188df115400164ce1a50c9102aa3af829&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Updated POC for Unauth Post Author Email Disclosures WordPress CVE-2023-5561</div>",
+            "url": "https://github.com/rootxsushant/CVE-2023-5561-POC-Updated",
+            "title": "rootxsushant/CVE-2023-5561-POC-Updated: Updated POC for Unauth Post Author Email Disclosures WordPress CVE-2023-5561",
+            "date_modified": "2025-04-01T07:29:54.000Z",
+            "date_published": "2025-04-01T07:19:31.000Z",
+            "author": {
+                "name": "rootxsushant",
+                "url": "https://github.com/rootxsushant"
             }
         }
     ]
