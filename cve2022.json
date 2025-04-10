@@ -6,6 +6,17 @@
     "description": "CVE-2022 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/135951177?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
+            "url": "https://github.com/Tim-Hoekstra/CVE-2022-37932",
+            "title": "Tim-Hoekstra/CVE-2022-37932",
+            "date_modified": "2025-04-10T03:27:35.000Z",
+            "date_published": "2025-04-10T03:27:07.000Z",
+            "author": {
+                "name": "Tim-Hoekstra",
+                "url": "https://github.com/Tim-Hoekstra"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/91001195?u=39c2b0ae2e98459f48d2015337e05afa01311dcb&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Project Repository for Exploitation, Detection and Mitigation of Folina Vulnerability (CVE-2022-30190) </div>",
             "url": "https://github.com/RathoreAbhiii/Folina-Vulnerability-Exploitation-Detection-and-Mitigation",
             "title": "RathoreAbhiii/Folina-Vulnerability-Exploitation-Detection-and-Mitigation: Project Repository for Exploitation, Detection and Mitigation of Folina Vulnerability (CVE-2022-30190) ",
@@ -69,6 +80,17 @@
             "author": {
                 "name": "mr-won",
                 "url": "https://github.com/mr-won"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/170967564?u=ac0e79aa7471c275e8d0fe78cdefeb4c4134ba11&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2022-39299 취약점에 대한 Research 정리</div>",
+            "url": "https://github.com/KaztoRay/CVE-2022-39299-Research",
+            "title": "KaztoRay/CVE-2022-39299-Research: CVE-2022-39299 취약점에 대한 Research 정리",
+            "date_modified": "2025-04-10T04:05:41.000Z",
+            "date_published": "2025-03-30T03:39:58.000Z",
+            "author": {
+                "name": "KaztoRay",
+                "url": "https://github.com/KaztoRay"
             }
         },
         {
@@ -201,28 +223,6 @@
             "author": {
                 "name": "vesu-nights",
                 "url": "https://github.com/vesu-nights"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/58906858?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2022-3689</div>",
-            "url": "https://github.com/mr-won/CVE-2022-3689",
-            "title": "mr-won/CVE-2022-3689: CVE-2022-3689",
-            "date_modified": "2025-03-18T05:00:05.000Z",
-            "date_published": "2025-03-18T01:41:27.000Z",
-            "author": {
-                "name": "mr-won",
-                "url": "https://github.com/mr-won"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/116582950?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Bootloader unlock using CVE-2022-38694 for Anbernic Unisoc T820 devices</div>",
-            "url": "https://github.com/TheGammaSqueeze/Bootloader_Unlock_Anbernic_T820",
-            "title": "TheGammaSqueeze/Bootloader_Unlock_Anbernic_T820: Bootloader unlock using CVE-2022-38694 for Anbernic Unisoc T820 devices",
-            "date_modified": "2025-04-09T10:31:33.000Z",
-            "date_published": "2024-06-27T14:28:13.000Z",
-            "author": {
-                "name": "TheGammaSqueeze",
-                "url": "https://github.com/TheGammaSqueeze"
             }
         }
     ]
