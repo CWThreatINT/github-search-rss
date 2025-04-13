@@ -6,6 +6,17 @@
     "description": "CVE-2021 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/149957383?u=3254f6a8146f86437f8641b75fd42fea1f965a58&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
+            "url": "https://github.com/oieramelibia/DEV_Practica_CVE_2021_4034",
+            "title": "oieramelibia/DEV_Practica_CVE_2021_4034",
+            "date_modified": "2025-04-13T19:53:05.000Z",
+            "date_published": "2025-04-13T19:48:55.000Z",
+            "author": {
+                "name": "oieramelibia",
+                "url": "https://github.com/oieramelibia"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/157810194?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
             "url": "https://github.com/ikerSandoval003/CVE-2021-4034",
             "title": "ikerSandoval003/CVE-2021-4034",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "ashique-thaha",
                 "url": "https://github.com/ashique-thaha"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/67317571?u=a09c3feb6538d1a7f8a5f2d2a62a838ab0d22ed6&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>This repository contains all gathered resources we used during our Incident Reponse on CVE-2021-44228 and CVE-2021-45046 aka Log4Shell.</div>",
-            "url": "https://github.com/0xsyr0/Log4Shell",
-            "title": "0xsyr0/Log4Shell: This repository contains all gathered resources we used during our Incident Reponse on CVE-2021-44228 and CVE-2021-45046 aka Log4Shell.",
-            "date_modified": "2025-03-20T14:38:17.000Z",
-            "date_published": "2021-12-13T11:34:54.000Z",
-            "author": {
-                "name": "0xsyr0",
-                "url": "https://github.com/0xsyr0"
             }
         }
     ]
