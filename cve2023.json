@@ -6,6 +6,17 @@
     "description": "CVE-2023 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/16064310?u=98b6e3df97f19a6d85706109e5151dadd643b4ff&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>This is my own exploit for CVE-2023-46818 happy hacking!</div>",
+            "url": "https://github.com/blindma1den/CVE-2023-46818-Exploit",
+            "title": "blindma1den/CVE-2023-46818-Exploit: This is my own exploit for CVE-2023-46818 happy hacking!",
+            "date_modified": "2025-04-13T15:07:39.000Z",
+            "date_published": "2025-04-13T14:55:44.000Z",
+            "author": {
+                "name": "blindma1den",
+                "url": "https://github.com/blindma1den"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/102546770?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
             "url": "https://github.com/spyata123/CVE-2023-3128",
             "title": "spyata123/CVE-2023-3128",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "xcanwin",
                 "url": "https://github.com/xcanwin"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/52015401?u=b59e5d6396c59983d1a8ecf7e39321bd1749acfa&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2023-40931 Proof of Concept made for HTB MONITORED</div>",
-            "url": "https://github.com/G4sp4rCS/CVE-2023-40931-POC",
-            "title": "G4sp4rCS/CVE-2023-40931-POC: CVE-2023-40931 Proof of Concept made for HTB MONITORED",
-            "date_modified": "2025-04-04T16:29:05.000Z",
-            "date_published": "2025-04-04T12:35:30.000Z",
-            "author": {
-                "name": "G4sp4rCS",
-                "url": "https://github.com/G4sp4rCS"
             }
         }
     ]
