@@ -6,6 +6,17 @@
     "description": "CVE-2023 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/168641155?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>POC and EXP for CVE-2023-35085</div>",
+            "url": "https://github.com/maoruiQa/CVE-2023-35085-POC-EXP",
+            "title": "maoruiQa/CVE-2023-35085-POC-EXP: POC and EXP for CVE-2023-35085",
+            "date_modified": "2025-04-13T16:45:46.000Z",
+            "date_published": "2025-04-13T16:29:00.000Z",
+            "author": {
+                "name": "maoruiQa",
+                "url": "https://github.com/maoruiQa"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/16064310?u=98b6e3df97f19a6d85706109e5151dadd643b4ff&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>This is my own exploit for CVE-2023-46818 happy hacking!</div>",
             "url": "https://github.com/blindma1den/CVE-2023-46818-Exploit",
             "title": "blindma1den/CVE-2023-46818-Exploit: This is my own exploit for CVE-2023-46818 happy hacking!",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "insomnia-jacob",
                 "url": "https://github.com/insomnia-jacob"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/14187349?u=8aabec383eccc0f67119f8254da522f9ff8354e0&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>[漏洞复现] 全球首款单文件利用 CVE-2023-4357 Chrome XXE 漏洞 EXP, 实现对访客者本地文件窃取. Chrome XXE vulnerability EXP, allowing attackers to obtain local files of visitors.</div>",
-            "url": "https://github.com/xcanwin/CVE-2023-4357-Chrome-XXE",
-            "title": "xcanwin/CVE-2023-4357-Chrome-XXE: [漏洞复现] 全球首款单文件利用 CVE-2023-4357 Chrome XXE 漏洞 EXP, 实现对访客者本地文件窃取. Chrome XXE vulnerability EXP, allowing attackers to obtain local files of visitors.",
-            "date_modified": "2025-04-11T03:57:52.000Z",
-            "date_published": "2023-11-17T10:32:31.000Z",
-            "author": {
-                "name": "xcanwin",
-                "url": "https://github.com/xcanwin"
             }
         }
     ]
