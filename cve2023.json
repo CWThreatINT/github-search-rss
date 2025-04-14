@@ -9,11 +9,33 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/18195825?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023</div>",
             "url": "https://github.com/CVEProject/cvelist",
             "title": "CVEProject/cvelist: Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023",
-            "date_modified": "2025-04-14T22:00:45.000Z",
+            "date_modified": "2025-04-14T23:00:43.000Z",
             "date_published": "2020-11-02T19:30:55.000Z",
             "author": {
                 "name": "CVEProject",
                 "url": "https://github.com/CVEProject"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/168641155?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>POC and EXP for CVE-2023-35085</div>",
+            "url": "https://github.com/maoruiQa/CVE-2023-35085-POC-EXP",
+            "title": "maoruiQa/CVE-2023-35085-POC-EXP: POC and EXP for CVE-2023-35085",
+            "date_modified": "2025-04-14T22:45:55.000Z",
+            "date_published": "2025-04-13T16:29:00.000Z",
+            "author": {
+                "name": "maoruiQa",
+                "url": "https://github.com/maoruiQa"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/4262359?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>HTTP/2 Rapid Reset Exploit PoC</div>",
+            "url": "https://github.com/moften/CVE-2023-44487",
+            "title": "moften/CVE-2023-44487: HTTP/2 Rapid Reset Exploit PoC",
+            "date_modified": "2025-04-14T22:39:52.000Z",
+            "date_published": "2025-04-14T22:39:08.000Z",
+            "author": {
+                "name": "moften",
+                "url": "https://github.com/moften"
             }
         },
         {
@@ -80,17 +102,6 @@
             "author": {
                 "name": "ajdumanhug",
                 "url": "https://github.com/ajdumanhug"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/168641155?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>POC and EXP for CVE-2023-35085</div>",
-            "url": "https://github.com/maoruiQa/CVE-2023-35085-POC-EXP",
-            "title": "maoruiQa/CVE-2023-35085-POC-EXP: POC and EXP for CVE-2023-35085",
-            "date_modified": "2025-04-13T16:45:46.000Z",
-            "date_published": "2025-04-13T16:29:00.000Z",
-            "author": {
-                "name": "maoruiQa",
-                "url": "https://github.com/maoruiQa"
             }
         },
         {
@@ -212,17 +223,6 @@
             "author": {
                 "name": "MartiSabate",
                 "url": "https://github.com/MartiSabate"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/52015401?u=b59e5d6396c59983d1a8ecf7e39321bd1749acfa&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2023-2255 for LPE</div>",
-            "url": "https://github.com/G4sp4rCS/CVE-2023-2255",
-            "title": "G4sp4rCS/CVE-2023-2255: CVE-2023-2255 for LPE",
-            "date_modified": "2025-04-08T16:00:04.000Z",
-            "date_published": "2025-04-08T15:59:48.000Z",
-            "author": {
-                "name": "G4sp4rCS",
-                "url": "https://github.com/G4sp4rCS"
             }
         }
     ]
