@@ -6,21 +6,10 @@
     "description": "CVE-2023 FEED on GitHub",
     "items": [
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/53823266?u=69b246c826348210ad76b433ec2d170a9b114a43&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2023-27163 Request-baskets up to v1.2.1 was discovered to contain a Server-Side Request Forgery (SSRF) via the component /api/baskets/{name}. This vulnerability allows attackers to access network resources and sensitive information via a crafted API request. This POC utilizes the SSRF to perfrom RCE.</div>",
-            "url": "https://github.com/lukehebe/CVE-2023-27163",
-            "title": "lukehebe/CVE-2023-27163: CVE-2023-27163 Request-baskets up to v1.2.1 was discovered to contain a Server-Side Request Forgery (SSRF) via the component /api/baskets/{name}. This vulnerability allows attackers to access network resources and sensitive information via a crafted API request. This POC utilizes the SSRF to perfrom RCE.",
-            "date_modified": "2025-04-17T17:08:27.000Z",
-            "date_published": "2025-04-17T16:54:34.000Z",
-            "author": {
-                "name": "lukehebe",
-                "url": "https://github.com/lukehebe"
-            }
-        },
-        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/18195825?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023</div>",
             "url": "https://github.com/CVEProject/cvelist",
             "title": "CVEProject/cvelist: Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023",
-            "date_modified": "2025-04-17T17:00:49.000Z",
+            "date_modified": "2025-04-17T18:08:08.000Z",
             "date_published": "2020-11-02T19:30:55.000Z",
             "author": {
                 "name": "CVEProject",
@@ -31,11 +20,22 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/207928570?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>In the hushed galleries of the Silent JPG Exploit, a symphony shrouded in enigma unfurls—an opus named silent-jpg-exploit-2018—a title that reverberates through the annals of intrigue.</div>",
             "url": "https://github.com/Qweryyts/Jpg-Png-Exploit-Slient-Builder-Exploit-Database-Cve-2023-Malware",
             "title": "Qweryyts/Jpg-Png-Exploit-Slient-Builder-Exploit-Database-Cve-2023-Malware: In the hushed galleries of the Silent JPG Exploit, a symphony shrouded in enigma unfurls—an opus named silent-jpg-exploit-2018—a title that reverberates through the annals of intrigue.",
-            "date_modified": "2025-04-17T16:58:17.000Z",
+            "date_modified": "2025-04-17T17:55:33.000Z",
             "date_published": "2025-04-16T20:28:19.000Z",
             "author": {
                 "name": "Qweryyts",
                 "url": "https://github.com/Qweryyts"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/53823266?u=69b246c826348210ad76b433ec2d170a9b114a43&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2023-27163 Request-baskets up to v1.2.1 was discovered to contain a Server-Side Request Forgery (SSRF) via the component /api/baskets/{name}. This vulnerability allows attackers to access network resources and sensitive information via a crafted API request. This POC utilizes the SSRF to perfrom RCE.</div>",
+            "url": "https://github.com/lukehebe/CVE-2023-27163",
+            "title": "lukehebe/CVE-2023-27163: CVE-2023-27163 Request-baskets up to v1.2.1 was discovered to contain a Server-Side Request Forgery (SSRF) via the component /api/baskets/{name}. This vulnerability allows attackers to access network resources and sensitive information via a crafted API request. This POC utilizes the SSRF to perfrom RCE.",
+            "date_modified": "2025-04-17T17:17:27.000Z",
+            "date_published": "2025-04-17T16:54:34.000Z",
+            "author": {
+                "name": "lukehebe",
+                "url": "https://github.com/lukehebe"
             }
         },
         {
