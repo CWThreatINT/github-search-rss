@@ -6,6 +6,17 @@
     "description": "CVE-2021 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/131496421?u=dbfbc2ec65a518552d292ee51d5cb61cac82e8ba&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Authenticated (privileged) remote command execution via upload and install plugins allows a remote user to upload arbitrary PHP code file.</div>",
+            "url": "https://github.com/monke443/CVE-2021-44967",
+            "title": "monke443/CVE-2021-44967: Authenticated (privileged) remote command execution via upload and install plugins allows a remote user to upload arbitrary PHP code file.",
+            "date_modified": "2025-04-18T10:59:19.000Z",
+            "date_published": "2025-04-18T10:59:15.000Z",
+            "author": {
+                "name": "monke443",
+                "url": "https://github.com/monke443"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/178741512?u=ea4a52b04f8cbd321db404ab275bee29dcae6c71&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div> NGINX Security Hardening &amp; Vulnerability Remediation Analysis of critical CVEs (CVE-2021-23017, HTTP/2 DoS flaws) in outdated NGINX versions, with actionable steps for mitigation: upgrades, HTTP/2 hardening, and patch automation. Includes Nessus scan validation and proactive monitoring strategies.</div>",
             "url": "https://github.com/Cybervixy/Vulnerability-Management",
             "title": "Cybervixy/Vulnerability-Management:  NGINX Security Hardening & Vulnerability Remediation Analysis of critical CVEs (CVE-2021-23017, HTTP/2 DoS flaws) in outdated NGINX versions, with actionable steps for mitigation: upgrades, HTTP/2 hardening, and patch automation. Includes Nessus scan validation and proactive monitoring strategies.",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "Tai-e",
                 "url": "https://github.com/Tai-e"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/42279120?u=8eb027b6e510ebe2f40be2360f3ad38833502a58&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Sets up a local Tapo C200 using CVE-2021-4045</div>",
-            "url": "https://github.com/DorskFR/tapodate",
-            "title": "DorskFR/tapodate: Sets up a local Tapo C200 using CVE-2021-4045",
-            "date_modified": "2025-03-31T00:06:35.000Z",
-            "date_published": "2025-03-30T22:46:00.000Z",
-            "author": {
-                "name": "DorskFR",
-                "url": "https://github.com/DorskFR"
             }
         }
     ]
