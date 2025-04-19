@@ -6,6 +6,17 @@
     "description": "CVE-2022 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/204947170?u=77226033afe06f6cbd140609119e32feb582dad7&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Simple Exploit for Dirty Pipe Vulnerability (CVE-2022-0847) This repository contains a simple proof of concept (PoC) for the Dirty Pipe vulnerability (CVE-2022-0847), which affects Linux kernel versions 5.8 to 5.16. This exploit demonstrates local privilege escalation  by leveraging improper handling of pipe buffers in the kernel.</div>",
+            "url": "https://github.com/byteReaper77/Dirty-Pipe",
+            "title": "byteReaper77/Dirty-Pipe: Simple Exploit for Dirty Pipe Vulnerability (CVE-2022-0847) This repository contains a simple proof of concept (PoC) for the Dirty Pipe vulnerability (CVE-2022-0847), which affects Linux kernel versions 5.8 to 5.16. This exploit demonstrates local privilege escalation  by leveraging improper handling of pipe buffers in the kernel.",
+            "date_modified": "2025-04-19T15:04:31.000Z",
+            "date_published": "2025-04-19T14:38:53.000Z",
+            "author": {
+                "name": "byteReaper77",
+                "url": "https://github.com/byteReaper77"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/59293085?u=6e3dcea881813bd3ebf55b9ba5357c66cd233b70&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>An attacker could place HTML containing executable JavaScript inside element attributes. This markup becomes unescaped, causing arbitrary markup to be injected into the document.</div>",
             "url": "https://github.com/rxerium/CVE-2022-24086",
             "title": "rxerium/CVE-2022-24086: An attacker could place HTML containing executable JavaScript inside element attributes. This markup becomes unescaped, causing arbitrary markup to be injected into the document.",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "user20252228",
                 "url": "https://github.com/user20252228"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/41171807?u=365fa66c7280b896448d752115911ba46b3ff72b&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Writeup and POC for CVE-2022-23134</div>",
-            "url": "https://github.com/TheN00bBuilder/cve-2022-23134-poc-and-writeup",
-            "title": "TheN00bBuilder/cve-2022-23134-poc-and-writeup: Writeup and POC for CVE-2022-23134",
-            "date_modified": "2025-03-23T06:27:57.000Z",
-            "date_published": "2025-03-23T06:15:09.000Z",
-            "author": {
-                "name": "TheN00bBuilder",
-                "url": "https://github.com/TheN00bBuilder"
             }
         }
     ]
