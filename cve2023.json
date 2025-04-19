@@ -6,10 +6,21 @@
     "description": "CVE-2023 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/197676821?u=34ae3eb1b4ef04d6a9bae60d018db9f25367015d&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2023-38408 SSH Vulnerability Scanner &amp; PoC</div>",
+            "url": "https://github.com/TX-One/CVE-2023-38408",
+            "title": "TX-One/CVE-2023-38408: CVE-2023-38408 SSH Vulnerability Scanner & PoC",
+            "date_modified": "2025-04-19T20:09:15.000Z",
+            "date_published": "2025-04-19T20:09:15.000Z",
+            "author": {
+                "name": "TX-One",
+                "url": "https://github.com/TX-One"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/18195825?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023</div>",
             "url": "https://github.com/CVEProject/cvelist",
             "title": "CVEProject/cvelist: Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023",
-            "date_modified": "2025-04-19T19:00:49.000Z",
+            "date_modified": "2025-04-19T20:00:54.000Z",
             "date_published": "2020-11-02T19:30:55.000Z",
             "author": {
                 "name": "CVEProject",
@@ -20,7 +31,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/207928570?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>In the hushed galleries of the Silent JPG Exploit, a symphony shrouded in enigma unfurls—an opus named silent-jpg-exploit-2018—a title that reverberates through the annals of intrigue.</div>",
             "url": "https://github.com/Qweryyts/Jpg-Png-Exploit-Slient-Builder-Exploit-Database-Cve-2023-Malware",
             "title": "Qweryyts/Jpg-Png-Exploit-Slient-Builder-Exploit-Database-Cve-2023-Malware: In the hushed galleries of the Silent JPG Exploit, a symphony shrouded in enigma unfurls—an opus named silent-jpg-exploit-2018—a title that reverberates through the annals of intrigue.",
-            "date_modified": "2025-04-19T18:59:02.000Z",
+            "date_modified": "2025-04-19T19:55:42.000Z",
             "date_published": "2025-04-16T20:28:19.000Z",
             "author": {
                 "name": "Qweryyts",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "0xB0y426",
                 "url": "https://github.com/0xB0y426"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/16064310?u=f84293aca43c224a028ea21246afdc98796a6254&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>This is my own exploit for CVE-2023-46818 happy hacking!</div>",
-            "url": "https://github.com/blindma1den/CVE-2023-46818-Exploit",
-            "title": "blindma1den/CVE-2023-46818-Exploit: This is my own exploit for CVE-2023-46818 happy hacking!",
-            "date_modified": "2025-04-14T09:44:30.000Z",
-            "date_published": "2025-04-13T14:55:44.000Z",
-            "author": {
-                "name": "blindma1den",
-                "url": "https://github.com/blindma1den"
             }
         }
     ]
