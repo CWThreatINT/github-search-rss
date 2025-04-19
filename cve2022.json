@@ -9,7 +9,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/204947170?u=77226033afe06f6cbd140609119e32feb582dad7&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Simple Exploit for Dirty Pipe Vulnerability (CVE-2022-0847) This repository contains a simple proof of concept (PoC) for the Dirty Pipe vulnerability (CVE-2022-0847), which affects Linux kernel versions 5.8 to 5.16. This exploit demonstrates local privilege escalation  by leveraging improper handling of pipe buffers in the kernel.</div>",
             "url": "https://github.com/byteReaper77/Dirty-Pipe",
             "title": "byteReaper77/Dirty-Pipe: Simple Exploit for Dirty Pipe Vulnerability (CVE-2022-0847) This repository contains a simple proof of concept (PoC) for the Dirty Pipe vulnerability (CVE-2022-0847), which affects Linux kernel versions 5.8 to 5.16. This exploit demonstrates local privilege escalation  by leveraging improper handling of pipe buffers in the kernel.",
-            "date_modified": "2025-04-19T15:04:31.000Z",
+            "date_modified": "2025-04-19T15:13:31.000Z",
             "date_published": "2025-04-19T14:38:53.000Z",
             "author": {
                 "name": "byteReaper77",
