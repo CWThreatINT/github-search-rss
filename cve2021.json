@@ -6,6 +6,17 @@
     "description": "CVE-2021 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/16252104?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Bug Chain XSS (CVE-2020-35730 and CVE-2023-43770) to SQLi (CVE-2021-44026)</div>",
+            "url": "https://github.com/skyllpro/CVE-2021-44026-PoC",
+            "title": "skyllpro/CVE-2021-44026-PoC: Bug Chain XSS (CVE-2020-35730 and CVE-2023-43770) to SQLi (CVE-2021-44026)",
+            "date_modified": "2025-04-20T07:32:14.000Z",
+            "date_published": "2025-04-20T07:30:38.000Z",
+            "author": {
+                "name": "skyllpro",
+                "url": "https://github.com/skyllpro"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/131496421?u=dbfbc2ec65a518552d292ee51d5cb61cac82e8ba&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Authenticated (privileged) remote command execution in LimeSurvey Version 5.2.4 via upload and install plugins allows a remote user to upload arbitrary PHP code file.</div>",
             "url": "https://github.com/monke443/CVE-2021-44967",
             "title": "monke443/CVE-2021-44967: Authenticated (privileged) remote command execution in LimeSurvey Version 5.2.4 via upload and install plugins allows a remote user to upload arbitrary PHP code file.",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "fordsham",
                 "url": "https://github.com/fordsham"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/100122463?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Utilize Tai-e to identify the Log4shell (a.k.a. CVE-2021-44228) Vulnerability</div>",
-            "url": "https://github.com/Tai-e/CVE-2021-44228",
-            "title": "Tai-e/CVE-2021-44228: Utilize Tai-e to identify the Log4shell (a.k.a. CVE-2021-44228) Vulnerability",
-            "date_modified": "2025-04-01T06:53:54.000Z",
-            "date_published": "2023-10-06T04:36:31.000Z",
-            "author": {
-                "name": "Tai-e",
-                "url": "https://github.com/Tai-e"
             }
         }
     ]
