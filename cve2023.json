@@ -6,10 +6,21 @@
     "description": "CVE-2023 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/51903566?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
+            "url": "https://github.com/custiya/geoserver-CVE-2023-25157",
+            "title": "custiya/geoserver-CVE-2023-25157",
+            "date_modified": "2025-04-21T13:18:26.000Z",
+            "date_published": "2025-04-21T13:13:01.000Z",
+            "author": {
+                "name": "custiya",
+                "url": "https://github.com/custiya"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/18195825?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023</div>",
             "url": "https://github.com/CVEProject/cvelist",
             "title": "CVEProject/cvelist: Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023",
-            "date_modified": "2025-04-21T12:00:49.000Z",
+            "date_modified": "2025-04-21T13:00:48.000Z",
             "date_published": "2020-11-02T19:30:55.000Z",
             "author": {
                 "name": "CVEProject",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "wsx-rootdeef",
                 "url": "https://github.com/wsx-rootdeef"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/168641155?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>POC and EXP for CVE-2023-35085</div>",
-            "url": "https://github.com/maoruiQa/CVE-2023-35085-POC-EXP",
-            "title": "maoruiQa/CVE-2023-35085-POC-EXP: POC and EXP for CVE-2023-35085",
-            "date_modified": "2025-04-14T22:45:55.000Z",
-            "date_published": "2025-04-13T16:29:00.000Z",
-            "author": {
-                "name": "maoruiQa",
-                "url": "https://github.com/maoruiQa"
             }
         }
     ]
