@@ -9,11 +9,22 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/18195825?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023</div>",
             "url": "https://github.com/CVEProject/cvelist",
             "title": "CVEProject/cvelist: Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023",
-            "date_modified": "2025-04-22T16:00:48.000Z",
+            "date_modified": "2025-04-22T17:00:50.000Z",
             "date_published": "2020-11-02T19:30:55.000Z",
             "author": {
                 "name": "CVEProject",
                 "url": "https://github.com/CVEProject"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/208688599?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Demo for detection and mitigation of HTTP/2 Rapid Reset vulnerability (CVE-2023-44487</div>",
+            "url": "https://github.com/zanks08/cve-2023-44487-demo",
+            "title": "zanks08/cve-2023-44487-demo: Demo for detection and mitigation of HTTP/2 Rapid Reset vulnerability (CVE-2023-44487",
+            "date_modified": "2025-04-22T16:50:58.000Z",
+            "date_published": "2025-04-22T16:50:33.000Z",
+            "author": {
+                "name": "zanks08",
+                "url": "https://github.com/zanks08"
             }
         },
         {
@@ -212,17 +223,6 @@
             "author": {
                 "name": "wsx-rootdeef",
                 "url": "https://github.com/wsx-rootdeef"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/168641155?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>POC and EXP for CVE-2023-35085</div>",
-            "url": "https://github.com/maoruiQa/CVE-2023-35085-POC-EXP",
-            "title": "maoruiQa/CVE-2023-35085-POC-EXP: POC and EXP for CVE-2023-35085",
-            "date_modified": "2025-04-14T22:45:55.000Z",
-            "date_published": "2025-04-13T16:29:00.000Z",
-            "author": {
-                "name": "maoruiQa",
-                "url": "https://github.com/maoruiQa"
             }
         }
     ]
