@@ -6,6 +6,17 @@
     "description": "CVE-2022 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/44172898?u=94232037b89db262882bf50ae517be351bd21ff2&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Automated CVE 2022 35914 Checker</div>",
+            "url": "https://github.com/joelindra/HTMLawedChecker",
+            "title": "joelindra/HTMLawedChecker: Automated CVE 2022 35914 Checker",
+            "date_modified": "2025-04-22T02:16:45.000Z",
+            "date_published": "2024-05-27T04:25:12.000Z",
+            "author": {
+                "name": "joelindra",
+                "url": "https://github.com/joelindra"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/204947170?u=ab1dcdd4156d7239361a501fa97480432a6e2e4c&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Simple Exploit for Dirty Pipe Vulnerability (CVE-2022-0847) This repository contains a simple proof of concept (PoC) for the Dirty Pipe vulnerability (CVE-2022-0847), which affects Linux kernel versions 5.8 to 5.16. This exploit demonstrates local privilege escalation  by leveraging improper handling of pipe buffers in the kernel.</div>",
             "url": "https://github.com/byteReaper77/Dirty-Pipe",
             "title": "byteReaper77/Dirty-Pipe: Simple Exploit for Dirty Pipe Vulnerability (CVE-2022-0847) This repository contains a simple proof of concept (PoC) for the Dirty Pipe vulnerability (CVE-2022-0847), which affects Linux kernel versions 5.8 to 5.16. This exploit demonstrates local privilege escalation  by leveraging improper handling of pipe buffers in the kernel.",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "voidz0r",
                 "url": "https://github.com/voidz0r"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/58906858?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>consolejndi.potal path cve 2022 14882</div>",
-            "url": "https://github.com/user20252228/oracle_weblogic_server",
-            "title": "user20252228/oracle_weblogic_server: consolejndi.potal path cve 2022 14882",
-            "date_modified": "2025-03-23T06:42:07.000Z",
-            "date_published": "2025-03-23T06:42:03.000Z",
-            "author": {
-                "name": "user20252228",
-                "url": "https://github.com/user20252228"
             }
         }
     ]
