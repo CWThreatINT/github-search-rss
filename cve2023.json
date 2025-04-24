@@ -9,7 +9,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/18195825?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023</div>",
             "url": "https://github.com/CVEProject/cvelist",
             "title": "CVEProject/cvelist: Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023",
-            "date_modified": "2025-04-24T17:00:59.000Z",
+            "date_modified": "2025-04-24T18:00:45.000Z",
             "date_published": "2020-11-02T19:30:55.000Z",
             "author": {
                 "name": "CVEProject",
@@ -20,11 +20,22 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/208832764?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>In the hushed galleries of the Silent JPG Exploit, a symphony shrouded in enigma unfurls—an opus named silent-jpg-exploit-2018—a title that reverberates through the annals of intrigue.</div>",
             "url": "https://github.com/Harolamsis/Jpg-Png-Exploit-Slient-Builder-Exploit-Database-Cve-2023-Malware",
             "title": "Harolamsis/Jpg-Png-Exploit-Slient-Builder-Exploit-Database-Cve-2023-Malware: In the hushed galleries of the Silent JPG Exploit, a symphony shrouded in enigma unfurls—an opus named silent-jpg-exploit-2018—a title that reverberates through the annals of intrigue.",
-            "date_modified": "2025-04-24T16:59:03.000Z",
+            "date_modified": "2025-04-24T17:54:04.000Z",
             "date_published": "2025-04-23T15:24:57.000Z",
             "author": {
                 "name": "Harolamsis",
                 "url": "https://github.com/Harolamsis"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/69639544?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>PoC for CVE-2023-30212 using Docker</div>",
+            "url": "https://github.com/sungmin20/cve-2023-30212",
+            "title": "sungmin20/cve-2023-30212: PoC for CVE-2023-30212 using Docker",
+            "date_modified": "2025-04-24T17:11:17.000Z",
+            "date_published": "2025-04-11T12:27:55.000Z",
+            "author": {
+                "name": "sungmin20",
+                "url": "https://github.com/sungmin20"
             }
         },
         {
@@ -212,17 +223,6 @@
             "author": {
                 "name": "ajdumanhug",
                 "url": "https://github.com/ajdumanhug"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/60004847?u=9278141595df1c3b597c6bbcabfbec2d5e6f6414&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
-            "url": "https://github.com/pulentoski/Explotacion-CVE-2023-32315-Openfire",
-            "title": "pulentoski/Explotacion-CVE-2023-32315-Openfire",
-            "date_modified": "2025-04-15T23:09:05.000Z",
-            "date_published": "2025-04-14T18:07:47.000Z",
-            "author": {
-                "name": "pulentoski",
-                "url": "https://github.com/pulentoski"
             }
         }
     ]
