@@ -9,11 +9,22 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/18195825?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023</div>",
             "url": "https://github.com/CVEProject/cvelist",
             "title": "CVEProject/cvelist: Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023",
-            "date_modified": "2025-04-25T06:00:46.000Z",
+            "date_modified": "2025-04-25T07:00:45.000Z",
             "date_published": "2020-11-02T19:30:55.000Z",
             "author": {
                 "name": "CVEProject",
                 "url": "https://github.com/CVEProject"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/46563149?u=15febde470e4018bbb86f6a5efdb884dfbb89a5c&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Flask CVE-2023-30861 Poc 환경구축</div>",
+            "url": "https://github.com/fromitive/cve-2023-30861-poc",
+            "title": "fromitive/cve-2023-30861-poc: Flask CVE-2023-30861 Poc 환경구축",
+            "date_modified": "2025-04-25T06:59:13.000Z",
+            "date_published": "2025-04-25T06:59:02.000Z",
+            "author": {
+                "name": "fromitive",
+                "url": "https://github.com/fromitive"
             }
         },
         {
@@ -212,17 +223,6 @@
             "author": {
                 "name": "ulricvbs",
                 "url": "https://github.com/ulricvbs"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/9420289?u=446a58aa63706a50571488df5bcd602f3978fac5&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2023-46818 Python3 Exploit for ISPConfig &lt;= 3.2.11 (language_edit.php) PHP Code Injection Vulnerability</div>",
-            "url": "https://github.com/ajdumanhug/CVE-2023-46818",
-            "title": "ajdumanhug/CVE-2023-46818: CVE-2023-46818 Python3 Exploit for ISPConfig <= 3.2.11 (language_edit.php) PHP Code Injection Vulnerability",
-            "date_modified": "2025-04-16T12:23:33.000Z",
-            "date_published": "2025-04-13T19:12:55.000Z",
-            "author": {
-                "name": "ajdumanhug",
-                "url": "https://github.com/ajdumanhug"
             }
         }
     ]
