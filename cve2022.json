@@ -6,6 +6,17 @@
     "description": "CVE-2022 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/8326868?u=ade36a1f8b0d5214810b46f577fb682fb08be122&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Apache CouchDB 3.2.1 - Remote Code Execution (RCE) Checker</div>",
+            "url": "https://github.com/becrevex/CVE-2022-24706",
+            "title": "becrevex/CVE-2022-24706: Apache CouchDB 3.2.1 - Remote Code Execution (RCE) Checker",
+            "date_modified": "2025-04-25T16:08:45.000Z",
+            "date_published": "2024-10-08T07:02:30.000Z",
+            "author": {
+                "name": "becrevex",
+                "url": "https://github.com/becrevex"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/44172898?u=94232037b89db262882bf50ae517be351bd21ff2&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Automated CVE 2022 35914 Checker</div>",
             "url": "https://github.com/joelindra/HTMLawedChecker",
             "title": "joelindra/HTMLawedChecker: Automated CVE 2022 35914 Checker",
@@ -146,17 +157,6 @@
             "author": {
                 "name": "arkede",
                 "url": "https://github.com/arkede"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/8326868?u=ade36a1f8b0d5214810b46f577fb682fb08be122&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Apache CouchDB 3.2.1 - Remote Code Execution (RCE) Checker</div>",
-            "url": "https://github.com/becrevex/CVE-2022-24706",
-            "title": "becrevex/CVE-2022-24706: Apache CouchDB 3.2.1 - Remote Code Execution (RCE) Checker",
-            "date_modified": "2025-03-29T04:51:23.000Z",
-            "date_published": "2024-10-08T07:02:30.000Z",
-            "author": {
-                "name": "becrevex",
-                "url": "https://github.com/becrevex"
             }
         },
         {
