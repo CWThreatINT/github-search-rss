@@ -6,6 +6,28 @@
     "description": "CVE-2022 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/5783068?u=8ead6f35fa4c2d1fc565e6f080630d2bb299f41d&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Python implementation for NotProxyShell aka CVE-2022-40140 &amp; CVE-2022-41082</div>",
+            "url": "https://github.com/ZephrFish/NotProxyShellScanner",
+            "title": "ZephrFish/NotProxyShellScanner: Python implementation for NotProxyShell aka CVE-2022-40140 & CVE-2022-41082",
+            "date_modified": "2025-04-26T06:49:09.000Z",
+            "date_published": "2022-10-07T08:10:00.000Z",
+            "author": {
+                "name": "ZephrFish",
+                "url": "https://github.com/ZephrFish"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/5783068?u=8ead6f35fa4c2d1fc565e6f080630d2bb299f41d&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Exploit and Check Script for CVE 2022-1388</div>",
+            "url": "https://github.com/ZephrFish/F5-CVE-2022-1388-Exploit",
+            "title": "ZephrFish/F5-CVE-2022-1388-Exploit: Exploit and Check Script for CVE 2022-1388",
+            "date_modified": "2025-04-26T06:48:33.000Z",
+            "date_published": "2022-05-09T11:30:09.000Z",
+            "author": {
+                "name": "ZephrFish",
+                "url": "https://github.com/ZephrFish"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/8326868?u=ade36a1f8b0d5214810b46f577fb682fb08be122&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Apache CouchDB 3.2.1 - Remote Code Execution (RCE) Checker</div>",
             "url": "https://github.com/becrevex/CVE-2022-24706",
             "title": "becrevex/CVE-2022-24706: Apache CouchDB 3.2.1 - Remote Code Execution (RCE) Checker",
@@ -201,28 +223,6 @@
             "author": {
                 "name": "cypherlobo",
                 "url": "https://github.com/cypherlobo"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/66072013?u=fdc83dd47a7a366cb11b9e32f9081f876c52ada5&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A custom Python-based proof-of-concept (PoC) exploit targeting Text4Shell (CVE-2022-42889), a critical remote code execution vulnerability in Apache Commons Text versions &lt; 1.10.</div>",
-            "url": "https://github.com/chaudharyarjun/text4shell-exploit",
-            "title": "chaudharyarjun/text4shell-exploit: A custom Python-based proof-of-concept (PoC) exploit targeting Text4Shell (CVE-2022-42889), a critical remote code execution vulnerability in Apache Commons Text versions < 1.10.",
-            "date_modified": "2025-03-24T15:58:39.000Z",
-            "date_published": "2025-03-24T15:28:41.000Z",
-            "author": {
-                "name": "chaudharyarjun",
-                "url": "https://github.com/chaudharyarjun"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/1032286?u=6158112a1ec9a541336f35fac45e0f03423fa286&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A PoC for the CVE-2022-44268 - ImageMagick arbitrary file read</div>",
-            "url": "https://github.com/voidz0r/CVE-2022-44268",
-            "title": "voidz0r/CVE-2022-44268: A PoC for the CVE-2022-44268 - ImageMagick arbitrary file read",
-            "date_modified": "2025-04-07T05:24:11.000Z",
-            "date_published": "2023-02-05T18:42:27.000Z",
-            "author": {
-                "name": "voidz0r",
-                "url": "https://github.com/voidz0r"
             }
         }
     ]
