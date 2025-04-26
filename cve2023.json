@@ -6,21 +6,10 @@
     "description": "CVE-2023 FEED on GitHub",
     "items": [
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/174422907?u=7d8dbb0a3ac4e4eb096724737739ac91d063e79a&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>TP-Link Archer AX21 Command Injection Exploit (CVE-2023-1389)  This script exploits a command injection vulnerability in TP-Link Archer AX21 routers through the unvalidated 'country' parameter in the web interface. It allows unauthenticated attackers to execute arbitrary commands with root privileges.</div>",
-            "url": "https://github.com/ibrahimsql/CVE2023-1389",
-            "title": "ibrahimsql/CVE2023-1389: TP-Link Archer AX21 Command Injection Exploit (CVE-2023-1389)  This script exploits a command injection vulnerability in TP-Link Archer AX21 routers through the unvalidated 'country' parameter in the web interface. It allows unauthenticated attackers to execute arbitrary commands with root privileges.",
-            "date_modified": "2025-04-26T10:20:52.000Z",
-            "date_published": "2025-04-26T09:21:43.000Z",
-            "author": {
-                "name": "ibrahimsql",
-                "url": "https://github.com/ibrahimsql"
-            }
-        },
-        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/18195825?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023</div>",
             "url": "https://github.com/CVEProject/cvelist",
             "title": "CVEProject/cvelist: Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023",
-            "date_modified": "2025-04-26T10:00:45.000Z",
+            "date_modified": "2025-04-26T15:00:45.000Z",
             "date_published": "2020-11-02T19:30:55.000Z",
             "author": {
                 "name": "CVEProject",
@@ -31,11 +20,22 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/204366372?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
             "url": "https://github.com/ChoDeokCheol/CVE-2023-39361",
             "title": "ChoDeokCheol/CVE-2023-39361",
-            "date_modified": "2025-04-26T09:26:14.000Z",
+            "date_modified": "2025-04-26T14:36:15.000Z",
             "date_published": "2025-04-26T09:18:33.000Z",
             "author": {
                 "name": "ChoDeokCheol",
                 "url": "https://github.com/ChoDeokCheol"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/174422907?u=7d8dbb0a3ac4e4eb096724737739ac91d063e79a&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>TP-Link Archer AX21 Command Injection Exploit (CVE-2023-1389)  This script exploits a command injection vulnerability in TP-Link Archer AX21 routers through the unvalidated 'country' parameter in the web interface. It allows unauthenticated attackers to execute arbitrary commands with root privileges.</div>",
+            "url": "https://github.com/ibrahimsql/CVE2023-1389",
+            "title": "ibrahimsql/CVE2023-1389: TP-Link Archer AX21 Command Injection Exploit (CVE-2023-1389)  This script exploits a command injection vulnerability in TP-Link Archer AX21 routers through the unvalidated 'country' parameter in the web interface. It allows unauthenticated attackers to execute arbitrary commands with root privileges.",
+            "date_modified": "2025-04-26T10:20:52.000Z",
+            "date_published": "2025-04-26T09:21:43.000Z",
+            "author": {
+                "name": "ibrahimsql",
+                "url": "https://github.com/ibrahimsql"
             }
         },
         {
