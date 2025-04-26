@@ -6,6 +6,17 @@
     "description": "CVE-2022 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/69421356?u=b5788ef931c920c7e775fbb74201e7a737a9d3a1&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A loader for zimbra 2022 rce (cve-2022-27925)</div>",
+            "url": "https://github.com/Inplex-sys/CVE-2022-27925",
+            "title": "Inplex-sys/CVE-2022-27925: A loader for zimbra 2022 rce (cve-2022-27925)",
+            "date_modified": "2025-04-26T19:21:31.000Z",
+            "date_published": "2022-10-01T10:33:55.000Z",
+            "author": {
+                "name": "Inplex-sys",
+                "url": "https://github.com/Inplex-sys"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/5783068?u=8ead6f35fa4c2d1fc565e6f080630d2bb299f41d&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Python implementation for NotProxyShell aka CVE-2022-40140 &amp; CVE-2022-41082</div>",
             "url": "https://github.com/ZephrFish/NotProxyShellScanner",
             "title": "ZephrFish/NotProxyShellScanner: Python implementation for NotProxyShell aka CVE-2022-40140 & CVE-2022-41082",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "Artemisxxx37",
                 "url": "https://github.com/Artemisxxx37"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/180585625?u=7f51edd73ace7eb4322fb3ccfa4dfeedf98b452d&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A root exploit for CVE-2022-0847 (Dirty Pipe)</div>",
-            "url": "https://github.com/cypherlobo/DirtyPipe-BSI",
-            "title": "cypherlobo/DirtyPipe-BSI: A root exploit for CVE-2022-0847 (Dirty Pipe)",
-            "date_modified": "2025-03-25T22:21:45.000Z",
-            "date_published": "2025-03-25T22:16:58.000Z",
-            "author": {
-                "name": "cypherlobo",
-                "url": "https://github.com/cypherlobo"
             }
         }
     ]
