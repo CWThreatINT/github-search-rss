@@ -6,6 +6,17 @@
     "description": "CVE-2022 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/9420289?u=446a58aa63706a50571488df5bcd602f3978fac5&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2023-46818 Python3 Exploit for Backdrop CMS &lt;= 1.22.0 Authenticated Remote Command Execution (RCE)</div>",
+            "url": "https://github.com/ajdumanhug/CVE-2022-42092",
+            "title": "ajdumanhug/CVE-2022-42092: CVE-2023-46818 Python3 Exploit for Backdrop CMS <= 1.22.0 Authenticated Remote Command Execution (RCE)",
+            "date_modified": "2025-04-27T17:55:07.000Z",
+            "date_published": "2025-04-27T17:54:27.000Z",
+            "author": {
+                "name": "ajdumanhug",
+                "url": "https://github.com/ajdumanhug"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/69421356?u=b5788ef931c920c7e775fbb74201e7a737a9d3a1&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A loader for zimbra 2022 rce (cve-2022-27925)</div>",
             "url": "https://github.com/Inplex-sys/CVE-2022-27925",
             "title": "Inplex-sys/CVE-2022-27925: A loader for zimbra 2022 rce (cve-2022-27925)",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "Code2Crusader",
                 "url": "https://github.com/Code2Crusader"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/126729925?u=690da6d2a08f8c34cd40fe9641af21598fb9556c&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
-            "url": "https://github.com/Artemisxxx37/OverlayFS-PrivEsc-CVE-2022-0944",
-            "title": "Artemisxxx37/OverlayFS-PrivEsc-CVE-2022-0944",
-            "date_modified": "2025-03-26T22:29:48.000Z",
-            "date_published": "2024-09-10T13:23:25.000Z",
-            "author": {
-                "name": "Artemisxxx37",
-                "url": "https://github.com/Artemisxxx37"
             }
         }
     ]
