@@ -6,10 +6,21 @@
     "description": "CVE-2022 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/119458152?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Here is an explanation of how to exploit CVE-2022-3552</div>",
+            "url": "https://github.com/BakalMode/CVE-2022-3552",
+            "title": "BakalMode/CVE-2022-3552: Here is an explanation of how to exploit CVE-2022-3552",
+            "date_modified": "2025-04-27T18:46:53.000Z",
+            "date_published": "2025-04-27T18:37:51.000Z",
+            "author": {
+                "name": "BakalMode",
+                "url": "https://github.com/BakalMode"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/9420289?u=446a58aa63706a50571488df5bcd602f3978fac5&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2023-46818 Python3 Exploit for Backdrop CMS &lt;= 1.22.0 Authenticated Remote Command Execution (RCE)</div>",
             "url": "https://github.com/ajdumanhug/CVE-2022-42092",
             "title": "ajdumanhug/CVE-2022-42092: CVE-2023-46818 Python3 Exploit for Backdrop CMS <= 1.22.0 Authenticated Remote Command Execution (RCE)",
-            "date_modified": "2025-04-27T17:55:07.000Z",
+            "date_modified": "2025-04-27T18:13:38.000Z",
             "date_published": "2025-04-27T17:54:27.000Z",
             "author": {
                 "name": "ajdumanhug",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "DukeSec97",
                 "url": "https://github.com/DukeSec97"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/205141060?u=8f6957866e4b713277bfbf5536ae1600eb74f693&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Proof-of-concept app to overwrite fonts on iOS using CVE-2022-46689.</div>",
-            "url": "https://github.com/Code2Crusader/46689",
-            "title": "Code2Crusader/46689: Proof-of-concept app to overwrite fonts on iOS using CVE-2022-46689.",
-            "date_modified": "2025-03-27T07:34:55.000Z",
-            "date_published": "2025-03-27T07:34:51.000Z",
-            "author": {
-                "name": "Code2Crusader",
-                "url": "https://github.com/Code2Crusader"
             }
         }
     ]
