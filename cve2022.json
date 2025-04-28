@@ -6,6 +6,17 @@
     "description": "CVE-2022 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/69421356?u=b5788ef931c920c7e775fbb74201e7a737a9d3a1&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>The first proof of concept of the Contao CMS RCE</div>",
+            "url": "https://github.com/SystemVll/CVE-2022-26265",
+            "title": "SystemVll/CVE-2022-26265: The first proof of concept of the Contao CMS RCE",
+            "date_modified": "2025-04-28T17:46:09.000Z",
+            "date_published": "2022-12-01T23:11:19.000Z",
+            "author": {
+                "name": "SystemVll",
+                "url": "https://github.com/SystemVll"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/69421356?u=b5788ef931c920c7e775fbb74201e7a737a9d3a1&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A bots loader for CVE-2022-29464 with multithreading</div>",
             "url": "https://github.com/SystemVll/CVE-2022-29464-loader",
             "title": "SystemVll/CVE-2022-29464-loader: A bots loader for CVE-2022-29464 with multithreading",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "he-ewo",
                 "url": "https://github.com/he-ewo"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/31081984?u=5155f39ef9adf56610a5b4d9611816d6f1429914&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>SAPGateBreaker is a PoC exploit for CVE-2022-22536, a critical HTTP Request Smuggling vulnerability in SAP NetWeaver. It demonstrates how to bypass ACLs by desynchronizing request parsing between ICM and backend services using crafted Content-Length-based payloads.</div>",
-            "url": "https://github.com/BecodoExploit-mrCAT/SAPGateBreaker-Exploit",
-            "title": "BecodoExploit-mrCAT/SAPGateBreaker-Exploit: SAPGateBreaker is a PoC exploit for CVE-2022-22536, a critical HTTP Request Smuggling vulnerability in SAP NetWeaver. It demonstrates how to bypass ACLs by desynchronizing request parsing between ICM and backend services using crafted Content-Length-based payloads.",
-            "date_modified": "2025-04-08T05:36:28.000Z",
-            "date_published": "2025-04-01T22:16:04.000Z",
-            "author": {
-                "name": "BecodoExploit-mrCAT",
-                "url": "https://github.com/BecodoExploit-mrCAT"
             }
         }
     ]
