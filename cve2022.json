@@ -6,6 +6,17 @@
     "description": "CVE-2022 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/204233072?u=74ef691142a17494a6909d82d75d5e5d9582be09&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>ZoneMinder up to 1.36.12 Language privilege escalation (and RCE) - Poc Exploit</div>",
+            "url": "https://github.com/OP3R4T0R/CVE-2022-29806",
+            "title": "OP3R4T0R/CVE-2022-29806: ZoneMinder up to 1.36.12 Language privilege escalation (and RCE) - Poc Exploit",
+            "date_modified": "2025-04-28T22:27:35.000Z",
+            "date_published": "2025-04-28T15:20:22.000Z",
+            "author": {
+                "name": "OP3R4T0R",
+                "url": "https://github.com/OP3R4T0R"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/69421356?u=b5788ef931c920c7e775fbb74201e7a737a9d3a1&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>The first proof of concept of the Contao CMS RCE</div>",
             "url": "https://github.com/SystemVll/CVE-2022-26265",
             "title": "SystemVll/CVE-2022-26265: The first proof of concept of the Contao CMS RCE",
@@ -36,17 +47,6 @@
             "author": {
                 "name": "SystemVll",
                 "url": "https://github.com/SystemVll"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/204233072?u=74ef691142a17494a6909d82d75d5e5d9582be09&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2022-29806 POC</div>",
-            "url": "https://github.com/OP3R4T0R/CVE-2022-29806",
-            "title": "OP3R4T0R/CVE-2022-29806: CVE-2022-29806 POC",
-            "date_modified": "2025-04-28T15:20:26.000Z",
-            "date_published": "2025-04-28T15:20:22.000Z",
-            "author": {
-                "name": "OP3R4T0R",
-                "url": "https://github.com/OP3R4T0R"
             }
         },
         {
