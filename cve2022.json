@@ -6,6 +6,17 @@
     "description": "CVE-2022 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/52015401?u=b59e5d6396c59983d1a8ecf7e39321bd1749acfa&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Improved PoC of CVE-2022-25012</div>",
+            "url": "https://github.com/G4sp4rCS/CVE-2022-25012-POC",
+            "title": "G4sp4rCS/CVE-2022-25012-POC: Improved PoC of CVE-2022-25012",
+            "date_modified": "2025-04-29T01:44:38.000Z",
+            "date_published": "2025-04-29T01:44:33.000Z",
+            "author": {
+                "name": "G4sp4rCS",
+                "url": "https://github.com/G4sp4rCS"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/204233072?u=74ef691142a17494a6909d82d75d5e5d9582be09&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>ZoneMinder up to 1.36.12 Language privilege escalation (and RCE) - Poc Exploit</div>",
             "url": "https://github.com/OP3R4T0R/CVE-2022-29806",
             "title": "OP3R4T0R/CVE-2022-29806: ZoneMinder up to 1.36.12 Language privilege escalation (and RCE) - Poc Exploit",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "dangducloc",
                 "url": "https://github.com/dangducloc"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/178569740?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
-            "url": "https://github.com/he-ewo/CVE-2022-22978",
-            "title": "he-ewo/CVE-2022-22978",
-            "date_modified": "2025-04-06T15:17:30.000Z",
-            "date_published": "2025-04-06T14:17:27.000Z",
-            "author": {
-                "name": "he-ewo",
-                "url": "https://github.com/he-ewo"
             }
         }
     ]
