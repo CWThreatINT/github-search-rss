@@ -6,6 +6,17 @@
     "description": "CVE-2021 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/138567406?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2021-42287/CVE-2021-42278/OTHER Scanner &amp; Exploiter.</div>",
+            "url": "https://github.com/Chrisync/CVE-Scanner",
+            "title": "Chrisync/CVE-Scanner: CVE-2021-42287/CVE-2021-42278/OTHER Scanner & Exploiter.",
+            "date_modified": "2025-05-04T14:33:41.000Z",
+            "date_published": "2025-04-29T11:39:11.000Z",
+            "author": {
+                "name": "Chrisync",
+                "url": "https://github.com/Chrisync"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/38596879?u=670daa5d96145d49f327145f02daf0bd90d5f67d&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>proof of concept CVE-2021-1931 exploit for the blackberry key2 (le) that allows to flash unsigned images temporarily</div>",
             "url": "https://github.com/FakeShell/CVE-2021-1931-BBRY-KEY2",
             "title": "FakeShell/CVE-2021-1931-BBRY-KEY2: proof of concept CVE-2021-1931 exploit for the blackberry key2 (le) that allows to flash unsigned images temporarily",
@@ -14,17 +25,6 @@
             "author": {
                 "name": "FakeShell",
                 "url": "https://github.com/FakeShell"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/138567406?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2021-42287/CVE-2021-42278/OTHER Scanner &amp; Exploiter.</div>",
-            "url": "https://github.com/Chrisync/CVE-Scanner",
-            "title": "Chrisync/CVE-Scanner: CVE-2021-42287/CVE-2021-42278/OTHER Scanner & Exploiter.",
-            "date_modified": "2025-05-04T13:07:35.000Z",
-            "date_published": "2025-04-29T11:39:11.000Z",
-            "author": {
-                "name": "Chrisync",
-                "url": "https://github.com/Chrisync"
             }
         },
         {
