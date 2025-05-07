@@ -9,7 +9,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/18195825?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023</div>",
             "url": "https://github.com/CVEProject/cvelist",
             "title": "CVEProject/cvelist: Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023",
-            "date_modified": "2025-05-06T23:00:45.000Z",
+            "date_modified": "2025-05-07T00:00:51.000Z",
             "date_published": "2020-11-02T19:30:55.000Z",
             "author": {
                 "name": "CVEProject",
@@ -36,6 +36,17 @@
             "author": {
                 "name": "Can0I0Ever0Enter",
                 "url": "https://github.com/Can0I0Ever0Enter"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/144001335?u=c42bea7e07a206065e90fc34c073c2292c885b40&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>🚨 CVE-2023-45866 - BlueDucky Implementation (Using DuckyScript) 🔓 Unauthenticated Peering Leading to Code Execution (Using HID Keyboard)</div>",
+            "url": "https://github.com/pentestfunctions/BlueDucky",
+            "title": "pentestfunctions/BlueDucky: 🚨 CVE-2023-45866 - BlueDucky Implementation (Using DuckyScript) 🔓 Unauthenticated Peering Leading to Code Execution (Using HID Keyboard)",
+            "date_modified": "2025-05-06T23:20:35.000Z",
+            "date_published": "2024-01-16T06:52:02.000Z",
+            "author": {
+                "name": "pentestfunctions",
+                "url": "https://github.com/pentestfunctions"
             }
         },
         {
@@ -212,17 +223,6 @@
             "author": {
                 "name": "ZephrFish",
                 "url": "https://github.com/ZephrFish"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/62617135?u=4c9da9bf8aab6e6deedc49cee660ac5abddb46f7&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>LINKSYS AC1900 EA7500v3 IGD UPnP Stack Buffer Overflow Remote Code Execution Vulnerability</div>",
-            "url": "https://github.com/dest-3/CVE-2023-46012",
-            "title": "dest-3/CVE-2023-46012: LINKSYS AC1900 EA7500v3 IGD UPnP Stack Buffer Overflow Remote Code Execution Vulnerability",
-            "date_modified": "2025-04-25T21:16:19.000Z",
-            "date_published": "2024-05-06T16:35:19.000Z",
-            "author": {
-                "name": "dest-3",
-                "url": "https://github.com/dest-3"
             }
         }
     ]
