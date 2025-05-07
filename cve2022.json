@@ -6,6 +6,17 @@
     "description": "CVE-2022 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/4262359?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div> CVE-2021-21424 - CRLF Injection - CVE-2021-41268 - Host Header Injection - CVE-2022-24894 - WebProfiler abierto - CVE-2019-10909 - Directory Traversal</div>",
+            "url": "https://github.com/moften/Symfony-CVE-Scanner-PoC-",
+            "title": "moften/Symfony-CVE-Scanner-PoC-:  CVE-2021-21424 - CRLF Injection - CVE-2021-41268 - Host Header Injection - CVE-2022-24894 - WebProfiler abierto - CVE-2019-10909 - Directory Traversal",
+            "date_modified": "2025-05-07T23:08:23.000Z",
+            "date_published": "2025-05-07T23:07:11.000Z",
+            "author": {
+                "name": "moften",
+                "url": "https://github.com/moften"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/1948316?u=7c7f44f7f7fe65d82ed739906629f7c3249135ea&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>PoC for CVE-2022-23940</div>",
             "url": "https://github.com/manuelz120/CVE-2022-23940",
             "title": "manuelz120/CVE-2022-23940: PoC for CVE-2022-23940",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "rxerium",
                 "url": "https://github.com/rxerium"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/135951177?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
-            "url": "https://github.com/Tim-Hoekstra/CVE-2022-37932",
-            "title": "Tim-Hoekstra/CVE-2022-37932",
-            "date_modified": "2025-04-10T03:27:35.000Z",
-            "date_published": "2025-04-10T03:27:07.000Z",
-            "author": {
-                "name": "Tim-Hoekstra",
-                "url": "https://github.com/Tim-Hoekstra"
             }
         }
     ]
