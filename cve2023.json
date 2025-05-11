@@ -6,6 +6,17 @@
     "description": "CVE-2023 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/10593865?u=ada01e36e0f61dc4d877c17b26f92091e63d4bd8&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Windows &amp; linux support</div>",
+            "url": "https://github.com/syaifulandy/Nuclei-Template-CVE-2023-42793.yaml",
+            "title": "syaifulandy/Nuclei-Template-CVE-2023-42793.yaml: Windows & linux support",
+            "date_modified": "2025-05-11T17:00:21.000Z",
+            "date_published": "2025-05-11T16:59:22.000Z",
+            "author": {
+                "name": "syaifulandy",
+                "url": "https://github.com/syaifulandy"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/18195825?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023</div>",
             "url": "https://github.com/CVEProject/cvelist",
             "title": "CVEProject/cvelist: Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "1Ronkkeli",
                 "url": "https://github.com/1Ronkkeli"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/9420289?u=446a58aa63706a50571488df5bcd602f3978fac5&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2023-46818 Python3 Exploit for Backdrop CMS &lt;= 1.22.0 Authenticated Remote Command Execution (RCE)</div>",
-            "url": "https://github.com/ajdumanhug/CVE-2022-42092",
-            "title": "ajdumanhug/CVE-2022-42092: CVE-2023-46818 Python3 Exploit for Backdrop CMS <= 1.22.0 Authenticated Remote Command Execution (RCE)",
-            "date_modified": "2025-05-06T05:55:14.000Z",
-            "date_published": "2025-04-27T17:54:27.000Z",
-            "author": {
-                "name": "ajdumanhug",
-                "url": "https://github.com/ajdumanhug"
             }
         }
     ]
