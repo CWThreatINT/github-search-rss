@@ -6,6 +6,17 @@
     "description": "CVE-2022 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/121408851?u=3fbe45f69a5a767cff58a0590fc00d5ef57c8d4c&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2022-46689</div>",
+            "url": "https://github.com/straight-tamago/NoCameraSound",
+            "title": "straight-tamago/NoCameraSound: CVE-2022-46689",
+            "date_modified": "2025-05-12T21:42:08.000Z",
+            "date_published": "2022-12-26T00:08:55.000Z",
+            "author": {
+                "name": "straight-tamago",
+                "url": "https://github.com/straight-tamago"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/4262359?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2022-41741/742 Nginx Vulnerability Scanner</div>",
             "url": "https://github.com/moften/CVE-2022-41741-742-Nginx-Vulnerability-Scanner",
             "title": "moften/CVE-2022-41741-742-Nginx-Vulnerability-Scanner: CVE-2022-41741/742 Nginx Vulnerability Scanner",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "byteReaper77",
                 "url": "https://github.com/byteReaper77"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/59293085?u=6e3dcea881813bd3ebf55b9ba5357c66cd233b70&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>An attacker could place HTML containing executable JavaScript inside element attributes. This markup becomes unescaped, causing arbitrary markup to be injected into the document.</div>",
-            "url": "https://github.com/rxerium/CVE-2022-24086",
-            "title": "rxerium/CVE-2022-24086: An attacker could place HTML containing executable JavaScript inside element attributes. This markup becomes unescaped, causing arbitrary markup to be injected into the document.",
-            "date_modified": "2025-04-18T07:18:58.000Z",
-            "date_published": "2024-03-17T19:29:37.000Z",
-            "author": {
-                "name": "rxerium",
-                "url": "https://github.com/rxerium"
             }
         }
     ]
