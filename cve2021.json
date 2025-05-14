@@ -6,10 +6,21 @@
     "description": "CVE-2021 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/48131494?u=7939df4572b8770153adf0be0d731c212cd20625&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>This contains single-file exploit for cve-2021-4034 which is a Polkit Local Privilege Escalation. Use it wisely!</div>",
+            "url": "https://github.com/Z3R0-0x30/CVE-2021-4034",
+            "title": "Z3R0-0x30/CVE-2021-4034: This contains single-file exploit for cve-2021-4034 which is a Polkit Local Privilege Escalation. Use it wisely!",
+            "date_modified": "2025-05-14T05:00:28.000Z",
+            "date_published": "2025-05-14T04:43:50.000Z",
+            "author": {
+                "name": "Z3R0-0x30",
+                "url": "https://github.com/Z3R0-0x30"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/138567406?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2021-42287/CVE-2021-42278/OTHER Scanner &amp; Exploiter.</div>",
             "url": "https://github.com/Chrisync/CVE-Scanner",
             "title": "Chrisync/CVE-Scanner: CVE-2021-42287/CVE-2021-42278/OTHER Scanner & Exploiter.",
-            "date_modified": "2025-05-14T02:43:59.000Z",
+            "date_modified": "2025-05-14T04:14:56.000Z",
             "date_published": "2025-04-29T11:39:11.000Z",
             "author": {
                 "name": "Chrisync",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "JIYUN02",
                 "url": "https://github.com/JIYUN02"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/52015401?u=b59e5d6396c59983d1a8ecf7e39321bd1749acfa&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Optimized exploit for CVE-2021-43857 affecting Gerapy &lt; 0.9.8</div>",
-            "url": "https://github.com/G4sp4rCS/CVE-2021-43857-POC",
-            "title": "G4sp4rCS/CVE-2021-43857-POC: Optimized exploit for CVE-2021-43857 affecting Gerapy < 0.9.8",
-            "date_modified": "2025-04-24T21:40:51.000Z",
-            "date_published": "2025-04-24T21:40:46.000Z",
-            "author": {
-                "name": "G4sp4rCS",
-                "url": "https://github.com/G4sp4rCS"
             }
         }
     ]
