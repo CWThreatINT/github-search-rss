@@ -6,6 +6,17 @@
     "description": "CVE-2022 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/33631789?u=c02a36ff6d7f17b76a6eceb896c717391dce31aa&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>tester for cve-2022-31813</div>",
+            "url": "https://github.com/dodiorne/cve-2022-31813",
+            "title": "dodiorne/cve-2022-31813: tester for cve-2022-31813",
+            "date_modified": "2025-05-21T19:28:00.000Z",
+            "date_published": "2025-05-21T19:08:23.000Z",
+            "author": {
+                "name": "dodiorne",
+                "url": "https://github.com/dodiorne"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/148463237?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
             "url": "https://github.com/RdBBB3/SHELL-POC-CVE-2022-46169",
             "title": "RdBBB3/SHELL-POC-CVE-2022-46169",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "ajdumanhug",
                 "url": "https://github.com/ajdumanhug"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/5783068?u=8ead6f35fa4c2d1fc565e6f080630d2bb299f41d&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Python implementation for NotProxyShell aka CVE-2022-40140 &amp; CVE-2022-41082</div>",
-            "url": "https://github.com/ZephrFish/NotProxyShellScanner",
-            "title": "ZephrFish/NotProxyShellScanner: Python implementation for NotProxyShell aka CVE-2022-40140 & CVE-2022-41082",
-            "date_modified": "2025-04-26T06:49:09.000Z",
-            "date_published": "2022-10-07T08:10:00.000Z",
-            "author": {
-                "name": "ZephrFish",
-                "url": "https://github.com/ZephrFish"
             }
         }
     ]
