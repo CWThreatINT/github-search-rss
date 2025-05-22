@@ -6,6 +6,17 @@
     "description": "CVE-2021 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/161997003?u=5af9a2472e2792c5f7f039f3432630be40a7962b&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Automated Exploit Tool for Grafana CVE-2021-43798: Scanning common files that contain juicy informations and extracting SSH keys from compromised users.</div>",
+            "url": "https://github.com/wezoomagency/GrafXploit",
+            "title": "wezoomagency/GrafXploit: Automated Exploit Tool for Grafana CVE-2021-43798: Scanning common files that contain juicy informations and extracting SSH keys from compromised users.",
+            "date_modified": "2025-05-22T15:29:03.000Z",
+            "date_published": "2024-12-14T14:06:59.000Z",
+            "author": {
+                "name": "wezoomagency",
+                "url": "https://github.com/wezoomagency"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/138567406?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2021-42287/CVE-2021-42278/OTHER Scanner &amp; Exploiter.</div>",
             "url": "https://github.com/Chrisync/CVE-Scanner",
             "title": "Chrisync/CVE-Scanner: CVE-2021-42287/CVE-2021-42278/OTHER Scanner & Exploiter.",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "purpleteam-ru",
                 "url": "https://github.com/purpleteam-ru"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/170657414?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
-            "url": "https://github.com/Agilevatester/FlaskCache_CVE-2021-33026_POC",
-            "title": "Agilevatester/FlaskCache_CVE-2021-33026_POC",
-            "date_modified": "2025-05-08T16:19:35.000Z",
-            "date_published": "2024-10-08T17:27:56.000Z",
-            "author": {
-                "name": "Agilevatester",
-                "url": "https://github.com/Agilevatester"
             }
         }
     ]
