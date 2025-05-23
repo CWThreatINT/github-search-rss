@@ -6,21 +6,10 @@
     "description": "CVE-2023 FEED on GitHub",
     "items": [
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/4262359?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>HTTP/2 Rapid Reset Exploit PoC</div>",
-            "url": "https://github.com/moften/CVE-2023-44487",
-            "title": "moften/CVE-2023-44487: HTTP/2 Rapid Reset Exploit PoC",
-            "date_modified": "2025-05-23T00:37:10.000Z",
-            "date_published": "2025-04-14T22:39:08.000Z",
-            "author": {
-                "name": "moften",
-                "url": "https://github.com/moften"
-            }
-        },
-        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/18195825?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023</div>",
             "url": "https://github.com/CVEProject/cvelist",
             "title": "CVEProject/cvelist: Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023",
-            "date_modified": "2025-05-23T00:00:50.000Z",
+            "date_modified": "2025-05-23T02:00:49.000Z",
             "date_published": "2020-11-02T19:30:55.000Z",
             "author": {
                 "name": "CVEProject",
@@ -31,11 +20,22 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/151980876?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>TOP All bugbounty pentesting CVE-2023- POC Exp  RCE example payload  Things</div>",
             "url": "https://github.com/GhostTroops/TOP",
             "title": "GhostTroops/TOP: TOP All bugbounty pentesting CVE-2023- POC Exp  RCE example payload  Things",
-            "date_modified": "2025-05-22T17:15:17.000Z",
+            "date_modified": "2025-05-23T02:07:13.000Z",
             "date_published": "2022-03-19T01:54:15.000Z",
             "author": {
                 "name": "GhostTroops",
                 "url": "https://github.com/GhostTroops"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/4262359?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>HTTP/2 Rapid Reset Exploit PoC</div>",
+            "url": "https://github.com/moften/CVE-2023-44487",
+            "title": "moften/CVE-2023-44487: HTTP/2 Rapid Reset Exploit PoC",
+            "date_modified": "2025-05-23T00:37:10.000Z",
+            "date_published": "2025-04-14T22:39:08.000Z",
+            "author": {
+                "name": "moften",
+                "url": "https://github.com/moften"
             }
         },
         {
