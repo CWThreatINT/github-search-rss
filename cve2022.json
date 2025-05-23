@@ -6,6 +6,17 @@
     "description": "CVE-2022 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/68352308?u=a6f030ff165442dda8770ef9bf318fd59a4b6bd3&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
+            "url": "https://github.com/f4yd4-s3c/cve-2022-26134",
+            "title": "f4yd4-s3c/cve-2022-26134",
+            "date_modified": "2025-05-23T20:11:07.000Z",
+            "date_published": "2022-07-06T01:27:21.000Z",
+            "author": {
+                "name": "f4yd4-s3c",
+                "url": "https://github.com/f4yd4-s3c"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/33631789?u=c02a36ff6d7f17b76a6eceb896c717391dce31aa&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>tester for cve-2022-31813</div>",
             "url": "https://github.com/dodiorne/cve-2022-31813",
             "title": "dodiorne/cve-2022-31813: tester for cve-2022-31813",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "BakalMode",
                 "url": "https://github.com/BakalMode"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/9420289?u=446a58aa63706a50571488df5bcd602f3978fac5&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2023-46818 Python3 Exploit for Backdrop CMS &lt;= 1.22.0 Authenticated Remote Command Execution (RCE)</div>",
-            "url": "https://github.com/ajdumanhug/CVE-2022-42092",
-            "title": "ajdumanhug/CVE-2022-42092: CVE-2023-46818 Python3 Exploit for Backdrop CMS <= 1.22.0 Authenticated Remote Command Execution (RCE)",
-            "date_modified": "2025-05-13T13:09:19.000Z",
-            "date_published": "2025-04-27T17:54:27.000Z",
-            "author": {
-                "name": "ajdumanhug",
-                "url": "https://github.com/ajdumanhug"
             }
         }
     ]
