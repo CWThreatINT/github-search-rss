@@ -6,10 +6,21 @@
     "description": "CVE-2023 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/4262359?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>HTTP/2 Rapid Reset Exploit PoC</div>",
+            "url": "https://github.com/moften/CVE-2023-44487",
+            "title": "moften/CVE-2023-44487: HTTP/2 Rapid Reset Exploit PoC",
+            "date_modified": "2025-05-23T00:37:10.000Z",
+            "date_published": "2025-04-14T22:39:08.000Z",
+            "author": {
+                "name": "moften",
+                "url": "https://github.com/moften"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/18195825?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023</div>",
             "url": "https://github.com/CVEProject/cvelist",
             "title": "CVEProject/cvelist: Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023",
-            "date_modified": "2025-05-22T23:00:46.000Z",
+            "date_modified": "2025-05-23T00:00:50.000Z",
             "date_published": "2020-11-02T19:30:55.000Z",
             "author": {
                 "name": "CVEProject",
@@ -190,17 +201,6 @@
             "author": {
                 "name": "EarthAngel666",
                 "url": "https://github.com/EarthAngel666"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/4262359?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>HTTP/2 Rapid Reset Exploit PoC</div>",
-            "url": "https://github.com/moften/CVE-2023-44487",
-            "title": "moften/CVE-2023-44487: HTTP/2 Rapid Reset Exploit PoC",
-            "date_modified": "2025-05-06T21:34:22.000Z",
-            "date_published": "2025-04-14T22:39:08.000Z",
-            "author": {
-                "name": "moften",
-                "url": "https://github.com/moften"
             }
         },
         {
