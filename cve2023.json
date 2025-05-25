@@ -6,10 +6,21 @@
     "description": "CVE-2023 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/18195825?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023</div>",
+            "url": "https://github.com/CVEProject/cvelist",
+            "title": "CVEProject/cvelist: Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023",
+            "date_modified": "2025-05-25T12:00:51.000Z",
+            "date_published": "2020-11-02T19:30:55.000Z",
+            "author": {
+                "name": "CVEProject",
+                "url": "https://github.com/CVEProject"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/61902118?u=9c877da6e2fd12400910c03908505fff6e4ee029&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2023-20963 PoC (Android WorkSource parcel/unparcel logic mismatch)</div>",
             "url": "https://github.com/black7024/BadParcel",
             "title": "black7024/BadParcel: CVE-2023-20963 PoC (Android WorkSource parcel/unparcel logic mismatch)",
-            "date_modified": "2025-05-25T11:04:39.000Z",
+            "date_modified": "2025-05-25T11:36:09.000Z",
             "date_published": "2025-05-25T10:20:50.000Z",
             "author": {
                 "name": "black7024",
@@ -36,17 +47,6 @@
             "author": {
                 "name": "glynzr",
                 "url": "https://github.com/glynzr"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/18195825?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023</div>",
-            "url": "https://github.com/CVEProject/cvelist",
-            "title": "CVEProject/cvelist: Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023",
-            "date_modified": "2025-05-25T08:00:45.000Z",
-            "date_published": "2020-11-02T19:30:55.000Z",
-            "author": {
-                "name": "CVEProject",
-                "url": "https://github.com/CVEProject"
             }
         },
         {
