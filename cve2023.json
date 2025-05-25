@@ -6,6 +6,17 @@
     "description": "CVE-2023 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/31325020?u=4fe7840826f0f3f315f81fe64474fa4d4ef312fd&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Vulnerabilidad de carga de archivos sin restricciones en **Chamilo LMS** (&lt;= v1.11.24).</div>",
+            "url": "https://github.com/SkyW4r33x/CVE-2023-4226",
+            "title": "SkyW4r33x/CVE-2023-4226: Vulnerabilidad de carga de archivos sin restricciones en **Chamilo LMS** (<= v1.11.24).",
+            "date_modified": "2025-05-25T09:38:09.000Z",
+            "date_published": "2025-05-01T23:42:25.000Z",
+            "author": {
+                "name": "SkyW4r33x",
+                "url": "https://github.com/SkyW4r33x"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/97050713?u=117092f95faf1a441659447df0e311b1c9bffc42&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Pluck v4.7.18 - Remote Code Execution (RCE)</div>",
             "url": "https://github.com/glynzr/CVE-2023-50564",
             "title": "glynzr/CVE-2023-50564: Pluck v4.7.18 - Remote Code Execution (RCE)",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "Can0I0Ever0Enter",
                 "url": "https://github.com/Can0I0Ever0Enter"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/92835682?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Heap-based buffer overflow example based on CVE-2023-4504</div>",
-            "url": "https://github.com/djjohnson565/CUPS-Exploit",
-            "title": "djjohnson565/CUPS-Exploit: Heap-based buffer overflow example based on CVE-2023-4504",
-            "date_modified": "2025-05-09T05:03:23.000Z",
-            "date_published": "2025-05-08T04:59:16.000Z",
-            "author": {
-                "name": "djjohnson565",
-                "url": "https://github.com/djjohnson565"
             }
         }
     ]
