@@ -9,11 +9,22 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/18195825?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023</div>",
             "url": "https://github.com/CVEProject/cvelist",
             "title": "CVEProject/cvelist: Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023",
-            "date_modified": "2025-05-28T13:00:51.000Z",
+            "date_modified": "2025-05-28T14:04:02.000Z",
             "date_published": "2020-11-02T19:30:55.000Z",
             "author": {
                 "name": "CVEProject",
                 "url": "https://github.com/CVEProject"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/107273745?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2023-38600 Test in html</div>",
+            "url": "https://github.com/afrojack1/cve202338600test.github.io",
+            "title": "afrojack1/cve202338600test.github.io: CVE-2023-38600 Test in html",
+            "date_modified": "2025-05-28T13:46:05.000Z",
+            "date_published": "2025-05-28T13:40:14.000Z",
+            "author": {
+                "name": "afrojack1",
+                "url": "https://github.com/afrojack1"
             }
         },
         {
@@ -212,17 +223,6 @@
             "author": {
                 "name": "WHW0x455",
                 "url": "https://github.com/WHW0x455"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/55373024?u=d526624524c5c7270d76dd31fcdb75055ed837f3&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
-            "url": "https://github.com/laishouchao/Apache-RocketMQ-RCE-CVE-2023-37582-poc",
-            "title": "laishouchao/Apache-RocketMQ-RCE-CVE-2023-37582-poc",
-            "date_modified": "2025-05-12T02:07:58.000Z",
-            "date_published": "2025-05-12T02:06:03.000Z",
-            "author": {
-                "name": "laishouchao",
-                "url": "https://github.com/laishouchao"
             }
         }
     ]
