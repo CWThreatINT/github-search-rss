@@ -9,11 +9,22 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/138567406?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2021-42287/CVE-2021-42278/OTHER Scanner &amp; Exploiter.</div>",
             "url": "https://github.com/Chrisync/CVE-Scanner",
             "title": "Chrisync/CVE-Scanner: CVE-2021-42287/CVE-2021-42278/OTHER Scanner & Exploiter.",
-            "date_modified": "2025-05-29T08:42:14.000Z",
+            "date_modified": "2025-05-29T10:49:28.000Z",
             "date_published": "2025-04-29T11:39:11.000Z",
             "author": {
                 "name": "Chrisync",
                 "url": "https://github.com/Chrisync"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/127038896?u=91e1d55a66c675c8762ddce082ac6905f9bbb750&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Updated exploit for CVE-2021-22911 (Rocket.Chat 3.12.1 - NoSQL Injection to RCE (Unauthenticated))</div>",
+            "url": "https://github.com/octodi/CVE-2021-22911",
+            "title": "octodi/CVE-2021-22911: Updated exploit for CVE-2021-22911 (Rocket.Chat 3.12.1 - NoSQL Injection to RCE (Unauthenticated))",
+            "date_modified": "2025-05-29T10:36:00.000Z",
+            "date_published": "2025-05-29T10:34:04.000Z",
+            "author": {
+                "name": "octodi",
+                "url": "https://github.com/octodi"
             }
         },
         {
@@ -212,17 +223,6 @@
             "author": {
                 "name": "Be-Innova",
                 "url": "https://github.com/Be-Innova"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/149869736?u=096f6b61290715ca909efebf0d4e65a89ff6a484&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>The Web Is Vulnerable to CVE-2021-44228</div>",
-            "url": "https://github.com/Fauzan-Aldi/Log4j-_Vulnerability",
-            "title": "Fauzan-Aldi/Log4j-_Vulnerability: The Web Is Vulnerable to CVE-2021-44228",
-            "date_modified": "2025-05-08T07:58:11.000Z",
-            "date_published": "2025-05-08T07:52:54.000Z",
-            "author": {
-                "name": "Fauzan-Aldi",
-                "url": "https://github.com/Fauzan-Aldi"
             }
         }
     ]
