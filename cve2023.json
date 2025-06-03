@@ -6,10 +6,21 @@
     "description": "CVE-2023 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/72118225?u=bb3afb470717d055485d4666fed36341586aad49&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Proof of Concept exploit for Server Side Request Forgery vulnerability in Requests Basket v1.2.1 and before.</div>",
+            "url": "https://github.com/J0ey17/Exploit_CVE-2023-27163",
+            "title": "J0ey17/Exploit_CVE-2023-27163: Proof of Concept exploit for Server Side Request Forgery vulnerability in Requests Basket v1.2.1 and before.",
+            "date_modified": "2025-06-03T13:22:32.000Z",
+            "date_published": "2025-06-03T13:17:06.000Z",
+            "author": {
+                "name": "J0ey17",
+                "url": "https://github.com/J0ey17"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/18195825?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023</div>",
             "url": "https://github.com/CVEProject/cvelist",
             "title": "CVEProject/cvelist: Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023",
-            "date_modified": "2025-06-03T12:00:43.000Z",
+            "date_modified": "2025-06-03T13:00:47.000Z",
             "date_published": "2020-11-02T19:30:55.000Z",
             "author": {
                 "name": "CVEProject",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "Gilospy",
                 "url": "https://github.com/Gilospy"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/84431422?u=6b86fd736ae65f8e05359ac767058e24544b5d85&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Python tool to identify SSH servers potentially vulnerable to CVE-2023-48795 (Terrapin) by analyzing OpenSSH version banners via netcat. Useful for internal audits, penetration testing, and vulnerability assessments.</div>",
-            "url": "https://github.com/Eros-Adrian-Figueroa-Cortes/CVE-2023-48795",
-            "title": "Eros-Adrian-Figueroa-Cortes/CVE-2023-48795: Python tool to identify SSH servers potentially vulnerable to CVE-2023-48795 (Terrapin) by analyzing OpenSSH version banners via netcat. Useful for internal audits, penetration testing, and vulnerability assessments.",
-            "date_modified": "2025-05-23T11:32:13.000Z",
-            "date_published": "2025-05-23T06:14:57.000Z",
-            "author": {
-                "name": "Eros-Adrian-Figueroa-Cortes",
-                "url": "https://github.com/Eros-Adrian-Figueroa-Cortes"
             }
         }
     ]
