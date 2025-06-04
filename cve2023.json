@@ -6,6 +6,17 @@
     "description": "CVE-2023 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/212476526?u=62dc32f10600ac2c34c9fdb642f3bde502625b94&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>This tool generates BIP-39 mnemonic phrases derived from Unix timestamps, exploring the 'Milk Sad' vulnerability's implications (CVE-2023-39910)</div>",
+            "url": "https://github.com/z1ph1us/MilkSad-Mnemonic-Generator",
+            "title": "z1ph1us/MilkSad-Mnemonic-Generator: This tool generates BIP-39 mnemonic phrases derived from Unix timestamps, exploring the 'Milk Sad' vulnerability's implications (CVE-2023-39910)",
+            "date_modified": "2025-06-04T05:24:50.000Z",
+            "date_published": "2025-06-03T09:00:35.000Z",
+            "author": {
+                "name": "z1ph1us",
+                "url": "https://github.com/z1ph1us"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/151980876?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>TOP All bugbounty pentesting CVE-2023- POC Exp  RCE example payload  Things</div>",
             "url": "https://github.com/GhostTroops/TOP",
             "title": "GhostTroops/TOP: TOP All bugbounty pentesting CVE-2023- POC Exp  RCE example payload  Things",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "glynzr",
                 "url": "https://github.com/glynzr"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/67920312?u=f976f928d669ae0ae4d68f8cee8aacec09ff08bd&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Demonstration of CVE-2023-23397 Outlook Privellege Escalation vulnerability</div>",
-            "url": "https://github.com/Gilospy/CVE-2023-23397",
-            "title": "Gilospy/CVE-2023-23397: Demonstration of CVE-2023-23397 Outlook Privellege Escalation vulnerability",
-            "date_modified": "2025-05-25T05:43:45.000Z",
-            "date_published": "2025-04-07T02:33:56.000Z",
-            "author": {
-                "name": "Gilospy",
-                "url": "https://github.com/Gilospy"
             }
         }
     ]
