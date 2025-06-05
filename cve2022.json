@@ -6,6 +6,28 @@
     "description": "CVE-2022 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/214915913?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
+            "url": "https://github.com/CyberQuestor-infosec/CVE-2022-46604-Responsive-File-Manager",
+            "title": "CyberQuestor-infosec/CVE-2022-46604-Responsive-File-Manager",
+            "date_modified": "2025-06-05T00:18:40.000Z",
+            "date_published": "2025-06-05T00:18:38.000Z",
+            "author": {
+                "name": "CyberQuestor-infosec",
+                "url": "https://github.com/CyberQuestor-infosec"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/54011750?u=b32124eb76797da3f93014c744f4ea40b9fbbcb7&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
+            "url": "https://github.com/SakshiVelampudi/CVE-2022-46604-Responsive-File-Manager",
+            "title": "SakshiVelampudi/CVE-2022-46604-Responsive-File-Manager",
+            "date_modified": "2025-06-05T00:06:24.000Z",
+            "date_published": "2025-06-05T00:06:21.000Z",
+            "author": {
+                "name": "SakshiVelampudi",
+                "url": "https://github.com/SakshiVelampudi"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/72118225?u=bb3afb470717d055485d4666fed36341586aad49&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>An exploit automation script that builds upon the work of Voidzone security.</div>",
             "url": "https://github.com/J0ey17/Automate_Exploit_CVE-2022-44268",
             "title": "J0ey17/Automate_Exploit_CVE-2022-44268: An exploit automation script that builds upon the work of Voidzone security.",
@@ -201,28 +223,6 @@
             "author": {
                 "name": "OP3R4T0R",
                 "url": "https://github.com/OP3R4T0R"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/69421356?u=b5788ef931c920c7e775fbb74201e7a737a9d3a1&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>The first proof of concept of the Contao CMS RCE</div>",
-            "url": "https://github.com/SystemVll/CVE-2022-26265",
-            "title": "SystemVll/CVE-2022-26265: The first proof of concept of the Contao CMS RCE",
-            "date_modified": "2025-04-28T17:46:09.000Z",
-            "date_published": "2022-12-01T23:11:19.000Z",
-            "author": {
-                "name": "SystemVll",
-                "url": "https://github.com/SystemVll"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/69421356?u=b5788ef931c920c7e775fbb74201e7a737a9d3a1&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A bots loader for CVE-2022-29464 with multithreading</div>",
-            "url": "https://github.com/SystemVll/CVE-2022-29464-loader",
-            "title": "SystemVll/CVE-2022-29464-loader: A bots loader for CVE-2022-29464 with multithreading",
-            "date_modified": "2025-04-28T15:56:24.000Z",
-            "date_published": "2022-05-15T08:51:16.000Z",
-            "author": {
-                "name": "SystemVll",
-                "url": "https://github.com/SystemVll"
             }
         }
     ]
