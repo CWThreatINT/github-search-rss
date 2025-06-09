@@ -6,6 +6,17 @@
     "description": "CVE-2022 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/69382676?u=77731c9e6f1ef8d8dcb81dfd0445d5b21e975482&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Atlassian's Confluence Server and Data Center editions (Vulnerable Version &gt; 7.18.1)</div>",
+            "url": "https://github.com/thetowsif/CVE-2022-26134",
+            "title": "thetowsif/CVE-2022-26134: Atlassian's Confluence Server and Data Center editions (Vulnerable Version > 7.18.1)",
+            "date_modified": "2025-06-09T03:45:01.000Z",
+            "date_published": "2025-06-09T03:33:20.000Z",
+            "author": {
+                "name": "thetowsif",
+                "url": "https://github.com/thetowsif"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/66146701?u=b64640e4916c70f7e76e0eb3e0d83c4aa5a9b477&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Exploit script for CVE-2022-41544 in GetSimple CMS, with enhanced error handling and detailed usage instructions.</div>",
             "url": "https://github.com/h3x0v3rl0rd/CVE-2022-41544",
             "title": "h3x0v3rl0rd/CVE-2022-41544: Exploit script for CVE-2022-41544 in GetSimple CMS, with enhanced error handling and detailed usage instructions.",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "G4sp4rCS",
                 "url": "https://github.com/G4sp4rCS"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/204233072?u=74ef691142a17494a6909d82d75d5e5d9582be09&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>ZoneMinder up to 1.36.12 Language privilege escalation (and RCE) - Poc Exploit</div>",
-            "url": "https://github.com/OP3R4T0R/CVE-2022-29806",
-            "title": "OP3R4T0R/CVE-2022-29806: ZoneMinder up to 1.36.12 Language privilege escalation (and RCE) - Poc Exploit",
-            "date_modified": "2025-04-30T17:22:04.000Z",
-            "date_published": "2025-04-28T15:20:22.000Z",
-            "author": {
-                "name": "OP3R4T0R",
-                "url": "https://github.com/OP3R4T0R"
             }
         }
     ]
