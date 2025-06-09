@@ -6,6 +6,17 @@
     "description": "CVE-2022 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/155238968?u=b209852b26ff73bb35732089a379b18fcbd1bbaf&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>To test my skills i was creating python scripts to test f5 big ip unauthenticated remote code vulnerability CVE 2020–5902, CVE 2022–1388</div>",
+            "url": "https://github.com/Josekutty-K/f5-Big-IP-Unauth-RCE-Checker",
+            "title": "Josekutty-K/f5-Big-IP-Unauth-RCE-Checker: To test my skills i was creating python scripts to test f5 big ip unauthenticated remote code vulnerability CVE 2020–5902, CVE 2022–1388",
+            "date_modified": "2025-06-09T12:18:06.000Z",
+            "date_published": "2025-06-09T12:14:02.000Z",
+            "author": {
+                "name": "Josekutty-K",
+                "url": "https://github.com/Josekutty-K"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/69382676?u=77731c9e6f1ef8d8dcb81dfd0445d5b21e975482&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Atlassian's Confluence Server and Data Center editions (Vulnerable Version &gt; 7.18.1)</div>",
             "url": "https://github.com/thetowsif/CVE-2022-26134",
             "title": "thetowsif/CVE-2022-26134: Atlassian's Confluence Server and Data Center editions (Vulnerable Version > 7.18.1)",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "katseyres2",
                 "url": "https://github.com/katseyres2"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/52015401?u=b59e5d6396c59983d1a8ecf7e39321bd1749acfa&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Improved PoC of CVE-2022-25012</div>",
-            "url": "https://github.com/G4sp4rCS/CVE-2022-25012-POC",
-            "title": "G4sp4rCS/CVE-2022-25012-POC: Improved PoC of CVE-2022-25012",
-            "date_modified": "2025-04-29T01:44:38.000Z",
-            "date_published": "2025-04-29T01:44:33.000Z",
-            "author": {
-                "name": "G4sp4rCS",
-                "url": "https://github.com/G4sp4rCS"
             }
         }
     ]
