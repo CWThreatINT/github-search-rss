@@ -6,6 +6,17 @@
     "description": "CVE-2022 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/132168501?u=d6024e4eb2d54e6a26a3085c7fd8d54b761a4097&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Hands-on lab on detecting and mitigating web app threats using OWASP ZAP, Burp Suite, and ModSecurity WAF (with OWASP CRS). Case study: Spring4Shell (CVE-2022-22965). Local Docker-based setup.</div>",
+            "url": "https://github.com/brunoh6/web-threat-mitigation",
+            "title": "brunoh6/web-threat-mitigation: Hands-on lab on detecting and mitigating web app threats using OWASP ZAP, Burp Suite, and ModSecurity WAF (with OWASP CRS). Case study: Spring4Shell (CVE-2022-22965). Local Docker-based setup.",
+            "date_modified": "2025-06-11T19:04:08.000Z",
+            "date_published": "2025-06-11T18:36:05.000Z",
+            "author": {
+                "name": "brunoh6",
+                "url": "https://github.com/brunoh6"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/5783068?u=8ead6f35fa4c2d1fc565e6f080630d2bb299f41d&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Python implementation for NotProxyShell aka CVE-2022-40140 &amp; CVE-2022-41082</div>",
             "url": "https://github.com/ZephrFish/NotProxyShellScanner",
             "title": "ZephrFish/NotProxyShellScanner: Python implementation for NotProxyShell aka CVE-2022-40140 & CVE-2022-41082",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "manuelz120",
                 "url": "https://github.com/manuelz120"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/40410860?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Bootloader unlock using CVE-2022-38694 for Retroid Pocket 3+</div>",
-            "url": "https://github.com/Seriousattempts/Bootloader_Unlock_Retroid_Pocket_3Plus",
-            "title": "Seriousattempts/Bootloader_Unlock_Retroid_Pocket_3Plus: Bootloader unlock using CVE-2022-38694 for Retroid Pocket 3+",
-            "date_modified": "2025-05-06T03:04:05.000Z",
-            "date_published": "2025-02-21T06:55:15.000Z",
-            "author": {
-                "name": "Seriousattempts",
-                "url": "https://github.com/Seriousattempts"
             }
         }
     ]
