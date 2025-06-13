@@ -6,6 +6,17 @@
     "description": "CVE-2021 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/138567406?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2021-42287/CVE-2021-42278/OTHER Scanner &amp; Exploiter.</div>",
+            "url": "https://github.com/Chrisync/CVE-Scanner",
+            "title": "Chrisync/CVE-Scanner: CVE-2021-42287/CVE-2021-42278/OTHER Scanner & Exploiter.",
+            "date_modified": "2025-06-13T20:42:45.000Z",
+            "date_published": "2025-04-29T11:39:11.000Z",
+            "author": {
+                "name": "Chrisync",
+                "url": "https://github.com/Chrisync"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/25722145?u=c829a27711990c92023d3d3201a9be732ca53389&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Write-up and proof of concepts for my vulnerability CVE-2021-30862, 1-click RCE bug in iOS iTunes U</div>",
             "url": "https://github.com/3h6-1/CVE-2021-30862",
             "title": "3h6-1/CVE-2021-30862: Write-up and proof of concepts for my vulnerability CVE-2021-30862, 1-click RCE bug in iOS iTunes U",
@@ -28,17 +39,6 @@
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/138567406?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2021-42287/CVE-2021-42278/OTHER Scanner &amp; Exploiter.</div>",
-            "url": "https://github.com/Chrisync/CVE-Scanner",
-            "title": "Chrisync/CVE-Scanner: CVE-2021-42287/CVE-2021-42278/OTHER Scanner & Exploiter.",
-            "date_modified": "2025-06-13T18:08:10.000Z",
-            "date_published": "2025-04-29T11:39:11.000Z",
-            "author": {
-                "name": "Chrisync",
-                "url": "https://github.com/Chrisync"
-            }
-        },
-        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/216101208?u=349e4617cb80b0af6e73e4690d0436b70f30c3a8&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Privilege Escalation on HTB \"Poison\" using PwnKit (CVE-2021-4034)</div>",
             "url": "https://github.com/BugVex/Poison-HTB-Report",
             "title": "BugVex/Poison-HTB-Report: Privilege Escalation on HTB \"Poison\" using PwnKit (CVE-2021-4034)",
@@ -47,17 +47,6 @@
             "author": {
                 "name": "BugVex",
                 "url": "https://github.com/BugVex"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/214434086?u=3109b6dbdddc72a592576dfe4c65ed44c4fe13cd&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>PoC 'fileless' hybrid malware that uses exploit CVE-2021-36934 (improper ACLs on shadow copies) including threat detection files. This repo is for educational and cybersecurity research purposes only.</div>",
-            "url": "https://github.com/P1rat3xai/Why-so-Serious-SAM",
-            "title": "P1rat3xai/Why-so-Serious-SAM: PoC 'fileless' hybrid malware that uses exploit CVE-2021-36934 (improper ACLs on shadow copies) including threat detection files. This repo is for educational and cybersecurity research purposes only.",
-            "date_modified": "2025-06-13T00:40:41.000Z",
-            "date_published": "2025-06-08T04:19:41.000Z",
-            "author": {
-                "name": "P1rat3xai",
-                "url": "https://github.com/P1rat3xai"
             }
         },
         {
@@ -223,6 +212,17 @@
             "author": {
                 "name": "SerpilRivas",
                 "url": "https://github.com/SerpilRivas"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/63960351?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>This is my attempt at fuzzing the tcpip.sys driver in windows via using scapy. This is inspired by this vulnerability here: <a href=\"https://doar-e.github.io/blog/2021/04/15/reverse-engineering-tcpipsys-mechanics-of-a-packet-of-the-death-cve-2021-24086/\" class=\"Link--inTextBlock\" rel=\"nofollow\">https://doar-e.github.io/blog/2021/04/15/reverse-engineering-tcpipsys-mechanics-of-a-packet-of-the-death-cve-2021-24086/</a></div>",
+            "url": "https://github.com/personnumber3377/windows_tcpip_fuzz",
+            "title": "personnumber3377/windows_tcpip_fuzz: This is my attempt at fuzzing the tcpip.sys driver in windows via using scapy. This is inspired by this vulnerability here: https://doar-e.github.io/blog/2021/04/15/reverse-engineering-tcpipsys-mechanics-of-a-packet-of-the-death-cve-2021-24086/",
+            "date_modified": "2025-05-25T11:08:49.000Z",
+            "date_published": "2025-05-25T11:08:45.000Z",
+            "author": {
+                "name": "personnumber3377",
+                "url": "https://github.com/personnumber3377"
             }
         }
     ]
