@@ -6,6 +6,17 @@
     "description": "CVE-2021 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/147913818?u=2e5fb7822aaa9e0dc063f0ca0e90e4540c3e66c8&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
+            "url": "https://github.com/Yuri08loveElaina/CVE-2021-26828",
+            "title": "Yuri08loveElaina/CVE-2021-26828",
+            "date_modified": "2025-06-14T10:01:15.000Z",
+            "date_published": "2025-06-14T09:56:31.000Z",
+            "author": {
+                "name": "Yuri08loveElaina",
+                "url": "https://github.com/Yuri08loveElaina"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/138567406?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2021-42287/CVE-2021-42278/OTHER Scanner &amp; Exploiter.</div>",
             "url": "https://github.com/Chrisync/CVE-Scanner",
             "title": "Chrisync/CVE-Scanner: CVE-2021-42287/CVE-2021-42278/OTHER Scanner & Exploiter.",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "SerpilRivas",
                 "url": "https://github.com/SerpilRivas"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/63960351?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>This is my attempt at fuzzing the tcpip.sys driver in windows via using scapy. This is inspired by this vulnerability here: <a href=\"https://doar-e.github.io/blog/2021/04/15/reverse-engineering-tcpipsys-mechanics-of-a-packet-of-the-death-cve-2021-24086/\" class=\"Link--inTextBlock\" rel=\"nofollow\">https://doar-e.github.io/blog/2021/04/15/reverse-engineering-tcpipsys-mechanics-of-a-packet-of-the-death-cve-2021-24086/</a></div>",
-            "url": "https://github.com/personnumber3377/windows_tcpip_fuzz",
-            "title": "personnumber3377/windows_tcpip_fuzz: This is my attempt at fuzzing the tcpip.sys driver in windows via using scapy. This is inspired by this vulnerability here: https://doar-e.github.io/blog/2021/04/15/reverse-engineering-tcpipsys-mechanics-of-a-packet-of-the-death-cve-2021-24086/",
-            "date_modified": "2025-05-25T11:08:49.000Z",
-            "date_published": "2025-05-25T11:08:45.000Z",
-            "author": {
-                "name": "personnumber3377",
-                "url": "https://github.com/personnumber3377"
             }
         }
     ]
