@@ -6,6 +6,17 @@
     "description": "CVE-2022 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/183838019?u=70a3d35a0ebcc54468087499b11aa56292fa665b&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A simple bash script for exploiting Android 10/11/12 using cve-2022-20223.</div>",
+            "url": "https://github.com/xbee9/cve-2022-20223",
+            "title": "xbee9/cve-2022-20223: A simple bash script for exploiting Android 10/11/12 using cve-2022-20223.",
+            "date_modified": "2025-06-15T05:39:52.000Z",
+            "date_published": "2024-10-25T07:22:46.000Z",
+            "author": {
+                "name": "xbee9",
+                "url": "https://github.com/xbee9"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/12976017?u=6d3d423fda6a56643a0ca1acae5223cdf08a3c28&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>This is a one-time signature verification bypass. For persistent signature verification bypass, check <a href=\"https://github.com/TomKing062/CVE-2022-38691_38692\" class=\"Link--inTextBlock\">https://github.com/TomKing062/CVE-2022-38691_38692</a></div>",
             "url": "https://github.com/TomKing062/CVE-2022-38694_unlock_bootloader",
             "title": "TomKing062/CVE-2022-38694_unlock_bootloader: This is a one-time signature verification bypass. For persistent signature verification bypass, check https://github.com/TomKing062/CVE-2022-38691_38692",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "dodiorne",
                 "url": "https://github.com/dodiorne"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/148463237?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
-            "url": "https://github.com/RdBBB3/SHELL-POC-CVE-2022-46169",
-            "title": "RdBBB3/SHELL-POC-CVE-2022-46169",
-            "date_modified": "2025-05-21T13:11:42.000Z",
-            "date_published": "2025-05-21T13:04:46.000Z",
-            "author": {
-                "name": "RdBBB3",
-                "url": "https://github.com/RdBBB3"
             }
         }
     ]
