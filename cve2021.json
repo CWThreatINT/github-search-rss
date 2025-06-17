@@ -6,6 +6,17 @@
     "description": "CVE-2021 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/56916261?u=3cebbbba2e7a73f3a44649789d570da0637ad25b&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>This is an Exploit App I made when solving the DocumentViewer challenge (CVE-2021-40724) from MobileHackingLab. It will download a libdocviewe_pro.so library from your local machine unto the vulnerable app's internal storage, load it upon relaunch and achieve an RCE.</div>",
+            "url": "https://github.com/tinopreter/DocViewerExploitApp",
+            "title": "tinopreter/DocViewerExploitApp: This is an Exploit App I made when solving the DocumentViewer challenge (CVE-2021-40724) from MobileHackingLab. It will download a libdocviewe_pro.so library from your local machine unto the vulnerable app's internal storage, load it upon relaunch and achieve an RCE.",
+            "date_modified": "2025-06-17T09:14:04.000Z",
+            "date_published": "2025-06-15T11:57:05.000Z",
+            "author": {
+                "name": "tinopreter",
+                "url": "https://github.com/tinopreter"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/138567406?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2021-42287/CVE-2021-42278/OTHER Scanner &amp; Exploiter.</div>",
             "url": "https://github.com/Chrisync/CVE-Scanner",
             "title": "Chrisync/CVE-Scanner: CVE-2021-42287/CVE-2021-42278/OTHER Scanner & Exploiter.",
@@ -25,17 +36,6 @@
             "author": {
                 "name": "Andreyft7",
                 "url": "https://github.com/Andreyft7"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/56916261?u=3cebbbba2e7a73f3a44649789d570da0637ad25b&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>This is an Exploit App I made when solving the DocumentViewer challenge (CVE-2021-40724) from MobileHackingLab. It will download a libdocviewe_pro.so library from your local machine unto the vulnerable app's internal storage, load it upon relaunch and achieve an RCE.</div>",
-            "url": "https://github.com/tinopreter/DocViewerExploitApp",
-            "title": "tinopreter/DocViewerExploitApp: This is an Exploit App I made when solving the DocumentViewer challenge (CVE-2021-40724) from MobileHackingLab. It will download a libdocviewe_pro.so library from your local machine unto the vulnerable app's internal storage, load it upon relaunch and achieve an RCE.",
-            "date_modified": "2025-06-15T13:13:02.000Z",
-            "date_published": "2025-06-15T11:57:05.000Z",
-            "author": {
-                "name": "tinopreter",
-                "url": "https://github.com/tinopreter"
             }
         },
         {
