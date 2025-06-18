@@ -9,7 +9,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/47452491?u=fb5bc5c66d9b925ad5acc522cd80a391b43802f7&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2023-6401 is a DLL hijacking vulnerability that allows attackers to execute arbitrary code by placing a malicious `dbghelp.dll` file in the application directory. This project demonstrates the vulnerability and provides a reproducible PoC.</div>",
             "url": "https://github.com/mekitoci/CVE-2023-6401",
             "title": "mekitoci/CVE-2023-6401: CVE-2023-6401 is a DLL hijacking vulnerability that allows attackers to execute arbitrary code by placing a malicious `dbghelp.dll` file in the application directory. This project demonstrates the vulnerability and provides a reproducible PoC.",
-            "date_modified": "2025-06-18T19:59:31.000Z",
+            "date_modified": "2025-06-18T20:27:11.000Z",
             "date_published": "2025-06-18T19:59:31.000Z",
             "author": {
                 "name": "mekitoci",
