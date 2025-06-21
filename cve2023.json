@@ -6,6 +6,17 @@
     "description": "CVE-2023 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/46997779?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>This is a Proof of Concept (PoC) for CVE-2023-3244, a vulnerability in comment-like-dislike. The PoC demonstrates the exploitability of this vulnerability and serves as a reference for security researchers and developers to better understand and mitigate the risk associated with this issue.</div>",
+            "url": "https://github.com/drnull03/POC-CVE-2023-3244",
+            "title": "drnull03/POC-CVE-2023-3244: This is a Proof of Concept (PoC) for CVE-2023-3244, a vulnerability in comment-like-dislike. The PoC demonstrates the exploitability of this vulnerability and serves as a reference for security researchers and developers to better understand and mitigate the risk associated with this issue.",
+            "date_modified": "2025-06-21T12:58:34.000Z",
+            "date_published": "2023-09-13T11:52:36.000Z",
+            "author": {
+                "name": "drnull03",
+                "url": "https://github.com/drnull03"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/151980876?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>TOP All bugbounty pentesting CVE-2023- POC Exp  RCE example payload  Things</div>",
             "url": "https://github.com/GhostTroops/TOP",
             "title": "GhostTroops/TOP: TOP All bugbounty pentesting CVE-2023- POC Exp  RCE example payload  Things",
@@ -14,17 +25,6 @@
             "author": {
                 "name": "GhostTroops",
                 "url": "https://github.com/GhostTroops"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/46997779?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>This is a Proof of Concept (PoC) for CVE-2023-3244, a vulnerability in comment-like-dislike. The PoC demonstrates the exploitability of this vulnerability and serves as a reference for security researchers and developers to better understand and mitigate the risk associated with this issue.</div>",
-            "url": "https://github.com/drnull03/POC-CVE-2023-3244",
-            "title": "drnull03/POC-CVE-2023-3244: This is a Proof of Concept (PoC) for CVE-2023-3244, a vulnerability in comment-like-dislike. The PoC demonstrates the exploitability of this vulnerability and serves as a reference for security researchers and developers to better understand and mitigate the risk associated with this issue.",
-            "date_modified": "2025-06-19T12:19:54.000Z",
-            "date_published": "2023-09-13T11:52:36.000Z",
-            "author": {
-                "name": "drnull03",
-                "url": "https://github.com/drnull03"
             }
         },
         {
