@@ -6,6 +6,17 @@
     "description": "CVE-2023 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/122522877?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Proof of concept for HTB easy machine Usage</div>",
+            "url": "https://github.com/ldb33/CVE-2023-24249-PoC",
+            "title": "ldb33/CVE-2023-24249-PoC: Proof of concept for HTB easy machine Usage",
+            "date_modified": "2025-06-21T17:03:09.000Z",
+            "date_published": "2025-06-21T17:02:39.000Z",
+            "author": {
+                "name": "ldb33",
+                "url": "https://github.com/ldb33"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/46997779?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>This is a Proof of Concept (PoC) for CVE-2023-3244, a vulnerability in comment-like-dislike. The PoC demonstrates the exploitability of this vulnerability and serves as a reference for security researchers and developers to better understand and mitigate the risk associated with this issue.</div>",
             "url": "https://github.com/drnull03/POC-CVE-2023-3244",
             "title": "drnull03/POC-CVE-2023-3244: This is a Proof of Concept (PoC) for CVE-2023-3244, a vulnerability in comment-like-dislike. The PoC demonstrates the exploitability of this vulnerability and serves as a reference for security researchers and developers to better understand and mitigate the risk associated with this issue.",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "gunzf0x",
                 "url": "https://github.com/gunzf0x"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/118013132?u=bc39530a7b3076f0633060157860514066a0b70e&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Procedure to Recreate the Exploit for CVE-2023-36802 targeting MSKSSRV.SYS driver</div>",
-            "url": "https://github.com/ISH2YU/CVE-2023-36802",
-            "title": "ISH2YU/CVE-2023-36802: Procedure to Recreate the Exploit for CVE-2023-36802 targeting MSKSSRV.SYS driver",
-            "date_modified": "2025-06-09T15:17:25.000Z",
-            "date_published": "2024-06-12T06:19:50.000Z",
-            "author": {
-                "name": "ISH2YU",
-                "url": "https://github.com/ISH2YU"
             }
         }
     ]
