@@ -6,6 +6,17 @@
     "description": "CVE-2023 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/84989569?u=3605e3ff326d1b53a0aa3edb9dddec88dd93a07a&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2023-46818 - ISPConfig PHP Code Injection PoC Exploit (Bash)</div>",
+            "url": "https://github.com/rvizx/CVE-2023-46818",
+            "title": "rvizx/CVE-2023-46818: CVE-2023-46818 - ISPConfig PHP Code Injection PoC Exploit (Bash)",
+            "date_modified": "2025-06-22T00:55:47.000Z",
+            "date_published": "2025-05-02T04:51:30.000Z",
+            "author": {
+                "name": "rvizx",
+                "url": "https://github.com/rvizx"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/122522877?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Proof of concept for HTB easy machine Usage</div>",
             "url": "https://github.com/ldb33/CVE-2023-24249-PoC",
             "title": "ldb33/CVE-2023-24249-PoC: Proof of concept for HTB easy machine Usage",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "CVEProject",
                 "url": "https://github.com/CVEProject"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/31874167?u=8d18125714eb6a5d5fcc731cec0048044ce25892&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Python Proof of Concept for CVE-2023-1545 (SQL Injection for Teampass versions prior to 3.0.0.23).</div>",
-            "url": "https://github.com/gunzf0x/CVE-2023-1545",
-            "title": "gunzf0x/CVE-2023-1545: Python Proof of Concept for CVE-2023-1545 (SQL Injection for Teampass versions prior to 3.0.0.23).",
-            "date_modified": "2025-06-02T01:56:43.000Z",
-            "date_published": "2025-04-25T18:43:06.000Z",
-            "author": {
-                "name": "gunzf0x",
-                "url": "https://github.com/gunzf0x"
             }
         }
     ]
