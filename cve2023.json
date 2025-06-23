@@ -6,6 +6,17 @@
     "description": "CVE-2023 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/217596923?u=8cb53eaef6d8dde12217327a73b48c2b86409705&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>  CVE-2023-33538 .rb module for msfconsole </div>",
+            "url": "https://github.com/mrowkoob/CVE-2023-33538-msf",
+            "title": "mrowkoob/CVE-2023-33538-msf:   CVE-2023-33538 .rb module for msfconsole ",
+            "date_modified": "2025-06-23T22:56:20.000Z",
+            "date_published": "2025-06-23T22:47:56.000Z",
+            "author": {
+                "name": "mrowkoob",
+                "url": "https://github.com/mrowkoob"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/105500021?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Site containing info useful for demonstrate CVE-2023-37273</div>",
             "url": "https://github.com/gdesantis01/instructions-summarizing",
             "title": "gdesantis01/instructions-summarizing: Site containing info useful for demonstrate CVE-2023-37273",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "z1ph1us",
                 "url": "https://github.com/z1ph1us"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/72118225?u=bb3afb470717d055485d4666fed36341586aad49&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Proof of Concept exploit for Server Side Request Forgery vulnerability in Requests Basket v1.2.1 and before.</div>",
-            "url": "https://github.com/J0ey17/Exploit_CVE-2023-27163",
-            "title": "J0ey17/Exploit_CVE-2023-27163: Proof of Concept exploit for Server Side Request Forgery vulnerability in Requests Basket v1.2.1 and before.",
-            "date_modified": "2025-06-03T13:22:32.000Z",
-            "date_published": "2025-06-03T13:17:06.000Z",
-            "author": {
-                "name": "J0ey17",
-                "url": "https://github.com/J0ey17"
             }
         }
     ]
