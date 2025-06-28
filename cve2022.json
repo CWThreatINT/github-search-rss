@@ -6,6 +6,17 @@
     "description": "CVE-2022 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/3769015?u=484b8914c49a05160be0169ac882b1012918bebf&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Moment.js vuln lab</div>",
+            "url": "https://github.com/pS3ud0RAnD0m/cve-2022-24785-poc-lab",
+            "title": "pS3ud0RAnD0m/cve-2022-24785-poc-lab: Moment.js vuln lab",
+            "date_modified": "2025-06-28T19:33:05.000Z",
+            "date_published": "2023-05-29T23:40:56.000Z",
+            "author": {
+                "name": "pS3ud0RAnD0m",
+                "url": "https://github.com/pS3ud0RAnD0m"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/66863012?u=12653af0def352c0458bfcf15b96cfa21fcaf518&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>（CVE-2022-22965）PoC 应用程序和漏洞利用</div>",
             "url": "https://github.com/ZapcoMan/spring4shell-vulnerable-application",
             "title": "ZapcoMan/spring4shell-vulnerable-application: （CVE-2022-22965）PoC 应用程序和漏洞利用",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "ZephrFish",
                 "url": "https://github.com/ZephrFish"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/155238968?u=b209852b26ff73bb35732089a379b18fcbd1bbaf&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>To test my skills i was creating python scripts to test f5 big ip unauthenticated remote code vulnerability CVE 2020–5902, CVE 2022–1388</div>",
-            "url": "https://github.com/Josekutty-K/f5-Big-IP-Unauth-RCE-Checker",
-            "title": "Josekutty-K/f5-Big-IP-Unauth-RCE-Checker: To test my skills i was creating python scripts to test f5 big ip unauthenticated remote code vulnerability CVE 2020–5902, CVE 2022–1388",
-            "date_modified": "2025-06-09T12:21:49.000Z",
-            "date_published": "2025-06-09T12:14:02.000Z",
-            "author": {
-                "name": "Josekutty-K",
-                "url": "https://github.com/Josekutty-K"
             }
         }
     ]
