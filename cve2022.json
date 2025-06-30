@@ -6,6 +6,17 @@
     "description": "CVE-2022 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/92908037?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
+            "url": "https://github.com/g3un/cve-2022-32250",
+            "title": "g3un/cve-2022-32250",
+            "date_modified": "2025-06-30T02:32:20.000Z",
+            "date_published": "2025-06-30T02:30:58.000Z",
+            "author": {
+                "name": "g3un",
+                "url": "https://github.com/g3un"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/3769015?u=484b8914c49a05160be0169ac882b1012918bebf&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Moment.js vuln lab</div>",
             "url": "https://github.com/pS3ud0RAnD0m/cve-2022-24785-poc-lab",
             "title": "pS3ud0RAnD0m/cve-2022-24785-poc-lab: Moment.js vuln lab",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "brunoh6",
                 "url": "https://github.com/brunoh6"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/5783068?u=8ead6f35fa4c2d1fc565e6f080630d2bb299f41d&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Python implementation for NotProxyShell aka CVE-2022-40140 &amp; CVE-2022-41082</div>",
-            "url": "https://github.com/ZephrFish/NotProxyShellScanner",
-            "title": "ZephrFish/NotProxyShellScanner: Python implementation for NotProxyShell aka CVE-2022-40140 & CVE-2022-41082",
-            "date_modified": "2025-06-10T11:11:10.000Z",
-            "date_published": "2022-10-07T08:10:00.000Z",
-            "author": {
-                "name": "ZephrFish",
-                "url": "https://github.com/ZephrFish"
             }
         }
     ]
