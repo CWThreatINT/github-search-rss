@@ -6,6 +6,17 @@
     "description": "CVE-2022 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/73864400?u=efd77c2e1ac21fd3a99cb9b4cd0e289b30f2aedf&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Reproduce CVE-2022-32250 and CVE-2025-21756 by tampering with modprobe_path and hijacking control flow, respectively.</div>",
+            "url": "https://github.com/KuanKuanQAQ/cve-testing",
+            "title": "KuanKuanQAQ/cve-testing: Reproduce CVE-2022-32250 and CVE-2025-21756 by tampering with modprobe_path and hijacking control flow, respectively.",
+            "date_modified": "2025-06-30T06:50:51.000Z",
+            "date_published": "2025-06-19T02:20:31.000Z",
+            "author": {
+                "name": "KuanKuanQAQ",
+                "url": "https://github.com/KuanKuanQAQ"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/92908037?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
             "url": "https://github.com/g3un/cve-2022-32250",
             "title": "g3un/cve-2022-32250",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "CyberQuestor-infosec",
                 "url": "https://github.com/CyberQuestor-infosec"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/132168501?u=cd584fb535d460f99ac4155d5a353e4bdf824553&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Hands-on lab on detecting and mitigating web app threats using OWASP ZAP, Burp Suite, and ModSecurity WAF (with OWASP CRS). Case study: Spring4Shell (CVE-2022-22965). Local Docker-based setup.</div>",
-            "url": "https://github.com/brunoh6/web-threat-mitigation",
-            "title": "brunoh6/web-threat-mitigation: Hands-on lab on detecting and mitigating web app threats using OWASP ZAP, Burp Suite, and ModSecurity WAF (with OWASP CRS). Case study: Spring4Shell (CVE-2022-22965). Local Docker-based setup.",
-            "date_modified": "2025-06-11T19:04:08.000Z",
-            "date_published": "2025-06-11T18:36:05.000Z",
-            "author": {
-                "name": "brunoh6",
-                "url": "https://github.com/brunoh6"
             }
         }
     ]
