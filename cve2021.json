@@ -83,17 +83,6 @@
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/217294545?u=267330eab99c3c187ed8a24ef3490d77deb2911c&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Exploit CVE-2021-30047.</div>",
-            "url": "https://github.com/Andreyfreis/CVE-2021-30047",
-            "title": "Andreyfreis/CVE-2021-30047: Exploit CVE-2021-30047.",
-            "date_modified": "2025-06-21T04:18:31.000Z",
-            "date_published": "2025-06-21T04:14:37.000Z",
-            "author": {
-                "name": "Andreyfreis",
-                "url": "https://github.com/Andreyfreis"
-            }
-        },
-        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/48131494?u=7939df4572b8770153adf0be0d731c212cd20625&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Tiny File Manager &lt;= 2.4.6 - Remote Code Execution (RCE)</div>",
             "url": "https://github.com/Z3R0-0x30/CVE-2021-40964",
             "title": "Z3R0-0x30/CVE-2021-40964: Tiny File Manager <= 2.4.6 - Remote Code Execution (RCE)",
@@ -223,6 +212,17 @@
             "author": {
                 "name": "hieubabe123",
                 "url": "https://github.com/hieubabe123"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/186727818?u=f17ef29f6cf96adeb6c41c5744bd164269b0519a&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>PoC malware that uses exploit CVE-2021-36934 (improper ACLs on shadow copies) using a fileless red team method on Windows 10/11 with LOLBins, extracting SYSTEM and SAM hives for local NTLM hashes. </div>",
+            "url": "https://github.com/P1rat3R00t/Why-so-Serious-SAM",
+            "title": "P1rat3R00t/Why-so-Serious-SAM: PoC malware that uses exploit CVE-2021-36934 (improper ACLs on shadow copies) using a fileless red team method on Windows 10/11 with LOLBins, extracting SYSTEM and SAM hives for local NTLM hashes. ",
+            "date_modified": "2025-06-09T00:53:01.000Z",
+            "date_published": "2025-06-09T00:42:29.000Z",
+            "author": {
+                "name": "P1rat3R00t",
+                "url": "https://github.com/P1rat3R00t"
             }
         }
     ]
