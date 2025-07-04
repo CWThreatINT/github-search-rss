@@ -6,6 +6,17 @@
     "description": "CVE-2021 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/138567406?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2021-42287/CVE-2021-42278/OTHER Scanner &amp; Exploiter.</div>",
+            "url": "https://github.com/Chrisync/CVE-Scanner",
+            "title": "Chrisync/CVE-Scanner: CVE-2021-42287/CVE-2021-42278/OTHER Scanner & Exploiter.",
+            "date_modified": "2025-07-04T13:30:02.000Z",
+            "date_published": "2025-04-29T11:39:11.000Z",
+            "author": {
+                "name": "Chrisync",
+                "url": "https://github.com/Chrisync"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/218300816?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>POC to exploit WordPress 5.6-5.7 (PHP 8+) Authenticated XXE Injection. </div>",
             "url": "https://github.com/Tea-On/CVE-2021-29447-Authenticated-XXE-WordPress-5.6-5.7",
             "title": "Tea-On/CVE-2021-29447-Authenticated-XXE-WordPress-5.6-5.7: POC to exploit WordPress 5.6-5.7 (PHP 8+) Authenticated XXE Injection. ",
@@ -14,17 +25,6 @@
             "author": {
                 "name": "Tea-On",
                 "url": "https://github.com/Tea-On"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/138567406?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2021-42287/CVE-2021-42278/OTHER Scanner &amp; Exploiter.</div>",
-            "url": "https://github.com/Chrisync/CVE-Scanner",
-            "title": "Chrisync/CVE-Scanner: CVE-2021-42287/CVE-2021-42278/OTHER Scanner & Exploiter.",
-            "date_modified": "2025-07-04T10:49:21.000Z",
-            "date_published": "2025-04-29T11:39:11.000Z",
-            "author": {
-                "name": "Chrisync",
-                "url": "https://github.com/Chrisync"
             }
         },
         {
