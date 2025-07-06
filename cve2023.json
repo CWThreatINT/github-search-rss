@@ -6,6 +6,28 @@
     "description": "CVE-2023 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/216335158?u=cca6d8d51e041930d736de5e59d38297b96784a1&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
+            "url": "https://github.com/ibrahmsql/CVE-2023-37467",
+            "title": "ibrahmsql/CVE-2023-37467",
+            "date_modified": "2025-07-06T06:03:21.000Z",
+            "date_published": "2025-07-06T06:03:03.000Z",
+            "author": {
+                "name": "ibrahmsql",
+                "url": "https://github.com/ibrahmsql"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/216335158?u=cca6d8d51e041930d736de5e59d38297b96784a1&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
+            "url": "https://github.com/ibrahmsql/CVE-2023-45131",
+            "title": "ibrahmsql/CVE-2023-45131",
+            "date_modified": "2025-07-06T05:58:40.000Z",
+            "date_published": "2025-07-06T05:58:06.000Z",
+            "author": {
+                "name": "ibrahmsql",
+                "url": "https://github.com/ibrahmsql"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/151980876?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>TOP All bugbounty pentesting CVE-2023- POC Exp  RCE example payload  Things</div>",
             "url": "https://github.com/GhostTroops/TOP",
             "title": "GhostTroops/TOP: TOP All bugbounty pentesting CVE-2023- POC Exp  RCE example payload  Things",
@@ -201,28 +223,6 @@
             "author": {
                 "name": "tuaandatt",
                 "url": "https://github.com/tuaandatt"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/216335158?u=cca6d8d51e041930d736de5e59d38297b96784a1&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2023-1698 exploit with golang </div>",
-            "url": "https://github.com/ibrahmsql/CVE-2023-1698",
-            "title": "ibrahmsql/CVE-2023-1698: CVE-2023-1698 exploit with golang ",
-            "date_modified": "2025-06-30T13:04:27.000Z",
-            "date_published": "2025-06-15T17:37:09.000Z",
-            "author": {
-                "name": "ibrahmsql",
-                "url": "https://github.com/ibrahmsql"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/136122402?u=910e74346f1a218946dc27e1bafcdcf9a7f88de8&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>An issue was discovered in ISPConfig before 3.2.11p1. PHP code injection can be achieved in the language file editor by an admin if admin_allow_langedit is enabled.</div>",
-            "url": "https://github.com/z7Akane/CVE-2023-46818",
-            "title": "z7Akane/CVE-2023-46818: An issue was discovered in ISPConfig before 3.2.11p1. PHP code injection can be achieved in the language file editor by an admin if admin_allow_langedit is enabled.",
-            "date_modified": "2025-06-30T23:45:00.000Z",
-            "date_published": "2025-06-14T13:38:03.000Z",
-            "author": {
-                "name": "z7Akane",
-                "url": "https://github.com/z7Akane"
             }
         }
     ]
