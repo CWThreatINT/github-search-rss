@@ -6,6 +6,17 @@
     "description": "CVE-2021 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/91258399?u=deaba5c8e96de80a3a341e340ec11d786aa4bf42&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Exploit for Apache Druid Embedded Javascript Remote Code Execution (CVE-2021-25646), Python.</div>",
+            "url": "https://github.com/ShadowLance2/Apache-Druid-CVE-2021-25646-Exploit",
+            "title": "ShadowLance2/Apache-Druid-CVE-2021-25646-Exploit: Exploit for Apache Druid Embedded Javascript Remote Code Execution (CVE-2021-25646), Python.",
+            "date_modified": "2025-07-06T10:59:17.000Z",
+            "date_published": "2025-07-06T10:45:49.000Z",
+            "author": {
+                "name": "ShadowLance2",
+                "url": "https://github.com/ShadowLance2"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/138567406?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2021-42287/CVE-2021-42278/OTHER Scanner &amp; Exploiter.</div>",
             "url": "https://github.com/Chrisync/CVE-Scanner",
             "title": "Chrisync/CVE-Scanner: CVE-2021-42287/CVE-2021-42278/OTHER Scanner & Exploiter.",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "magicrc",
                 "url": "https://github.com/magicrc"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/216101208?u=349e4617cb80b0af6e73e4690d0436b70f30c3a8&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Privilege Escalation on HTB \"Poison\" using PwnKit (CVE-2021-4034)</div>",
-            "url": "https://github.com/BugVex/Poison-HTB-Report",
-            "title": "BugVex/Poison-HTB-Report: Privilege Escalation on HTB \"Poison\" using PwnKit (CVE-2021-4034)",
-            "date_modified": "2025-06-13T02:18:58.000Z",
-            "date_published": "2025-06-13T01:28:50.000Z",
-            "author": {
-                "name": "BugVex",
-                "url": "https://github.com/BugVex"
             }
         }
     ]
