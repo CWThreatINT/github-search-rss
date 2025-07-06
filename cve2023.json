@@ -6,6 +6,17 @@
     "description": "CVE-2023 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/105500021?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Site containing info useful for demonstrate CVE-2023-37273</div>",
+            "url": "https://github.com/gdesantis01/instructions-summarizing",
+            "title": "gdesantis01/instructions-summarizing: Site containing info useful for demonstrate CVE-2023-37273",
+            "date_modified": "2025-07-06T14:53:44.000Z",
+            "date_published": "2025-06-23T16:48:53.000Z",
+            "author": {
+                "name": "gdesantis01",
+                "url": "https://github.com/gdesantis01"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/136122402?u=910e74346f1a218946dc27e1bafcdcf9a7f88de8&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>An issue was discovered in ISPConfig before 3.2.11p1. PHP code injection can be achieved in the language file editor by an admin if admin_allow_langedit is enabled.</div>",
             "url": "https://github.com/hunntr/CVE-2023-46818",
             "title": "hunntr/CVE-2023-46818: An issue was discovered in ISPConfig before 3.2.11p1. PHP code injection can be achieved in the language file editor by an admin if admin_allow_langedit is enabled.",
@@ -14,17 +25,6 @@
             "author": {
                 "name": "hunntr",
                 "url": "https://github.com/hunntr"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/105500021?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Site containing info useful for demonstrate CVE-2023-37273</div>",
-            "url": "https://github.com/gdesantis01/instructions-summarizing",
-            "title": "gdesantis01/instructions-summarizing: Site containing info useful for demonstrate CVE-2023-37273",
-            "date_modified": "2025-07-06T11:08:03.000Z",
-            "date_published": "2025-06-23T16:48:53.000Z",
-            "author": {
-                "name": "gdesantis01",
-                "url": "https://github.com/gdesantis01"
             }
         },
         {
