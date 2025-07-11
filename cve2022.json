@@ -6,6 +6,17 @@
     "description": "CVE-2022 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/99892627?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
+            "url": "https://github.com/cuijiung/fastjson-CVE-2022-25845",
+            "title": "cuijiung/fastjson-CVE-2022-25845",
+            "date_modified": "2025-07-11T07:46:08.000Z",
+            "date_published": "2025-07-11T07:43:50.000Z",
+            "author": {
+                "name": "cuijiung",
+                "url": "https://github.com/cuijiung"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/12802120?u=1d23e8394e10f67fd75ac4d40665f73ac9ff566a&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Docker exploit</div>",
             "url": "https://github.com/mrchucu1/CVE-2022-0847-Docker",
             "title": "mrchucu1/CVE-2022-0847-Docker: Docker exploit",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "wooluo",
                 "url": "https://github.com/wooluo"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/20491954?u=48c8c4dde0bb37cb4f3212301874253d16e7760c&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>\"qs\" prototype poisoning vulnerability ( CVE-2022-24999 )</div>",
-            "url": "https://github.com/n8tz/CVE-2022-24999",
-            "title": "n8tz/CVE-2022-24999: \"qs\" prototype poisoning vulnerability ( CVE-2022-24999 )",
-            "date_modified": "2025-06-22T17:21:51.000Z",
-            "date_published": "2022-04-18T06:46:49.000Z",
-            "author": {
-                "name": "n8tz",
-                "url": "https://github.com/n8tz"
             }
         }
     ]
