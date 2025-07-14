@@ -6,6 +6,17 @@
     "description": "CVE-2023 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/141476851?u=b972d16a38334381809fcc1cbfbdc3a02794544f&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Royal Elementor Addons - Unauthenticated Remote Code Execution</div>",
+            "url": "https://github.com/X3RX3SSec/CVE-2023-5360",
+            "title": "X3RX3SSec/CVE-2023-5360: Royal Elementor Addons - Unauthenticated Remote Code Execution",
+            "date_modified": "2025-07-14T18:09:38.000Z",
+            "date_published": "2025-07-14T18:09:35.000Z",
+            "author": {
+                "name": "X3RX3SSec",
+                "url": "https://github.com/X3RX3SSec"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/151980876?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>TOP All bugbounty pentesting CVE-2023- POC Exp  RCE example payload  Things</div>",
             "url": "https://github.com/GhostTroops/TOP",
             "title": "GhostTroops/TOP: TOP All bugbounty pentesting CVE-2023- POC Exp  RCE example payload  Things",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "mrowkoob",
                 "url": "https://github.com/mrowkoob"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/217492268?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Python Exploit for TP-Link TL-WR940N/TL-WR841N Command Injection Vulnerability</div>",
-            "url": "https://github.com/explxx/CVE-2023-33538",
-            "title": "explxx/CVE-2023-33538: Python Exploit for TP-Link TL-WR940N/TL-WR841N Command Injection Vulnerability",
-            "date_modified": "2025-06-22T19:45:17.000Z",
-            "date_published": "2025-06-22T19:41:08.000Z",
-            "author": {
-                "name": "explxx",
-                "url": "https://github.com/explxx"
             }
         }
     ]
