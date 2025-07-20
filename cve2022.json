@@ -6,6 +6,17 @@
     "description": "CVE-2022 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/36841777?u=c8b0e9dcefac02648088266b6454f6fc714ebb23&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>PoC for CVE-2022-0492</div>",
+            "url": "https://github.com/Perimora/cve_2022_0492",
+            "title": "Perimora/cve_2022_0492: PoC for CVE-2022-0492",
+            "date_modified": "2025-07-20T11:10:23.000Z",
+            "date_published": "2025-07-20T11:10:17.000Z",
+            "author": {
+                "name": "Perimora",
+                "url": "https://github.com/Perimora"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/221506194?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Zenar CMS 9.3 suffers from an ​​unrestricted file upload vulnerability​​ in its file management module, allowing authenticated attackers (with minimal privileges) to upload arbitrary files, including malicious PHP scripts, to the web server. </div>",
             "url": "https://github.com/Ch35h1r3c47/CVE-2022-44136-poc",
             "title": "Ch35h1r3c47/CVE-2022-44136-poc: Zenar CMS 9.3 suffers from an ​​unrestricted file upload vulnerability​​ in its file management module, allowing authenticated attackers (with minimal privileges) to upload arbitrary files, including malicious PHP scripts, to the web server. ",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "g3un",
                 "url": "https://github.com/g3un"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/73864400?u=efd77c2e1ac21fd3a99cb9b4cd0e289b30f2aedf&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Reproduce CVE-2022-32250 and CVE-2025-21756 by tampering with modprobe_path and hijacking control flow, respectively.</div>",
-            "url": "https://github.com/KuanKuanQAQ/cve-testing",
-            "title": "KuanKuanQAQ/cve-testing: Reproduce CVE-2022-32250 and CVE-2025-21756 by tampering with modprobe_path and hijacking control flow, respectively.",
-            "date_modified": "2025-06-30T06:50:51.000Z",
-            "date_published": "2025-06-19T02:20:31.000Z",
-            "author": {
-                "name": "KuanKuanQAQ",
-                "url": "https://github.com/KuanKuanQAQ"
             }
         }
     ]
