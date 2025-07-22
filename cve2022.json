@@ -6,6 +6,17 @@
     "description": "CVE-2022 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/58541358?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
+            "url": "https://github.com/DefensiveOrigins/POC-CVE-2022-26671",
+            "title": "DefensiveOrigins/POC-CVE-2022-26671",
+            "date_modified": "2025-07-22T19:54:26.000Z",
+            "date_published": "2025-07-22T19:49:51.000Z",
+            "author": {
+                "name": "DefensiveOrigins",
+                "url": "https://github.com/DefensiveOrigins"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/165937758?u=0604c1ea7883d2a48b7feb0f7bd43c669d4d9b7d&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Unauthenticated SSRF PoC in WordPress Fusion Builder &lt;3.6.2 (CVE-2022-1386)</div>",
             "url": "https://github.com/fayassgit/CVE-2022-1386-FusionBuilder-SSRF",
             "title": "fayassgit/CVE-2022-1386-FusionBuilder-SSRF: Unauthenticated SSRF PoC in WordPress Fusion Builder <3.6.2 (CVE-2022-1386)",
@@ -209,17 +220,6 @@
             "title": "ready2disclose/CVE-2022-43110: CVE-2022-43110",
             "date_modified": "2025-07-03T06:18:11.000Z",
             "date_published": "2025-07-03T05:18:22.000Z",
-            "author": {
-                "name": "ready2disclose",
-                "url": "https://github.com/ready2disclose"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/157217373?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2022-31491</div>",
-            "url": "https://github.com/ready2disclose/CVE-2022-31491",
-            "title": "ready2disclose/CVE-2022-31491: CVE-2022-31491",
-            "date_modified": "2025-07-03T06:17:22.000Z",
-            "date_published": "2025-07-03T05:15:55.000Z",
             "author": {
                 "name": "ready2disclose",
                 "url": "https://github.com/ready2disclose"
