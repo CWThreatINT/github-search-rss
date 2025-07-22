@@ -6,6 +6,17 @@
     "description": "CVE-2022 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/165937758?u=0604c1ea7883d2a48b7feb0f7bd43c669d4d9b7d&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Unauthenticated SSRF PoC in WordPress Fusion Builder &lt;3.6.2 (CVE-2022-1386)</div>",
+            "url": "https://github.com/fayassgit/CVE-2022-1386-FusionBuilder-SSRF",
+            "title": "fayassgit/CVE-2022-1386-FusionBuilder-SSRF: Unauthenticated SSRF PoC in WordPress Fusion Builder <3.6.2 (CVE-2022-1386)",
+            "date_modified": "2025-07-22T07:56:06.000Z",
+            "date_published": "2025-07-22T07:37:29.000Z",
+            "author": {
+                "name": "fayassgit",
+                "url": "https://github.com/fayassgit"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/4262359?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2022-41741/742 Nginx Vulnerability Scanner</div>",
             "url": "https://github.com/moften/CVE-2022-41741-742-Nginx-Vulnerability-Scanner",
             "title": "moften/CVE-2022-41741-742-Nginx-Vulnerability-Scanner: CVE-2022-41741/742 Nginx Vulnerability Scanner",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "ready2disclose",
                 "url": "https://github.com/ready2disclose"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/192973134?u=a5670a2bd007b52d06e06b4ac2e2dd167d2a3b4b&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Find out a modified Cacti public exploit!</div>",
-            "url": "https://github.com/alv-david/CVE-2022-46169-Cacti-1.2.22",
-            "title": "alv-david/CVE-2022-46169-Cacti-1.2.22: Find out a modified Cacti public exploit!",
-            "date_modified": "2025-07-02T09:30:21.000Z",
-            "date_published": "2025-07-02T08:19:41.000Z",
-            "author": {
-                "name": "alv-david",
-                "url": "https://github.com/alv-david"
             }
         }
     ]
