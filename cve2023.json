@@ -6,6 +6,17 @@
     "description": "CVE-2023 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/176364273?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>The exploitation of CVE-2023-2598 about io_uring</div>",
+            "url": "https://github.com/SpongeBob-369/CVE-2023-2598",
+            "title": "SpongeBob-369/CVE-2023-2598: The exploitation of CVE-2023-2598 about io_uring",
+            "date_modified": "2025-07-23T08:57:44.000Z",
+            "date_published": "2025-07-23T08:43:41.000Z",
+            "author": {
+                "name": "SpongeBob-369",
+                "url": "https://github.com/SpongeBob-369"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/151980876?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>TOP All bugbounty pentesting CVE-2023- POC Exp  RCE example payload  Things</div>",
             "url": "https://github.com/GhostTroops/TOP",
             "title": "GhostTroops/TOP: TOP All bugbounty pentesting CVE-2023- POC Exp  RCE example payload  Things",
@@ -209,17 +220,6 @@
             "title": "RonF98/CVE-2023-21716-POC: Proof Of Concept for CVE-2023-21716 Microsoft Word Heap Corruption",
             "date_modified": "2025-07-07T14:58:21.000Z",
             "date_published": "2024-09-16T13:04:45.000Z",
-            "author": {
-                "name": "RonF98",
-                "url": "https://github.com/RonF98"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/181740430?u=b26fbf769450677a25fff39b935f2f6557215a8b&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2023-38831 is a Zero-day WinRAR vulnerability that lets attackers disguise malicious files in archives, tricking users into executing harmful content.</div>",
-            "url": "https://github.com/RonF98/CVE-2023-38831-POC",
-            "title": "RonF98/CVE-2023-38831-POC: CVE-2023-38831 is a Zero-day WinRAR vulnerability that lets attackers disguise malicious files in archives, tricking users into executing harmful content.",
-            "date_modified": "2025-07-07T14:49:45.000Z",
-            "date_published": "2024-11-11T14:25:41.000Z",
             "author": {
                 "name": "RonF98",
                 "url": "https://github.com/RonF98"
