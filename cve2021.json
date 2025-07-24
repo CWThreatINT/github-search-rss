@@ -6,6 +6,17 @@
     "description": "CVE-2021 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/222713333?u=b1424c7cf8be62b5de782b53908f625ca708637b&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>C# and Impacket implementation of PrintNightmare CVE-2021-1675/CVE-2021-34527</div>",
+            "url": "https://github.com/CameraShutterBug/PrintNightmare",
+            "title": "CameraShutterBug/PrintNightmare: C# and Impacket implementation of PrintNightmare CVE-2021-1675/CVE-2021-34527",
+            "date_modified": "2025-07-24T23:04:11.000Z",
+            "date_published": "2025-07-24T23:04:10.000Z",
+            "author": {
+                "name": "CameraShutterBug",
+                "url": "https://github.com/CameraShutterBug"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/25315805?u=7dcb49fededfdc2fb90eb1cd08c1efaa2dc11ba6&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Log4Shell / Log4J Payload - CVE-2021-45046 and CVE-2022-42889</div>",
             "url": "https://github.com/ifconfig-me/Log4Shell-Payloads",
             "title": "ifconfig-me/Log4Shell-Payloads: Log4Shell / Log4J Payload - CVE-2021-45046 and CVE-2022-42889",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "ibrahmsql",
                 "url": "https://github.com/ibrahmsql"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/218300816?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>POC to exploit WordPress 5.6-5.7 (PHP 8+) Authenticated XXE Injection. </div>",
-            "url": "https://github.com/Tea-On/CVE-2021-29447-Authenticated-XXE-WordPress-5.6-5.7",
-            "title": "Tea-On/CVE-2021-29447-Authenticated-XXE-WordPress-5.6-5.7: POC to exploit WordPress 5.6-5.7 (PHP 8+) Authenticated XXE Injection. ",
-            "date_modified": "2025-07-05T18:33:23.000Z",
-            "date_published": "2025-07-04T08:08:20.000Z",
-            "author": {
-                "name": "Tea-On",
-                "url": "https://github.com/Tea-On"
             }
         }
     ]
