@@ -6,6 +6,17 @@
     "description": "CVE-2022 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/222611714?u=46784d8f115c0b44404e36e13a30ba8316851276&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Proof-of-concept app to overwrite fonts on iOS using CVE-2022-46689.</div>",
+            "url": "https://github.com/LumberjackStorys/CVE",
+            "title": "LumberjackStorys/CVE: Proof-of-concept app to overwrite fonts on iOS using CVE-2022-46689.",
+            "date_modified": "2025-07-24T11:19:11.000Z",
+            "date_published": "2025-07-24T11:19:11.000Z",
+            "author": {
+                "name": "LumberjackStorys",
+                "url": "https://github.com/LumberjackStorys"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/25315805?u=7dcb49fededfdc2fb90eb1cd08c1efaa2dc11ba6&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Log4Shell / Log4J Payload - CVE-2021-45046 and CVE-2022-42889</div>",
             "url": "https://github.com/ifconfig-me/Log4Shell-Payloads",
             "title": "ifconfig-me/Log4Shell-Payloads: Log4Shell / Log4J Payload - CVE-2021-45046 and CVE-2022-42889",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "morgenm",
                 "url": "https://github.com/morgenm"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/8232188?u=7a60f76a08e22a0a3fe86fca48c79778c4fd6c0b&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>ProcessMaker before v3.5.4 was discovered to contain insecure permissions in the user profile page. This vulnerability allows attackers to escalate normal users to Administrators.</div>",
-            "url": "https://github.com/sornram9254/CVE-2022-38577-Processmaker",
-            "title": "sornram9254/CVE-2022-38577-Processmaker: ProcessMaker before v3.5.4 was discovered to contain insecure permissions in the user profile page. This vulnerability allows attackers to escalate normal users to Administrators.",
-            "date_modified": "2025-07-03T14:31:45.000Z",
-            "date_published": "2022-09-21T04:29:42.000Z",
-            "author": {
-                "name": "sornram9254",
-                "url": "https://github.com/sornram9254"
             }
         }
     ]
