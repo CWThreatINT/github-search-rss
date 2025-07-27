@@ -6,6 +6,17 @@
     "description": "CVE-2021 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/82332026?u=50cf3b11b833b090f19c42f97090b20524ad9dfa&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>HikvisionExploiter is a Python-based utility designed to automate exploitation and directory accessibility checks on Hikvision network cameras exploiting the Web interface Version 3.1.3.150324 + CVE-2021-36260 Detection</div>",
+            "url": "https://github.com/tamim1089/HikvisionExploiter",
+            "title": "tamim1089/HikvisionExploiter: HikvisionExploiter is a Python-based utility designed to automate exploitation and directory accessibility checks on Hikvision network cameras exploiting the Web interface Version 3.1.3.150324 + CVE-2021-36260 Detection",
+            "date_modified": "2025-07-27T21:31:17.000Z",
+            "date_published": "2024-07-05T16:58:14.000Z",
+            "author": {
+                "name": "tamim1089",
+                "url": "https://github.com/tamim1089"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/207571047?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
             "url": "https://github.com/Alan-coder-eng/log4j-cve-2021-44228-",
             "title": "Alan-coder-eng/log4j-cve-2021-44228-",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "dangducloc",
                 "url": "https://github.com/dangducloc"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/91258399?u=deaba5c8e96de80a3a341e340ec11d786aa4bf42&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Exploit for Apache Druid Embedded Javascript Remote Code Execution (CVE-2021-25646), Python.</div>",
-            "url": "https://github.com/ShadowLance2/Apache-Druid-CVE-2021-25646-Exploit",
-            "title": "ShadowLance2/Apache-Druid-CVE-2021-25646-Exploit: Exploit for Apache Druid Embedded Javascript Remote Code Execution (CVE-2021-25646), Python.",
-            "date_modified": "2025-07-06T10:59:17.000Z",
-            "date_published": "2025-07-06T10:45:49.000Z",
-            "author": {
-                "name": "ShadowLance2",
-                "url": "https://github.com/ShadowLance2"
             }
         }
     ]
