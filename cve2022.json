@@ -6,6 +6,17 @@
     "description": "CVE-2022 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/78966278?u=d5d3b352dbc358ad2b39db148b8117d33ca8def7&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Exploit for CVE-2022-35411 — Unauthenticated RCE in rpc.py (&lt;= 0.6.0)</div>",
+            "url": "https://github.com/CSpanias/rpc-rce.py",
+            "title": "CSpanias/rpc-rce.py: Exploit for CVE-2022-35411 — Unauthenticated RCE in rpc.py (<= 0.6.0)",
+            "date_modified": "2025-07-28T09:46:19.000Z",
+            "date_published": "2025-07-28T09:26:14.000Z",
+            "author": {
+                "name": "CSpanias",
+                "url": "https://github.com/CSpanias"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/110370549?u=667a673b95cb3b14021c58e5c2fd3abff6f1d888&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE 2022-45299</div>",
             "url": "https://github.com/offalltn/CVE-2022-45299",
             "title": "offalltn/CVE-2022-45299: CVE 2022-45299",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "cuijiung",
                 "url": "https://github.com/cuijiung"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/95342437?u=939a300462857e0146d5db3e6dfde7b2ff618dde&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Metasploit module for MailEnable CVE-2022-36934 authentication bypass RCE</div>",
-            "url": "https://github.com/Teexo/mailenable-cve-2022-36934",
-            "title": "Teexo/mailenable-cve-2022-36934: Metasploit module for MailEnable CVE-2022-36934 authentication bypass RCE",
-            "date_modified": "2025-07-11T02:51:10.000Z",
-            "date_published": "2025-07-11T02:28:47.000Z",
-            "author": {
-                "name": "Teexo",
-                "url": "https://github.com/Teexo"
             }
         }
     ]
