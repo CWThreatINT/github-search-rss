@@ -6,6 +6,17 @@
     "description": "CVE-2023 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/79277183?u=dbed58fab92dba6a6c9fc46a096cc8e9a132e1c8&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div> CVE-2023-23752 - Joomla Information Disclosure Vulnerability</div>",
+            "url": "https://github.com/0xVoodoo/CVE-2023-23752",
+            "title": "0xVoodoo/CVE-2023-23752:  CVE-2023-23752 - Joomla Information Disclosure Vulnerability",
+            "date_modified": "2025-07-31T07:14:21.000Z",
+            "date_published": "2025-07-31T07:13:30.000Z",
+            "author": {
+                "name": "0xVoodoo",
+                "url": "https://github.com/0xVoodoo"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/223406925?u=2fec0e18fcb2a3c4e1e787131e71c66c4531ed67&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023</div>",
             "url": "https://github.com/93727323123/throughe",
             "title": "93727323123/throughe: Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "BreezeGalaxy",
                 "url": "https://github.com/BreezeGalaxy"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/32132485?u=d6e23c872bef627790a867ba6766ae81f83a99a2&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>This FORK of repository presents a proof-of-concept of CVE-2023-7028. I am only improve exploit usage</div>",
-            "url": "https://github.com/szybnev/CVE-2023-7028",
-            "title": "szybnev/CVE-2023-7028: This FORK of repository presents a proof-of-concept of CVE-2023-7028. I am only improve exploit usage",
-            "date_modified": "2025-07-21T12:38:10.000Z",
-            "date_published": "2025-07-21T12:34:29.000Z",
-            "author": {
-                "name": "szybnev",
-                "url": "https://github.com/szybnev"
             }
         }
     ]
