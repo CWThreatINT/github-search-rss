@@ -6,6 +6,17 @@
     "description": "CVE-2022 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/162997634?u=3b04db5f042eb52b83d82ceef3b84afc100012ec&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Python-based simulated firewall to detect and block Spring4Shell (CVE-2022-22965) exploit attempts. This project filters HTTP requests by identifying malicious payload patterns using a custom firewall_server.py and tests them with test_requests.py.</div>",
+            "url": "https://github.com/Nosie12/fire-wall-server",
+            "title": "Nosie12/fire-wall-server: Python-based simulated firewall to detect and block Spring4Shell (CVE-2022-22965) exploit attempts. This project filters HTTP requests by identifying malicious payload patterns using a custom firewall_server.py and tests them with test_requests.py.",
+            "date_modified": "2025-08-01T20:21:43.000Z",
+            "date_published": "2025-08-01T20:20:12.000Z",
+            "author": {
+                "name": "Nosie12",
+                "url": "https://github.com/Nosie12"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/40411471?u=f990f40906926a09f4bd44b558fb6bc1c855e4ec&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Spring4Shell (POC)</div>",
             "url": "https://github.com/osungjinwoo/CVE-2022-22965",
             "title": "osungjinwoo/CVE-2022-22965: Spring4Shell (POC)",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "daviszhto",
                 "url": "https://github.com/daviszhto"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/3769015?u=484b8914c49a05160be0169ac882b1012918bebf&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Moment.js vuln lab</div>",
-            "url": "https://github.com/pS3ud0RAnD0m/cve-2022-24785-poc-lab",
-            "title": "pS3ud0RAnD0m/cve-2022-24785-poc-lab: Moment.js vuln lab",
-            "date_modified": "2025-07-13T13:24:17.000Z",
-            "date_published": "2023-05-29T23:40:56.000Z",
-            "author": {
-                "name": "pS3ud0RAnD0m",
-                "url": "https://github.com/pS3ud0RAnD0m"
             }
         }
     ]
