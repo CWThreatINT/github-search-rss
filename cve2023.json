@@ -6,6 +6,17 @@
     "description": "CVE-2023 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/134560055?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>This project demonstrates a simulated exploitation of the WinRAR vulnerability CVE-2023-38831 to execute a reverse shell. The purpose of this task was to showcase how attackers can weaponize compressed archive files to gain remote access to a target machine. </div>",
+            "url": "https://github.com/Tolu12wani/Demonstration-of-CVE-2023-38831-via-Reverse-Shell-Execution",
+            "title": "Tolu12wani/Demonstration-of-CVE-2023-38831-via-Reverse-Shell-Execution: This project demonstrates a simulated exploitation of the WinRAR vulnerability CVE-2023-38831 to execute a reverse shell. The purpose of this task was to showcase how attackers can weaponize compressed archive files to gain remote access to a target machine. ",
+            "date_modified": "2025-08-03T22:08:24.000Z",
+            "date_published": "2025-08-03T22:07:43.000Z",
+            "author": {
+                "name": "Tolu12wani",
+                "url": "https://github.com/Tolu12wani"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/180711727?u=7a1aaf4597f728472dc2afc145775642172d38de&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Responsible disclosure report regarding hardcoded SSH keys in Metasploit Framework module</div>",
             "url": "https://github.com/ayb-blc/metasploit-cve2023-34039-disclosure",
             "title": "ayb-blc/metasploit-cve2023-34039-disclosure: Responsible disclosure report regarding hardcoded SSH keys in Metasploit Framework module",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "filippo-zullo98",
                 "url": "https://github.com/filippo-zullo98"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/4262359?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>HTTP/2 Rapid Reset Exploit PoC</div>",
-            "url": "https://github.com/moften/CVE-2023-44487-HTTP-2-Rapid-Reset-Attack",
-            "title": "moften/CVE-2023-44487-HTTP-2-Rapid-Reset-Attack: HTTP/2 Rapid Reset Exploit PoC",
-            "date_modified": "2025-07-23T18:34:35.000Z",
-            "date_published": "2025-04-14T22:39:08.000Z",
-            "author": {
-                "name": "moften",
-                "url": "https://github.com/moften"
             }
         }
     ]
