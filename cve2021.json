@@ -6,6 +6,17 @@
     "description": "CVE-2021 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/82121344?u=593d14ea6b6b7298828863ccc8e0e3be434843f5&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A simple Log4j PoC written in Go</div>",
+            "url": "https://github.com/Sorrence/CVE-2021-44228",
+            "title": "Sorrence/CVE-2021-44228: A simple Log4j PoC written in Go",
+            "date_modified": "2025-08-04T00:28:53.000Z",
+            "date_published": "2025-08-04T00:10:15.000Z",
+            "author": {
+                "name": "Sorrence",
+                "url": "https://github.com/Sorrence"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/23362539?u=18b9b6f7ee2de076c1c0074edf2ea641143c329f&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A Dockerized Redash instance that is vulnerable to CVE-2021-21239</div>",
             "url": "https://github.com/GrantBirki/redash-vulnerable",
             "title": "GrantBirki/redash-vulnerable: A Dockerized Redash instance that is vulnerable to CVE-2021-21239",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "cuijiung",
                 "url": "https://github.com/cuijiung"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/58531097?u=e71c6dcc7d8891b088596a8d53cdd5c7575393b6&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>This is an exercise built around CVE-2021-3560</div>",
-            "url": "https://github.com/titusG85/SideWinder-Exploit",
-            "title": "titusG85/SideWinder-Exploit: This is an exercise built around CVE-2021-3560",
-            "date_modified": "2025-07-10T02:52:27.000Z",
-            "date_published": "2025-05-09T05:28:06.000Z",
-            "author": {
-                "name": "titusG85",
-                "url": "https://github.com/titusG85"
             }
         }
     ]
