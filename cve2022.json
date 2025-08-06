@@ -6,6 +6,17 @@
     "description": "CVE-2022 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/101733340?u=13bf5f90e5d9508065395da5552dd502ed572b7f&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2022-28452</div>",
+            "url": "https://github.com/YSah44/Red-Planet-Laundry-Management-System-1.0-is-vulnerable-to-SQL",
+            "title": "YSah44/Red-Planet-Laundry-Management-System-1.0-is-vulnerable-to-SQL: CVE-2022-28452",
+            "date_modified": "2025-08-06T13:42:21.000Z",
+            "date_published": "2022-04-29T03:03:25.000Z",
+            "author": {
+                "name": "YSah44",
+                "url": "https://github.com/YSah44"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/208085751?u=1282edc3655846de2169d6df7c3b67cdfa0c0e38&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>🔒 Spring4Shell Firewall Defense — Cybersecurity Incident Simulation This project is part of a Cybersecurity Job Simulation I completed in August 2025 through Forage. It focuses on detecting, analyzing, and mitigating a simulated real-world cyberattack involving the Spring4Shell (CVE-2022-22965) vulnerability </div>",
             "url": "https://github.com/salo-404/firewall",
             "title": "salo-404/firewall: 🔒 Spring4Shell Firewall Defense — Cybersecurity Incident Simulation This project is part of a Cybersecurity Job Simulation I completed in August 2025 through Forage. It focuses on detecting, analyzing, and mitigating a simulated real-world cyberattack involving the Spring4Shell (CVE-2022-22965) vulnerability ",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "moften",
                 "url": "https://github.com/moften"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/36841777?u=c8b0e9dcefac02648088266b6454f6fc714ebb23&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>PoC for CVE-2022-0492</div>",
-            "url": "https://github.com/Perimora/cve_2022_0492",
-            "title": "Perimora/cve_2022_0492: PoC for CVE-2022-0492",
-            "date_modified": "2025-07-20T11:10:23.000Z",
-            "date_published": "2025-07-20T11:10:17.000Z",
-            "author": {
-                "name": "Perimora",
-                "url": "https://github.com/Perimora"
             }
         }
     ]
