@@ -6,6 +6,17 @@
     "description": "CVE-2023 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/45040001?u=3a86e7f1ebddc7d56ac6e8d1c8998a901fc2477d&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>HTTP3ONSTEROIDS - A research on CVE-2023-25950 where HAProxy's HTTP/3 implementation fails to block a malformed HTTP header field name.</div>",
+            "url": "https://github.com/dhmosfunk/HTTP3ONSTEROIDS",
+            "title": "dhmosfunk/HTTP3ONSTEROIDS: HTTP3ONSTEROIDS - A research on CVE-2023-25950 where HAProxy's HTTP/3 implementation fails to block a malformed HTTP header field name.",
+            "date_modified": "2025-08-06T23:01:12.000Z",
+            "date_published": "2023-07-31T23:57:02.000Z",
+            "author": {
+                "name": "dhmosfunk",
+                "url": "https://github.com/dhmosfunk"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/151980876?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>TOP All bugbounty pentesting CVE-2023- POC Exp  RCE example payload  Things</div>",
             "url": "https://github.com/GhostTroops/TOP",
             "title": "GhostTroops/TOP: TOP All bugbounty pentesting CVE-2023- POC Exp  RCE example payload  Things",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "Naveenbana5250",
                 "url": "https://github.com/Naveenbana5250"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/194240082?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
-            "url": "https://github.com/madhusudhan-in/CVE_2023_44487-Rapid_Reset",
-            "title": "madhusudhan-in/CVE_2023_44487-Rapid_Reset",
-            "date_modified": "2025-08-05T00:53:09.000Z",
-            "date_published": "2025-07-23T01:32:44.000Z",
-            "author": {
-                "name": "madhusudhan-in",
-                "url": "https://github.com/madhusudhan-in"
             }
         }
     ]
