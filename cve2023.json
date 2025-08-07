@@ -6,6 +6,17 @@
     "description": "CVE-2023 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/63724031?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Deterministic kernel exploit based on CVE-2023-32434.</div>",
+            "url": "https://github.com/alfiecg24/Trigon",
+            "title": "alfiecg24/Trigon: Deterministic kernel exploit based on CVE-2023-32434.",
+            "date_modified": "2025-08-07T11:08:44.000Z",
+            "date_published": "2025-03-01T23:07:37.000Z",
+            "author": {
+                "name": "alfiecg24",
+                "url": "https://github.com/alfiecg24"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/151980876?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>TOP All bugbounty pentesting CVE-2023- POC Exp  RCE example payload  Things</div>",
             "url": "https://github.com/GhostTroops/TOP",
             "title": "GhostTroops/TOP: TOP All bugbounty pentesting CVE-2023- POC Exp  RCE example payload  Things",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "TranKuBao",
                 "url": "https://github.com/TranKuBao"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/176170264?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Threat-Informed Detection &amp; Mitigation Package for MOVEit Transfer Vulnerability</div>",
-            "url": "https://github.com/Naveenbana5250/CVE-2023-34362-Defense-Package",
-            "title": "Naveenbana5250/CVE-2023-34362-Defense-Package: Threat-Informed Detection & Mitigation Package for MOVEit Transfer Vulnerability",
-            "date_modified": "2025-07-28T06:11:35.000Z",
-            "date_published": "2025-07-28T05:55:54.000Z",
-            "author": {
-                "name": "Naveenbana5250",
-                "url": "https://github.com/Naveenbana5250"
             }
         }
     ]
