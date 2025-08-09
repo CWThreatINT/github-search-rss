@@ -6,6 +6,17 @@
     "description": "CVE-2022 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/208447569?u=6834a2692489be78dd43648c74ff87355ba4b2ce&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>PoC and Exploit monitoring and save every day. 🔥 Subscribe: @autoPoC</div>",
+            "url": "https://github.com/nullsquirtle/CVE-2022-0000-PoC",
+            "title": "nullsquirtle/CVE-2022-0000-PoC: PoC and Exploit monitoring and save every day. 🔥 Subscribe: @autoPoC",
+            "date_modified": "2025-08-09T08:06:36.000Z",
+            "date_published": "2025-08-09T08:05:28.000Z",
+            "author": {
+                "name": "nullsquirtle",
+                "url": "https://github.com/nullsquirtle"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/147913818?u=2e5fb7822aaa9e0dc063f0ca0e90e4540c3e66c8&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2022-26134 - Confluence Pre-Auth Remote Code Execution [RCE]</div>",
             "url": "https://github.com/Yuri08loveElaina/CVE-2022-26134",
             "title": "Yuri08loveElaina/CVE-2022-26134: CVE-2022-26134 - Confluence Pre-Auth Remote Code Execution [RCE]",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "ifconfig-me",
                 "url": "https://github.com/ifconfig-me"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/58541358?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
-            "url": "https://github.com/DefensiveOrigins/POC-CVE-2022-26671",
-            "title": "DefensiveOrigins/POC-CVE-2022-26671",
-            "date_modified": "2025-07-22T19:54:26.000Z",
-            "date_published": "2025-07-22T19:49:51.000Z",
-            "author": {
-                "name": "DefensiveOrigins",
-                "url": "https://github.com/DefensiveOrigins"
             }
         }
     ]
