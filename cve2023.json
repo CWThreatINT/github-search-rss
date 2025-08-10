@@ -171,10 +171,10 @@
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/199271706?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>automatically exploit the sudoedit vulnerability fo CVE-2023-22809</div>",
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/199271706?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Automates vulnerability check for sudo versions and privilege escalation via sudoedit if exploitable, helping users test and gain root access.</div>",
             "url": "https://github.com/spidoman/CVE-2023-22809-automated-python-exploits",
-            "title": "spidoman/CVE-2023-22809-automated-python-exploits: automatically exploit the sudoedit vulnerability fo CVE-2023-22809",
-            "date_modified": "2025-07-30T10:23:28.000Z",
+            "title": "spidoman/CVE-2023-22809-automated-python-exploits: Automates vulnerability check for sudo versions and privilege escalation via sudoedit if exploitable, helping users test and gain root access.",
+            "date_modified": "2025-08-10T09:52:20.000Z",
             "date_published": "2025-07-30T09:48:25.000Z",
             "author": {
                 "name": "spidoman",
