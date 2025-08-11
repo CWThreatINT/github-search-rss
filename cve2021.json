@@ -6,6 +6,17 @@
     "description": "CVE-2021 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/48950917?u=9b83eabc7b0b5ef6eaec6a13eff6dbcbac4cb9ad&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Bash POC script for RCE vulnerability in Apache 2.4.49</div>",
+            "url": "https://github.com/mah4nzfr/CVE-2021-41773",
+            "title": "mah4nzfr/CVE-2021-41773: Bash POC script for RCE vulnerability in Apache 2.4.49",
+            "date_modified": "2025-08-11T13:02:37.000Z",
+            "date_published": "2025-08-11T12:59:11.000Z",
+            "author": {
+                "name": "mah4nzfr",
+                "url": "https://github.com/mah4nzfr"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/109359355?u=a705740e9b2ce8eb8123606c777cb9e058a6220d&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2021-30809 UAF use-after-free PoC</div>",
             "url": "https://github.com/seregonwar/CVE-2021-30809-UAF",
             "title": "seregonwar/CVE-2021-30809-UAF: CVE-2021-30809 UAF use-after-free PoC",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "r0otk3r",
                 "url": "https://github.com/r0otk3r"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/56608509?u=0980a4216c40b233d9214d0b20369670ab7bf499&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Praktische Demonstration der Log4Shell-Sicherheitslücke (CVE-2021-44228)</div>",
-            "url": "https://github.com/fabioeletto/hka-seminar-log4shell",
-            "title": "fabioeletto/hka-seminar-log4shell: Praktische Demonstration der Log4Shell-Sicherheitslücke (CVE-2021-44228)",
-            "date_modified": "2025-07-11T07:35:17.000Z",
-            "date_published": "2025-07-10T21:42:08.000Z",
-            "author": {
-                "name": "fabioeletto",
-                "url": "https://github.com/fabioeletto"
             }
         }
     ]
