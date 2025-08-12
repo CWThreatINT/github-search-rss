@@ -6,6 +6,28 @@
     "description": "CVE-2023 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/80873500?u=4c3da53f1a4d2eefea25b7399a2d7b2f21c8515d&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Confluence CVE-2023-22518</div>",
+            "url": "https://github.com/C1ph3rX13/CVE-2023-22518",
+            "title": "C1ph3rX13/CVE-2023-22518: Confluence CVE-2023-22518",
+            "date_modified": "2025-08-12T02:32:37.000Z",
+            "date_published": "2023-11-28T03:33:16.000Z",
+            "author": {
+                "name": "C1ph3rX13",
+                "url": "https://github.com/C1ph3rX13"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/151980876?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>TOP All bugbounty pentesting CVE-2023- POC Exp  RCE example payload  Things</div>",
+            "url": "https://github.com/GhostTroops/TOP",
+            "title": "GhostTroops/TOP: TOP All bugbounty pentesting CVE-2023- POC Exp  RCE example payload  Things",
+            "date_modified": "2025-08-12T01:15:47.000Z",
+            "date_published": "2022-03-19T01:54:15.000Z",
+            "author": {
+                "name": "GhostTroops",
+                "url": "https://github.com/GhostTroops"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/225981184?u=871b472b6343e281475579daadbe90e2afdb96e4&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023</div>",
             "url": "https://github.com/FernhillFable/xRecord",
             "title": "FernhillFable/xRecord: Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023",
@@ -36,17 +58,6 @@
             "author": {
                 "name": "anansi2safe",
                 "url": "https://github.com/anansi2safe"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/151980876?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>TOP All bugbounty pentesting CVE-2023- POC Exp  RCE example payload  Things</div>",
-            "url": "https://github.com/GhostTroops/TOP",
-            "title": "GhostTroops/TOP: TOP All bugbounty pentesting CVE-2023- POC Exp  RCE example payload  Things",
-            "date_modified": "2025-08-11T01:23:51.000Z",
-            "date_published": "2022-03-19T01:54:15.000Z",
-            "author": {
-                "name": "GhostTroops",
-                "url": "https://github.com/GhostTroops"
             }
         },
         {
@@ -212,17 +223,6 @@
             "author": {
                 "name": "allinsthon",
                 "url": "https://github.com/allinsthon"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/67947065?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>This repository contains a proof-of-concept (PoC) for exploiting the OpenSSH ProxyCommand vulnerability — CVE-2025-51385 — affecting OpenSSH servers &lt;9.6 Version</div>",
-            "url": "https://github.com/saarcastified/CVE-2023-51385---OpenSSH-ProxyCommand-Injection-PoC",
-            "title": "saarcastified/CVE-2023-51385---OpenSSH-ProxyCommand-Injection-PoC: This repository contains a proof-of-concept (PoC) for exploiting the OpenSSH ProxyCommand vulnerability — CVE-2025-51385 — affecting OpenSSH servers <9.6 Version",
-            "date_modified": "2025-07-29T08:03:17.000Z",
-            "date_published": "2025-07-22T06:43:47.000Z",
-            "author": {
-                "name": "saarcastified",
-                "url": "https://github.com/saarcastified"
             }
         }
     ]
