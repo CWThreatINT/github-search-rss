@@ -6,6 +6,17 @@
     "description": "CVE-2021 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/71475027?u=3451d2026f89f85626cf18b77c7cab8f895f334a&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
+            "url": "https://github.com/shoucheng3/alibaba__nacos_CVE-2021-44667_2-0-3",
+            "title": "shoucheng3/alibaba__nacos_CVE-2021-44667_2-0-3",
+            "date_modified": "2025-08-15T10:59:38.000Z",
+            "date_published": "2025-08-15T10:57:50.000Z",
+            "author": {
+                "name": "shoucheng3",
+                "url": "https://github.com/shoucheng3"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/138567406?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2021-42287/CVE-2021-42278/OTHER Scanner &amp; Exploiter.</div>",
             "url": "https://github.com/Chrisync/CVE-Scanner",
             "title": "Chrisync/CVE-Scanner: CVE-2021-42287/CVE-2021-42278/OTHER Scanner & Exploiter.",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "magicrc",
                 "url": "https://github.com/magicrc"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/222713333?u=b1424c7cf8be62b5de782b53908f625ca708637b&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>C# and Impacket implementation of PrintNightmare CVE-2021-1675/CVE-2021-34527</div>",
-            "url": "https://github.com/CameraShutterBug/PrintNightmare",
-            "title": "CameraShutterBug/PrintNightmare: C# and Impacket implementation of PrintNightmare CVE-2021-1675/CVE-2021-34527",
-            "date_modified": "2025-07-24T23:04:11.000Z",
-            "date_published": "2025-07-24T23:04:10.000Z",
-            "author": {
-                "name": "CameraShutterBug",
-                "url": "https://github.com/CameraShutterBug"
             }
         }
     ]
