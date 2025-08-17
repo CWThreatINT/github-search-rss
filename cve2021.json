@@ -50,17 +50,6 @@
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/226451970?u=968c74c03625f0184b66377b0e61ea54040da5d0&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>C# and Impacket implementation of PrintNightmare CVE-2021-1675/CVE-2021-34527</div>",
-            "url": "https://github.com/ArtAtrium/PrintNightmare",
-            "title": "ArtAtrium/PrintNightmare: C# and Impacket implementation of PrintNightmare CVE-2021-1675/CVE-2021-34527",
-            "date_modified": "2025-08-14T05:32:18.000Z",
-            "date_published": "2025-08-14T05:32:18.000Z",
-            "author": {
-                "name": "ArtAtrium",
-                "url": "https://github.com/ArtAtrium"
-            }
-        },
-        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/224805785?u=509b2eb285696427e531dcc427e6f82444615e64&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>C# and Impacket implementation of PrintNightmare CVE-2021-1675/CVE-2021-34527</div>",
             "url": "https://github.com/GlacierGossip/PrintNightmare",
             "title": "GlacierGossip/PrintNightmare: C# and Impacket implementation of PrintNightmare CVE-2021-1675/CVE-2021-34527",
@@ -223,6 +212,17 @@
             "author": {
                 "name": "moften",
                 "url": "https://github.com/moften"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/4384877?u=02f18195f429f1fe984d3d23420ecdfb625a853c&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>PoC for CVE-2021-32099</div>",
+            "url": "https://github.com/magicrc/CVE-2021-32099",
+            "title": "magicrc/CVE-2021-32099: PoC for CVE-2021-32099",
+            "date_modified": "2025-07-26T07:37:12.000Z",
+            "date_published": "2025-07-18T15:25:43.000Z",
+            "author": {
+                "name": "magicrc",
+                "url": "https://github.com/magicrc"
             }
         }
     ]
