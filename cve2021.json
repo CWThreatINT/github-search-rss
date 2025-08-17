@@ -6,6 +6,17 @@
     "description": "CVE-2021 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/71475027?u=3451d2026f89f85626cf18b77c7cab8f895f334a&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
+            "url": "https://github.com/shoucheng3/apache__incubator-dubbo_CVE-2021-30181_2-6-8",
+            "title": "shoucheng3/apache__incubator-dubbo_CVE-2021-30181_2-6-8",
+            "date_modified": "2025-08-17T06:57:12.000Z",
+            "date_published": "2025-08-17T06:56:17.000Z",
+            "author": {
+                "name": "shoucheng3",
+                "url": "https://github.com/shoucheng3"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/138567406?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2021-42287/CVE-2021-42278/OTHER Scanner &amp; Exploiter.</div>",
             "url": "https://github.com/Chrisync/CVE-Scanner",
             "title": "Chrisync/CVE-Scanner: CVE-2021-42287/CVE-2021-42278/OTHER Scanner & Exploiter.",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "moften",
                 "url": "https://github.com/moften"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/4384877?u=02f18195f429f1fe984d3d23420ecdfb625a853c&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>PoC for CVE-2021-32099</div>",
-            "url": "https://github.com/magicrc/CVE-2021-32099",
-            "title": "magicrc/CVE-2021-32099: PoC for CVE-2021-32099",
-            "date_modified": "2025-07-26T07:37:12.000Z",
-            "date_published": "2025-07-18T15:25:43.000Z",
-            "author": {
-                "name": "magicrc",
-                "url": "https://github.com/magicrc"
             }
         }
     ]
