@@ -28,17 +28,6 @@
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/212099716?u=940434876b2ac61add912e3a4fbe368c2c1fbd5f&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Controlled exploitation labs on Hackviser: Apache 2.4.49/2.4.50 (CVE-2021-42013), Samba (CVE-2017-7494), and ProFTPD 1.3.5 (CVE-2015-3306). Includes methodology, evidence, and defensive notes.</div>",
-            "url": "https://github.com/HariCyber-Sec/hackviser-cve-labs",
-            "title": "HariCyber-Sec/hackviser-cve-labs: Controlled exploitation labs on Hackviser: Apache 2.4.49/2.4.50 (CVE-2021-42013), Samba (CVE-2017-7494), and ProFTPD 1.3.5 (CVE-2015-3306). Includes methodology, evidence, and defensive notes.",
-            "date_modified": "2025-08-17T15:32:11.000Z",
-            "date_published": "2025-08-17T15:16:16.000Z",
-            "author": {
-                "name": "HariCyber-Sec",
-                "url": "https://github.com/HariCyber-Sec"
-            }
-        },
-        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/71475027?u=3451d2026f89f85626cf18b77c7cab8f895f334a&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
             "url": "https://github.com/shoucheng3/fabric8io__kubernetes-client_CVE-2021-4178_5-0-2",
             "title": "shoucheng3/fabric8io__kubernetes-client_CVE-2021-4178_5-0-2",
@@ -223,6 +212,17 @@
             "author": {
                 "name": "tamim1089",
                 "url": "https://github.com/tamim1089"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/207571047?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
+            "url": "https://github.com/Alan-coder-eng/log4j-cve-2021-44228-",
+            "title": "Alan-coder-eng/log4j-cve-2021-44228-",
+            "date_modified": "2025-07-27T10:55:26.000Z",
+            "date_published": "2025-07-25T04:32:54.000Z",
+            "author": {
+                "name": "Alan-coder-eng",
+                "url": "https://github.com/Alan-coder-eng"
             }
         }
     ]
