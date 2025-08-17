@@ -6,6 +6,28 @@
     "description": "CVE-2022 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/24313857?u=e084cea934103d9ee8a4b8aefc627e2b1fb1acb8&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>ProVerif proof of concept of the Rollback attack on car keyfob (CVE-2022-37418, CVE-2022-36945 and CVE-2022-37305)</div>",
+            "url": "https://github.com/thomasarmel/rollback_car_attack_proverif",
+            "title": "thomasarmel/rollback_car_attack_proverif: ProVerif proof of concept of the Rollback attack on car keyfob (CVE-2022-37418, CVE-2022-36945 and CVE-2022-37305)",
+            "date_modified": "2025-08-17T08:37:40.000Z",
+            "date_published": "2025-08-14T11:45:46.000Z",
+            "author": {
+                "name": "thomasarmel",
+                "url": "https://github.com/thomasarmel"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/71475027?u=3451d2026f89f85626cf18b77c7cab8f895f334a&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
+            "url": "https://github.com/shoucheng3/apache__uima-uimaj_CVE-2022-32287_3-3-0",
+            "title": "shoucheng3/apache__uima-uimaj_CVE-2022-32287_3-3-0",
+            "date_modified": "2025-08-17T08:18:52.000Z",
+            "date_published": "2025-08-17T08:16:54.000Z",
+            "author": {
+                "name": "shoucheng3",
+                "url": "https://github.com/shoucheng3"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/71475027?u=3451d2026f89f85626cf18b77c7cab8f895f334a&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
             "url": "https://github.com/shoucheng3/apache__nifi_CVE-2022-33140_1-16-2",
             "title": "shoucheng3/apache__nifi_CVE-2022-33140_1-16-2",
@@ -138,17 +160,6 @@
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/24313857?u=e084cea934103d9ee8a4b8aefc627e2b1fb1acb8&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>ProVerif proof of concept of the Rollback attack on car keyfob (CVE-2022-37418, CVE-2022-36945 and CVE-2022-37305)</div>",
-            "url": "https://github.com/thomasarmel/rollback_car_attack_proverif",
-            "title": "thomasarmel/rollback_car_attack_proverif: ProVerif proof of concept of the Rollback attack on car keyfob (CVE-2022-37418, CVE-2022-36945 and CVE-2022-37305)",
-            "date_modified": "2025-08-15T17:28:49.000Z",
-            "date_published": "2025-08-14T11:45:46.000Z",
-            "author": {
-                "name": "thomasarmel",
-                "url": "https://github.com/thomasarmel"
-            }
-        },
-        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/226435096?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Exploration of the Follina (CVE-2022-30190) Microsoft Office vulnerability, including a detailed analysis, proof-of-concept exploitation in a controlled lab, and mitigation strategies. For educational and research purposes only.</div>",
             "url": "https://github.com/seinab-ibrahim/Follina-Vulnerability-CVE-2022-30190-Exploit-Analysis",
             "title": "seinab-ibrahim/Follina-Vulnerability-CVE-2022-30190-Exploit-Analysis: Exploration of the Follina (CVE-2022-30190) Microsoft Office vulnerability, including a detailed analysis, proof-of-concept exploitation in a controlled lab, and mitigation strategies. For educational and research purposes only.",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "YSah44",
                 "url": "https://github.com/YSah44"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/208085751?u=1282edc3655846de2169d6df7c3b67cdfa0c0e38&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>🔒 Spring4Shell Firewall Defense — Cybersecurity Incident Simulation This project is part of a Cybersecurity Job Simulation I completed in August 2025 through Forage. It focuses on detecting, analyzing, and mitigating a simulated real-world cyberattack involving the Spring4Shell (CVE-2022-22965) vulnerability </div>",
-            "url": "https://github.com/salo-404/firewall",
-            "title": "salo-404/firewall: 🔒 Spring4Shell Firewall Defense — Cybersecurity Incident Simulation This project is part of a Cybersecurity Job Simulation I completed in August 2025 through Forage. It focuses on detecting, analyzing, and mitigating a simulated real-world cyberattack involving the Spring4Shell (CVE-2022-22965) vulnerability ",
-            "date_modified": "2025-08-06T11:27:55.000Z",
-            "date_published": "2025-08-06T07:58:05.000Z",
-            "author": {
-                "name": "salo-404",
-                "url": "https://github.com/salo-404"
             }
         }
     ]
