@@ -6,6 +6,17 @@
     "description": "CVE-2021 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/33929865?u=224079cefd69f5195dc39045118d74ed4a847c86&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Apache HTTP-Server 2.4.49-2.4.50 Path Traversal &amp; Remote Code Execution PoC (CVE-2021-41773 &amp; CVE-2021-42013)</div>",
+            "url": "https://github.com/blackn0te/Apache-HTTP-Server-2.4.49-2.4.50-Path-Traversal-Remote-Code-Execution",
+            "title": "blackn0te/Apache-HTTP-Server-2.4.49-2.4.50-Path-Traversal-Remote-Code-Execution: Apache HTTP-Server 2.4.49-2.4.50 Path Traversal & Remote Code Execution PoC (CVE-2021-41773 & CVE-2021-42013)",
+            "date_modified": "2025-08-22T10:05:48.000Z",
+            "date_published": "2022-11-22T14:09:18.000Z",
+            "author": {
+                "name": "blackn0te",
+                "url": "https://github.com/blackn0te"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/138567406?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2021-42287/CVE-2021-42278/OTHER Scanner &amp; Exploiter.</div>",
             "url": "https://github.com/Chrisync/CVE-Scanner",
             "title": "Chrisync/CVE-Scanner: CVE-2021-42287/CVE-2021-42278/OTHER Scanner & Exploiter.",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "Goultarde",
                 "url": "https://github.com/Goultarde"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/37270599?u=ac086779609ca1c1febc9cc8096edca8c3a7b4a8&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>pwnkit</div>",
-            "url": "https://github.com/CYB3RK1D/CVE-2021-4034-POC",
-            "title": "CYB3RK1D/CVE-2021-4034-POC: pwnkit",
-            "date_modified": "2025-08-05T20:59:04.000Z",
-            "date_published": "2022-01-28T14:04:58.000Z",
-            "author": {
-                "name": "CYB3RK1D",
-                "url": "https://github.com/CYB3RK1D"
             }
         }
     ]
