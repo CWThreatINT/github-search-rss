@@ -9,11 +9,22 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/138567406?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2021-42287/CVE-2021-42278/OTHER Scanner &amp; Exploiter.</div>",
             "url": "https://github.com/Chrisync/CVE-Scanner",
             "title": "Chrisync/CVE-Scanner: CVE-2021-42287/CVE-2021-42278/OTHER Scanner & Exploiter.",
-            "date_modified": "2025-08-22T05:23:36.000Z",
+            "date_modified": "2025-08-22T09:03:57.000Z",
             "date_published": "2025-04-29T11:39:11.000Z",
             "author": {
                 "name": "Chrisync",
                 "url": "https://github.com/Chrisync"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/105281?u=34b91b58b59ab25a46eef20861ee0200496d3b56&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Exploit for HiveNightmare - CVE-2021–36934</div>",
+            "url": "https://github.com/firefart/hivenightmare",
+            "title": "firefart/hivenightmare: Exploit for HiveNightmare - CVE-2021–36934",
+            "date_modified": "2025-08-22T08:43:39.000Z",
+            "date_published": "2021-07-23T06:36:08.000Z",
+            "author": {
+                "name": "firefart",
+                "url": "https://github.com/firefart"
             }
         },
         {
@@ -212,17 +223,6 @@
             "author": {
                 "name": "CYB3RK1D",
                 "url": "https://github.com/CYB3RK1D"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/23362539?u=18b9b6f7ee2de076c1c0074edf2ea641143c329f&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A Dockerized Redash instance that is vulnerable to CVE-2021-21239</div>",
-            "url": "https://github.com/GrantBirki/redash-vulnerable",
-            "title": "GrantBirki/redash-vulnerable: A Dockerized Redash instance that is vulnerable to CVE-2021-21239",
-            "date_modified": "2025-08-04T04:08:07.000Z",
-            "date_published": "2025-08-03T03:36:47.000Z",
-            "author": {
-                "name": "GrantBirki",
-                "url": "https://github.com/GrantBirki"
             }
         }
     ]
