@@ -6,6 +6,17 @@
     "description": "CVE-2023 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/106552406?u=87c97388e8a0c477b989126b5802e104df520d95&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Nov 24, 2023 — A vulnerability was found in TOTVS Fluig Platform 1.6.x/1.7.x/1.8.0/1.8.1. It has been rated as problematic. </div>",
+            "url": "https://github.com/LelioCosta/FLUIG-Vulnerabilidade-CVE-2023-6275",
+            "title": "LelioCosta/FLUIG-Vulnerabilidade-CVE-2023-6275: Nov 24, 2023 — A vulnerability was found in TOTVS Fluig Platform 1.6.x/1.7.x/1.8.0/1.8.1. It has been rated as problematic. ",
+            "date_modified": "2025-08-25T20:28:51.000Z",
+            "date_published": "2025-08-25T20:21:46.000Z",
+            "author": {
+                "name": "LelioCosta",
+                "url": "https://github.com/LelioCosta"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/64803961?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
             "url": "https://github.com/radoi-teodor/CVE-2023-21768",
             "title": "radoi-teodor/CVE-2023-21768",
@@ -209,17 +220,6 @@
             "title": "shoucheng3/apache__dolphinscheduler_CVE-2023-49109_3-2-0",
             "date_modified": "2025-08-19T17:25:02.000Z",
             "date_published": "2025-08-19T17:23:28.000Z",
-            "author": {
-                "name": "shoucheng3",
-                "url": "https://github.com/shoucheng3"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/71475027?u=3451d2026f89f85626cf18b77c7cab8f895f334a&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
-            "url": "https://github.com/shoucheng3/hapifhir__org_hl7_fhir_core_CVE-2023-24057_5-6-91",
-            "title": "shoucheng3/hapifhir__org_hl7_fhir_core_CVE-2023-24057_5-6-91",
-            "date_modified": "2025-08-19T16:59:07.000Z",
-            "date_published": "2025-08-19T16:59:06.000Z",
             "author": {
                 "name": "shoucheng3",
                 "url": "https://github.com/shoucheng3"
