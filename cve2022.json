@@ -6,6 +6,17 @@
     "description": "CVE-2022 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/225503019?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A practical example of CVE‑2022‑1524 that illustrates the attack path and provides actionable remediation scripts, and puts forward unconventional detection logic</div>",
+            "url": "https://github.com/mrk336/Hardening-Amazon-IAM-for-Cloud-Engineers",
+            "title": "mrk336/Hardening-Amazon-IAM-for-Cloud-Engineers: A practical example of CVE‑2022‑1524 that illustrates the attack path and provides actionable remediation scripts, and puts forward unconventional detection logic",
+            "date_modified": "2025-09-01T10:38:19.000Z",
+            "date_published": "2025-09-01T10:17:24.000Z",
+            "author": {
+                "name": "mrk336",
+                "url": "https://github.com/mrk336"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/55909152?u=ce9df5cef9c0719e3b574c923c3e01610048d37c&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Bad Spin: Android Binder Privilege Escalation Exploit (CVE-2022-20421)</div>",
             "url": "https://github.com/sandiyochristan/oo",
             "title": "sandiyochristan/oo: Bad Spin: Android Binder Privilege Escalation Exploit (CVE-2022-20421)",
@@ -209,17 +220,6 @@
             "title": "shoucheng3/nahsra__antisamy_CVE-2022-28367_1-6-5",
             "date_modified": "2025-08-19T15:57:38.000Z",
             "date_published": "2025-08-19T15:57:38.000Z",
-            "author": {
-                "name": "shoucheng3",
-                "url": "https://github.com/shoucheng3"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/71475027?u=3451d2026f89f85626cf18b77c7cab8f895f334a&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
-            "url": "https://github.com/shoucheng3/xwiki__xwiki-commons_CVE-2022-24897_12-6-6",
-            "title": "shoucheng3/xwiki__xwiki-commons_CVE-2022-24897_12-6-6",
-            "date_modified": "2025-08-19T06:32:22.000Z",
-            "date_published": "2025-08-19T06:30:59.000Z",
             "author": {
                 "name": "shoucheng3",
                 "url": "https://github.com/shoucheng3"
