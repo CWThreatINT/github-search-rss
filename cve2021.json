@@ -6,6 +6,17 @@
     "description": "CVE-2021 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/225503019?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A practical chain that starts with an innocuous PDF file and ends up in a reverse shell on an AWS EC2 instance</div>",
+            "url": "https://github.com/mrk336/CVE-2021-3456",
+            "title": "mrk336/CVE-2021-3456: A practical chain that starts with an innocuous PDF file and ends up in a reverse shell on an AWS EC2 instance",
+            "date_modified": "2025-09-01T04:01:58.000Z",
+            "date_published": "2025-09-01T04:01:54.000Z",
+            "author": {
+                "name": "mrk336",
+                "url": "https://github.com/mrk336"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/165586493?u=f8b7d0cd2e1f0ba310231b97f5ea6c4d842ecca2&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CTF_WRITEUPS/TryHackMe /CVE-2021-41773/</div>",
             "url": "https://github.com/hackedrishi/CTF_WRITEUPS-TryHackMe-CVE-2021-41773-",
             "title": "hackedrishi/CTF_WRITEUPS-TryHackMe-CVE-2021-41773-: CTF_WRITEUPS/TryHackMe /CVE-2021-41773/",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "aqiao-jashell",
                 "url": "https://github.com/aqiao-jashell"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/224805785?u=509b2eb285696427e531dcc427e6f82444615e64&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>C# and Impacket implementation of PrintNightmare CVE-2021-1675/CVE-2021-34527</div>",
-            "url": "https://github.com/GlacierGossip/PrintNightmare",
-            "title": "GlacierGossip/PrintNightmare: C# and Impacket implementation of PrintNightmare CVE-2021-1675/CVE-2021-34527",
-            "date_modified": "2025-08-12T14:16:24.000Z",
-            "date_published": "2025-08-05T13:47:51.000Z",
-            "author": {
-                "name": "GlacierGossip",
-                "url": "https://github.com/GlacierGossip"
             }
         }
     ]
