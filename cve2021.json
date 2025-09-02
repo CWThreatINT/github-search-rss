@@ -6,6 +6,17 @@
     "description": "CVE-2021 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/220578550?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
+            "url": "https://github.com/AdnanApriliyansyahh/CVE-2021-41617",
+            "title": "AdnanApriliyansyahh/CVE-2021-41617",
+            "date_modified": "2025-09-02T05:37:41.000Z",
+            "date_published": "2025-09-02T05:30:32.000Z",
+            "author": {
+                "name": "AdnanApriliyansyahh",
+                "url": "https://github.com/AdnanApriliyansyahh"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/225503019?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A practical chain that starts with an innocuous PDF file and ends up in a reverse shell on an AWS EC2 instance</div>",
             "url": "https://github.com/mrk336/CVE-2021-3456",
             "title": "mrk336/CVE-2021-3456: A practical chain that starts with an innocuous PDF file and ends up in a reverse shell on an AWS EC2 instance",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "shoucheng3",
                 "url": "https://github.com/shoucheng3"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/94209165?u=66418f0b7623a98dda7c26ae2c543be7ba8ff8b5&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>apache路径穿越漏洞poc&amp;exp</div>",
-            "url": "https://github.com/aqiao-jashell/CVE-2021-41773",
-            "title": "aqiao-jashell/CVE-2021-41773: apache路径穿越漏洞poc&exp",
-            "date_modified": "2025-08-15T03:49:31.000Z",
-            "date_published": "2022-11-01T05:58:59.000Z",
-            "author": {
-                "name": "aqiao-jashell",
-                "url": "https://github.com/aqiao-jashell"
             }
         }
     ]
