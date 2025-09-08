@@ -6,6 +6,17 @@
     "description": "CVE-2022 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/1097185?u=4337166dec782aa1312084b6fb92cc4e0f78865b&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>El driver RTCore64.sys expone IOCTLs que permiten a cualquier usuario (incluso de bajos privilegios) leer y escribir arbitrariamente en memoria física y del kernel, lo que permite:</div>",
+            "url": "https://github.com/grisuno/CVE-2022-22077",
+            "title": "grisuno/CVE-2022-22077: El driver RTCore64.sys expone IOCTLs que permiten a cualquier usuario (incluso de bajos privilegios) leer y escribir arbitrariamente en memoria física y del kernel, lo que permite:",
+            "date_modified": "2025-09-08T21:17:13.000Z",
+            "date_published": "2025-09-08T21:12:19.000Z",
+            "author": {
+                "name": "grisuno",
+                "url": "https://github.com/grisuno"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/56998716?u=65f247fd281afc1303938085d37e8b5e710727f5&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A proof of concept for CVE-2022-30190 (Follina).</div>",
             "url": "https://github.com/winstxnhdw/CVE-2022-30190",
             "title": "winstxnhdw/CVE-2022-30190: A proof of concept for CVE-2022-30190 (Follina).",
@@ -209,17 +220,6 @@
             "title": "shoucheng3/jlangch__venice_CVE-2022-36007_1-10-16",
             "date_modified": "2025-08-20T11:28:30.000Z",
             "date_published": "2025-08-20T11:26:49.000Z",
-            "author": {
-                "name": "shoucheng3",
-                "url": "https://github.com/shoucheng3"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/71475027?u=3451d2026f89f85626cf18b77c7cab8f895f334a&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
-            "url": "https://github.com/shoucheng3/apache__dolphinscheduler_CVE-2022-34662_2-0-9",
-            "title": "shoucheng3/apache__dolphinscheduler_CVE-2022-34662_2-0-9",
-            "date_modified": "2025-08-20T11:06:03.000Z",
-            "date_published": "2025-08-20T11:04:20.000Z",
             "author": {
                 "name": "shoucheng3",
                 "url": "https://github.com/shoucheng3"
