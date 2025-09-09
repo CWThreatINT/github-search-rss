@@ -9,7 +9,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/1097185?u=4337166dec782aa1312084b6fb92cc4e0f78865b&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>El driver RTCore64.sys expone IOCTLs que permiten a cualquier usuario (incluso de bajos privilegios) leer y escribir arbitrariamente en memoria física y del kernel, lo que permite:</div>",
             "url": "https://github.com/grisuno/CVE-2022-22077",
             "title": "grisuno/CVE-2022-22077: El driver RTCore64.sys expone IOCTLs que permiten a cualquier usuario (incluso de bajos privilegios) leer y escribir arbitrariamente en memoria física y del kernel, lo que permite:",
-            "date_modified": "2025-09-08T21:17:13.000Z",
+            "date_modified": "2025-09-09T00:11:53.000Z",
             "date_published": "2025-09-08T21:12:19.000Z",
             "author": {
                 "name": "grisuno",
