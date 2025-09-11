@@ -6,6 +6,17 @@
     "description": "CVE-2022 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/58800445?u=de754e9bca3834bd818060c8e9e88627a49f98b4&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>exploit of CVE-2022-0847 which directly remove password of the root account</div>",
+            "url": "https://github.com/Shadow-Spinner/CVE-2022-0847",
+            "title": "Shadow-Spinner/CVE-2022-0847: exploit of CVE-2022-0847 which directly remove password of the root account",
+            "date_modified": "2025-09-11T17:51:24.000Z",
+            "date_published": "2025-09-11T17:43:15.000Z",
+            "author": {
+                "name": "Shadow-Spinner",
+                "url": "https://github.com/Shadow-Spinner"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/1097185?u=4337166dec782aa1312084b6fb92cc4e0f78865b&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2022-22077 is a high-severity vulnerability (CVSS score 7.8) affecting the RTCore64.sys driver distributed with MSI Center</div>",
             "url": "https://github.com/grisuno/CVE-2022-22077",
             "title": "grisuno/CVE-2022-22077: CVE-2022-22077 is a high-severity vulnerability (CVSS score 7.8) affecting the RTCore64.sys driver distributed with MSI Center",
@@ -209,17 +220,6 @@
             "title": "shoucheng3/spring-projects__spring-framework_CVE-2022-22965_5-2-19-RELEASE",
             "date_modified": "2025-08-20T11:53:31.000Z",
             "date_published": "2025-08-20T11:51:55.000Z",
-            "author": {
-                "name": "shoucheng3",
-                "url": "https://github.com/shoucheng3"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/71475027?u=3451d2026f89f85626cf18b77c7cab8f895f334a&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
-            "url": "https://github.com/shoucheng3/jlangch__venice_CVE-2022-36007_1-10-16",
-            "title": "shoucheng3/jlangch__venice_CVE-2022-36007_1-10-16",
-            "date_modified": "2025-08-20T11:28:30.000Z",
-            "date_published": "2025-08-20T11:26:49.000Z",
             "author": {
                 "name": "shoucheng3",
                 "url": "https://github.com/shoucheng3"
