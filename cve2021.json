@@ -6,127 +6,6 @@
     "description": "CVE-2021 FEED on GitHub",
     "items": [
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/5193128?u=7a3814b7889e1f3bd61fd933aaaa4bbc231702cc&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
-            "url": "https://github.com/illera88/CVE-2021-21239",
-            "title": "illera88/CVE-2021-21239",
-            "date_modified": "2025-09-12T17:59:51.000Z",
-            "date_published": "2025-09-10T17:48:08.000Z",
-            "author": {
-                "name": "illera88",
-                "url": "https://github.com/illera88"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/231748105?u=5482133701fbf23fa0b48c79f8fbc523ad1e2d61&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>For CTF's and Safe Environments.... CVE-2021-4034 Local PrivEsc.</div>",
-            "url": "https://github.com/dr4xp/pwnkit-helper",
-            "title": "dr4xp/pwnkit-helper: For CTF's and Safe Environments.... CVE-2021-4034 Local PrivEsc.",
-            "date_modified": "2025-09-11T18:19:30.000Z",
-            "date_published": "2025-09-11T18:13:08.000Z",
-            "author": {
-                "name": "dr4xp",
-                "url": "https://github.com/dr4xp"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/4262359?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Log4Shell CVE-2021-44228 PoC </div>",
-            "url": "https://github.com/moften/Log4Shell",
-            "title": "moften/Log4Shell: Log4Shell CVE-2021-44228 PoC ",
-            "date_modified": "2025-09-09T16:00:56.000Z",
-            "date_published": "2025-09-09T15:59:25.000Z",
-            "author": {
-                "name": "moften",
-                "url": "https://github.com/moften"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/143686903?u=823025f34a6ea7c0bdf69e192c010f92b5de8546&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Exploit for the PHP 8.1.0-dev backdoor vulnerability (CVE-2021-21707)</div>",
-            "url": "https://github.com/useru1k/php-8.1.0-dev-exploit",
-            "title": "useru1k/php-8.1.0-dev-exploit: Exploit for the PHP 8.1.0-dev backdoor vulnerability (CVE-2021-21707)",
-            "date_modified": "2025-09-08T10:56:18.000Z",
-            "date_published": "2025-09-08T10:19:10.000Z",
-            "author": {
-                "name": "useru1k",
-                "url": "https://github.com/useru1k"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/86862594?u=6a10dd597774611b551c4bebbaeec1e502a543f0&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Una herramienta avanzada de escaneo, explotación e interacción remota diseñada para detectar y aprovechar la vulnerabilidad Apache Path Traversal + RCE (CVE-2021-42013) en servidores mal configurados.</div>",
-            "url": "https://github.com/Makavellik/POC-CVE-2021-42013-EXPLOIT",
-            "title": "Makavellik/POC-CVE-2021-42013-EXPLOIT: Una herramienta avanzada de escaneo, explotación e interacción remota diseñada para detectar y aprovechar la vulnerabilidad Apache Path Traversal + RCE (CVE-2021-42013) en servidores mal configurados.",
-            "date_modified": "2025-09-06T00:41:27.000Z",
-            "date_published": "2025-09-05T21:39:03.000Z",
-            "author": {
-                "name": "Makavellik",
-                "url": "https://github.com/Makavellik"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/186985676?u=71582660d48b1b8740b4393d5ea2e3f291f1578f&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>vulnerability in NGINX servers (versions 0.6.18–1.20.0). The scripts aim to cause a Denial of Service (DoS) by sending malicious DNS responses, with enhancements to bypass firewalls.</div>",
-            "url": "https://github.com/6lj/EVIL-CVE-2021-23017-Update-2025",
-            "title": "6lj/EVIL-CVE-2021-23017-Update-2025: vulnerability in NGINX servers (versions 0.6.18–1.20.0). The scripts aim to cause a Denial of Service (DoS) by sending malicious DNS responses, with enhancements to bypass firewalls.",
-            "date_modified": "2025-09-05T22:21:34.000Z",
-            "date_published": "2025-09-04T09:49:22.000Z",
-            "author": {
-                "name": "6lj",
-                "url": "https://github.com/6lj"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/208674854?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2021-21974 Vulnerability Detection Tool Safe PoC that identifies vulnerable SLP implementations without exploitation</div>",
-            "url": "https://github.com/abirasecurity/CVE-2021-21974_vuln_dectection",
-            "title": "abirasecurity/CVE-2021-21974_vuln_dectection: CVE-2021-21974 Vulnerability Detection Tool Safe PoC that identifies vulnerable SLP implementations without exploitation",
-            "date_modified": "2025-09-04T17:42:42.000Z",
-            "date_published": "2025-09-04T17:29:13.000Z",
-            "author": {
-                "name": "abirasecurity",
-                "url": "https://github.com/abirasecurity"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/79796741?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
-            "url": "https://github.com/radzek15/Python-Pwnkit-CVE-2021-4034-exploit",
-            "title": "radzek15/Python-Pwnkit-CVE-2021-4034-exploit",
-            "date_modified": "2025-09-04T09:19:29.000Z",
-            "date_published": "2025-09-04T09:19:29.000Z",
-            "author": {
-                "name": "radzek15",
-                "url": "https://github.com/radzek15"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/220578550?u=7f69bf6fa68640b2f71d74a879508fe041b311aa&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
-            "url": "https://github.com/AdnanApriliyansyahh/CVE-2021-41617",
-            "title": "AdnanApriliyansyahh/CVE-2021-41617",
-            "date_modified": "2025-09-02T05:37:41.000Z",
-            "date_published": "2025-09-02T05:30:32.000Z",
-            "author": {
-                "name": "AdnanApriliyansyahh",
-                "url": "https://github.com/AdnanApriliyansyahh"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/225503019?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A practical chain that starts with an innocuous PDF file and ends up in a reverse shell on an AWS EC2 instance</div>",
-            "url": "https://github.com/mrk336/CVE-2021-3456",
-            "title": "mrk336/CVE-2021-3456: A practical chain that starts with an innocuous PDF file and ends up in a reverse shell on an AWS EC2 instance",
-            "date_modified": "2025-09-01T04:23:49.000Z",
-            "date_published": "2025-09-01T04:01:54.000Z",
-            "author": {
-                "name": "mrk336",
-                "url": "https://github.com/mrk336"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/165586493?u=f8b7d0cd2e1f0ba310231b97f5ea6c4d842ecca2&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CTF_WRITEUPS/TryHackMe /CVE-2021-41773/</div>",
-            "url": "https://github.com/hackedrishi/CTF_WRITEUPS-TryHackMe-CVE-2021-41773-",
-            "title": "hackedrishi/CTF_WRITEUPS-TryHackMe-CVE-2021-41773-: CTF_WRITEUPS/TryHackMe /CVE-2021-41773/",
-            "date_modified": "2025-08-31T17:00:22.000Z",
-            "date_published": "2025-08-31T16:59:48.000Z",
-            "author": {
-                "name": "hackedrishi",
-                "url": "https://github.com/hackedrishi"
-            }
-        },
-        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/138567406?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2021-42287/CVE-2021-42278/OTHER Scanner &amp; Exploiter.</div>",
             "url": "https://github.com/Chrisync/CVE-Scanner",
             "title": "Chrisync/CVE-Scanner: CVE-2021-42287/CVE-2021-42278/OTHER Scanner & Exploiter.",
@@ -135,50 +14,6 @@
             "author": {
                 "name": "Chrisync",
                 "url": "https://github.com/Chrisync"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/66587869?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A research regarding the exisiting CVE exploit : CVE-2021-3156(Sudo BufferOverflow)</div>",
-            "url": "https://github.com/HuzaifaTariqAfzalKhan/CVE-Exploit-Research-Development-ITSOLERA",
-            "title": "HuzaifaTariqAfzalKhan/CVE-Exploit-Research-Development-ITSOLERA: A research regarding the exisiting CVE exploit : CVE-2021-3156(Sudo BufferOverflow)",
-            "date_modified": "2025-08-25T15:40:32.000Z",
-            "date_published": "2025-08-25T15:13:23.000Z",
-            "author": {
-                "name": "HuzaifaTariqAfzalKhan",
-                "url": "https://github.com/HuzaifaTariqAfzalKhan"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/228322570?u=c9d05a7cba54887ae0f1bb6322f88977c7498d77&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>C# and Impacket implementation of PrintNightmare CVE-2021-1675/CVE-2021-34527</div>",
-            "url": "https://github.com/VoiidByte/Impacket",
-            "title": "VoiidByte/Impacket: C# and Impacket implementation of PrintNightmare CVE-2021-1675/CVE-2021-34527",
-            "date_modified": "2025-08-25T01:52:36.000Z",
-            "date_published": "2025-08-24T10:53:29.000Z",
-            "author": {
-                "name": "VoiidByte",
-                "url": "https://github.com/VoiidByte"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/71475027?u=3451d2026f89f85626cf18b77c7cab8f895f334a&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
-            "url": "https://github.com/shoucheng3/x-stream__xstream_CVE-2021-21345_1-4-15",
-            "title": "shoucheng3/x-stream__xstream_CVE-2021-21345_1-4-15",
-            "date_modified": "2025-08-23T15:00:08.000Z",
-            "date_published": "2025-08-23T14:57:19.000Z",
-            "author": {
-                "name": "shoucheng3",
-                "url": "https://github.com/shoucheng3"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/193649833?u=f6368984400b3f8f77a4df76020eba1eb476d758&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>The objective is to conduct a full-scale security assessment of a WordPress-based web application, culminating in a complete server compromise. The assessment will focus on exploiting a specific, real-world vulnerability (CVE-2021-29447) to achieve initial access.</div>",
-            "url": "https://github.com/ArtemCyberLab/Project-Project-Chimera-Exploiting-a-Modern-WordPress-XXE-to-Pillage-Secrets-",
-            "title": "ArtemCyberLab/Project-Project-Chimera-Exploiting-a-Modern-WordPress-XXE-to-Pillage-Secrets-: The objective is to conduct a full-scale security assessment of a WordPress-based web application, culminating in a complete server compromise. The assessment will focus on exploiting a specific, real-world vulnerability (CVE-2021-29447) to achieve initial access.",
-            "date_modified": "2025-08-23T13:01:21.000Z",
-            "date_published": "2025-08-20T22:20:29.000Z",
-            "author": {
-                "name": "ArtemCyberLab",
-                "url": "https://github.com/ArtemCyberLab"
             }
         },
         {
@@ -193,28 +28,6 @@
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/71475027?u=3451d2026f89f85626cf18b77c7cab8f895f334a&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
-            "url": "https://github.com/shoucheng3/jmrozanec__cron-utils_CVE-2021-41269_9-1-5",
-            "title": "shoucheng3/jmrozanec__cron-utils_CVE-2021-41269_9-1-5",
-            "date_modified": "2025-08-20T11:52:52.000Z",
-            "date_published": "2025-08-20T11:51:40.000Z",
-            "author": {
-                "name": "shoucheng3",
-                "url": "https://github.com/shoucheng3"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/153915746?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
-            "url": "https://github.com/charanvoonna/CVE-2021-41773",
-            "title": "charanvoonna/CVE-2021-41773",
-            "date_modified": "2025-08-23T09:31:35.000Z",
-            "date_published": "2025-08-19T15:07:56.000Z",
-            "author": {
-                "name": "charanvoonna",
-                "url": "https://github.com/charanvoonna"
-            }
-        },
-        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/4262359?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div> CVE-2021-21424 - CRLF Injection - CVE-2021-41268 - Host Header Injection - CVE-2022-24894 - WebProfiler abierto - CVE-2019-10909 - Directory Traversal</div>",
             "url": "https://github.com/moften/Symfony-CVE-Scanner-PoC-",
             "title": "moften/Symfony-CVE-Scanner-PoC-:  CVE-2021-21424 - CRLF Injection - CVE-2021-41268 - Host Header Injection - CVE-2022-24894 - WebProfiler abierto - CVE-2019-10909 - Directory Traversal",
@@ -223,6 +36,193 @@
             "author": {
                 "name": "moften",
                 "url": "https://github.com/moften"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/82121344?u=593d14ea6b6b7298828863ccc8e0e3be434843f5&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A simple Log4j PoC written in Go</div>",
+            "url": "https://github.com/Sorrence/CVE-2021-44228",
+            "title": "Sorrence/CVE-2021-44228: A simple Log4j PoC written in Go",
+            "date_modified": "2025-08-17T15:51:12.000Z",
+            "date_published": "2025-08-04T00:10:15.000Z",
+            "author": {
+                "name": "Sorrence",
+                "url": "https://github.com/Sorrence"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/94209165?u=66418f0b7623a98dda7c26ae2c543be7ba8ff8b5&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>apache路径穿越漏洞poc&amp;exp</div>",
+            "url": "https://github.com/aqiao-jashell/CVE-2021-41773",
+            "title": "aqiao-jashell/CVE-2021-41773: apache路径穿越漏洞poc&exp",
+            "date_modified": "2025-08-15T03:49:31.000Z",
+            "date_published": "2022-11-01T05:58:59.000Z",
+            "author": {
+                "name": "aqiao-jashell",
+                "url": "https://github.com/aqiao-jashell"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/224805785?u=509b2eb285696427e531dcc427e6f82444615e64&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>C# and Impacket implementation of PrintNightmare CVE-2021-1675/CVE-2021-34527</div>",
+            "url": "https://github.com/GlacierGossip/PrintNightmare",
+            "title": "GlacierGossip/PrintNightmare: C# and Impacket implementation of PrintNightmare CVE-2021-1675/CVE-2021-34527",
+            "date_modified": "2025-08-12T14:16:24.000Z",
+            "date_published": "2025-08-05T13:47:51.000Z",
+            "author": {
+                "name": "GlacierGossip",
+                "url": "https://github.com/GlacierGossip"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/67125397?u=d0620e96d542e3ed074913e6f917411d6e967cb8&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>POC exploit for CVE-2021-44967</div>",
+            "url": "https://github.com/D3Ext/CVE-2021-44967",
+            "title": "D3Ext/CVE-2021-44967: POC exploit for CVE-2021-44967",
+            "date_modified": "2025-08-11T15:29:35.000Z",
+            "date_published": "2025-01-05T13:12:07.000Z",
+            "author": {
+                "name": "D3Ext",
+                "url": "https://github.com/D3Ext"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/48950917?u=9b83eabc7b0b5ef6eaec6a13eff6dbcbac4cb9ad&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Bash POC script for RCE vulnerability in Apache 2.4.49</div>",
+            "url": "https://github.com/mah4nzfr/CVE-2021-41773",
+            "title": "mah4nzfr/CVE-2021-41773: Bash POC script for RCE vulnerability in Apache 2.4.49",
+            "date_modified": "2025-08-11T14:26:37.000Z",
+            "date_published": "2025-08-11T12:59:11.000Z",
+            "author": {
+                "name": "mah4nzfr",
+                "url": "https://github.com/mah4nzfr"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/109359355?u=714bad6be962ef9241d21c50e8dfeee64ef05eea&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2021-30809 UAF use-after-free PoC</div>",
+            "url": "https://github.com/seregonwar/CVE-2021-30809-UAF",
+            "title": "seregonwar/CVE-2021-30809-UAF: CVE-2021-30809 UAF use-after-free PoC",
+            "date_modified": "2025-09-10T07:07:02.000Z",
+            "date_published": "2025-08-09T19:08:21.000Z",
+            "author": {
+                "name": "seregonwar",
+                "url": "https://github.com/seregonwar"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/213745023?u=8eb815bcc4696e3f60a91286dddc1f1565862542&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
+            "url": "https://github.com/hackmelocal/CVE-2021-24891-Simulation",
+            "title": "hackmelocal/CVE-2021-24891-Simulation",
+            "date_modified": "2025-08-11T16:40:53.000Z",
+            "date_published": "2025-08-07T22:00:55.000Z",
+            "author": {
+                "name": "hackmelocal",
+                "url": "https://github.com/hackmelocal"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/117078126?u=75e7b5ee0f55571bd90a59c3ff3bfceb3bf9d127&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>POC for CVE-2021-3544 based on <a href=\"https://www.exploit-db.com/exploits/49601\" class=\"Link--inTextBlock\" rel=\"nofollow\">https://www.exploit-db.com/exploits/49601</a></div>",
+            "url": "https://github.com/Goultarde/CVE-2021-3544_RemoteMouse-3.008-RCE",
+            "title": "Goultarde/CVE-2021-3544_RemoteMouse-3.008-RCE: POC for CVE-2021-3544 based on https://www.exploit-db.com/exploits/49601",
+            "date_modified": "2025-08-16T00:22:39.000Z",
+            "date_published": "2025-08-06T16:10:00.000Z",
+            "author": {
+                "name": "Goultarde",
+                "url": "https://github.com/Goultarde"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/23362539?u=18b9b6f7ee2de076c1c0074edf2ea641143c329f&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A Dockerized Redash instance that is vulnerable to CVE-2021-21239</div>",
+            "url": "https://github.com/GrantBirki/redash-vulnerable",
+            "title": "GrantBirki/redash-vulnerable: A Dockerized Redash instance that is vulnerable to CVE-2021-21239",
+            "date_modified": "2025-08-04T04:08:07.000Z",
+            "date_published": "2025-08-03T03:36:47.000Z",
+            "author": {
+                "name": "GrantBirki",
+                "url": "https://github.com/GrantBirki"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/156422271?u=9abc90c30c3ff9e74bd165f42406c020fb795dfa&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Proof of Concept exploit for CVE‑2021‑43857: Authenticated Remote Code Execution in Gerapy (&lt;0.9.8). Updated and automated version of the original Exploit‑DB PoC for educational and authorized testing purposes only.</div>",
+            "url": "https://github.com/ProwlSec/gerapy-cve-2021-43857",
+            "title": "ProwlSec/gerapy-cve-2021-43857: Proof of Concept exploit for CVE‑2021‑43857: Authenticated Remote Code Execution in Gerapy (<0.9.8). Updated and automated version of the original Exploit‑DB PoC for educational and authorized testing purposes only.",
+            "date_modified": "2025-07-30T09:55:31.000Z",
+            "date_published": "2025-07-29T17:00:22.000Z",
+            "author": {
+                "name": "ProwlSec",
+                "url": "https://github.com/ProwlSec"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/196484940?u=7314accef3277b856a8f754e19af2944706c9859&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
+            "url": "https://github.com/DLL00P/CVE-2021-1675",
+            "title": "DLL00P/CVE-2021-1675",
+            "date_modified": "2025-09-01T14:17:01.000Z",
+            "date_published": "2025-07-29T20:33:23.000Z",
+            "author": {
+                "name": "DLL00P",
+                "url": "https://github.com/DLL00P"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/82332026?u=50cf3b11b833b090f19c42f97090b20524ad9dfa&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>HikvisionExploiter is a Python-based utility designed to automate exploitation and directory accessibility checks on Hikvision network cameras exploiting the Web interface Version 3.1.3.150324 + CVE-2021-36260 Detection</div>",
+            "url": "https://github.com/tamim1089/HikvisionExploiter",
+            "title": "tamim1089/HikvisionExploiter: HikvisionExploiter is a Python-based utility designed to automate exploitation and directory accessibility checks on Hikvision network cameras exploiting the Web interface Version 3.1.3.150324 + CVE-2021-36260 Detection",
+            "date_modified": "2025-09-10T07:54:36.000Z",
+            "date_published": "2024-07-05T16:58:14.000Z",
+            "author": {
+                "name": "tamim1089",
+                "url": "https://github.com/tamim1089"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/207571047?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
+            "url": "https://github.com/Alan-coder-eng/log4j-cve-2021-44228-",
+            "title": "Alan-coder-eng/log4j-cve-2021-44228-",
+            "date_modified": "2025-07-27T10:55:26.000Z",
+            "date_published": "2025-07-25T04:32:54.000Z",
+            "author": {
+                "name": "Alan-coder-eng",
+                "url": "https://github.com/Alan-coder-eng"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/4384877?u=02f18195f429f1fe984d3d23420ecdfb625a853c&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>PoC for CVE-2021-32099</div>",
+            "url": "https://github.com/magicrc/CVE-2021-32099",
+            "title": "magicrc/CVE-2021-32099: PoC for CVE-2021-32099",
+            "date_modified": "2025-07-26T07:37:12.000Z",
+            "date_published": "2025-07-18T15:25:43.000Z",
+            "author": {
+                "name": "magicrc",
+                "url": "https://github.com/magicrc"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/222713333?u=b1424c7cf8be62b5de782b53908f625ca708637b&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>C# and Impacket implementation of PrintNightmare CVE-2021-1675/CVE-2021-34527</div>",
+            "url": "https://github.com/CameraShutterBug/PrintNightmare",
+            "title": "CameraShutterBug/PrintNightmare: C# and Impacket implementation of PrintNightmare CVE-2021-1675/CVE-2021-34527",
+            "date_modified": "2025-07-24T23:04:11.000Z",
+            "date_published": "2025-07-24T23:04:10.000Z",
+            "author": {
+                "name": "CameraShutterBug",
+                "url": "https://github.com/CameraShutterBug"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/25315805?u=e8d0950e3cd2c52ef2fe493c8242ad5a0b6a7cc3&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Log4Shell / Log4J Payload - CVE-2021-45046 and CVE-2022-42889</div>",
+            "url": "https://github.com/ifconfig-me/Log4Shell-Payloads",
+            "title": "ifconfig-me/Log4Shell-Payloads: Log4Shell / Log4J Payload - CVE-2021-45046 and CVE-2022-42889",
+            "date_modified": "2025-08-02T15:55:29.000Z",
+            "date_published": "2025-07-23T13:55:58.000Z",
+            "author": {
+                "name": "ifconfig-me",
+                "url": "https://github.com/ifconfig-me"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/75425513?u=64edd56aefb8bebc03dbae4fbc613932b6c3b02f&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Grafana Decryptor for CVE-2021-43798</div>",
+            "url": "https://github.com/Sic4rio/Grafana-Decryptor-for-CVE-2021-43798",
+            "title": "Sic4rio/Grafana-Decryptor-for-CVE-2021-43798: Grafana Decryptor for CVE-2021-43798",
+            "date_modified": "2025-09-04T15:27:04.000Z",
+            "date_published": "2024-07-02T08:43:45.000Z",
+            "author": {
+                "name": "Sic4rio",
+                "url": "https://github.com/Sic4rio"
             }
         }
     ]
