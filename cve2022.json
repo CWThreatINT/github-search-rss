@@ -6,14 +6,14 @@
     "description": "CVE-2022 FEED on GitHub",
     "items": [
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/40337316?u=8a2650128ddb83a30bb1055faf80dacea88ebb28&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
-            "url": "https://github.com/DerZiad/CVE-2022-30190",
-            "title": "DerZiad/CVE-2022-30190",
-            "date_modified": "2025-09-13T11:30:27.000Z",
-            "date_published": "2022-06-04T19:48:37.000Z",
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/58800445?u=de754e9bca3834bd818060c8e9e88627a49f98b4&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>exploit of CVE-2022-0847 which directly remove password of the root account</div>",
+            "url": "https://github.com/Shadow-Spinner/CVE-2022-0847",
+            "title": "Shadow-Spinner/CVE-2022-0847: exploit of CVE-2022-0847 which directly remove password of the root account",
+            "date_modified": "2025-09-12T18:28:55.000Z",
+            "date_published": "2025-09-11T17:43:15.000Z",
             "author": {
-                "name": "DerZiad",
-                "url": "https://github.com/DerZiad"
+                "name": "Shadow-Spinner",
+                "url": "https://github.com/Shadow-Spinner"
             }
         },
         {
@@ -28,6 +28,17 @@
             }
         },
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/1097185?u=4337166dec782aa1312084b6fb92cc4e0f78865b&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2022-22077 is a high-severity vulnerability (CVSS score 7.8) affecting the RTCore64.sys driver distributed with MSI Center</div>",
+            "url": "https://github.com/grisuno/CVE-2022-22077",
+            "title": "grisuno/CVE-2022-22077: CVE-2022-22077 is a high-severity vulnerability (CVSS score 7.8) affecting the RTCore64.sys driver distributed with MSI Center",
+            "date_modified": "2025-09-09T01:43:04.000Z",
+            "date_published": "2025-09-08T21:12:19.000Z",
+            "author": {
+                "name": "grisuno",
+                "url": "https://github.com/grisuno"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/56998716?u=65f247fd281afc1303938085d37e8b5e710727f5&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A proof of concept for CVE-2022-30190 (Follina).</div>",
             "url": "https://github.com/winstxnhdw/CVE-2022-30190",
             "title": "winstxnhdw/CVE-2022-30190: A proof of concept for CVE-2022-30190 (Follina).",
@@ -36,6 +47,17 @@
             "author": {
                 "name": "winstxnhdw",
                 "url": "https://github.com/winstxnhdw"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/71475027?u=3451d2026f89f85626cf18b77c7cab8f895f334a&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
+            "url": "https://github.com/shoucheng3/ff4j__ff4j_CVE-2022-44262_1_8_13_fixed",
+            "title": "shoucheng3/ff4j__ff4j_CVE-2022-44262_1_8_13_fixed",
+            "date_modified": "2025-09-06T11:55:55.000Z",
+            "date_published": "2025-09-06T11:54:25.000Z",
+            "author": {
+                "name": "shoucheng3",
+                "url": "https://github.com/shoucheng3"
             }
         },
         {
@@ -61,6 +83,50 @@
             }
         },
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/52594609?u=0255fb58fa60cdc5bce98f0d43c3c8bb73a4d6b0&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2022-31147 is a path traversal flaw in matthiasmullie/minify. This guide helps security teams test for arbitrary file read on Linux and Windows using Python and curl. It covers automated payload generation, manual validation, and safe practices for vulnerability assessment.</div>",
+            "url": "https://github.com/amhar-hckr/Webapp_Pentast",
+            "title": "amhar-hckr/Webapp_Pentast: CVE-2022-31147 is a path traversal flaw in matthiasmullie/minify. This guide helps security teams test for arbitrary file read on Linux and Windows using Python and curl. It covers automated payload generation, manual validation, and safe practices for vulnerability assessment.",
+            "date_modified": "2025-09-02T11:39:48.000Z",
+            "date_published": "2025-09-02T11:11:47.000Z",
+            "author": {
+                "name": "amhar-hckr",
+                "url": "https://github.com/amhar-hckr"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/225503019?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A practical example of CVE‑2022‑1524 that illustrates the attack path and provides actionable remediation scripts, and puts forward unconventional detection logic</div>",
+            "url": "https://github.com/mrk336/Hardening-Amazon-IAM-for-Cloud-Engineers",
+            "title": "mrk336/Hardening-Amazon-IAM-for-Cloud-Engineers: A practical example of CVE‑2022‑1524 that illustrates the attack path and provides actionable remediation scripts, and puts forward unconventional detection logic",
+            "date_modified": "2025-09-01T10:38:19.000Z",
+            "date_published": "2025-09-01T10:17:24.000Z",
+            "author": {
+                "name": "mrk336",
+                "url": "https://github.com/mrk336"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/55909152?u=ce9df5cef9c0719e3b574c923c3e01610048d37c&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Bad Spin: Android Binder Privilege Escalation Exploit (CVE-2022-20421)</div>",
+            "url": "https://github.com/sandiyochristan/oo",
+            "title": "sandiyochristan/oo: Bad Spin: Android Binder Privilege Escalation Exploit (CVE-2022-20421)",
+            "date_modified": "2025-08-29T01:38:39.000Z",
+            "date_published": "2025-08-29T01:38:39.000Z",
+            "author": {
+                "name": "sandiyochristan",
+                "url": "https://github.com/sandiyochristan"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/46855517?u=47c51e5d1b4d3cea1c9dd28053662727362c80c4&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
+            "url": "https://github.com/nopgadget/CVE-2022-41544",
+            "title": "nopgadget/CVE-2022-41544",
+            "date_modified": "2025-08-25T01:06:41.000Z",
+            "date_published": "2025-08-25T00:38:00.000Z",
+            "author": {
+                "name": "nopgadget",
+                "url": "https://github.com/nopgadget"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/2221309?u=f6f8e1ddcb79b3c9a316af16970384bee0bef8b6&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Hack this service to prove CVE-2022–29622 is valid</div>",
             "url": "https://github.com/keymandll/CVE-2022-29622",
             "title": "keymandll/CVE-2022-29622: Hack this service to prove CVE-2022–29622 is valid",
@@ -83,6 +149,28 @@
             }
         },
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/71475027?u=3451d2026f89f85626cf18b77c7cab8f895f334a&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
+            "url": "https://github.com/shoucheng3/codehaus-plexus__plexus-utils_CVE-2022-4244_3-0-23",
+            "title": "shoucheng3/codehaus-plexus__plexus-utils_CVE-2022-4244_3-0-23",
+            "date_modified": "2025-08-22T03:20:37.000Z",
+            "date_published": "2025-08-22T03:19:49.000Z",
+            "author": {
+                "name": "shoucheng3",
+                "url": "https://github.com/shoucheng3"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/24773118?u=eb430b82f6360f38aafdf0d81b939a295a1c8205&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
+            "url": "https://github.com/my0113/shiro-cve-2022-32532",
+            "title": "my0113/shiro-cve-2022-32532",
+            "date_modified": "2025-08-22T01:58:31.000Z",
+            "date_published": "2025-08-21T07:53:49.000Z",
+            "author": {
+                "name": "my0113",
+                "url": "https://github.com/my0113"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/25135469?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Injection EJS, reverse shell possible</div>",
             "url": "https://github.com/Hack-Oeil/EJS_INJECTION_CVE_2022",
             "title": "Hack-Oeil/EJS_INJECTION_CVE_2022: Injection EJS, reverse shell possible",
@@ -94,135 +182,47 @@
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/4262359?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div> CVE-2021-21424 - CRLF Injection - CVE-2021-41268 - Host Header Injection - CVE-2022-24894 - WebProfiler abierto - CVE-2019-10909 - Directory Traversal</div>",
-            "url": "https://github.com/moften/Symfony-CVE-Scanner-PoC-",
-            "title": "moften/Symfony-CVE-Scanner-PoC-:  CVE-2021-21424 - CRLF Injection - CVE-2021-41268 - Host Header Injection - CVE-2022-24894 - WebProfiler abierto - CVE-2019-10909 - Directory Traversal",
-            "date_modified": "2025-08-18T21:27:47.000Z",
-            "date_published": "2025-05-07T23:07:11.000Z",
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/71475027?u=3451d2026f89f85626cf18b77c7cab8f895f334a&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
+            "url": "https://github.com/shoucheng3/DSpace__DSpace_CVE-2022-31195_5-10",
+            "title": "shoucheng3/DSpace__DSpace_CVE-2022-31195_5-10",
+            "date_modified": "2025-08-20T17:50:57.000Z",
+            "date_published": "2025-08-20T17:50:01.000Z",
             "author": {
-                "name": "moften",
-                "url": "https://github.com/moften"
+                "name": "shoucheng3",
+                "url": "https://github.com/shoucheng3"
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/11557096?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
-            "url": "https://github.com/jkobierczynski/cve-2022-44268",
-            "title": "jkobierczynski/cve-2022-44268",
-            "date_modified": "2025-08-05T09:38:26.000Z",
-            "date_published": "2025-07-26T19:56:42.000Z",
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/71475027?u=3451d2026f89f85626cf18b77c7cab8f895f334a&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
+            "url": "https://github.com/shoucheng3/spring-cloud__spring-cloud-gateway_CVE-2022-22947_3-0-6",
+            "title": "shoucheng3/spring-cloud__spring-cloud-gateway_CVE-2022-22947_3-0-6",
+            "date_modified": "2025-08-20T14:02:38.000Z",
+            "date_published": "2025-08-20T14:01:11.000Z",
             "author": {
-                "name": "jkobierczynski",
-                "url": "https://github.com/jkobierczynski"
+                "name": "shoucheng3",
+                "url": "https://github.com/shoucheng3"
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/162997634?u=3b04db5f042eb52b83d82ceef3b84afc100012ec&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Python-based simulated firewall to detect and block Spring4Shell (CVE-2022-22965) exploit attempts. This project filters HTTP requests by identifying malicious payload patterns using a custom firewall_server.py and tests them with test_requests.py.</div>",
-            "url": "https://github.com/Nosie12/fire-wall-server",
-            "title": "Nosie12/fire-wall-server: Python-based simulated firewall to detect and block Spring4Shell (CVE-2022-22965) exploit attempts. This project filters HTTP requests by identifying malicious payload patterns using a custom firewall_server.py and tests them with test_requests.py.",
-            "date_modified": "2025-08-01T20:21:43.000Z",
-            "date_published": "2025-08-01T20:20:12.000Z",
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/71475027?u=3451d2026f89f85626cf18b77c7cab8f895f334a&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
+            "url": "https://github.com/shoucheng3/ff4j__ff4j_CVE-2022-44262_1-8-13",
+            "title": "shoucheng3/ff4j__ff4j_CVE-2022-44262_1-8-13",
+            "date_modified": "2025-08-20T14:02:03.000Z",
+            "date_published": "2025-08-20T14:01:05.000Z",
             "author": {
-                "name": "Nosie12",
-                "url": "https://github.com/Nosie12"
+                "name": "shoucheng3",
+                "url": "https://github.com/shoucheng3"
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/40411471?u=f990f40906926a09f4bd44b558fb6bc1c855e4ec&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Spring4Shell (POC)</div>",
-            "url": "https://github.com/osungjinwoo/CVE-2022-22965",
-            "title": "osungjinwoo/CVE-2022-22965: Spring4Shell (POC)",
-            "date_modified": "2025-08-01T20:04:27.000Z",
-            "date_published": "2025-08-01T19:29:54.000Z",
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/71475027?u=3451d2026f89f85626cf18b77c7cab8f895f334a&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
+            "url": "https://github.com/shoucheng3/eclipse-ee4j__glassfish_CVE-2022-2712_6-2-5",
+            "title": "shoucheng3/eclipse-ee4j__glassfish_CVE-2022-2712_6-2-5",
+            "date_modified": "2025-08-20T12:19:24.000Z",
+            "date_published": "2025-08-20T12:19:23.000Z",
             "author": {
-                "name": "osungjinwoo",
-                "url": "https://github.com/osungjinwoo"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/212211619?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
-            "url": "https://github.com/vanh-88/CVE-2022-34155",
-            "title": "vanh-88/CVE-2022-34155",
-            "date_modified": "2025-08-04T06:43:08.000Z",
-            "date_published": "2025-07-31T16:32:55.000Z",
-            "author": {
-                "name": "vanh-88",
-                "url": "https://github.com/vanh-88"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/28693064?u=c7317b833e25cdc8c203113d0a00d88ca52030bd&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
-            "url": "https://github.com/mouftan/CVE-2022-44268",
-            "title": "mouftan/CVE-2022-44268",
-            "date_modified": "2025-07-31T15:26:00.000Z",
-            "date_published": "2025-07-31T15:22:58.000Z",
-            "author": {
-                "name": "mouftan",
-                "url": "https://github.com/mouftan"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/78966278?u=d5d3b352dbc358ad2b39db148b8117d33ca8def7&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Exploit for CVE-2022-35411 — Unauthenticated RCE in rpc.py (&lt;= 0.6.0)</div>",
-            "url": "https://github.com/CSpanias/rpc-rce.py",
-            "title": "CSpanias/rpc-rce.py: Exploit for CVE-2022-35411 — Unauthenticated RCE in rpc.py (<= 0.6.0)",
-            "date_modified": "2025-09-11T00:10:04.000Z",
-            "date_published": "2025-07-28T09:26:14.000Z",
-            "author": {
-                "name": "CSpanias",
-                "url": "https://github.com/CSpanias"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/110370549?u=667a673b95cb3b14021c58e5c2fd3abff6f1d888&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE 2022-45299</div>",
-            "url": "https://github.com/offalltn/CVE-2022-45299",
-            "title": "offalltn/CVE-2022-45299: CVE 2022-45299",
-            "date_modified": "2025-07-27T06:11:08.000Z",
-            "date_published": "2023-01-13T11:47:02.000Z",
-            "author": {
-                "name": "offalltn",
-                "url": "https://github.com/offalltn"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/222611714?u=46784d8f115c0b44404e36e13a30ba8316851276&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Proof-of-concept app to overwrite fonts on iOS using CVE-2022-46689.</div>",
-            "url": "https://github.com/LumberjackStorys/CVE",
-            "title": "LumberjackStorys/CVE: Proof-of-concept app to overwrite fonts on iOS using CVE-2022-46689.",
-            "date_modified": "2025-07-26T06:00:51.000Z",
-            "date_published": "2025-07-24T11:19:11.000Z",
-            "author": {
-                "name": "LumberjackStorys",
-                "url": "https://github.com/LumberjackStorys"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/69917470?u=e69f36c5e96f2cfaccc36167215ebbfbd6ec1dab&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Proof of concept for CVE-2022-0847</div>",
-            "url": "https://github.com/karanlvm/DirtyPipe-Exploit",
-            "title": "karanlvm/DirtyPipe-Exploit: Proof of concept for CVE-2022-0847",
-            "date_modified": "2025-07-24T19:45:30.000Z",
-            "date_published": "2024-04-19T15:21:57.000Z",
-            "author": {
-                "name": "karanlvm",
-                "url": "https://github.com/karanlvm"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/25315805?u=e8d0950e3cd2c52ef2fe493c8242ad5a0b6a7cc3&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Log4Shell / Log4J Payload - CVE-2021-45046 and CVE-2022-42889</div>",
-            "url": "https://github.com/ifconfig-me/Log4Shell-Payloads",
-            "title": "ifconfig-me/Log4Shell-Payloads: Log4Shell / Log4J Payload - CVE-2021-45046 and CVE-2022-42889",
-            "date_modified": "2025-08-02T15:55:29.000Z",
-            "date_published": "2025-07-23T13:55:58.000Z",
-            "author": {
-                "name": "ifconfig-me",
-                "url": "https://github.com/ifconfig-me"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/58541358?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
-            "url": "https://github.com/DefensiveOrigins/POC-CVE-2022-26671",
-            "title": "DefensiveOrigins/POC-CVE-2022-26671",
-            "date_modified": "2025-07-22T19:54:26.000Z",
-            "date_published": "2025-07-22T19:49:51.000Z",
-            "author": {
-                "name": "DefensiveOrigins",
-                "url": "https://github.com/DefensiveOrigins"
+                "name": "shoucheng3",
+                "url": "https://github.com/shoucheng3"
             }
         }
     ]

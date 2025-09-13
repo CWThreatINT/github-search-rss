@@ -9,11 +9,22 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/120130511?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>oob_entry tfp0 kernel exploit for armv7 iOS (iOS 3.0–10.3.4), using CVE-2023-32434. We will publish a write-up detailing the methods in the coming weeks. 🐙</div>",
             "url": "https://github.com/rkrakesh524/oob_entry",
             "title": "rkrakesh524/oob_entry: oob_entry tfp0 kernel exploit for armv7 iOS (iOS 3.0–10.3.4), using CVE-2023-32434. We will publish a write-up detailing the methods in the coming weeks. 🐙",
-            "date_modified": "2025-09-13T09:05:21.000Z",
+            "date_modified": "2025-09-13T12:17:11.000Z",
             "date_published": "2025-08-13T09:19:29.000Z",
             "author": {
                 "name": "rkrakesh524",
                 "url": "https://github.com/rkrakesh524"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/150352716?u=bdeebff653bde1c070d53660cfbdac3da748c1fc&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
+            "url": "https://github.com/HoangNhoo/Reproduce-CVE-2023-52927",
+            "title": "HoangNhoo/Reproduce-CVE-2023-52927",
+            "date_modified": "2025-09-12T08:38:34.000Z",
+            "date_published": "2025-09-12T08:38:31.000Z",
+            "author": {
+                "name": "HoangNhoo",
+                "url": "https://github.com/HoangNhoo"
             }
         },
         {
@@ -36,6 +47,61 @@
             "author": {
                 "name": "WHW0x455",
                 "url": "https://github.com/WHW0x455"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/76824366?u=13eb85b60a2370c6f8f31e150cdb3f2b85470c2a&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Vulnerability Detection and Mitigation Apache ActiveMQ | Security Architectures and Systems Administration - on - Apache ActiveMQ Deserialization Remote Code Execution (RCE) – CVE-2023-46604</div>",
+            "url": "https://github.com/vaishnavucv/Project-Vuln-Detection-N-Mitigation_101",
+            "title": "vaishnavucv/Project-Vuln-Detection-N-Mitigation_101: Vulnerability Detection and Mitigation Apache ActiveMQ | Security Architectures and Systems Administration - on - Apache ActiveMQ Deserialization Remote Code Execution (RCE) – CVE-2023-46604",
+            "date_modified": "2025-09-09T12:18:54.000Z",
+            "date_published": "2025-09-08T21:03:58.000Z",
+            "author": {
+                "name": "vaishnavucv",
+                "url": "https://github.com/vaishnavucv"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/71475027?u=3451d2026f89f85626cf18b77c7cab8f895f334a&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
+            "url": "https://github.com/shoucheng3/apache__dolphinscheduler_CVE-2023-51770_3_2_1_fixed",
+            "title": "shoucheng3/apache__dolphinscheduler_CVE-2023-51770_3_2_1_fixed",
+            "date_modified": "2025-09-08T05:46:44.000Z",
+            "date_published": "2025-09-08T05:44:28.000Z",
+            "author": {
+                "name": "shoucheng3",
+                "url": "https://github.com/shoucheng3"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/209989581?u=d2e772253958aa984d0510ba8dd8f7e8f58b24e4&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2023-46818 | PoC | ISPConfig 3.2.11p1</div>",
+            "url": "https://github.com/zs1n/CVE-2023-46818",
+            "title": "zs1n/CVE-2023-46818: CVE-2023-46818 | PoC | ISPConfig 3.2.11p1",
+            "date_modified": "2025-09-06T02:39:53.000Z",
+            "date_published": "2025-09-06T02:27:23.000Z",
+            "author": {
+                "name": "zs1n",
+                "url": "https://github.com/zs1n"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/172183233?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Proof-of-concept for CVE-2023-50164 (Apache Struts 2), originally by jakabakos and adapted for the HTB Strutted lab environment. For educational use only.</div>",
+            "url": "https://github.com/MKIRAHMET/CVE-2023-50164-HTB-strutted",
+            "title": "MKIRAHMET/CVE-2023-50164-HTB-strutted: Proof-of-concept for CVE-2023-50164 (Apache Struts 2), originally by jakabakos and adapted for the HTB Strutted lab environment. For educational use only.",
+            "date_modified": "2025-09-04T19:42:44.000Z",
+            "date_published": "2025-09-04T18:35:19.000Z",
+            "author": {
+                "name": "MKIRAHMET",
+                "url": "https://github.com/MKIRAHMET"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/4179629?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2023-30990 exploits</div>",
+            "url": "https://github.com/silentsignal/CVE-2023-30990",
+            "title": "silentsignal/CVE-2023-30990: CVE-2023-30990 exploits",
+            "date_modified": "2025-09-08T09:51:14.000Z",
+            "date_published": "2025-08-29T11:24:56.000Z",
+            "author": {
+                "name": "silentsignal",
+                "url": "https://github.com/silentsignal"
             }
         },
         {
@@ -72,6 +138,17 @@
             }
         },
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/64803961?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
+            "url": "https://github.com/radoi-teodor/CVE-2023-21768-DSE-Bypass",
+            "title": "radoi-teodor/CVE-2023-21768-DSE-Bypass",
+            "date_modified": "2025-08-28T18:25:58.000Z",
+            "date_published": "2025-08-25T13:35:25.000Z",
+            "author": {
+                "name": "radoi-teodor",
+                "url": "https://github.com/radoi-teodor"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/57531297?u=4c8e43476a853d5e0a613c6154e3b96e098d21a5&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>PoC Script for CVE-2023-4596, unauthenticated Remote Command Execution through arbitrary file uploads.</div>",
             "url": "https://github.com/E1A/CVE-2023-4596",
             "title": "E1A/CVE-2023-4596: PoC Script for CVE-2023-4596, unauthenticated Remote Command Execution through arbitrary file uploads.",
@@ -83,146 +160,58 @@
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/114120925?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
-            "url": "https://github.com/thompson005/CVE-2023-22527",
-            "title": "thompson005/CVE-2023-22527",
-            "date_modified": "2025-08-25T09:24:10.000Z",
-            "date_published": "2025-05-29T09:37:04.000Z",
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/34032205?u=fda630956e7d4cf3a4fe1fe8345b021c6da2a93f&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
+            "url": "https://github.com/Jturnxd/CVE-2023-3609",
+            "title": "Jturnxd/CVE-2023-3609",
+            "date_modified": "2025-08-27T13:47:29.000Z",
+            "date_published": "2025-08-27T13:24:51.000Z",
             "author": {
-                "name": "thompson005",
-                "url": "https://github.com/thompson005"
+                "name": "Jturnxd",
+                "url": "https://github.com/Jturnxd"
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/80284136?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
-            "url": "https://github.com/guy2610/tough-cookie-patch-cve-2023-26136",
-            "title": "guy2610/tough-cookie-patch-cve-2023-26136",
-            "date_modified": "2025-08-24T17:11:03.000Z",
-            "date_published": "2025-07-28T18:01:14.000Z",
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/57750222?u=acf092bc7e2e51fbc84dcc70cbd051e6e81d715d&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>HAProxy-CVE-2023-45539-PoC</div>",
+            "url": "https://github.com/slicingmelon/HAProxy-CVE-2023-45539-PoC",
+            "title": "slicingmelon/HAProxy-CVE-2023-45539-PoC: HAProxy-CVE-2023-45539-PoC",
+            "date_modified": "2025-08-27T04:26:09.000Z",
+            "date_published": "2025-08-27T03:52:09.000Z",
             "author": {
-                "name": "guy2610",
-                "url": "https://github.com/guy2610"
+                "name": "slicingmelon",
+                "url": "https://github.com/slicingmelon"
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/176364273?u=60b76bea011552b621bc3c943cd0a8ecf48512c9&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>The exploitation of CVE-2023-2598 about io_uring</div>",
-            "url": "https://github.com/SpongeBob-369/CVE-2023-2598",
-            "title": "SpongeBob-369/CVE-2023-2598: The exploitation of CVE-2023-2598 about io_uring",
-            "date_modified": "2025-08-20T01:01:42.000Z",
-            "date_published": "2025-07-23T08:43:41.000Z",
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/142254236?u=c26df4bc9341841966536456ee1dfc1ace922a0d&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>BlueDucky exploits a Bluetooth vulnerability, specifically CVE-2023-45866, which allows an attacker to inject keystrokes into a target device. The attacker's device impersonates a Bluetooth keyboard to establish an encrypted connection without user authorization. The BlueDucky tool automates this process</div>",
+            "url": "https://github.com/Sergeb250/BlueDucky",
+            "title": "Sergeb250/BlueDucky: BlueDucky exploits a Bluetooth vulnerability, specifically CVE-2023-45866, which allows an attacker to inject keystrokes into a target device. The attacker's device impersonates a Bluetooth keyboard to establish an encrypted connection without user authorization. The BlueDucky tool automates this process",
+            "date_modified": "2025-08-28T19:04:54.000Z",
+            "date_published": "2025-08-26T14:26:16.000Z",
             "author": {
-                "name": "SpongeBob-369",
-                "url": "https://github.com/SpongeBob-369"
+                "name": "Sergeb250",
+                "url": "https://github.com/Sergeb250"
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/91006342?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
-            "url": "https://github.com/GURJOTEXPERT/CVE-2023-3460",
-            "title": "GURJOTEXPERT/CVE-2023-3460",
-            "date_modified": "2025-08-12T11:31:43.000Z",
-            "date_published": "2025-07-22T10:10:49.000Z",
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/228704018?u=87498f8424f96ae210f28f74f18be3536d416325&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023</div>",
+            "url": "https://github.com/cyboorgCommit/cebubmission",
+            "title": "cyboorgCommit/cebubmission: Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023",
+            "date_modified": "2025-08-26T10:39:09.000Z",
+            "date_published": "2025-08-26T10:39:09.000Z",
             "author": {
-                "name": "GURJOTEXPERT",
-                "url": "https://github.com/GURJOTEXPERT"
+                "name": "cyboorgCommit",
+                "url": "https://github.com/cyboorgCommit"
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/199271706?u=5cb2bd3cef053fa0e8217dd14e44da1cf31b2ee1&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Automates vulnerability check for sudo versions and privilege escalation via sudoedit if exploitable, helping users test and gain root access.</div>",
-            "url": "https://github.com/Spydomain/CVE-2023-22809-automated-python-exploits",
-            "title": "Spydomain/CVE-2023-22809-automated-python-exploits: Automates vulnerability check for sudo versions and privilege escalation via sudoedit if exploitable, helping users test and gain root access.",
-            "date_modified": "2025-08-12T05:19:57.000Z",
-            "date_published": "2025-07-30T09:48:25.000Z",
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/106552406?u=87c97388e8a0c477b989126b5802e104df520d95&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Nov 24, 2023 — A vulnerability was found in TOTVS Fluig Platform 1.6.x/1.7.x/1.8.0/1.8.1. It has been rated as problematic. </div>",
+            "url": "https://github.com/LelioCosta/FLUIG-Vulnerabilidade-CVE-2023-6275",
+            "title": "LelioCosta/FLUIG-Vulnerabilidade-CVE-2023-6275: Nov 24, 2023 — A vulnerability was found in TOTVS Fluig Platform 1.6.x/1.7.x/1.8.0/1.8.1. It has been rated as problematic. ",
+            "date_modified": "2025-08-25T20:28:51.000Z",
+            "date_published": "2025-08-25T20:21:46.000Z",
             "author": {
-                "name": "Spydomain",
-                "url": "https://github.com/Spydomain"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/80873500?u=4c3da53f1a4d2eefea25b7399a2d7b2f21c8515d&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Confluence CVE-2023-22518</div>",
-            "url": "https://github.com/C1ph3rX13/CVE-2023-22518",
-            "title": "C1ph3rX13/CVE-2023-22518: Confluence CVE-2023-22518",
-            "date_modified": "2025-08-12T02:32:37.000Z",
-            "date_published": "2023-11-28T03:33:16.000Z",
-            "author": {
-                "name": "C1ph3rX13",
-                "url": "https://github.com/C1ph3rX13"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/45040001?u=3a86e7f1ebddc7d56ac6e8d1c8998a901fc2477d&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>HTTP3ONSTEROIDS - A research on CVE-2023-25950 where HAProxy's HTTP/3 implementation fails to block a malformed HTTP header field name.</div>",
-            "url": "https://github.com/dhmosfunk/HTTP3ONSTEROIDS",
-            "title": "dhmosfunk/HTTP3ONSTEROIDS: HTTP3ONSTEROIDS - A research on CVE-2023-25950 where HAProxy's HTTP/3 implementation fails to block a malformed HTTP header field name.",
-            "date_modified": "2025-08-22T16:08:48.000Z",
-            "date_published": "2023-07-31T23:57:02.000Z",
-            "author": {
-                "name": "dhmosfunk",
-                "url": "https://github.com/dhmosfunk"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/48997609?u=4f9dfd6b6f19731d3cb09852f966106009272a89&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
-            "url": "https://github.com/emad-almousa/CVE-2023-22077",
-            "title": "emad-almousa/CVE-2023-22077",
-            "date_modified": "2025-08-04T16:55:52.000Z",
-            "date_published": "2025-08-04T16:55:21.000Z",
-            "author": {
-                "name": "emad-almousa",
-                "url": "https://github.com/emad-almousa"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/134560055?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>This project demonstrates a simulated exploitation of the WinRAR vulnerability CVE-2023-38831 to execute a reverse shell. The purpose of this task was to showcase how attackers can weaponize compressed archive files to gain remote access to a target machine. </div>",
-            "url": "https://github.com/Tolu12wani/Demonstration-of-CVE-2023-38831-via-Reverse-Shell-Execution",
-            "title": "Tolu12wani/Demonstration-of-CVE-2023-38831-via-Reverse-Shell-Execution: This project demonstrates a simulated exploitation of the WinRAR vulnerability CVE-2023-38831 to execute a reverse shell. The purpose of this task was to showcase how attackers can weaponize compressed archive files to gain remote access to a target machine. ",
-            "date_modified": "2025-08-03T22:15:55.000Z",
-            "date_published": "2025-08-03T22:07:43.000Z",
-            "author": {
-                "name": "Tolu12wani",
-                "url": "https://github.com/Tolu12wani"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/180711727?u=7a1aaf4597f728472dc2afc145775642172d38de&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Responsible disclosure report regarding hardcoded SSH keys in Metasploit Framework module</div>",
-            "url": "https://github.com/ayb-blc/metasploit-cve2023-34039-disclosure",
-            "title": "ayb-blc/metasploit-cve2023-34039-disclosure: Responsible disclosure report regarding hardcoded SSH keys in Metasploit Framework module",
-            "date_modified": "2025-08-03T14:18:34.000Z",
-            "date_published": "2025-08-02T08:59:56.000Z",
-            "author": {
-                "name": "ayb-blc",
-                "url": "https://github.com/ayb-blc"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/120295547?u=b346c39a8656c861c21eb6705658f15a3deb7e32&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
-            "url": "https://github.com/b1nhack/CVE-2023-0461",
-            "title": "b1nhack/CVE-2023-0461",
-            "date_modified": "2025-08-03T08:12:57.000Z",
-            "date_published": "2025-08-03T08:12:39.000Z",
-            "author": {
-                "name": "b1nhack",
-                "url": "https://github.com/b1nhack"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/204859423?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Python PoC for CVE-2023-46818</div>",
-            "url": "https://github.com/vulnerk0/CVE-2023-46818",
-            "title": "vulnerk0/CVE-2023-46818: Python PoC for CVE-2023-46818",
-            "date_modified": "2025-08-01T15:48:39.000Z",
-            "date_published": "2025-07-31T21:32:12.000Z",
-            "author": {
-                "name": "vulnerk0",
-                "url": "https://github.com/vulnerk0"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/82523299?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
-            "url": "https://github.com/maxntv24/CVE-2023-22894-PoC",
-            "title": "maxntv24/CVE-2023-22894-PoC",
-            "date_modified": "2025-07-31T16:17:10.000Z",
-            "date_published": "2025-07-31T16:16:00.000Z",
-            "author": {
-                "name": "maxntv24",
-                "url": "https://github.com/maxntv24"
+                "name": "LelioCosta",
+                "url": "https://github.com/LelioCosta"
             }
         }
     ]
