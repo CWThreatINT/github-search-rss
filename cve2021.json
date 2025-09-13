@@ -61,17 +61,6 @@
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/224805785?u=509b2eb285696427e531dcc427e6f82444615e64&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>C# and Impacket implementation of PrintNightmare CVE-2021-1675/CVE-2021-34527</div>",
-            "url": "https://github.com/GlacierGossip/PrintNightmare",
-            "title": "GlacierGossip/PrintNightmare: C# and Impacket implementation of PrintNightmare CVE-2021-1675/CVE-2021-34527",
-            "date_modified": "2025-08-12T14:16:24.000Z",
-            "date_published": "2025-08-05T13:47:51.000Z",
-            "author": {
-                "name": "GlacierGossip",
-                "url": "https://github.com/GlacierGossip"
-            }
-        },
-        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/67125397?u=d0620e96d542e3ed074913e6f917411d6e967cb8&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>POC exploit for CVE-2021-44967</div>",
             "url": "https://github.com/D3Ext/CVE-2021-44967",
             "title": "D3Ext/CVE-2021-44967: POC exploit for CVE-2021-44967",
@@ -80,50 +69,6 @@
             "author": {
                 "name": "D3Ext",
                 "url": "https://github.com/D3Ext"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/48950917?u=9b83eabc7b0b5ef6eaec6a13eff6dbcbac4cb9ad&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Bash POC script for RCE vulnerability in Apache 2.4.49</div>",
-            "url": "https://github.com/mah4nzfr/CVE-2021-41773",
-            "title": "mah4nzfr/CVE-2021-41773: Bash POC script for RCE vulnerability in Apache 2.4.49",
-            "date_modified": "2025-08-11T14:26:37.000Z",
-            "date_published": "2025-08-11T12:59:11.000Z",
-            "author": {
-                "name": "mah4nzfr",
-                "url": "https://github.com/mah4nzfr"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/109359355?u=714bad6be962ef9241d21c50e8dfeee64ef05eea&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2021-30809 UAF use-after-free PoC</div>",
-            "url": "https://github.com/seregonwar/CVE-2021-30809-UAF",
-            "title": "seregonwar/CVE-2021-30809-UAF: CVE-2021-30809 UAF use-after-free PoC",
-            "date_modified": "2025-09-10T07:07:02.000Z",
-            "date_published": "2025-08-09T19:08:21.000Z",
-            "author": {
-                "name": "seregonwar",
-                "url": "https://github.com/seregonwar"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/213745023?u=8eb815bcc4696e3f60a91286dddc1f1565862542&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
-            "url": "https://github.com/hackmelocal/CVE-2021-24891-Simulation",
-            "title": "hackmelocal/CVE-2021-24891-Simulation",
-            "date_modified": "2025-08-11T16:40:53.000Z",
-            "date_published": "2025-08-07T22:00:55.000Z",
-            "author": {
-                "name": "hackmelocal",
-                "url": "https://github.com/hackmelocal"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/117078126?u=75e7b5ee0f55571bd90a59c3ff3bfceb3bf9d127&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>POC for CVE-2021-3544 based on <a href=\"https://www.exploit-db.com/exploits/49601\" class=\"Link--inTextBlock\" rel=\"nofollow\">https://www.exploit-db.com/exploits/49601</a></div>",
-            "url": "https://github.com/Goultarde/CVE-2021-3544_RemoteMouse-3.008-RCE",
-            "title": "Goultarde/CVE-2021-3544_RemoteMouse-3.008-RCE: POC for CVE-2021-3544 based on https://www.exploit-db.com/exploits/49601",
-            "date_modified": "2025-08-16T00:22:39.000Z",
-            "date_published": "2025-08-06T16:10:00.000Z",
-            "author": {
-                "name": "Goultarde",
-                "url": "https://github.com/Goultarde"
             }
         },
         {
@@ -223,6 +168,61 @@
             "author": {
                 "name": "Sic4rio",
                 "url": "https://github.com/Sic4rio"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/96432001?u=96ae96621e52760886c3a02efef816a870b5e264&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Exploit para explotar la vulnerabilidad CVE-2025-32463</div>",
+            "url": "https://github.com/Maalfer/Sudo-CVE-2021-3156",
+            "title": "Maalfer/Sudo-CVE-2021-3156: Exploit para explotar la vulnerabilidad CVE-2025-32463",
+            "date_modified": "2025-08-18T10:07:09.000Z",
+            "date_published": "2025-07-18T10:39:27.000Z",
+            "author": {
+                "name": "Maalfer",
+                "url": "https://github.com/Maalfer"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/211012408?u=780c19804d5d88a3bffa0ba2a6a4455d86b88d3e&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
+            "url": "https://github.com/r0otk3r/CVE-2021-41773",
+            "title": "r0otk3r/CVE-2021-41773",
+            "date_modified": "2025-07-12T10:58:45.000Z",
+            "date_published": "2025-07-05T21:23:19.000Z",
+            "author": {
+                "name": "r0otk3r",
+                "url": "https://github.com/r0otk3r"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/56608509?u=0980a4216c40b233d9214d0b20369670ab7bf499&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Praktische Demonstration der Log4Shell-Sicherheitslücke (CVE-2021-44228)</div>",
+            "url": "https://github.com/fabioeletto/hka-seminar-log4shell",
+            "title": "fabioeletto/hka-seminar-log4shell: Praktische Demonstration der Log4Shell-Sicherheitslücke (CVE-2021-44228)",
+            "date_modified": "2025-07-11T07:35:17.000Z",
+            "date_published": "2025-07-10T21:42:08.000Z",
+            "author": {
+                "name": "fabioeletto",
+                "url": "https://github.com/fabioeletto"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/99892627?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
+            "url": "https://github.com/cuijiung/log4j-CVE-2021-44228",
+            "title": "cuijiung/log4j-CVE-2021-44228",
+            "date_modified": "2025-07-11T05:58:13.000Z",
+            "date_published": "2025-07-11T05:55:21.000Z",
+            "author": {
+                "name": "cuijiung",
+                "url": "https://github.com/cuijiung"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/99892627?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
+            "url": "https://github.com/cuijiung/log4j-CVE-2021-4104",
+            "title": "cuijiung/log4j-CVE-2021-4104",
+            "date_modified": "2025-07-11T04:04:03.000Z",
+            "date_published": "2025-07-11T04:01:42.000Z",
+            "author": {
+                "name": "cuijiung",
+                "url": "https://github.com/cuijiung"
             }
         }
     ]
