@@ -9,11 +9,22 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/120130511?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>oob_entry tfp0 kernel exploit for armv7 iOS (iOS 3.0–10.3.4), using CVE-2023-32434. We will publish a write-up detailing the methods in the coming weeks. 🐙</div>",
             "url": "https://github.com/rkrakesh524/oob_entry",
             "title": "rkrakesh524/oob_entry: oob_entry tfp0 kernel exploit for armv7 iOS (iOS 3.0–10.3.4), using CVE-2023-32434. We will publish a write-up detailing the methods in the coming weeks. 🐙",
-            "date_modified": "2025-09-14T03:01:40.000Z",
+            "date_modified": "2025-09-14T05:21:38.000Z",
             "date_published": "2025-08-13T09:19:29.000Z",
             "author": {
                 "name": "rkrakesh524",
                 "url": "https://github.com/rkrakesh524"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/192593040?u=2406d21e8eb61c2568457f96066a3a21f8da6685&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Exploit for CVE-2023-28293 </div>",
+            "url": "https://github.com/HexilionLabs/CVE-2023-28293",
+            "title": "HexilionLabs/CVE-2023-28293: Exploit for CVE-2023-28293 ",
+            "date_modified": "2025-09-14T05:10:17.000Z",
+            "date_published": "2024-12-23T10:25:37.000Z",
+            "author": {
+                "name": "HexilionLabs",
+                "url": "https://github.com/HexilionLabs"
             }
         },
         {
@@ -201,17 +212,6 @@
             "author": {
                 "name": "cyboorgCommit",
                 "url": "https://github.com/cyboorgCommit"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/106552406?u=87c97388e8a0c477b989126b5802e104df520d95&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Nov 24, 2023 — A vulnerability was found in TOTVS Fluig Platform 1.6.x/1.7.x/1.8.0/1.8.1. It has been rated as problematic. </div>",
-            "url": "https://github.com/LelioCosta/FLUIG-Vulnerabilidade-CVE-2023-6275",
-            "title": "LelioCosta/FLUIG-Vulnerabilidade-CVE-2023-6275: Nov 24, 2023 — A vulnerability was found in TOTVS Fluig Platform 1.6.x/1.7.x/1.8.0/1.8.1. It has been rated as problematic. ",
-            "date_modified": "2025-08-25T20:28:51.000Z",
-            "date_published": "2025-08-25T20:21:46.000Z",
-            "author": {
-                "name": "LelioCosta",
-                "url": "https://github.com/LelioCosta"
             }
         }
     ]
