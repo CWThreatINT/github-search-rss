@@ -9,7 +9,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/120130511?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>oob_entry tfp0 kernel exploit for armv7 iOS (iOS 3.0–10.3.4), using CVE-2023-32434. We will publish a write-up detailing the methods in the coming weeks. 🐙</div>",
             "url": "https://github.com/rkrakesh524/oob_entry",
             "title": "rkrakesh524/oob_entry: oob_entry tfp0 kernel exploit for armv7 iOS (iOS 3.0–10.3.4), using CVE-2023-32434. We will publish a write-up detailing the methods in the coming weeks. 🐙",
-            "date_modified": "2025-09-16T11:09:34.000Z",
+            "date_modified": "2025-09-16T15:09:40.000Z",
             "date_published": "2025-08-13T09:19:29.000Z",
             "author": {
                 "name": "rkrakesh524",
@@ -28,6 +28,17 @@
             }
         },
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/11902786?u=5ec527766ae5539bb15f2795d7071f9d0b9bf6c2&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Nmap NSE to check for CVE-2023-5612</div>",
+            "url": "https://github.com/mad3E7cat/CVE-2023-5612",
+            "title": "mad3E7cat/CVE-2023-5612: Nmap NSE to check for CVE-2023-5612",
+            "date_modified": "2025-09-16T14:28:02.000Z",
+            "date_published": "2025-09-14T14:38:02.000Z",
+            "author": {
+                "name": "mad3E7cat",
+                "url": "https://github.com/mad3E7cat"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/71475027?u=3451d2026f89f85626cf18b77c7cab8f895f334a&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
             "url": "https://github.com/shoucheng3/apache__dolphinscheduler_CVE-2023-49109_3_2_1_fixed",
             "title": "shoucheng3/apache__dolphinscheduler_CVE-2023-49109_3_2_1_fixed",
@@ -42,7 +53,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/8272056?u=bae94cefda50d4f120f3450c2a3450190e1a13fb&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Authenticated 0-click RCE against Linux 6.1.45 for CVE-2023-52440 and CVE-2023-4130</div>",
             "url": "https://github.com/BitsByWill/ksmbd-n-day",
             "title": "BitsByWill/ksmbd-n-day: Authenticated 0-click RCE against Linux 6.1.45 for CVE-2023-52440 and CVE-2023-4130",
-            "date_modified": "2025-09-16T05:12:07.000Z",
+            "date_modified": "2025-09-16T14:38:24.000Z",
             "date_published": "2025-09-12T01:25:54.000Z",
             "author": {
                 "name": "BitsByWill",
@@ -201,17 +212,6 @@
             "author": {
                 "name": "Jturnxd",
                 "url": "https://github.com/Jturnxd"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/57750222?u=acf092bc7e2e51fbc84dcc70cbd051e6e81d715d&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>HAProxy-CVE-2023-45539-PoC</div>",
-            "url": "https://github.com/slicingmelon/HAProxy-CVE-2023-45539-PoC",
-            "title": "slicingmelon/HAProxy-CVE-2023-45539-PoC: HAProxy-CVE-2023-45539-PoC",
-            "date_modified": "2025-08-27T04:26:09.000Z",
-            "date_published": "2025-08-27T03:52:09.000Z",
-            "author": {
-                "name": "slicingmelon",
-                "url": "https://github.com/slicingmelon"
             }
         }
     ]
