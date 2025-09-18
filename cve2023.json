@@ -6,6 +6,17 @@
     "description": "CVE-2023 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/32689533?u=8d6b285a7c597c64ffac6df304031bd6415fe2eb&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Information Disclosure in user interface in Kyocera Command Center RX EXOSYS M5521cdn allows remote to access user information via inspecting sent packages by user.</div>",
+            "url": "https://github.com/barisbaydur/CVE-2023-49367",
+            "title": "barisbaydur/CVE-2023-49367: Information Disclosure in user interface in Kyocera Command Center RX EXOSYS M5521cdn allows remote to access user information via inspecting sent packages by user.",
+            "date_modified": "2025-09-18T14:31:43.000Z",
+            "date_published": "2025-09-18T14:25:07.000Z",
+            "author": {
+                "name": "barisbaydur",
+                "url": "https://github.com/barisbaydur"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/120130511?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>oob_entry tfp0 kernel exploit for armv7 iOS (iOS 3.0–10.3.4), using CVE-2023-32434. We will publish a write-up detailing the methods in the coming weeks. 🐙</div>",
             "url": "https://github.com/rkrakesh524/oob_entry",
             "title": "rkrakesh524/oob_entry: oob_entry tfp0 kernel exploit for armv7 iOS (iOS 3.0–10.3.4), using CVE-2023-32434. We will publish a write-up detailing the methods in the coming weeks. 🐙",
@@ -201,17 +212,6 @@
             "author": {
                 "name": "radoi-teodor",
                 "url": "https://github.com/radoi-teodor"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/57531297?u=4c8e43476a853d5e0a613c6154e3b96e098d21a5&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>PoC Script for CVE-2023-4596, unauthenticated Remote Command Execution through arbitrary file uploads.</div>",
-            "url": "https://github.com/E1A/CVE-2023-4596",
-            "title": "E1A/CVE-2023-4596: PoC Script for CVE-2023-4596, unauthenticated Remote Command Execution through arbitrary file uploads.",
-            "date_modified": "2025-08-28T10:38:20.000Z",
-            "date_published": "2023-08-30T22:40:10.000Z",
-            "author": {
-                "name": "E1A",
-                "url": "https://github.com/E1A"
             }
         }
     ]
