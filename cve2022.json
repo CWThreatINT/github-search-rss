@@ -6,6 +6,17 @@
     "description": "CVE-2022 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/1097185?u=4337166dec782aa1312084b6fb92cc4e0f78865b&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2022-22077 is a high-severity vulnerability (CVSS score 7.8) affecting the RTCore64.sys driver distributed with MSI Center</div>",
+            "url": "https://github.com/grisuno/CVE-2022-22077",
+            "title": "grisuno/CVE-2022-22077: CVE-2022-22077 is a high-severity vulnerability (CVSS score 7.8) affecting the RTCore64.sys driver distributed with MSI Center",
+            "date_modified": "2025-09-20T16:30:48.000Z",
+            "date_published": "2025-09-08T21:12:19.000Z",
+            "author": {
+                "name": "grisuno",
+                "url": "https://github.com/grisuno"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/116582950?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Bootloader unlock using CVE-2022-38694 for Anbernic Unisoc T820 devices</div>",
             "url": "https://github.com/TheGammaSqueeze/Bootloader_Unlock_Anbernic_T820",
             "title": "TheGammaSqueeze/Bootloader_Unlock_Anbernic_T820: Bootloader unlock using CVE-2022-38694 for Anbernic Unisoc T820 devices",
@@ -25,17 +36,6 @@
             "author": {
                 "name": "sandiyochristan",
                 "url": "https://github.com/sandiyochristan"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/1097185?u=4337166dec782aa1312084b6fb92cc4e0f78865b&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2022-22077 is a high-severity vulnerability (CVSS score 7.8) affecting the RTCore64.sys driver distributed with MSI Center</div>",
-            "url": "https://github.com/grisuno/CVE-2022-22077",
-            "title": "grisuno/CVE-2022-22077: CVE-2022-22077 is a high-severity vulnerability (CVSS score 7.8) affecting the RTCore64.sys driver distributed with MSI Center",
-            "date_modified": "2025-09-16T01:45:09.000Z",
-            "date_published": "2025-09-08T21:12:19.000Z",
-            "author": {
-                "name": "grisuno",
-                "url": "https://github.com/grisuno"
             }
         },
         {
