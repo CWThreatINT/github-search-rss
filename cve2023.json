@@ -6,6 +6,17 @@
     "description": "CVE-2023 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/232986490?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>PoC and exploit scripts for CVE-2023-20048 - Remote Code Execution vulnerability affecting Cisco RV series routers.  Includes a vulnerability checker (PoC) and a working exploit for gaining remote shell access. For educational and research purposes only.</div>",
+            "url": "https://github.com/oguzhanozuzun301/cisco-rv-rce-poc",
+            "title": "oguzhanozuzun301/cisco-rv-rce-poc: PoC and exploit scripts for CVE-2023-20048 - Remote Code Execution vulnerability affecting Cisco RV series routers.  Includes a vulnerability checker (PoC) and a working exploit for gaining remote shell access. For educational and research purposes only.",
+            "date_modified": "2025-09-22T16:09:39.000Z",
+            "date_published": "2025-09-22T16:02:35.000Z",
+            "author": {
+                "name": "oguzhanozuzun301",
+                "url": "https://github.com/oguzhanozuzun301"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/120130511?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>oob_entry tfp0 kernel exploit for armv7 iOS (iOS 3.0–10.3.4), using CVE-2023-32434. We will publish a write-up detailing the methods in the coming weeks. 🐙</div>",
             "url": "https://github.com/rkrakesh524/oob_entry",
             "title": "rkrakesh524/oob_entry: oob_entry tfp0 kernel exploit for armv7 iOS (iOS 3.0–10.3.4), using CVE-2023-32434. We will publish a write-up detailing the methods in the coming weeks. 🐙",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "shoucheng3",
                 "url": "https://github.com/shoucheng3"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/76824366?u=13eb85b60a2370c6f8f31e150cdb3f2b85470c2a&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Vulnerability Detection and Mitigation Apache ActiveMQ | Security Architectures and Systems Administration - on - Apache ActiveMQ Deserialization Remote Code Execution (RCE) – CVE-2023-46604</div>",
-            "url": "https://github.com/vaishnavucv/Project-Vuln-Detection-N-Mitigation_101",
-            "title": "vaishnavucv/Project-Vuln-Detection-N-Mitigation_101: Vulnerability Detection and Mitigation Apache ActiveMQ | Security Architectures and Systems Administration - on - Apache ActiveMQ Deserialization Remote Code Execution (RCE) – CVE-2023-46604",
-            "date_modified": "2025-09-09T12:18:54.000Z",
-            "date_published": "2025-09-08T21:03:58.000Z",
-            "author": {
-                "name": "vaishnavucv",
-                "url": "https://github.com/vaishnavucv"
             }
         }
     ]
