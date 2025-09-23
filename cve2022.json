@@ -6,6 +6,17 @@
     "description": "CVE-2022 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/208085751?u=befcc31fdb77bc933f94134cd530c8abe9730459&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>🔒 Spring4Shell Firewall Defense — Cybersecurity Incident Simulation This project is part of a Cybersecurity Job Simulation I completed in August 2025 through Forage. It focuses on detecting, analyzing, and mitigating a simulated real-world cyberattack involving the Spring4Shell (CVE-2022-22965) vulnerability </div>",
+            "url": "https://github.com/salo-404/firewall",
+            "title": "salo-404/firewall: 🔒 Spring4Shell Firewall Defense — Cybersecurity Incident Simulation This project is part of a Cybersecurity Job Simulation I completed in August 2025 through Forage. It focuses on detecting, analyzing, and mitigating a simulated real-world cyberattack involving the Spring4Shell (CVE-2022-22965) vulnerability ",
+            "date_modified": "2025-09-23T07:14:08.000Z",
+            "date_published": "2025-08-06T07:58:05.000Z",
+            "author": {
+                "name": "salo-404",
+                "url": "https://github.com/salo-404"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/1097185?u=4337166dec782aa1312084b6fb92cc4e0f78865b&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2022-22077 is a high-severity vulnerability (CVSS score 7.8) affecting the RTCore64.sys driver distributed with MSI Center</div>",
             "url": "https://github.com/grisuno/CVE-2022-22077",
             "title": "grisuno/CVE-2022-22077: CVE-2022-22077 is a high-severity vulnerability (CVSS score 7.8) affecting the RTCore64.sys driver distributed with MSI Center",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "amhar-hckr",
                 "url": "https://github.com/amhar-hckr"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/225503019?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A practical example of CVE‑2022‑1524 that illustrates the attack path and provides actionable remediation scripts, and puts forward unconventional detection logic</div>",
-            "url": "https://github.com/mrk336/Hardening-Amazon-IAM-for-Cloud-Engineers",
-            "title": "mrk336/Hardening-Amazon-IAM-for-Cloud-Engineers: A practical example of CVE‑2022‑1524 that illustrates the attack path and provides actionable remediation scripts, and puts forward unconventional detection logic",
-            "date_modified": "2025-09-01T10:38:19.000Z",
-            "date_published": "2025-09-01T10:17:24.000Z",
-            "author": {
-                "name": "mrk336",
-                "url": "https://github.com/mrk336"
             }
         }
     ]
