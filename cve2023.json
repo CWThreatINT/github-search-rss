@@ -6,6 +6,17 @@
     "description": "CVE-2023 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/212959062?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Lab Project analyzing CVE-2023-36802 (mskssrv.sys) - object type confusion bug</div>",
+            "url": "https://github.com/rahul0xkr/Reproducing-CVE-2023-36802",
+            "title": "rahul0xkr/Reproducing-CVE-2023-36802: Lab Project analyzing CVE-2023-36802 (mskssrv.sys) - object type confusion bug",
+            "date_modified": "2025-09-26T15:57:28.000Z",
+            "date_published": "2025-09-26T15:51:33.000Z",
+            "author": {
+                "name": "rahul0xkr",
+                "url": "https://github.com/rahul0xkr"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/125513127?u=2c09566668b49152ff98ff58150db3575bbb62ad&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Proof-of-Concept of CVE-2023-45612</div>",
             "url": "https://github.com/bbugdigger/ktor-xxe-poc",
             "title": "bbugdigger/ktor-xxe-poc: Proof-of-Concept of CVE-2023-45612",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "mad3E7cat",
                 "url": "https://github.com/mad3E7cat"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/71475027?u=3451d2026f89f85626cf18b77c7cab8f895f334a&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
-            "url": "https://github.com/shoucheng3/apache__dolphinscheduler_CVE-2023-49109_3_2_1_fixed",
-            "title": "shoucheng3/apache__dolphinscheduler_CVE-2023-49109_3_2_1_fixed",
-            "date_modified": "2025-09-14T12:18:05.000Z",
-            "date_published": "2025-09-14T12:18:05.000Z",
-            "author": {
-                "name": "shoucheng3",
-                "url": "https://github.com/shoucheng3"
             }
         }
     ]
