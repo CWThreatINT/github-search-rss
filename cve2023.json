@@ -6,21 +6,10 @@
     "description": "CVE-2023 FEED on GitHub",
     "items": [
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/212959062?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Lab Project analyzing CVE-2023-36802 (mskssrv.sys) - object type confusion bug</div>",
-            "url": "https://github.com/rahul0xkr/Reproducing-CVE-2023-36802",
-            "title": "rahul0xkr/Reproducing-CVE-2023-36802: Lab Project analyzing CVE-2023-36802 (mskssrv.sys) - object type confusion bug",
-            "date_modified": "2025-09-26T15:57:28.000Z",
-            "date_published": "2025-09-26T15:51:33.000Z",
-            "author": {
-                "name": "rahul0xkr",
-                "url": "https://github.com/rahul0xkr"
-            }
-        },
-        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/125513127?u=2c09566668b49152ff98ff58150db3575bbb62ad&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Proof-of-Concept of CVE-2023-45612</div>",
             "url": "https://github.com/bbugdigger/ktor-xxe-poc",
             "title": "bbugdigger/ktor-xxe-poc: Proof-of-Concept of CVE-2023-45612",
-            "date_modified": "2025-09-26T13:51:40.000Z",
+            "date_modified": "2025-09-26T18:05:18.000Z",
             "date_published": "2025-09-26T10:29:23.000Z",
             "author": {
                 "name": "bbugdigger",
@@ -31,11 +20,22 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/120130511?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>oob_entry tfp0 kernel exploit for armv7 iOS (iOS 3.0–10.3.4), using CVE-2023-32434. We will publish a write-up detailing the methods in the coming weeks. 🐙</div>",
             "url": "https://github.com/rkrakesh524/oob_entry",
             "title": "rkrakesh524/oob_entry: oob_entry tfp0 kernel exploit for armv7 iOS (iOS 3.0–10.3.4), using CVE-2023-32434. We will publish a write-up detailing the methods in the coming weeks. 🐙",
-            "date_modified": "2025-09-26T13:23:38.000Z",
+            "date_modified": "2025-09-26T17:37:31.000Z",
             "date_published": "2025-08-13T09:19:29.000Z",
             "author": {
                 "name": "rkrakesh524",
                 "url": "https://github.com/rkrakesh524"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/212959062?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Lab Project analyzing CVE-2023-36802 (mskssrv.sys) - object type confusion bug</div>",
+            "url": "https://github.com/rahul0xkr/Reproducing-CVE-2023-36802",
+            "title": "rahul0xkr/Reproducing-CVE-2023-36802: Lab Project analyzing CVE-2023-36802 (mskssrv.sys) - object type confusion bug",
+            "date_modified": "2025-09-26T15:57:28.000Z",
+            "date_published": "2025-09-26T15:51:33.000Z",
+            "author": {
+                "name": "rahul0xkr",
+                "url": "https://github.com/rahul0xkr"
             }
         },
         {
