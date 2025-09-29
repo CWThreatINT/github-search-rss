@@ -6,6 +6,17 @@
     "description": "CVE-2023 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/225503019?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2023-20352 is a critical stack overflow flaw in Cisco IOS/IOS XE's SNMP engine. With just crafted SNMP packets, remote attackers can crash systems or seize root control. All SNMP versions are vulnerable patch now or risk total compromise</div>",
+            "url": "https://github.com/mrk336/SNMPocalypse-Cisco-Bug-Lets-Hackers-Crash-or-Command-Devices",
+            "title": "mrk336/SNMPocalypse-Cisco-Bug-Lets-Hackers-Crash-or-Command-Devices: CVE-2023-20352 is a critical stack overflow flaw in Cisco IOS/IOS XE's SNMP engine. With just crafted SNMP packets, remote attackers can crash systems or seize root control. All SNMP versions are vulnerable patch now or risk total compromise",
+            "date_modified": "2025-09-29T02:58:30.000Z",
+            "date_published": "2025-09-29T02:45:45.000Z",
+            "author": {
+                "name": "mrk336",
+                "url": "https://github.com/mrk336"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/120130511?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>oob_entry tfp0 kernel exploit for armv7 iOS (iOS 3.0–10.3.4), using CVE-2023-32434. We will publish a write-up detailing the methods in the coming weeks. 🐙</div>",
             "url": "https://github.com/rkrakesh524/oob_entry",
             "title": "rkrakesh524/oob_entry: oob_entry tfp0 kernel exploit for armv7 iOS (iOS 3.0–10.3.4), using CVE-2023-32434. We will publish a write-up detailing the methods in the coming weeks. 🐙",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "shoucheng3",
                 "url": "https://github.com/shoucheng3"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/11902786?u=5ec527766ae5539bb15f2795d7071f9d0b9bf6c2&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Nmap NSE to check for CVE-2023-5612</div>",
-            "url": "https://github.com/mad3E7cat/CVE-2023-5612",
-            "title": "mad3E7cat/CVE-2023-5612: Nmap NSE to check for CVE-2023-5612",
-            "date_modified": "2025-09-16T14:28:02.000Z",
-            "date_published": "2025-09-14T14:38:02.000Z",
-            "author": {
-                "name": "mad3E7cat",
-                "url": "https://github.com/mad3E7cat"
             }
         }
     ]
