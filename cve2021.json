@@ -6,6 +6,28 @@
     "description": "CVE-2021 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/82121344?u=593d14ea6b6b7298828863ccc8e0e3be434843f5&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A simple Log4j PoC written in Go</div>",
+            "url": "https://github.com/Sorrence/CVE-2021-44228",
+            "title": "Sorrence/CVE-2021-44228: A simple Log4j PoC written in Go",
+            "date_modified": "2025-10-05T18:21:37.000Z",
+            "date_published": "2025-08-04T00:10:15.000Z",
+            "author": {
+                "name": "Sorrence",
+                "url": "https://github.com/Sorrence"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/206778611?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>🚀 Enhance your penetration testing with PwnKit Helper, a simple tool for exploiting the CVE-2021-4034 vulnerability in pkexec for local privilege escalation.</div>",
+            "url": "https://github.com/kaisen-bot/pwnkit-helper",
+            "title": "kaisen-bot/pwnkit-helper: 🚀 Enhance your penetration testing with PwnKit Helper, a simple tool for exploiting the CVE-2021-4034 vulnerability in pkexec for local privilege escalation.",
+            "date_modified": "2025-10-05T18:19:58.000Z",
+            "date_published": "2025-10-01T09:53:03.000Z",
+            "author": {
+                "name": "kaisen-bot",
+                "url": "https://github.com/kaisen-bot"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/95121048?u=143792f873fe1bff12ac8ecb1afe3e7740a8ca68&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
             "url": "https://github.com/d4ngkh04w/CVE-2021-44228-Apache-Log4j",
             "title": "d4ngkh04w/CVE-2021-44228-Apache-Log4j",
@@ -14,17 +36,6 @@
             "author": {
                 "name": "d4ngkh04w",
                 "url": "https://github.com/d4ngkh04w"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/206778611?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>🚀 Enhance your penetration testing with PwnKit Helper, a simple tool for exploiting the CVE-2021-4034 vulnerability in pkexec for local privilege escalation.</div>",
-            "url": "https://github.com/kaisen-bot/pwnkit-helper",
-            "title": "kaisen-bot/pwnkit-helper: 🚀 Enhance your penetration testing with PwnKit Helper, a simple tool for exploiting the CVE-2021-4034 vulnerability in pkexec for local privilege escalation.",
-            "date_modified": "2025-10-05T15:15:53.000Z",
-            "date_published": "2025-10-01T09:53:03.000Z",
-            "author": {
-                "name": "kaisen-bot",
-                "url": "https://github.com/kaisen-bot"
             }
         },
         {
@@ -212,17 +223,6 @@
             "author": {
                 "name": "AdnanApriliyansyahh",
                 "url": "https://github.com/AdnanApriliyansyahh"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/225503019?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A practical chain that starts with an innocuous PDF file and ends up in a reverse shell on an AWS EC2 instance</div>",
-            "url": "https://github.com/mrk336/CVE-2021-3456",
-            "title": "mrk336/CVE-2021-3456: A practical chain that starts with an innocuous PDF file and ends up in a reverse shell on an AWS EC2 instance",
-            "date_modified": "2025-09-01T04:23:49.000Z",
-            "date_published": "2025-09-01T04:01:54.000Z",
-            "author": {
-                "name": "mrk336",
-                "url": "https://github.com/mrk336"
             }
         }
     ]
