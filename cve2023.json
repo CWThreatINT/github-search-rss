@@ -6,10 +6,21 @@
     "description": "CVE-2023 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/105833285?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
+            "url": "https://github.com/hybinn/CVE-2023-50164",
+            "title": "hybinn/CVE-2023-50164",
+            "date_modified": "2025-10-09T20:02:34.000Z",
+            "date_published": "2025-10-09T20:02:15.000Z",
+            "author": {
+                "name": "hybinn",
+                "url": "https://github.com/hybinn"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/120383091?u=d430d978fc0226c3655ba51273a3169a572abe0b&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2023-21554 PoC</div>",
             "url": "https://github.com/shootweb/CVE-2023-21554",
             "title": "shootweb/CVE-2023-21554: CVE-2023-21554 PoC",
-            "date_modified": "2025-10-09T19:06:13.000Z",
+            "date_modified": "2025-10-09T19:14:18.000Z",
             "date_published": "2025-10-09T19:02:16.000Z",
             "author": {
                 "name": "shootweb",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "barisbaydur",
                 "url": "https://github.com/barisbaydur"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/116043533?u=105819845e80b5ca3526a9b1de4dc17f1d537761&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Cái này dựng lên với mục đích cho ae tham khảo, chê thì đừng có xem. :))))</div>",
-            "url": "https://github.com/TranKuBao/CVE-2023-3460_FIX",
-            "title": "TranKuBao/CVE-2023-3460_FIX: Cái này dựng lên với mục đích cho ae tham khảo, chê thì đừng có xem. :))))",
-            "date_modified": "2025-09-17T02:34:09.000Z",
-            "date_published": "2024-12-11T07:38:22.000Z",
-            "author": {
-                "name": "TranKuBao",
-                "url": "https://github.com/TranKuBao"
             }
         }
     ]
