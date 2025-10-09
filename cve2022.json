@@ -6,6 +6,17 @@
     "description": "CVE-2022 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/50257557?u=d9d01a1d07fa4c6d6849987147ade34937f95ed7&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2022-22963-poc</div>",
+            "url": "https://github.com/xmqaq/CVE-2022-22963",
+            "title": "xmqaq/CVE-2022-22963: CVE-2022-22963-poc",
+            "date_modified": "2025-10-09T06:56:02.000Z",
+            "date_published": "2023-12-28T06:58:17.000Z",
+            "author": {
+                "name": "xmqaq",
+                "url": "https://github.com/xmqaq"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/90677914?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
             "url": "https://github.com/Manjen1218/CVE-2022-0739-Exploitation",
             "title": "Manjen1218/CVE-2022-0739-Exploitation",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "shoucheng3",
                 "url": "https://github.com/shoucheng3"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/56998716?u=65f247fd281afc1303938085d37e8b5e710727f5&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A proof of concept for CVE-2022-30190 (Follina).</div>",
-            "url": "https://github.com/winstxnhdw/CVE-2022-30190",
-            "title": "winstxnhdw/CVE-2022-30190: A proof of concept for CVE-2022-30190 (Follina).",
-            "date_modified": "2025-09-08T10:30:48.000Z",
-            "date_published": "2022-09-15T16:12:57.000Z",
-            "author": {
-                "name": "winstxnhdw",
-                "url": "https://github.com/winstxnhdw"
             }
         }
     ]
