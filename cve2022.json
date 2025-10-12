@@ -6,6 +6,17 @@
     "description": "CVE-2022 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/50257557?u=d9d01a1d07fa4c6d6849987147ade34937f95ed7&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2022-22963-poc</div>",
+            "url": "https://github.com/xmqaq/CVE-2022-22963",
+            "title": "xmqaq/CVE-2022-22963: CVE-2022-22963-poc",
+            "date_modified": "2025-10-12T13:55:09.000Z",
+            "date_published": "2023-12-28T06:58:17.000Z",
+            "author": {
+                "name": "xmqaq",
+                "url": "https://github.com/xmqaq"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/99727538?u=bdf7d2e49f0093fff1e16ac3c9fd0fd6bd6e5253&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2022-37122 Path Traversal Scanner</div>",
             "url": "https://github.com/bughuntar/CVE-2022-37122-Exploit",
             "title": "bughuntar/CVE-2022-37122-Exploit: CVE-2022-37122 Path Traversal Scanner",
@@ -25,17 +36,6 @@
             "author": {
                 "name": "g3un",
                 "url": "https://github.com/g3un"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/50257557?u=d9d01a1d07fa4c6d6849987147ade34937f95ed7&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2022-22963-poc</div>",
-            "url": "https://github.com/xmqaq/CVE-2022-22963",
-            "title": "xmqaq/CVE-2022-22963: CVE-2022-22963-poc",
-            "date_modified": "2025-10-09T06:56:02.000Z",
-            "date_published": "2023-12-28T06:58:17.000Z",
-            "author": {
-                "name": "xmqaq",
-                "url": "https://github.com/xmqaq"
             }
         },
         {
