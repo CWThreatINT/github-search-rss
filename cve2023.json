@@ -6,6 +6,17 @@
     "description": "CVE-2023 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/114227831?u=1f3d406808218f666cce0ce05e74f350ac3349e5&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
+            "url": "https://github.com/cesarbtakeda/CVE-exploit-2023-42793",
+            "title": "cesarbtakeda/CVE-exploit-2023-42793",
+            "date_modified": "2025-10-13T07:34:49.000Z",
+            "date_published": "2025-10-13T07:29:18.000Z",
+            "author": {
+                "name": "cesarbtakeda",
+                "url": "https://github.com/cesarbtakeda"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/105833285?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
             "url": "https://github.com/hybinn/CVE-2023-50164",
             "title": "hybinn/CVE-2023-50164",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "lineeralgebra",
                 "url": "https://github.com/lineeralgebra"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/71475027?u=3451d2026f89f85626cf18b77c7cab8f895f334a&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
-            "url": "https://github.com/shoucheng3/Graylog2__graylog2-server_CVE-2023-41044_5-1-2",
-            "title": "shoucheng3/Graylog2__graylog2-server_CVE-2023-41044_5-1-2",
-            "date_modified": "2025-08-20T10:32:53.000Z",
-            "date_published": "2025-08-20T10:31:28.000Z",
-            "author": {
-                "name": "shoucheng3",
-                "url": "https://github.com/shoucheng3"
             }
         }
     ]
