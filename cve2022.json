@@ -6,6 +6,17 @@
     "description": "CVE-2022 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/69917470?u=e69f36c5e96f2cfaccc36167215ebbfbd6ec1dab&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Proof of concept for CVE-2022-0847</div>",
+            "url": "https://github.com/karanlvm/DirtyPipe-Exploit",
+            "title": "karanlvm/DirtyPipe-Exploit: Proof of concept for CVE-2022-0847",
+            "date_modified": "2025-10-14T06:11:05.000Z",
+            "date_published": "2024-04-19T15:21:57.000Z",
+            "author": {
+                "name": "karanlvm",
+                "url": "https://github.com/karanlvm"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/233471541?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Cybersecurity simulation showcasing SOC analyst skills in malware triage, incident response, and vulnerability management (Spring4Shell CVE-2022-22965).</div>",
             "url": "https://github.com/Toph404/telstra-cyber-analyst-job-simulation",
             "title": "Toph404/telstra-cyber-analyst-job-simulation: Cybersecurity simulation showcasing SOC analyst skills in malware triage, incident response, and vulnerability management (Spring4Shell CVE-2022-22965).",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "shoucheng3",
                 "url": "https://github.com/shoucheng3"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/58800445?u=de754e9bca3834bd818060c8e9e88627a49f98b4&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>exploit of CVE-2022-0847 which directly remove password of the root account</div>",
-            "url": "https://github.com/Shadow-Spinner/CVE-2022-0847",
-            "title": "Shadow-Spinner/CVE-2022-0847: exploit of CVE-2022-0847 which directly remove password of the root account",
-            "date_modified": "2025-09-12T18:28:55.000Z",
-            "date_published": "2025-09-11T17:43:15.000Z",
-            "author": {
-                "name": "Shadow-Spinner",
-                "url": "https://github.com/Shadow-Spinner"
             }
         }
     ]
