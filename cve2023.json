@@ -9,11 +9,44 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/120130511?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>oob_entry tfp0 kernel exploit for armv7 iOS (iOS 3.0–10.3.4), using CVE-2023-32434. We will publish a write-up detailing the methods in the coming weeks. 🐙</div>",
             "url": "https://github.com/rkrakesh524/oob_entry",
             "title": "rkrakesh524/oob_entry: oob_entry tfp0 kernel exploit for armv7 iOS (iOS 3.0–10.3.4), using CVE-2023-32434. We will publish a write-up detailing the methods in the coming weeks. 🐙",
-            "date_modified": "2025-10-14T03:30:58.000Z",
+            "date_modified": "2025-10-14T06:57:47.000Z",
             "date_published": "2025-08-13T09:19:29.000Z",
             "author": {
                 "name": "rkrakesh524",
                 "url": "https://github.com/rkrakesh524"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/59293085?u=7785daca9eda535695186ad33a515a194690f879&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>LiteSpeed Cache plugin for WordPress that could enable unauthenticated users to escalate their privileges</div>",
+            "url": "https://github.com/rxerium/CVE-2023-40000",
+            "title": "rxerium/CVE-2023-40000: LiteSpeed Cache plugin for WordPress that could enable unauthenticated users to escalate their privileges",
+            "date_modified": "2025-10-14T06:46:58.000Z",
+            "date_published": "2024-02-28T19:36:40.000Z",
+            "author": {
+                "name": "rxerium",
+                "url": "https://github.com/rxerium"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/59293085?u=7785daca9eda535695186ad33a515a194690f879&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>The Popup Builder WordPress plugin before 4.2.3 does not prevent simple visitors from updating existing popups, and injecting raw JavaScript in them, which could lead to Stored XSS attacks.</div>",
+            "url": "https://github.com/rxerium/CVE-2023-6000",
+            "title": "rxerium/CVE-2023-6000: The Popup Builder WordPress plugin before 4.2.3 does not prevent simple visitors from updating existing popups, and injecting raw JavaScript in them, which could lead to Stored XSS attacks.",
+            "date_modified": "2025-10-14T06:45:23.000Z",
+            "date_published": "2024-03-10T16:20:22.000Z",
+            "author": {
+                "name": "rxerium",
+                "url": "https://github.com/rxerium"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/59293085?u=7785daca9eda535695186ad33a515a194690f879&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Atlassian Confluence Data Center and Server Broken Access Control Vulnerability</div>",
+            "url": "https://github.com/rxerium/CVE-2023-22515",
+            "title": "rxerium/CVE-2023-22515: Atlassian Confluence Data Center and Server Broken Access Control Vulnerability",
+            "date_modified": "2025-10-14T06:44:10.000Z",
+            "date_published": "2024-02-24T16:04:35.000Z",
+            "author": {
+                "name": "rxerium",
+                "url": "https://github.com/rxerium"
             }
         },
         {
@@ -190,39 +223,6 @@
             "author": {
                 "name": "Trex96",
                 "url": "https://github.com/Trex96"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/140826720?u=8d93b1bbb0eb6dd8a0384f6519ef956ec81e681b&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
-            "url": "https://github.com/dadosneurais/cve-2023-3824",
-            "title": "dadosneurais/cve-2023-3824",
-            "date_modified": "2025-09-23T04:05:28.000Z",
-            "date_published": "2025-09-23T03:52:06.000Z",
-            "author": {
-                "name": "dadosneurais",
-                "url": "https://github.com/dadosneurais"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/232986490?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>PoC and exploit scripts for CVE-2023-20048 - Remote Code Execution vulnerability affecting Cisco RV series routers.  Includes a vulnerability checker (PoC) and a working exploit for gaining remote shell access. For educational and research purposes only.</div>",
-            "url": "https://github.com/oguzhanozuzun301/cisco-rv-rce-poc",
-            "title": "oguzhanozuzun301/cisco-rv-rce-poc: PoC and exploit scripts for CVE-2023-20048 - Remote Code Execution vulnerability affecting Cisco RV series routers.  Includes a vulnerability checker (PoC) and a working exploit for gaining remote shell access. For educational and research purposes only.",
-            "date_modified": "2025-09-22T16:09:39.000Z",
-            "date_published": "2025-09-22T16:02:35.000Z",
-            "author": {
-                "name": "oguzhanozuzun301",
-                "url": "https://github.com/oguzhanozuzun301"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/94987429?u=1b295ccdf6b207448ffa22fcecac4208a67abd86&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div> Teampass SQL Injection vulnerability </div>",
-            "url": "https://github.com/lineeralgebra/CVE-2023-1545-POC",
-            "title": "lineeralgebra/CVE-2023-1545-POC:  Teampass SQL Injection vulnerability ",
-            "date_modified": "2025-09-22T00:53:00.000Z",
-            "date_published": "2025-09-22T00:50:14.000Z",
-            "author": {
-                "name": "lineeralgebra",
-                "url": "https://github.com/lineeralgebra"
             }
         }
     ]
