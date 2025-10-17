@@ -6,6 +6,17 @@
     "description": "CVE-2021 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/94842031?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A exploit tool for Grafana Unauthorized arbitrary file reading vulnerability (CVE-2021-43798), it can burst plugins / extract secret_key / decrypt data_source info automatic.</div>",
+            "url": "https://github.com/A-D-Team/grafanaExp",
+            "title": "A-D-Team/grafanaExp: A exploit tool for Grafana Unauthorized arbitrary file reading vulnerability (CVE-2021-43798), it can burst plugins / extract secret_key / decrypt data_source info automatic.",
+            "date_modified": "2025-10-17T02:20:58.000Z",
+            "date_published": "2021-12-07T15:11:34.000Z",
+            "author": {
+                "name": "A-D-Team",
+                "url": "https://github.com/A-D-Team"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/206778611?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>🚀 Enhance your penetration testing with PwnKit Helper, a simple tool for exploiting the CVE-2021-4034 vulnerability in pkexec for local privilege escalation.</div>",
             "url": "https://github.com/kaisen-bot/pwnkit-helper",
             "title": "kaisen-bot/pwnkit-helper: 🚀 Enhance your penetration testing with PwnKit Helper, a simple tool for exploiting the CVE-2021-4034 vulnerability in pkexec for local privilege escalation.",
@@ -47,17 +58,6 @@
             "author": {
                 "name": "jpmartins",
                 "url": "https://github.com/jpmartins"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/94842031?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A exploit tool for Grafana Unauthorized arbitrary file reading vulnerability (CVE-2021-43798), it can burst plugins / extract secret_key / decrypt data_source info automatic.</div>",
-            "url": "https://github.com/A-D-Team/grafanaExp",
-            "title": "A-D-Team/grafanaExp: A exploit tool for Grafana Unauthorized arbitrary file reading vulnerability (CVE-2021-43798), it can burst plugins / extract secret_key / decrypt data_source info automatic.",
-            "date_modified": "2025-10-10T11:52:10.000Z",
-            "date_published": "2021-12-07T15:11:34.000Z",
-            "author": {
-                "name": "A-D-Team",
-                "url": "https://github.com/A-D-Team"
             }
         },
         {
