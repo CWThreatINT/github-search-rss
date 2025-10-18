@@ -6,6 +6,17 @@
     "description": "CVE-2022 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/96014266?u=546eb7c65e896e443a3d75f9529de2cea2bfbc8e&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>We are presented with a security alert indicating the detection of the Follina (CVE-2022-30190) vulnerability. A malicious Word document triggered msdt.exe execution, suggesting possible remote code execution on the host JonasPRD. Our task is to investigate the alert, confirm exploitation, assess impact, and recommend remediation.</div>",
+            "url": "https://github.com/Arkha-Corvus/LetsDefend-SOC173-Follina-0-Day-Detected",
+            "title": "Arkha-Corvus/LetsDefend-SOC173-Follina-0-Day-Detected: We are presented with a security alert indicating the detection of the Follina (CVE-2022-30190) vulnerability. A malicious Word document triggered msdt.exe execution, suggesting possible remote code execution on the host JonasPRD. Our task is to investigate the alert, confirm exploitation, assess impact, and recommend remediation.",
+            "date_modified": "2025-10-18T16:22:58.000Z",
+            "date_published": "2025-10-18T11:43:12.000Z",
+            "author": {
+                "name": "Arkha-Corvus",
+                "url": "https://github.com/Arkha-Corvus"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/80098699?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Proof of concept for CVE-2022-1364 against Alibaba's UC Browser</div>",
             "url": "https://github.com/interruptlabs/uc_browser_poc_CVE-2022-1364",
             "title": "interruptlabs/uc_browser_poc_CVE-2022-1364: Proof of concept for CVE-2022-1364 against Alibaba's UC Browser",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "TheGammaSqueeze",
                 "url": "https://github.com/TheGammaSqueeze"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/55909152?u=ce9df5cef9c0719e3b574c923c3e01610048d37c&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Bad Spin: Android Binder Privilege Escalation Exploit (CVE-2022-20421)</div>",
-            "url": "https://github.com/sandiyochristan/oo",
-            "title": "sandiyochristan/oo: Bad Spin: Android Binder Privilege Escalation Exploit (CVE-2022-20421)",
-            "date_modified": "2025-09-16T20:08:12.000Z",
-            "date_published": "2025-08-29T01:38:39.000Z",
-            "author": {
-                "name": "sandiyochristan",
-                "url": "https://github.com/sandiyochristan"
             }
         }
     ]
