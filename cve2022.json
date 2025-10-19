@@ -6,6 +6,17 @@
     "description": "CVE-2022 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/1097185?u=4337166dec782aa1312084b6fb92cc4e0f78865b&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2022-22077 is a high-severity vulnerability (CVSS score 7.8) affecting the RTCore64.sys driver distributed with MSI Center</div>",
+            "url": "https://github.com/grisuno/CVE-2022-22077",
+            "title": "grisuno/CVE-2022-22077: CVE-2022-22077 is a high-severity vulnerability (CVSS score 7.8) affecting the RTCore64.sys driver distributed with MSI Center",
+            "date_modified": "2025-10-19T02:17:07.000Z",
+            "date_published": "2025-09-08T21:12:19.000Z",
+            "author": {
+                "name": "grisuno",
+                "url": "https://github.com/grisuno"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/233471541?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Cybersecurity simulation showcasing SOC analyst skills in malware triage, incident response, and vulnerability management (Spring4Shell CVE-2022-22965).</div>",
             "url": "https://github.com/Toph404/telstra-cyber-analyst-job-simulation",
             "title": "Toph404/telstra-cyber-analyst-job-simulation: Cybersecurity simulation showcasing SOC analyst skills in malware triage, incident response, and vulnerability management (Spring4Shell CVE-2022-22965).",
@@ -190,17 +201,6 @@
             "author": {
                 "name": "nayankadamm",
                 "url": "https://github.com/nayankadamm"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/1097185?u=4337166dec782aa1312084b6fb92cc4e0f78865b&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2022-22077 is a high-severity vulnerability (CVSS score 7.8) affecting the RTCore64.sys driver distributed with MSI Center</div>",
-            "url": "https://github.com/grisuno/CVE-2022-22077",
-            "title": "grisuno/CVE-2022-22077: CVE-2022-22077 is a high-severity vulnerability (CVSS score 7.8) affecting the RTCore64.sys driver distributed with MSI Center",
-            "date_modified": "2025-09-24T02:06:16.000Z",
-            "date_published": "2025-09-08T21:12:19.000Z",
-            "author": {
-                "name": "grisuno",
-                "url": "https://github.com/grisuno"
             }
         },
         {
