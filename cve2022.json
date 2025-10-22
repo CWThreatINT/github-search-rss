@@ -6,6 +6,17 @@
     "description": "CVE-2022 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/218090794?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>This script checks for Administrator privileges and then sets the necessary DWord values in the Windows registry to enable the hardware-level mitigation for CVE-2022-0001, as per Microsoft's guidance</div>",
+            "url": "https://github.com/Sabecomoeh/CVE-2022-0001",
+            "title": "Sabecomoeh/CVE-2022-0001: This script checks for Administrator privileges and then sets the necessary DWord values in the Windows registry to enable the hardware-level mitigation for CVE-2022-0001, as per Microsoft's guidance",
+            "date_modified": "2025-10-22T18:13:07.000Z",
+            "date_published": "2025-10-22T18:13:06.000Z",
+            "author": {
+                "name": "Sabecomoeh",
+                "url": "https://github.com/Sabecomoeh"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/8412198?u=1b5ff7d5c5b5f29bbe74bcf3936e27129f90c3ba&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Proof-of-Concept (POC) of a simple firewall in Python designed to mitigate the Spring4Shell (CVE-2022-22965) RCE attack by inspecting and blocking malicious request bodies.</div>",
             "url": "https://github.com/NickoPS87/Spring4Shell-Python-Firewall-POC",
             "title": "NickoPS87/Spring4Shell-Python-Firewall-POC: Proof-of-Concept (POC) of a simple firewall in Python designed to mitigate the Spring4Shell (CVE-2022-22965) RCE attack by inspecting and blocking malicious request bodies.",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "salo-404",
                 "url": "https://github.com/salo-404"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/116582950?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Bootloader unlock using CVE-2022-38694 for Anbernic Unisoc T820 devices</div>",
-            "url": "https://github.com/TheGammaSqueeze/Bootloader_Unlock_Anbernic_T820",
-            "title": "TheGammaSqueeze/Bootloader_Unlock_Anbernic_T820: Bootloader unlock using CVE-2022-38694 for Anbernic Unisoc T820 devices",
-            "date_modified": "2025-10-06T10:12:03.000Z",
-            "date_published": "2024-06-27T14:28:13.000Z",
-            "author": {
-                "name": "TheGammaSqueeze",
-                "url": "https://github.com/TheGammaSqueeze"
             }
         }
     ]
