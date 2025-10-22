@@ -6,6 +6,17 @@
     "description": "CVE-2021 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/216931623?u=46d8153cfc600d7205fb37d630cb2bae311273af&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>root Privileges</div>",
+            "url": "https://github.com/cyberx-1/OverlayFS-CVE-2021-3493",
+            "title": "cyberx-1/OverlayFS-CVE-2021-3493: root Privileges",
+            "date_modified": "2025-10-22T11:36:29.000Z",
+            "date_published": "2025-10-22T11:30:11.000Z",
+            "author": {
+                "name": "cyberx-1",
+                "url": "https://github.com/cyberx-1"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/206778611?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>🚀 Enhance your penetration testing with PwnKit Helper, a simple tool for exploiting the CVE-2021-4034 vulnerability in pkexec for local privilege escalation.</div>",
             "url": "https://github.com/kaisen-bot/pwnkit-helper",
             "title": "kaisen-bot/pwnkit-helper: 🚀 Enhance your penetration testing with PwnKit Helper, a simple tool for exploiting the CVE-2021-4034 vulnerability in pkexec for local privilege escalation.",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "illera88",
                 "url": "https://github.com/illera88"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/231748105?u=5482133701fbf23fa0b48c79f8fbc523ad1e2d61&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>For CTF's and Safe Environments.... CVE-2021-4034 Local PrivEsc.</div>",
-            "url": "https://github.com/dr4xp/pwnkit-helper",
-            "title": "dr4xp/pwnkit-helper: For CTF's and Safe Environments.... CVE-2021-4034 Local PrivEsc.",
-            "date_modified": "2025-09-11T18:19:30.000Z",
-            "date_published": "2025-09-11T18:13:08.000Z",
-            "author": {
-                "name": "dr4xp",
-                "url": "https://github.com/dr4xp"
             }
         }
     ]
