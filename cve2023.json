@@ -6,6 +6,17 @@
     "description": "CVE-2023 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/96014266?u=546eb7c65e896e443a3d75f9529de2cea2bfbc8e&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>I was presented with a high-severity alert indicating a potential exploit attempt of CVE-2023-22515, a zero-day vulnerability in Atlassian Confluence. The alert showed a suspicious GET request from an external IP targeting the Confluence server, suggesting an attempt to gain unauthorised admin access.</div>",
+            "url": "https://github.com/Arkha-Corvus/LetsDefend-SOC235-Atlassian-Confluence-Broken-Access-Control-0-Day-CVE-2023-22515-EventID-197",
+            "title": "Arkha-Corvus/LetsDefend-SOC235-Atlassian-Confluence-Broken-Access-Control-0-Day-CVE-2023-22515-EventID-197: I was presented with a high-severity alert indicating a potential exploit attempt of CVE-2023-22515, a zero-day vulnerability in Atlassian Confluence. The alert showed a suspicious GET request from an external IP targeting the Confluence server, suggesting an attempt to gain unauthorised admin access.",
+            "date_modified": "2025-10-24T09:32:44.000Z",
+            "date_published": "2025-10-24T06:38:17.000Z",
+            "author": {
+                "name": "Arkha-Corvus",
+                "url": "https://github.com/Arkha-Corvus"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/120130511?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>oob_entry tfp0 kernel exploit for armv7 iOS (iOS 3.0–10.3.4), using CVE-2023-32434. We will publish a write-up detailing the methods in the coming weeks. 🐙</div>",
             "url": "https://github.com/rkrakesh524/oob_entry",
             "title": "rkrakesh524/oob_entry: oob_entry tfp0 kernel exploit for armv7 iOS (iOS 3.0–10.3.4), using CVE-2023-32434. We will publish a write-up detailing the methods in the coming weeks. 🐙",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "vigilante-1337",
                 "url": "https://github.com/vigilante-1337"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/120383091?u=d430d978fc0226c3655ba51273a3169a572abe0b&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2023-21554 PoC</div>",
-            "url": "https://github.com/shootweb/CVE-2023-21554",
-            "title": "shootweb/CVE-2023-21554: CVE-2023-21554 PoC",
-            "date_modified": "2025-10-09T20:18:54.000Z",
-            "date_published": "2025-10-09T19:02:16.000Z",
-            "author": {
-                "name": "shootweb",
-                "url": "https://github.com/shootweb"
             }
         }
     ]
