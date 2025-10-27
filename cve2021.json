@@ -6,6 +6,17 @@
     "description": "CVE-2021 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/40216866?u=acedf4ee7154022241cc56fb7704553055f820a7&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2021-44142 vulnerable lab</div>",
+            "url": "https://github.com/WinDyAlphA/CVE-2021-44142-vulnerable-lab",
+            "title": "WinDyAlphA/CVE-2021-44142-vulnerable-lab: CVE-2021-44142 vulnerable lab",
+            "date_modified": "2025-10-27T16:15:29.000Z",
+            "date_published": "2025-10-27T16:14:13.000Z",
+            "author": {
+                "name": "WinDyAlphA",
+                "url": "https://github.com/WinDyAlphA"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/105417063?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2021-22204 exiftool rce</div>",
             "url": "https://github.com/Roronoawjd/CVE-2021-22204",
             "title": "Roronoawjd/CVE-2021-22204: CVE-2021-22204 exiftool rce",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "shoucheng3",
                 "url": "https://github.com/shoucheng3"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/229286595?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Documented CVE-2021-41773 (Apache HTTP Server path traversal, CVSS 9.8) — produced CVSS breakdown, impact assessment, and a mitigation plan (patch to 2.4.51+, CGI disable, firewall) and published the analysis on GitHub.</div>",
-            "url": "https://github.com/MuhammadHuzaifaAsif/security-lab",
-            "title": "MuhammadHuzaifaAsif/security-lab: Documented CVE-2021-41773 (Apache HTTP Server path traversal, CVSS 9.8) — produced CVSS breakdown, impact assessment, and a mitigation plan (patch to 2.4.51+, CGI disable, firewall) and published the analysis on GitHub.",
-            "date_modified": "2025-09-14T15:02:57.000Z",
-            "date_published": "2025-09-14T14:52:59.000Z",
-            "author": {
-                "name": "MuhammadHuzaifaAsif",
-                "url": "https://github.com/MuhammadHuzaifaAsif"
             }
         }
     ]
