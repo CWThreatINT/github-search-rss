@@ -6,6 +6,17 @@
     "description": "CVE-2021 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/17506633?u=a149ed4a1804624dc21e83b905a4122d2944f5d1&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Exploit for Remote Code Execution in ColdFusion 2021 (CVE-2023-26360)</div>",
+            "url": "https://github.com/H3rm1tR3b0rn/CVE-2023-26360-RCE",
+            "title": "H3rm1tR3b0rn/CVE-2023-26360-RCE: Exploit for Remote Code Execution in ColdFusion 2021 (CVE-2023-26360)",
+            "date_modified": "2025-10-28T04:10:08.000Z",
+            "date_published": "2025-10-28T04:10:08.000Z",
+            "author": {
+                "name": "H3rm1tR3b0rn",
+                "url": "https://github.com/H3rm1tR3b0rn"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/206778611?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>🚀 Enhance your penetration testing with PwnKit Helper, a simple tool for exploiting the CVE-2021-4034 vulnerability in pkexec for local privilege escalation.</div>",
             "url": "https://github.com/kaisen-bot/pwnkit-helper",
             "title": "kaisen-bot/pwnkit-helper: 🚀 Enhance your penetration testing with PwnKit Helper, a simple tool for exploiting the CVE-2021-4034 vulnerability in pkexec for local privilege escalation.",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "Chinmay1743",
                 "url": "https://github.com/Chinmay1743"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/71475027?u=3451d2026f89f85626cf18b77c7cab8f895f334a&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
-            "url": "https://github.com/shoucheng3/apache__incubator-dubbo_CVE-2021-30181_2-6-8",
-            "title": "shoucheng3/apache__incubator-dubbo_CVE-2021-30181_2-6-8",
-            "date_modified": "2025-08-17T06:57:12.000Z",
-            "date_published": "2025-08-17T06:56:17.000Z",
-            "author": {
-                "name": "shoucheng3",
-                "url": "https://github.com/shoucheng3"
             }
         }
     ]
