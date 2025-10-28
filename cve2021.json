@@ -6,25 +6,25 @@
     "description": "CVE-2021 FEED on GitHub",
     "items": [
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/206778611?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>🚀 Enhance your penetration testing with PwnKit Helper, a simple tool for exploiting the CVE-2021-4034 vulnerability in pkexec for local privilege escalation.</div>",
-            "url": "https://github.com/kaisen-bot/pwnkit-helper",
-            "title": "kaisen-bot/pwnkit-helper: 🚀 Enhance your penetration testing with PwnKit Helper, a simple tool for exploiting the CVE-2021-4034 vulnerability in pkexec for local privilege escalation.",
-            "date_modified": "2025-10-28T12:53:57.000Z",
-            "date_published": "2025-10-01T09:53:03.000Z",
-            "author": {
-                "name": "kaisen-bot",
-                "url": "https://github.com/kaisen-bot"
-            }
-        },
-        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/95963764?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A powerful and reliable exploit tool for Apache HTTP Server vulnerabilities CVE-2021-41773 and CVE-2021-42013. This tool provides remote code execution capabilities on vulnerable Apache 2.4.49 and 2.4.50 servers.</div>",
             "url": "https://github.com/FakhriCRD/Apache-CVE-2021-42013-RCE-Exploit",
             "title": "FakhriCRD/Apache-CVE-2021-42013-RCE-Exploit: A powerful and reliable exploit tool for Apache HTTP Server vulnerabilities CVE-2021-41773 and CVE-2021-42013. This tool provides remote code execution capabilities on vulnerable Apache 2.4.49 and 2.4.50 servers.",
-            "date_modified": "2025-10-28T12:04:48.000Z",
+            "date_modified": "2025-10-28T17:52:28.000Z",
             "date_published": "2025-10-28T11:45:54.000Z",
             "author": {
                 "name": "FakhriCRD",
                 "url": "https://github.com/FakhriCRD"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/206778611?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>🚀 Enhance your penetration testing with PwnKit Helper, a simple tool for exploiting the CVE-2021-4034 vulnerability in pkexec for local privilege escalation.</div>",
+            "url": "https://github.com/kaisen-bot/pwnkit-helper",
+            "title": "kaisen-bot/pwnkit-helper: 🚀 Enhance your penetration testing with PwnKit Helper, a simple tool for exploiting the CVE-2021-4034 vulnerability in pkexec for local privilege escalation.",
+            "date_modified": "2025-10-28T17:27:31.000Z",
+            "date_published": "2025-10-01T09:53:03.000Z",
+            "author": {
+                "name": "kaisen-bot",
+                "url": "https://github.com/kaisen-bot"
             }
         },
         {
@@ -53,7 +53,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/40216866?u=acedf4ee7154022241cc56fb7704553055f820a7&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2021-44142 vulnerable lab</div>",
             "url": "https://github.com/WinDyAlphA/CVE-2021-44142-vulnerable-lab",
             "title": "WinDyAlphA/CVE-2021-44142-vulnerable-lab: CVE-2021-44142 vulnerable lab",
-            "date_modified": "2025-10-27T16:15:29.000Z",
+            "date_modified": "2025-10-28T17:20:23.000Z",
             "date_published": "2025-10-27T16:14:13.000Z",
             "author": {
                 "name": "WinDyAlphA",
