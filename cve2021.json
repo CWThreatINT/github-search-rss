@@ -6,6 +6,17 @@
     "description": "CVE-2021 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/87059012?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2021-21300 test</div>",
+            "url": "https://github.com/the-chivalrousZ/cve-2021-21300",
+            "title": "the-chivalrousZ/cve-2021-21300: CVE-2021-21300 test",
+            "date_modified": "2025-10-28T19:18:53.000Z",
+            "date_published": "2025-10-28T19:11:58.000Z",
+            "author": {
+                "name": "the-chivalrousZ",
+                "url": "https://github.com/the-chivalrousZ"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/95963764?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A powerful and reliable exploit tool for Apache HTTP Server vulnerabilities CVE-2021-41773 and CVE-2021-42013. This tool provides remote code execution capabilities on vulnerable Apache 2.4.49 and 2.4.50 servers.</div>",
             "url": "https://github.com/FakhriCRD/Apache-CVE-2021-42013-RCE-Exploit",
             "title": "FakhriCRD/Apache-CVE-2021-42013-RCE-Exploit: A powerful and reliable exploit tool for Apache HTTP Server vulnerabilities CVE-2021-41773 and CVE-2021-42013. This tool provides remote code execution capabilities on vulnerable Apache 2.4.49 and 2.4.50 servers.",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "arabindadora",
                 "url": "https://github.com/arabindadora"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/183294742?u=af080386d239a796eca6ebf08d605612925c09df&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>This repository documents how deployment of Microsoft Defender for Endpoint on a Windows 11 device, including onboarding via local script, enabling device discovery, configuring Log4j2 detection (CVE-2021-44228), and validating incident response workflows.</div>",
-            "url": "https://github.com/KamalideenAK/Microsoft-Defender-for-Endpoint-Deployment-on-Windows-10-11-device",
-            "title": "KamalideenAK/Microsoft-Defender-for-Endpoint-Deployment-on-Windows-10-11-device: This repository documents how deployment of Microsoft Defender for Endpoint on a Windows 11 device, including onboarding via local script, enabling device discovery, configuring Log4j2 detection (CVE-2021-44228), and validating incident response workflows.",
-            "date_modified": "2025-09-27T12:52:51.000Z",
-            "date_published": "2025-09-27T11:26:58.000Z",
-            "author": {
-                "name": "KamalideenAK",
-                "url": "https://github.com/KamalideenAK"
             }
         }
     ]
