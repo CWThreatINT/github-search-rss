@@ -6,6 +6,17 @@
     "description": "CVE-2023 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/4262359?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>HTTP/2 Rapid Reset Exploit PoC</div>",
+            "url": "https://github.com/moften/CVE-2023-44487-HTTP-2-Rapid-Reset-Attack",
+            "title": "moften/CVE-2023-44487-HTTP-2-Rapid-Reset-Attack: HTTP/2 Rapid Reset Exploit PoC",
+            "date_modified": "2025-11-06T20:26:07.000Z",
+            "date_published": "2025-04-14T22:39:08.000Z",
+            "author": {
+                "name": "moften",
+                "url": "https://github.com/moften"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/176403229?u=ee2c02ee2ce072bb98edafd649221a3f03b9dad5&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Bug bounty and vulnerability research reports by Desai Vinayak — includes CVE-2023-50290 (Apache Solr) and Zscaler subdomain takeover findings.</div>",
             "url": "https://github.com/desaivinayak449/bug-bounty-reports-desai-vinayak",
             "title": "desaivinayak449/bug-bounty-reports-desai-vinayak: Bug bounty and vulnerability research reports by Desai Vinayak — includes CVE-2023-50290 (Apache Solr) and Zscaler subdomain takeover findings.",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "alzeer711",
                 "url": "https://github.com/alzeer711"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/47793611?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
-            "url": "https://github.com/snyk-labs/CVE-2023-50164-POC",
-            "title": "snyk-labs/CVE-2023-50164-POC",
-            "date_modified": "2025-08-07T03:51:24.000Z",
-            "date_published": "2023-12-30T21:37:08.000Z",
-            "author": {
-                "name": "snyk-labs",
-                "url": "https://github.com/snyk-labs"
             }
         }
     ]
