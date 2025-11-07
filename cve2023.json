@@ -6,6 +6,17 @@
     "description": "CVE-2023 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/62256152?u=092840e6dafb232f46de2e7c0c34c7c2fc1d27ee&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Proof of concept for XXE in Ktor (CVE-2023-45612)</div>",
+            "url": "https://github.com/ksaweryr/CVE-2023-45612-PoC",
+            "title": "ksaweryr/CVE-2023-45612-PoC: Proof of concept for XXE in Ktor (CVE-2023-45612)",
+            "date_modified": "2025-11-07T18:44:44.000Z",
+            "date_published": "2025-11-07T18:44:24.000Z",
+            "author": {
+                "name": "ksaweryr",
+                "url": "https://github.com/ksaweryr"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/120130511?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>oob_entry tfp0 kernel exploit for armv7 iOS (iOS 3.0–10.3.4), using CVE-2023-32434. We will publish a write-up detailing the methods in the coming weeks. 🐙</div>",
             "url": "https://github.com/rkrakesh524/oob_entry",
             "title": "rkrakesh524/oob_entry: oob_entry tfp0 kernel exploit for armv7 iOS (iOS 3.0–10.3.4), using CVE-2023-32434. We will publish a write-up detailing the methods in the coming weeks. 🐙",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "WHW0x455",
                 "url": "https://github.com/WHW0x455"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/55740298?u=1d786cc2088c4173ba6c7c33903698a7c22450b2&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Proof of Concept for CVE-2023-32571</div>",
-            "url": "https://github.com/SecTex/CVE-2023-32571",
-            "title": "SecTex/CVE-2023-32571: Proof of Concept for CVE-2023-32571",
-            "date_modified": "2025-10-21T21:59:41.000Z",
-            "date_published": "2025-10-21T21:32:57.000Z",
-            "author": {
-                "name": "SecTex",
-                "url": "https://github.com/SecTex"
             }
         }
     ]
