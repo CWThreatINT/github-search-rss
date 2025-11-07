@@ -6,6 +6,17 @@
     "description": "CVE-2023 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/62620411?u=8101e241cc02ba35b00848dc827b3ed028da9c6d&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2023-5359 - W3 Total Cache Cleartext Storage Vulnerability Scanner. Detect exposed credentials in W3 Total Cache plugin versions ≤ 2.7.5.</div>",
+            "url": "https://github.com/enzocipher/CVE-2023-5359",
+            "title": "enzocipher/CVE-2023-5359: CVE-2023-5359 - W3 Total Cache Cleartext Storage Vulnerability Scanner. Detect exposed credentials in W3 Total Cache plugin versions ≤ 2.7.5.",
+            "date_modified": "2025-11-07T20:37:02.000Z",
+            "date_published": "2025-11-07T20:31:23.000Z",
+            "author": {
+                "name": "enzocipher",
+                "url": "https://github.com/enzocipher"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/62256152?u=092840e6dafb232f46de2e7c0c34c7c2fc1d27ee&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Proof of concept for XXE in Ktor (CVE-2023-45612)</div>",
             "url": "https://github.com/ksaweryr/CVE-2023-45612-PoC",
             "title": "ksaweryr/CVE-2023-45612-PoC: Proof of concept for XXE in Ktor (CVE-2023-45612)",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "clemfavre",
                 "url": "https://github.com/clemfavre"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/61278770?u=541184a34eca7c44378d9ec0d65f7f20d729041e&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
-            "url": "https://github.com/WHW0x455/CVE-2023-41992",
-            "title": "WHW0x455/CVE-2023-41992",
-            "date_modified": "2025-11-03T21:39:23.000Z",
-            "date_published": "2025-05-12T09:26:37.000Z",
-            "author": {
-                "name": "WHW0x455",
-                "url": "https://github.com/WHW0x455"
             }
         }
     ]
