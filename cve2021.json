@@ -6,6 +6,17 @@
     "description": "CVE-2021 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/75618727?u=e8cff61186e6df6482578cdd90771f77e9e3898b&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
+            "url": "https://github.com/n0m-d/CVE-2021-40438-POC",
+            "title": "n0m-d/CVE-2021-40438-POC",
+            "date_modified": "2025-11-09T05:20:03.000Z",
+            "date_published": "2025-11-09T05:19:09.000Z",
+            "author": {
+                "name": "n0m-d",
+                "url": "https://github.com/n0m-d"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/206778611?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>🚀 Enhance your penetration testing with PwnKit Helper, a simple tool for exploiting the CVE-2021-4034 vulnerability in pkexec for local privilege escalation.</div>",
             "url": "https://github.com/kaisen-bot/pwnkit-helper",
             "title": "kaisen-bot/pwnkit-helper: 🚀 Enhance your penetration testing with PwnKit Helper, a simple tool for exploiting the CVE-2021-4034 vulnerability in pkexec for local privilege escalation.",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "cyberx-1",
                 "url": "https://github.com/cyberx-1"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/124419659?u=9f9294557dd5c472aa7754e1ea1a4fda0bd2ccb7&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Apache Solr &lt; 8.8.2 Server Side Request Forgery</div>",
-            "url": "https://github.com/RIZZZIOM/CVE-2021-27905",
-            "title": "RIZZZIOM/CVE-2021-27905: Apache Solr < 8.8.2 Server Side Request Forgery",
-            "date_modified": "2025-10-20T04:59:19.000Z",
-            "date_published": "2025-10-18T14:19:58.000Z",
-            "author": {
-                "name": "RIZZZIOM",
-                "url": "https://github.com/RIZZZIOM"
             }
         }
     ]
