@@ -6,6 +6,17 @@
     "description": "CVE-2023 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/209989581?u=d2e772253958aa984d0510ba8dd8f7e8f58b24e4&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2023-46818 | PoC | ISPConfig 3.2.11p1</div>",
+            "url": "https://github.com/zs1n/CVE-2023-46818",
+            "title": "zs1n/CVE-2023-46818: CVE-2023-46818 | PoC | ISPConfig 3.2.11p1",
+            "date_modified": "2025-11-10T18:24:48.000Z",
+            "date_published": "2025-09-06T02:27:23.000Z",
+            "author": {
+                "name": "zs1n",
+                "url": "https://github.com/zs1n"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/120130511?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>oob_entry tfp0 kernel exploit for armv7 iOS (iOS 3.0–10.3.4), using CVE-2023-32434. We will publish a write-up detailing the methods in the coming weeks. 🐙</div>",
             "url": "https://github.com/rkrakesh524/oob_entry",
             "title": "rkrakesh524/oob_entry: oob_entry tfp0 kernel exploit for armv7 iOS (iOS 3.0–10.3.4), using CVE-2023-32434. We will publish a write-up detailing the methods in the coming weeks. 🐙",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "H3rm1tR3b0rn",
                 "url": "https://github.com/H3rm1tR3b0rn"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/91084651?u=0a8bd4e0e6ccbd8b94171b1804217aeb60f2684b&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>This repository provides a Proof of Concept for CVE-2023-45612, demonstrating an XML External Entity (XXE) injection vulnerability in JetBrains Ktor versions prior to 2.3.5.</div>",
-            "url": "https://github.com/razvanclaudiu/Ktor-XXE-PoC",
-            "title": "razvanclaudiu/Ktor-XXE-PoC: This repository provides a Proof of Concept for CVE-2023-45612, demonstrating an XML External Entity (XXE) injection vulnerability in JetBrains Ktor versions prior to 2.3.5.",
-            "date_modified": "2025-11-08T10:40:10.000Z",
-            "date_published": "2025-10-23T08:29:46.000Z",
-            "author": {
-                "name": "razvanclaudiu",
-                "url": "https://github.com/razvanclaudiu"
             }
         }
     ]
