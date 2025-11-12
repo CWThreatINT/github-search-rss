@@ -6,6 +6,17 @@
     "description": "CVE-2023 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/212959062?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Lab Project analyzing CVE-2023-36802 (mskssrv.sys) - object type confusion bug</div>",
+            "url": "https://github.com/rahul0xkr/Reproducing-CVE-2023-36802",
+            "title": "rahul0xkr/Reproducing-CVE-2023-36802: Lab Project analyzing CVE-2023-36802 (mskssrv.sys) - object type confusion bug",
+            "date_modified": "2025-11-12T16:51:07.000Z",
+            "date_published": "2025-09-26T15:51:33.000Z",
+            "author": {
+                "name": "rahul0xkr",
+                "url": "https://github.com/rahul0xkr"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/120130511?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>oob_entry tfp0 kernel exploit for armv7 iOS (iOS 3.0–10.3.4), using CVE-2023-32434. We will publish a write-up detailing the methods in the coming weeks. 🐙</div>",
             "url": "https://github.com/rkrakesh524/oob_entry",
             "title": "rkrakesh524/oob_entry: oob_entry tfp0 kernel exploit for armv7 iOS (iOS 3.0–10.3.4), using CVE-2023-32434. We will publish a write-up detailing the methods in the coming weeks. 🐙",
@@ -31,7 +42,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/97698397?u=13723b0cdc7407716cf65d2b3cd5da3905bed85b&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2023-35813 is a proof-of-concept used to determine if an instance of Sitecore is vulnerable by analyzing a server Response Header for modification.</div>",
             "url": "https://github.com/her3ticAVI/CVE-2023-35813",
             "title": "her3ticAVI/CVE-2023-35813: CVE-2023-35813 is a proof-of-concept used to determine if an instance of Sitecore is vulnerable by analyzing a server Response Header for modification.",
-            "date_modified": "2025-11-11T19:27:17.000Z",
+            "date_modified": "2025-11-12T17:03:31.000Z",
             "date_published": "2025-11-11T19:20:27.000Z",
             "author": {
                 "name": "her3ticAVI",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "Zohaibkhan1472",
                 "url": "https://github.com/Zohaibkhan1472"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/121597677?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>ict519 assignment</div>",
-            "url": "https://github.com/yangdayyy/cve-2023-38831",
-            "title": "yangdayyy/cve-2023-38831: ict519 assignment",
-            "date_modified": "2025-10-28T12:10:48.000Z",
-            "date_published": "2025-10-28T12:10:47.000Z",
-            "author": {
-                "name": "yangdayyy",
-                "url": "https://github.com/yangdayyy"
             }
         }
     ]
