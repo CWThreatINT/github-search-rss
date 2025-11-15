@@ -174,7 +174,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/221416188?u=f7acb4d6552f737f7dc2e19c2ea40a7a856446ac&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2022-41678 是 Apache ActiveMQ 中的一个远程代码执行漏洞。该漏洞允许攻击者通过 JMX (Java Management Extensions) 接口修改 Log4j 配置或 JFR (Java Flight Recorder) 配置，从而写入恶意的 JSP webshell 到服务器的 web 目录中，最终实现远程代码执行。</div>",
             "url": "https://github.com/URJACK2025/CVE-2022-41678",
             "title": "URJACK2025/CVE-2022-41678: CVE-2022-41678 是 Apache ActiveMQ 中的一个远程代码执行漏洞。该漏洞允许攻击者通过 JMX (Java Management Extensions) 接口修改 Log4j 配置或 JFR (Java Flight Recorder) 配置，从而写入恶意的 JSP webshell 到服务器的 web 目录中，最终实现远程代码执行。",
-            "date_modified": "2025-10-14T15:19:21.000Z",
+            "date_modified": "2025-11-15T15:28:15.000Z",
             "date_published": "2025-10-14T14:18:48.000Z",
             "author": {
                 "name": "URJACK2025",
