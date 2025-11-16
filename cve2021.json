@@ -6,6 +6,17 @@
     "description": "CVE-2021 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/206778611?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>🚀 Enhance your penetration testing with PwnKit Helper, a simple tool for exploiting the CVE-2021-4034 vulnerability in pkexec for local privilege escalation.</div>",
+            "url": "https://github.com/kaisen-bot/pwnkit-helper",
+            "title": "kaisen-bot/pwnkit-helper: 🚀 Enhance your penetration testing with PwnKit Helper, a simple tool for exploiting the CVE-2021-4034 vulnerability in pkexec for local privilege escalation.",
+            "date_modified": "2025-11-16T22:49:08.000Z",
+            "date_published": "2025-10-01T09:53:03.000Z",
+            "author": {
+                "name": "kaisen-bot",
+                "url": "https://github.com/kaisen-bot"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/155918085?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>This repository contains my work for a cybersecurity assignment where I exploited the real-world Log4Shell (CVE-2021-44228) vulnerability inside a safe, controlled virtual machine. The project followed a Capture-the-Flag format with multiple exploitation tasks to retrieve hidden flags.</div>",
             "url": "https://github.com/mgueye3/Log4Shell",
             "title": "mgueye3/Log4Shell: This repository contains my work for a cybersecurity assignment where I exploited the real-world Log4Shell (CVE-2021-44228) vulnerability inside a safe, controlled virtual machine. The project followed a Capture-the-Flag format with multiple exploitation tasks to retrieve hidden flags.",
@@ -14,17 +25,6 @@
             "author": {
                 "name": "mgueye3",
                 "url": "https://github.com/mgueye3"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/206778611?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>🚀 Enhance your penetration testing with PwnKit Helper, a simple tool for exploiting the CVE-2021-4034 vulnerability in pkexec for local privilege escalation.</div>",
-            "url": "https://github.com/kaisen-bot/pwnkit-helper",
-            "title": "kaisen-bot/pwnkit-helper: 🚀 Enhance your penetration testing with PwnKit Helper, a simple tool for exploiting the CVE-2021-4034 vulnerability in pkexec for local privilege escalation.",
-            "date_modified": "2025-11-16T18:03:53.000Z",
-            "date_published": "2025-10-01T09:53:03.000Z",
-            "author": {
-                "name": "kaisen-bot",
-                "url": "https://github.com/kaisen-bot"
             }
         },
         {
