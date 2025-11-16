@@ -6,6 +6,17 @@
     "description": "CVE-2021 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/155918085?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>This repository contains my work for a cybersecurity assignment where I exploited the real-world Log4Shell (CVE-2021-44228) vulnerability inside a safe, controlled virtual machine. The project followed a Capture-the-Flag format with multiple exploitation tasks to retrieve hidden flags.</div>",
+            "url": "https://github.com/mgueye3/Log4Shell",
+            "title": "mgueye3/Log4Shell: This repository contains my work for a cybersecurity assignment where I exploited the real-world Log4Shell (CVE-2021-44228) vulnerability inside a safe, controlled virtual machine. The project followed a Capture-the-Flag format with multiple exploitation tasks to retrieve hidden flags.",
+            "date_modified": "2025-11-16T18:43:47.000Z",
+            "date_published": "2025-11-16T18:41:14.000Z",
+            "author": {
+                "name": "mgueye3",
+                "url": "https://github.com/mgueye3"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/206778611?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>🚀 Enhance your penetration testing with PwnKit Helper, a simple tool for exploiting the CVE-2021-4034 vulnerability in pkexec for local privilege escalation.</div>",
             "url": "https://github.com/kaisen-bot/pwnkit-helper",
             "title": "kaisen-bot/pwnkit-helper: 🚀 Enhance your penetration testing with PwnKit Helper, a simple tool for exploiting the CVE-2021-4034 vulnerability in pkexec for local privilege escalation.",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "tranquac",
                 "url": "https://github.com/tranquac"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/40216866?u=acedf4ee7154022241cc56fb7704553055f820a7&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2021-44142 vulnerable lab</div>",
-            "url": "https://github.com/WinDyAlphA/CVE-2021-44142-vulnerable-lab",
-            "title": "WinDyAlphA/CVE-2021-44142-vulnerable-lab: CVE-2021-44142 vulnerable lab",
-            "date_modified": "2025-11-05T11:43:50.000Z",
-            "date_published": "2025-10-27T16:14:13.000Z",
-            "author": {
-                "name": "WinDyAlphA",
-                "url": "https://github.com/WinDyAlphA"
             }
         }
     ]
