@@ -6,6 +6,17 @@
     "description": "CVE-2023 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/120130511?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>oob_entry tfp0 kernel exploit for armv7 iOS (iOS 3.0–10.3.4), using CVE-2023-32434. We will publish a write-up detailing the methods in the coming weeks. 🐙</div>",
+            "url": "https://github.com/rkrakesh524/oob_entry",
+            "title": "rkrakesh524/oob_entry: oob_entry tfp0 kernel exploit for armv7 iOS (iOS 3.0–10.3.4), using CVE-2023-32434. We will publish a write-up detailing the methods in the coming weeks. 🐙",
+            "date_modified": "2025-11-17T16:28:41.000Z",
+            "date_published": "2025-08-13T09:19:29.000Z",
+            "author": {
+                "name": "rkrakesh524",
+                "url": "https://github.com/rkrakesh524"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/75025296?u=efecdcc07be2f7dfe2d50a47c27409023b031d83&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>This exploit demonstrates a **path traversal vulnerability** in Xibo CMS (CVE-2023-33177) that allows remote code execution through malicious layout imports.</div>",
             "url": "https://github.com/complexusprada/Xibo-CMS-Zip-Slip-RCE-Exploit-CVE-2023-33177",
             "title": "complexusprada/Xibo-CMS-Zip-Slip-RCE-Exploit-CVE-2023-33177: This exploit demonstrates a **path traversal vulnerability** in Xibo CMS (CVE-2023-33177) that allows remote code execution through malicious layout imports.",
@@ -14,17 +25,6 @@
             "author": {
                 "name": "complexusprada",
                 "url": "https://github.com/complexusprada"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/120130511?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>oob_entry tfp0 kernel exploit for armv7 iOS (iOS 3.0–10.3.4), using CVE-2023-32434. We will publish a write-up detailing the methods in the coming weeks. 🐙</div>",
-            "url": "https://github.com/rkrakesh524/oob_entry",
-            "title": "rkrakesh524/oob_entry: oob_entry tfp0 kernel exploit for armv7 iOS (iOS 3.0–10.3.4), using CVE-2023-32434. We will publish a write-up detailing the methods in the coming weeks. 🐙",
-            "date_modified": "2025-11-17T11:49:54.000Z",
-            "date_published": "2025-08-13T09:19:29.000Z",
-            "author": {
-                "name": "rkrakesh524",
-                "url": "https://github.com/rkrakesh524"
             }
         },
         {
