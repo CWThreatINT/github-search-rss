@@ -9,11 +9,22 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/120130511?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>oob_entry tfp0 kernel exploit for armv7 iOS (iOS 3.0–10.3.4), using CVE-2023-32434. We will publish a write-up detailing the methods in the coming weeks. 🐙</div>",
             "url": "https://github.com/rkrakesh524/oob_entry",
             "title": "rkrakesh524/oob_entry: oob_entry tfp0 kernel exploit for armv7 iOS (iOS 3.0–10.3.4), using CVE-2023-32434. We will publish a write-up detailing the methods in the coming weeks. 🐙",
-            "date_modified": "2025-11-18T10:31:50.000Z",
+            "date_modified": "2025-11-18T15:10:51.000Z",
             "date_published": "2025-08-13T09:19:29.000Z",
             "author": {
                 "name": "rkrakesh524",
                 "url": "https://github.com/rkrakesh524"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/133569516?u=828ab8a5f93a985d9da7c90b9966b47718b8e01e&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
+            "url": "https://github.com/Lane0218/CVE-2023-25136-PoC",
+            "title": "Lane0218/CVE-2023-25136-PoC",
+            "date_modified": "2025-11-18T14:24:24.000Z",
+            "date_published": "2025-11-18T14:24:13.000Z",
+            "author": {
+                "name": "Lane0218",
+                "url": "https://github.com/Lane0218"
             }
         },
         {
@@ -212,17 +223,6 @@
             "author": {
                 "name": "desaivinayak449",
                 "url": "https://github.com/desaivinayak449"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/205040435?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Billing CTF Machine_CVE-2023-30258_Remote Code Execution</div>",
-            "url": "https://github.com/CankunWang/Tryhackme_Billing",
-            "title": "CankunWang/Tryhackme_Billing: Billing CTF Machine_CVE-2023-30258_Remote Code Execution",
-            "date_modified": "2025-11-05T18:58:38.000Z",
-            "date_published": "2025-11-05T18:58:16.000Z",
-            "author": {
-                "name": "CankunWang",
-                "url": "https://github.com/CankunWang"
             }
         }
     ]
