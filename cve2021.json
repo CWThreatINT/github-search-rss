@@ -6,6 +6,17 @@
     "description": "CVE-2021 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/146464209?u=9b95d40a1ea837b133ea4cc4d2bb138677dcc70f&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A comprehensive Python-based vulnerability scanner for detecting CVE-2021-41773 and CVE-2021-42013 path traversal and remote code execution vulnerabilities in Apache HTTP Server versions 2.4.49 and 2.4.50.</div>",
+            "url": "https://github.com/drackyjr/CVE-2021-42013",
+            "title": "drackyjr/CVE-2021-42013: A comprehensive Python-based vulnerability scanner for detecting CVE-2021-41773 and CVE-2021-42013 path traversal and remote code execution vulnerabilities in Apache HTTP Server versions 2.4.49 and 2.4.50.",
+            "date_modified": "2025-11-19T16:27:00.000Z",
+            "date_published": "2025-11-19T16:20:45.000Z",
+            "author": {
+                "name": "drackyjr",
+                "url": "https://github.com/drackyjr"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/206778611?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>🚀 Enhance your penetration testing with PwnKit Helper, a simple tool for exploiting the CVE-2021-4034 vulnerability in pkexec for local privilege escalation.</div>",
             "url": "https://github.com/kaisen-bot/pwnkit-helper",
             "title": "kaisen-bot/pwnkit-helper: 🚀 Enhance your penetration testing with PwnKit Helper, a simple tool for exploiting the CVE-2021-4034 vulnerability in pkexec for local privilege escalation.",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "the-chivalrousZ",
                 "url": "https://github.com/the-chivalrousZ"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/95963764?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A powerful and reliable exploit tool for Apache HTTP Server vulnerabilities CVE-2021-41773 and CVE-2021-42013. This tool provides remote code execution capabilities on vulnerable Apache 2.4.49 and 2.4.50 servers.</div>",
-            "url": "https://github.com/FakhriCRD/Apache-CVE-2021-42013-RCE-Exploit",
-            "title": "FakhriCRD/Apache-CVE-2021-42013-RCE-Exploit: A powerful and reliable exploit tool for Apache HTTP Server vulnerabilities CVE-2021-41773 and CVE-2021-42013. This tool provides remote code execution capabilities on vulnerable Apache 2.4.49 and 2.4.50 servers.",
-            "date_modified": "2025-11-09T16:10:20.000Z",
-            "date_published": "2025-10-28T11:45:54.000Z",
-            "author": {
-                "name": "FakhriCRD",
-                "url": "https://github.com/FakhriCRD"
             }
         }
     ]
