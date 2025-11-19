@@ -6,6 +6,17 @@
     "description": "CVE-2022 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/24557659?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>PoC for CVE-2022-40684 - Authentication bypass lead to Full device takeover (Read-only)</div>",
+            "url": "https://github.com/ccordeiro/CVE-2022-40684",
+            "title": "ccordeiro/CVE-2022-40684: PoC for CVE-2022-40684 - Authentication bypass lead to Full device takeover (Read-only)",
+            "date_modified": "2025-11-19T09:52:01.000Z",
+            "date_published": "2025-11-19T09:50:17.000Z",
+            "author": {
+                "name": "ccordeiro",
+                "url": "https://github.com/ccordeiro"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/229686548?u=a1e42a99549623fbde55d7dacb0d8cbe17ba4613&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2022-0543 - Redis RCE Vulnerability home lab for Red Teaming, Penetration Testing Training with just one DOCKER</div>",
             "url": "https://github.com/netw0rk7/CVE-2022-0543-Home-Lab",
             "title": "netw0rk7/CVE-2022-0543-Home-Lab: CVE-2022-0543 - Redis RCE Vulnerability home lab for Red Teaming, Penetration Testing Training with just one DOCKER",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "rem0t3",
                 "url": "https://github.com/rem0t3"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/221416188?u=f7acb4d6552f737f7dc2e19c2ea40a7a856446ac&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2022-41678 是 Apache ActiveMQ 中的一个远程代码执行漏洞。该漏洞允许攻击者通过 JMX (Java Management Extensions) 接口修改 Log4j 配置或 JFR (Java Flight Recorder) 配置，从而写入恶意的 JSP webshell 到服务器的 web 目录中，最终实现远程代码执行。</div>",
-            "url": "https://github.com/URJACK2025/CVE-2022-41678",
-            "title": "URJACK2025/CVE-2022-41678: CVE-2022-41678 是 Apache ActiveMQ 中的一个远程代码执行漏洞。该漏洞允许攻击者通过 JMX (Java Management Extensions) 接口修改 Log4j 配置或 JFR (Java Flight Recorder) 配置，从而写入恶意的 JSP webshell 到服务器的 web 目录中，最终实现远程代码执行。",
-            "date_modified": "2025-11-15T15:28:15.000Z",
-            "date_published": "2025-10-14T14:18:48.000Z",
-            "author": {
-                "name": "URJACK2025",
-                "url": "https://github.com/URJACK2025"
             }
         }
     ]

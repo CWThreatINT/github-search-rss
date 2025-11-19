@@ -6,6 +6,28 @@
     "description": "CVE-2021 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/24557659?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2021-22205&amp; GitLab CE/EE RCE</div>",
+            "url": "https://github.com/ccordeiro/CVE-2021-22205",
+            "title": "ccordeiro/CVE-2021-22205: CVE-2021-22205& GitLab CE/EE RCE",
+            "date_modified": "2025-11-19T09:50:20.000Z",
+            "date_published": "2025-11-19T09:50:05.000Z",
+            "author": {
+                "name": "ccordeiro",
+                "url": "https://github.com/ccordeiro"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/24557659?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>C# and Impacket implementation of PrintNightmare CVE-2021-1675/CVE-2021-34527</div>",
+            "url": "https://github.com/ccordeiro/CVE-2021-1675",
+            "title": "ccordeiro/CVE-2021-1675: C# and Impacket implementation of PrintNightmare CVE-2021-1675/CVE-2021-34527",
+            "date_modified": "2025-11-19T09:50:11.000Z",
+            "date_published": "2025-11-19T09:49:52.000Z",
+            "author": {
+                "name": "ccordeiro",
+                "url": "https://github.com/ccordeiro"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/206778611?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>🚀 Enhance your penetration testing with PwnKit Helper, a simple tool for exploiting the CVE-2021-4034 vulnerability in pkexec for local privilege escalation.</div>",
             "url": "https://github.com/kaisen-bot/pwnkit-helper",
             "title": "kaisen-bot/pwnkit-helper: 🚀 Enhance your penetration testing with PwnKit Helper, a simple tool for exploiting the CVE-2021-4034 vulnerability in pkexec for local privilege escalation.",
@@ -201,28 +223,6 @@
             "author": {
                 "name": "FakhriCRD",
                 "url": "https://github.com/FakhriCRD"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/43734212?u=65471631b09b137582e13db5533478896ac896c5&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Demo of CVE-2021-44228 Log4Shell.</div>",
-            "url": "https://github.com/Mintimate/log4j2-bugmaker",
-            "title": "Mintimate/log4j2-bugmaker: Demo of CVE-2021-44228 Log4Shell.",
-            "date_modified": "2025-10-28T08:10:51.000Z",
-            "date_published": "2025-10-28T08:07:49.000Z",
-            "author": {
-                "name": "Mintimate",
-                "url": "https://github.com/Mintimate"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/17506633?u=a149ed4a1804624dc21e83b905a4122d2944f5d1&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Exploit for Remote Code Execution in ColdFusion 2021 (CVE-2023-26360)</div>",
-            "url": "https://github.com/H3rm1tR3b0rn/CVE-2023-26360-RCE",
-            "title": "H3rm1tR3b0rn/CVE-2023-26360-RCE: Exploit for Remote Code Execution in ColdFusion 2021 (CVE-2023-26360)",
-            "date_modified": "2025-10-28T13:47:17.000Z",
-            "date_published": "2025-10-28T04:10:08.000Z",
-            "author": {
-                "name": "H3rm1tR3b0rn",
-                "url": "https://github.com/H3rm1tR3b0rn"
             }
         }
     ]
