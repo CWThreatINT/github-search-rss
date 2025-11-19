@@ -6,6 +6,17 @@
     "description": "CVE-2022 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/229686548?u=a1e42a99549623fbde55d7dacb0d8cbe17ba4613&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2022-0543 - Redis RCE Vulnerability home lab for Red Teaming, Penetration Testing Training with just one DOCKER</div>",
+            "url": "https://github.com/netw0rk7/CVE-2022-0543-Home-Lab",
+            "title": "netw0rk7/CVE-2022-0543-Home-Lab: CVE-2022-0543 - Redis RCE Vulnerability home lab for Red Teaming, Penetration Testing Training with just one DOCKER",
+            "date_modified": "2025-11-19T02:15:33.000Z",
+            "date_published": "2025-11-18T06:35:45.000Z",
+            "author": {
+                "name": "netw0rk7",
+                "url": "https://github.com/netw0rk7"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/57037080?u=6b15f56ed5fb5227b594bc8763fc0b6d6b5eac04&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
             "url": "https://github.com/developerfred/CVE-2022-31199",
             "title": "developerfred/CVE-2022-31199",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "URJACK2025",
                 "url": "https://github.com/URJACK2025"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/59293085?u=7785daca9eda535695186ad33a515a194690f879&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Zimbra Collaboration (ZCS) Arbitrary File Upload Vulnerability</div>",
-            "url": "https://github.com/rxerium/CVE-2022-41352",
-            "title": "rxerium/CVE-2022-41352: Zimbra Collaboration (ZCS) Arbitrary File Upload Vulnerability",
-            "date_modified": "2025-10-14T06:45:06.000Z",
-            "date_published": "2024-03-17T19:59:58.000Z",
-            "author": {
-                "name": "rxerium",
-                "url": "https://github.com/rxerium"
             }
         }
     ]
