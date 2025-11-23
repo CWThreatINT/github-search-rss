@@ -9,11 +9,22 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/120130511?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>oob_entry tfp0 kernel exploit for armv7 iOS (iOS 3.0–10.3.4), using CVE-2023-32434. We will publish a write-up detailing the methods in the coming weeks. 🐙</div>",
             "url": "https://github.com/rkrakesh524/oob_entry",
             "title": "rkrakesh524/oob_entry: oob_entry tfp0 kernel exploit for armv7 iOS (iOS 3.0–10.3.4), using CVE-2023-32434. We will publish a write-up detailing the methods in the coming weeks. 🐙",
-            "date_modified": "2025-11-23T11:32:17.000Z",
+            "date_modified": "2025-11-23T15:54:48.000Z",
             "date_published": "2025-08-13T09:19:29.000Z",
             "author": {
                 "name": "rkrakesh524",
                 "url": "https://github.com/rkrakesh524"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/228941908?u=40b62ff95e53e6df3593a271837e87a85b3ca68c&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>🔐 Advanced cryptanalytic framework for Bitcoin wallet vulnerability research | CVE-2023-39910 (Milk Sad) exploitation | Private key recovery for lost BTC wallets | Python-based security research tool | Educational &amp; forensic analysis</div>",
+            "url": "https://github.com/zoeir/BTCDetect-Scientific-Methodology",
+            "title": "zoeir/BTCDetect-Scientific-Methodology: 🔐 Advanced cryptanalytic framework for Bitcoin wallet vulnerability research | CVE-2023-39910 (Milk Sad) exploitation | Private key recovery for lost BTC wallets | Python-based security research tool | Educational & forensic analysis",
+            "date_modified": "2025-11-23T15:55:30.000Z",
+            "date_published": "2025-11-20T10:16:09.000Z",
+            "author": {
+                "name": "zoeir",
+                "url": "https://github.com/zoeir"
             }
         },
         {
@@ -212,17 +223,6 @@
             "author": {
                 "name": "stefan-500",
                 "url": "https://github.com/stefan-500"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/62620411?u=8101e241cc02ba35b00848dc827b3ed028da9c6d&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2023-5359 - W3 Total Cache Cleartext Storage Vulnerability Scanner. Detect exposed credentials in W3 Total Cache plugin versions ≤ 2.7.5.</div>",
-            "url": "https://github.com/enzocipher/CVE-2023-5359",
-            "title": "enzocipher/CVE-2023-5359: CVE-2023-5359 - W3 Total Cache Cleartext Storage Vulnerability Scanner. Detect exposed credentials in W3 Total Cache plugin versions ≤ 2.7.5.",
-            "date_modified": "2025-11-07T20:37:02.000Z",
-            "date_published": "2025-11-07T20:31:23.000Z",
-            "author": {
-                "name": "enzocipher",
-                "url": "https://github.com/enzocipher"
             }
         }
     ]
