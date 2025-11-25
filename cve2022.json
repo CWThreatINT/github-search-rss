@@ -6,6 +6,17 @@
     "description": "CVE-2022 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/154502045?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Tutorial of CVE-2022-37969 with focus on the methodology of Kernel exploitation, not CVE's internal causes</div>",
+            "url": "https://github.com/EmilC3978/CVE-2022-37969PoC",
+            "title": "EmilC3978/CVE-2022-37969PoC: Tutorial of CVE-2022-37969 with focus on the methodology of Kernel exploitation, not CVE's internal causes",
+            "date_modified": "2025-11-25T10:49:18.000Z",
+            "date_published": "2025-11-25T10:36:51.000Z",
+            "author": {
+                "name": "EmilC3978",
+                "url": "https://github.com/EmilC3978"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/91031441?u=f868873824b37fc781436332daa013671ba99438&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2022–24992</div>",
             "url": "https://github.com/esistferry/CVE-2022-24992",
             "title": "esistferry/CVE-2022-24992: CVE-2022–24992",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "jiangjialiang1019",
                 "url": "https://github.com/jiangjialiang1019"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/218090794?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>This script checks for Administrator privileges and then sets the necessary DWord values in the Windows registry to enable the hardware-level mitigation for CVE-2022-0001, as per Microsoft's guidance</div>",
-            "url": "https://github.com/Sabecomoeh/CVE-2022-0001",
-            "title": "Sabecomoeh/CVE-2022-0001: This script checks for Administrator privileges and then sets the necessary DWord values in the Windows registry to enable the hardware-level mitigation for CVE-2022-0001, as per Microsoft's guidance",
-            "date_modified": "2025-10-22T18:31:59.000Z",
-            "date_published": "2025-10-22T18:13:06.000Z",
-            "author": {
-                "name": "Sabecomoeh",
-                "url": "https://github.com/Sabecomoeh"
             }
         }
     ]
