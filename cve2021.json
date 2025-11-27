@@ -6,6 +6,17 @@
     "description": "CVE-2021 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/240767733?u=83d7a5547e2df9e569aa19acf546aba382debc47&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2021-43798 is a high-severity path traversal vulnerability (CVSS 3.1 score: 7.5) affecting Grafana versions 8.0.0-beta1 through 8.3.0. It allows unauthenticated attackers to read arbitrary files from the server by exploiting improper sanitization in the /public/plugins/:pluginId endpoint</div>",
+            "url": "https://github.com/f3d0rq/CVE-2021-43798-poc",
+            "title": "f3d0rq/CVE-2021-43798-poc: CVE-2021-43798 is a high-severity path traversal vulnerability (CVSS 3.1 score: 7.5) affecting Grafana versions 8.0.0-beta1 through 8.3.0. It allows unauthenticated attackers to read arbitrary files from the server by exploiting improper sanitization in the /public/plugins/:pluginId endpoint",
+            "date_modified": "2025-11-27T21:59:04.000Z",
+            "date_published": "2025-11-27T21:56:08.000Z",
+            "author": {
+                "name": "f3d0rq",
+                "url": "https://github.com/f3d0rq"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/185114324?u=565b9062922572d3d63cfd5984700988c661f2d4&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Environnement de démonstration pour la vulnérabilité CVE-2021-43008 d’Adminer : observer l’impact réel et tester des mesures de mitigation.</div>",
             "url": "https://github.com/Bamolitho/adminer_CVE-2021-43008",
             "title": "Bamolitho/adminer_CVE-2021-43008: Environnement de démonstration pour la vulnérabilité CVE-2021-43008 d’Adminer : observer l’impact réel et tester des mesures de mitigation.",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "Pranjal6955",
                 "url": "https://github.com/Pranjal6955"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/75618727?u=e8cff61186e6df6482578cdd90771f77e9e3898b&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
-            "url": "https://github.com/n0m-d/CVE-2021-40438-POC",
-            "title": "n0m-d/CVE-2021-40438-POC",
-            "date_modified": "2025-11-09T05:20:03.000Z",
-            "date_published": "2025-11-09T05:19:09.000Z",
-            "author": {
-                "name": "n0m-d",
-                "url": "https://github.com/n0m-d"
             }
         }
     ]
