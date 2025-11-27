@@ -6,14 +6,36 @@
     "description": "CVE-2021 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/238541140?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Nuclei Template and Mock Server for CVE-2021-21980 (vSphere Path Traversal)</div>",
+            "url": "https://github.com/gui2000guix-ui/cve-2021-21980-nuclei-poc",
+            "title": "gui2000guix-ui/cve-2021-21980-nuclei-poc: Nuclei Template and Mock Server for CVE-2021-21980 (vSphere Path Traversal)",
+            "date_modified": "2025-11-27T04:34:41.000Z",
+            "date_published": "2025-11-27T04:34:37.000Z",
+            "author": {
+                "name": "gui2000guix-ui",
+                "url": "https://github.com/gui2000guix-ui"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/152404430?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>cve 2021-36393, cve 2022-0332, cve 2024-43425</div>",
             "url": "https://github.com/voniem12/KTLHPM",
             "title": "voniem12/KTLHPM: cve 2021-36393, cve 2022-0332, cve 2024-43425",
-            "date_modified": "2025-11-27T03:55:34.000Z",
+            "date_modified": "2025-11-27T04:35:11.000Z",
             "date_published": "2025-11-27T03:55:33.000Z",
             "author": {
                 "name": "voniem12",
                 "url": "https://github.com/voniem12"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/245784599?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Nuclei Template and Mock Server for CVE-2021-21980 (vSphere Path Traversal)</div>",
+            "url": "https://github.com/pkxk5pr6m2-web/cve-2021-21980-nuclei-poc",
+            "title": "pkxk5pr6m2-web/cve-2021-21980-nuclei-poc: Nuclei Template and Mock Server for CVE-2021-21980 (vSphere Path Traversal)",
+            "date_modified": "2025-11-27T04:18:48.000Z",
+            "date_published": "2025-11-27T04:18:44.000Z",
+            "author": {
+                "name": "pkxk5pr6m2-web",
+                "url": "https://github.com/pkxk5pr6m2-web"
             }
         },
         {
@@ -201,28 +223,6 @@
             "author": {
                 "name": "SQSamir",
                 "url": "https://github.com/SQSamir"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/16736461?u=d51e98407f73d6c8bc9f0773703efc737714b8f5&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Exploit for CVE-2021-3560 Polkit Local Privilege Escalation Vulnerability</div>",
-            "url": "https://github.com/SeimuPVE/CVE-2021-3560_Polkit",
-            "title": "SeimuPVE/CVE-2021-3560_Polkit: Exploit for CVE-2021-3560 Polkit Local Privilege Escalation Vulnerability",
-            "date_modified": "2025-11-01T20:51:43.000Z",
-            "date_published": "2025-11-01T20:48:35.000Z",
-            "author": {
-                "name": "SeimuPVE",
-                "url": "https://github.com/SeimuPVE"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/240515890?u=b64fb0e7de187f9aee19b671cff227f6e611491e&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Proof of concept for CVE-2021-31166, a remote HTTP.sys use-after-free triggered remotely.</div>",
-            "url": "https://github.com/qazbnme/CVE-2021",
-            "title": "qazbnme/CVE-2021: Proof of concept for CVE-2021-31166, a remote HTTP.sys use-after-free triggered remotely.",
-            "date_modified": "2025-11-01T03:55:57.000Z",
-            "date_published": "2025-10-27T14:37:49.000Z",
-            "author": {
-                "name": "qazbnme",
-                "url": "https://github.com/qazbnme"
             }
         }
     ]
