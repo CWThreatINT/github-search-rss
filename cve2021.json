@@ -6,6 +6,17 @@
     "description": "CVE-2021 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/185114324?u=565b9062922572d3d63cfd5984700988c661f2d4&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Environnement de démonstration pour la vulnérabilité CVE-2021-43008 d’Adminer : observer l’impact réel et tester des mesures de mitigation.</div>",
+            "url": "https://github.com/Bamolitho/adminer_CVE-2021-43008",
+            "title": "Bamolitho/adminer_CVE-2021-43008: Environnement de démonstration pour la vulnérabilité CVE-2021-43008 d’Adminer : observer l’impact réel et tester des mesures de mitigation.",
+            "date_modified": "2025-11-27T19:43:32.000Z",
+            "date_published": "2025-11-27T19:36:57.000Z",
+            "author": {
+                "name": "Bamolitho",
+                "url": "https://github.com/Bamolitho"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/206778611?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>🚀 Enhance your penetration testing with PwnKit Helper, a simple tool for exploiting the CVE-2021-4034 vulnerability in pkexec for local privilege escalation.</div>",
             "url": "https://github.com/kaisen-bot/pwnkit-helper",
             "title": "kaisen-bot/pwnkit-helper: 🚀 Enhance your penetration testing with PwnKit Helper, a simple tool for exploiting the CVE-2021-4034 vulnerability in pkexec for local privilege escalation.",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "n0m-d",
                 "url": "https://github.com/n0m-d"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/215029052?u=3ea933f3a350a631dcf60b090279fba8357f8b7f&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2021-44228</div>",
-            "url": "https://github.com/B1ack4sh/Blackash-CVE-2021-44228",
-            "title": "B1ack4sh/Blackash-CVE-2021-44228: CVE-2021-44228",
-            "date_modified": "2025-11-17T13:09:48.000Z",
-            "date_published": "2025-11-05T15:47:47.000Z",
-            "author": {
-                "name": "B1ack4sh",
-                "url": "https://github.com/B1ack4sh"
             }
         }
     ]
