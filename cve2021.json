@@ -6,6 +6,28 @@
     "description": "CVE-2021 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/152404430?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>cve 2021-36393, cve 2022-0332, cve 2024-43425</div>",
+            "url": "https://github.com/voniem12/KTLHPM",
+            "title": "voniem12/KTLHPM: cve 2021-36393, cve 2022-0332, cve 2024-43425",
+            "date_modified": "2025-11-27T05:52:15.000Z",
+            "date_published": "2025-11-27T03:55:33.000Z",
+            "author": {
+                "name": "voniem12",
+                "url": "https://github.com/voniem12"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/238541140?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2021-21980</div>",
+            "url": "https://github.com/gui2000guix-ui/cve-2021-21980-mock-server",
+            "title": "gui2000guix-ui/cve-2021-21980-mock-server: CVE-2021-21980",
+            "date_modified": "2025-11-27T05:18:25.000Z",
+            "date_published": "2025-11-27T05:16:42.000Z",
+            "author": {
+                "name": "gui2000guix-ui",
+                "url": "https://github.com/gui2000guix-ui"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/238541140?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Nuclei Template and Mock Server for CVE-2021-21980 (vSphere Path Traversal)</div>",
             "url": "https://github.com/gui2000guix-ui/cve-2021-21980-nuclei-poc",
             "title": "gui2000guix-ui/cve-2021-21980-nuclei-poc: Nuclei Template and Mock Server for CVE-2021-21980 (vSphere Path Traversal)",
@@ -14,17 +36,6 @@
             "author": {
                 "name": "gui2000guix-ui",
                 "url": "https://github.com/gui2000guix-ui"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/152404430?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>cve 2021-36393, cve 2022-0332, cve 2024-43425</div>",
-            "url": "https://github.com/voniem12/KTLHPM",
-            "title": "voniem12/KTLHPM: cve 2021-36393, cve 2022-0332, cve 2024-43425",
-            "date_modified": "2025-11-27T04:35:11.000Z",
-            "date_published": "2025-11-27T03:55:33.000Z",
-            "author": {
-                "name": "voniem12",
-                "url": "https://github.com/voniem12"
             }
         },
         {
@@ -212,17 +223,6 @@
             "author": {
                 "name": "Alexs18",
                 "url": "https://github.com/Alexs18"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/12712312?u=c9c0177ed7b439ca9f586194cc8b01550ffbd2f2&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
-            "url": "https://github.com/SQSamir/CVE-2021-27328",
-            "title": "SQSamir/CVE-2021-27328",
-            "date_modified": "2025-11-04T10:19:51.000Z",
-            "date_published": "2021-02-19T07:15:48.000Z",
-            "author": {
-                "name": "SQSamir",
-                "url": "https://github.com/SQSamir"
             }
         }
     ]
