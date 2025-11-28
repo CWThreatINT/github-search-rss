@@ -6,6 +6,17 @@
     "description": "CVE-2023 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/71109880?u=a853f4d5f42e2eda8dcf31d9d6c515addeb0b861&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Exploit - CVE-2023-26360</div>",
+            "url": "https://github.com/RyanRodrigues880/CVE-2023-26360",
+            "title": "RyanRodrigues880/CVE-2023-26360: Exploit - CVE-2023-26360",
+            "date_modified": "2025-11-28T20:01:04.000Z",
+            "date_published": "2025-11-28T19:59:21.000Z",
+            "author": {
+                "name": "RyanRodrigues880",
+                "url": "https://github.com/RyanRodrigues880"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/120130511?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>oob_entry tfp0 kernel exploit for armv7 iOS (iOS 3.0–10.3.4), using CVE-2023-32434. We will publish a write-up detailing the methods in the coming weeks. 🐙</div>",
             "url": "https://github.com/rkrakesh524/oob_entry",
             "title": "rkrakesh524/oob_entry: oob_entry tfp0 kernel exploit for armv7 iOS (iOS 3.0–10.3.4), using CVE-2023-32434. We will publish a write-up detailing the methods in the coming weeks. 🐙",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "Chocapikk",
                 "url": "https://github.com/Chocapikk"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/212959062?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Lab Project analyzing CVE-2023-36802 (mskssrv.sys) - object type confusion bug</div>",
-            "url": "https://github.com/rahul0xkr/Reproducing-CVE-2023-36802",
-            "title": "rahul0xkr/Reproducing-CVE-2023-36802: Lab Project analyzing CVE-2023-36802 (mskssrv.sys) - object type confusion bug",
-            "date_modified": "2025-11-12T16:51:07.000Z",
-            "date_published": "2025-09-26T15:51:33.000Z",
-            "author": {
-                "name": "rahul0xkr",
-                "url": "https://github.com/rahul0xkr"
             }
         }
     ]
