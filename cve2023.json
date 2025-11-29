@@ -6,25 +6,25 @@
     "description": "CVE-2023 FEED on GitHub",
     "items": [
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/98477272?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Exploit for Werkzeug &lt; 3.1.4 (CVE-2023-46136)</div>",
-            "url": "https://github.com/JawadPy/WerkGhost",
-            "title": "JawadPy/WerkGhost: Exploit for Werkzeug < 3.1.4 (CVE-2023-46136)",
-            "date_modified": "2025-11-29T22:06:49.000Z",
-            "date_published": "2025-11-29T21:50:41.000Z",
-            "author": {
-                "name": "JawadPy",
-                "url": "https://github.com/JawadPy"
-            }
-        },
-        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/120130511?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>oob_entry tfp0 kernel exploit for armv7 iOS (iOS 3.0–10.3.4), using CVE-2023-32434. We will publish a write-up detailing the methods in the coming weeks. 🐙</div>",
             "url": "https://github.com/rkrakesh524/oob_entry",
             "title": "rkrakesh524/oob_entry: oob_entry tfp0 kernel exploit for armv7 iOS (iOS 3.0–10.3.4), using CVE-2023-32434. We will publish a write-up detailing the methods in the coming weeks. 🐙",
-            "date_modified": "2025-11-29T17:14:49.000Z",
+            "date_modified": "2025-11-29T22:22:28.000Z",
             "date_published": "2025-08-13T09:19:29.000Z",
             "author": {
                 "name": "rkrakesh524",
                 "url": "https://github.com/rkrakesh524"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/98477272?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Exploit for Werkzeug &lt; 3.1.4 (CVE-2023-46136)</div>",
+            "url": "https://github.com/JawadPy/WerkGhost",
+            "title": "JawadPy/WerkGhost: Exploit for Werkzeug < 3.1.4 (CVE-2023-46136)",
+            "date_modified": "2025-11-29T22:15:35.000Z",
+            "date_published": "2025-11-29T21:50:41.000Z",
+            "author": {
+                "name": "JawadPy",
+                "url": "https://github.com/JawadPy"
             }
         },
         {
