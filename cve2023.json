@@ -6,6 +6,17 @@
     "description": "CVE-2023 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/68143563?u=711ad67c2dbc9684cae3de6ec623981f26079d6d&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Exploit CVE-2023-35813 PoC Script</div>",
+            "url": "https://github.com/Rezy-Dev/CVE-2023-35813",
+            "title": "Rezy-Dev/CVE-2023-35813: Exploit CVE-2023-35813 PoC Script",
+            "date_modified": "2025-11-30T15:58:45.000Z",
+            "date_published": "2025-11-30T15:58:02.000Z",
+            "author": {
+                "name": "Rezy-Dev",
+                "url": "https://github.com/Rezy-Dev"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/120130511?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>oob_entry tfp0 kernel exploit for armv7 iOS (iOS 3.0–10.3.4), using CVE-2023-32434. We will publish a write-up detailing the methods in the coming weeks. 🐙</div>",
             "url": "https://github.com/rkrakesh524/oob_entry",
             "title": "rkrakesh524/oob_entry: oob_entry tfp0 kernel exploit for armv7 iOS (iOS 3.0–10.3.4), using CVE-2023-32434. We will publish a write-up detailing the methods in the coming weeks. 🐙",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "M507",
                 "url": "https://github.com/M507"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/228465169?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Detection, Exploit and Mitigation for CVE 2023 46604. </div>",
-            "url": "https://github.com/pavanaa4k/CVE-2023-46604-LAB",
-            "title": "pavanaa4k/CVE-2023-46604-LAB: Detection, Exploit and Mitigation for CVE 2023 46604. ",
-            "date_modified": "2025-11-15T19:45:36.000Z",
-            "date_published": "2025-11-15T19:31:03.000Z",
-            "author": {
-                "name": "pavanaa4k",
-                "url": "https://github.com/pavanaa4k"
             }
         }
     ]
