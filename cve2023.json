@@ -83,17 +83,6 @@
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/142793060?u=14b49674b934792da990ff8b23a1f50fb912ee5e&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2023-1189 PoC &amp; Exploit</div>",
-            "url": "https://github.com/le0s1mba/CVE-2023-1189",
-            "title": "le0s1mba/CVE-2023-1189: CVE-2023-1189 PoC & Exploit",
-            "date_modified": "2025-11-26T14:28:05.000Z",
-            "date_published": "2025-11-26T13:18:00.000Z",
-            "author": {
-                "name": "le0s1mba",
-                "url": "https://github.com/le0s1mba"
-            }
-        },
-        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/79598143?u=81aec188a4df2c324f66d9dd408bf47db100ef9e&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Juniper JunOS J-Web PHP external variable modification (CVE-2023-36845) exploit.</div>",
             "url": "https://github.com/kopfjager007/CVE-2023-36845",
             "title": "kopfjager007/CVE-2023-36845: Juniper JunOS J-Web PHP external variable modification (CVE-2023-36845) exploit.",
@@ -223,6 +212,17 @@
             "author": {
                 "name": "pavanaa4k",
                 "url": "https://github.com/pavanaa4k"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/88535377?u=e2645c7b0bce5207a71f8ba1c657d73da131d118&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2023-22515: Confluence Broken Access Control Exploit</div>",
+            "url": "https://github.com/Chocapikk/CVE-2023-22515",
+            "title": "Chocapikk/CVE-2023-22515: CVE-2023-22515: Confluence Broken Access Control Exploit",
+            "date_modified": "2025-11-23T02:11:34.000Z",
+            "date_published": "2023-10-10T21:40:09.000Z",
+            "author": {
+                "name": "Chocapikk",
+                "url": "https://github.com/Chocapikk"
             }
         }
     ]
