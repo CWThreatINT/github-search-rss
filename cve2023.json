@@ -6,6 +6,17 @@
     "description": "CVE-2023 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/84002020?u=c47fd13ea886b2523e7013e7a33476c5d653a913&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div># F5 BIG-IP CVE-2023-46747 – Unauth RCE + Auto Reverse Shell Modified &amp; improved Nuclei template by raguraman ✓ Creates hidden admin   ✓ Instant TCP revshell (just edit LHOST/LPORT)   ✓ Works on all unpatched 13.x-17.x   <g-emoji class=\"g-emoji\" alias=\"warning\">⚠️</g-emoji> Authorized pentesting ONLY!   Patch: K000137353</div>",
+            "url": "https://github.com/Razzlemouse/F5-BIG-IP-CVE-2023-46747---Unauthenticated-RCE-Reverse-Shell-Nuclei-Template-Modified-",
+            "title": "Razzlemouse/F5-BIG-IP-CVE-2023-46747---Unauthenticated-RCE-Reverse-Shell-Nuclei-Template-Modified-: # F5 BIG-IP CVE-2023-46747 – Unauth RCE + Auto Reverse Shell Modified & improved Nuclei template by raguraman ✓ Creates hidden admin   ✓ Instant TCP revshell (just edit LHOST/LPORT)   ✓ Works on all unpatched 13.x-17.x   ⚠️ Authorized pentesting ONLY!   Patch: K000137353",
+            "date_modified": "2025-12-03T07:08:06.000Z",
+            "date_published": "2025-12-03T06:39:43.000Z",
+            "author": {
+                "name": "Razzlemouse",
+                "url": "https://github.com/Razzlemouse"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/120130511?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>oob_entry tfp0 kernel exploit for armv7 iOS (iOS 3.0–10.3.4), using CVE-2023-32434. We will publish a write-up detailing the methods in the coming weeks. 🐙</div>",
             "url": "https://github.com/rkrakesh524/oob_entry",
             "title": "rkrakesh524/oob_entry: oob_entry tfp0 kernel exploit for armv7 iOS (iOS 3.0–10.3.4), using CVE-2023-32434. We will publish a write-up detailing the methods in the coming weeks. 🐙",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "M507",
                 "url": "https://github.com/M507"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/228465169?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Detection, Exploit and Mitigation for CVE 2023 46604. </div>",
-            "url": "https://github.com/pavanaa4k/CVE-2023-46604-LAB",
-            "title": "pavanaa4k/CVE-2023-46604-LAB: Detection, Exploit and Mitigation for CVE 2023 46604. ",
-            "date_modified": "2025-11-15T19:45:36.000Z",
-            "date_published": "2025-11-15T19:31:03.000Z",
-            "author": {
-                "name": "pavanaa4k",
-                "url": "https://github.com/pavanaa4k"
             }
         }
     ]
