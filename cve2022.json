@@ -6,6 +6,17 @@
     "description": "CVE-2022 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/38702?u=f02c1a0bc03a12eab1c47c2c53017d44e1321073&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Demonstrating CVE-2018-20225</div>",
+            "url": "https://github.com/brabster/cve-2018-20225",
+            "title": "brabster/cve-2018-20225: Demonstrating CVE-2018-20225",
+            "date_modified": "2025-12-05T22:57:40.000Z",
+            "date_published": "2025-12-05T22:57:36.000Z",
+            "author": {
+                "name": "brabster",
+                "url": "https://github.com/brabster"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/203331814?u=49df2d769853c8344b10bc9748da579ef66e56ff&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2022-26134 is a Go-based exploitation framework targeting a critical OGNL injection vulnerability in Atlassian Confluence Server/Data Center.</div>",
             "url": "https://github.com/Hghost0x00/CVE-2022-26134-GO",
             "title": "Hghost0x00/CVE-2022-26134-GO: CVE-2022-26134 is a Go-based exploitation framework targeting a critical OGNL injection vulnerability in Atlassian Confluence Server/Data Center.",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "Ashwesker",
                 "url": "https://github.com/Ashwesker"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/241659480?u=3e9fedc0a2660b047dbc2bfc2026b885f4b997fc&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Identify instances of Joomla that are affected by CVE-2022-27913.</div>",
-            "url": "https://github.com/cameron-coding-projects/Joomla-CVE-Detector-CVE-2022-27913-",
-            "title": "cameron-coding-projects/Joomla-CVE-Detector-CVE-2022-27913-: Identify instances of Joomla that are affected by CVE-2022-27913.",
-            "date_modified": "2025-11-03T01:31:45.000Z",
-            "date_published": "2025-11-03T01:31:18.000Z",
-            "author": {
-                "name": "cameron-coding-projects",
-                "url": "https://github.com/cameron-coding-projects"
             }
         }
     ]
