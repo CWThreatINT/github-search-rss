@@ -6,6 +6,17 @@
     "description": "CVE-2021 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/13027962?u=196f5db2f6185374f815e2ea7405beec6641b82b&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2021-3007 Vulnerable Test Environment - Laminas/Zend Framework Deserialization RCE</div>",
+            "url": "https://github.com/KrE80r/cve-2021-3007-vulnerable",
+            "title": "KrE80r/cve-2021-3007-vulnerable: CVE-2021-3007 Vulnerable Test Environment - Laminas/Zend Framework Deserialization RCE",
+            "date_modified": "2025-12-05T10:50:31.000Z",
+            "date_published": "2025-12-05T10:43:32.000Z",
+            "author": {
+                "name": "KrE80r",
+                "url": "https://github.com/KrE80r"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/206778611?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>🚀 Enhance your penetration testing with PwnKit Helper, a simple tool for exploiting the CVE-2021-4034 vulnerability in pkexec for local privilege escalation.</div>",
             "url": "https://github.com/kaisen-bot/pwnkit-helper",
             "title": "kaisen-bot/pwnkit-helper: 🚀 Enhance your penetration testing with PwnKit Helper, a simple tool for exploiting the CVE-2021-4034 vulnerability in pkexec for local privilege escalation.",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "faizdotid",
                 "url": "https://github.com/faizdotid"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/21672558?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Log4j Exploit Detection Logic for Zeek</div>",
-            "url": "https://github.com/corelight/cve-2021-44228",
-            "title": "corelight/cve-2021-44228: Log4j Exploit Detection Logic for Zeek",
-            "date_modified": "2025-11-25T17:42:27.000Z",
-            "date_published": "2021-12-13T17:25:52.000Z",
-            "author": {
-                "name": "corelight",
-                "url": "https://github.com/corelight"
             }
         }
     ]
