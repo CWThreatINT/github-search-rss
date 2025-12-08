@@ -6,6 +6,17 @@
     "description": "CVE-2022 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/56623206?u=bea68f6c71b34727374cc45f13c8d67b85f16468&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2022-33171: TypeORM SQL Injection Vulnerability</div>",
+            "url": "https://github.com/dajneem23/CVE-2022-33171",
+            "title": "dajneem23/CVE-2022-33171: CVE-2022-33171: TypeORM SQL Injection Vulnerability",
+            "date_modified": "2025-12-08T10:21:14.000Z",
+            "date_published": "2025-12-08T10:17:22.000Z",
+            "author": {
+                "name": "dajneem23",
+                "url": "https://github.com/dajneem23"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/5783068?u=8ead6f35fa4c2d1fc565e6f080630d2bb299f41d&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Python implementation for NotProxyShell aka CVE-2022-40140 &amp; CVE-2022-41082</div>",
             "url": "https://github.com/ZephrFish/NotProxyShellScanner",
             "title": "ZephrFish/NotProxyShellScanner: Python implementation for NotProxyShell aka CVE-2022-40140 & CVE-2022-41082",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "xenosf",
                 "url": "https://github.com/xenosf"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/36844147?u=ee3c79d700f057cd5e0cf7a5aa6ea93601b91c4d&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>PoC for <a href=\"https://nvd.nist.gov/vuln/detail/CVE-2022-4361\" class=\"Link--inTextBlock\" rel=\"nofollow\">https://nvd.nist.gov/vuln/detail/CVE-2022-4361</a></div>",
-            "url": "https://github.com/faccimatteo/CVE-2022-4361",
-            "title": "faccimatteo/CVE-2022-4361: PoC for https://nvd.nist.gov/vuln/detail/CVE-2022-4361",
-            "date_modified": "2025-11-10T16:05:41.000Z",
-            "date_published": "2025-11-09T13:18:41.000Z",
-            "author": {
-                "name": "faccimatteo",
-                "url": "https://github.com/faccimatteo"
             }
         }
     ]
