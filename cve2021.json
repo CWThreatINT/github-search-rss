@@ -9,11 +9,22 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/206778611?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>🚀 Enhance your penetration testing with PwnKit Helper, a simple tool for exploiting the CVE-2021-4034 vulnerability in pkexec for local privilege escalation.</div>",
             "url": "https://github.com/kaisen-bot/pwnkit-helper",
             "title": "kaisen-bot/pwnkit-helper: 🚀 Enhance your penetration testing with PwnKit Helper, a simple tool for exploiting the CVE-2021-4034 vulnerability in pkexec for local privilege escalation.",
-            "date_modified": "2025-12-11T10:38:23.000Z",
+            "date_modified": "2025-12-11T11:56:08.000Z",
             "date_published": "2025-10-01T09:53:03.000Z",
             "author": {
                 "name": "kaisen-bot",
                 "url": "https://github.com/kaisen-bot"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/249087815?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2021-4045 CVE-2021-4045 is a Command Injection vulnerability that allows Remote Code Execution in the TP-Link Tapo c200 IP camera. It affects all firmware versions prior to 1.1.16 Build 211209 Rel. 37726N due to insufficient checks on user input in uhttpd, which is one of the main binaries of the device.</div>",
+            "url": "https://github.com/234329a423853/CVE-2021-4045",
+            "title": "234329a423853/CVE-2021-4045: CVE-2021-4045 CVE-2021-4045 is a Command Injection vulnerability that allows Remote Code Execution in the TP-Link Tapo c200 IP camera. It affects all firmware versions prior to 1.1.16 Build 211209 Rel. 37726N due to insufficient checks on user input in uhttpd, which is one of the main binaries of the device.",
+            "date_modified": "2025-12-11T11:15:51.000Z",
+            "date_published": "2025-12-11T11:14:47.000Z",
+            "author": {
+                "name": "234329a423853",
+                "url": "https://github.com/234329a423853"
             }
         },
         {
@@ -212,17 +223,6 @@
             "author": {
                 "name": "f3d0rq",
                 "url": "https://github.com/f3d0rq"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/185114324?u=565b9062922572d3d63cfd5984700988c661f2d4&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Environnement de démonstration pour la vulnérabilité CVE-2021-43008 d’Adminer : observer l’impact réel et tester des mesures de mitigation.</div>",
-            "url": "https://github.com/Bamolitho/adminer_CVE-2021-43008",
-            "title": "Bamolitho/adminer_CVE-2021-43008: Environnement de démonstration pour la vulnérabilité CVE-2021-43008 d’Adminer : observer l’impact réel et tester des mesures de mitigation.",
-            "date_modified": "2025-11-27T19:43:32.000Z",
-            "date_published": "2025-11-27T19:36:57.000Z",
-            "author": {
-                "name": "Bamolitho",
-                "url": "https://github.com/Bamolitho"
             }
         }
     ]
