@@ -9,11 +9,22 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/120130511?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>oob_entry tfp0 kernel exploit for armv7 iOS (iOS 3.0–10.3.4), using CVE-2023-32434. We will publish a write-up detailing the methods in the coming weeks. 🐙</div>",
             "url": "https://github.com/rkrakesh524/oob_entry",
             "title": "rkrakesh524/oob_entry: oob_entry tfp0 kernel exploit for armv7 iOS (iOS 3.0–10.3.4), using CVE-2023-32434. We will publish a write-up detailing the methods in the coming weeks. 🐙",
-            "date_modified": "2025-12-13T10:55:20.000Z",
+            "date_modified": "2025-12-13T13:05:55.000Z",
             "date_published": "2025-08-13T09:19:29.000Z",
             "author": {
                 "name": "rkrakesh524",
                 "url": "https://github.com/rkrakesh524"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/68143563?u=2990a4d68606d08316012ae0dab0daec849e8541&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A vulnerable web app that uses ReportLab library for CVE-2023-33733 </div>",
+            "url": "https://github.com/Rezy-Dev/Daily-Diary",
+            "title": "Rezy-Dev/Daily-Diary: A vulnerable web app that uses ReportLab library for CVE-2023-33733 ",
+            "date_modified": "2025-12-13T12:46:45.000Z",
+            "date_published": "2024-12-16T08:26:13.000Z",
+            "author": {
+                "name": "Rezy-Dev",
+                "url": "https://github.com/Rezy-Dev"
             }
         },
         {
@@ -212,17 +223,6 @@
             "author": {
                 "name": "NtGabrielGomes",
                 "url": "https://github.com/NtGabrielGomes"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/133569516?u=828ab8a5f93a985d9da7c90b9966b47718b8e01e&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
-            "url": "https://github.com/Lane0218/CVE-2023-25136-PoC",
-            "title": "Lane0218/CVE-2023-25136-PoC",
-            "date_modified": "2025-11-18T14:24:24.000Z",
-            "date_published": "2025-11-18T14:24:13.000Z",
-            "author": {
-                "name": "Lane0218",
-                "url": "https://github.com/Lane0218"
             }
         }
     ]
