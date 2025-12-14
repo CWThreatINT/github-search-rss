@@ -6,10 +6,21 @@
     "description": "CVE-2021 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/156805059?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Étude technique et mise en œuvre d'un environnement de test pour la faille Apache Log4j (CVE-2021-44228). Contient un Proof of Concept (PoC) Dockerisé et une proposition de mise à jour de PSSI. Pour un objectif de TP </div>",
+            "url": "https://github.com/Loliverte/Log4j-Vulnerability",
+            "title": "Loliverte/Log4j-Vulnerability: Étude technique et mise en œuvre d'un environnement de test pour la faille Apache Log4j (CVE-2021-44228). Contient un Proof of Concept (PoC) Dockerisé et une proposition de mise à jour de PSSI. Pour un objectif de TP ",
+            "date_modified": "2025-12-14T20:06:42.000Z",
+            "date_published": "2025-12-14T19:57:59.000Z",
+            "author": {
+                "name": "Loliverte",
+                "url": "https://github.com/Loliverte"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/206778611?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>🚀 Enhance your penetration testing with PwnKit Helper, a simple tool for exploiting the CVE-2021-4034 vulnerability in pkexec for local privilege escalation.</div>",
             "url": "https://github.com/kaisen-bot/pwnkit-helper",
             "title": "kaisen-bot/pwnkit-helper: 🚀 Enhance your penetration testing with PwnKit Helper, a simple tool for exploiting the CVE-2021-4034 vulnerability in pkexec for local privilege escalation.",
-            "date_modified": "2025-12-14T18:16:15.000Z",
+            "date_modified": "2025-12-14T19:43:07.000Z",
             "date_published": "2025-10-01T09:53:03.000Z",
             "author": {
                 "name": "kaisen-bot",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "joshuavanderpoll",
                 "url": "https://github.com/joshuavanderpoll"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/240767733?u=40f233858812b1fda0dd5dc6e924dd1bc0f1f030&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2021-43798 is a high-severity path traversal vulnerability (CVSS 3.1 score: 7.5) affecting Grafana versions 8.0.0-beta1 through 8.3.0. It allows unauthenticated attackers to read arbitrary files from the server by exploiting improper sanitization in the /public/plugins/:pluginId endpoint</div>",
-            "url": "https://github.com/f3d0rq/CVE-2021-43798",
-            "title": "f3d0rq/CVE-2021-43798: CVE-2021-43798 is a high-severity path traversal vulnerability (CVSS 3.1 score: 7.5) affecting Grafana versions 8.0.0-beta1 through 8.3.0. It allows unauthenticated attackers to read arbitrary files from the server by exploiting improper sanitization in the /public/plugins/:pluginId endpoint",
-            "date_modified": "2025-11-27T22:39:55.000Z",
-            "date_published": "2025-11-27T21:56:08.000Z",
-            "author": {
-                "name": "f3d0rq",
-                "url": "https://github.com/f3d0rq"
             }
         }
     ]
