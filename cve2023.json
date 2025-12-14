@@ -17,10 +17,10 @@
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/84002020?u=c47fd13ea886b2523e7013e7a33476c5d653a913&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div># F5 BIG-IP CVE-2023-46747 – Unauth RCE + Auto Reverse Shell Modified Nuclei template by raguraman ✓ Creates hidden admin   ✓ Instant TCP revshell (just edit LHOST/LPORT)   ✓ Works on all unpatched 13.x-17.x   <g-emoji class=\"g-emoji\" alias=\"warning\">⚠️</g-emoji> Authorized pentesting ONLY!   Patch: K000137353</div>",
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/84002020?u=c47fd13ea886b2523e7013e7a33476c5d653a913&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>#F5-BIG-IP-CVE-2023-46747-Exploit – Unauthenticated RCE   Python exploit &amp; Nuclei template by Raguraman   ✓ Automated TCP reverse shell (LHOST/LPORT)   ✓ Tested on affected BIG-IP 13.x–17.x   <g-emoji class=\"g-emoji\" alias=\"warning\">⚠️</g-emoji> Authorized pentesting only</div>",
             "url": "https://github.com/Razzlemouse/F5-BIG-IP-SmuggleShell-CVE-2023-46747-Exploit",
-            "title": "Razzlemouse/F5-BIG-IP-SmuggleShell-CVE-2023-46747-Exploit: # F5 BIG-IP CVE-2023-46747 – Unauth RCE + Auto Reverse Shell Modified Nuclei template by raguraman ✓ Creates hidden admin   ✓ Instant TCP revshell (just edit LHOST/LPORT)   ✓ Works on all unpatched 13.x-17.x   ⚠️ Authorized pentesting ONLY!   Patch: K000137353",
-            "date_modified": "2025-12-14T06:42:49.000Z",
+            "title": "Razzlemouse/F5-BIG-IP-SmuggleShell-CVE-2023-46747-Exploit: #F5-BIG-IP-CVE-2023-46747-Exploit – Unauthenticated RCE   Python exploit & Nuclei template by Raguraman   ✓ Automated TCP reverse shell (LHOST/LPORT)   ✓ Tested on affected BIG-IP 13.x–17.x   ⚠️ Authorized pentesting only",
+            "date_modified": "2025-12-14T13:26:04.000Z",
             "date_published": "2025-12-03T06:39:43.000Z",
             "author": {
                 "name": "Razzlemouse",
