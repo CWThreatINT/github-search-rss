@@ -6,6 +6,17 @@
     "description": "CVE-2023 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/120130511?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>oob_entry tfp0 kernel exploit for armv7 iOS (iOS 3.0–10.3.4), using CVE-2023-32434. We will publish a write-up detailing the methods in the coming weeks. 🐙</div>",
+            "url": "https://github.com/rkrakesh524/oob_entry",
+            "title": "rkrakesh524/oob_entry: oob_entry tfp0 kernel exploit for armv7 iOS (iOS 3.0–10.3.4), using CVE-2023-32434. We will publish a write-up detailing the methods in the coming weeks. 🐙",
+            "date_modified": "2025-12-15T11:07:59.000Z",
+            "date_published": "2025-08-13T09:19:29.000Z",
+            "author": {
+                "name": "rkrakesh524",
+                "url": "https://github.com/rkrakesh524"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/52894013?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A cybersecurity case study analysing CVE-2023-20198 in Cisco IOS XE, covering vulnerability exploitation, mitigation strategies, secure software development frameworks, and patch management policies, with practical insights from a controlled lab environment</div>",
             "url": "https://github.com/Religan/CVE-2023-20198",
             "title": "Religan/CVE-2023-20198: A cybersecurity case study analysing CVE-2023-20198 in Cisco IOS XE, covering vulnerability exploitation, mitigation strategies, secure software development frameworks, and patch management policies, with practical insights from a controlled lab environment",
@@ -14,17 +25,6 @@
             "author": {
                 "name": "Religan",
                 "url": "https://github.com/Religan"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/120130511?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>oob_entry tfp0 kernel exploit for armv7 iOS (iOS 3.0–10.3.4), using CVE-2023-32434. We will publish a write-up detailing the methods in the coming weeks. 🐙</div>",
-            "url": "https://github.com/rkrakesh524/oob_entry",
-            "title": "rkrakesh524/oob_entry: oob_entry tfp0 kernel exploit for armv7 iOS (iOS 3.0–10.3.4), using CVE-2023-32434. We will publish a write-up detailing the methods in the coming weeks. 🐙",
-            "date_modified": "2025-12-15T09:50:31.000Z",
-            "date_published": "2025-08-13T09:19:29.000Z",
-            "author": {
-                "name": "rkrakesh524",
-                "url": "https://github.com/rkrakesh524"
             }
         },
         {
