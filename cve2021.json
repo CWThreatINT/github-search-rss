@@ -6,6 +6,28 @@
     "description": "CVE-2021 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/82606401?u=29a4fbbe19560a0ad8324af36ff163a72d90dde2&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>polkit privilege escalation</div>",
+            "url": "https://github.com/m4lk3rnel/CVE-2021-3560",
+            "title": "m4lk3rnel/CVE-2021-3560: polkit privilege escalation",
+            "date_modified": "2025-12-17T15:34:33.000Z",
+            "date_published": "2025-12-17T15:21:06.000Z",
+            "author": {
+                "name": "m4lk3rnel",
+                "url": "https://github.com/m4lk3rnel"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/124419659?u=9f9294557dd5c472aa7754e1ea1a4fda0bd2ccb7&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Apache Solr &lt; 8.8.2 Server Side Request Forgery</div>",
+            "url": "https://github.com/RIZZZIOM/CVE-2021-27905",
+            "title": "RIZZZIOM/CVE-2021-27905: Apache Solr < 8.8.2 Server Side Request Forgery",
+            "date_modified": "2025-12-17T15:24:14.000Z",
+            "date_published": "2025-10-18T14:19:58.000Z",
+            "author": {
+                "name": "RIZZZIOM",
+                "url": "https://github.com/RIZZZIOM"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/206778611?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>🚀 Enhance your penetration testing with PwnKit Helper, a simple tool for exploiting the CVE-2021-4034 vulnerability in pkexec for local privilege escalation.</div>",
             "url": "https://github.com/kaisen-bot/pwnkit-helper",
             "title": "kaisen-bot/pwnkit-helper: 🚀 Enhance your penetration testing with PwnKit Helper, a simple tool for exploiting the CVE-2021-4034 vulnerability in pkexec for local privilege escalation.",
@@ -201,28 +223,6 @@
             "author": {
                 "name": "pratikjojode",
                 "url": "https://github.com/pratikjojode"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/75877299?u=51b4574b51af664efeced71677d95147b3cf0662&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>远程代码执行S2-062 CVE-2021-31805验证POC</div>",
-            "url": "https://github.com/pyroxenites/s2-062",
-            "title": "pyroxenites/s2-062: 远程代码执行S2-062 CVE-2021-31805验证POC",
-            "date_modified": "2025-12-05T05:19:42.000Z",
-            "date_published": "2022-04-15T01:50:14.000Z",
-            "author": {
-                "name": "pyroxenites",
-                "url": "https://github.com/pyroxenites"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/229107199?u=ebee5a0c6259cd969713a6bbaffd7d695388910f&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Docker container to setup a vulnerable elfinder version on both nginx and apache servers. Can be used to test vulnerability POC</div>",
-            "url": "https://github.com/0xnemian/CVE-2021-23394",
-            "title": "0xnemian/CVE-2021-23394: Docker container to setup a vulnerable elfinder version on both nginx and apache servers. Can be used to test vulnerability POC",
-            "date_modified": "2025-11-30T06:47:24.000Z",
-            "date_published": "2025-11-30T05:42:53.000Z",
-            "author": {
-                "name": "0xnemian",
-                "url": "https://github.com/0xnemian"
             }
         }
     ]
