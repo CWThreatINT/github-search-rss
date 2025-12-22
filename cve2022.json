@@ -6,6 +6,17 @@
     "description": "CVE-2022 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/4262359?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2022-41741/742 Nginx Vulnerability Scanner</div>",
+            "url": "https://github.com/moften/CVE-2022-41741-742-Nginx-Vulnerability-Scanner",
+            "title": "moften/CVE-2022-41741-742-Nginx-Vulnerability-Scanner: CVE-2022-41741/742 Nginx Vulnerability Scanner",
+            "date_modified": "2025-12-22T18:10:40.000Z",
+            "date_published": "2025-05-07T23:26:48.000Z",
+            "author": {
+                "name": "moften",
+                "url": "https://github.com/moften"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/250986110?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>An unauthenticated data extraction vulnerability in Kyocera printers, which allows for recovery of cleartext address book and domain joined passwords.</div>",
             "url": "https://github.com/h4po0n/kyocera-cve-2022-1026_SOAP1.1",
             "title": "h4po0n/kyocera-cve-2022-1026_SOAP1.1: An unauthenticated data extraction vulnerability in Kyocera printers, which allows for recovery of cleartext address book and domain joined passwords.",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "thepiyushkumarshukla",
                 "url": "https://github.com/thepiyushkumarshukla"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/245065620?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Fully automated Spring4Shell (CVE-2022-22965) + GitLab RCE framework</div>",
-            "url": "https://github.com/mylo-2001/GhostStrike",
-            "title": "mylo-2001/GhostStrike: Fully automated Spring4Shell (CVE-2022-22965) + GitLab RCE framework",
-            "date_modified": "2025-12-03T18:28:57.000Z",
-            "date_published": "2025-11-20T22:54:07.000Z",
-            "author": {
-                "name": "mylo-2001",
-                "url": "https://github.com/mylo-2001"
             }
         }
     ]
