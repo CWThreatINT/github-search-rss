@@ -6,6 +6,17 @@
     "description": "CVE-2021 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/92279844?u=2fbce18f20663b895bff27a071648c7609493ec8&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
+            "url": "https://github.com/lequoca/Camera-Dahua-CVE-2021-33045",
+            "title": "lequoca/Camera-Dahua-CVE-2021-33045",
+            "date_modified": "2025-12-22T07:04:54.000Z",
+            "date_published": "2025-12-22T07:04:49.000Z",
+            "author": {
+                "name": "lequoca",
+                "url": "https://github.com/lequoca"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/206778611?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>🚀 Enhance your penetration testing with PwnKit Helper, a simple tool for exploiting the CVE-2021-4034 vulnerability in pkexec for local privilege escalation.</div>",
             "url": "https://github.com/kaisen-bot/pwnkit-helper",
             "title": "kaisen-bot/pwnkit-helper: 🚀 Enhance your penetration testing with PwnKit Helper, a simple tool for exploiting the CVE-2021-4034 vulnerability in pkexec for local privilege escalation.",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "Wercd",
                 "url": "https://github.com/Wercd"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/48214280?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>This repo contain a PoC I have done when blind analysis the dbutil_2_3.sys driver for vulnerability. This was created by personal analysis without looking at writeups or even know which CVE exist in this driver. All the knowledge I have is that this driver is vulnerable in some way.</div>",
-            "url": "https://github.com/bengabay1994/cve-2021-21551-PoC",
-            "title": "bengabay1994/cve-2021-21551-PoC: This repo contain a PoC I have done when blind analysis the dbutil_2_3.sys driver for vulnerability. This was created by personal analysis without looking at writeups or even know which CVE exist in this driver. All the knowledge I have is that this driver is vulnerable in some way.",
-            "date_modified": "2025-12-02T19:48:32.000Z",
-            "date_published": "2025-12-02T19:47:51.000Z",
-            "author": {
-                "name": "bengabay1994",
-                "url": "https://github.com/bengabay1994"
             }
         }
     ]
