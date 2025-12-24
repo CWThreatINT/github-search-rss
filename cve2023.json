@@ -6,6 +6,17 @@
     "description": "CVE-2023 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/88237249?u=cd398d25351f423aa3a63e484205a6c673669936&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Reverse engineering and firmware analysis of the Samsung S3NRN82 NFC Controller. Includes protocol research, vulnerability analysis (CVE-2023-36482), and Proof-of-Concept tools.</div>",
+            "url": "https://github.com/qazianwar222/Samsung_S3NRN82_Research",
+            "title": "qazianwar222/Samsung_S3NRN82_Research: Reverse engineering and firmware analysis of the Samsung S3NRN82 NFC Controller. Includes protocol research, vulnerability analysis (CVE-2023-36482), and Proof-of-Concept tools.",
+            "date_modified": "2025-12-24T08:31:33.000Z",
+            "date_published": "2025-12-24T08:31:29.000Z",
+            "author": {
+                "name": "qazianwar222",
+                "url": "https://github.com/qazianwar222"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/120130511?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>oob_entry tfp0 kernel exploit for armv7 iOS (iOS 3.0–10.3.4), using CVE-2023-32434. We will publish a write-up detailing the methods in the coming weeks. 🐙</div>",
             "url": "https://github.com/rkrakesh524/oob_entry",
             "title": "rkrakesh524/oob_entry: oob_entry tfp0 kernel exploit for armv7 iOS (iOS 3.0–10.3.4), using CVE-2023-32434. We will publish a write-up detailing the methods in the coming weeks. 🐙",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "yunus-a1i",
                 "url": "https://github.com/yunus-a1i"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/142793060?u=14b49674b934792da990ff8b23a1f50fb912ee5e&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2023-1189 PoC &amp; Exploit</div>",
-            "url": "https://github.com/le0s1mba/CVE-2023-1189",
-            "title": "le0s1mba/CVE-2023-1189: CVE-2023-1189 PoC & Exploit",
-            "date_modified": "2025-12-22T00:31:54.000Z",
-            "date_published": "2025-11-26T13:18:00.000Z",
-            "author": {
-                "name": "le0s1mba",
-                "url": "https://github.com/le0s1mba"
             }
         }
     ]
