@@ -6,6 +6,17 @@
     "description": "CVE-2023 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/88533029?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>POC exploit for Dolibarr &lt;= 17.0.0 (CVE-2023-30253)</div>",
+            "url": "https://github.com/RazerYOU/POC-exploit-for-Dolibarr",
+            "title": "RazerYOU/POC-exploit-for-Dolibarr: POC exploit for Dolibarr <= 17.0.0 (CVE-2023-30253)",
+            "date_modified": "2025-12-24T11:10:27.000Z",
+            "date_published": "2025-12-24T11:03:58.000Z",
+            "author": {
+                "name": "RazerYOU",
+                "url": "https://github.com/RazerYOU"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/120130511?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>oob_entry tfp0 kernel exploit for armv7 iOS (iOS 3.0–10.3.4), using CVE-2023-32434. We will publish a write-up detailing the methods in the coming weeks. 🐙</div>",
             "url": "https://github.com/rkrakesh524/oob_entry",
             "title": "rkrakesh524/oob_entry: oob_entry tfp0 kernel exploit for armv7 iOS (iOS 3.0–10.3.4), using CVE-2023-32434. We will publish a write-up detailing the methods in the coming weeks. 🐙",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "cxdxnt",
                 "url": "https://github.com/cxdxnt"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/144136484?u=2bf5ca9b7bb5b2610ade053be87011642a83d966&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
-            "url": "https://github.com/yunus-a1i/veeam-cve-2023-27532-mock",
-            "title": "yunus-a1i/veeam-cve-2023-27532-mock",
-            "date_modified": "2025-11-26T17:22:46.000Z",
-            "date_published": "2025-11-26T16:37:47.000Z",
-            "author": {
-                "name": "yunus-a1i",
-                "url": "https://github.com/yunus-a1i"
             }
         }
     ]
