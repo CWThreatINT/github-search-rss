@@ -6,6 +6,17 @@
     "description": "CVE-2021 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/156817891?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Demo CVE 2021-3711 showing a Docker container crash.</div>",
+            "url": "https://github.com/Truyen08/CVE_2021_3711",
+            "title": "Truyen08/CVE_2021_3711: Demo CVE 2021-3711 showing a Docker container crash.",
+            "date_modified": "2025-12-29T14:10:08.000Z",
+            "date_published": "2025-12-29T14:10:04.000Z",
+            "author": {
+                "name": "Truyen08",
+                "url": "https://github.com/Truyen08"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/206778611?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>🚀 Enhance your penetration testing with PwnKit Helper, a simple tool for exploiting the CVE-2021-4034 vulnerability in pkexec for local privilege escalation.</div>",
             "url": "https://github.com/kaisen-bot/pwnkit-helper",
             "title": "kaisen-bot/pwnkit-helper: 🚀 Enhance your penetration testing with PwnKit Helper, a simple tool for exploiting the CVE-2021-4034 vulnerability in pkexec for local privilege escalation.",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "n0m-d",
                 "url": "https://github.com/n0m-d"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/197549034?u=2ace6c5ceaa6b0a3d0ff186bee868d09e13395f1&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Repositorio de investigación de seguridad que contiene una Prueba de Concepto (PoC) para la vulnerabilidad CVE-2021-4034 (PwnKit) y utilidades de scripting para la demostración de escalada de privilegios y ejecución remota en entornos Linux.</div>",
-            "url": "https://github.com/jscamposx/hack",
-            "title": "jscamposx/hack: Repositorio de investigación de seguridad que contiene una Prueba de Concepto (PoC) para la vulnerabilidad CVE-2021-4034 (PwnKit) y utilidades de scripting para la demostración de escalada de privilegios y ejecución remota en entornos Linux.",
-            "date_modified": "2025-12-05T20:06:33.000Z",
-            "date_published": "2025-06-05T23:59:04.000Z",
-            "author": {
-                "name": "jscamposx",
-                "url": "https://github.com/jscamposx"
             }
         }
     ]
