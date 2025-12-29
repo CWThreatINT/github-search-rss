@@ -6,6 +6,28 @@
     "description": "CVE-2022 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/69421356?u=089e0b1fac87102ae26b9214b7d7bffd9d38fe60&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>The manage engine mass loader for CVE-2022-47966</div>",
+            "url": "https://github.com/SystemVll/CVE-2022-47966",
+            "title": "SystemVll/CVE-2022-47966: The manage engine mass loader for CVE-2022-47966",
+            "date_modified": "2025-12-29T17:54:41.000Z",
+            "date_published": "2023-01-23T10:45:23.000Z",
+            "author": {
+                "name": "SystemVll",
+                "url": "https://github.com/SystemVll"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/69421356?u=089e0b1fac87102ae26b9214b7d7bffd9d38fe60&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Proof of concept for CVE-2022-31814</div>",
+            "url": "https://github.com/SystemVll/CVE-2022-31814",
+            "title": "SystemVll/CVE-2022-31814: Proof of concept for CVE-2022-31814",
+            "date_modified": "2025-12-29T17:14:17.000Z",
+            "date_published": "2025-01-16T13:59:45.000Z",
+            "author": {
+                "name": "SystemVll",
+                "url": "https://github.com/SystemVll"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/69421356?u=089e0b1fac87102ae26b9214b7d7bffd9d38fe60&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A bots loader for CVE-2022-29464 with multithreading</div>",
             "url": "https://github.com/SystemVll/CVE-2022-29464-loader",
             "title": "SystemVll/CVE-2022-29464-loader: A bots loader for CVE-2022-29464 with multithreading",
@@ -201,28 +223,6 @@
             "author": {
                 "name": "ninajafli",
                 "url": "https://github.com/ninajafli"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/152404430?u=8f95767c4b4a17424981fd2febab99f27296c879&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>cve 2021-36393, cve 2022-0332, cve 2024-43425</div>",
-            "url": "https://github.com/vuductruong12/KTLHPM",
-            "title": "vuductruong12/KTLHPM: cve 2021-36393, cve 2022-0332, cve 2024-43425",
-            "date_modified": "2025-11-27T05:52:15.000Z",
-            "date_published": "2025-11-27T03:55:33.000Z",
-            "author": {
-                "name": "vuductruong12",
-                "url": "https://github.com/vuductruong12"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/154502045?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Tutorial of CVE-2022-37969 with focus on the methodology of Kernel exploitation, not CVE's internal causes</div>",
-            "url": "https://github.com/EmilC3978/CVE-2022-37969PoC",
-            "title": "EmilC3978/CVE-2022-37969PoC: Tutorial of CVE-2022-37969 with focus on the methodology of Kernel exploitation, not CVE's internal causes",
-            "date_modified": "2025-12-24T10:56:28.000Z",
-            "date_published": "2025-11-25T10:36:51.000Z",
-            "author": {
-                "name": "EmilC3978",
-                "url": "https://github.com/EmilC3978"
             }
         }
     ]
