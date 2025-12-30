@@ -6,6 +6,28 @@
     "description": "CVE-2022 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/141505121?u=c5e18b97a10dc293a255c36d5eca1e81e8313ad5&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>PoC for CVE-2022-0324: Buffer Overflow in dhcp6relay of SONiC</div>",
+            "url": "https://github.com/ngtuonghung/CVE-2022-0324",
+            "title": "ngtuonghung/CVE-2022-0324: PoC for CVE-2022-0324: Buffer Overflow in dhcp6relay of SONiC",
+            "date_modified": "2025-12-30T14:20:24.000Z",
+            "date_published": "2025-11-09T03:54:42.000Z",
+            "author": {
+                "name": "ngtuonghung",
+                "url": "https://github.com/ngtuonghung"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/141505121?u=c5e18b97a10dc293a255c36d5eca1e81e8313ad5&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>PoC for Nimbuspwn: Linux Privilege Escalation via Path Traversal and TOCTOU in networkd-dispatcher</div>",
+            "url": "https://github.com/ngtuonghung/nimbuspwn-CVE-2022-29800-CVE-2022-29799",
+            "title": "ngtuonghung/nimbuspwn-CVE-2022-29800-CVE-2022-29799: PoC for Nimbuspwn: Linux Privilege Escalation via Path Traversal and TOCTOU in networkd-dispatcher",
+            "date_modified": "2025-12-30T14:19:36.000Z",
+            "date_published": "2025-11-09T09:06:25.000Z",
+            "author": {
+                "name": "ngtuonghung",
+                "url": "https://github.com/ngtuonghung"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/144504885?u=ef39bd1c6012f396c350ac786c770eef9e9c5923&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Exploit code for Clinic patient management system v1 unauth rce cpms rce CVE-2022-40471</div>",
             "url": "https://github.com/Dharan10/CVE-2022-40471",
             "title": "Dharan10/CVE-2022-40471: Exploit code for Clinic patient management system v1 unauth rce cpms rce CVE-2022-40471",
@@ -201,28 +223,6 @@
             "author": {
                 "name": "ZephrFish",
                 "url": "https://github.com/ZephrFish"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/5783068?u=8ead6f35fa4c2d1fc565e6f080630d2bb299f41d&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Exploit and Check Script for CVE 2022-1388</div>",
-            "url": "https://github.com/ZephrFish/F5-CVE-2022-1388-Exploit",
-            "title": "ZephrFish/F5-CVE-2022-1388-Exploit: Exploit and Check Script for CVE 2022-1388",
-            "date_modified": "2025-12-07T01:31:44.000Z",
-            "date_published": "2022-05-09T11:30:09.000Z",
-            "author": {
-                "name": "ZephrFish",
-                "url": "https://github.com/ZephrFish"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/211185346?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
-            "url": "https://github.com/iamdarshana/cve-2022-49186-research",
-            "title": "iamdarshana/cve-2022-49186-research",
-            "date_modified": "2025-12-06T16:25:49.000Z",
-            "date_published": "2025-12-06T16:07:17.000Z",
-            "author": {
-                "name": "iamdarshana",
-                "url": "https://github.com/iamdarshana"
             }
         }
     ]
