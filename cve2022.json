@@ -6,6 +6,17 @@
     "description": "CVE-2022 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/19864268?u=c0baa4506e9a8f32efb3b27d0905bcf39fc8b6f9&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Integer overflow in Apple ImageIO WebP parsing (macOS/iOS)</div>",
+            "url": "https://github.com/xpcmdshell/CVE-2022-26711",
+            "title": "xpcmdshell/CVE-2022-26711: Integer overflow in Apple ImageIO WebP parsing (macOS/iOS)",
+            "date_modified": "2026-01-01T08:47:43.000Z",
+            "date_published": "2026-01-01T08:34:24.000Z",
+            "author": {
+                "name": "xpcmdshell",
+                "url": "https://github.com/xpcmdshell"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/141505121?u=c5e18b97a10dc293a255c36d5eca1e81e8313ad5&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>PoC for CVE-2022-0324: Buffer Overflow in dhcp6relay of SONiC</div>",
             "url": "https://github.com/ngtuonghung/CVE-2022-0324",
             "title": "ngtuonghung/CVE-2022-0324: PoC for CVE-2022-0324: Buffer Overflow in dhcp6relay of SONiC",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "dajneem23",
                 "url": "https://github.com/dajneem23"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/5783068?u=8ead6f35fa4c2d1fc565e6f080630d2bb299f41d&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Python implementation for NotProxyShell aka CVE-2022-40140 &amp; CVE-2022-41082</div>",
-            "url": "https://github.com/ZephrFish/NotProxyShellScanner",
-            "title": "ZephrFish/NotProxyShellScanner: Python implementation for NotProxyShell aka CVE-2022-40140 & CVE-2022-41082",
-            "date_modified": "2025-12-07T01:33:27.000Z",
-            "date_published": "2022-10-07T08:10:00.000Z",
-            "author": {
-                "name": "ZephrFish",
-                "url": "https://github.com/ZephrFish"
             }
         }
     ]
