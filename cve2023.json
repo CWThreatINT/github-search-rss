@@ -9,11 +9,22 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/109359355?u=2e65e7e30813089e210f617a572c933ded25a9d5&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>PoC CVE-2023-28205: Apple WebKit Use-After-Free Vulnerability</div>",
             "url": "https://github.com/seregonwar/uaf-2023-28205",
             "title": "seregonwar/uaf-2023-28205: PoC CVE-2023-28205: Apple WebKit Use-After-Free Vulnerability",
-            "date_modified": "2026-01-04T12:02:09.000Z",
+            "date_modified": "2026-01-04T13:22:54.000Z",
             "date_published": "2026-01-04T11:27:01.000Z",
             "author": {
                 "name": "seregonwar",
                 "url": "https://github.com/seregonwar"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/107836920?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A PoC for CVE-2023-46604 written as part of SPS class for the Advanced Cyber Security master's at UPB.</div>",
+            "url": "https://github.com/RockyDesigne/SSP-Assignment-3-RCEYouLater",
+            "title": "RockyDesigne/SSP-Assignment-3-RCEYouLater: A PoC for CVE-2023-46604 written as part of SPS class for the Advanced Cyber Security master's at UPB.",
+            "date_modified": "2026-01-04T12:36:03.000Z",
+            "date_published": "2026-01-04T12:35:24.000Z",
+            "author": {
+                "name": "RockyDesigne",
+                "url": "https://github.com/RockyDesigne"
             }
         },
         {
@@ -212,17 +223,6 @@
             "author": {
                 "name": "tpirate",
                 "url": "https://github.com/tpirate"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/84002020?u=c47fd13ea886b2523e7013e7a33476c5d653a913&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>#F5-BIG-IP-CVE-2023-46747-Exploit – Unauthenticated RCE   Python exploit &amp; Nuclei template by Raguraman   ✓ Automated TCP reverse shell (LHOST/LPORT)   ✓ Tested on affected BIG-IP 13.x–17.x   <g-emoji class=\"g-emoji\" alias=\"warning\">⚠️</g-emoji> Authorized pentesting only</div>",
-            "url": "https://github.com/Razzlemouse/F5-BIG-IP-SmuggleShell-CVE-2023-46747-Exploit",
-            "title": "Razzlemouse/F5-BIG-IP-SmuggleShell-CVE-2023-46747-Exploit: #F5-BIG-IP-CVE-2023-46747-Exploit – Unauthenticated RCE   Python exploit & Nuclei template by Raguraman   ✓ Automated TCP reverse shell (LHOST/LPORT)   ✓ Tested on affected BIG-IP 13.x–17.x   ⚠️ Authorized pentesting only",
-            "date_modified": "2025-12-14T13:26:04.000Z",
-            "date_published": "2025-12-03T06:39:43.000Z",
-            "author": {
-                "name": "Razzlemouse",
-                "url": "https://github.com/Razzlemouse"
             }
         }
     ]
