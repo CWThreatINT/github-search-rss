@@ -6,6 +6,17 @@
     "description": "CVE-2023 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/109359355?u=2e65e7e30813089e210f617a572c933ded25a9d5&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>PoC CVE-2023-28205: Apple WebKit Use-After-Free Vulnerability</div>",
+            "url": "https://github.com/seregonwar/uaf-2023-28205",
+            "title": "seregonwar/uaf-2023-28205: PoC CVE-2023-28205: Apple WebKit Use-After-Free Vulnerability",
+            "date_modified": "2026-01-04T21:34:07.000Z",
+            "date_published": "2026-01-04T11:27:01.000Z",
+            "author": {
+                "name": "seregonwar",
+                "url": "https://github.com/seregonwar"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/120130511?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>oob_entry tfp0 kernel exploit for armv7 iOS (iOS 3.0–10.3.4), using CVE-2023-32434. We will publish a write-up detailing the methods in the coming weeks. 🐙</div>",
             "url": "https://github.com/rkrakesh524/oob_entry",
             "title": "rkrakesh524/oob_entry: oob_entry tfp0 kernel exploit for armv7 iOS (iOS 3.0–10.3.4), using CVE-2023-32434. We will publish a write-up detailing the methods in the coming weeks. 🐙",
@@ -14,17 +25,6 @@
             "author": {
                 "name": "rkrakesh524",
                 "url": "https://github.com/rkrakesh524"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/109359355?u=2e65e7e30813089e210f617a572c933ded25a9d5&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>PoC CVE-2023-28205: Apple WebKit Use-After-Free Vulnerability</div>",
-            "url": "https://github.com/seregonwar/uaf-2023-28205",
-            "title": "seregonwar/uaf-2023-28205: PoC CVE-2023-28205: Apple WebKit Use-After-Free Vulnerability",
-            "date_modified": "2026-01-04T16:27:29.000Z",
-            "date_published": "2026-01-04T11:27:01.000Z",
-            "author": {
-                "name": "seregonwar",
-                "url": "https://github.com/seregonwar"
             }
         },
         {
