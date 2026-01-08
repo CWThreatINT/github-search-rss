@@ -6,6 +6,61 @@
     "description": "CVE-2023 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/88535377?u=43d289d1253066a5204caec7aa2236f53055b8df&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Remote Code Execution on Junos OS CVE-2023-36846</div>",
+            "url": "https://github.com/Chocapikk/CVE-2023-36846",
+            "title": "Chocapikk/CVE-2023-36846: Remote Code Execution on Junos OS CVE-2023-36846",
+            "date_modified": "2026-01-08T16:09:07.000Z",
+            "date_published": "2023-08-29T18:50:49.000Z",
+            "author": {
+                "name": "Chocapikk",
+                "url": "https://github.com/Chocapikk"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/88535377?u=43d289d1253066a5204caec7aa2236f53055b8df&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Remote Unauthenticated API Access Vulnerability in MobileIron Core 11.2 and older</div>",
+            "url": "https://github.com/Chocapikk/CVE-2023-35082",
+            "title": "Chocapikk/CVE-2023-35082: Remote Unauthenticated API Access Vulnerability in MobileIron Core 11.2 and older",
+            "date_modified": "2026-01-08T16:09:06.000Z",
+            "date_published": "2023-08-04T16:25:24.000Z",
+            "author": {
+                "name": "Chocapikk",
+                "url": "https://github.com/Chocapikk"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/88535377?u=43d289d1253066a5204caec7aa2236f53055b8df&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Automated vulnerability scanner for CVE-2023-28432 in Minio deployments, revealing sensitive environment variables.</div>",
+            "url": "https://github.com/Chocapikk/CVE-2023-28432",
+            "title": "Chocapikk/CVE-2023-28432: Automated vulnerability scanner for CVE-2023-28432 in Minio deployments, revealing sensitive environment variables.",
+            "date_modified": "2026-01-08T16:09:05.000Z",
+            "date_published": "2023-09-05T14:01:53.000Z",
+            "author": {
+                "name": "Chocapikk",
+                "url": "https://github.com/Chocapikk"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/88535377?u=43d289d1253066a5204caec7aa2236f53055b8df&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Citrix ADC RCE CVE-2023-3519</div>",
+            "url": "https://github.com/Chocapikk/CVE-2023-3519",
+            "title": "Chocapikk/CVE-2023-3519: Citrix ADC RCE CVE-2023-3519",
+            "date_modified": "2026-01-08T16:09:03.000Z",
+            "date_published": "2023-08-24T12:24:24.000Z",
+            "author": {
+                "name": "Chocapikk",
+                "url": "https://github.com/Chocapikk"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/120130511?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>oob_entry tfp0 kernel exploit for armv7 iOS (iOS 3.0–10.3.4), using CVE-2023-32434. We will publish a write-up detailing the methods in the coming weeks. 🐙</div>",
+            "url": "https://github.com/rkrakesh524/oob_entry",
+            "title": "rkrakesh524/oob_entry: oob_entry tfp0 kernel exploit for armv7 iOS (iOS 3.0–10.3.4), using CVE-2023-32434. We will publish a write-up detailing the methods in the coming weeks. 🐙",
+            "date_modified": "2026-01-08T15:49:58.000Z",
+            "date_published": "2025-08-13T09:19:29.000Z",
+            "author": {
+                "name": "rkrakesh524",
+                "url": "https://github.com/rkrakesh524"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/214546144?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>🔒 Analyze the CVE-2023-39910 vulnerability in Libbitcoin Explorer to understand its impact on Bitcoin wallet security and protect your assets.</div>",
             "url": "https://github.com/Hitplus/RingSide-Replay-Attack",
             "title": "Hitplus/RingSide-Replay-Attack: 🔒 Analyze the CVE-2023-39910 vulnerability in Libbitcoin Explorer to understand its impact on Bitcoin wallet security and protect your assets.",
@@ -14,17 +69,6 @@
             "author": {
                 "name": "Hitplus",
                 "url": "https://github.com/Hitplus"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/120130511?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>oob_entry tfp0 kernel exploit for armv7 iOS (iOS 3.0–10.3.4), using CVE-2023-32434. We will publish a write-up detailing the methods in the coming weeks. 🐙</div>",
-            "url": "https://github.com/rkrakesh524/oob_entry",
-            "title": "rkrakesh524/oob_entry: oob_entry tfp0 kernel exploit for armv7 iOS (iOS 3.0–10.3.4), using CVE-2023-32434. We will publish a write-up detailing the methods in the coming weeks. 🐙",
-            "date_modified": "2026-01-08T13:30:44.000Z",
-            "date_published": "2025-08-13T09:19:29.000Z",
-            "author": {
-                "name": "rkrakesh524",
-                "url": "https://github.com/rkrakesh524"
             }
         },
         {
@@ -179,50 +223,6 @@
             "author": {
                 "name": "0xAtharv",
                 "url": "https://github.com/0xAtharv"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/74436110?u=20b71107951942f9f08934e23ce17572d41d2044&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Repo containing pyarrow 14.0.0, vulnerable to RCE - CVE-2023-47248</div>",
-            "url": "https://github.com/Prodigysec/pyarrow-CVE-2023-47248",
-            "title": "Prodigysec/pyarrow-CVE-2023-47248: Repo containing pyarrow 14.0.0, vulnerable to RCE - CVE-2023-47248",
-            "date_modified": "2025-12-27T18:03:01.000Z",
-            "date_published": "2025-12-27T17:14:15.000Z",
-            "author": {
-                "name": "Prodigysec",
-                "url": "https://github.com/Prodigysec"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/93317127?u=0c868948c73e5bc6e143f8f3d86a44e535e26412&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2023-5360 PoC: Unauthenticated arbitrary file upload leading to RCE in Royal Elementor Addons (≤ 1.3.78), written in pure Python.</div>",
-            "url": "https://github.com/LaviruDilshan/CVE-2023-5360-exploit-with-native-libraries",
-            "title": "LaviruDilshan/CVE-2023-5360-exploit-with-native-libraries: CVE-2023-5360 PoC: Unauthenticated arbitrary file upload leading to RCE in Royal Elementor Addons (≤ 1.3.78), written in pure Python.",
-            "date_modified": "2025-12-27T13:28:39.000Z",
-            "date_published": "2025-12-27T13:27:41.000Z",
-            "author": {
-                "name": "LaviruDilshan",
-                "url": "https://github.com/LaviruDilshan"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/88818249?u=a40e65edb5ad2d02a581ab603f639325ae0b7b67&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
-            "url": "https://github.com/KirolosKhairy/CVE-2023-27372",
-            "title": "KirolosKhairy/CVE-2023-27372",
-            "date_modified": "2025-12-26T05:07:51.000Z",
-            "date_published": "2025-12-26T04:46:21.000Z",
-            "author": {
-                "name": "KirolosKhairy",
-                "url": "https://github.com/KirolosKhairy"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/99860218?u=255016783306fbca38db08b1c853eff035d294e5&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2023-38831 ZIP Structure Detection Framework</div>",
-            "url": "https://github.com/ouoxii/Software-Testing-Final-Project",
-            "title": "ouoxii/Software-Testing-Final-Project: CVE-2023-38831 ZIP Structure Detection Framework",
-            "date_modified": "2025-12-24T21:38:00.000Z",
-            "date_published": "2025-11-19T15:01:11.000Z",
-            "author": {
-                "name": "ouoxii",
-                "url": "https://github.com/ouoxii"
             }
         }
     ]
