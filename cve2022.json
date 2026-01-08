@@ -42,7 +42,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/117078126?u=75e7b5ee0f55571bd90a59c3ff3bfceb3bf9d127&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Proof of Concept (PoC) for CVE-2022-42889 (Text4Shell) targeting Apache Commons Text versions prior to 1.10.0. This script automates Remote Code Execution (RCE) via script interpolation to establish a reverse shell. This version is a structured optimization based on the original exploit found at Exploit-DB (ID: 52261).</div>",
             "url": "https://github.com/Goultarde/CVE-2022-42889-text4shell",
             "title": "Goultarde/CVE-2022-42889-text4shell: Proof of Concept (PoC) for CVE-2022-42889 (Text4Shell) targeting Apache Commons Text versions prior to 1.10.0. This script automates Remote Code Execution (RCE) via script interpolation to establish a reverse shell. This version is a structured optimization based on the original exploit found at Exploit-DB (ID: 52261).",
-            "date_modified": "2026-01-02T05:59:03.000Z",
+            "date_modified": "2026-01-08T18:16:50.000Z",
             "date_published": "2026-01-02T05:55:49.000Z",
             "author": {
                 "name": "Goultarde",
