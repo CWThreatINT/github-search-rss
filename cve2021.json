@@ -6,6 +6,17 @@
     "description": "CVE-2021 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/9071066?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2021-4379 Enumeration Tools</div>",
+            "url": "https://github.com/baktistr/cve-2021-43789-enum",
+            "title": "baktistr/cve-2021-43789-enum: CVE-2021-4379 Enumeration Tools",
+            "date_modified": "2026-01-08T21:05:42.000Z",
+            "date_published": "2026-01-08T20:52:19.000Z",
+            "author": {
+                "name": "baktistr",
+                "url": "https://github.com/baktistr"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/206778611?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>🚀 Enhance your penetration testing with PwnKit Helper, a simple tool for exploiting the CVE-2021-4034 vulnerability in pkexec for local privilege escalation.</div>",
             "url": "https://github.com/kaisen-bot/pwnkit-helper",
             "title": "kaisen-bot/pwnkit-helper: 🚀 Enhance your penetration testing with PwnKit Helper, a simple tool for exploiting the CVE-2021-4034 vulnerability in pkexec for local privilege escalation.",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "234329a423853",
                 "url": "https://github.com/234329a423853"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/5783068?u=8ead6f35fa4c2d1fc565e6f080630d2bb299f41d&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>patched to work</div>",
-            "url": "https://github.com/ZephrFish/Exch-CVE-2021-26855_Priv",
-            "title": "ZephrFish/Exch-CVE-2021-26855_Priv: patched to work",
-            "date_modified": "2025-12-07T01:31:38.000Z",
-            "date_published": "2021-03-15T12:33:04.000Z",
-            "author": {
-                "name": "ZephrFish",
-                "url": "https://github.com/ZephrFish"
             }
         }
     ]
