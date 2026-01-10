@@ -6,6 +6,28 @@
     "description": "CVE-2023 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/107836920?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A PoC for CVE-2023-46604 written as part of SPS class for the Advanced Cyber Security master's at UPB.</div>",
+            "url": "https://github.com/RockyDesigne/SSP-Assignment-3-RCEYouLater",
+            "title": "RockyDesigne/SSP-Assignment-3-RCEYouLater: A PoC for CVE-2023-46604 written as part of SPS class for the Advanced Cyber Security master's at UPB.",
+            "date_modified": "2026-01-10T09:33:18.000Z",
+            "date_published": "2026-01-04T12:35:24.000Z",
+            "author": {
+                "name": "RockyDesigne",
+                "url": "https://github.com/RockyDesigne"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/120130511?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>oob_entry tfp0 kernel exploit for armv7 iOS (iOS 3.0–10.3.4), using CVE-2023-32434. We will publish a write-up detailing the methods in the coming weeks. 🐙</div>",
+            "url": "https://github.com/rkrakesh524/oob_entry",
+            "title": "rkrakesh524/oob_entry: oob_entry tfp0 kernel exploit for armv7 iOS (iOS 3.0–10.3.4), using CVE-2023-32434. We will publish a write-up detailing the methods in the coming weeks. 🐙",
+            "date_modified": "2026-01-10T09:31:28.000Z",
+            "date_published": "2025-08-13T09:19:29.000Z",
+            "author": {
+                "name": "rkrakesh524",
+                "url": "https://github.com/rkrakesh524"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/214546144?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>🔒 Analyze the CVE-2023-39910 vulnerability in Libbitcoin Explorer to understand its impact on Bitcoin wallet security and protect your assets.</div>",
             "url": "https://github.com/Hitplus/RingSide-Replay-Attack",
             "title": "Hitplus/RingSide-Replay-Attack: 🔒 Analyze the CVE-2023-39910 vulnerability in Libbitcoin Explorer to understand its impact on Bitcoin wallet security and protect your assets.",
@@ -14,17 +36,6 @@
             "author": {
                 "name": "Hitplus",
                 "url": "https://github.com/Hitplus"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/120130511?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>oob_entry tfp0 kernel exploit for armv7 iOS (iOS 3.0–10.3.4), using CVE-2023-32434. We will publish a write-up detailing the methods in the coming weeks. 🐙</div>",
-            "url": "https://github.com/rkrakesh524/oob_entry",
-            "title": "rkrakesh524/oob_entry: oob_entry tfp0 kernel exploit for armv7 iOS (iOS 3.0–10.3.4), using CVE-2023-32434. We will publish a write-up detailing the methods in the coming weeks. 🐙",
-            "date_modified": "2026-01-10T07:27:12.000Z",
-            "date_published": "2025-08-13T09:19:29.000Z",
-            "author": {
-                "name": "rkrakesh524",
-                "url": "https://github.com/rkrakesh524"
             }
         },
         {
@@ -201,17 +212,6 @@
             "author": {
                 "name": "seregonwar",
                 "url": "https://github.com/seregonwar"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/107836920?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A PoC for CVE-2023-46604 written as part of SPS class for the Advanced Cyber Security master's at UPB.</div>",
-            "url": "https://github.com/RockyDesigne/SSP-Assignment-3-RCEYouLater",
-            "title": "RockyDesigne/SSP-Assignment-3-RCEYouLater: A PoC for CVE-2023-46604 written as part of SPS class for the Advanced Cyber Security master's at UPB.",
-            "date_modified": "2026-01-04T12:36:03.000Z",
-            "date_published": "2026-01-04T12:35:24.000Z",
-            "author": {
-                "name": "RockyDesigne",
-                "url": "https://github.com/RockyDesigne"
             }
         },
         {
