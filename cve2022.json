@@ -6,6 +6,17 @@
     "description": "CVE-2022 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/254159099?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A security-patched fork of the legacy ClickFunnels Classic WordPress plugin. Fixes critical Stored XSS vulnerabilities (CVE-2022-4782) while maintaining original API functionality for existing funnels. Maintained by WP Republic.</div>",
+            "url": "https://github.com/Sudo-WP/clickfunnels-zurich",
+            "title": "Sudo-WP/clickfunnels-zurich: A security-patched fork of the legacy ClickFunnels Classic WordPress plugin. Fixes critical Stored XSS vulnerabilities (CVE-2022-4782) while maintaining original API functionality for existing funnels. Maintained by WP Republic.",
+            "date_modified": "2026-01-10T19:02:07.000Z",
+            "date_published": "2026-01-08T16:39:56.000Z",
+            "author": {
+                "name": "Sudo-WP",
+                "url": "https://github.com/Sudo-WP"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/134297029?u=3068048529b6cbd981b908552cd40b19c07945cb&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2022-23779 is a security vulnerability in Zoho ManageEngine Desktop Central  ,Testing for CVE-2022-23779 using curl </div>",
             "url": "https://github.com/Rishi-kaul/CVE-2022-23779",
             "title": "Rishi-kaul/CVE-2022-23779: CVE-2022-23779 is a security vulnerability in Zoho ManageEngine Desktop Central  ,Testing for CVE-2022-23779 using curl ",
@@ -25,17 +36,6 @@
             "author": {
                 "name": "SpiralBL0CK",
                 "url": "https://github.com/SpiralBL0CK"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/3614806?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A security-patched fork of the legacy ClickFunnels Classic WordPress plugin. Fixes critical Stored XSS vulnerabilities (CVE-2022-4782) while maintaining original API functionality for existing funnels. Maintained by WP Republic.</div>",
-            "url": "https://github.com/makmour/clickfunnels-zurich",
-            "title": "makmour/clickfunnels-zurich: A security-patched fork of the legacy ClickFunnels Classic WordPress plugin. Fixes critical Stored XSS vulnerabilities (CVE-2022-4782) while maintaining original API functionality for existing funnels. Maintained by WP Republic.",
-            "date_modified": "2026-01-08T17:42:53.000Z",
-            "date_published": "2026-01-08T16:39:56.000Z",
-            "author": {
-                "name": "makmour",
-                "url": "https://github.com/makmour"
             }
         },
         {
