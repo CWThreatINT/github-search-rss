@@ -6,6 +6,17 @@
     "description": "CVE-2023 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/196732358?u=1644c94ab20e30109f36a9f9e3d1e01fa8f1d19a&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>PoC for AMD Ryzen driver. </div>",
+            "url": "https://github.com/NtGabrielGomes/CVE-2023-20564",
+            "title": "NtGabrielGomes/CVE-2023-20564: PoC for AMD Ryzen driver. ",
+            "date_modified": "2026-01-12T18:32:41.000Z",
+            "date_published": "2025-11-18T12:59:55.000Z",
+            "author": {
+                "name": "NtGabrielGomes",
+                "url": "https://github.com/NtGabrielGomes"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/120130511?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>oob_entry tfp0 kernel exploit for armv7 iOS (iOS 3.0–10.3.4), using CVE-2023-32434. We will publish a write-up detailing the methods in the coming weeks. 🐙</div>",
             "url": "https://github.com/rkrakesh524/oob_entry",
             "title": "rkrakesh524/oob_entry: oob_entry tfp0 kernel exploit for armv7 iOS (iOS 3.0–10.3.4), using CVE-2023-32434. We will publish a write-up detailing the methods in the coming weeks. 🐙",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "bbaranoff",
                 "url": "https://github.com/bbaranoff"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/109359355?u=2e65e7e30813089e210f617a572c933ded25a9d5&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>PoC CVE-2023-28205: Apple WebKit Use-After-Free Vulnerability</div>",
-            "url": "https://github.com/seregonwar/uaf-2023-28205",
-            "title": "seregonwar/uaf-2023-28205: PoC CVE-2023-28205: Apple WebKit Use-After-Free Vulnerability",
-            "date_modified": "2026-01-06T19:55:28.000Z",
-            "date_published": "2026-01-04T11:27:01.000Z",
-            "author": {
-                "name": "seregonwar",
-                "url": "https://github.com/seregonwar"
             }
         }
     ]

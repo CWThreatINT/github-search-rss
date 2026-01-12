@@ -6,6 +6,17 @@
     "description": "CVE-2022 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/238779459?u=9f828790d8ba2ad5efc3ee4a565e27cd10343bf1&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Analysis of CVE-2022-50691</div>",
+            "url": "https://github.com/b1gchoi/CVE-2022-50691",
+            "title": "b1gchoi/CVE-2022-50691: Analysis of CVE-2022-50691",
+            "date_modified": "2026-01-12T18:42:54.000Z",
+            "date_published": "2026-01-12T18:42:47.000Z",
+            "author": {
+                "name": "b1gchoi",
+                "url": "https://github.com/b1gchoi"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/254159099?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A security-patched fork of the legacy ClickFunnels Classic WordPress plugin. Fixes critical Stored XSS vulnerabilities (CVE-2022-4782) while maintaining original API functionality for existing funnels. Maintained by WP Republic.</div>",
             "url": "https://github.com/Sudo-WP/sudowp-clickfunnels-zurich",
             "title": "Sudo-WP/sudowp-clickfunnels-zurich: A security-patched fork of the legacy ClickFunnels Classic WordPress plugin. Fixes critical Stored XSS vulnerabilities (CVE-2022-4782) while maintaining original API functionality for existing funnels. Maintained by WP Republic.",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "MoisesTapia",
                 "url": "https://github.com/MoisesTapia"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/185623700?u=ee91a8763a1142318ed0bead9ddb604897521a27&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2022-0492</div>",
-            "url": "https://github.com/smallcat9612/CVE-2022-0492-Docker-Breakout-Checker-and-PoC",
-            "title": "smallcat9612/CVE-2022-0492-Docker-Breakout-Checker-and-PoC: CVE-2022-0492",
-            "date_modified": "2025-12-16T19:03:01.000Z",
-            "date_published": "2025-12-16T19:03:00.000Z",
-            "author": {
-                "name": "smallcat9612",
-                "url": "https://github.com/smallcat9612"
             }
         }
     ]
