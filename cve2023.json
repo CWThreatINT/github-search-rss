@@ -6,6 +6,39 @@
     "description": "CVE-2023 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/58617279?u=5cdc13adfa6640b18971fd56d3e21bb54659c976&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2023-38831 - WinRAR</div>",
+            "url": "https://github.com/mishra0230/CVE-2023-38831",
+            "title": "mishra0230/CVE-2023-38831: CVE-2023-38831 - WinRAR",
+            "date_modified": "2026-01-12T12:22:41.000Z",
+            "date_published": "2026-01-09T14:14:24.000Z",
+            "author": {
+                "name": "mishra0230",
+                "url": "https://github.com/mishra0230"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/214546144?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>🔒 Analyze the CVE-2023-39910 vulnerability in Libbitcoin Explorer to understand its impact on Bitcoin wallet security and protect your assets.</div>",
+            "url": "https://github.com/Hitplus/RingSide-Replay-Attack",
+            "title": "Hitplus/RingSide-Replay-Attack: 🔒 Analyze the CVE-2023-39910 vulnerability in Libbitcoin Explorer to understand its impact on Bitcoin wallet security and protect your assets.",
+            "date_modified": "2026-01-12T11:40:14.000Z",
+            "date_published": "2026-01-07T14:24:08.000Z",
+            "author": {
+                "name": "Hitplus",
+                "url": "https://github.com/Hitplus"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/74649794?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE 2023-22515</div>",
+            "url": "https://github.com/Onedy1703/CVE-2023-22515-Confluence",
+            "title": "Onedy1703/CVE-2023-22515-Confluence: CVE 2023-22515",
+            "date_modified": "2026-01-12T11:20:00.000Z",
+            "date_published": "2024-07-21T17:19:36.000Z",
+            "author": {
+                "name": "Onedy1703",
+                "url": "https://github.com/Onedy1703"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/120130511?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>oob_entry tfp0 kernel exploit for armv7 iOS (iOS 3.0–10.3.4), using CVE-2023-32434. We will publish a write-up detailing the methods in the coming weeks. 🐙</div>",
             "url": "https://github.com/rkrakesh524/oob_entry",
             "title": "rkrakesh524/oob_entry: oob_entry tfp0 kernel exploit for armv7 iOS (iOS 3.0–10.3.4), using CVE-2023-32434. We will publish a write-up detailing the methods in the coming weeks. 🐙",
@@ -14,28 +47,6 @@
             "author": {
                 "name": "rkrakesh524",
                 "url": "https://github.com/rkrakesh524"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/214546144?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>🔒 Analyze the CVE-2023-39910 vulnerability in Libbitcoin Explorer to understand its impact on Bitcoin wallet security and protect your assets.</div>",
-            "url": "https://github.com/Hitplus/RingSide-Replay-Attack",
-            "title": "Hitplus/RingSide-Replay-Attack: 🔒 Analyze the CVE-2023-39910 vulnerability in Libbitcoin Explorer to understand its impact on Bitcoin wallet security and protect your assets.",
-            "date_modified": "2026-01-12T10:08:59.000Z",
-            "date_published": "2026-01-07T14:24:08.000Z",
-            "author": {
-                "name": "Hitplus",
-                "url": "https://github.com/Hitplus"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/58617279?u=5cdc13adfa6640b18971fd56d3e21bb54659c976&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2023-38831 - WinRAR</div>",
-            "url": "https://github.com/mishra0230/CVE-2023-38831",
-            "title": "mishra0230/CVE-2023-38831: CVE-2023-38831 - WinRAR",
-            "date_modified": "2026-01-12T05:27:10.000Z",
-            "date_published": "2026-01-09T14:14:24.000Z",
-            "author": {
-                "name": "mishra0230",
-                "url": "https://github.com/mishra0230"
             }
         },
         {
@@ -212,17 +223,6 @@
             "author": {
                 "name": "seregonwar",
                 "url": "https://github.com/seregonwar"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/196732358?u=1644c94ab20e30109f36a9f9e3d1e01fa8f1d19a&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>PoC for AMD Ryzen driver. </div>",
-            "url": "https://github.com/NtGabrielGomes/CVE-2023-20564",
-            "title": "NtGabrielGomes/CVE-2023-20564: PoC for AMD Ryzen driver. ",
-            "date_modified": "2026-01-07T11:03:37.000Z",
-            "date_published": "2025-11-18T12:59:55.000Z",
-            "author": {
-                "name": "NtGabrielGomes",
-                "url": "https://github.com/NtGabrielGomes"
             }
         }
     ]
