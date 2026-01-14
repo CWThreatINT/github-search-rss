@@ -6,6 +6,17 @@
     "description": "CVE-2021 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/67196966?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>HTTP Request Smuggling</div>",
+            "url": "https://github.com/BoianEduard/CVE-2021-40346",
+            "title": "BoianEduard/CVE-2021-40346: HTTP Request Smuggling",
+            "date_modified": "2026-01-14T13:30:36.000Z",
+            "date_published": "2025-12-21T16:47:27.000Z",
+            "author": {
+                "name": "BoianEduard",
+                "url": "https://github.com/BoianEduard"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/206778611?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>🚀 Enhance your penetration testing with PwnKit Helper, a simple tool for exploiting the CVE-2021-4034 vulnerability in pkexec for local privilege escalation.</div>",
             "url": "https://github.com/kaisen-bot/pwnkit-helper",
             "title": "kaisen-bot/pwnkit-helper: 🚀 Enhance your penetration testing with PwnKit Helper, a simple tool for exploiting the CVE-2021-4034 vulnerability in pkexec for local privilege escalation.",
@@ -14,17 +25,6 @@
             "author": {
                 "name": "kaisen-bot",
                 "url": "https://github.com/kaisen-bot"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/67196966?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>HTTP Request Smuggling</div>",
-            "url": "https://github.com/BoianEduard/CVE-2021-40346",
-            "title": "BoianEduard/CVE-2021-40346: HTTP Request Smuggling",
-            "date_modified": "2026-01-12T21:19:58.000Z",
-            "date_published": "2025-12-21T16:47:27.000Z",
-            "author": {
-                "name": "BoianEduard",
-                "url": "https://github.com/BoianEduard"
             }
         },
         {
