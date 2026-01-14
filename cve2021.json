@@ -6,10 +6,21 @@
     "description": "CVE-2021 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/222647469?u=4f1f1bf13d6d20222a0a81cd3515112f15912aad&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>beginner friendly write-up for the TryHackMe easy level module- polkit:CVE-2021-3560</div>",
+            "url": "https://github.com/realatharva15/polkit-CVE-2021-3560_writeup",
+            "title": "realatharva15/polkit-CVE-2021-3560_writeup: beginner friendly write-up for the TryHackMe easy level module- polkit:CVE-2021-3560",
+            "date_modified": "2026-01-14T18:17:17.000Z",
+            "date_published": "2026-01-14T18:16:22.000Z",
+            "author": {
+                "name": "realatharva15",
+                "url": "https://github.com/realatharva15"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/206778611?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>🚀 Enhance your penetration testing with PwnKit Helper, a simple tool for exploiting the CVE-2021-4034 vulnerability in pkexec for local privilege escalation.</div>",
             "url": "https://github.com/kaisen-bot/pwnkit-helper",
             "title": "kaisen-bot/pwnkit-helper: 🚀 Enhance your penetration testing with PwnKit Helper, a simple tool for exploiting the CVE-2021-4034 vulnerability in pkexec for local privilege escalation.",
-            "date_modified": "2026-01-14T15:54:51.000Z",
+            "date_modified": "2026-01-14T18:10:40.000Z",
             "date_published": "2025-10-01T09:53:03.000Z",
             "author": {
                 "name": "kaisen-bot",
@@ -141,7 +152,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/82332026?u=50cf3b11b833b090f19c42f97090b20524ad9dfa&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>HikvisionExploiter is a Python-based utility designed to automate exploitation and directory accessibility checks on Hikvision network cameras exploiting the Web interface Version 3.1.3.150324 + CVE-2021-36260 Detection</div>",
             "url": "https://github.com/tamim1089/HikvisionExploiter",
             "title": "tamim1089/HikvisionExploiter: HikvisionExploiter is a Python-based utility designed to automate exploitation and directory accessibility checks on Hikvision network cameras exploiting the Web interface Version 3.1.3.150324 + CVE-2021-36260 Detection",
-            "date_modified": "2026-01-14T03:17:10.000Z",
+            "date_modified": "2026-01-14T18:03:42.000Z",
             "date_published": "2024-07-05T16:58:14.000Z",
             "author": {
                 "name": "tamim1089",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "m4lk3rnel",
                 "url": "https://github.com/m4lk3rnel"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/124419659?u=9f9294557dd5c472aa7754e1ea1a4fda0bd2ccb7&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Apache Solr &lt; 8.8.2 Server Side Request Forgery</div>",
-            "url": "https://github.com/RIZZZIOM/CVE-2021-27905",
-            "title": "RIZZZIOM/CVE-2021-27905: Apache Solr < 8.8.2 Server Side Request Forgery",
-            "date_modified": "2025-12-17T15:24:14.000Z",
-            "date_published": "2025-10-18T14:19:58.000Z",
-            "author": {
-                "name": "RIZZZIOM",
-                "url": "https://github.com/RIZZZIOM"
             }
         }
     ]
