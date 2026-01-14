@@ -6,6 +6,17 @@
     "description": "CVE-2022 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/73300815?u=3fe776411aea88d3c7f048b10c1b452d0a3dc2dd&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Privilege Escalation using nodes/proxy (create action allowed) and nodes/status (update/patch actions allowed)</div>",
+            "url": "https://github.com/arbaaz29/CVE-2022-3294",
+            "title": "arbaaz29/CVE-2022-3294: Privilege Escalation using nodes/proxy (create action allowed) and nodes/status (update/patch actions allowed)",
+            "date_modified": "2026-01-14T04:36:43.000Z",
+            "date_published": "2026-01-14T04:17:28.000Z",
+            "author": {
+                "name": "arbaaz29",
+                "url": "https://github.com/arbaaz29"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/238779459?u=9f828790d8ba2ad5efc3ee4a565e27cd10343bf1&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Analysis of CVE-2022-50691</div>",
             "url": "https://github.com/b1gchoi/CVE-2022-50691",
             "title": "b1gchoi/CVE-2022-50691: Analysis of CVE-2022-50691",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "brabster",
                 "url": "https://github.com/brabster"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/28166400?u=dff90dacd912dad757648bdd9a228fb4e6b43cbe&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
-            "url": "https://github.com/MoisesTapia/cve-2022-3218",
-            "title": "MoisesTapia/cve-2022-3218",
-            "date_modified": "2025-12-18T06:13:53.000Z",
-            "date_published": "2025-12-18T05:54:12.000Z",
-            "author": {
-                "name": "MoisesTapia",
-                "url": "https://github.com/MoisesTapia"
             }
         }
     ]
