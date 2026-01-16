@@ -6,6 +6,17 @@
     "description": "CVE-2021 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/197823718?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A simple Python proof-of-concept tool to check for Apache path traversal vulnerability (CVE-2021-41773).  Detects vulnerable server versions and verifies exploitation by probing sensitive files.  Built for learning CVE analysis, not mass exploitation.</div>",
+            "url": "https://github.com/sudo0xksh/cve-2021-41773-checker",
+            "title": "sudo0xksh/cve-2021-41773-checker: A simple Python proof-of-concept tool to check for Apache path traversal vulnerability (CVE-2021-41773).  Detects vulnerable server versions and verifies exploitation by probing sensitive files.  Built for learning CVE analysis, not mass exploitation.",
+            "date_modified": "2026-01-16T20:55:02.000Z",
+            "date_published": "2026-01-16T20:39:02.000Z",
+            "author": {
+                "name": "sudo0xksh",
+                "url": "https://github.com/sudo0xksh"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/206778611?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>🚀 Enhance your penetration testing with PwnKit Helper, a simple tool for exploiting the CVE-2021-4034 vulnerability in pkexec for local privilege escalation.</div>",
             "url": "https://github.com/kaisen-bot/pwnkit-helper",
             "title": "kaisen-bot/pwnkit-helper: 🚀 Enhance your penetration testing with PwnKit Helper, a simple tool for exploiting the CVE-2021-4034 vulnerability in pkexec for local privilege escalation.",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "dbwlsdnr95",
                 "url": "https://github.com/dbwlsdnr95"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/3677559?u=1bf56924b19a16ac80c515f4c906b2d140935407&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
-            "url": "https://github.com/nu11secur1ty/CVE-2021-44228-VULN-APP",
-            "title": "nu11secur1ty/CVE-2021-44228-VULN-APP",
-            "date_modified": "2025-12-20T11:57:18.000Z",
-            "date_published": "2021-12-17T18:45:19.000Z",
-            "author": {
-                "name": "nu11secur1ty",
-                "url": "https://github.com/nu11secur1ty"
             }
         }
     ]
