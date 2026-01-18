@@ -6,6 +6,28 @@
     "description": "CVE-2023 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/248769097?u=bb9d7f57fa8dae577faaae87d16c5ba430cae426&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Replicable Blueprint for advanced DDoS Purple Teaming, engineered for the threat landscape. It integrates a Red Elite Teaming offensive suite—featuring multi-vector rotations, HTTP/2 Rapid Reset (CVE-2023-44487) exploitation, and mTLS 1.3-encrypted C2 orchestration—with a high-integrity 7-Tier Blue Elite Teaming defense-in-depth architecture.</div>",
+            "url": "https://github.com/sastraadiwiguna-purpleeliteteaming/DDoS-Purple-Teaming-Offensive-Multi-Vector-7-Tier-Defensive-Holistic-Blueprint-",
+            "title": "sastraadiwiguna-purpleeliteteaming/DDoS-Purple-Teaming-Offensive-Multi-Vector-7-Tier-Defensive-Holistic-Blueprint-: Replicable Blueprint for advanced DDoS Purple Teaming, engineered for the threat landscape. It integrates a Red Elite Teaming offensive suite—featuring multi-vector rotations, HTTP/2 Rapid Reset (CVE-2023-44487) exploitation, and mTLS 1.3-encrypted C2 orchestration—with a high-integrity 7-Tier Blue Elite Teaming defense-in-depth architecture.",
+            "date_modified": "2026-01-18T05:58:13.000Z",
+            "date_published": "2026-01-18T05:52:35.000Z",
+            "author": {
+                "name": "sastraadiwiguna-purpleeliteteaming",
+                "url": "https://github.com/sastraadiwiguna-purpleeliteteaming"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/214546144?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>🔒 Analyze the CVE-2023-39910 vulnerability in Libbitcoin Explorer to understand its impact on Bitcoin wallet security and protect your assets.</div>",
+            "url": "https://github.com/Hitplus/RingSide-Replay-Attack",
+            "title": "Hitplus/RingSide-Replay-Attack: 🔒 Analyze the CVE-2023-39910 vulnerability in Libbitcoin Explorer to understand its impact on Bitcoin wallet security and protect your assets.",
+            "date_modified": "2026-01-18T05:40:30.000Z",
+            "date_published": "2026-01-07T14:24:08.000Z",
+            "author": {
+                "name": "Hitplus",
+                "url": "https://github.com/Hitplus"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/120130511?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>oob_entry tfp0 kernel exploit for armv7 iOS (iOS 3.0–10.3.4), using CVE-2023-32434. We will publish a write-up detailing the methods in the coming weeks. 🐙</div>",
             "url": "https://github.com/rkrakesh524/oob_entry",
             "title": "rkrakesh524/oob_entry: oob_entry tfp0 kernel exploit for armv7 iOS (iOS 3.0–10.3.4), using CVE-2023-32434. We will publish a write-up detailing the methods in the coming weeks. 🐙",
@@ -14,17 +36,6 @@
             "author": {
                 "name": "rkrakesh524",
                 "url": "https://github.com/rkrakesh524"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/214546144?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>🔒 Analyze the CVE-2023-39910 vulnerability in Libbitcoin Explorer to understand its impact on Bitcoin wallet security and protect your assets.</div>",
-            "url": "https://github.com/Hitplus/RingSide-Replay-Attack",
-            "title": "Hitplus/RingSide-Replay-Attack: 🔒 Analyze the CVE-2023-39910 vulnerability in Libbitcoin Explorer to understand its impact on Bitcoin wallet security and protect your assets.",
-            "date_modified": "2026-01-18T04:08:10.000Z",
-            "date_published": "2026-01-07T14:24:08.000Z",
-            "author": {
-                "name": "Hitplus",
-                "url": "https://github.com/Hitplus"
             }
         },
         {
@@ -209,17 +220,6 @@
             "title": "Chocapikk/CVE-2023-35082: Remote Unauthenticated API Access Vulnerability in MobileIron Core 11.2 and older",
             "date_modified": "2026-01-08T16:09:06.000Z",
             "date_published": "2023-08-04T16:25:24.000Z",
-            "author": {
-                "name": "Chocapikk",
-                "url": "https://github.com/Chocapikk"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/88535377?u=43d289d1253066a5204caec7aa2236f53055b8df&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Automated vulnerability scanner for CVE-2023-28432 in Minio deployments, revealing sensitive environment variables.</div>",
-            "url": "https://github.com/Chocapikk/CVE-2023-28432",
-            "title": "Chocapikk/CVE-2023-28432: Automated vulnerability scanner for CVE-2023-28432 in Minio deployments, revealing sensitive environment variables.",
-            "date_modified": "2026-01-14T21:16:30.000Z",
-            "date_published": "2023-09-05T14:01:53.000Z",
             "author": {
                 "name": "Chocapikk",
                 "url": "https://github.com/Chocapikk"
