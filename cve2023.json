@@ -6,6 +6,28 @@
     "description": "CVE-2023 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/214546144?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>🔒 Analyze the CVE-2023-39910 vulnerability in Libbitcoin Explorer to understand its impact on Bitcoin wallet security and protect your assets.</div>",
+            "url": "https://github.com/Hitplus/RingSide-Replay-Attack",
+            "title": "Hitplus/RingSide-Replay-Attack: 🔒 Analyze the CVE-2023-39910 vulnerability in Libbitcoin Explorer to understand its impact on Bitcoin wallet security and protect your assets.",
+            "date_modified": "2026-01-22T18:03:47.000Z",
+            "date_published": "2026-01-07T14:24:08.000Z",
+            "author": {
+                "name": "Hitplus",
+                "url": "https://github.com/Hitplus"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/8358462?u=c03412b23a79622471673476b98668965dd8265c&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Unauthenticated 0-click RCE exploit for CVE-2023-51409. Abuses an arbitrary file upload flaw in the AI Engine WordPress plugin to upload a PHP webshell and achieve remote command execution without authentication, including OS detection and an interactive shell.</div>",
+            "url": "https://github.com/JoshuaProvoste/0-click-RCE-Exploit-for-CVE-2023-51409",
+            "title": "JoshuaProvoste/0-click-RCE-Exploit-for-CVE-2023-51409: Unauthenticated 0-click RCE exploit for CVE-2023-51409. Abuses an arbitrary file upload flaw in the AI Engine WordPress plugin to upload a PHP webshell and achieve remote command execution without authentication, including OS detection and an interactive shell.",
+            "date_modified": "2026-01-22T17:41:14.000Z",
+            "date_published": "2026-01-22T17:21:29.000Z",
+            "author": {
+                "name": "JoshuaProvoste",
+                "url": "https://github.com/JoshuaProvoste"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/120130511?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>oob_entry tfp0 kernel exploit for armv7 iOS (iOS 3.0–10.3.4), using CVE-2023-32434. We will publish a write-up detailing the methods in the coming weeks. 🐙</div>",
             "url": "https://github.com/rkrakesh524/oob_entry",
             "title": "rkrakesh524/oob_entry: oob_entry tfp0 kernel exploit for armv7 iOS (iOS 3.0–10.3.4), using CVE-2023-32434. We will publish a write-up detailing the methods in the coming weeks. 🐙",
@@ -14,28 +36,6 @@
             "author": {
                 "name": "rkrakesh524",
                 "url": "https://github.com/rkrakesh524"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/214546144?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>🔒 Analyze the CVE-2023-39910 vulnerability in Libbitcoin Explorer to understand its impact on Bitcoin wallet security and protect your assets.</div>",
-            "url": "https://github.com/Hitplus/RingSide-Replay-Attack",
-            "title": "Hitplus/RingSide-Replay-Attack: 🔒 Analyze the CVE-2023-39910 vulnerability in Libbitcoin Explorer to understand its impact on Bitcoin wallet security and protect your assets.",
-            "date_modified": "2026-01-22T15:48:54.000Z",
-            "date_published": "2026-01-07T14:24:08.000Z",
-            "author": {
-                "name": "Hitplus",
-                "url": "https://github.com/Hitplus"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/256077245?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE : CVE-2023-44487,Multiple Attack Modes:    · rapid_reset: Standard CVE-2023-44487 test    · stream_bomb: Creates excessive streams with random paths    · header_overflow: Sends very large header values</div>",
-            "url": "https://github.com/xsss9188-DADHACKS/Exploit-Title-HTTP-2-2.0---Denial-Of-Service-DOS-",
-            "title": "xsss9188-DADHACKS/Exploit-Title-HTTP-2-2.0---Denial-Of-Service-DOS-: CVE : CVE-2023-44487,Multiple Attack Modes:    · rapid_reset: Standard CVE-2023-44487 test    · stream_bomb: Creates excessive streams with random paths    · header_overflow: Sends very large header values",
-            "date_modified": "2026-01-22T07:28:01.000Z",
-            "date_published": "2026-01-22T07:19:00.000Z",
-            "author": {
-                "name": "xsss9188-DADHACKS",
-                "url": "https://github.com/xsss9188-DADHACKS"
             }
         },
         {
