@@ -6,6 +6,28 @@
     "description": "CVE-2023 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/214546144?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>🔒 Analyze the CVE-2023-39910 vulnerability in Libbitcoin Explorer to understand its impact on Bitcoin wallet security and protect your assets.</div>",
+            "url": "https://github.com/Hitplus/RingSide-Replay-Attack",
+            "title": "Hitplus/RingSide-Replay-Attack: 🔒 Analyze the CVE-2023-39910 vulnerability in Libbitcoin Explorer to understand its impact on Bitcoin wallet security and protect your assets.",
+            "date_modified": "2026-01-23T12:02:43.000Z",
+            "date_published": "2026-01-07T14:24:08.000Z",
+            "author": {
+                "name": "Hitplus",
+                "url": "https://github.com/Hitplus"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/96344826?u=43964d68af654c0c70e5d7cfff33d40d8ca581bc&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Stored XSS in TYPO3 HTML Sanitizer (CVE-2023-47125). DOM processing instructions are not handled correctly. This allows bypassing the cross-site scripting mechanism of typo3/html-sanitizer.</div>",
+            "url": "https://github.com/nikn0laty/TYPO3-HTML-Sanitizer-XSS-CVE-2023-47125",
+            "title": "nikn0laty/TYPO3-HTML-Sanitizer-XSS-CVE-2023-47125: Stored XSS in TYPO3 HTML Sanitizer (CVE-2023-47125). DOM processing instructions are not handled correctly. This allows bypassing the cross-site scripting mechanism of typo3/html-sanitizer.",
+            "date_modified": "2026-01-23T11:19:37.000Z",
+            "date_published": "2026-01-23T11:13:05.000Z",
+            "author": {
+                "name": "nikn0laty",
+                "url": "https://github.com/nikn0laty"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/120130511?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>oob_entry tfp0 kernel exploit for armv7 iOS (iOS 3.0–10.3.4), using CVE-2023-32434. We will publish a write-up detailing the methods in the coming weeks. 🐙</div>",
             "url": "https://github.com/rkrakesh524/oob_entry",
             "title": "rkrakesh524/oob_entry: oob_entry tfp0 kernel exploit for armv7 iOS (iOS 3.0–10.3.4), using CVE-2023-32434. We will publish a write-up detailing the methods in the coming weeks. 🐙",
@@ -14,17 +36,6 @@
             "author": {
                 "name": "rkrakesh524",
                 "url": "https://github.com/rkrakesh524"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/214546144?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>🔒 Analyze the CVE-2023-39910 vulnerability in Libbitcoin Explorer to understand its impact on Bitcoin wallet security and protect your assets.</div>",
-            "url": "https://github.com/Hitplus/RingSide-Replay-Attack",
-            "title": "Hitplus/RingSide-Replay-Attack: 🔒 Analyze the CVE-2023-39910 vulnerability in Libbitcoin Explorer to understand its impact on Bitcoin wallet security and protect your assets.",
-            "date_modified": "2026-01-23T10:28:45.000Z",
-            "date_published": "2026-01-07T14:24:08.000Z",
-            "author": {
-                "name": "Hitplus",
-                "url": "https://github.com/Hitplus"
             }
         },
         {
@@ -212,17 +223,6 @@
             "author": {
                 "name": "Least-Significant-Bit",
                 "url": "https://github.com/Least-Significant-Bit"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/196732358?u=1644c94ab20e30109f36a9f9e3d1e01fa8f1d19a&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>PoC for AMD Ryzen driver. </div>",
-            "url": "https://github.com/NtGabrielGomes/CVE-2023-20564",
-            "title": "NtGabrielGomes/CVE-2023-20564: PoC for AMD Ryzen driver. ",
-            "date_modified": "2026-01-12T18:32:41.000Z",
-            "date_published": "2025-11-18T12:59:55.000Z",
-            "author": {
-                "name": "NtGabrielGomes",
-                "url": "https://github.com/NtGabrielGomes"
             }
         }
     ]
