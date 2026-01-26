@@ -6,6 +6,17 @@
     "description": "CVE-2022 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/158217864?u=9553a2cee75b273d4b95afc8f930a6775a9df4a3&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>POC (CSRF) -&gt; CVE-2022-47447</div>",
+            "url": "https://github.com/yup-Ivan/CVE-2022-47447",
+            "title": "yup-Ivan/CVE-2022-47447: POC (CSRF) -> CVE-2022-47447",
+            "date_modified": "2026-01-26T13:58:10.000Z",
+            "date_published": "2026-01-26T13:43:21.000Z",
+            "author": {
+                "name": "yup-Ivan",
+                "url": "https://github.com/yup-Ivan"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/254159099?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A security-patched fork of the legacy ClickFunnels Classic WordPress plugin. Fixes critical Stored XSS vulnerabilities (CVE-2022-4782) while maintaining original API functionality for existing funnels.</div>",
             "url": "https://github.com/Sudo-WP/sudowp-clickfunnels-zurich",
             "title": "Sudo-WP/sudowp-clickfunnels-zurich: A security-patched fork of the legacy ClickFunnels Classic WordPress plugin. Fixes critical Stored XSS vulnerabilities (CVE-2022-4782) while maintaining original API functionality for existing funnels.",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "SystemVll",
                 "url": "https://github.com/SystemVll"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/250986110?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>An unauthenticated data extraction vulnerability in Kyocera printers, which allows for recovery of cleartext address book and domain joined passwords.</div>",
-            "url": "https://github.com/h4po0n/kyocera-cve-2022-1026_SOAP1.1",
-            "title": "h4po0n/kyocera-cve-2022-1026_SOAP1.1: An unauthenticated data extraction vulnerability in Kyocera printers, which allows for recovery of cleartext address book and domain joined passwords.",
-            "date_modified": "2025-12-28T18:21:50.000Z",
-            "date_published": "2025-12-22T12:31:44.000Z",
-            "author": {
-                "name": "h4po0n",
-                "url": "https://github.com/h4po0n"
             }
         }
     ]
