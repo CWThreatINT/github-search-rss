@@ -6,6 +6,17 @@
     "description": "CVE-2021 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/242620395?u=fbace98526016ee3ee015686440ac3010b1c6c1e&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Simple and effective PoC for CVE-2021-43798 Grafana Path Traversal</div>",
+            "url": "https://github.com/notbside/CVE-2021-43798-PoC",
+            "title": "notbside/CVE-2021-43798-PoC: Simple and effective PoC for CVE-2021-43798 Grafana Path Traversal",
+            "date_modified": "2026-01-27T16:50:59.000Z",
+            "date_published": "2026-01-27T16:50:59.000Z",
+            "author": {
+                "name": "notbside",
+                "url": "https://github.com/notbside"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/206778611?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>🚀 Enhance your penetration testing with PwnKit Helper, a simple tool for exploiting the CVE-2021-4034 vulnerability in pkexec for local privilege escalation.</div>",
             "url": "https://github.com/kaisen-bot/pwnkit-helper",
             "title": "kaisen-bot/pwnkit-helper: 🚀 Enhance your penetration testing with PwnKit Helper, a simple tool for exploiting the CVE-2021-4034 vulnerability in pkexec for local privilege escalation.",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "pandatix",
                 "url": "https://github.com/pandatix"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/9071066?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2021-4379 Enumeration Tools</div>",
-            "url": "https://github.com/baktistr/cve-2021-43798-enum",
-            "title": "baktistr/cve-2021-43798-enum: CVE-2021-4379 Enumeration Tools",
-            "date_modified": "2026-01-08T21:28:15.000Z",
-            "date_published": "2026-01-08T20:52:19.000Z",
-            "author": {
-                "name": "baktistr",
-                "url": "https://github.com/baktistr"
             }
         }
     ]
