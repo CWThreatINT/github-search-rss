@@ -6,6 +6,28 @@
     "description": "CVE-2023 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/120130511?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>oob_entry tfp0 kernel exploit for armv7 iOS (iOS 3.0–10.3.4), using CVE-2023-32434. We will publish a write-up detailing the methods in the coming weeks. 🐙</div>",
+            "url": "https://github.com/rkrakesh524/oob_entry",
+            "title": "rkrakesh524/oob_entry: oob_entry tfp0 kernel exploit for armv7 iOS (iOS 3.0–10.3.4), using CVE-2023-32434. We will publish a write-up detailing the methods in the coming weeks. 🐙",
+            "date_modified": "2026-01-29T13:08:33.000Z",
+            "date_published": "2025-08-13T09:19:29.000Z",
+            "author": {
+                "name": "rkrakesh524",
+                "url": "https://github.com/rkrakesh524"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/132808663?u=e8b22a78bf3094aa906b03e4a9836c7e54aae701&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Exploit for CVE-2023-40028 (for educational purposes)</div>",
+            "url": "https://github.com/Stp1t/CVE-2023-40028",
+            "title": "Stp1t/CVE-2023-40028: Exploit for CVE-2023-40028 (for educational purposes)",
+            "date_modified": "2026-01-29T12:36:44.000Z",
+            "date_published": "2026-01-22T20:12:19.000Z",
+            "author": {
+                "name": "Stp1t",
+                "url": "https://github.com/Stp1t"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/214546144?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>🔒 Analyze the CVE-2023-39910 vulnerability in Libbitcoin Explorer to understand its impact on Bitcoin wallet security and protect your assets.</div>",
             "url": "https://github.com/Hitplus/RingSide-Replay-Attack",
             "title": "Hitplus/RingSide-Replay-Attack: 🔒 Analyze the CVE-2023-39910 vulnerability in Libbitcoin Explorer to understand its impact on Bitcoin wallet security and protect your assets.",
@@ -14,17 +36,6 @@
             "author": {
                 "name": "Hitplus",
                 "url": "https://github.com/Hitplus"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/120130511?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>oob_entry tfp0 kernel exploit for armv7 iOS (iOS 3.0–10.3.4), using CVE-2023-32434. We will publish a write-up detailing the methods in the coming weeks. 🐙</div>",
-            "url": "https://github.com/rkrakesh524/oob_entry",
-            "title": "rkrakesh524/oob_entry: oob_entry tfp0 kernel exploit for armv7 iOS (iOS 3.0–10.3.4), using CVE-2023-32434. We will publish a write-up detailing the methods in the coming weeks. 🐙",
-            "date_modified": "2026-01-29T11:29:30.000Z",
-            "date_published": "2025-08-13T09:19:29.000Z",
-            "author": {
-                "name": "rkrakesh524",
-                "url": "https://github.com/rkrakesh524"
             }
         },
         {
@@ -212,17 +223,6 @@
             "author": {
                 "name": "sastraadiwiguna-purpleeliteteaming",
                 "url": "https://github.com/sastraadiwiguna-purpleeliteteaming"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/97918589?u=7933f24ba62f317482b60e2a585be7704df7ef6d&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE‑2023‑46604 is a critical vulnerability in Apache ActiveMQ that allows an unauthenticated attacker to achieve Remote Code Execution (RCE) by abusing insecure deserialization in the OpenWire protocol. Exploitation does not require valid credentials and enables attackers to execute arbitrary system commands on the target host.</div>",
-            "url": "https://github.com/fiza-naeem0902/Vulnerability-Assessment",
-            "title": "fiza-naeem0902/Vulnerability-Assessment: CVE‑2023‑46604 is a critical vulnerability in Apache ActiveMQ that allows an unauthenticated attacker to achieve Remote Code Execution (RCE) by abusing insecure deserialization in the OpenWire protocol. Exploitation does not require valid credentials and enables attackers to execute arbitrary system commands on the target host.",
-            "date_modified": "2026-01-17T11:08:56.000Z",
-            "date_published": "2026-01-02T19:19:27.000Z",
-            "author": {
-                "name": "fiza-naeem0902",
-                "url": "https://github.com/fiza-naeem0902"
             }
         }
     ]
