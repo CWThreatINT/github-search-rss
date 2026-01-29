@@ -6,6 +6,17 @@
     "description": "CVE-2022 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/102984166?u=7af0d825d1dcde8a3c6aaaff8ce08f91b0c9f222&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2022-38694 implementation with GUI</div>",
+            "url": "https://github.com/Forbirdden/TigerSmash",
+            "title": "Forbirdden/TigerSmash: CVE-2022-38694 implementation with GUI",
+            "date_modified": "2026-01-29T15:58:28.000Z",
+            "date_published": "2026-01-29T15:58:27.000Z",
+            "author": {
+                "name": "Forbirdden",
+                "url": "https://github.com/Forbirdden"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/28357058?u=3296a4e01e1b4e86b3ea64ccd44573a4eddfdae5&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Very rough PoC for detecting/reproducing CVE-2022-0847 (dirty pipe) through random generation of syscalls and differential fuzzing against a model.</div>",
             "url": "https://github.com/stfnw/reproducer-poc-CVE-2022-0847",
             "title": "stfnw/reproducer-poc-CVE-2022-0847: Very rough PoC for detecting/reproducing CVE-2022-0847 (dirty pipe) through random generation of syscalls and differential fuzzing against a model.",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "Dharan10",
                 "url": "https://github.com/Dharan10"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/69421356?u=089e0b1fac87102ae26b9214b7d7bffd9d38fe60&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>The manage engine mass loader for CVE-2022-47966</div>",
-            "url": "https://github.com/SystemVll/CVE-2022-47966",
-            "title": "SystemVll/CVE-2022-47966: The manage engine mass loader for CVE-2022-47966",
-            "date_modified": "2025-12-29T17:54:41.000Z",
-            "date_published": "2023-01-23T10:45:23.000Z",
-            "author": {
-                "name": "SystemVll",
-                "url": "https://github.com/SystemVll"
             }
         }
     ]
