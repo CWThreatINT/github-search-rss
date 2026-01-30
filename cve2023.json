@@ -9,7 +9,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/120130511?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>oob_entry tfp0 kernel exploit for armv7 iOS (iOS 3.0–10.3.4), using CVE-2023-32434. We will publish a write-up detailing the methods in the coming weeks. 🐙</div>",
             "url": "https://github.com/rkrakesh524/oob_entry",
             "title": "rkrakesh524/oob_entry: oob_entry tfp0 kernel exploit for armv7 iOS (iOS 3.0–10.3.4), using CVE-2023-32434. We will publish a write-up detailing the methods in the coming weeks. 🐙",
-            "date_modified": "2026-01-30T18:50:13.000Z",
+            "date_modified": "2026-01-30T20:57:56.000Z",
             "date_published": "2025-08-13T09:19:29.000Z",
             "author": {
                 "name": "rkrakesh524",
@@ -119,7 +119,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/8358462?u=c03412b23a79622471673476b98668965dd8265c&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Unauthenticated 0-click RCE exploit for CVE-2023-51409. Abuses an arbitrary file upload flaw in the AI Engine WordPress plugin to upload a PHP webshell and achieve remote command execution without authentication, including OS detection and an interactive shell.</div>",
             "url": "https://github.com/JoshuaProvoste/0-click-RCE-Exploit-for-CVE-2023-51409",
             "title": "JoshuaProvoste/0-click-RCE-Exploit-for-CVE-2023-51409: Unauthenticated 0-click RCE exploit for CVE-2023-51409. Abuses an arbitrary file upload flaw in the AI Engine WordPress plugin to upload a PHP webshell and achieve remote command execution without authentication, including OS detection and an interactive shell.",
-            "date_modified": "2026-01-22T17:41:14.000Z",
+            "date_modified": "2026-01-30T20:22:03.000Z",
             "date_published": "2026-01-22T17:21:29.000Z",
             "author": {
                 "name": "JoshuaProvoste",
