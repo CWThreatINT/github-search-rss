@@ -6,6 +6,17 @@
     "description": "CVE-2022 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/144339177?u=159cdc7465cfe455b051255c1d54a832eb6bc492&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Exploiting CVE-2022-0847 - written by : Antonius (w1sdom)</div>",
+            "url": "https://github.com/bluedragonsecurity/Linux-Kernel-Dirty-Pipe-Exploitation-Logic-Bug-",
+            "title": "bluedragonsecurity/Linux-Kernel-Dirty-Pipe-Exploitation-Logic-Bug-: Exploiting CVE-2022-0847 - written by : Antonius (w1sdom)",
+            "date_modified": "2026-02-01T02:04:57.000Z",
+            "date_published": "2026-02-01T01:28:11.000Z",
+            "author": {
+                "name": "bluedragonsecurity",
+                "url": "https://github.com/bluedragonsecurity"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/102984166?u=7af0d825d1dcde8a3c6aaaff8ce08f91b0c9f222&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2022-38694 implementation with GUI</div>",
             "url": "https://github.com/Forbirdden/TigerSmash",
             "title": "Forbirdden/TigerSmash: CVE-2022-38694 implementation with GUI",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "ngtuonghung",
                 "url": "https://github.com/ngtuonghung"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/144504885?u=ef39bd1c6012f396c350ac786c770eef9e9c5923&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Exploit code for Clinic patient management system v1 unauth rce cpms rce CVE-2022-40471</div>",
-            "url": "https://github.com/Dharan10/CVE-2022-40471",
-            "title": "Dharan10/CVE-2022-40471: Exploit code for Clinic patient management system v1 unauth rce cpms rce CVE-2022-40471",
-            "date_modified": "2025-12-30T13:57:11.000Z",
-            "date_published": "2025-12-30T13:55:13.000Z",
-            "author": {
-                "name": "Dharan10",
-                "url": "https://github.com/Dharan10"
             }
         }
     ]
