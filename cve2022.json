@@ -6,6 +6,17 @@
     "description": "CVE-2022 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/225043432?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
+            "url": "https://github.com/aditidutta696-dev/Spring4Shell-CVE-2022-22965-Exploitation-Attempt",
+            "title": "aditidutta696-dev/Spring4Shell-CVE-2022-22965-Exploitation-Attempt",
+            "date_modified": "2026-02-03T17:36:08.000Z",
+            "date_published": "2026-02-03T17:36:08.000Z",
+            "author": {
+                "name": "aditidutta696-dev",
+                "url": "https://github.com/aditidutta696-dev"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/254159099?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A security-patched fork of the legacy ClickFunnels Classic WordPress plugin. Fixes critical Stored XSS vulnerabilities (CVE-2022-4782) while maintaining original API functionality for existing funnels.</div>",
             "url": "https://github.com/Sudo-WP/sudowp-clickfunnels-zurich",
             "title": "Sudo-WP/sudowp-clickfunnels-zurich: A security-patched fork of the legacy ClickFunnels Classic WordPress plugin. Fixes critical Stored XSS vulnerabilities (CVE-2022-4782) while maintaining original API functionality for existing funnels.",
@@ -209,17 +220,6 @@
             "title": "ngtuonghung/CVE-2022-0324: PoC for CVE-2022-0324: Buffer Overflow in dhcp6relay of SONiC",
             "date_modified": "2025-12-30T14:20:24.000Z",
             "date_published": "2025-11-09T03:54:42.000Z",
-            "author": {
-                "name": "ngtuonghung",
-                "url": "https://github.com/ngtuonghung"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/141505121?u=c5e18b97a10dc293a255c36d5eca1e81e8313ad5&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>PoC for Nimbuspwn: Linux Privilege Escalation via Path Traversal and TOCTOU in networkd-dispatcher</div>",
-            "url": "https://github.com/ngtuonghung/nimbuspwn-CVE-2022-29800-CVE-2022-29799",
-            "title": "ngtuonghung/nimbuspwn-CVE-2022-29800-CVE-2022-29799: PoC for Nimbuspwn: Linux Privilege Escalation via Path Traversal and TOCTOU in networkd-dispatcher",
-            "date_modified": "2025-12-30T14:19:36.000Z",
-            "date_published": "2025-11-09T09:06:25.000Z",
             "author": {
                 "name": "ngtuonghung",
                 "url": "https://github.com/ngtuonghung"
