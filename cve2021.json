@@ -6,6 +6,17 @@
     "description": "CVE-2021 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/259642344?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Log4Shell (CVE-2021-44228) security remediation demo - Showcasing Antigravity's ability to identify and fix critical security vulnerabilities in Java applications</div>",
+            "url": "https://github.com/agylabs/log4shell-remediation",
+            "title": "agylabs/log4shell-remediation: Log4Shell (CVE-2021-44228) security remediation demo - Showcasing Antigravity's ability to identify and fix critical security vulnerabilities in Java applications",
+            "date_modified": "2026-02-05T19:57:13.000Z",
+            "date_published": "2026-02-05T19:41:28.000Z",
+            "author": {
+                "name": "agylabs",
+                "url": "https://github.com/agylabs"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/206778611?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>🚀 Enhance your penetration testing with PwnKit Helper, a simple tool for exploiting the CVE-2021-4034 vulnerability in pkexec for local privilege escalation.</div>",
             "url": "https://github.com/kaisen-bot/pwnkit-helper",
             "title": "kaisen-bot/pwnkit-helper: 🚀 Enhance your penetration testing with PwnKit Helper, a simple tool for exploiting the CVE-2021-4034 vulnerability in pkexec for local privilege escalation.",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "sudo0xksh",
                 "url": "https://github.com/sudo0xksh"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/161570984?u=011db9c57866add80a65ca0aa5dc4467141ed62d&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
-            "url": "https://github.com/shubtheone/CVE-2021-36260-hikvision",
-            "title": "shubtheone/CVE-2021-36260-hikvision",
-            "date_modified": "2026-01-15T04:48:53.000Z",
-            "date_published": "2026-01-15T04:46:31.000Z",
-            "author": {
-                "name": "shubtheone",
-                "url": "https://github.com/shubtheone"
             }
         }
     ]
