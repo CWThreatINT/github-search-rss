@@ -6,6 +6,17 @@
     "description": "CVE-2021 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/254159099?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A secure, zero-trust database management tool for WordPress. Fixes critical SSRF vulnerabilities (CVE-2021-21311) by enforcing local connections only.</div>",
+            "url": "https://github.com/Sudo-WP/sudowp-adminer",
+            "title": "Sudo-WP/sudowp-adminer: A secure, zero-trust database management tool for WordPress. Fixes critical SSRF vulnerabilities (CVE-2021-21311) by enforcing local connections only.",
+            "date_modified": "2026-02-06T18:52:41.000Z",
+            "date_published": "2026-01-24T12:57:16.000Z",
+            "author": {
+                "name": "Sudo-WP",
+                "url": "https://github.com/Sudo-WP"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/206778611?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>🚀 Enhance your penetration testing with PwnKit Helper, a simple tool for exploiting the CVE-2021-4034 vulnerability in pkexec for local privilege escalation.</div>",
             "url": "https://github.com/kaisen-bot/pwnkit-helper",
             "title": "kaisen-bot/pwnkit-helper: 🚀 Enhance your penetration testing with PwnKit Helper, a simple tool for exploiting the CVE-2021-4034 vulnerability in pkexec for local privilege escalation.",
@@ -25,17 +36,6 @@
             "author": {
                 "name": "agylabs",
                 "url": "https://github.com/agylabs"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/254159099?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A secure, zero-trust database management tool for WordPress. Fixes critical SSRF vulnerabilities (CVE-2021-21311) by enforcing local connections only.</div>",
-            "url": "https://github.com/Sudo-WP/sudowp-adminer",
-            "title": "Sudo-WP/sudowp-adminer: A secure, zero-trust database management tool for WordPress. Fixes critical SSRF vulnerabilities (CVE-2021-21311) by enforcing local connections only.",
-            "date_modified": "2026-02-02T22:39:44.000Z",
-            "date_published": "2026-01-24T12:57:16.000Z",
-            "author": {
-                "name": "Sudo-WP",
-                "url": "https://github.com/Sudo-WP"
             }
         },
         {

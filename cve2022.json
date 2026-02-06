@@ -6,6 +6,17 @@
     "description": "CVE-2022 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/254159099?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A security-patched fork of the legacy ClickFunnels Classic WordPress plugin. Fixes critical Stored XSS vulnerabilities (CVE-2022-4782) while maintaining original API functionality for existing funnels.</div>",
+            "url": "https://github.com/Sudo-WP/sudowp-clickfunnels-zurich",
+            "title": "Sudo-WP/sudowp-clickfunnels-zurich: A security-patched fork of the legacy ClickFunnels Classic WordPress plugin. Fixes critical Stored XSS vulnerabilities (CVE-2022-4782) while maintaining original API functionality for existing funnels.",
+            "date_modified": "2026-02-06T18:59:08.000Z",
+            "date_published": "2026-01-08T16:39:56.000Z",
+            "author": {
+                "name": "Sudo-WP",
+                "url": "https://github.com/Sudo-WP"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/168992869?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>SnakeYAML CVE-2022-1471 exploit payload for demo</div>",
             "url": "https://github.com/seal-sec-demo-2/yaml-payload",
             "title": "seal-sec-demo-2/yaml-payload: SnakeYAML CVE-2022-1471 exploit payload for demo",
@@ -25,17 +36,6 @@
             "author": {
                 "name": "aditidutta696-dev",
                 "url": "https://github.com/aditidutta696-dev"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/254159099?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A security-patched fork of the legacy ClickFunnels Classic WordPress plugin. Fixes critical Stored XSS vulnerabilities (CVE-2022-4782) while maintaining original API functionality for existing funnels.</div>",
-            "url": "https://github.com/Sudo-WP/sudowp-clickfunnels-zurich",
-            "title": "Sudo-WP/sudowp-clickfunnels-zurich: A security-patched fork of the legacy ClickFunnels Classic WordPress plugin. Fixes critical Stored XSS vulnerabilities (CVE-2022-4782) while maintaining original API functionality for existing funnels.",
-            "date_modified": "2026-02-02T22:39:29.000Z",
-            "date_published": "2026-01-08T16:39:56.000Z",
-            "author": {
-                "name": "Sudo-WP",
-                "url": "https://github.com/Sudo-WP"
             }
         },
         {
