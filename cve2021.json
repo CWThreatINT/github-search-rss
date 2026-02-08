@@ -61,7 +61,7 @@
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/94452709?u=156cfaf45d47f1bb75b300e6445aeb1c60493cfb&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Microsoft just released emergency patches for CVE-2026-21509, a zero-day in the Office Suite that bypasses OLE/COM mitigations when a user simply opens a file. They think their \"Service-side change\" for Office 2021+ is a solid wall. </div>",
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/94452709?u=f78957a22c3dd45ed3b5f5c86e460bcc4e54b059&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Microsoft just released emergency patches for CVE-2026-21509, a zero-day in the Office Suite that bypasses OLE/COM mitigations when a user simply opens a file. They think their \"Service-side change\" for Office 2021+ is a solid wall. </div>",
             "url": "https://github.com/SimoesCTT/SCTT-2026-33-0007-The-OLE-Vortex-Laminar-Bypass-",
             "title": "SimoesCTT/SCTT-2026-33-0007-The-OLE-Vortex-Laminar-Bypass-: Microsoft just released emergency patches for CVE-2026-21509, a zero-day in the Office Suite that bypasses OLE/COM mitigations when a user simply opens a file. They think their \"Service-side change\" for Office 2021+ is a solid wall. ",
             "date_modified": "2026-01-31T16:08:36.000Z",
@@ -94,7 +94,7 @@
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/94452709?u=156cfaf45d47f1bb75b300e6445aeb1c60493cfb&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CTT-enhanced version of the Microsoft Exchange Server SSRF to RCE exploit (ProxyShell/ProxyLogon), another CVSS 10.0 critical vulnerability that affected hundreds of thousands of organizations worldwide.</div>",
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/94452709?u=f78957a22c3dd45ed3b5f5c86e460bcc4e54b059&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CTT-enhanced version of the Microsoft Exchange Server SSRF to RCE exploit (ProxyShell/ProxyLogon), another CVSS 10.0 critical vulnerability that affected hundreds of thousands of organizations worldwide.</div>",
             "url": "https://github.com/SimoesCTT/CTT-Exchange-RCE-v1.0---Microsoft-Exchange-Exploit-CVSS-10.0-CRITICAL-CVE-2021-26855-CVE-2021-27065",
             "title": "SimoesCTT/CTT-Exchange-RCE-v1.0---Microsoft-Exchange-Exploit-CVSS-10.0-CRITICAL-CVE-2021-26855-CVE-2021-27065: CTT-enhanced version of the Microsoft Exchange Server SSRF to RCE exploit (ProxyShell/ProxyLogon), another CVSS 10.0 critical vulnerability that affected hundreds of thousands of organizations worldwide.",
             "date_modified": "2026-01-28T08:47:16.000Z",
@@ -127,7 +127,7 @@
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/94452709?u=156cfaf45d47f1bb75b300e6445aeb1c60493cfb&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Looking at current high-impact vulnerabilities, let's use the VMware vCenter Server CVE-2021-21972 (CVSS 9.8) as our base. This is a publicly known RCE with patches available, perfect for demonstrating CTT enhancements.</div>",
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/94452709?u=f78957a22c3dd45ed3b5f5c86e460bcc4e54b059&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Looking at current high-impact vulnerabilities, let's use the VMware vCenter Server CVE-2021-21972 (CVSS 9.8) as our base. This is a publicly known RCE with patches available, perfect for demonstrating CTT enhancements.</div>",
             "url": "https://github.com/SimoesCTT/CTT-enhanced-VMware-vCenter",
             "title": "SimoesCTT/CTT-enhanced-VMware-vCenter: Looking at current high-impact vulnerabilities, let's use the VMware vCenter Server CVE-2021-21972 (CVSS 9.8) as our base. This is a publicly known RCE with patches available, perfect for demonstrating CTT enhancements.",
             "date_modified": "2026-01-27T12:30:57.000Z",
@@ -138,7 +138,7 @@
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/94452709?u=156cfaf45d47f1bb75b300e6445aeb1c60493cfb&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div> An advanced exploit for Microsoft Exchange Server (CVE-2021-26855, CVE-2021-27065) enhanced with Convergent Time Theory principles, achieving near-perfect theoretical rating through quantum temporal resonance and α-dispersion techniques.</div>",
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/94452709?u=f78957a22c3dd45ed3b5f5c86e460bcc4e54b059&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div> An advanced exploit for Microsoft Exchange Server (CVE-2021-26855, CVE-2021-27065) enhanced with Convergent Time Theory principles, achieving near-perfect theoretical rating through quantum temporal resonance and α-dispersion techniques.</div>",
             "url": "https://github.com/SimoesCTT/CTT-ProxyLogon-RCE-v1.0---Convergent-Time-Theory-Enhanced-Microsoft-Exchange-Exploit",
             "title": "SimoesCTT/CTT-ProxyLogon-RCE-v1.0---Convergent-Time-Theory-Enhanced-Microsoft-Exchange-Exploit:  An advanced exploit for Microsoft Exchange Server (CVE-2021-26855, CVE-2021-27065) enhanced with Convergent Time Theory principles, achieving near-perfect theoretical rating through quantum temporal resonance and α-dispersion techniques.",
             "date_modified": "2026-01-27T12:28:25.000Z",
