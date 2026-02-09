@@ -6,6 +6,39 @@
     "description": "CVE-2023 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/108242154?u=2b8f18bfb2d960af9ffc1749ef8bf93c2e981d36&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A Proof of Concept for CVE-2023-50564 vulnerability in Pluck CMS version 4.7.18</div>",
+            "url": "https://github.com/Rai2en/CVE-2023-50564_Pluck-v4.7.18_PoC",
+            "title": "Rai2en/CVE-2023-50564_Pluck-v4.7.18_PoC: A Proof of Concept for CVE-2023-50564 vulnerability in Pluck CMS version 4.7.18",
+            "date_modified": "2026-02-09T13:13:23.000Z",
+            "date_published": "2024-07-21T20:15:10.000Z",
+            "author": {
+                "name": "Rai2en",
+                "url": "https://github.com/Rai2en"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/214546144?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>🔒 Analyze the CVE-2023-39910 vulnerability in Libbitcoin Explorer to understand its impact on Bitcoin wallet security and protect your assets.</div>",
+            "url": "https://github.com/Hitplus/RingSide-Replay-Attack",
+            "title": "Hitplus/RingSide-Replay-Attack: 🔒 Analyze the CVE-2023-39910 vulnerability in Libbitcoin Explorer to understand its impact on Bitcoin wallet security and protect your assets.",
+            "date_modified": "2026-02-09T13:13:20.000Z",
+            "date_published": "2026-01-07T14:24:08.000Z",
+            "author": {
+                "name": "Hitplus",
+                "url": "https://github.com/Hitplus"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/12020618?u=ab12367ec9cf12762602b4d4c1c5bc4bfd8df093&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Reflected XSS in 1000projects Book Management System 1.0</div>",
+            "url": "https://github.com/ssophiz/CVE-2023-34632",
+            "title": "ssophiz/CVE-2023-34632: Reflected XSS in 1000projects Book Management System 1.0",
+            "date_modified": "2026-02-09T12:46:25.000Z",
+            "date_published": "2026-02-09T11:28:34.000Z",
+            "author": {
+                "name": "ssophiz",
+                "url": "https://github.com/ssophiz"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/120130511?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>oob_entry tfp0 kernel exploit for armv7 iOS (iOS 3.0–10.3.4), using CVE-2023-32434. We will publish a write-up detailing the methods in the coming weeks. 🐙</div>",
             "url": "https://github.com/rkrakesh524/oob_entry",
             "title": "rkrakesh524/oob_entry: oob_entry tfp0 kernel exploit for armv7 iOS (iOS 3.0–10.3.4), using CVE-2023-32434. We will publish a write-up detailing the methods in the coming weeks. 🐙",
@@ -14,28 +47,6 @@
             "author": {
                 "name": "rkrakesh524",
                 "url": "https://github.com/rkrakesh524"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/12020618?u=ab12367ec9cf12762602b4d4c1c5bc4bfd8df093&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Reflected XSS in 1000projects Book Management System 1.0</div>",
-            "url": "https://github.com/ssophiz/CVE-2023-34632",
-            "title": "ssophiz/CVE-2023-34632: Reflected XSS in 1000projects Book Management System 1.0",
-            "date_modified": "2026-02-09T11:31:04.000Z",
-            "date_published": "2026-02-09T11:28:34.000Z",
-            "author": {
-                "name": "ssophiz",
-                "url": "https://github.com/ssophiz"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/214546144?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>🔒 Analyze the CVE-2023-39910 vulnerability in Libbitcoin Explorer to understand its impact on Bitcoin wallet security and protect your assets.</div>",
-            "url": "https://github.com/Hitplus/RingSide-Replay-Attack",
-            "title": "Hitplus/RingSide-Replay-Attack: 🔒 Analyze the CVE-2023-39910 vulnerability in Libbitcoin Explorer to understand its impact on Bitcoin wallet security and protect your assets.",
-            "date_modified": "2026-02-09T11:13:31.000Z",
-            "date_published": "2026-01-07T14:24:08.000Z",
-            "author": {
-                "name": "Hitplus",
-                "url": "https://github.com/Hitplus"
             }
         },
         {
@@ -212,17 +223,6 @@
             "author": {
                 "name": "SecSecBurger",
                 "url": "https://github.com/SecSecBurger"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/113761216?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE_2023_27532 RCE only</div>",
-            "url": "https://github.com/W1ngLess/CVE_2023_27532",
-            "title": "W1ngLess/CVE_2023_27532: CVE_2023_27532 RCE only",
-            "date_modified": "2026-01-24T14:46:24.000Z",
-            "date_published": "2026-01-24T14:03:33.000Z",
-            "author": {
-                "name": "W1ngLess",
-                "url": "https://github.com/W1ngLess"
             }
         }
     ]
