@@ -6,10 +6,32 @@
     "description": "CVE-2023 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/214546144?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>🔒 Analyze the CVE-2023-39910 vulnerability in Libbitcoin Explorer to understand its impact on Bitcoin wallet security and protect your assets.</div>",
+            "url": "https://github.com/Hitplus/RingSide-Replay-Attack",
+            "title": "Hitplus/RingSide-Replay-Attack: 🔒 Analyze the CVE-2023-39910 vulnerability in Libbitcoin Explorer to understand its impact on Bitcoin wallet security and protect your assets.",
+            "date_modified": "2026-02-10T03:11:58.000Z",
+            "date_published": "2026-01-07T14:24:08.000Z",
+            "author": {
+                "name": "Hitplus",
+                "url": "https://github.com/Hitplus"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/16169859?u=c75706220268a2b9557b0b7f293d3ea170db9110&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Layer7 DDoS attack suite. High performace concurrent worker pools with methods for HTTP/2 Rapid Reset(CVE-2023-44487), API Flood, WebSockets Flood, HTTP GET/POST, RUDY.</div>",
+            "url": "https://github.com/Syn2Much/l7-slayer",
+            "title": "Syn2Much/l7-slayer: Layer7 DDoS attack suite. High performace concurrent worker pools with methods for HTTP/2 Rapid Reset(CVE-2023-44487), API Flood, WebSockets Flood, HTTP GET/POST, RUDY.",
+            "date_modified": "2026-02-10T02:38:38.000Z",
+            "date_published": "2026-02-10T00:35:32.000Z",
+            "author": {
+                "name": "Syn2Much",
+                "url": "https://github.com/Syn2Much"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/120130511?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>oob_entry tfp0 kernel exploit for armv7 iOS (iOS 3.0–10.3.4), using CVE-2023-32434. We will publish a write-up detailing the methods in the coming weeks. 🐙</div>",
             "url": "https://github.com/rkrakesh524/oob_entry",
             "title": "rkrakesh524/oob_entry: oob_entry tfp0 kernel exploit for armv7 iOS (iOS 3.0–10.3.4), using CVE-2023-32434. We will publish a write-up detailing the methods in the coming weeks. 🐙",
-            "date_modified": "2026-02-10T00:22:52.000Z",
+            "date_modified": "2026-02-10T02:11:53.000Z",
             "date_published": "2025-08-13T09:19:29.000Z",
             "author": {
                 "name": "rkrakesh524",
@@ -17,14 +39,14 @@
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/214546144?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>🔒 Analyze the CVE-2023-39910 vulnerability in Libbitcoin Explorer to understand its impact on Bitcoin wallet security and protect your assets.</div>",
-            "url": "https://github.com/Hitplus/RingSide-Replay-Attack",
-            "title": "Hitplus/RingSide-Replay-Attack: 🔒 Analyze the CVE-2023-39910 vulnerability in Libbitcoin Explorer to understand its impact on Bitcoin wallet security and protect your assets.",
-            "date_modified": "2026-02-09T22:44:40.000Z",
-            "date_published": "2026-01-07T14:24:08.000Z",
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/151980876?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>TOP All bugbounty pentesting CVE-2023- POC Exp  RCE example payload  Things</div>",
+            "url": "https://github.com/GhostTroops/TOP",
+            "title": "GhostTroops/TOP: TOP All bugbounty pentesting CVE-2023- POC Exp  RCE example payload  Things",
+            "date_modified": "2026-02-10T02:03:27.000Z",
+            "date_published": "2022-03-19T01:54:15.000Z",
             "author": {
-                "name": "Hitplus",
-                "url": "https://github.com/Hitplus"
+                "name": "GhostTroops",
+                "url": "https://github.com/GhostTroops"
             }
         },
         {
@@ -58,17 +80,6 @@
             "author": {
                 "name": "Rai2en",
                 "url": "https://github.com/Rai2en"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/151980876?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>TOP All bugbounty pentesting CVE-2023- POC Exp  RCE example payload  Things</div>",
-            "url": "https://github.com/GhostTroops/TOP",
-            "title": "GhostTroops/TOP: TOP All bugbounty pentesting CVE-2023- POC Exp  RCE example payload  Things",
-            "date_modified": "2026-02-09T01:53:11.000Z",
-            "date_published": "2022-03-19T01:54:15.000Z",
-            "author": {
-                "name": "GhostTroops",
-                "url": "https://github.com/GhostTroops"
             }
         },
         {
@@ -212,17 +223,6 @@
             "author": {
                 "name": "0pts",
                 "url": "https://github.com/0pts"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/158983322?u=140adbb81ce6026c1973db18e1c38eb40c41118e&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Exploit Code for CVE-2023-38817</div>",
-            "url": "https://github.com/SecSecBurger/CVE-2023-38817",
-            "title": "SecSecBurger/CVE-2023-38817: Exploit Code for CVE-2023-38817",
-            "date_modified": "2026-01-26T01:50:03.000Z",
-            "date_published": "2026-01-26T01:44:17.000Z",
-            "author": {
-                "name": "SecSecBurger",
-                "url": "https://github.com/SecSecBurger"
             }
         }
     ]
