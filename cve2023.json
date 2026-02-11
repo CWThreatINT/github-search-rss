@@ -6,6 +6,17 @@
     "description": "CVE-2023 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/144001335?u=0a4453a9a9cef38ca92dfc9b0de4f11853c81853&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>🚨 CVE-2023-45866 - BlueDucky Implementation (Using DuckyScript) 🔓 Unauthenticated Peering Leading to Code Execution (Using HID Keyboard)</div>",
+            "url": "https://github.com/pentestfunctions/BlueDucky",
+            "title": "pentestfunctions/BlueDucky: 🚨 CVE-2023-45866 - BlueDucky Implementation (Using DuckyScript) 🔓 Unauthenticated Peering Leading to Code Execution (Using HID Keyboard)",
+            "date_modified": "2026-02-11T00:03:04.000Z",
+            "date_published": "2024-01-16T06:52:02.000Z",
+            "author": {
+                "name": "pentestfunctions",
+                "url": "https://github.com/pentestfunctions"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/56791447?u=5d9ab49b486cc4f7ad95a039533d4344183b1d2f&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
             "url": "https://github.com/jakovtodorovic/openSSH-agent-forwarding-vulnerability-analysis-CVE-2023-38408",
             "title": "jakovtodorovic/openSSH-agent-forwarding-vulnerability-analysis-CVE-2023-38408",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "medyassineakhmari",
                 "url": "https://github.com/medyassineakhmari"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/132808663?u=e8b22a78bf3094aa906b03e4a9836c7e54aae701&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Exploit for CVE-2023-40028 (for educational purposes)</div>",
-            "url": "https://github.com/Stp1t/CVE-2023-40028",
-            "title": "Stp1t/CVE-2023-40028: Exploit for CVE-2023-40028 (for educational purposes)",
-            "date_modified": "2026-01-31T02:38:02.000Z",
-            "date_published": "2026-01-22T20:12:19.000Z",
-            "author": {
-                "name": "Stp1t",
-                "url": "https://github.com/Stp1t"
             }
         }
     ]
