@@ -6,6 +6,17 @@
     "description": "CVE-2022 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/221506194?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Zenar CMS 9.3 suffers from an ​​unrestricted file upload vulnerability​​ in its file management module, allowing authenticated attackers (with minimal privileges) to upload arbitrary files, including malicious PHP scripts, to the web server. </div>",
+            "url": "https://github.com/Ch35h1r3c47/CVE-2022-44136-poc",
+            "title": "Ch35h1r3c47/CVE-2022-44136-poc: Zenar CMS 9.3 suffers from an ​​unrestricted file upload vulnerability​​ in its file management module, allowing authenticated attackers (with minimal privileges) to upload arbitrary files, including malicious PHP scripts, to the web server. ",
+            "date_modified": "2026-02-11T06:53:15.000Z",
+            "date_published": "2025-07-18T08:16:59.000Z",
+            "author": {
+                "name": "Ch35h1r3c47",
+                "url": "https://github.com/Ch35h1r3c47"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/218368237?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Free and Open-Source FRP Remover based on CVE-2022-38694</div>",
             "url": "https://github.com/xbxarchivr/UNISOCUnlocker",
             "title": "xbxarchivr/UNISOCUnlocker: Free and Open-Source FRP Remover based on CVE-2022-38694",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "SpiralBL0CK",
                 "url": "https://github.com/SpiralBL0CK"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/103094658?u=248a8d14bd1c4c4daf2fc2a15bb279454ac78a70&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2022-0847（Linux 内核本地提权漏洞）</div>",
-            "url": "https://github.com/xiaoLvChen/CVE-2022-0847",
-            "title": "xiaoLvChen/CVE-2022-0847: CVE-2022-0847（Linux 内核本地提权漏洞）",
-            "date_modified": "2026-01-07T14:41:14.000Z",
-            "date_published": "2026-01-07T14:40:37.000Z",
-            "author": {
-                "name": "xiaoLvChen",
-                "url": "https://github.com/xiaoLvChen"
             }
         }
     ]
