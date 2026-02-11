@@ -9,11 +9,22 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/93642978?u=47006fbdbc0797f13c6833d71f24adbfb92f3c7a&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
             "url": "https://github.com/ISabbiI/PoC-Apache-CVE-2021-41773-Infrastructure-LAB",
             "title": "ISabbiI/PoC-Apache-CVE-2021-41773-Infrastructure-LAB",
-            "date_modified": "2026-02-11T08:29:22.000Z",
+            "date_modified": "2026-02-11T09:31:01.000Z",
             "date_published": "2026-02-11T08:18:27.000Z",
             "author": {
                 "name": "ISabbiI",
                 "url": "https://github.com/ISabbiI"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/232998071?u=587416562266a7ed27796c5ee5376e2bc2428979&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>This program Prompts you for the Local File Inclusion information and will automatically search the /etc/passwd and using the users names found will search for and download any SSH key or variation of keys to the local computer. This program also performs the CVE-2021-41773_ apache2.4.49 and 50 transversal path exploit.</div>",
+            "url": "https://github.com/RevShellXD/LFI-SSH-Fuzzer",
+            "title": "RevShellXD/LFI-SSH-Fuzzer: This program Prompts you for the Local File Inclusion information and will automatically search the /etc/passwd and using the users names found will search for and download any SSH key or variation of keys to the local computer. This program also performs the CVE-2021-41773_ apache2.4.49 and 50 transversal path exploit.",
+            "date_modified": "2026-02-11T09:30:16.000Z",
+            "date_published": "2026-02-11T08:55:24.000Z",
+            "author": {
+                "name": "RevShellXD",
+                "url": "https://github.com/RevShellXD"
             }
         },
         {
@@ -212,17 +223,6 @@
             "author": {
                 "name": "ranasen-rat",
                 "url": "https://github.com/ranasen-rat"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/170987544?u=1ff35504b636782fd9dfcae6489589560023955a&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Self-contained exploit for CVE-2021-4034 - Pkexec Local Privilege Escalation</div>",
-            "url": "https://github.com/ramahmdr/PwnKit",
-            "title": "ramahmdr/PwnKit: Self-contained exploit for CVE-2021-4034 - Pkexec Local Privilege Escalation",
-            "date_modified": "2026-01-22T12:31:07.000Z",
-            "date_published": "2026-01-22T11:40:37.000Z",
-            "author": {
-                "name": "ramahmdr",
-                "url": "https://github.com/ramahmdr"
             }
         }
     ]
