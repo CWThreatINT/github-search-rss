@@ -138,17 +138,6 @@
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/170151763?u=987d60d24373abac1baeb7bbede81a0b2b05bcc1&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
-            "url": "https://github.com/imankasthuri/follina-rce-cve-2022-30190",
-            "title": "imankasthuri/follina-rce-cve-2022-30190",
-            "date_modified": "2026-01-25T08:03:29.000Z",
-            "date_published": "2026-01-25T06:51:41.000Z",
-            "author": {
-                "name": "imankasthuri",
-                "url": "https://github.com/imankasthuri"
-            }
-        },
-        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/110934161?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>For HTB practice</div>",
             "url": "https://github.com/k-javaman12/CVE-2022-44268-",
             "title": "k-javaman12/CVE-2022-44268-: For HTB practice",
@@ -223,6 +212,17 @@
             "author": {
                 "name": "SpiralBL0CK",
                 "url": "https://github.com/SpiralBL0CK"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/103094658?u=248a8d14bd1c4c4daf2fc2a15bb279454ac78a70&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2022-0847（Linux 内核本地提权漏洞）</div>",
+            "url": "https://github.com/xiaoLvChen/CVE-2022-0847",
+            "title": "xiaoLvChen/CVE-2022-0847: CVE-2022-0847（Linux 内核本地提权漏洞）",
+            "date_modified": "2026-01-07T14:41:14.000Z",
+            "date_published": "2026-01-07T14:40:37.000Z",
+            "author": {
+                "name": "xiaoLvChen",
+                "url": "https://github.com/xiaoLvChen"
             }
         }
     ]
