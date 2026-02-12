@@ -6,6 +6,17 @@
     "description": "CVE-2021 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/177917773?u=044421b45af95e4071bec5e668d12e5efab733fe&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Poc for Laravel ignition RCE</div>",
+            "url": "https://github.com/Nullsecur1ty/CVE-2021-3129",
+            "title": "Nullsecur1ty/CVE-2021-3129: Poc for Laravel ignition RCE",
+            "date_modified": "2026-02-12T17:40:47.000Z",
+            "date_published": "2026-02-12T17:40:47.000Z",
+            "author": {
+                "name": "Nullsecur1ty",
+                "url": "https://github.com/Nullsecur1ty"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/206778611?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>🚀 Enhance your penetration testing with PwnKit Helper, a simple tool for exploiting the CVE-2021-4034 vulnerability in pkexec for local privilege escalation.</div>",
             "url": "https://github.com/kaisen-bot/pwnkit-helper",
             "title": "kaisen-bot/pwnkit-helper: 🚀 Enhance your penetration testing with PwnKit Helper, a simple tool for exploiting the CVE-2021-4034 vulnerability in pkexec for local privilege escalation.",
@@ -209,17 +220,6 @@
             "title": "SimoesCTT/CTT-enhanced-VMware-vCenter: Looking at current high-impact vulnerabilities, let's use the VMware vCenter Server CVE-2021-21972 (CVSS 9.8) as our base. This is a publicly known RCE with patches available, perfect for demonstrating CTT enhancements.",
             "date_modified": "2026-01-27T12:30:57.000Z",
             "date_published": "2026-01-27T12:00:11.000Z",
-            "author": {
-                "name": "SimoesCTT",
-                "url": "https://github.com/SimoesCTT"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/94452709?u=f78957a22c3dd45ed3b5f5c86e460bcc4e54b059&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div> An advanced exploit for Microsoft Exchange Server (CVE-2021-26855, CVE-2021-27065) enhanced with Convergent Time Theory principles, achieving near-perfect theoretical rating through quantum temporal resonance and α-dispersion techniques.</div>",
-            "url": "https://github.com/SimoesCTT/CTT-ProxyLogon-RCE-v1.0---Convergent-Time-Theory-Enhanced-Microsoft-Exchange-Exploit",
-            "title": "SimoesCTT/CTT-ProxyLogon-RCE-v1.0---Convergent-Time-Theory-Enhanced-Microsoft-Exchange-Exploit:  An advanced exploit for Microsoft Exchange Server (CVE-2021-26855, CVE-2021-27065) enhanced with Convergent Time Theory principles, achieving near-perfect theoretical rating through quantum temporal resonance and α-dispersion techniques.",
-            "date_modified": "2026-01-27T12:28:25.000Z",
-            "date_published": "2026-01-27T11:39:31.000Z",
             "author": {
                 "name": "SimoesCTT",
                 "url": "https://github.com/SimoesCTT"
