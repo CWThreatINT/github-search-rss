@@ -9,7 +9,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/214546144?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>🔒 Analyze the CVE-2023-39910 vulnerability in Libbitcoin Explorer to understand its impact on Bitcoin wallet security and protect your assets.</div>",
             "url": "https://github.com/Hitplus/RingSide-Replay-Attack",
             "title": "Hitplus/RingSide-Replay-Attack: 🔒 Analyze the CVE-2023-39910 vulnerability in Libbitcoin Explorer to understand its impact on Bitcoin wallet security and protect your assets.",
-            "date_modified": "2026-02-12T03:55:01.000Z",
+            "date_modified": "2026-02-12T05:40:47.000Z",
             "date_published": "2026-01-07T14:24:08.000Z",
             "author": {
                 "name": "Hitplus",
@@ -17,10 +17,21 @@
             }
         },
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/25298912?u=3250c7706bab9f1ec50a52a36b93421b56962b96&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>IBM i DDM Unauthenticated RCE - Java Reverse Shell</div>",
+            "url": "https://github.com/cyn8/cve-2023-30990",
+            "title": "cyn8/cve-2023-30990: IBM i DDM Unauthenticated RCE - Java Reverse Shell",
+            "date_modified": "2026-02-12T05:22:32.000Z",
+            "date_published": "2026-02-12T05:21:16.000Z",
+            "author": {
+                "name": "cyn8",
+                "url": "https://github.com/cyn8"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/120130511?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>oob_entry tfp0 kernel exploit for armv7 iOS (iOS 3.0–10.3.4), using CVE-2023-32434. We will publish a write-up detailing the methods in the coming weeks. 🐙</div>",
             "url": "https://github.com/rkrakesh524/oob_entry",
             "title": "rkrakesh524/oob_entry: oob_entry tfp0 kernel exploit for armv7 iOS (iOS 3.0–10.3.4), using CVE-2023-32434. We will publish a write-up detailing the methods in the coming weeks. 🐙",
-            "date_modified": "2026-02-12T02:54:58.000Z",
+            "date_modified": "2026-02-12T04:41:24.000Z",
             "date_published": "2025-08-13T09:19:29.000Z",
             "author": {
                 "name": "rkrakesh524",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "K3ysTr0K3R",
                 "url": "https://github.com/K3ysTr0K3R"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/95943653?u=f30841810ccf29e9774db872749950cb399d9f20&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
-            "url": "https://github.com/medyassineakhmari/CVE_2023_23397",
-            "title": "medyassineakhmari/CVE_2023_23397",
-            "date_modified": "2026-01-31T17:31:35.000Z",
-            "date_published": "2026-01-31T17:28:52.000Z",
-            "author": {
-                "name": "medyassineakhmari",
-                "url": "https://github.com/medyassineakhmari"
             }
         }
     ]
