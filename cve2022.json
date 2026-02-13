@@ -6,6 +6,17 @@
     "description": "CVE-2022 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/168992869?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>SnakeYAML CVE-2022-1471 exploit payload for demo</div>",
+            "url": "https://github.com/seal-sec-demo-2/yaml-payload",
+            "title": "seal-sec-demo-2/yaml-payload: SnakeYAML CVE-2022-1471 exploit payload for demo",
+            "date_modified": "2026-02-13T20:38:04.000Z",
+            "date_published": "2026-02-05T22:06:07.000Z",
+            "author": {
+                "name": "seal-sec-demo-2",
+                "url": "https://github.com/seal-sec-demo-2"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/221506194?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Zenar CMS 9.3 suffers from an ​​unrestricted file upload vulnerability​​ in its file management module, allowing authenticated attackers (with minimal privileges) to upload arbitrary files, including malicious PHP scripts, to the web server. </div>",
             "url": "https://github.com/Ch35h1r3c47/CVE-2022-44136-poc",
             "title": "Ch35h1r3c47/CVE-2022-44136-poc: Zenar CMS 9.3 suffers from an ​​unrestricted file upload vulnerability​​ in its file management module, allowing authenticated attackers (with minimal privileges) to upload arbitrary files, including malicious PHP scripts, to the web server. ",
@@ -58,17 +69,6 @@
             "author": {
                 "name": "Sudo-WP",
                 "url": "https://github.com/Sudo-WP"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/168992869?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>SnakeYAML CVE-2022-1471 exploit payload for demo</div>",
-            "url": "https://github.com/seal-sec-demo-2/yaml-payload",
-            "title": "seal-sec-demo-2/yaml-payload: SnakeYAML CVE-2022-1471 exploit payload for demo",
-            "date_modified": "2026-02-05T22:39:01.000Z",
-            "date_published": "2026-02-05T22:06:07.000Z",
-            "author": {
-                "name": "seal-sec-demo-2",
-                "url": "https://github.com/seal-sec-demo-2"
             }
         },
         {
