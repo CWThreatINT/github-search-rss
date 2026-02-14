@@ -6,6 +6,17 @@
     "description": "CVE-2022 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/168992869?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Browser demo: EJS template injection (CVE-2022-29078) with Seal Security remediation</div>",
+            "url": "https://github.com/seal-sec-demo-2/npm-demo",
+            "title": "seal-sec-demo-2/npm-demo: Browser demo: EJS template injection (CVE-2022-29078) with Seal Security remediation",
+            "date_modified": "2026-02-14T03:07:25.000Z",
+            "date_published": "2026-02-13T23:45:15.000Z",
+            "author": {
+                "name": "seal-sec-demo-2",
+                "url": "https://github.com/seal-sec-demo-2"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/168992869?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>SnakeYAML CVE-2022-1471 exploit payload for demo</div>",
             "url": "https://github.com/seal-sec-demo-2/yaml-payload",
             "title": "seal-sec-demo-2/yaml-payload: SnakeYAML CVE-2022-1471 exploit payload for demo",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "arbaaz29",
                 "url": "https://github.com/arbaaz29"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/134297029?u=f526f22af91eab84e95fd5c395ec57508ec29a7b&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2022-23779 is a security vulnerability in Zoho ManageEngine Desktop Central  ,Testing for CVE-2022-23779 using curl </div>",
-            "url": "https://github.com/Rishi-kaul/CVE-2022-23779",
-            "title": "Rishi-kaul/CVE-2022-23779: CVE-2022-23779 is a security vulnerability in Zoho ManageEngine Desktop Central  ,Testing for CVE-2022-23779 using curl ",
-            "date_modified": "2026-01-10T04:29:30.000Z",
-            "date_published": "2026-01-10T04:14:26.000Z",
-            "author": {
-                "name": "Rishi-kaul",
-                "url": "https://github.com/Rishi-kaul"
             }
         }
     ]
