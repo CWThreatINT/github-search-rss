@@ -6,6 +6,39 @@
     "description": "CVE-2021 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/71202342?u=2f11a527aee5eedca7459b3e146327a380218d99&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
+            "url": "https://github.com/andikahilmy/CVE-2021-41269-cron-utils-vulnerable",
+            "title": "andikahilmy/CVE-2021-41269-cron-utils-vulnerable",
+            "date_modified": "2026-02-17T10:33:36.000Z",
+            "date_published": "2026-02-17T10:32:15.000Z",
+            "author": {
+                "name": "andikahilmy",
+                "url": "https://github.com/andikahilmy"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/71202342?u=2f11a527aee5eedca7459b3e146327a380218d99&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
+            "url": "https://github.com/andikahilmy/CVE-2021-35515-commons-compress-vulnerable",
+            "title": "andikahilmy/CVE-2021-35515-commons-compress-vulnerable",
+            "date_modified": "2026-02-17T10:16:31.000Z",
+            "date_published": "2026-02-17T09:42:22.000Z",
+            "author": {
+                "name": "andikahilmy",
+                "url": "https://github.com/andikahilmy"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/71202342?u=2f11a527aee5eedca7459b3e146327a380218d99&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
+            "url": "https://github.com/andikahilmy/CVE-2021-36090-commons-compress-vulnerable",
+            "title": "andikahilmy/CVE-2021-36090-commons-compress-vulnerable",
+            "date_modified": "2026-02-17T10:09:39.000Z",
+            "date_published": "2026-02-17T09:38:44.000Z",
+            "author": {
+                "name": "andikahilmy",
+                "url": "https://github.com/andikahilmy"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/206778611?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>🚀 Enhance your penetration testing with PwnKit Helper, a simple tool for exploiting the CVE-2021-4034 vulnerability in pkexec for local privilege escalation.</div>",
             "url": "https://github.com/kaisen-bot/pwnkit-helper",
             "title": "kaisen-bot/pwnkit-helper: 🚀 Enhance your penetration testing with PwnKit Helper, a simple tool for exploiting the CVE-2021-4034 vulnerability in pkexec for local privilege escalation.",
@@ -190,39 +223,6 @@
             "author": {
                 "name": "jessica0f0116",
                 "url": "https://github.com/jessica0f0116"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/242620395?u=fbace98526016ee3ee015686440ac3010b1c6c1e&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Simple and effective PoC for CVE-2021-43798 Grafana Path Traversal</div>",
-            "url": "https://github.com/notbside/CVE-2021-43798-PoC",
-            "title": "notbside/CVE-2021-43798-PoC: Simple and effective PoC for CVE-2021-43798 Grafana Path Traversal",
-            "date_modified": "2026-01-27T16:50:59.000Z",
-            "date_published": "2026-01-27T16:50:59.000Z",
-            "author": {
-                "name": "notbside",
-                "url": "https://github.com/notbside"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/94452709?u=f78957a22c3dd45ed3b5f5c86e460bcc4e54b059&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Looking at current high-impact vulnerabilities, let's use the VMware vCenter Server CVE-2021-21972 (CVSS 9.8) as our base. This is a publicly known RCE with patches available, perfect for demonstrating CTT enhancements.</div>",
-            "url": "https://github.com/SimoesCTT/CTT-enhanced-VMware-vCenter",
-            "title": "SimoesCTT/CTT-enhanced-VMware-vCenter: Looking at current high-impact vulnerabilities, let's use the VMware vCenter Server CVE-2021-21972 (CVSS 9.8) as our base. This is a publicly known RCE with patches available, perfect for demonstrating CTT enhancements.",
-            "date_modified": "2026-01-27T12:30:57.000Z",
-            "date_published": "2026-01-27T12:00:11.000Z",
-            "author": {
-                "name": "SimoesCTT",
-                "url": "https://github.com/SimoesCTT"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/94452709?u=f78957a22c3dd45ed3b5f5c86e460bcc4e54b059&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div> An advanced exploit for Microsoft Exchange Server (CVE-2021-26855, CVE-2021-27065) enhanced with Convergent Time Theory principles, achieving near-perfect theoretical rating through quantum temporal resonance and α-dispersion techniques.</div>",
-            "url": "https://github.com/SimoesCTT/CTT-ProxyLogon-RCE-v1.0---Convergent-Time-Theory-Enhanced-Microsoft-Exchange-Exploit",
-            "title": "SimoesCTT/CTT-ProxyLogon-RCE-v1.0---Convergent-Time-Theory-Enhanced-Microsoft-Exchange-Exploit:  An advanced exploit for Microsoft Exchange Server (CVE-2021-26855, CVE-2021-27065) enhanced with Convergent Time Theory principles, achieving near-perfect theoretical rating through quantum temporal resonance and α-dispersion techniques.",
-            "date_modified": "2026-01-27T12:28:25.000Z",
-            "date_published": "2026-01-27T11:39:31.000Z",
-            "author": {
-                "name": "SimoesCTT",
-                "url": "https://github.com/SimoesCTT"
             }
         }
     ]
