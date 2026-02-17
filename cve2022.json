@@ -7,6 +7,17 @@
     "items": [
         {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/71202342?u=2f11a527aee5eedca7459b3e146327a380218d99&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
+            "url": "https://github.com/andikahilmy/CVE-2022-29599-maven-shared-utils-vulnerable",
+            "title": "andikahilmy/CVE-2022-29599-maven-shared-utils-vulnerable",
+            "date_modified": "2026-02-17T12:24:15.000Z",
+            "date_published": "2026-02-17T12:23:33.000Z",
+            "author": {
+                "name": "andikahilmy",
+                "url": "https://github.com/andikahilmy"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/71202342?u=2f11a527aee5eedca7459b3e146327a380218d99&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
             "url": "https://github.com/andikahilmy/CVE-2018-20227-rdf4j-vulnerable",
             "title": "andikahilmy/CVE-2018-20227-rdf4j-vulnerable",
             "date_modified": "2026-02-17T10:40:52.000Z",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "Shakur1314",
                 "url": "https://github.com/Shakur1314"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/73300815?u=3fe776411aea88d3c7f048b10c1b452d0a3dc2dd&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Privilege Escalation using nodes/proxy (create action allowed) and nodes/status (update/patch actions allowed)</div>",
-            "url": "https://github.com/arbaaz29/CVE-2022-3294",
-            "title": "arbaaz29/CVE-2022-3294: Privilege Escalation using nodes/proxy (create action allowed) and nodes/status (update/patch actions allowed)",
-            "date_modified": "2026-01-14T04:36:43.000Z",
-            "date_published": "2026-01-14T04:17:28.000Z",
-            "author": {
-                "name": "arbaaz29",
-                "url": "https://github.com/arbaaz29"
             }
         }
     ]
