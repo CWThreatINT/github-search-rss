@@ -6,6 +6,39 @@
     "description": "CVE-2021 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/71202342?u=2f11a527aee5eedca7459b3e146327a380218d99&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
+            "url": "https://github.com/andikahilmy/CVE-2021-31684-json-smart-v2-vulnerable",
+            "title": "andikahilmy/CVE-2021-31684-json-smart-v2-vulnerable",
+            "date_modified": "2026-02-17T16:53:35.000Z",
+            "date_published": "2026-02-17T16:53:09.000Z",
+            "author": {
+                "name": "andikahilmy",
+                "url": "https://github.com/andikahilmy"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/71202342?u=2f11a527aee5eedca7459b3e146327a380218d99&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
+            "url": "https://github.com/andikahilmy/CVE-2021-35516-commons-compress-vulnerable",
+            "title": "andikahilmy/CVE-2021-35516-commons-compress-vulnerable",
+            "date_modified": "2026-02-17T16:48:47.000Z",
+            "date_published": "2026-02-17T16:45:44.000Z",
+            "author": {
+                "name": "andikahilmy",
+                "url": "https://github.com/andikahilmy"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/71202342?u=2f11a527aee5eedca7459b3e146327a380218d99&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
+            "url": "https://github.com/andikahilmy/CVE-2021-35517-commons-compress-vulnerable",
+            "title": "andikahilmy/CVE-2021-35517-commons-compress-vulnerable",
+            "date_modified": "2026-02-17T16:45:52.000Z",
+            "date_published": "2026-02-17T16:43:51.000Z",
+            "author": {
+                "name": "andikahilmy",
+                "url": "https://github.com/andikahilmy"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/206778611?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>🚀 Enhance your penetration testing with PwnKit Helper, a simple tool for exploiting the CVE-2021-4034 vulnerability in pkexec for local privilege escalation.</div>",
             "url": "https://github.com/kaisen-bot/pwnkit-helper",
             "title": "kaisen-bot/pwnkit-helper: 🚀 Enhance your penetration testing with PwnKit Helper, a simple tool for exploiting the CVE-2021-4034 vulnerability in pkexec for local privilege escalation.",
@@ -190,39 +223,6 @@
             "author": {
                 "name": "Sudo-WP",
                 "url": "https://github.com/Sudo-WP"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/259642344?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Log4Shell (CVE-2021-44228) security remediation demo - Showcasing Antigravity's ability to identify and fix critical security vulnerabilities in Java applications</div>",
-            "url": "https://github.com/agylabs/log4shell-remediation",
-            "title": "agylabs/log4shell-remediation: Log4Shell (CVE-2021-44228) security remediation demo - Showcasing Antigravity's ability to identify and fix critical security vulnerabilities in Java applications",
-            "date_modified": "2026-02-05T20:31:46.000Z",
-            "date_published": "2026-02-05T19:41:28.000Z",
-            "author": {
-                "name": "agylabs",
-                "url": "https://github.com/agylabs"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/43967630?u=3adee15bd18078566d54f1a4b1fec4725493622c&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2021-34527 AddPrinterDriverEx() Privilege Escalation</div>",
-            "url": "https://github.com/hackerhouse-opensource/cve-2021-34527",
-            "title": "hackerhouse-opensource/cve-2021-34527: CVE-2021-34527 AddPrinterDriverEx() Privilege Escalation",
-            "date_modified": "2026-02-02T15:29:44.000Z",
-            "date_published": "2022-09-05T23:48:44.000Z",
-            "author": {
-                "name": "hackerhouse-opensource",
-                "url": "https://github.com/hackerhouse-opensource"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/94452709?u=f78957a22c3dd45ed3b5f5c86e460bcc4e54b059&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Microsoft just released emergency patches for CVE-2026-21509, a zero-day in the Office Suite that bypasses OLE/COM mitigations when a user simply opens a file. They think their \"Service-side change\" for Office 2021+ is a solid wall. </div>",
-            "url": "https://github.com/SimoesCTT/SCTT-2026-33-0007-The-OLE-Vortex-Laminar-Bypass-",
-            "title": "SimoesCTT/SCTT-2026-33-0007-The-OLE-Vortex-Laminar-Bypass-: Microsoft just released emergency patches for CVE-2026-21509, a zero-day in the Office Suite that bypasses OLE/COM mitigations when a user simply opens a file. They think their \"Service-side change\" for Office 2021+ is a solid wall. ",
-            "date_modified": "2026-01-31T16:08:36.000Z",
-            "date_published": "2026-01-31T09:50:23.000Z",
-            "author": {
-                "name": "SimoesCTT",
-                "url": "https://github.com/SimoesCTT"
             }
         }
     ]
