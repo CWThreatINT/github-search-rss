@@ -6,6 +6,28 @@
     "description": "CVE-2023 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/120130511?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>oob_entry tfp0 kernel exploit for armv7 iOS (iOS 3.0–10.3.4), using CVE-2023-32434. We will publish a write-up detailing the methods in the coming weeks. 🐙</div>",
+            "url": "https://github.com/rkrakesh524/oob_entry",
+            "title": "rkrakesh524/oob_entry: oob_entry tfp0 kernel exploit for armv7 iOS (iOS 3.0–10.3.4), using CVE-2023-32434. We will publish a write-up detailing the methods in the coming weeks. 🐙",
+            "date_modified": "2026-02-18T13:36:16.000Z",
+            "date_published": "2025-08-13T09:19:29.000Z",
+            "author": {
+                "name": "rkrakesh524",
+                "url": "https://github.com/rkrakesh524"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/12020618?u=ab12367ec9cf12762602b4d4c1c5bc4bfd8df093&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Reflected XSS in 1000projects Book Management System 1.0</div>",
+            "url": "https://github.com/ssophiz/CVE-2023-34632",
+            "title": "ssophiz/CVE-2023-34632: Reflected XSS in 1000projects Book Management System 1.0",
+            "date_modified": "2026-02-18T13:14:13.000Z",
+            "date_published": "2026-02-09T11:28:34.000Z",
+            "author": {
+                "name": "ssophiz",
+                "url": "https://github.com/ssophiz"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/214546144?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>🔒 Analyze the CVE-2023-39910 vulnerability in Libbitcoin Explorer to understand its impact on Bitcoin wallet security and protect your assets.</div>",
             "url": "https://github.com/Hitplus/RingSide-Replay-Attack",
             "title": "Hitplus/RingSide-Replay-Attack: 🔒 Analyze the CVE-2023-39910 vulnerability in Libbitcoin Explorer to understand its impact on Bitcoin wallet security and protect your assets.",
@@ -14,17 +36,6 @@
             "author": {
                 "name": "Hitplus",
                 "url": "https://github.com/Hitplus"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/120130511?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>oob_entry tfp0 kernel exploit for armv7 iOS (iOS 3.0–10.3.4), using CVE-2023-32434. We will publish a write-up detailing the methods in the coming weeks. 🐙</div>",
-            "url": "https://github.com/rkrakesh524/oob_entry",
-            "title": "rkrakesh524/oob_entry: oob_entry tfp0 kernel exploit for armv7 iOS (iOS 3.0–10.3.4), using CVE-2023-32434. We will publish a write-up detailing the methods in the coming weeks. 🐙",
-            "date_modified": "2026-02-18T10:34:35.000Z",
-            "date_published": "2025-08-13T09:19:29.000Z",
-            "author": {
-                "name": "rkrakesh524",
-                "url": "https://github.com/rkrakesh524"
             }
         },
         {
@@ -135,17 +146,6 @@
             "author": {
                 "name": "Rai2en",
                 "url": "https://github.com/Rai2en"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/12020618?u=ab12367ec9cf12762602b4d4c1c5bc4bfd8df093&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Reflected XSS in 1000projects Book Management System 1.0</div>",
-            "url": "https://github.com/ssophiz/CVE-2023-34632",
-            "title": "ssophiz/CVE-2023-34632: Reflected XSS in 1000projects Book Management System 1.0",
-            "date_modified": "2026-02-09T12:46:25.000Z",
-            "date_published": "2026-02-09T11:28:34.000Z",
-            "author": {
-                "name": "ssophiz",
-                "url": "https://github.com/ssophiz"
             }
         },
         {
