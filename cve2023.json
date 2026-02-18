@@ -6,6 +6,28 @@
     "description": "CVE-2023 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/120130511?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>oob_entry tfp0 kernel exploit for armv7 iOS (iOS 3.0–10.3.4), using CVE-2023-32434. We will publish a write-up detailing the methods in the coming weeks. 🐙</div>",
+            "url": "https://github.com/rkrakesh524/oob_entry",
+            "title": "rkrakesh524/oob_entry: oob_entry tfp0 kernel exploit for armv7 iOS (iOS 3.0–10.3.4), using CVE-2023-32434. We will publish a write-up detailing the methods in the coming weeks. 🐙",
+            "date_modified": "2026-02-18T08:31:38.000Z",
+            "date_published": "2025-08-13T09:19:29.000Z",
+            "author": {
+                "name": "rkrakesh524",
+                "url": "https://github.com/rkrakesh524"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/213306745?u=f8abe07c9df4fa25833ca98261ae919ad25d39bd&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
+            "url": "https://github.com/mbanyamer/CVE-2023-31059-Repetier-Server-1.4.10-Unauthenticated-Path-Traversal",
+            "title": "mbanyamer/CVE-2023-31059-Repetier-Server-1.4.10-Unauthenticated-Path-Traversal",
+            "date_modified": "2026-02-18T07:58:26.000Z",
+            "date_published": "2026-02-18T07:56:56.000Z",
+            "author": {
+                "name": "mbanyamer",
+                "url": "https://github.com/mbanyamer"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/214546144?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>🔒 Analyze the CVE-2023-39910 vulnerability in Libbitcoin Explorer to understand its impact on Bitcoin wallet security and protect your assets.</div>",
             "url": "https://github.com/Hitplus/RingSide-Replay-Attack",
             "title": "Hitplus/RingSide-Replay-Attack: 🔒 Analyze the CVE-2023-39910 vulnerability in Libbitcoin Explorer to understand its impact on Bitcoin wallet security and protect your assets.",
@@ -14,17 +36,6 @@
             "author": {
                 "name": "Hitplus",
                 "url": "https://github.com/Hitplus"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/120130511?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>oob_entry tfp0 kernel exploit for armv7 iOS (iOS 3.0–10.3.4), using CVE-2023-32434. We will publish a write-up detailing the methods in the coming weeks. 🐙</div>",
-            "url": "https://github.com/rkrakesh524/oob_entry",
-            "title": "rkrakesh524/oob_entry: oob_entry tfp0 kernel exploit for armv7 iOS (iOS 3.0–10.3.4), using CVE-2023-32434. We will publish a write-up detailing the methods in the coming weeks. 🐙",
-            "date_modified": "2026-02-18T05:13:33.000Z",
-            "date_published": "2025-08-13T09:19:29.000Z",
-            "author": {
-                "name": "rkrakesh524",
-                "url": "https://github.com/rkrakesh524"
             }
         },
         {
@@ -53,7 +64,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/32859322?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>cow bypass </div>",
             "url": "https://github.com/619555798/cve-2023-42824",
             "title": "619555798/cve-2023-42824: cow bypass ",
-            "date_modified": "2026-02-14T17:55:30.000Z",
+            "date_modified": "2026-02-18T08:14:06.000Z",
             "date_published": "2026-02-14T11:24:30.000Z",
             "author": {
                 "name": "619555798",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "Evillm",
                 "url": "https://github.com/Evillm"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/226579633?u=92344d838483fb6f967464c11934dc4e8d105e65&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Exploit for CVE-2023-27163 - Maltrail(0.53) - RCE</div>",
-            "url": "https://github.com/thealchimist86/CVE-2023-27163---Maltrail-0.53---RCE",
-            "title": "thealchimist86/CVE-2023-27163---Maltrail-0.53---RCE: Exploit for CVE-2023-27163 - Maltrail(0.53) - RCE",
-            "date_modified": "2026-02-03T18:39:40.000Z",
-            "date_published": "2026-02-03T18:32:51.000Z",
-            "author": {
-                "name": "thealchimist86",
-                "url": "https://github.com/thealchimist86"
             }
         }
     ]
