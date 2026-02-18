@@ -6,6 +6,17 @@
     "description": "CVE-2022 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/25121367?u=c81ee6d3a2e928d064b3e71b3de0e479ca8f21df&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Exploitation de CVE-2022-22980 sur HTB</div>",
+            "url": "https://github.com/Eliasdekiniweek/CVE-2022-22980",
+            "title": "Eliasdekiniweek/CVE-2022-22980: Exploitation de CVE-2022-22980 sur HTB",
+            "date_modified": "2026-02-18T10:22:37.000Z",
+            "date_published": "2026-02-18T10:21:33.000Z",
+            "author": {
+                "name": "Eliasdekiniweek",
+                "url": "https://github.com/Eliasdekiniweek"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/71202342?u=2f11a527aee5eedca7459b3e146327a380218d99&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
             "url": "https://github.com/andikahilmy/CVE-2022-23457-esapi-java-legacy-vulnerable",
             "title": "andikahilmy/CVE-2022-23457-esapi-java-legacy-vulnerable",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "0xless",
                 "url": "https://github.com/0xless"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/242277634?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A comprehensive Security Operations Centre (SOC) incident response simulation demonstrating threat detection, triage, analysis, and mitigation of the Spring4Shell vulnerability (CVE-2022-22965).</div>",
-            "url": "https://github.com/Shakur1314/CVE-2022-22965-Spring4Shell-Security-Operations-Analysis",
-            "title": "Shakur1314/CVE-2022-22965-Spring4Shell-Security-Operations-Analysis: A comprehensive Security Operations Centre (SOC) incident response simulation demonstrating threat detection, triage, analysis, and mitigation of the Spring4Shell vulnerability (CVE-2022-22965).",
-            "date_modified": "2026-01-14T08:20:16.000Z",
-            "date_published": "2026-01-14T07:45:01.000Z",
-            "author": {
-                "name": "Shakur1314",
-                "url": "https://github.com/Shakur1314"
             }
         }
     ]
