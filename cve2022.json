@@ -6,6 +6,17 @@
     "description": "CVE-2022 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/116545095?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2022-24521 poc</div>",
+            "url": "https://github.com/uname1able/CVE-2022-24521",
+            "title": "uname1able/CVE-2022-24521: CVE-2022-24521 poc",
+            "date_modified": "2026-02-19T03:31:43.000Z",
+            "date_published": "2026-02-19T03:23:45.000Z",
+            "author": {
+                "name": "uname1able",
+                "url": "https://github.com/uname1able"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/25121367?u=c81ee6d3a2e928d064b3e71b3de0e479ca8f21df&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Exploitation de CVE-2022-22980 sur HTB</div>",
             "url": "https://github.com/Eliasdekiniweek/CVE-2022-22980",
             "title": "Eliasdekiniweek/CVE-2022-22980: Exploitation de CVE-2022-22980 sur HTB",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "nimesh895",
                 "url": "https://github.com/nimesh895"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/78535423?u=7ececfaece9dfa599707819dd7e100c9d5b31ca7&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Demo webapp vulnerable to CVE-2022-44900</div>",
-            "url": "https://github.com/0xless/CVE-2022-44900-demo-lab",
-            "title": "0xless/CVE-2022-44900-demo-lab: Demo webapp vulnerable to CVE-2022-44900",
-            "date_modified": "2026-01-20T18:59:49.000Z",
-            "date_published": "2023-01-21T14:52:59.000Z",
-            "author": {
-                "name": "0xless",
-                "url": "https://github.com/0xless"
             }
         }
     ]
