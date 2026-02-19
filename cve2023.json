@@ -6,6 +6,17 @@
     "description": "CVE-2023 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/1459006?u=6d84b22bf49046c34129d8bd1e10107188532d33&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>SheetJS xlsx 0.18.5 fork with CVE-2023-30533 and CVE-2024-22363 fixes</div>",
+            "url": "https://github.com/weareu/xlsx",
+            "title": "weareu/xlsx: SheetJS xlsx 0.18.5 fork with CVE-2023-30533 and CVE-2024-22363 fixes",
+            "date_modified": "2026-02-19T23:03:38.000Z",
+            "date_published": "2026-02-19T23:03:18.000Z",
+            "author": {
+                "name": "weareu",
+                "url": "https://github.com/weareu"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/120130511?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>oob_entry tfp0 kernel exploit for armv7 iOS (iOS 3.0–10.3.4), using CVE-2023-32434. We will publish a write-up detailing the methods in the coming weeks. 🐙</div>",
             "url": "https://github.com/rkrakesh524/oob_entry",
             "title": "rkrakesh524/oob_entry: oob_entry tfp0 kernel exploit for armv7 iOS (iOS 3.0–10.3.4), using CVE-2023-32434. We will publish a write-up detailing the methods in the coming weeks. 🐙",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "keto0422",
                 "url": "https://github.com/keto0422"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/49622995?u=291d51d6cc2beecee6ac470d6b116c41d0b7bc87&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Pre-authentication Remote Code Execution exploit for TP-Link Omada ER605 router via DDNS client daemon (cmxddnsd)</div>",
-            "url": "https://github.com/redpack-kr/CVE-2024-5243-pwn2own-toronto-2023",
-            "title": "redpack-kr/CVE-2024-5243-pwn2own-toronto-2023: Pre-authentication Remote Code Execution exploit for TP-Link Omada ER605 router via DDNS client daemon (cmxddnsd)",
-            "date_modified": "2026-02-08T19:57:17.000Z",
-            "date_published": "2026-02-08T19:57:17.000Z",
-            "author": {
-                "name": "redpack-kr",
-                "url": "https://github.com/redpack-kr"
             }
         }
     ]
