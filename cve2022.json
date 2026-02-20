@@ -6,6 +6,28 @@
     "description": "CVE-2022 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/116545095?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2022-37969 poc</div>",
+            "url": "https://github.com/uname1able/CVE-2022-37969",
+            "title": "uname1able/CVE-2022-37969: CVE-2022-37969 poc",
+            "date_modified": "2026-02-20T03:38:22.000Z",
+            "date_published": "2026-02-20T03:34:26.000Z",
+            "author": {
+                "name": "uname1able",
+                "url": "https://github.com/uname1able"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/116545095?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2022-24521 poc</div>",
+            "url": "https://github.com/uname1able/CVE-2022-24521",
+            "title": "uname1able/CVE-2022-24521: CVE-2022-24521 poc",
+            "date_modified": "2026-02-20T03:37:52.000Z",
+            "date_published": "2026-02-19T03:23:45.000Z",
+            "author": {
+                "name": "uname1able",
+                "url": "https://github.com/uname1able"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/75486586?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>This is the PoC exploit for CVE-2022-41840, running Zenario</div>",
             "url": "https://github.com/PrinceAikinsBaidoo/CVE-2022-41840-PoC",
             "title": "PrinceAikinsBaidoo/CVE-2022-41840-PoC: This is the PoC exploit for CVE-2022-41840, running Zenario",
@@ -14,17 +36,6 @@
             "author": {
                 "name": "PrinceAikinsBaidoo",
                 "url": "https://github.com/PrinceAikinsBaidoo"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/116545095?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2022-24521 poc</div>",
-            "url": "https://github.com/uname1able/CVE-2022-24521",
-            "title": "uname1able/CVE-2022-24521: CVE-2022-24521 poc",
-            "date_modified": "2026-02-19T03:31:43.000Z",
-            "date_published": "2026-02-19T03:23:45.000Z",
-            "author": {
-                "name": "uname1able",
-                "url": "https://github.com/uname1able"
             }
         },
         {
@@ -212,17 +223,6 @@
             "author": {
                 "name": "yup-Ivan",
                 "url": "https://github.com/yup-Ivan"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/110934161?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>For HTB practice</div>",
-            "url": "https://github.com/k-javaman12/CVE-2022-44268-",
-            "title": "k-javaman12/CVE-2022-44268-: For HTB practice",
-            "date_modified": "2026-01-24T05:15:27.000Z",
-            "date_published": "2026-01-24T05:14:38.000Z",
-            "author": {
-                "name": "k-javaman12",
-                "url": "https://github.com/k-javaman12"
             }
         }
     ]
