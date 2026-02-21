@@ -6,6 +6,17 @@
     "description": "CVE-2022 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/25121367?u=cc9b2d61d4acf1f179221cef5febe9a3e5ec0123&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Exploitation de CVE-2022-26923</div>",
+            "url": "https://github.com/Eliasdekiniweek/CVE-2022-26923",
+            "title": "Eliasdekiniweek/CVE-2022-26923: Exploitation de CVE-2022-26923",
+            "date_modified": "2026-02-21T09:40:27.000Z",
+            "date_published": "2026-02-21T09:35:59.000Z",
+            "author": {
+                "name": "Eliasdekiniweek",
+                "url": "https://github.com/Eliasdekiniweek"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/116545095?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2022-37969 poc</div>",
             "url": "https://github.com/uname1able/CVE-2022-37969",
             "title": "uname1able/CVE-2022-37969: CVE-2022-37969 poc",
@@ -39,10 +50,10 @@
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/25121367?u=c81ee6d3a2e928d064b3e71b3de0e479ca8f21df&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Exploitation de CVE-2022-22980 sur HTB</div>",
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/25121367?u=cc9b2d61d4acf1f179221cef5febe9a3e5ec0123&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Exploitation de CVE-2022-22980</div>",
             "url": "https://github.com/Eliasdekiniweek/CVE-2022-22980",
-            "title": "Eliasdekiniweek/CVE-2022-22980: Exploitation de CVE-2022-22980 sur HTB",
-            "date_modified": "2026-02-19T09:54:42.000Z",
+            "title": "Eliasdekiniweek/CVE-2022-22980: Exploitation de CVE-2022-22980",
+            "date_modified": "2026-02-21T09:40:58.000Z",
             "date_published": "2026-02-18T10:21:33.000Z",
             "author": {
                 "name": "Eliasdekiniweek",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "XK3NF4",
                 "url": "https://github.com/XK3NF4"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/158217864?u=2a39c36e514c4db9a9d5eb4f364d8f118d65f3c8&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>POC (CSRF) -&gt; CVE-2022-47447</div>",
-            "url": "https://github.com/yup-Ivan/CVE-2022-47447",
-            "title": "yup-Ivan/CVE-2022-47447: POC (CSRF) -> CVE-2022-47447",
-            "date_modified": "2026-01-26T13:58:10.000Z",
-            "date_published": "2026-01-26T13:43:21.000Z",
-            "author": {
-                "name": "yup-Ivan",
-                "url": "https://github.com/yup-Ivan"
             }
         }
     ]
