@@ -6,6 +6,17 @@
     "description": "CVE-2023 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/214546144?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>🔒 Analyze the CVE-2023-39910 vulnerability in Libbitcoin Explorer to understand its impact on Bitcoin wallet security and protect your assets.</div>",
+            "url": "https://github.com/Hitplus/RingSide-Replay-Attack",
+            "title": "Hitplus/RingSide-Replay-Attack: 🔒 Analyze the CVE-2023-39910 vulnerability in Libbitcoin Explorer to understand its impact on Bitcoin wallet security and protect your assets.",
+            "date_modified": "2026-02-22T16:47:23.000Z",
+            "date_published": "2026-01-07T14:24:08.000Z",
+            "author": {
+                "name": "Hitplus",
+                "url": "https://github.com/Hitplus"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/73416867?u=b2e3f428cf2a862a9ac50e4ce3033fe188daba56&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Proof of Concept for an arbitrary command injection vulnerability in yt-dlp’s --netrc-cmd option (GHSA-g3gw-q23r-pgqm / CVE-2026-26331). Demonstrates shell command execution via maliciously crafted URLs in affected versions (≥ 2023.06.21, &lt; 2026.02.21).</div>",
             "url": "https://github.com/dxlerYT/CVE-2026-26331",
             "title": "dxlerYT/CVE-2026-26331: Proof of Concept for an arbitrary command injection vulnerability in yt-dlp’s --netrc-cmd option (GHSA-g3gw-q23r-pgqm / CVE-2026-26331). Demonstrates shell command execution via maliciously crafted URLs in affected versions (≥ 2023.06.21, < 2026.02.21).",
@@ -25,17 +36,6 @@
             "author": {
                 "name": "rkrakesh524",
                 "url": "https://github.com/rkrakesh524"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/214546144?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>🔒 Analyze the CVE-2023-39910 vulnerability in Libbitcoin Explorer to understand its impact on Bitcoin wallet security and protect your assets.</div>",
-            "url": "https://github.com/Hitplus/RingSide-Replay-Attack",
-            "title": "Hitplus/RingSide-Replay-Attack: 🔒 Analyze the CVE-2023-39910 vulnerability in Libbitcoin Explorer to understand its impact on Bitcoin wallet security and protect your assets.",
-            "date_modified": "2026-02-22T13:47:55.000Z",
-            "date_published": "2026-01-07T14:24:08.000Z",
-            "author": {
-                "name": "Hitplus",
-                "url": "https://github.com/Hitplus"
             }
         },
         {
