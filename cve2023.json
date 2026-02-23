@@ -6,6 +6,28 @@
     "description": "CVE-2023 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/41988959?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2023-3269: Linux kernel privilege escalation vulnerability</div>",
+            "url": "https://github.com/lrh2000/StackRot",
+            "title": "lrh2000/StackRot: CVE-2023-3269: Linux kernel privilege escalation vulnerability",
+            "date_modified": "2026-02-23T14:36:26.000Z",
+            "date_published": "2023-06-28T13:22:26.000Z",
+            "author": {
+                "name": "lrh2000",
+                "url": "https://github.com/lrh2000"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/120130511?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>oob_entry tfp0 kernel exploit for armv7 iOS (iOS 3.0–10.3.4), using CVE-2023-32434. We will publish a write-up detailing the methods in the coming weeks. 🐙</div>",
+            "url": "https://github.com/rkrakesh524/oob_entry",
+            "title": "rkrakesh524/oob_entry: oob_entry tfp0 kernel exploit for armv7 iOS (iOS 3.0–10.3.4), using CVE-2023-32434. We will publish a write-up detailing the methods in the coming weeks. 🐙",
+            "date_modified": "2026-02-23T14:16:07.000Z",
+            "date_published": "2025-08-13T09:19:29.000Z",
+            "author": {
+                "name": "rkrakesh524",
+                "url": "https://github.com/rkrakesh524"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/214546144?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>🔒 Analyze the CVE-2023-39910 vulnerability in Libbitcoin Explorer to understand its impact on Bitcoin wallet security and protect your assets.</div>",
             "url": "https://github.com/Hitplus/RingSide-Replay-Attack",
             "title": "Hitplus/RingSide-Replay-Attack: 🔒 Analyze the CVE-2023-39910 vulnerability in Libbitcoin Explorer to understand its impact on Bitcoin wallet security and protect your assets.",
@@ -14,17 +36,6 @@
             "author": {
                 "name": "Hitplus",
                 "url": "https://github.com/Hitplus"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/120130511?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>oob_entry tfp0 kernel exploit for armv7 iOS (iOS 3.0–10.3.4), using CVE-2023-32434. We will publish a write-up detailing the methods in the coming weeks. 🐙</div>",
-            "url": "https://github.com/rkrakesh524/oob_entry",
-            "title": "rkrakesh524/oob_entry: oob_entry tfp0 kernel exploit for armv7 iOS (iOS 3.0–10.3.4), using CVE-2023-32434. We will publish a write-up detailing the methods in the coming weeks. 🐙",
-            "date_modified": "2026-02-23T11:02:16.000Z",
-            "date_published": "2025-08-13T09:19:29.000Z",
-            "author": {
-                "name": "rkrakesh524",
-                "url": "https://github.com/rkrakesh524"
             }
         },
         {
@@ -209,17 +220,6 @@
             "title": "sahiloj/CVE-2023-37191: A Stored Cross-Site Scripting (XSS) vulnerability exists in Issabel PBX version 4.0.0-6. This allows an authenticated attacker to inject arbitrary JavaScript or HTML code via the Group and Description input fields found under System → Users → Groups.",
             "date_modified": "2026-02-20T06:42:59.000Z",
             "date_published": "2023-07-07T17:11:10.000Z",
-            "author": {
-                "name": "sahiloj",
-                "url": "https://github.com/sahiloj"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/59600077?u=6956c47eb949827ca93bd55eccd39018280f9555&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Issabel-pbx v 4.0.0-6 contains a Cross-Site Request Forgery (CSRF) vulnerability in its user group management functionality.</div>",
-            "url": "https://github.com/sahiloj/CVE-2023-37597",
-            "title": "sahiloj/CVE-2023-37597: Issabel-pbx v 4.0.0-6 contains a Cross-Site Request Forgery (CSRF) vulnerability in its user group management functionality.",
-            "date_modified": "2026-02-20T06:31:43.000Z",
-            "date_published": "2023-07-10T16:28:29.000Z",
             "author": {
                 "name": "sahiloj",
                 "url": "https://github.com/sahiloj"
