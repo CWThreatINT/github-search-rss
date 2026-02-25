@@ -6,6 +6,17 @@
     "description": "CVE-2022 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/25670930?u=6fad2f13c751b51fd47e377945d79369743f5948&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2022-3653 just the c++ component in Vulkan for later study</div>",
+            "url": "https://github.com/SpiralBL0CK/CVE-2022-3653",
+            "title": "SpiralBL0CK/CVE-2022-3653: CVE-2022-3653 just the c++ component in Vulkan for later study",
+            "date_modified": "2026-02-25T20:50:53.000Z",
+            "date_published": "2026-01-09T13:44:36.000Z",
+            "author": {
+                "name": "SpiralBL0CK",
+                "url": "https://github.com/SpiralBL0CK"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/221097439?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Research and proof-of-concept for CVE-2022-0185 Linux kernel heap overflow vulnerability.</div>",
             "url": "https://github.com/sandesh9978/CVE-2022-0185-Analysis-and-Exploit",
             "title": "sandesh9978/CVE-2022-0185-Analysis-and-Exploit: Research and proof-of-concept for CVE-2022-0185 Linux kernel heap overflow vulnerability.",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "bluedragonsecurity",
                 "url": "https://github.com/bluedragonsecurity"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/102984166?u=7af0d825d1dcde8a3c6aaaff8ce08f91b0c9f222&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2022-38694 implementation with GUI</div>",
-            "url": "https://github.com/Forbirdden/TigerSmash",
-            "title": "Forbirdden/TigerSmash: CVE-2022-38694 implementation with GUI",
-            "date_modified": "2026-01-29T15:58:28.000Z",
-            "date_published": "2026-01-29T15:58:27.000Z",
-            "author": {
-                "name": "Forbirdden",
-                "url": "https://github.com/Forbirdden"
             }
         }
     ]
