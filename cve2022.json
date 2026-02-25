@@ -6,6 +6,17 @@
     "description": "CVE-2022 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/116545095?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
+            "url": "https://github.com/uname1able/CVE-2022-24481",
+            "title": "uname1able/CVE-2022-24481",
+            "date_modified": "2026-02-25T03:03:45.000Z",
+            "date_published": "2026-02-25T03:02:43.000Z",
+            "author": {
+                "name": "uname1able",
+                "url": "https://github.com/uname1able"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/25121367?u=dd85fb51332a9f24a9b1a06695b2a8118d44c3a4&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Exploitation de CVE-2022-26923</div>",
             "url": "https://github.com/Eliasdekiniweek/CVE-2022-26923",
             "title": "Eliasdekiniweek/CVE-2022-26923: Exploitation de CVE-2022-26923",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "stfnw",
                 "url": "https://github.com/stfnw"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/207497148?u=ce8a07d9b7ca83e8006fe95708cb9f454e5e369f&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Argus Surveillance DVR v4.0 employs weak password encryption.</div>",
-            "url": "https://github.com/XK3NF4/CVE-2022-25012",
-            "title": "XK3NF4/CVE-2022-25012: Argus Surveillance DVR v4.0 employs weak password encryption.",
-            "date_modified": "2026-01-26T18:36:33.000Z",
-            "date_published": "2026-01-26T17:46:01.000Z",
-            "author": {
-                "name": "XK3NF4",
-                "url": "https://github.com/XK3NF4"
             }
         }
     ]
