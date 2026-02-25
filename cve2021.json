@@ -6,6 +6,17 @@
     "description": "CVE-2021 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/200452010?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Ubuntu OverlayFS Local Privileges Escalation </div>",
+            "url": "https://github.com/Travelerforeverywhere/CVE-2021-3493",
+            "title": "Travelerforeverywhere/CVE-2021-3493: Ubuntu OverlayFS Local Privileges Escalation ",
+            "date_modified": "2026-02-25T10:36:36.000Z",
+            "date_published": "2026-02-25T10:30:52.000Z",
+            "author": {
+                "name": "Travelerforeverywhere",
+                "url": "https://github.com/Travelerforeverywhere"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/206778611?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>🚀 Enhance your penetration testing with PwnKit Helper, a simple tool for exploiting the CVE-2021-4034 vulnerability in pkexec for local privilege escalation.</div>",
             "url": "https://github.com/kaisen-bot/pwnkit-helper",
             "title": "kaisen-bot/pwnkit-helper: 🚀 Enhance your penetration testing with PwnKit Helper, a simple tool for exploiting the CVE-2021-4034 vulnerability in pkexec for local privilege escalation.",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "Truyen08",
                 "url": "https://github.com/Truyen08"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/257251616?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Security analysis - CVE-2021-31712</div>",
-            "url": "https://github.com/CQ-Tools/CVE-2021-31712-fixed",
-            "title": "CQ-Tools/CVE-2021-31712-fixed: Security analysis - CVE-2021-31712",
-            "date_modified": "2026-02-08T08:41:11.000Z",
-            "date_published": "2026-02-08T08:41:01.000Z",
-            "author": {
-                "name": "CQ-Tools",
-                "url": "https://github.com/CQ-Tools"
             }
         }
     ]
