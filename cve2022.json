@@ -6,6 +6,17 @@
     "description": "CVE-2022 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/102460295?u=8c5194b43783b9461828ee3ee9313c9f70578d85&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>attacker </div>",
+            "url": "https://github.com/jelee2555/CVE-2022-1471-attacker",
+            "title": "jelee2555/CVE-2022-1471-attacker: attacker ",
+            "date_modified": "2026-02-26T01:48:08.000Z",
+            "date_published": "2026-02-26T01:29:37.000Z",
+            "author": {
+                "name": "jelee2555",
+                "url": "https://github.com/jelee2555"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/25670930?u=6fad2f13c751b51fd47e377945d79369743f5948&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2022-3653 just the c++ component in Vulkan for later study</div>",
             "url": "https://github.com/SpiralBL0CK/CVE-2022-3653",
             "title": "SpiralBL0CK/CVE-2022-3653: CVE-2022-3653 just the c++ component in Vulkan for later study",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "suyash-R-K",
                 "url": "https://github.com/suyash-R-K"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/144339177?u=159cdc7465cfe455b051255c1d54a832eb6bc492&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Exploiting CVE-2022-0847 - written by : Antonius (w1sdom)</div>",
-            "url": "https://github.com/bluedragonsecurity/Linux-Kernel-Dirty-Pipe-Exploitation-Logic-Bug-",
-            "title": "bluedragonsecurity/Linux-Kernel-Dirty-Pipe-Exploitation-Logic-Bug-: Exploiting CVE-2022-0847 - written by : Antonius (w1sdom)",
-            "date_modified": "2026-02-01T02:04:57.000Z",
-            "date_published": "2026-02-01T01:28:11.000Z",
-            "author": {
-                "name": "bluedragonsecurity",
-                "url": "https://github.com/bluedragonsecurity"
             }
         }
     ]
