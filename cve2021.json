@@ -6,10 +6,21 @@
     "description": "CVE-2021 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/259905299?u=104f971a68cdf1348c51e6054c6a6f98488af6f4&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2021-44228</div>",
+            "url": "https://github.com/zaryouhashraf/CVE-2021-44228",
+            "title": "zaryouhashraf/CVE-2021-44228: CVE-2021-44228",
+            "date_modified": "2026-02-26T19:01:40.000Z",
+            "date_published": "2026-02-26T18:39:00.000Z",
+            "author": {
+                "name": "zaryouhashraf",
+                "url": "https://github.com/zaryouhashraf"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/85900366?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A script to exploit a vulnerability in xmlsec1 where xmlsec ignores loaded public keys</div>",
             "url": "https://github.com/Crims-on/CVE-2021-21239",
             "title": "Crims-on/CVE-2021-21239: A script to exploit a vulnerability in xmlsec1 where xmlsec ignores loaded public keys",
-            "date_modified": "2026-02-26T18:36:34.000Z",
+            "date_modified": "2026-02-26T18:37:24.000Z",
             "date_published": "2026-02-26T18:35:37.000Z",
             "author": {
                 "name": "Crims-on",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "ISabbiI",
                 "url": "https://github.com/ISabbiI"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/213306745?u=f8abe07c9df4fa25833ca98261ae919ad25d39bd&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
-            "url": "https://github.com/mbanyamer/CVE-2021-41579-LCDS-LAquis-SCADA-4.3.1.1085-Arbitrary-File-Write",
-            "title": "mbanyamer/CVE-2021-41579-LCDS-LAquis-SCADA-4.3.1.1085-Arbitrary-File-Write",
-            "date_modified": "2026-02-12T03:06:11.000Z",
-            "date_published": "2026-02-12T03:02:41.000Z",
-            "author": {
-                "name": "mbanyamer",
-                "url": "https://github.com/mbanyamer"
             }
         }
     ]
