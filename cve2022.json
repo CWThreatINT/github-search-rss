@@ -6,6 +6,17 @@
     "description": "CVE-2022 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/118923461?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Confluence Unauth RCE (CVE-2022-26134)</div>",
+            "url": "https://github.com/crypt0lith/confluence-ognl-rce",
+            "title": "crypt0lith/confluence-ognl-rce: Confluence Unauth RCE (CVE-2022-26134)",
+            "date_modified": "2026-02-26T17:52:36.000Z",
+            "date_published": "2026-02-26T17:52:29.000Z",
+            "author": {
+                "name": "crypt0lith",
+                "url": "https://github.com/crypt0lith"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/102460295?u=8c5194b43783b9461828ee3ee9313c9f70578d85&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>attacker </div>",
             "url": "https://github.com/jelee2555/CVE-2022-1471-attacker",
             "title": "jelee2555/CVE-2022-1471-attacker: attacker ",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "aditidutta696-dev",
                 "url": "https://github.com/aditidutta696-dev"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/62218406?u=55427b61f1b4c2d2c92c36f45eef918c1f20de83&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Spring4Shell (CVE-2022-22965) DFIR lab with exploit simulation, Python WAF, IOC-based detection, and PCAP analysis.</div>",
-            "url": "https://github.com/suyash-R-K/dfir-malware-investigation",
-            "title": "suyash-R-K/dfir-malware-investigation: Spring4Shell (CVE-2022-22965) DFIR lab with exploit simulation, Python WAF, IOC-based detection, and PCAP analysis.",
-            "date_modified": "2026-02-01T04:27:02.000Z",
-            "date_published": "2026-01-20T12:47:01.000Z",
-            "author": {
-                "name": "suyash-R-K",
-                "url": "https://github.com/suyash-R-K"
             }
         }
     ]
