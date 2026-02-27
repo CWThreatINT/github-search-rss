@@ -6,6 +6,17 @@
     "description": "CVE-2023 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/212303631?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Python exploit for CVE-2023-46229 with Yasa</div>",
+            "url": "https://github.com/JarvisDing-sdu/Yasa-CVE-2023-46229",
+            "title": "JarvisDing-sdu/Yasa-CVE-2023-46229: Python exploit for CVE-2023-46229 with Yasa",
+            "date_modified": "2026-02-27T17:05:45.000Z",
+            "date_published": "2026-02-27T16:41:42.000Z",
+            "author": {
+                "name": "JarvisDing-sdu",
+                "url": "https://github.com/JarvisDing-sdu"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/120130511?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>oob_entry tfp0 kernel exploit for armv7 iOS (iOS 3.0–10.3.4), using CVE-2023-32434. We will publish a write-up detailing the methods in the coming weeks. 🐙</div>",
             "url": "https://github.com/rkrakesh524/oob_entry",
             "title": "rkrakesh524/oob_entry: oob_entry tfp0 kernel exploit for armv7 iOS (iOS 3.0–10.3.4), using CVE-2023-32434. We will publish a write-up detailing the methods in the coming weeks. 🐙",
@@ -53,7 +64,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/151980876?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>TOP All bugbounty pentesting CVE-2023- POC Exp  RCE example payload  Things</div>",
             "url": "https://github.com/GhostTroops/TOP",
             "title": "GhostTroops/TOP: TOP All bugbounty pentesting CVE-2023- POC Exp  RCE example payload  Things",
-            "date_modified": "2026-02-27T01:45:08.000Z",
+            "date_modified": "2026-02-27T16:33:27.000Z",
             "date_published": "2022-03-19T01:54:15.000Z",
             "author": {
                 "name": "GhostTroops",
@@ -209,17 +220,6 @@
             "title": "sahiloj/CVE-2023-33730: eScan Management Console version 14.0.1400.2281 contains privilege escalation via `GetUserCurrentPwd` function lets attackers retrieve any user's password in plain text.",
             "date_modified": "2026-02-20T07:04:50.000Z",
             "date_published": "2023-05-30T16:22:59.000Z",
-            "author": {
-                "name": "sahiloj",
-                "url": "https://github.com/sahiloj"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/59600077?u=6956c47eb949827ca93bd55eccd39018280f9555&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A reflected Cross-Site Scripting (XSS) vulnerability exists in the Edit User functionality of the Microworld Technologies eScan Management Console (version 14.0.1400.2281).</div>",
-            "url": "https://github.com/sahiloj/CVE-2023-31703",
-            "title": "sahiloj/CVE-2023-31703: A reflected Cross-Site Scripting (XSS) vulnerability exists in the Edit User functionality of the Microworld Technologies eScan Management Console (version 14.0.1400.2281).",
-            "date_modified": "2026-02-20T07:00:48.000Z",
-            "date_published": "2023-05-17T07:22:37.000Z",
             "author": {
                 "name": "sahiloj",
                 "url": "https://github.com/sahiloj"
