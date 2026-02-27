@@ -6,6 +6,17 @@
     "description": "CVE-2022 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/235478862?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Full-chain reproduction of CVE-2022-36804 (Bitbucket RCE). Includes a Dockerized laboratory, pspy64 monitoring for null-byte injection verification, and a custom Bash exploit script. Based on Assetnote research.</div>",
+            "url": "https://github.com/DanielHallbro/CVE-2022-36804-Bitbucket-RCE-Analysis",
+            "title": "DanielHallbro/CVE-2022-36804-Bitbucket-RCE-Analysis: Full-chain reproduction of CVE-2022-36804 (Bitbucket RCE). Includes a Dockerized laboratory, pspy64 monitoring for null-byte injection verification, and a custom Bash exploit script. Based on Assetnote research.",
+            "date_modified": "2026-02-27T14:43:10.000Z",
+            "date_published": "2026-02-26T20:42:45.000Z",
+            "author": {
+                "name": "DanielHallbro",
+                "url": "https://github.com/DanielHallbro"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/36794189?u=0a88e57e13d304190c1bd2ebd6e387ebf5229dd3&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Exploit for CVE-2022-21445 of Oracle Weblogic 12.2.1.X</div>",
             "url": "https://github.com/NeCr00/CVE-2022-21445",
             "title": "NeCr00/CVE-2022-21445: Exploit for CVE-2022-21445 of Oracle Weblogic 12.2.1.X",
@@ -47,17 +58,6 @@
             "author": {
                 "name": "jelee2555",
                 "url": "https://github.com/jelee2555"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/235478862?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Full-chain reproduction of CVE-2022-36804 (Bitbucket RCE). Includes a Dockerized laboratory, pspy64 monitoring for null-byte injection verification, and a custom Bash exploit script. Based on Assetnote research.</div>",
-            "url": "https://github.com/DanielHallbro/CVE-2022-36804-Bitbucket-RCE-Analysis",
-            "title": "DanielHallbro/CVE-2022-36804-Bitbucket-RCE-Analysis: Full-chain reproduction of CVE-2022-36804 (Bitbucket RCE). Includes a Dockerized laboratory, pspy64 monitoring for null-byte injection verification, and a custom Bash exploit script. Based on Assetnote research.",
-            "date_modified": "2026-02-26T20:54:32.000Z",
-            "date_published": "2026-02-26T20:42:45.000Z",
-            "author": {
-                "name": "DanielHallbro",
-                "url": "https://github.com/DanielHallbro"
             }
         },
         {
