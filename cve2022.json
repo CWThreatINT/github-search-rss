@@ -6,6 +6,17 @@
     "description": "CVE-2022 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/36794189?u=0a88e57e13d304190c1bd2ebd6e387ebf5229dd3&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Exploit for CVE-2022-21445 of Oracle Weblogic 12.2.1.X</div>",
+            "url": "https://github.com/NeCr00/CVE-2022-21445",
+            "title": "NeCr00/CVE-2022-21445: Exploit for CVE-2022-21445 of Oracle Weblogic 12.2.1.X",
+            "date_modified": "2026-02-27T10:04:45.000Z",
+            "date_published": "2026-02-27T09:54:58.000Z",
+            "author": {
+                "name": "NeCr00",
+                "url": "https://github.com/NeCr00"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/189497440?u=c8ba7da9044aa4636f3d2af288c06af0e13ab453&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
             "url": "https://github.com/dbwlsdnr95/CVE-2022-22965",
             "title": "dbwlsdnr95/CVE-2022-22965",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "Ch35h1r3c47",
                 "url": "https://github.com/Ch35h1r3c47"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/218368237?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Free and Open-Source FRP Remover based on CVE-2022-38694</div>",
-            "url": "https://github.com/xbxarchivr/UNISOCUnlocker",
-            "title": "xbxarchivr/UNISOCUnlocker: Free and Open-Source FRP Remover based on CVE-2022-38694",
-            "date_modified": "2026-02-10T19:57:03.000Z",
-            "date_published": "2026-02-10T19:40:42.000Z",
-            "author": {
-                "name": "xbxarchivr",
-                "url": "https://github.com/xbxarchivr"
             }
         }
     ]
