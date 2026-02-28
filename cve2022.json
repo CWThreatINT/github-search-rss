@@ -6,6 +6,17 @@
     "description": "CVE-2022 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/107798942?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
+            "url": "https://github.com/bcarrulo/Lab-CVE-2022-30190",
+            "title": "bcarrulo/Lab-CVE-2022-30190",
+            "date_modified": "2026-02-28T14:16:51.000Z",
+            "date_published": "2026-02-28T14:12:26.000Z",
+            "author": {
+                "name": "bcarrulo",
+                "url": "https://github.com/bcarrulo"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/99266969?u=2029779ef6c9f7a265ef0e7cda5a4aa23771da45&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
             "url": "https://github.com/ArthurHendrich/CVE-2022-42475-POC",
             "title": "ArthurHendrich/CVE-2022-42475-POC",
@@ -209,17 +220,6 @@
             "title": "seal-sec-demo-2/npm-demo: Browser demo: EJS template injection (CVE-2022-29078) with Seal Security remediation",
             "date_modified": "2026-02-16T13:57:40.000Z",
             "date_published": "2026-02-13T23:45:15.000Z",
-            "author": {
-                "name": "seal-sec-demo-2",
-                "url": "https://github.com/seal-sec-demo-2"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/168992869?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>SnakeYAML CVE-2022-1471 exploit payload for demo</div>",
-            "url": "https://github.com/seal-sec-demo-2/yaml-payload",
-            "title": "seal-sec-demo-2/yaml-payload: SnakeYAML CVE-2022-1471 exploit payload for demo",
-            "date_modified": "2026-02-13T22:06:33.000Z",
-            "date_published": "2026-02-05T22:06:07.000Z",
             "author": {
                 "name": "seal-sec-demo-2",
                 "url": "https://github.com/seal-sec-demo-2"
