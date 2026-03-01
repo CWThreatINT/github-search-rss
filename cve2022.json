@@ -6,6 +6,17 @@
     "description": "CVE-2022 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/238763467?u=76662c7a66c03b714ff21c4b8e16fe6dcd1c20f7&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
+            "url": "https://github.com/7rootsec/CVE-2022-21661-Technical-Analysis",
+            "title": "7rootsec/CVE-2022-21661-Technical-Analysis",
+            "date_modified": "2026-03-01T12:35:53.000Z",
+            "date_published": "2026-03-01T12:35:49.000Z",
+            "author": {
+                "name": "7rootsec",
+                "url": "https://github.com/7rootsec"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/260553795?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>BlueFalconInk CISA ED 26-03 Compliance Tracker - Rapid-response Streamlit app for Cisco SD-WAN vulnerability mitigation (CVE-2026-20127, CVE-2022-20775)</div>",
             "url": "https://github.com/bluefalconink/cisa-ed-26-03-tracker",
             "title": "bluefalconink/cisa-ed-26-03-tracker: BlueFalconInk CISA ED 26-03 Compliance Tracker - Rapid-response Streamlit app for Cisco SD-WAN vulnerability mitigation (CVE-2026-20127, CVE-2022-20775)",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "andikahilmy",
                 "url": "https://github.com/andikahilmy"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/168992869?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Browser demo: EJS template injection (CVE-2022-29078) with Seal Security remediation</div>",
-            "url": "https://github.com/seal-sec-demo-2/npm-demo",
-            "title": "seal-sec-demo-2/npm-demo: Browser demo: EJS template injection (CVE-2022-29078) with Seal Security remediation",
-            "date_modified": "2026-02-16T13:57:40.000Z",
-            "date_published": "2026-02-13T23:45:15.000Z",
-            "author": {
-                "name": "seal-sec-demo-2",
-                "url": "https://github.com/seal-sec-demo-2"
             }
         }
     ]

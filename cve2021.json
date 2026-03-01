@@ -6,6 +6,17 @@
     "description": "CVE-2021 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/6983303?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Fork of lodash.template with CVE-2021-23337 fix (command injection via variable option)</div>",
+            "url": "https://github.com/khayashi4337/lodash.template-fixed",
+            "title": "khayashi4337/lodash.template-fixed: Fork of lodash.template with CVE-2021-23337 fix (command injection via variable option)",
+            "date_modified": "2026-03-01T13:28:00.000Z",
+            "date_published": "2026-03-01T13:27:14.000Z",
+            "author": {
+                "name": "khayashi4337",
+                "url": "https://github.com/khayashi4337"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/206778611?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>🚀 Enhance your penetration testing with PwnKit Helper, a simple tool for exploiting the CVE-2021-4034 vulnerability in pkexec for local privilege escalation.</div>",
             "url": "https://github.com/kaisen-bot/pwnkit-helper",
             "title": "kaisen-bot/pwnkit-helper: 🚀 Enhance your penetration testing with PwnKit Helper, a simple tool for exploiting the CVE-2021-4034 vulnerability in pkexec for local privilege escalation.",
@@ -209,17 +220,6 @@
             "title": "andikahilmy/CVE-2021-41269-cron-utils-vulnerable",
             "date_modified": "2026-02-17T10:33:36.000Z",
             "date_published": "2026-02-17T10:32:15.000Z",
-            "author": {
-                "name": "andikahilmy",
-                "url": "https://github.com/andikahilmy"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/71202342?u=2f11a527aee5eedca7459b3e146327a380218d99&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
-            "url": "https://github.com/andikahilmy/CVE-2021-35515-commons-compress-vulnerable",
-            "title": "andikahilmy/CVE-2021-35515-commons-compress-vulnerable",
-            "date_modified": "2026-02-17T10:16:31.000Z",
-            "date_published": "2026-02-17T09:42:22.000Z",
             "author": {
                 "name": "andikahilmy",
                 "url": "https://github.com/andikahilmy"
