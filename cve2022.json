@@ -6,6 +6,17 @@
     "description": "CVE-2022 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/168992869?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Browser demo: EJS template injection (CVE-2022-29078) with Seal Security remediation</div>",
+            "url": "https://github.com/seal-sec-demo-2/npm-demo",
+            "title": "seal-sec-demo-2/npm-demo: Browser demo: EJS template injection (CVE-2022-29078) with Seal Security remediation",
+            "date_modified": "2026-03-02T07:19:58.000Z",
+            "date_published": "2026-02-13T23:45:15.000Z",
+            "author": {
+                "name": "seal-sec-demo-2",
+                "url": "https://github.com/seal-sec-demo-2"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/61577401?u=5145761190b07488166ee1fe2ad997cdd8691486&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
             "url": "https://github.com/yiliufeng168/CVE-2022-31813",
             "title": "yiliufeng168/CVE-2022-31813",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "PrinceAikinsBaidoo",
                 "url": "https://github.com/PrinceAikinsBaidoo"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/25121367?u=dd85fb51332a9f24a9b1a06695b2a8118d44c3a4&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Exploitation de CVE-2022-22980</div>",
-            "url": "https://github.com/Eliasdekiniweek/CVE-2022-22980",
-            "title": "Eliasdekiniweek/CVE-2022-22980: Exploitation de CVE-2022-22980",
-            "date_modified": "2026-02-21T09:40:58.000Z",
-            "date_published": "2026-02-18T10:21:33.000Z",
-            "author": {
-                "name": "Eliasdekiniweek",
-                "url": "https://github.com/Eliasdekiniweek"
             }
         }
     ]

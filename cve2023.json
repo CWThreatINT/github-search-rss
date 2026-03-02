@@ -6,6 +6,17 @@
     "description": "CVE-2023 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/196417298?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
+            "url": "https://github.com/Aryan20057/CVE-2023-4911",
+            "title": "Aryan20057/CVE-2023-4911",
+            "date_modified": "2026-03-02T07:27:37.000Z",
+            "date_published": "2026-03-02T07:19:18.000Z",
+            "author": {
+                "name": "Aryan20057",
+                "url": "https://github.com/Aryan20057"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/214546144?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>🔒 Analyze the CVE-2023-39910 vulnerability in Libbitcoin Explorer to understand its impact on Bitcoin wallet security and protect your assets.</div>",
             "url": "https://github.com/Hitplus/RingSide-Replay-Attack",
             "title": "Hitplus/RingSide-Replay-Attack: 🔒 Analyze the CVE-2023-39910 vulnerability in Libbitcoin Explorer to understand its impact on Bitcoin wallet security and protect your assets.",
@@ -209,17 +220,6 @@
             "title": "sahiloj/CVE-2023-31702: CVE-2023-31702 is an authenticated SQL Injection vulnerability discovered in MicroWorld Technologies eScan Management Console version 14.0.1400.2281.",
             "date_modified": "2026-02-20T07:05:17.000Z",
             "date_published": "2023-05-17T06:27:31.000Z",
-            "author": {
-                "name": "sahiloj",
-                "url": "https://github.com/sahiloj"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/59600077?u=6956c47eb949827ca93bd55eccd39018280f9555&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>eScan Management Console version 14.0.1400.2281 contains privilege escalation via `GetUserCurrentPwd` function lets attackers retrieve any user's password in plain text.</div>",
-            "url": "https://github.com/sahiloj/CVE-2023-33730",
-            "title": "sahiloj/CVE-2023-33730: eScan Management Console version 14.0.1400.2281 contains privilege escalation via `GetUserCurrentPwd` function lets attackers retrieve any user's password in plain text.",
-            "date_modified": "2026-02-20T07:04:50.000Z",
-            "date_published": "2023-05-30T16:22:59.000Z",
             "author": {
                 "name": "sahiloj",
                 "url": "https://github.com/sahiloj"
