@@ -6,6 +6,28 @@
     "description": "CVE-2022 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/235478862?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Full-chain reproduction of CVE-2022-36804 (Bitbucket RCE). Includes a Dockerized laboratory, pspy64 monitoring for null-byte injection verification, and a custom Bash exploit script. Based on Assetnote research.</div>",
+            "url": "https://github.com/DanielHallbro/CVE-2022-36804-Bitbucket-RCE-Analysis",
+            "title": "DanielHallbro/CVE-2022-36804-Bitbucket-RCE-Analysis: Full-chain reproduction of CVE-2022-36804 (Bitbucket RCE). Includes a Dockerized laboratory, pspy64 monitoring for null-byte injection verification, and a custom Bash exploit script. Based on Assetnote research.",
+            "date_modified": "2026-03-02T16:18:39.000Z",
+            "date_published": "2026-02-26T20:42:45.000Z",
+            "author": {
+                "name": "DanielHallbro",
+                "url": "https://github.com/DanielHallbro"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/107798942?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
+            "url": "https://github.com/bcarrulo/Lab-CVE-2022-30190",
+            "title": "bcarrulo/Lab-CVE-2022-30190",
+            "date_modified": "2026-03-02T15:42:53.000Z",
+            "date_published": "2026-02-28T14:12:26.000Z",
+            "author": {
+                "name": "bcarrulo",
+                "url": "https://github.com/bcarrulo"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/102460295?u=8c5194b43783b9461828ee3ee9313c9f70578d85&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>attacker </div>",
             "url": "https://github.com/jelee2555/CVE-2022-1471-attacker",
             "title": "jelee2555/CVE-2022-1471-attacker: attacker ",
@@ -83,17 +105,6 @@
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/107798942?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
-            "url": "https://github.com/bcarrulo/Lab-CVE-2022-30190",
-            "title": "bcarrulo/Lab-CVE-2022-30190",
-            "date_modified": "2026-02-28T14:16:51.000Z",
-            "date_published": "2026-02-28T14:12:26.000Z",
-            "author": {
-                "name": "bcarrulo",
-                "url": "https://github.com/bcarrulo"
-            }
-        },
-        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/99266969?u=2029779ef6c9f7a265ef0e7cda5a4aa23771da45&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
             "url": "https://github.com/ArthurHendrich/CVE-2022-42475-POC",
             "title": "ArthurHendrich/CVE-2022-42475-POC",
@@ -102,17 +113,6 @@
             "author": {
                 "name": "ArthurHendrich",
                 "url": "https://github.com/ArthurHendrich"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/235478862?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Full-chain reproduction of CVE-2022-36804 (Bitbucket RCE). Includes a Dockerized laboratory, pspy64 monitoring for null-byte injection verification, and a custom Bash exploit script. Based on Assetnote research.</div>",
-            "url": "https://github.com/DanielHallbro/CVE-2022-36804-Bitbucket-RCE-Analysis",
-            "title": "DanielHallbro/CVE-2022-36804-Bitbucket-RCE-Analysis: Full-chain reproduction of CVE-2022-36804 (Bitbucket RCE). Includes a Dockerized laboratory, pspy64 monitoring for null-byte injection verification, and a custom Bash exploit script. Based on Assetnote research.",
-            "date_modified": "2026-02-27T14:43:10.000Z",
-            "date_published": "2026-02-26T20:42:45.000Z",
-            "author": {
-                "name": "DanielHallbro",
-                "url": "https://github.com/DanielHallbro"
             }
         },
         {
