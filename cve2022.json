@@ -149,6 +149,17 @@
             }
         },
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/5289877?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>This repository provides a comprehensive security remediation of denial-of-service security vulnerabilities reported in CVE-2025-52999 and sonatype-2022-6438 while maintaining full compatibility with jackson‑core 2.13.5.</div>",
+            "url": "https://github.com/sassoftware/jackson",
+            "title": "sassoftware/jackson: This repository provides a comprehensive security remediation of denial-of-service security vulnerabilities reported in CVE-2025-52999 and sonatype-2022-6438 while maintaining full compatibility with jackson‑core 2.13.5.",
+            "date_modified": "2026-03-02T14:28:28.000Z",
+            "date_published": "2026-02-23T15:12:34.000Z",
+            "author": {
+                "name": "sassoftware",
+                "url": "https://github.com/sassoftware"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/25670930?u=6fad2f13c751b51fd47e377945d79369743f5948&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2022-3653 just the c++ component in Vulkan for later study</div>",
             "url": "https://github.com/SpiralBL0CK/CVE-2022-3653",
             "title": "SpiralBL0CK/CVE-2022-3653: CVE-2022-3653 just the c++ component in Vulkan for later study",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "uname1able",
                 "url": "https://github.com/uname1able"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/75486586?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>This is the PoC exploit for CVE-2022-41840, running Zenario</div>",
-            "url": "https://github.com/PrinceAikinsBaidoo/CVE-2022-41840-PoC",
-            "title": "PrinceAikinsBaidoo/CVE-2022-41840-PoC: This is the PoC exploit for CVE-2022-41840, running Zenario",
-            "date_modified": "2026-02-19T06:27:34.000Z",
-            "date_published": "2026-02-19T06:19:12.000Z",
-            "author": {
-                "name": "PrinceAikinsBaidoo",
-                "url": "https://github.com/PrinceAikinsBaidoo"
             }
         }
     ]
