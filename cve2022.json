@@ -6,6 +6,17 @@
     "description": "CVE-2022 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/61577401?u=5145761190b07488166ee1fe2ad997cdd8691486&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
+            "url": "https://github.com/yiliufeng168/CVE-2022-31813",
+            "title": "yiliufeng168/CVE-2022-31813",
+            "date_modified": "2026-03-02T05:54:44.000Z",
+            "date_published": "2026-03-02T05:50:48.000Z",
+            "author": {
+                "name": "yiliufeng168",
+                "url": "https://github.com/yiliufeng168"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/102460295?u=8c5194b43783b9461828ee3ee9313c9f70578d85&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>attacker </div>",
             "url": "https://github.com/jelee2555/CVE-2022-1471-attacker",
             "title": "jelee2555/CVE-2022-1471-attacker: attacker ",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "Eliasdekiniweek",
                 "url": "https://github.com/Eliasdekiniweek"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/71202342?u=2f11a527aee5eedca7459b3e146327a380218d99&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
-            "url": "https://github.com/andikahilmy/CVE-2022-23457-esapi-java-legacy-vulnerable",
-            "title": "andikahilmy/CVE-2022-23457-esapi-java-legacy-vulnerable",
-            "date_modified": "2026-02-17T16:25:49.000Z",
-            "date_published": "2026-02-17T16:23:20.000Z",
-            "author": {
-                "name": "andikahilmy",
-                "url": "https://github.com/andikahilmy"
             }
         }
     ]
