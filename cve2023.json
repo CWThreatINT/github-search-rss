@@ -6,6 +6,17 @@
     "description": "CVE-2023 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/258849584?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Phoenix — Rust HTTP/2 stress testing &amp; attack simulation framework. CVE-2023-44487, CONTINUATION Flood, HPACK Bomb and more.</div>",
+            "url": "https://github.com/dryfryce/phoenix-http2",
+            "title": "dryfryce/phoenix-http2: Phoenix — Rust HTTP/2 stress testing & attack simulation framework. CVE-2023-44487, CONTINUATION Flood, HPACK Bomb and more.",
+            "date_modified": "2026-03-03T19:16:16.000Z",
+            "date_published": "2026-03-03T16:00:15.000Z",
+            "author": {
+                "name": "dryfryce",
+                "url": "https://github.com/dryfryce"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/214546144?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>🔒 Analyze the CVE-2023-39910 vulnerability in Libbitcoin Explorer to understand its impact on Bitcoin wallet security and protect your assets.</div>",
             "url": "https://github.com/Hitplus/RingSide-Replay-Attack",
             "title": "Hitplus/RingSide-Replay-Attack: 🔒 Analyze the CVE-2023-39910 vulnerability in Libbitcoin Explorer to understand its impact on Bitcoin wallet security and protect your assets.",
@@ -14,17 +25,6 @@
             "author": {
                 "name": "Hitplus",
                 "url": "https://github.com/Hitplus"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/258849584?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Phoenix — Rust HTTP/2 stress testing &amp; attack simulation framework. CVE-2023-44487, CONTINUATION Flood, HPACK Bomb and more.</div>",
-            "url": "https://github.com/dryfryce/phoenix-http2",
-            "title": "dryfryce/phoenix-http2: Phoenix — Rust HTTP/2 stress testing & attack simulation framework. CVE-2023-44487, CONTINUATION Flood, HPACK Bomb and more.",
-            "date_modified": "2026-03-03T17:45:10.000Z",
-            "date_published": "2026-03-03T16:00:15.000Z",
-            "author": {
-                "name": "dryfryce",
-                "url": "https://github.com/dryfryce"
             }
         },
         {
