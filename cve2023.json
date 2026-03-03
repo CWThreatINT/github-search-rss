@@ -6,6 +6,28 @@
     "description": "CVE-2023 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/258849584?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Phoenix — Rust HTTP/2 stress testing &amp; attack simulation framework. CVE-2023-44487, CONTINUATION Flood, HPACK Bomb and more.</div>",
+            "url": "https://github.com/dryfryce/phoenix-http2",
+            "title": "dryfryce/phoenix-http2: Phoenix — Rust HTTP/2 stress testing & attack simulation framework. CVE-2023-44487, CONTINUATION Flood, HPACK Bomb and more.",
+            "date_modified": "2026-03-03T16:01:13.000Z",
+            "date_published": "2026-03-03T16:00:15.000Z",
+            "author": {
+                "name": "dryfryce",
+                "url": "https://github.com/dryfryce"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/258849584?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>🔥 Phoenix — Rust HTTP/2 stress testing &amp; security research framework. CVE-2023-44487, CONTINUATION Flood, HPACK Bomb and more.</div>",
+            "url": "https://github.com/dryfryce/phoenix-h2",
+            "title": "dryfryce/phoenix-h2: 🔥 Phoenix — Rust HTTP/2 stress testing & security research framework. CVE-2023-44487, CONTINUATION Flood, HPACK Bomb and more.",
+            "date_modified": "2026-03-03T16:09:08.000Z",
+            "date_published": "2026-03-03T15:54:14.000Z",
+            "author": {
+                "name": "dryfryce",
+                "url": "https://github.com/dryfryce"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/214546144?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>🔒 Analyze the CVE-2023-39910 vulnerability in Libbitcoin Explorer to understand its impact on Bitcoin wallet security and protect your assets.</div>",
             "url": "https://github.com/Hitplus/RingSide-Replay-Attack",
             "title": "Hitplus/RingSide-Replay-Attack: 🔒 Analyze the CVE-2023-39910 vulnerability in Libbitcoin Explorer to understand its impact on Bitcoin wallet security and protect your assets.",
@@ -116,10 +138,10 @@
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/195679869?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Proof of Concept (PoC) exploit for CVE-2023-43208, demonstrating unauthenticated remote code execution in vulnerable versions of NextGen Mirth Connect via insecure XStream deserialization.</div>",
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/195679869?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Python implementation of CVE-2023-43208 Mirth Connect RCE (Unauth XStream)</div>",
             "url": "https://github.com/az4rvs/Mirth-Connect-CVE-2023-43208",
-            "title": "az4rvs/Mirth-Connect-CVE-2023-43208: Proof of Concept (PoC) exploit for CVE-2023-43208, demonstrating unauthenticated remote code execution in vulnerable versions of NextGen Mirth Connect via insecure XStream deserialization.",
-            "date_modified": "2026-02-26T22:32:42.000Z",
+            "title": "az4rvs/Mirth-Connect-CVE-2023-43208: Python implementation of CVE-2023-43208 Mirth Connect RCE (Unauth XStream)",
+            "date_modified": "2026-03-03T16:05:24.000Z",
             "date_published": "2026-02-26T22:21:23.000Z",
             "author": {
                 "name": "az4rvs",
@@ -201,28 +223,6 @@
             "author": {
                 "name": "lrh2000",
                 "url": "https://github.com/lrh2000"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/73416867?u=b2e3f428cf2a862a9ac50e4ce3033fe188daba56&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Proof of Concept for an arbitrary command injection vulnerability in yt-dlp’s --netrc-cmd option (GHSA-g3gw-q23r-pgqm / CVE-2026-26331). Demonstrates shell command execution via maliciously crafted URLs in affected versions (≥ 2023.06.21, &lt; 2026.02.21).</div>",
-            "url": "https://github.com/dxlerYT/CVE-2026-26331",
-            "title": "dxlerYT/CVE-2026-26331: Proof of Concept for an arbitrary command injection vulnerability in yt-dlp’s --netrc-cmd option (GHSA-g3gw-q23r-pgqm / CVE-2026-26331). Demonstrates shell command execution via maliciously crafted URLs in affected versions (≥ 2023.06.21, < 2026.02.21).",
-            "date_modified": "2026-02-22T15:51:14.000Z",
-            "date_published": "2026-02-22T15:42:57.000Z",
-            "author": {
-                "name": "dxlerYT",
-                "url": "https://github.com/dxlerYT"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/68739641?u=52c0ffbd92e1b8206c4cd98ff88ee4257279361b&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2023-43208: Mirth Connect Pre-Auth RCE PoC</div>",
-            "url": "https://github.com/kyakei/CVE-2023-43208",
-            "title": "kyakei/CVE-2023-43208: CVE-2023-43208: Mirth Connect Pre-Auth RCE PoC",
-            "date_modified": "2026-02-23T16:19:58.000Z",
-            "date_published": "2026-02-22T09:37:22.000Z",
-            "author": {
-                "name": "kyakei",
-                "url": "https://github.com/kyakei"
             }
         }
     ]
