@@ -6,6 +6,17 @@
     "description": "CVE-2022 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/102460295?u=8c5194b43783b9461828ee3ee9313c9f70578d85&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>attacker </div>",
+            "url": "https://github.com/jelee2555/CVE-2022-1471-attacker",
+            "title": "jelee2555/CVE-2022-1471-attacker: attacker ",
+            "date_modified": "2026-03-04T07:33:25.000Z",
+            "date_published": "2026-02-26T01:29:37.000Z",
+            "author": {
+                "name": "jelee2555",
+                "url": "https://github.com/jelee2555"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/5289877?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>This repository provides a comprehensive security remediation of denial-of-service security vulnerabilities reported in CVE-2025-52999 and sonatype-2022-6438 while maintaining full compatibility with jackson‑core 2.13.5.</div>",
             "url": "https://github.com/sassoftware/jackson",
             "title": "sassoftware/jackson: This repository provides a comprehensive security remediation of denial-of-service security vulnerabilities reported in CVE-2025-52999 and sonatype-2022-6438 while maintaining full compatibility with jackson‑core 2.13.5.",
@@ -36,17 +47,6 @@
             "author": {
                 "name": "jschauma",
                 "url": "https://github.com/jschauma"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/102460295?u=8c5194b43783b9461828ee3ee9313c9f70578d85&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>attacker </div>",
-            "url": "https://github.com/jelee2555/CVE-2022-1471-attacker",
-            "title": "jelee2555/CVE-2022-1471-attacker: attacker ",
-            "date_modified": "2026-03-02T23:54:02.000Z",
-            "date_published": "2026-02-26T01:29:37.000Z",
-            "author": {
-                "name": "jelee2555",
-                "url": "https://github.com/jelee2555"
             }
         },
         {
