@@ -6,6 +6,17 @@
     "description": "CVE-2022 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/235478862?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Full-chain reproduction of CVE-2022-36804 (Bitbucket RCE). Includes a Dockerized laboratory, pspy64 monitoring for null-byte injection verification, and a custom Bash exploit script. Based on Assetnote research.</div>",
+            "url": "https://github.com/DanielHallbro/CVE-2022-36804-Bitbucket-RCE-Analysis",
+            "title": "DanielHallbro/CVE-2022-36804-Bitbucket-RCE-Analysis: Full-chain reproduction of CVE-2022-36804 (Bitbucket RCE). Includes a Dockerized laboratory, pspy64 monitoring for null-byte injection verification, and a custom Bash exploit script. Based on Assetnote research.",
+            "date_modified": "2026-03-02T18:04:47.000Z",
+            "date_published": "2026-02-26T20:42:45.000Z",
+            "author": {
+                "name": "DanielHallbro",
+                "url": "https://github.com/DanielHallbro"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/102419837?u=e9ab05eab7515edf501741d09040bd656ab078f5&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Unlock Bootloader for Itel S23 (S665L) / Unisoc T606 using CVE-2022-38694</div>",
             "url": "https://github.com/AureliusIvan/ubl-itel-s23",
             "title": "AureliusIvan/ubl-itel-s23: Unlock Bootloader for Itel S23 (S665L) / Unisoc T606 using CVE-2022-38694",
@@ -91,17 +102,6 @@
             "author": {
                 "name": "jschauma",
                 "url": "https://github.com/jschauma"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/235478862?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Full-chain reproduction of CVE-2022-36804 (Bitbucket RCE). Includes a Dockerized laboratory, pspy64 monitoring for null-byte injection verification, and a custom Bash exploit script. Based on Assetnote research.</div>",
-            "url": "https://github.com/DanielHallbro/CVE-2022-36804-Bitbucket-RCE-Analysis",
-            "title": "DanielHallbro/CVE-2022-36804-Bitbucket-RCE-Analysis: Full-chain reproduction of CVE-2022-36804 (Bitbucket RCE). Includes a Dockerized laboratory, pspy64 monitoring for null-byte injection verification, and a custom Bash exploit script. Based on Assetnote research.",
-            "date_modified": "2026-03-02T18:04:47.000Z",
-            "date_published": "2026-02-26T20:42:45.000Z",
-            "author": {
-                "name": "DanielHallbro",
-                "url": "https://github.com/DanielHallbro"
             }
         },
         {
