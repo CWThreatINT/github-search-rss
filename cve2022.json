@@ -6,6 +6,28 @@
     "description": "CVE-2022 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/102419837?u=e9ab05eab7515edf501741d09040bd656ab078f5&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Unlock Bootloader for Itel S23 (S665L) / Unisoc T606 using CVE-2022-38694</div>",
+            "url": "https://github.com/AureliusIvan/ubl-itel-s23",
+            "title": "AureliusIvan/ubl-itel-s23: Unlock Bootloader for Itel S23 (S665L) / Unisoc T606 using CVE-2022-38694",
+            "date_modified": "2026-03-04T15:46:57.000Z",
+            "date_published": "2026-03-04T15:43:17.000Z",
+            "author": {
+                "name": "AureliusIvan",
+                "url": "https://github.com/AureliusIvan"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/193194144?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Unlock Bootloader for Itel S23 (S665L) / Unisoc T606 using CVE-2022-38694</div>",
+            "url": "https://github.com/AureliusIvanInvenioPTL/ubl-itel-s23",
+            "title": "AureliusIvanInvenioPTL/ubl-itel-s23: Unlock Bootloader for Itel S23 (S665L) / Unisoc T606 using CVE-2022-38694",
+            "date_modified": "2026-03-04T15:46:24.000Z",
+            "date_published": "2026-03-04T15:41:48.000Z",
+            "author": {
+                "name": "AureliusIvanInvenioPTL",
+                "url": "https://github.com/AureliusIvanInvenioPTL"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/242277634?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A comprehensive Security Operations Centre (SOC) incident response simulation demonstrating threat detection, triage, analysis, and mitigation of the Spring4Shell vulnerability (CVE-2022-22965).</div>",
             "url": "https://github.com/Shakur1314/CVE-2022-22965-Spring4Shell-Security-Operations-Analysis",
             "title": "Shakur1314/CVE-2022-22965-Spring4Shell-Security-Operations-Analysis: A comprehensive Security Operations Centre (SOC) incident response simulation demonstrating threat detection, triage, analysis, and mitigation of the Spring4Shell vulnerability (CVE-2022-22965).",
@@ -201,28 +223,6 @@
             "author": {
                 "name": "SpiralBL0CK",
                 "url": "https://github.com/SpiralBL0CK"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/221097439?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Research and proof-of-concept for CVE-2022-0185 Linux kernel heap overflow vulnerability.</div>",
-            "url": "https://github.com/sandesh9978/CVE-2022-0185-Analysis-and-Exploit",
-            "title": "sandesh9978/CVE-2022-0185-Analysis-and-Exploit: Research and proof-of-concept for CVE-2022-0185 Linux kernel heap overflow vulnerability.",
-            "date_modified": "2026-02-25T16:19:10.000Z",
-            "date_published": "2026-02-25T16:13:07.000Z",
-            "author": {
-                "name": "sandesh9978",
-                "url": "https://github.com/sandesh9978"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/116545095?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
-            "url": "https://github.com/uname1able/CVE-2022-24481",
-            "title": "uname1able/CVE-2022-24481",
-            "date_modified": "2026-02-25T03:03:45.000Z",
-            "date_published": "2026-02-25T03:02:43.000Z",
-            "author": {
-                "name": "uname1able",
-                "url": "https://github.com/uname1able"
             }
         }
     ]
