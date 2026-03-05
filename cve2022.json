@@ -6,6 +6,17 @@
     "description": "CVE-2022 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/259905299?u=5ab93257d1eda162ca380229e9cd5a3e0cdc9555&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2022-22965</div>",
+            "url": "https://github.com/0xAshwesker/CVE-2022-22965",
+            "title": "0xAshwesker/CVE-2022-22965: CVE-2022-22965",
+            "date_modified": "2026-03-05T21:16:51.000Z",
+            "date_published": "2026-03-01T20:00:34.000Z",
+            "author": {
+                "name": "0xAshwesker",
+                "url": "https://github.com/0xAshwesker"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/33920374?u=daa1c535d99ab6916f536f229208ae1820035015&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2022-46152: Improper Validation of Array Index in the `cleanup_shm_refs' function.</div>",
             "url": "https://github.com/qianfei11/CVE-2022-46152",
             "title": "qianfei11/CVE-2022-46152: CVE-2022-46152: Improper Validation of Array Index in the `cleanup_shm_refs' function.",
@@ -157,17 +168,6 @@
             "author": {
                 "name": "yiliufeng168",
                 "url": "https://github.com/yiliufeng168"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/259905299?u=5ab93257d1eda162ca380229e9cd5a3e0cdc9555&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2022-22965</div>",
-            "url": "https://github.com/0xAshwesker/CVE-2022-22965",
-            "title": "0xAshwesker/CVE-2022-22965: CVE-2022-22965",
-            "date_modified": "2026-03-01T21:23:56.000Z",
-            "date_published": "2026-03-01T20:00:34.000Z",
-            "author": {
-                "name": "0xAshwesker",
-                "url": "https://github.com/0xAshwesker"
             }
         },
         {
