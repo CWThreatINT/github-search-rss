@@ -6,6 +6,17 @@
     "description": "CVE-2022 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/88006098?u=179b2bb241060cdcac8280d10c0fa6e099b17930&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>SLUBStick exploitation of CVE-2022-32250. Converting a Netfilter UAF into a cross-cache arbitrary memory R/W primitive through PTE manipulation.</div>",
+            "url": "https://github.com/LSinus/CacheMeIfYouCan",
+            "title": "LSinus/CacheMeIfYouCan: SLUBStick exploitation of CVE-2022-32250. Converting a Netfilter UAF into a cross-cache arbitrary memory R/W primitive through PTE manipulation.",
+            "date_modified": "2026-03-05T21:52:55.000Z",
+            "date_published": "2026-02-23T17:33:28.000Z",
+            "author": {
+                "name": "LSinus",
+                "url": "https://github.com/LSinus"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/259905299?u=5ab93257d1eda162ca380229e9cd5a3e0cdc9555&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2022-22965</div>",
             "url": "https://github.com/0xAshwesker/CVE-2022-22965",
             "title": "0xAshwesker/CVE-2022-22965: CVE-2022-22965",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "ArthurHendrich",
                 "url": "https://github.com/ArthurHendrich"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/36794189?u=0a88e57e13d304190c1bd2ebd6e387ebf5229dd3&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Exploit for CVE-2022-21445 of Oracle Weblogic 12.2.1.X</div>",
-            "url": "https://github.com/NeCr00/CVE-2022-21445",
-            "title": "NeCr00/CVE-2022-21445: Exploit for CVE-2022-21445 of Oracle Weblogic 12.2.1.X",
-            "date_modified": "2026-02-27T10:04:45.000Z",
-            "date_published": "2026-02-27T09:54:58.000Z",
-            "author": {
-                "name": "NeCr00",
-                "url": "https://github.com/NeCr00"
             }
         }
     ]
