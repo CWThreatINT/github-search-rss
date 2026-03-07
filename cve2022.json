@@ -6,6 +6,17 @@
     "description": "CVE-2022 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/88006098?u=179b2bb241060cdcac8280d10c0fa6e099b17930&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>SLUBStick exploitation of CVE-2022-32250. Converting a Netfilter UAF into a cross-cache arbitrary memory R/W primitive through PTE manipulation.</div>",
+            "url": "https://github.com/LSinus/CacheMeIfYouCan",
+            "title": "LSinus/CacheMeIfYouCan: SLUBStick exploitation of CVE-2022-32250. Converting a Netfilter UAF into a cross-cache arbitrary memory R/W primitive through PTE manipulation.",
+            "date_modified": "2026-03-07T18:10:57.000Z",
+            "date_published": "2026-02-23T17:33:28.000Z",
+            "author": {
+                "name": "LSinus",
+                "url": "https://github.com/LSinus"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/102460295?u=8c5194b43783b9461828ee3ee9313c9f70578d85&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>attacker </div>",
             "url": "https://github.com/jelee2555/CVE-2022-1471-attacker",
             "title": "jelee2555/CVE-2022-1471-attacker: attacker ",
@@ -14,17 +25,6 @@
             "author": {
                 "name": "jelee2555",
                 "url": "https://github.com/jelee2555"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/88006098?u=179b2bb241060cdcac8280d10c0fa6e099b17930&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>SLUBStick exploitation of CVE-2022-32250. Converting a Netfilter UAF into a cross-cache arbitrary memory R/W primitive through PTE manipulation.</div>",
-            "url": "https://github.com/LSinus/CacheMeIfYouCan",
-            "title": "LSinus/CacheMeIfYouCan: SLUBStick exploitation of CVE-2022-32250. Converting a Netfilter UAF into a cross-cache arbitrary memory R/W primitive through PTE manipulation.",
-            "date_modified": "2026-03-05T21:52:55.000Z",
-            "date_published": "2026-02-23T17:33:28.000Z",
-            "author": {
-                "name": "LSinus",
-                "url": "https://github.com/LSinus"
             }
         },
         {
