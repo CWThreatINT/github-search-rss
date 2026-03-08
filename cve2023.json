@@ -6,6 +6,50 @@
     "description": "CVE-2023 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/38466612?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
+            "url": "https://github.com/gustavorobertux/cisco-cve-2023-20198-checker",
+            "title": "gustavorobertux/cisco-cve-2023-20198-checker",
+            "date_modified": "2026-03-08T18:06:49.000Z",
+            "date_published": "2026-03-08T18:01:51.000Z",
+            "author": {
+                "name": "gustavorobertux",
+                "url": "https://github.com/gustavorobertux"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/181740430?u=1969d193e65d1cf8c0e8b70af17b8a88a789cabd&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2023-38831 is a Zero-day WinRAR vulnerability that lets attackers disguise malicious files in archives, tricking users into executing harmful content.</div>",
+            "url": "https://github.com/RonF98/CVE-2023-38831-POC",
+            "title": "RonF98/CVE-2023-38831-POC: CVE-2023-38831 is a Zero-day WinRAR vulnerability that lets attackers disguise malicious files in archives, tricking users into executing harmful content.",
+            "date_modified": "2026-03-08T17:57:22.000Z",
+            "date_published": "2026-03-08T17:54:36.000Z",
+            "author": {
+                "name": "RonF98",
+                "url": "https://github.com/RonF98"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/120130511?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>oob_entry tfp0 kernel exploit for armv7 iOS (iOS 3.0–10.3.4), using CVE-2023-32434. We will publish a write-up detailing the methods in the coming weeks. 🐙</div>",
+            "url": "https://github.com/rkrakesh524/oob_entry",
+            "title": "rkrakesh524/oob_entry: oob_entry tfp0 kernel exploit for armv7 iOS (iOS 3.0–10.3.4), using CVE-2023-32434. We will publish a write-up detailing the methods in the coming weeks. 🐙",
+            "date_modified": "2026-03-08T17:31:07.000Z",
+            "date_published": "2025-08-13T09:19:29.000Z",
+            "author": {
+                "name": "rkrakesh524",
+                "url": "https://github.com/rkrakesh524"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/81854943?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
+            "url": "https://github.com/hyunjungg/CVE-2023-21688",
+            "title": "hyunjungg/CVE-2023-21688",
+            "date_modified": "2026-03-08T17:20:49.000Z",
+            "date_published": "2026-03-08T17:19:17.000Z",
+            "author": {
+                "name": "hyunjungg",
+                "url": "https://github.com/hyunjungg"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/214546144?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>🔒 Analyze the CVE-2023-39910 vulnerability in Libbitcoin Explorer to understand its impact on Bitcoin wallet security and protect your assets.</div>",
             "url": "https://github.com/Hitplus/RingSide-Replay-Attack",
             "title": "Hitplus/RingSide-Replay-Attack: 🔒 Analyze the CVE-2023-39910 vulnerability in Libbitcoin Explorer to understand its impact on Bitcoin wallet security and protect your assets.",
@@ -14,17 +58,6 @@
             "author": {
                 "name": "Hitplus",
                 "url": "https://github.com/Hitplus"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/120130511?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>oob_entry tfp0 kernel exploit for armv7 iOS (iOS 3.0–10.3.4), using CVE-2023-32434. We will publish a write-up detailing the methods in the coming weeks. 🐙</div>",
-            "url": "https://github.com/rkrakesh524/oob_entry",
-            "title": "rkrakesh524/oob_entry: oob_entry tfp0 kernel exploit for armv7 iOS (iOS 3.0–10.3.4), using CVE-2023-32434. We will publish a write-up detailing the methods in the coming weeks. 🐙",
-            "date_modified": "2026-03-08T14:36:13.000Z",
-            "date_published": "2025-08-13T09:19:29.000Z",
-            "author": {
-                "name": "rkrakesh524",
-                "url": "https://github.com/rkrakesh524"
             }
         },
         {
@@ -190,39 +223,6 @@
             "author": {
                 "name": "SafeLock-D2E",
                 "url": "https://github.com/SafeLock-D2E"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/195679869?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Python implementation of CVE-2023-43208 Mirth Connect RCE (Unauth XStream)</div>",
-            "url": "https://github.com/az4rvs/Mirth-Connect-CVE-2023-43208",
-            "title": "az4rvs/Mirth-Connect-CVE-2023-43208: Python implementation of CVE-2023-43208 Mirth Connect RCE (Unauth XStream)",
-            "date_modified": "2026-03-03T16:05:24.000Z",
-            "date_published": "2026-02-26T22:21:23.000Z",
-            "author": {
-                "name": "az4rvs",
-                "url": "https://github.com/az4rvs"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/69515690?u=90f1ac699c6be27bc726367c5357d029882e1fc7&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>PoC for CVE-2023-43208 RCE exploitation.</div>",
-            "url": "https://github.com/predyy/CVE-2023-43208",
-            "title": "predyy/CVE-2023-43208: PoC for CVE-2023-43208 RCE exploitation.",
-            "date_modified": "2026-02-25T10:24:39.000Z",
-            "date_published": "2026-02-25T09:45:48.000Z",
-            "author": {
-                "name": "predyy",
-                "url": "https://github.com/predyy"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/22528146?u=7090392e6f8e55fed0f71b575b710280a5e234e5&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>mirth-connect-rce-poc</div>",
-            "url": "https://github.com/D3m0nicw0lf/CVE-2023-43208",
-            "title": "D3m0nicw0lf/CVE-2023-43208: mirth-connect-rce-poc",
-            "date_modified": "2026-02-25T04:17:58.000Z",
-            "date_published": "2026-02-25T03:21:44.000Z",
-            "author": {
-                "name": "D3m0nicw0lf",
-                "url": "https://github.com/D3m0nicw0lf"
             }
         }
     ]
