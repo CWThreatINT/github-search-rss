@@ -6,6 +6,17 @@
     "description": "CVE-2022 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/421543?u=5fe3bd7e6f940cc39fe0697959806054063f726f&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>try to determine if a host is vulnerable to SpringShell CVE‐2022‐22965 and CVE‐2022‐22963</div>",
+            "url": "https://github.com/jschauma/check-springshell",
+            "title": "jschauma/check-springshell: try to determine if a host is vulnerable to SpringShell CVE‐2022‐22965 and CVE‐2022‐22963",
+            "date_modified": "2026-03-08T19:43:56.000Z",
+            "date_published": "2022-03-30T21:30:09.000Z",
+            "author": {
+                "name": "jschauma",
+                "url": "https://github.com/jschauma"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/88006098?u=179b2bb241060cdcac8280d10c0fa6e099b17930&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>SLUBStick exploitation of CVE-2022-32250. Converting a Netfilter UAF into a cross-cache arbitrary memory R/W primitive through PTE manipulation.</div>",
             "url": "https://github.com/LSinus/CacheMeIfYouCan",
             "title": "LSinus/CacheMeIfYouCan: SLUBStick exploitation of CVE-2022-32250. Converting a Netfilter UAF into a cross-cache arbitrary memory R/W primitive through PTE manipulation.",
@@ -146,17 +157,6 @@
             "author": {
                 "name": "bcarrulo",
                 "url": "https://github.com/bcarrulo"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/421543?u=5fe3bd7e6f940cc39fe0697959806054063f726f&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>try to determine if a host is vulnerable to SpringShell CVE‐2022‐22965 and CVE‐2022‐22963</div>",
-            "url": "https://github.com/jschauma/check-springshell",
-            "title": "jschauma/check-springshell: try to determine if a host is vulnerable to SpringShell CVE‐2022‐22965 and CVE‐2022‐22963",
-            "date_modified": "2026-03-03T16:09:34.000Z",
-            "date_published": "2022-03-30T21:30:09.000Z",
-            "author": {
-                "name": "jschauma",
-                "url": "https://github.com/jschauma"
             }
         },
         {
