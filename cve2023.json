@@ -6,6 +6,17 @@
     "description": "CVE-2023 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/214546144?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>🔒 Analyze the CVE-2023-39910 vulnerability in Libbitcoin Explorer to understand its impact on Bitcoin wallet security and protect your assets.</div>",
+            "url": "https://github.com/Hitplus/RingSide-Replay-Attack",
+            "title": "Hitplus/RingSide-Replay-Attack: 🔒 Analyze the CVE-2023-39910 vulnerability in Libbitcoin Explorer to understand its impact on Bitcoin wallet security and protect your assets.",
+            "date_modified": "2026-03-08T18:33:09.000Z",
+            "date_published": "2026-01-07T14:24:08.000Z",
+            "author": {
+                "name": "Hitplus",
+                "url": "https://github.com/Hitplus"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/38466612?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
             "url": "https://github.com/gustavorobertux/cisco-cve-2023-20198-checker",
             "title": "gustavorobertux/cisco-cve-2023-20198-checker",
@@ -22,6 +33,17 @@
             "title": "RonF98/CVE-2023-38831-POC: CVE-2023-38831 is a Zero-day WinRAR vulnerability that lets attackers disguise malicious files in archives, tricking users into executing harmful content.",
             "date_modified": "2026-03-08T17:57:22.000Z",
             "date_published": "2026-03-08T17:54:36.000Z",
+            "author": {
+                "name": "RonF98",
+                "url": "https://github.com/RonF98"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/181740430?u=1969d193e65d1cf8c0e8b70af17b8a88a789cabd&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2023-38831 is a Zero-day WinRAR vulnerability that lets attackers disguise malicious files in archives, tricking users into executing harmful content.</div>",
+            "url": "https://github.com/RonF98/CVE-2023-38831-POC-88",
+            "title": "RonF98/CVE-2023-38831-POC-88: CVE-2023-38831 is a Zero-day WinRAR vulnerability that lets attackers disguise malicious files in archives, tricking users into executing harmful content.",
+            "date_modified": "2026-03-08T19:06:46.000Z",
+            "date_published": "2024-11-11T14:25:41.000Z",
             "author": {
                 "name": "RonF98",
                 "url": "https://github.com/RonF98"
@@ -47,17 +69,6 @@
             "author": {
                 "name": "hyunjungg",
                 "url": "https://github.com/hyunjungg"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/214546144?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>🔒 Analyze the CVE-2023-39910 vulnerability in Libbitcoin Explorer to understand its impact on Bitcoin wallet security and protect your assets.</div>",
-            "url": "https://github.com/Hitplus/RingSide-Replay-Attack",
-            "title": "Hitplus/RingSide-Replay-Attack: 🔒 Analyze the CVE-2023-39910 vulnerability in Libbitcoin Explorer to understand its impact on Bitcoin wallet security and protect your assets.",
-            "date_modified": "2026-03-08T15:37:59.000Z",
-            "date_published": "2026-01-07T14:24:08.000Z",
-            "author": {
-                "name": "Hitplus",
-                "url": "https://github.com/Hitplus"
             }
         },
         {
@@ -212,17 +223,6 @@
             "author": {
                 "name": "Pegasus0xx",
                 "url": "https://github.com/Pegasus0xx"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/237713823?u=cde6d8fe152e1a715d49d440f6ee82b55511dcd8&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
-            "url": "https://github.com/SafeLock-D2E/Quiksand-CVE-2023-24012",
-            "title": "SafeLock-D2E/Quiksand-CVE-2023-24012",
-            "date_modified": "2026-02-27T14:45:23.000Z",
-            "date_published": "2026-02-27T06:58:53.000Z",
-            "author": {
-                "name": "SafeLock-D2E",
-                "url": "https://github.com/SafeLock-D2E"
             }
         }
     ]
