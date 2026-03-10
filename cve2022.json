@@ -6,6 +6,28 @@
     "description": "CVE-2022 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/238763467?u=76662c7a66c03b714ff21c4b8e16fe6dcd1c20f7&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
+            "url": "https://github.com/7rootsec/CVE-2022-21661-Technical-Analysis",
+            "title": "7rootsec/CVE-2022-21661-Technical-Analysis",
+            "date_modified": "2026-03-10T19:28:53.000Z",
+            "date_published": "2026-03-01T12:35:49.000Z",
+            "author": {
+                "name": "7rootsec",
+                "url": "https://github.com/7rootsec"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/55659637?u=75dc37363256483781b214bbe542fe535c1fa3cf&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Authenticated Command Injection Tool (CVE-2022-31898) - HACKCONRD 2026.</div>",
+            "url": "https://github.com/CryptoGhost1/MangoPunch-CVE-2022-31898",
+            "title": "CryptoGhost1/MangoPunch-CVE-2022-31898: Authenticated Command Injection Tool (CVE-2022-31898) - HACKCONRD 2026.",
+            "date_modified": "2026-03-10T18:57:31.000Z",
+            "date_published": "2026-03-10T18:34:09.000Z",
+            "author": {
+                "name": "CryptoGhost1",
+                "url": "https://github.com/CryptoGhost1"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/58256393?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
             "url": "https://github.com/engranaabubakar/CVE-2022-42889",
             "title": "engranaabubakar/CVE-2022-42889",
@@ -201,28 +223,6 @@
             "author": {
                 "name": "real-tim-johnston",
                 "url": "https://github.com/real-tim-johnston"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/238763467?u=76662c7a66c03b714ff21c4b8e16fe6dcd1c20f7&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
-            "url": "https://github.com/7rootsec/CVE-2022-21661-Technical-Analysis",
-            "title": "7rootsec/CVE-2022-21661-Technical-Analysis",
-            "date_modified": "2026-03-01T12:35:53.000Z",
-            "date_published": "2026-03-01T12:35:49.000Z",
-            "author": {
-                "name": "7rootsec",
-                "url": "https://github.com/7rootsec"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/260553795?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>BlueFalconInk CISA ED 26-03 Compliance Tracker - Rapid-response Streamlit app for Cisco SD-WAN vulnerability mitigation (CVE-2026-20127, CVE-2022-20775)</div>",
-            "url": "https://github.com/bluefalconink/cisa-ed-26-03-tracker",
-            "title": "bluefalconink/cisa-ed-26-03-tracker: BlueFalconInk CISA ED 26-03 Compliance Tracker - Rapid-response Streamlit app for Cisco SD-WAN vulnerability mitigation (CVE-2026-20127, CVE-2022-20775)",
-            "date_modified": "2026-03-01T08:10:20.000Z",
-            "date_published": "2026-02-27T00:26:44.000Z",
-            "author": {
-                "name": "bluefalconink",
-                "url": "https://github.com/bluefalconink"
             }
         }
     ]
