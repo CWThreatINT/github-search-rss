@@ -6,6 +6,17 @@
     "description": "CVE-2022 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/7225227?u=f14e49a53ffa53757e3b6a037b46a43f87c92cf0&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2022-21449 Proof of Concept demonstrating its usage with a client running on a vulnerable Java version and a malicious TLS server</div>",
+            "url": "https://github.com/notkmhn/CVE-2022-21449-TLS-PoC",
+            "title": "notkmhn/CVE-2022-21449-TLS-PoC: CVE-2022-21449 Proof of Concept demonstrating its usage with a client running on a vulnerable Java version and a malicious TLS server",
+            "date_modified": "2026-03-15T11:33:33.000Z",
+            "date_published": "2022-04-20T20:31:15.000Z",
+            "author": {
+                "name": "notkmhn",
+                "url": "https://github.com/notkmhn"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/249392236?u=651a243346aea7349821f5ec27bc9b4a9ea47525&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
             "url": "https://github.com/sepkascurty-cpu/php-exploit_cve-2022-31630",
             "title": "sepkascurty-cpu/php-exploit_cve-2022-31630",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "bcarrulo",
                 "url": "https://github.com/bcarrulo"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/61577401?u=5145761190b07488166ee1fe2ad997cdd8691486&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
-            "url": "https://github.com/yiliufeng168/CVE-2022-31813",
-            "title": "yiliufeng168/CVE-2022-31813",
-            "date_modified": "2026-03-02T05:54:44.000Z",
-            "date_published": "2026-03-02T05:50:48.000Z",
-            "author": {
-                "name": "yiliufeng168",
-                "url": "https://github.com/yiliufeng168"
             }
         }
     ]
