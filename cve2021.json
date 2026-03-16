@@ -6,6 +6,17 @@
     "description": "CVE-2021 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/254159099?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A secure, zero-trust database management tool for WordPress. Fixes critical SSRF vulnerabilities (CVE-2021-21311) by enforcing local connections only.</div>",
+            "url": "https://github.com/Sudo-WP/sudowp-adminer",
+            "title": "Sudo-WP/sudowp-adminer: A secure, zero-trust database management tool for WordPress. Fixes critical SSRF vulnerabilities (CVE-2021-21311) by enforcing local connections only.",
+            "date_modified": "2026-03-16T21:24:18.000Z",
+            "date_published": "2026-01-24T12:57:16.000Z",
+            "author": {
+                "name": "Sudo-WP",
+                "url": "https://github.com/Sudo-WP"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/206778611?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>🚀 Enhance your penetration testing with PwnKit Helper, a simple tool for exploiting the CVE-2021-4034 vulnerability in pkexec for local privilege escalation.</div>",
             "url": "https://github.com/kaisen-bot/pwnkit-helper",
             "title": "kaisen-bot/pwnkit-helper: 🚀 Enhance your penetration testing with PwnKit Helper, a simple tool for exploiting the CVE-2021-4034 vulnerability in pkexec for local privilege escalation.",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "Allu-mette",
                 "url": "https://github.com/Allu-mette"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/6983303?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Fork of lodash.template with CVE-2021-23337 fix (command injection via variable option)</div>",
-            "url": "https://github.com/khayashi4337/lodash.template-fixed",
-            "title": "khayashi4337/lodash.template-fixed: Fork of lodash.template with CVE-2021-23337 fix (command injection via variable option)",
-            "date_modified": "2026-03-01T13:28:00.000Z",
-            "date_published": "2026-03-01T13:27:14.000Z",
-            "author": {
-                "name": "khayashi4337",
-                "url": "https://github.com/khayashi4337"
             }
         }
     ]
