@@ -6,6 +6,17 @@
     "description": "CVE-2021 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/123921941?u=98689c40885f87ad11ec488859c882853d4c4300&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Vulnerable Docker lab and exploit for Apache HTTP Server 2.4.49 path traversal vulnerability (CVE‑2021‑41773)</div>",
+            "url": "https://github.com/zubairahm3d/apache-cve-2021-41773-lab",
+            "title": "zubairahm3d/apache-cve-2021-41773-lab: Vulnerable Docker lab and exploit for Apache HTTP Server 2.4.49 path traversal vulnerability (CVE‑2021‑41773)",
+            "date_modified": "2026-03-16T12:13:44.000Z",
+            "date_published": "2026-03-16T11:51:27.000Z",
+            "author": {
+                "name": "zubairahm3d",
+                "url": "https://github.com/zubairahm3d"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/206778611?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>🚀 Enhance your penetration testing with PwnKit Helper, a simple tool for exploiting the CVE-2021-4034 vulnerability in pkexec for local privilege escalation.</div>",
             "url": "https://github.com/kaisen-bot/pwnkit-helper",
             "title": "kaisen-bot/pwnkit-helper: 🚀 Enhance your penetration testing with PwnKit Helper, a simple tool for exploiting the CVE-2021-4034 vulnerability in pkexec for local privilege escalation.",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "khayashi4337",
                 "url": "https://github.com/khayashi4337"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/99257686?u=af9f84d714aa7b877cfd627d377e2ef7d1eb7dfc&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Self-contained exploit for CVE-2021-4034 - Pkexec Local Privilege Escalation</div>",
-            "url": "https://github.com/Abbykito/KERNELexploits",
-            "title": "Abbykito/KERNELexploits: Self-contained exploit for CVE-2021-4034 - Pkexec Local Privilege Escalation",
-            "date_modified": "2026-03-01T05:16:20.000Z",
-            "date_published": "2026-03-01T05:11:09.000Z",
-            "author": {
-                "name": "Abbykito",
-                "url": "https://github.com/Abbykito"
             }
         }
     ]
