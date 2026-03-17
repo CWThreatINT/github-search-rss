@@ -6,25 +6,25 @@
     "description": "CVE-2021 FEED on GitHub",
     "items": [
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/199704569?u=6e13b3ef8a544d8db6f6087746ab05c5d4cae03c&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2021-44228 Log4Shell — Penetration Test Writeup</div>",
-            "url": "https://github.com/wmohamed2033/wmohamed2033.github.io",
-            "title": "wmohamed2033/wmohamed2033.github.io: CVE-2021-44228 Log4Shell — Penetration Test Writeup",
-            "date_modified": "2026-03-17T13:48:03.000Z",
-            "date_published": "2026-03-17T13:45:04.000Z",
-            "author": {
-                "name": "wmohamed2033",
-                "url": "https://github.com/wmohamed2033"
-            }
-        },
-        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/206778611?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>🚀 Enhance your penetration testing with PwnKit Helper, a simple tool for exploiting the CVE-2021-4034 vulnerability in pkexec for local privilege escalation.</div>",
             "url": "https://github.com/kaisen-bot/pwnkit-helper",
             "title": "kaisen-bot/pwnkit-helper: 🚀 Enhance your penetration testing with PwnKit Helper, a simple tool for exploiting the CVE-2021-4034 vulnerability in pkexec for local privilege escalation.",
-            "date_modified": "2026-03-17T11:15:12.000Z",
+            "date_modified": "2026-03-17T14:23:32.000Z",
             "date_published": "2025-10-01T09:53:03.000Z",
             "author": {
                 "name": "kaisen-bot",
                 "url": "https://github.com/kaisen-bot"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/199704569?u=6e13b3ef8a544d8db6f6087746ab05c5d4cae03c&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2021-44228 Log4Shell — Penetration Test Writeup</div>",
+            "url": "https://github.com/wmohamed2033/wmohamed2033.github.io",
+            "title": "wmohamed2033/wmohamed2033.github.io: CVE-2021-44228 Log4Shell — Penetration Test Writeup",
+            "date_modified": "2026-03-17T14:17:16.000Z",
+            "date_published": "2026-03-17T13:45:04.000Z",
+            "author": {
+                "name": "wmohamed2033",
+                "url": "https://github.com/wmohamed2033"
             }
         },
         {
@@ -218,7 +218,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/151716531?u=09c857f41007fa7244a5455c25e5f25c9474df5b&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Dahua IP camera CVE research toolkit (CVE-2021-33044/33045, CVE-2025-31700/31701)</div>",
             "url": "https://github.com/umair-aziz025/dahua-cve-research",
             "title": "umair-aziz025/dahua-cve-research: Dahua IP camera CVE research toolkit (CVE-2021-33044/33045, CVE-2025-31700/31701)",
-            "date_modified": "2026-03-11T03:27:07.000Z",
+            "date_modified": "2026-03-17T14:30:55.000Z",
             "date_published": "2026-03-03T21:28:23.000Z",
             "author": {
                 "name": "umair-aziz025",
