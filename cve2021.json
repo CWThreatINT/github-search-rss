@@ -6,6 +6,17 @@
     "description": "CVE-2021 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/132673569?u=d6067882ee0bcb27fda3f3442edf0daa6908f5dc&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2021-25741 POC in Zig</div>",
+            "url": "https://github.com/Glutenfree69/ZigRaceExploit",
+            "title": "Glutenfree69/ZigRaceExploit: CVE-2021-25741 POC in Zig",
+            "date_modified": "2026-03-17T10:28:30.000Z",
+            "date_published": "2026-03-17T10:28:00.000Z",
+            "author": {
+                "name": "Glutenfree69",
+                "url": "https://github.com/Glutenfree69"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/206778611?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>🚀 Enhance your penetration testing with PwnKit Helper, a simple tool for exploiting the CVE-2021-4034 vulnerability in pkexec for local privilege escalation.</div>",
             "url": "https://github.com/kaisen-bot/pwnkit-helper",
             "title": "kaisen-bot/pwnkit-helper: 🚀 Enhance your penetration testing with PwnKit Helper, a simple tool for exploiting the CVE-2021-4034 vulnerability in pkexec for local privilege escalation.",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "sandesh9978",
                 "url": "https://github.com/sandesh9978"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/61758121?u=09b6e5babe61dc4884400819beaad63ce8146c9e&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>PoC of CVE-2021-4034 (PwnKit) for personal training purposes.</div>",
-            "url": "https://github.com/Allu-mette/cve-2021-4034",
-            "title": "Allu-mette/cve-2021-4034: PoC of CVE-2021-4034 (PwnKit) for personal training purposes.",
-            "date_modified": "2026-03-02T14:02:20.000Z",
-            "date_published": "2026-03-02T12:30:28.000Z",
-            "author": {
-                "name": "Allu-mette",
-                "url": "https://github.com/Allu-mette"
             }
         }
     ]
