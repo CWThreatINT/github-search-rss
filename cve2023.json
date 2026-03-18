@@ -6,6 +6,17 @@
     "description": "CVE-2023 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/128129242?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Scripts and code for \"The Secret Life of CVEs\", presented at MSR 2023 Challenge: <a href=\"https://conf.researchr.org/track/msr-2023/msr-2023-mining-challenge\" class=\"Link--inTextBlock\" rel=\"nofollow\">https://conf.researchr.org/track/msr-2023/msr-2023-mining-challenge</a></div>",
+            "url": "https://github.com/ncusi/secret_life_of_CVEs",
+            "title": "ncusi/secret_life_of_CVEs: Scripts and code for \"The Secret Life of CVEs\", presented at MSR 2023 Challenge: https://conf.researchr.org/track/msr-2023/msr-2023-mining-challenge",
+            "date_modified": "2026-03-18T10:16:37.000Z",
+            "date_published": "2023-03-17T10:24:09.000Z",
+            "author": {
+                "name": "ncusi",
+                "url": "https://github.com/ncusi"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/214546144?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>🔒 Analyze the CVE-2023-39910 vulnerability in Libbitcoin Explorer to understand its impact on Bitcoin wallet security and protect your assets.</div>",
             "url": "https://github.com/Hitplus/RingSide-Replay-Attack",
             "title": "Hitplus/RingSide-Replay-Attack: 🔒 Analyze the CVE-2023-39910 vulnerability in Libbitcoin Explorer to understand its impact on Bitcoin wallet security and protect your assets.",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "az4rvs",
                 "url": "https://github.com/az4rvs"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/181740430?u=1969d193e65d1cf8c0e8b70af17b8a88a789cabd&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2023-38831 is a Zero-day WinRAR vulnerability that lets attackers disguise malicious files in archives, tricking users into executing harmful content.</div>",
-            "url": "https://github.com/RonF98/CVE-2023-38831-POC",
-            "title": "RonF98/CVE-2023-38831-POC: CVE-2023-38831 is a Zero-day WinRAR vulnerability that lets attackers disguise malicious files in archives, tricking users into executing harmful content.",
-            "date_modified": "2026-03-08T19:22:37.000Z",
-            "date_published": "2026-03-08T17:54:36.000Z",
-            "author": {
-                "name": "RonF98",
-                "url": "https://github.com/RonF98"
             }
         }
     ]
