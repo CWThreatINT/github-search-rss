@@ -6,6 +6,17 @@
     "description": "CVE-2021 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/194616325?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Red Team exploitation of CVE-2021-3156 (Baron Samedit) – Heap Buffer Overflow in Sudo leading to Local Privilege Escalation on Ubuntu 20.04</div>",
+            "url": "https://github.com/Rana-Ali93/CVE-2021-3156-Sudo-Buffer-Overflow-Linux",
+            "title": "Rana-Ali93/CVE-2021-3156-Sudo-Buffer-Overflow-Linux: Red Team exploitation of CVE-2021-3156 (Baron Samedit) – Heap Buffer Overflow in Sudo leading to Local Privilege Escalation on Ubuntu 20.04",
+            "date_modified": "2026-03-18T12:09:52.000Z",
+            "date_published": "2026-03-18T12:00:32.000Z",
+            "author": {
+                "name": "Rana-Ali93",
+                "url": "https://github.com/Rana-Ali93"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/206778611?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>🚀 Enhance your penetration testing with PwnKit Helper, a simple tool for exploiting the CVE-2021-4034 vulnerability in pkexec for local privilege escalation.</div>",
             "url": "https://github.com/kaisen-bot/pwnkit-helper",
             "title": "kaisen-bot/pwnkit-helper: 🚀 Enhance your penetration testing with PwnKit Helper, a simple tool for exploiting the CVE-2021-4034 vulnerability in pkexec for local privilege escalation.",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "Faridi-m",
                 "url": "https://github.com/Faridi-m"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/132893559?u=e6055f4740ae0f14cff1ff127fbc9584771cda00&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
-            "url": "https://github.com/prabeershakya/CVE-2021-3490-POC",
-            "title": "prabeershakya/CVE-2021-3490-POC",
-            "date_modified": "2026-03-04T08:19:20.000Z",
-            "date_published": "2026-03-04T07:51:31.000Z",
-            "author": {
-                "name": "prabeershakya",
-                "url": "https://github.com/prabeershakya"
             }
         }
     ]
