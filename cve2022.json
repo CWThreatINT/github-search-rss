@@ -6,6 +6,17 @@
     "description": "CVE-2022 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/221097439?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Research and proof-of-concept for CVE-2022-0185 Linux kernel heap overflow vulnerability.</div>",
+            "url": "https://github.com/sandesh9978/CVE-2022-0185-Analysis-and-Exploit",
+            "title": "sandesh9978/CVE-2022-0185-Analysis-and-Exploit: Research and proof-of-concept for CVE-2022-0185 Linux kernel heap overflow vulnerability.",
+            "date_modified": "2026-03-20T16:29:03.000Z",
+            "date_published": "2026-02-25T16:13:07.000Z",
+            "author": {
+                "name": "sandesh9978",
+                "url": "https://github.com/sandesh9978"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/238159694?u=0196cc026eb606c4cd19db015fabd65c1f32665b&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
             "url": "https://github.com/glory903-devsecops/CVE-2022-22965",
             "title": "glory903-devsecops/CVE-2022-22965",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "AureliusIvanInvenioPTL",
                 "url": "https://github.com/AureliusIvanInvenioPTL"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/242277634?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A comprehensive Security Operations Centre (SOC) incident response simulation demonstrating threat detection, triage, analysis, and mitigation of the Spring4Shell vulnerability (CVE-2022-22965).</div>",
-            "url": "https://github.com/Shakur1314/CVE-2022-22965-Spring4Shell-Security-Operations-Analysis",
-            "title": "Shakur1314/CVE-2022-22965-Spring4Shell-Security-Operations-Analysis: A comprehensive Security Operations Centre (SOC) incident response simulation demonstrating threat detection, triage, analysis, and mitigation of the Spring4Shell vulnerability (CVE-2022-22965).",
-            "date_modified": "2026-03-04T11:06:59.000Z",
-            "date_published": "2026-01-14T07:45:01.000Z",
-            "author": {
-                "name": "Shakur1314",
-                "url": "https://github.com/Shakur1314"
             }
         }
     ]
