@@ -6,6 +6,28 @@
     "description": "CVE-2021 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/217635543?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div> This repository provides a detailed walkthrough of the *Solar Exploiting Log4j room* on TryHackMe, focusing on exploiting the critical Log4Shell vulnerability (CVE-2021-44228). The project demonstrates how attackers can leverage insecure logging mechanisms in Java applications to achieve remote code execution. </div>",
+            "url": "https://github.com/Lavanya2085/solar-exploiting-log4j",
+            "title": "Lavanya2085/solar-exploiting-log4j:  This repository provides a detailed walkthrough of the *Solar Exploiting Log4j room* on TryHackMe, focusing on exploiting the critical Log4Shell vulnerability (CVE-2021-44228). The project demonstrates how attackers can leverage insecure logging mechanisms in Java applications to achieve remote code execution. ",
+            "date_modified": "2026-03-22T16:46:44.000Z",
+            "date_published": "2026-03-22T16:45:21.000Z",
+            "author": {
+                "name": "Lavanya2085",
+                "url": "https://github.com/Lavanya2085"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/252216606?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>This repository presents a comprehensive walkthrough of the Solar Exploiting Log4j room on TryHackMe, with a focus on understanding and exploiting the critical Log4Shell vulnerability (CVE-2021-44228).The process of triggering the exploit and gaining a reverse shell is explained in a practical and easy-to-follow manner.</div>",
+            "url": "https://github.com/lathika-3006/Solar-exploiting-log-4j",
+            "title": "lathika-3006/Solar-exploiting-log-4j: This repository presents a comprehensive walkthrough of the Solar Exploiting Log4j room on TryHackMe, with a focus on understanding and exploiting the critical Log4Shell vulnerability (CVE-2021-44228).The process of triggering the exploit and gaining a reverse shell is explained in a practical and easy-to-follow manner.",
+            "date_modified": "2026-03-22T16:47:28.000Z",
+            "date_published": "2026-03-22T16:30:09.000Z",
+            "author": {
+                "name": "lathika-3006",
+                "url": "https://github.com/lathika-3006"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/141505121?u=c5e18b97a10dc293a255c36d5eca1e81e8313ad5&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
             "url": "https://github.com/ngtuonghung/CVE-2021-3156",
             "title": "ngtuonghung/CVE-2021-3156",
@@ -201,28 +223,6 @@
             "author": {
                 "name": "Nanxsec",
                 "url": "https://github.com/Nanxsec"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/151164247?u=64f438e1d3662e6c2904657c0e0406b802a147b9&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>POC for log4shll Vulnerablity (CVE-2021-44228)</div>",
-            "url": "https://github.com/Codepumpking/log4shell-poc",
-            "title": "Codepumpking/log4shell-poc: POC for log4shll Vulnerablity (CVE-2021-44228)",
-            "date_modified": "2026-03-15T04:36:04.000Z",
-            "date_published": "2026-03-15T04:21:21.000Z",
-            "author": {
-                "name": "Codepumpking",
-                "url": "https://github.com/Codepumpking"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/67196966?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>HTTP Request Smuggling</div>",
-            "url": "https://github.com/BoianEduard/CVE-2021-40346",
-            "title": "BoianEduard/CVE-2021-40346: HTTP Request Smuggling",
-            "date_modified": "2026-03-14T18:07:29.000Z",
-            "date_published": "2025-12-21T16:47:27.000Z",
-            "author": {
-                "name": "BoianEduard",
-                "url": "https://github.com/BoianEduard"
             }
         }
     ]
