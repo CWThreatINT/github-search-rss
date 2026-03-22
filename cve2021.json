@@ -6,6 +6,17 @@
     "description": "CVE-2021 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/220472576?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>This room is based on exploiting the notorious Log4j vulnerability ( CVE-2021-44228), also referred to as the Log4Shell. The weakness enables attackers to execute a remote code via injection of the malicious payloads into the log messages.</div>",
+            "url": "https://github.com/Saru1718/THM---Solar-exploiting-Log-4j",
+            "title": "Saru1718/THM---Solar-exploiting-Log-4j: This room is based on exploiting the notorious Log4j vulnerability ( CVE-2021-44228), also referred to as the Log4Shell. The weakness enables attackers to execute a remote code via injection of the malicious payloads into the log messages.",
+            "date_modified": "2026-03-22T08:18:03.000Z",
+            "date_published": "2026-03-22T07:38:42.000Z",
+            "author": {
+                "name": "Saru1718",
+                "url": "https://github.com/Saru1718"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/206778611?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>🚀 Enhance your penetration testing with PwnKit Helper, a simple tool for exploiting the CVE-2021-4034 vulnerability in pkexec for local privilege escalation.</div>",
             "url": "https://github.com/kaisen-bot/pwnkit-helper",
             "title": "kaisen-bot/pwnkit-helper: 🚀 Enhance your penetration testing with PwnKit Helper, a simple tool for exploiting the CVE-2021-4034 vulnerability in pkexec for local privilege escalation.",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "zeynepglygt",
                 "url": "https://github.com/zeynepglygt"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/152008995?u=d1f4458088ba6567d436b1152db56e49d3f4e5fa&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A simple Docker lab and Exploit setup for CVE-2021-3156 - \"Baron Samedit\".</div>",
-            "url": "https://github.com/TheLeopard65/CVE-2021-3156-Baron-Samedit",
-            "title": "TheLeopard65/CVE-2021-3156-Baron-Samedit: A simple Docker lab and Exploit setup for CVE-2021-3156 - \"Baron Samedit\".",
-            "date_modified": "2026-03-11T19:52:24.000Z",
-            "date_published": "2026-03-11T18:34:52.000Z",
-            "author": {
-                "name": "TheLeopard65",
-                "url": "https://github.com/TheLeopard65"
             }
         }
     ]
