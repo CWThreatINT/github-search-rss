@@ -6,6 +6,17 @@
     "description": "CVE-2022 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/88006098?u=179b2bb241060cdcac8280d10c0fa6e099b17930&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>SLUBStick exploitation of CVE-2022-32250. Converting a Netfilter UAF into a cross-cache arbitrary memory R/W primitive through PTE manipulation.</div>",
+            "url": "https://github.com/LSinus/CacheMeIfYouCan",
+            "title": "LSinus/CacheMeIfYouCan: SLUBStick exploitation of CVE-2022-32250. Converting a Netfilter UAF into a cross-cache arbitrary memory R/W primitive through PTE manipulation.",
+            "date_modified": "2026-03-23T23:22:43.000Z",
+            "date_published": "2026-02-23T17:33:28.000Z",
+            "author": {
+                "name": "LSinus",
+                "url": "https://github.com/LSinus"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/238159694?u=0196cc026eb606c4cd19db015fabd65c1f32665b&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
             "url": "https://github.com/glory903-devsecops/CVE-2022-22965",
             "title": "glory903-devsecops/CVE-2022-22965",
@@ -47,17 +58,6 @@
             "author": {
                 "name": "sangrok-jeon",
                 "url": "https://github.com/sangrok-jeon"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/88006098?u=179b2bb241060cdcac8280d10c0fa6e099b17930&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>SLUBStick exploitation of CVE-2022-32250. Converting a Netfilter UAF into a cross-cache arbitrary memory R/W primitive through PTE manipulation.</div>",
-            "url": "https://github.com/LSinus/CacheMeIfYouCan",
-            "title": "LSinus/CacheMeIfYouCan: SLUBStick exploitation of CVE-2022-32250. Converting a Netfilter UAF into a cross-cache arbitrary memory R/W primitive through PTE manipulation.",
-            "date_modified": "2026-03-15T19:35:11.000Z",
-            "date_published": "2026-02-23T17:33:28.000Z",
-            "author": {
-                "name": "LSinus",
-                "url": "https://github.com/LSinus"
             }
         },
         {
