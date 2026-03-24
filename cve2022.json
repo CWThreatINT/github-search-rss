@@ -6,6 +6,17 @@
     "description": "CVE-2022 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/3480548?u=99a531a7e5be479662c27ca5da6413c6d5fde828&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Investigating CVE-2022-36804</div>",
+            "url": "https://github.com/JohanGabrielson/bitbucket-test",
+            "title": "JohanGabrielson/bitbucket-test: Investigating CVE-2022-36804",
+            "date_modified": "2026-03-24T09:37:12.000Z",
+            "date_published": "2026-03-24T09:32:33.000Z",
+            "author": {
+                "name": "JohanGabrielson",
+                "url": "https://github.com/JohanGabrielson"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/88006098?u=179b2bb241060cdcac8280d10c0fa6e099b17930&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>SLUBStick exploitation of CVE-2022-32250. Converting a Netfilter UAF into a cross-cache arbitrary memory R/W primitive through PTE manipulation.</div>",
             "url": "https://github.com/LSinus/CacheMeIfYouCan",
             "title": "LSinus/CacheMeIfYouCan: SLUBStick exploitation of CVE-2022-32250. Converting a Netfilter UAF into a cross-cache arbitrary memory R/W primitive through PTE manipulation.",
@@ -160,7 +171,7 @@
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/259905299?u=e71115031e44212cbcd5aacf1e2423c92e0f609e&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2022-22965</div>",
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/259905299?u=e554d04d34328d7e1749243970882eb5c0757aae&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2022-22965</div>",
             "url": "https://github.com/0xAshwesker/CVE-2022-22965",
             "title": "0xAshwesker/CVE-2022-22965: CVE-2022-22965",
             "date_modified": "2026-03-05T21:16:51.000Z",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "AureliusIvan",
                 "url": "https://github.com/AureliusIvan"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/193194144?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Unlock Bootloader for Itel S23 (S665L) / Unisoc T606 using CVE-2022-38694</div>",
-            "url": "https://github.com/AureliusIvanInvenioPTL/ubl-itel-s23",
-            "title": "AureliusIvanInvenioPTL/ubl-itel-s23: Unlock Bootloader for Itel S23 (S665L) / Unisoc T606 using CVE-2022-38694",
-            "date_modified": "2026-03-04T15:46:24.000Z",
-            "date_published": "2026-03-04T15:41:48.000Z",
-            "author": {
-                "name": "AureliusIvanInvenioPTL",
-                "url": "https://github.com/AureliusIvanInvenioPTL"
             }
         }
     ]
