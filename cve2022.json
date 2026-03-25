@@ -6,6 +6,39 @@
     "description": "CVE-2022 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/32336596?u=460e378bb6a3956c91fb264a0c58b34e4035e294&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
+            "url": "https://github.com/qoo7972365/CVE-2022-36883-Poc",
+            "title": "qoo7972365/CVE-2022-36883-Poc",
+            "date_modified": "2026-03-25T15:28:19.000Z",
+            "date_published": "2026-03-25T15:28:19.000Z",
+            "author": {
+                "name": "qoo7972365",
+                "url": "https://github.com/qoo7972365"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/147138136?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
+            "url": "https://github.com/Noidolosity/CVE-2022-32250",
+            "title": "Noidolosity/CVE-2022-32250",
+            "date_modified": "2026-03-25T15:16:41.000Z",
+            "date_published": "2026-03-25T15:09:48.000Z",
+            "author": {
+                "name": "Noidolosity",
+                "url": "https://github.com/Noidolosity"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/236052893?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Static Malware Analysis of Follina (CVE-2022-30190) from Blue Team Labs Online</div>",
+            "url": "https://github.com/ImVihanga03/Static-Malware-Analysis-Follina-CVE-2022-30190",
+            "title": "ImVihanga03/Static-Malware-Analysis-Follina-CVE-2022-30190: Static Malware Analysis of Follina (CVE-2022-30190) from Blue Team Labs Online",
+            "date_modified": "2026-03-25T14:23:41.000Z",
+            "date_published": "2026-03-25T14:23:35.000Z",
+            "author": {
+                "name": "ImVihanga03",
+                "url": "https://github.com/ImVihanga03"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/157217373?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2022-31491</div>",
             "url": "https://github.com/ready2disclose/CVE-2022-31491",
             "title": "ready2disclose/CVE-2022-31491: CVE-2022-31491",
@@ -190,39 +223,6 @@
             "author": {
                 "name": "engranaabubakar",
                 "url": "https://github.com/engranaabubakar"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/421543?u=5fe3bd7e6f940cc39fe0697959806054063f726f&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>try to determine if a host is vulnerable to SpringShell CVE‐2022‐22965 and CVE‐2022‐22963</div>",
-            "url": "https://github.com/jschauma/check-springshell",
-            "title": "jschauma/check-springshell: try to determine if a host is vulnerable to SpringShell CVE‐2022‐22965 and CVE‐2022‐22963",
-            "date_modified": "2026-03-08T19:43:56.000Z",
-            "date_published": "2022-03-30T21:30:09.000Z",
-            "author": {
-                "name": "jschauma",
-                "url": "https://github.com/jschauma"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/259905299?u=e554d04d34328d7e1749243970882eb5c0757aae&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2022-22965</div>",
-            "url": "https://github.com/0xAshwesker/CVE-2022-22965",
-            "title": "0xAshwesker/CVE-2022-22965: CVE-2022-22965",
-            "date_modified": "2026-03-05T21:16:51.000Z",
-            "date_published": "2026-03-01T20:00:34.000Z",
-            "author": {
-                "name": "0xAshwesker",
-                "url": "https://github.com/0xAshwesker"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/33920374?u=daa1c535d99ab6916f536f229208ae1820035015&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2022-46152: Improper Validation of Array Index in the `cleanup_shm_refs' function.</div>",
-            "url": "https://github.com/qianfei11/CVE-2022-46152",
-            "title": "qianfei11/CVE-2022-46152: CVE-2022-46152: Improper Validation of Array Index in the `cleanup_shm_refs' function.",
-            "date_modified": "2026-03-05T13:53:01.000Z",
-            "date_published": "2023-11-27T12:07:07.000Z",
-            "author": {
-                "name": "qianfei11",
-                "url": "https://github.com/qianfei11"
             }
         }
     ]
