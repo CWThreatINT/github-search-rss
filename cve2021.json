@@ -6,6 +6,17 @@
     "description": "CVE-2021 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/141505121?u=c5e18b97a10dc293a255c36d5eca1e81e8313ad5&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
+            "url": "https://github.com/ngtuonghung/CVE-2021-3156",
+            "title": "ngtuonghung/CVE-2021-3156",
+            "date_modified": "2026-03-25T13:48:50.000Z",
+            "date_published": "2026-03-19T09:55:40.000Z",
+            "author": {
+                "name": "ngtuonghung",
+                "url": "https://github.com/ngtuonghung"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/206778611?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>🚀 Enhance your penetration testing with PwnKit Helper, a simple tool for exploiting the CVE-2021-4034 vulnerability in pkexec for local privilege escalation.</div>",
             "url": "https://github.com/kaisen-bot/pwnkit-helper",
             "title": "kaisen-bot/pwnkit-helper: 🚀 Enhance your penetration testing with PwnKit Helper, a simple tool for exploiting the CVE-2021-4034 vulnerability in pkexec for local privilege escalation.",
@@ -17,21 +28,10 @@
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/141505121?u=c5e18b97a10dc293a255c36d5eca1e81e8313ad5&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
-            "url": "https://github.com/ngtuonghung/CVE-2021-3156",
-            "title": "ngtuonghung/CVE-2021-3156",
-            "date_modified": "2026-03-25T10:21:28.000Z",
-            "date_published": "2026-03-19T09:55:40.000Z",
-            "author": {
-                "name": "ngtuonghung",
-                "url": "https://github.com/ngtuonghung"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/87580618?u=0eb5d47344c285c3731dd298dce258250b6c7b9a&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Master's Thesis research on CVE-2021-4034 (PwnKit). Advanced exploit with 6 payload modes (shell, id, whoami, backdoor, root user, reverse shell), automated environment setup, and complete academic documentation. Portfolio piece demonstrating Linux exploit development, memory corruption analysis, and privilege escalation research.</div>",
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/87580618?u=0eb5d47344c285c3731dd298dce258250b6c7b9a&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Advanced Linux Privilege Escalation research on CVE-2021-4034 (PwnKit). Features an optimized exploit with 6 polymorphic payload modes (Interactive Shell, Backdoor, User Creation, Reverse Shell, etc). Portfolio piece focused on memory corruption logic, environment variable manipulation, and anti-forensic techniques.</div>",
             "url": "https://github.com/devianntsec/CVE-2021-4034-PwnKit-Masters-Thesis",
-            "title": "devianntsec/CVE-2021-4034-PwnKit-Masters-Thesis: Master's Thesis research on CVE-2021-4034 (PwnKit). Advanced exploit with 6 payload modes (shell, id, whoami, backdoor, root user, reverse shell), automated environment setup, and complete academic documentation. Portfolio piece demonstrating Linux exploit development, memory corruption analysis, and privilege escalation research.",
-            "date_modified": "2026-03-25T06:14:26.000Z",
+            "title": "devianntsec/CVE-2021-4034-PwnKit-Masters-Thesis: Advanced Linux Privilege Escalation research on CVE-2021-4034 (PwnKit). Features an optimized exploit with 6 polymorphic payload modes (Interactive Shell, Backdoor, User Creation, Reverse Shell, etc). Portfolio piece focused on memory corruption logic, environment variable manipulation, and anti-forensic techniques.",
+            "date_modified": "2026-03-25T14:04:16.000Z",
             "date_published": "2026-03-25T06:13:40.000Z",
             "author": {
                 "name": "devianntsec",
