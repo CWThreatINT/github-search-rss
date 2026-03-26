@@ -6,6 +6,17 @@
     "description": "CVE-2022 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/5783068?u=8ead6f35fa4c2d1fc565e6f080630d2bb299f41d&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Python implementation for NotProxyShell aka CVE-2022-40140 &amp; CVE-2022-41082</div>",
+            "url": "https://github.com/ZephrFish/NotProxyShellScanner",
+            "title": "ZephrFish/NotProxyShellScanner: Python implementation for NotProxyShell aka CVE-2022-40140 & CVE-2022-41082",
+            "date_modified": "2026-03-26T16:45:10.000Z",
+            "date_published": "2022-10-07T08:10:00.000Z",
+            "author": {
+                "name": "ZephrFish",
+                "url": "https://github.com/ZephrFish"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/141505121?u=c5e18b97a10dc293a255c36d5eca1e81e8313ad5&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>PoC for Nimbuspwn: Linux Privilege Escalation via Path Traversal and TOCTOU in networkd-dispatcher</div>",
             "url": "https://github.com/ngtuonghung/nimbuspwn-CVE-2022-29800-CVE-2022-29799",
             "title": "ngtuonghung/nimbuspwn-CVE-2022-29800-CVE-2022-29799: PoC for Nimbuspwn: Linux Privilege Escalation via Path Traversal and TOCTOU in networkd-dispatcher",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "seal-sec-demo-2",
                 "url": "https://github.com/seal-sec-demo-2"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/102460295?u=8c5194b43783b9461828ee3ee9313c9f70578d85&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>attacker </div>",
-            "url": "https://github.com/jelee2555/CVE-2022-1471-attacker",
-            "title": "jelee2555/CVE-2022-1471-attacker: attacker ",
-            "date_modified": "2026-03-11T13:38:08.000Z",
-            "date_published": "2026-02-26T01:29:37.000Z",
-            "author": {
-                "name": "jelee2555",
-                "url": "https://github.com/jelee2555"
             }
         }
     ]
