@@ -6,10 +6,21 @@
     "description": "CVE-2021 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/149681061?u=8f197f3ec906bfe4571876f3aee85d43ac741d05&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
+            "url": "https://github.com/dinhvaren/cve-2021-23369",
+            "title": "dinhvaren/cve-2021-23369",
+            "date_modified": "2026-03-28T13:31:32.000Z",
+            "date_published": "2026-03-28T13:24:08.000Z",
+            "author": {
+                "name": "dinhvaren",
+                "url": "https://github.com/dinhvaren"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/206778611?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>🚀 Enhance your penetration testing with PwnKit Helper, a simple tool for exploiting the CVE-2021-4034 vulnerability in pkexec for local privilege escalation.</div>",
             "url": "https://github.com/kaisen-bot/pwnkit-helper",
             "title": "kaisen-bot/pwnkit-helper: 🚀 Enhance your penetration testing with PwnKit Helper, a simple tool for exploiting the CVE-2021-4034 vulnerability in pkexec for local privilege escalation.",
-            "date_modified": "2026-03-28T09:41:34.000Z",
+            "date_modified": "2026-03-28T13:12:50.000Z",
             "date_published": "2025-10-01T09:53:03.000Z",
             "author": {
                 "name": "kaisen-bot",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "tsiddiquea",
                 "url": "https://github.com/tsiddiquea"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/199704569?u=6e13b3ef8a544d8db6f6087746ab05c5d4cae03c&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2021-44228 Log4Shell — Penetration Test Writeup</div>",
-            "url": "https://github.com/wmohamed2033/wmohamed2033.github.io",
-            "title": "wmohamed2033/wmohamed2033.github.io: CVE-2021-44228 Log4Shell — Penetration Test Writeup",
-            "date_modified": "2026-03-17T14:17:16.000Z",
-            "date_published": "2026-03-17T13:45:04.000Z",
-            "author": {
-                "name": "wmohamed2033",
-                "url": "https://github.com/wmohamed2033"
             }
         }
     ]
