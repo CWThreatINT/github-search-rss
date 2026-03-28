@@ -6,6 +6,17 @@
     "description": "CVE-2022 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/14138005?u=3d6f96ffe92e3af4b5f5b7549844f325bfaa962b&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2022-46364-Poc Apache CXF SSRF via MTOM XOP:Include</div>",
+            "url": "https://github.com/kasem545/CVE-2022-46364-Poc",
+            "title": "kasem545/CVE-2022-46364-Poc: CVE-2022-46364-Poc Apache CXF SSRF via MTOM XOP:Include",
+            "date_modified": "2026-03-28T21:13:09.000Z",
+            "date_published": "2026-03-28T21:10:47.000Z",
+            "author": {
+                "name": "kasem545",
+                "url": "https://github.com/kasem545"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/226895375?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
             "url": "https://github.com/Sleuth-in-town/CVE-2022-25927-test",
             "title": "Sleuth-in-town/CVE-2022-25927-test",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "sepkascurty-cpu",
                 "url": "https://github.com/sepkascurty-cpu"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/168992869?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Browser demo: EJS template injection (CVE-2022-29078) with Seal Security remediation</div>",
-            "url": "https://github.com/seal-sec-demo-2/npm-demo",
-            "title": "seal-sec-demo-2/npm-demo: Browser demo: EJS template injection (CVE-2022-29078) with Seal Security remediation",
-            "date_modified": "2026-03-12T17:29:54.000Z",
-            "date_published": "2026-02-13T23:45:15.000Z",
-            "author": {
-                "name": "seal-sec-demo-2",
-                "url": "https://github.com/seal-sec-demo-2"
             }
         }
     ]
