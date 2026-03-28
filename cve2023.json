@@ -6,6 +6,28 @@
     "description": "CVE-2023 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/216722585?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Este script es una Prueba de Concepto (PoC) para la vulnerabilidad de Ejecución Remota de Código (RCE) en **Mirth Connect** (versiones anteriores a la 4.4.1). Explota una vulnerabilidad de deserialización.</div>",
+            "url": "https://github.com/Humberto-pixel/CVE-2023-43208-PoC",
+            "title": "Humberto-pixel/CVE-2023-43208-PoC: Este script es una Prueba de Concepto (PoC) para la vulnerabilidad de Ejecución Remota de Código (RCE) en **Mirth Connect** (versiones anteriores a la 4.4.1). Explota una vulnerabilidad de deserialización.",
+            "date_modified": "2026-03-28T22:02:53.000Z",
+            "date_published": "2026-03-28T22:02:49.000Z",
+            "author": {
+                "name": "Humberto-pixel",
+                "url": "https://github.com/Humberto-pixel"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/120130511?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>oob_entry tfp0 kernel exploit for armv7 iOS (iOS 3.0–10.3.4), using CVE-2023-32434. We will publish a write-up detailing the methods in the coming weeks. 🐙</div>",
+            "url": "https://github.com/rkrakesh524/oob_entry",
+            "title": "rkrakesh524/oob_entry: oob_entry tfp0 kernel exploit for armv7 iOS (iOS 3.0–10.3.4), using CVE-2023-32434. We will publish a write-up detailing the methods in the coming weeks. 🐙",
+            "date_modified": "2026-03-28T21:41:17.000Z",
+            "date_published": "2025-08-13T09:19:29.000Z",
+            "author": {
+                "name": "rkrakesh524",
+                "url": "https://github.com/rkrakesh524"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/214546144?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>🔒 Analyze the CVE-2023-39910 vulnerability in Libbitcoin Explorer to understand its impact on Bitcoin wallet security and protect your assets.</div>",
             "url": "https://github.com/Hitplus/RingSide-Replay-Attack",
             "title": "Hitplus/RingSide-Replay-Attack: 🔒 Analyze the CVE-2023-39910 vulnerability in Libbitcoin Explorer to understand its impact on Bitcoin wallet security and protect your assets.",
@@ -14,17 +36,6 @@
             "author": {
                 "name": "Hitplus",
                 "url": "https://github.com/Hitplus"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/120130511?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>oob_entry tfp0 kernel exploit for armv7 iOS (iOS 3.0–10.3.4), using CVE-2023-32434. We will publish a write-up detailing the methods in the coming weeks. 🐙</div>",
-            "url": "https://github.com/rkrakesh524/oob_entry",
-            "title": "rkrakesh524/oob_entry: oob_entry tfp0 kernel exploit for armv7 iOS (iOS 3.0–10.3.4), using CVE-2023-32434. We will publish a write-up detailing the methods in the coming weeks. 🐙",
-            "date_modified": "2026-03-28T19:10:26.000Z",
-            "date_published": "2025-08-13T09:19:29.000Z",
-            "author": {
-                "name": "rkrakesh524",
-                "url": "https://github.com/rkrakesh524"
             }
         },
         {
@@ -212,17 +223,6 @@
             "author": {
                 "name": "wrewp",
                 "url": "https://github.com/wrewp"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/154115033?u=0275cc9bbe9de7e7c6a7006777963a9d7e68980e&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Proof‑of‑concept Python script demonstrating CVE‑2023‑43208 in Mirth Connect, allowing version checks and command execution on vulnerable instances.</div>",
-            "url": "https://github.com/Criz117/CVE-2023-43208-PoC",
-            "title": "Criz117/CVE-2023-43208-PoC: Proof‑of‑concept Python script demonstrating CVE‑2023‑43208 in Mirth Connect, allowing version checks and command execution on vulnerable instances.",
-            "date_modified": "2026-03-13T20:40:36.000Z",
-            "date_published": "2026-03-13T20:30:27.000Z",
-            "author": {
-                "name": "Criz117",
-                "url": "https://github.com/Criz117"
             }
         }
     ]
