@@ -6,6 +6,17 @@
     "description": "CVE-2022 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/270829027?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Setup and exploit recreation for CVE-2022-42889 Text4Shell.</div>",
+            "url": "https://github.com/KosmicOwl045/ICT287-CVE-2022-42889",
+            "title": "KosmicOwl045/ICT287-CVE-2022-42889: Setup and exploit recreation for CVE-2022-42889 Text4Shell.",
+            "date_modified": "2026-03-30T08:05:45.000Z",
+            "date_published": "2026-03-30T07:21:51.000Z",
+            "author": {
+                "name": "KosmicOwl045",
+                "url": "https://github.com/KosmicOwl045"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/165761282?u=f71549cccfd21662fd3dc469f443f407ab128a05&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
             "url": "https://github.com/Shashivanth009/CVE-2022-46364---Apache-CXF-XOP-Include-LFI-PoC",
             "title": "Shashivanth009/CVE-2022-46364---Apache-CXF-XOP-Include-LFI-PoC",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "sangrok-jeon",
                 "url": "https://github.com/sangrok-jeon"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/7225227?u=f14e49a53ffa53757e3b6a037b46a43f87c92cf0&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2022-21449 Proof of Concept demonstrating its usage with a client running on a vulnerable Java version and a malicious TLS server</div>",
-            "url": "https://github.com/notkmhn/CVE-2022-21449-TLS-PoC",
-            "title": "notkmhn/CVE-2022-21449-TLS-PoC: CVE-2022-21449 Proof of Concept demonstrating its usage with a client running on a vulnerable Java version and a malicious TLS server",
-            "date_modified": "2026-03-15T11:33:33.000Z",
-            "date_published": "2022-04-20T20:31:15.000Z",
-            "author": {
-                "name": "notkmhn",
-                "url": "https://github.com/notkmhn"
             }
         }
     ]
