@@ -6,6 +6,17 @@
     "description": "CVE-2022 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/199966715?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2022-22947 vulnerability task</div>",
+            "url": "https://github.com/SanderSchepers1993/CyberSec2026",
+            "title": "SanderSchepers1993/CyberSec2026: CVE-2022-22947 vulnerability task",
+            "date_modified": "2026-03-30T20:38:43.000Z",
+            "date_published": "2026-03-30T20:38:39.000Z",
+            "author": {
+                "name": "SanderSchepers1993",
+                "url": "https://github.com/SanderSchepers1993"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/3480548?u=99a531a7e5be479662c27ca5da6413c6d5fde828&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Investigating CVE-2022-36804</div>",
             "url": "https://github.com/JohanGabrielson/bitbucket-test",
             "title": "JohanGabrielson/bitbucket-test: Investigating CVE-2022-36804",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "Sudo-WP",
                 "url": "https://github.com/Sudo-WP"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/263270803?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2022-42889 취약점 분석보고서</div>",
-            "url": "https://github.com/sangrok-jeon/CVE-2022-42889-Analysis",
-            "title": "sangrok-jeon/CVE-2022-42889-Analysis: CVE-2022-42889 취약점 분석보고서",
-            "date_modified": "2026-03-16T06:12:14.000Z",
-            "date_published": "2026-03-16T05:29:10.000Z",
-            "author": {
-                "name": "sangrok-jeon",
-                "url": "https://github.com/sangrok-jeon"
             }
         }
     ]

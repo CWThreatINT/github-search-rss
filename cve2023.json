@@ -6,6 +6,17 @@
     "description": "CVE-2023 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/111921707?u=038104549bf2f165468523074db172322ea044a4&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Apache ActiveMQ (CVE-2023-46604) zafiyetinden LockBit ransomware aşamasına uzanan 419 saatlik sızma vakasının uçtan uca analizi, SIEM korelasyon kuralları ve IOC listesi.</div>",
+            "url": "https://github.com/mkdemir/activemq-lockbit-analysis",
+            "title": "mkdemir/activemq-lockbit-analysis: Apache ActiveMQ (CVE-2023-46604) zafiyetinden LockBit ransomware aşamasına uzanan 419 saatlik sızma vakasının uçtan uca analizi, SIEM korelasyon kuralları ve IOC listesi.",
+            "date_modified": "2026-03-30T20:46:34.000Z",
+            "date_published": "2026-03-30T20:45:04.000Z",
+            "author": {
+                "name": "mkdemir",
+                "url": "https://github.com/mkdemir"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/120130511?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>oob_entry tfp0 kernel exploit for armv7 iOS (iOS 3.0–10.3.4), using CVE-2023-32434. We will publish a write-up detailing the methods in the coming weeks. 🐙</div>",
             "url": "https://github.com/rkrakesh524/oob_entry",
             "title": "rkrakesh524/oob_entry: oob_entry tfp0 kernel exploit for armv7 iOS (iOS 3.0–10.3.4), using CVE-2023-32434. We will publish a write-up detailing the methods in the coming weeks. 🐙",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "puppetma4ster",
                 "url": "https://github.com/puppetma4ster"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/197222021?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
-            "url": "https://github.com/sumaiyafathima-code/CVE-2023-27524",
-            "title": "sumaiyafathima-code/CVE-2023-27524",
-            "date_modified": "2026-03-15T08:13:56.000Z",
-            "date_published": "2026-03-15T08:11:25.000Z",
-            "author": {
-                "name": "sumaiyafathima-code",
-                "url": "https://github.com/sumaiyafathima-code"
             }
         }
     ]
