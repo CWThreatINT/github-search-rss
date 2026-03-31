@@ -50,17 +50,6 @@
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/240323861?u=8746b6172a6451d7e3b9c467ca3636544fce6232&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>This vulnerability allows an attacker to perform SSRF (Server-Side Request Forgery) attacks on Apache CXF webservices that accept MTOM/XOP requests. The issue exists in how the href attribute of xop:Include is parsed, allowing arbitrary URLs to be requested by the server.</div>",
-            "url": "https://github.com/cybermaksxx/CVE-2022-46364-Proof-of-the-concept",
-            "title": "cybermaksxx/CVE-2022-46364-Proof-of-the-concept: This vulnerability allows an attacker to perform SSRF (Server-Side Request Forgery) attacks on Apache CXF webservices that accept MTOM/XOP requests. The issue exists in how the href attribute of xop:Include is parsed, allowing arbitrary URLs to be requested by the server.",
-            "date_modified": "2026-03-30T01:48:34.000Z",
-            "date_published": "2026-03-29T02:04:26.000Z",
-            "author": {
-                "name": "cybermaksxx",
-                "url": "https://github.com/cybermaksxx"
-            }
-        },
-        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/14138005?u=3d6f96ffe92e3af4b5f5b7549844f325bfaa962b&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2022-46364-Poc Apache CXF SSRF via MTOM XOP:Include</div>",
             "url": "https://github.com/kasem545/CVE-2022-46364-Poc",
             "title": "kasem545/CVE-2022-46364-Poc: CVE-2022-46364-Poc Apache CXF SSRF via MTOM XOP:Include",
@@ -223,6 +212,17 @@
             "author": {
                 "name": "Sudo-WP",
                 "url": "https://github.com/Sudo-WP"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/263270803?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2022-42889 취약점 분석보고서</div>",
+            "url": "https://github.com/sangrok-jeon/CVE-2022-42889-Analysis",
+            "title": "sangrok-jeon/CVE-2022-42889-Analysis: CVE-2022-42889 취약점 분석보고서",
+            "date_modified": "2026-03-16T06:12:14.000Z",
+            "date_published": "2026-03-16T05:29:10.000Z",
+            "author": {
+                "name": "sangrok-jeon",
+                "url": "https://github.com/sangrok-jeon"
             }
         }
     ]
