@@ -6,6 +6,28 @@
     "description": "CVE-2021 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/271497192?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Full penetration testing workflow: credential brute force, SSH access and privilege escalation (CVE-2021-4034)</div>",
+            "url": "https://github.com/vaibhavkrishna12004/ubuntu-privesc-lab",
+            "title": "vaibhavkrishna12004/ubuntu-privesc-lab: Full penetration testing workflow: credential brute force, SSH access and privilege escalation (CVE-2021-4034)",
+            "date_modified": "2026-04-01T07:54:51.000Z",
+            "date_published": "2026-04-01T06:02:15.000Z",
+            "author": {
+                "name": "vaibhavkrishna12004",
+                "url": "https://github.com/vaibhavkrishna12004"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/182138871?u=5a625dbde10ddebc6f9772ae9e409b49e97a97f1&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Chrome extension that uses vulnerabilities CVE-2021-33044 and CVE-2021-33045 to log in to Dahua cameras without authentication.</div>",
+            "url": "https://github.com/Bd-Mutant7/DahuaLoginBypass",
+            "title": "Bd-Mutant7/DahuaLoginBypass: Chrome extension that uses vulnerabilities CVE-2021-33044 and CVE-2021-33045 to log in to Dahua cameras without authentication.",
+            "date_modified": "2026-04-01T06:55:07.000Z",
+            "date_published": "2026-03-28T17:42:44.000Z",
+            "author": {
+                "name": "Bd-Mutant7",
+                "url": "https://github.com/Bd-Mutant7"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/206778611?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>🚀 Enhance your penetration testing with PwnKit Helper, a simple tool for exploiting the CVE-2021-4034 vulnerability in pkexec for local privilege escalation.</div>",
             "url": "https://github.com/kaisen-bot/pwnkit-helper",
             "title": "kaisen-bot/pwnkit-helper: 🚀 Enhance your penetration testing with PwnKit Helper, a simple tool for exploiting the CVE-2021-4034 vulnerability in pkexec for local privilege escalation.",
@@ -17,17 +39,6 @@
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/271497192?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Full penetration testing workflow: credential brute force, SSH access and privilege escalation (CVE-2021-4034)</div>",
-            "url": "https://github.com/vaibhavkrishna12004/ubuntu-privesc-lab",
-            "title": "vaibhavkrishna12004/ubuntu-privesc-lab: Full penetration testing workflow: credential brute force, SSH access and privilege escalation (CVE-2021-4034)",
-            "date_modified": "2026-04-01T06:02:19.000Z",
-            "date_published": "2026-04-01T06:02:15.000Z",
-            "author": {
-                "name": "vaibhavkrishna12004",
-                "url": "https://github.com/vaibhavkrishna12004"
-            }
-        },
-        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/150494289?u=69334999868389be5a0f93f71cbab5a51760653a&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
             "url": "https://github.com/JacobTaylor3/CVE-2021-21191---CVE-2021-21192",
             "title": "JacobTaylor3/CVE-2021-21191---CVE-2021-21192",
@@ -36,17 +47,6 @@
             "author": {
                 "name": "JacobTaylor3",
                 "url": "https://github.com/JacobTaylor3"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/182138871?u=5a625dbde10ddebc6f9772ae9e409b49e97a97f1&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Chrome extension that uses vulnerabilities CVE-2021-33044 and CVE-2021-33045 to log in to Dahua cameras without authentication.</div>",
-            "url": "https://github.com/Bd-Mutant7/DahuaLoginBypass",
-            "title": "Bd-Mutant7/DahuaLoginBypass: Chrome extension that uses vulnerabilities CVE-2021-33044 and CVE-2021-33045 to log in to Dahua cameras without authentication.",
-            "date_modified": "2026-04-01T05:13:44.000Z",
-            "date_published": "2026-03-28T17:42:44.000Z",
-            "author": {
-                "name": "Bd-Mutant7",
-                "url": "https://github.com/Bd-Mutant7"
             }
         },
         {
