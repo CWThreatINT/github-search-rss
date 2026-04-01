@@ -6,6 +6,17 @@
     "description": "CVE-2022 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/168992869?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Browser demo: EJS template injection (CVE-2022-29078) with Seal Security remediation</div>",
+            "url": "https://github.com/seal-sec-demo-2/npm-demo",
+            "title": "seal-sec-demo-2/npm-demo: Browser demo: EJS template injection (CVE-2022-29078) with Seal Security remediation",
+            "date_modified": "2026-04-01T22:08:08.000Z",
+            "date_published": "2026-02-13T23:45:15.000Z",
+            "author": {
+                "name": "seal-sec-demo-2",
+                "url": "https://github.com/seal-sec-demo-2"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/3480548?u=99a531a7e5be479662c27ca5da6413c6d5fde828&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Investigating CVE-2022-36804</div>",
             "url": "https://github.com/JohanGabrielson/bitbucket-test",
             "title": "JohanGabrielson/bitbucket-test: Investigating CVE-2022-36804",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "NeoArtemis37",
                 "url": "https://github.com/NeoArtemis37"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/88006098?u=179b2bb241060cdcac8280d10c0fa6e099b17930&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>SLUBStick exploitation of CVE-2022-32250. Converting a Netfilter UAF into a cross-cache arbitrary memory R/W primitive through PTE manipulation.</div>",
-            "url": "https://github.com/LSinus/CacheMeIfYouCan",
-            "title": "LSinus/CacheMeIfYouCan: SLUBStick exploitation of CVE-2022-32250. Converting a Netfilter UAF into a cross-cache arbitrary memory R/W primitive through PTE manipulation.",
-            "date_modified": "2026-03-23T23:22:43.000Z",
-            "date_published": "2026-02-23T17:33:28.000Z",
-            "author": {
-                "name": "LSinus",
-                "url": "https://github.com/LSinus"
             }
         }
     ]
