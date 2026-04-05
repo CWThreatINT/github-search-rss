@@ -6,6 +6,28 @@
     "description": "CVE-2023 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/214546144?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>🔒 Analyze the CVE-2023-39910 vulnerability in Libbitcoin Explorer to understand its impact on Bitcoin wallet security and protect your assets.</div>",
+            "url": "https://github.com/Hitplus/RingSide-Replay-Attack",
+            "title": "Hitplus/RingSide-Replay-Attack: 🔒 Analyze the CVE-2023-39910 vulnerability in Libbitcoin Explorer to understand its impact on Bitcoin wallet security and protect your assets.",
+            "date_modified": "2026-04-05T08:23:10.000Z",
+            "date_published": "2026-01-07T14:24:08.000Z",
+            "author": {
+                "name": "Hitplus",
+                "url": "https://github.com/Hitplus"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/195564626?u=79d1304e4376d683a6f62147d31573299560b262&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A comprehensive collection of 12 containerized web exploitation challenges covering CVE-2023-25690, WebAuthn bypasses, HTTP/3 smuggling, and advanced XSS/RCE chains</div>",
+            "url": "https://github.com/arnavps/CTF-Web-Exploitation",
+            "title": "arnavps/CTF-Web-Exploitation: A comprehensive collection of 12 containerized web exploitation challenges covering CVE-2023-25690, WebAuthn bypasses, HTTP/3 smuggling, and advanced XSS/RCE chains",
+            "date_modified": "2026-04-05T08:17:57.000Z",
+            "date_published": "2026-04-05T07:48:18.000Z",
+            "author": {
+                "name": "arnavps",
+                "url": "https://github.com/arnavps"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/120130511?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>oob_entry tfp0 kernel exploit for armv7 iOS (iOS 3.0–10.3.4), using CVE-2023-32434. We will publish a write-up detailing the methods in the coming weeks. 🐙</div>",
             "url": "https://github.com/rkrakesh524/oob_entry",
             "title": "rkrakesh524/oob_entry: oob_entry tfp0 kernel exploit for armv7 iOS (iOS 3.0–10.3.4), using CVE-2023-32434. We will publish a write-up detailing the methods in the coming weeks. 🐙",
@@ -14,17 +36,6 @@
             "author": {
                 "name": "rkrakesh524",
                 "url": "https://github.com/rkrakesh524"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/214546144?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>🔒 Analyze the CVE-2023-39910 vulnerability in Libbitcoin Explorer to understand its impact on Bitcoin wallet security and protect your assets.</div>",
-            "url": "https://github.com/Hitplus/RingSide-Replay-Attack",
-            "title": "Hitplus/RingSide-Replay-Attack: 🔒 Analyze the CVE-2023-39910 vulnerability in Libbitcoin Explorer to understand its impact on Bitcoin wallet security and protect your assets.",
-            "date_modified": "2026-04-05T06:01:15.000Z",
-            "date_published": "2026-01-07T14:24:08.000Z",
-            "author": {
-                "name": "Hitplus",
-                "url": "https://github.com/Hitplus"
             }
         },
         {
@@ -212,17 +223,6 @@
             "author": {
                 "name": "helleflo1312",
                 "url": "https://github.com/helleflo1312"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/263270803?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Apache ActiveMQ OpenWire 역직렬화 RCE 취약점 기술 분석</div>",
-            "url": "https://github.com/sangrok-jeon/CVE-2023-46604-Analysis",
-            "title": "sangrok-jeon/CVE-2023-46604-Analysis: Apache ActiveMQ OpenWire 역직렬화 RCE 취약점 기술 분석",
-            "date_modified": "2026-03-16T05:08:02.000Z",
-            "date_published": "2026-03-15T05:28:30.000Z",
-            "author": {
-                "name": "sangrok-jeon",
-                "url": "https://github.com/sangrok-jeon"
             }
         }
     ]
