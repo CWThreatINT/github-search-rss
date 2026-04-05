@@ -6,6 +6,17 @@
     "description": "CVE-2023 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/20602575?u=dfd18b2d6d1e2eea11be01069e60f2387f92178a&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
+            "url": "https://github.com/rachidafaf/bola-CVE-2023-27524",
+            "title": "rachidafaf/bola-CVE-2023-27524",
+            "date_modified": "2026-04-05T17:20:50.000Z",
+            "date_published": "2026-04-05T17:11:08.000Z",
+            "author": {
+                "name": "rachidafaf",
+                "url": "https://github.com/rachidafaf"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/120130511?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>oob_entry tfp0 kernel exploit for armv7 iOS (iOS 3.0–10.3.4), using CVE-2023-32434. We will publish a write-up detailing the methods in the coming weeks. 🐙</div>",
             "url": "https://github.com/rkrakesh524/oob_entry",
             "title": "rkrakesh524/oob_entry: oob_entry tfp0 kernel exploit for armv7 iOS (iOS 3.0–10.3.4), using CVE-2023-32434. We will publish a write-up detailing the methods in the coming weeks. 🐙",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "keto0422",
                 "url": "https://github.com/keto0422"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/144629099?u=baa9f7328fce7aa58f4ce00ffc48d1396f1a3a4e&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>💥 STACK BUFFER OVERFLOW EXPLOIT RESULTING IN REMOTE CODE EXECUTION</div>",
-            "url": "https://github.com/DaviGSantana/CVE-2023-50965",
-            "title": "DaviGSantana/CVE-2023-50965: 💥 STACK BUFFER OVERFLOW EXPLOIT RESULTING IN REMOTE CODE EXECUTION",
-            "date_modified": "2026-03-16T23:20:16.000Z",
-            "date_published": "2026-03-16T23:12:48.000Z",
-            "author": {
-                "name": "DaviGSantana",
-                "url": "https://github.com/DaviGSantana"
             }
         }
     ]
