@@ -6,6 +6,17 @@
     "description": "CVE-2022 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/3541652?u=d6cc536a400c6142b5013dfccf788796d316472e&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2022-29221 Proof of Concept Code - Smarty RCE</div>",
+            "url": "https://github.com/sbani/CVE-2022-29221-PoC",
+            "title": "sbani/CVE-2022-29221-PoC: CVE-2022-29221 Proof of Concept Code - Smarty RCE",
+            "date_modified": "2026-04-06T20:36:14.000Z",
+            "date_published": "2022-05-25T06:02:23.000Z",
+            "author": {
+                "name": "sbani",
+                "url": "https://github.com/sbani"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/141505121?u=75ed09645a59dec88c7b345569e3451f7d54d502&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
             "url": "https://github.com/ngtuonghung/CVE-2022-27666",
             "title": "ngtuonghung/CVE-2022-27666",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "superjimmygou",
                 "url": "https://github.com/superjimmygou"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/43443470?u=4c1afb859e02a7f3dca8492b1c80ee0322c5c986&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Security issues      CVE-2025-31115: Threaded .xz decoder frees memory too early     CVE-2024-47611: Argument injection on Windows     CVE-2024-3094: liblzma backdoor     CVE-2022-1271: xzgrep filename handling     CVE-2020-22916: A bogus CVE</div>",
-            "url": "https://github.com/greydoubt/xz",
-            "title": "greydoubt/xz: Security issues      CVE-2025-31115: Threaded .xz decoder frees memory too early     CVE-2024-47611: Argument injection on Windows     CVE-2024-3094: liblzma backdoor     CVE-2022-1271: xzgrep filename handling     CVE-2020-22916: A bogus CVE",
-            "date_modified": "2026-03-27T08:55:18.000Z",
-            "date_published": "2026-03-26T05:06:33.000Z",
-            "author": {
-                "name": "greydoubt",
-                "url": "https://github.com/greydoubt"
             }
         }
     ]
