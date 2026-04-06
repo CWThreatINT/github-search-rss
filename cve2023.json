@@ -6,6 +6,39 @@
     "description": "CVE-2023 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/183099172?u=0c2df31406114289c335ab81e8815e27ee689953&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
+            "url": "https://github.com/george1-adel/CVE-2023-27997",
+            "title": "george1-adel/CVE-2023-27997",
+            "date_modified": "2026-04-06T19:40:08.000Z",
+            "date_published": "2026-04-06T19:40:08.000Z",
+            "author": {
+                "name": "george1-adel",
+                "url": "https://github.com/george1-adel"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/94452709?u=f78957a22c3dd45ed3b5f5c86e460bcc4e54b059&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2023-6246 glibc __vsyslog_internal() heap buffer overflow exploitation using Convergent Time Theory (α = 0.0302011). 33-layer temporal heap spray + phase-locked trigger for reliable local privilege escalation.</div>",
+            "url": "https://github.com/SimoesCTT/CTT-Vsyslog-Vortex-CVE-2023-6246",
+            "title": "SimoesCTT/CTT-Vsyslog-Vortex-CVE-2023-6246: CVE-2023-6246 glibc __vsyslog_internal() heap buffer overflow exploitation using Convergent Time Theory (α = 0.0302011). 33-layer temporal heap spray + phase-locked trigger for reliable local privilege escalation.",
+            "date_modified": "2026-04-06T19:29:01.000Z",
+            "date_published": "2026-04-06T19:24:44.000Z",
+            "author": {
+                "name": "SimoesCTT",
+                "url": "https://github.com/SimoesCTT"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/120130511?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>oob_entry tfp0 kernel exploit for armv7 iOS (iOS 3.0–10.3.4), using CVE-2023-32434. We will publish a write-up detailing the methods in the coming weeks. 🐙</div>",
+            "url": "https://github.com/rkrakesh524/oob_entry",
+            "title": "rkrakesh524/oob_entry: oob_entry tfp0 kernel exploit for armv7 iOS (iOS 3.0–10.3.4), using CVE-2023-32434. We will publish a write-up detailing the methods in the coming weeks. 🐙",
+            "date_modified": "2026-04-06T19:03:40.000Z",
+            "date_published": "2025-08-13T09:19:29.000Z",
+            "author": {
+                "name": "rkrakesh524",
+                "url": "https://github.com/rkrakesh524"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/214546144?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>🔒 Analyze the CVE-2023-39910 vulnerability in Libbitcoin Explorer to understand its impact on Bitcoin wallet security and protect your assets.</div>",
             "url": "https://github.com/Hitplus/RingSide-Replay-Attack",
             "title": "Hitplus/RingSide-Replay-Attack: 🔒 Analyze the CVE-2023-39910 vulnerability in Libbitcoin Explorer to understand its impact on Bitcoin wallet security and protect your assets.",
@@ -25,17 +58,6 @@
             "author": {
                 "name": "alaeddine03",
                 "url": "https://github.com/alaeddine03"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/120130511?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>oob_entry tfp0 kernel exploit for armv7 iOS (iOS 3.0–10.3.4), using CVE-2023-32434. We will publish a write-up detailing the methods in the coming weeks. 🐙</div>",
-            "url": "https://github.com/rkrakesh524/oob_entry",
-            "title": "rkrakesh524/oob_entry: oob_entry tfp0 kernel exploit for armv7 iOS (iOS 3.0–10.3.4), using CVE-2023-32434. We will publish a write-up detailing the methods in the coming weeks. 🐙",
-            "date_modified": "2026-04-06T15:28:05.000Z",
-            "date_published": "2025-08-13T09:19:29.000Z",
-            "author": {
-                "name": "rkrakesh524",
-                "url": "https://github.com/rkrakesh524"
             }
         },
         {
@@ -201,28 +223,6 @@
             "author": {
                 "name": "ncusi",
                 "url": "https://github.com/ncusi"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/83481196?u=3b030da2f8ac84ded40a82865b300f7fd28a6743&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2023-52235 PoC SPACEX STARLINK-DNS-Rebinding</div>",
-            "url": "https://github.com/hackintoanetwork/CVE-2023-52235-PoC-SPACEX-STARLINK-DNS-Rebinding",
-            "title": "hackintoanetwork/CVE-2023-52235-PoC-SPACEX-STARLINK-DNS-Rebinding: CVE-2023-52235 PoC SPACEX STARLINK-DNS-Rebinding",
-            "date_modified": "2026-03-17T19:45:55.000Z",
-            "date_published": "2026-03-17T18:03:57.000Z",
-            "author": {
-                "name": "hackintoanetwork",
-                "url": "https://github.com/hackintoanetwork"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/266932799?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>​Detailed analysis of the 2023 MOVEit Transfer data breach (CVE-2023-34362) for CS50 Cybersecurity. This project explores the technical impact of unauthenticated SQL Injection and its consequences for global data privacy, affecting 2,700+ organizations. Special thanks to Professor David J. Malan and the CS50 staff. </div>",
-            "url": "https://github.com/tubaaiftikhar-ui/MOVEit-Transfer-Data-Breach-Analysis.",
-            "title": "tubaaiftikhar-ui/MOVEit-Transfer-Data-Breach-Analysis.: ​Detailed analysis of the 2023 MOVEit Transfer data breach (CVE-2023-34362) for CS50 Cybersecurity. This project explores the technical impact of unauthenticated SQL Injection and its consequences for global data privacy, affecting 2,700+ organizations. Special thanks to Professor David J. Malan and the CS50 staff. ",
-            "date_modified": "2026-03-17T11:39:57.000Z",
-            "date_published": "2026-03-17T07:12:50.000Z",
-            "author": {
-                "name": "tubaaiftikhar-ui",
-                "url": "https://github.com/tubaaiftikhar-ui"
             }
         }
     ]
