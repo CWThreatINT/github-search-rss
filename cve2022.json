@@ -6,6 +6,17 @@
     "description": "CVE-2022 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/230090509?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2022-26xx9</div>",
+            "url": "https://github.com/kullai-secasure/CVE-2022-26xx9",
+            "title": "kullai-secasure/CVE-2022-26xx9: CVE-2022-26xx9",
+            "date_modified": "2026-04-07T07:32:29.000Z",
+            "date_published": "2026-04-07T07:31:55.000Z",
+            "author": {
+                "name": "kullai-secasure",
+                "url": "https://github.com/kullai-secasure"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/3541652?u=d6cc536a400c6142b5013dfccf788796d316472e&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2022-29221 Proof of Concept Code - Smarty RCE</div>",
             "url": "https://github.com/sbani/CVE-2022-29221-PoC",
             "title": "sbani/CVE-2022-29221-PoC: CVE-2022-29221 Proof of Concept Code - Smarty RCE",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "ngtuonghung",
                 "url": "https://github.com/ngtuonghung"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/271155502?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
-            "url": "https://github.com/superjimmygou/CVE-2022-36883",
-            "title": "superjimmygou/CVE-2022-36883",
-            "date_modified": "2026-03-26T06:00:46.000Z",
-            "date_published": "2026-03-26T05:59:51.000Z",
-            "author": {
-                "name": "superjimmygou",
-                "url": "https://github.com/superjimmygou"
             }
         }
     ]
