@@ -6,6 +6,17 @@
     "description": "CVE-2023 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/65491519?u=f233d2538f1b3f268e153466f2df59ef081c2b96&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Full walkthrough for HackTheBox Snoopy (Hard) – LFI, DNS poisoning, Git symlink (CVE‑2023‑23946), ClamAV XXE (CVE‑2023‑20052)</div>",
+            "url": "https://github.com/mararaEd/HTB-Snoopy-Writeup",
+            "title": "mararaEd/HTB-Snoopy-Writeup: Full walkthrough for HackTheBox Snoopy (Hard) – LFI, DNS poisoning, Git symlink (CVE‑2023‑23946), ClamAV XXE (CVE‑2023‑20052)",
+            "date_modified": "2026-04-07T05:30:37.000Z",
+            "date_published": "2026-04-07T05:08:13.000Z",
+            "author": {
+                "name": "mararaEd",
+                "url": "https://github.com/mararaEd"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/214546144?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>🔒 Analyze the CVE-2023-39910 vulnerability in Libbitcoin Explorer to understand its impact on Bitcoin wallet security and protect your assets.</div>",
             "url": "https://github.com/Hitplus/RingSide-Replay-Attack",
             "title": "Hitplus/RingSide-Replay-Attack: 🔒 Analyze the CVE-2023-39910 vulnerability in Libbitcoin Explorer to understand its impact on Bitcoin wallet security and protect your assets.",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "fumioryoto",
                 "url": "https://github.com/fumioryoto"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/128129242?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Scripts and code for \"The Secret Life of CVEs\", presented at MSR 2023 Challenge: <a href=\"https://conf.researchr.org/track/msr-2023/msr-2023-mining-challenge\" class=\"Link--inTextBlock\" rel=\"nofollow\">https://conf.researchr.org/track/msr-2023/msr-2023-mining-challenge</a></div>",
-            "url": "https://github.com/ncusi/secret_life_of_CVEs",
-            "title": "ncusi/secret_life_of_CVEs: Scripts and code for \"The Secret Life of CVEs\", presented at MSR 2023 Challenge: https://conf.researchr.org/track/msr-2023/msr-2023-mining-challenge",
-            "date_modified": "2026-03-18T10:16:37.000Z",
-            "date_published": "2023-03-17T10:24:09.000Z",
-            "author": {
-                "name": "ncusi",
-                "url": "https://github.com/ncusi"
             }
         }
     ]
