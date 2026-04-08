@@ -6,6 +6,17 @@
     "description": "CVE-2022 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/258658268?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
+            "url": "https://github.com/full-of-stars/cve_2022_0847",
+            "title": "full-of-stars/cve_2022_0847",
+            "date_modified": "2026-04-08T20:45:06.000Z",
+            "date_published": "2026-04-08T20:33:18.000Z",
+            "author": {
+                "name": "full-of-stars",
+                "url": "https://github.com/full-of-stars"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/230090509?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2022-26xx9</div>",
             "url": "https://github.com/kullai-secasure/CVE-2022-26xx9",
             "title": "kullai-secasure/CVE-2022-26xx9: CVE-2022-26xx9",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "Sleuth-in-town",
                 "url": "https://github.com/Sleuth-in-town"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/5783068?u=8ead6f35fa4c2d1fc565e6f080630d2bb299f41d&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Python implementation for NotProxyShell aka CVE-2022-40140 &amp; CVE-2022-41082</div>",
-            "url": "https://github.com/ZephrFish/NotProxyShellScanner",
-            "title": "ZephrFish/NotProxyShellScanner: Python implementation for NotProxyShell aka CVE-2022-40140 & CVE-2022-41082",
-            "date_modified": "2026-03-26T16:45:10.000Z",
-            "date_published": "2022-10-07T08:10:00.000Z",
-            "author": {
-                "name": "ZephrFish",
-                "url": "https://github.com/ZephrFish"
             }
         }
     ]
