@@ -6,6 +6,17 @@
     "description": "CVE-2023 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/175491851?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>The Backup Migration plugin for WordPress is vulnerable to Remote Code Execution in all versions up to, and including, 1.3.7 via the /includes/backup-heart.php file.</div>",
+            "url": "https://github.com/Aliyankhan-source/CVE-2023-6553-RCE-Fancy-Exploit",
+            "title": "Aliyankhan-source/CVE-2023-6553-RCE-Fancy-Exploit: The Backup Migration plugin for WordPress is vulnerable to Remote Code Execution in all versions up to, and including, 1.3.7 via the /includes/backup-heart.php file.",
+            "date_modified": "2026-04-10T14:07:27.000Z",
+            "date_published": "2026-04-10T13:46:35.000Z",
+            "author": {
+                "name": "Aliyankhan-source",
+                "url": "https://github.com/Aliyankhan-source"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/214546144?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>🔒 Analyze the CVE-2023-39910 vulnerability in Libbitcoin Explorer to understand its impact on Bitcoin wallet security and protect your assets.</div>",
             "url": "https://github.com/Hitplus/RingSide-Replay-Attack",
             "title": "Hitplus/RingSide-Replay-Attack: 🔒 Analyze the CVE-2023-39910 vulnerability in Libbitcoin Explorer to understand its impact on Bitcoin wallet security and protect your assets.",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "mkdemir",
                 "url": "https://github.com/mkdemir"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/90803184?u=cb57bd4cd709e5a89865549c487eb50fc093c68f&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Exploit for CVE-2023-27372 with interactiev shell</div>",
-            "url": "https://github.com/scriniariii/CVE-2023-27372",
-            "title": "scriniariii/CVE-2023-27372: Exploit for CVE-2023-27372 with interactiev shell",
-            "date_modified": "2026-03-30T02:53:59.000Z",
-            "date_published": "2026-03-07T00:14:12.000Z",
-            "author": {
-                "name": "scriniariii",
-                "url": "https://github.com/scriniariii"
             }
         }
     ]
