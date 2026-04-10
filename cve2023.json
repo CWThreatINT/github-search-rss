@@ -6,6 +6,17 @@
     "description": "CVE-2023 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/47142249?u=073fb5f90623c6614ac75a7f7ee619db68f4dbbe&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
+            "url": "https://github.com/msd0pe-1/CVE-2023-31714",
+            "title": "msd0pe-1/CVE-2023-31714",
+            "date_modified": "2026-04-10T09:55:12.000Z",
+            "date_published": "2023-04-16T20:20:32.000Z",
+            "author": {
+                "name": "msd0pe-1",
+                "url": "https://github.com/msd0pe-1"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/120130511?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>oob_entry tfp0 kernel exploit for armv7 iOS (iOS 3.0–10.3.4), using CVE-2023-32434. We will publish a write-up detailing the methods in the coming weeks. 🐙</div>",
             "url": "https://github.com/rkrakesh524/oob_entry",
             "title": "rkrakesh524/oob_entry: oob_entry tfp0 kernel exploit for armv7 iOS (iOS 3.0–10.3.4), using CVE-2023-32434. We will publish a write-up detailing the methods in the coming weeks. 🐙",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "scriniariii",
                 "url": "https://github.com/scriniariii"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/216722585?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Explota vulnerabilidad</div>",
-            "url": "https://github.com/Humberto-pixel/CVE-2023-43208-PoC",
-            "title": "Humberto-pixel/CVE-2023-43208-PoC: Explota vulnerabilidad",
-            "date_modified": "2026-03-28T22:47:42.000Z",
-            "date_published": "2026-03-28T22:29:05.000Z",
-            "author": {
-                "name": "Humberto-pixel",
-                "url": "https://github.com/Humberto-pixel"
             }
         }
     ]

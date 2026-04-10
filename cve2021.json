@@ -6,10 +6,21 @@
     "description": "CVE-2021 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/235692443?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2021-22911 Rocket.Chat NoSQL Injection RCE Exploit - Educational Purpose</div>",
+            "url": "https://github.com/roshanrajbanshi/rocketcat-cve-2021-22911-exploit",
+            "title": "roshanrajbanshi/rocketcat-cve-2021-22911-exploit: CVE-2021-22911 Rocket.Chat NoSQL Injection RCE Exploit - Educational Purpose",
+            "date_modified": "2026-04-10T09:45:41.000Z",
+            "date_published": "2026-04-10T09:16:26.000Z",
+            "author": {
+                "name": "roshanrajbanshi",
+                "url": "https://github.com/roshanrajbanshi"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/182138871?u=5a625dbde10ddebc6f9772ae9e409b49e97a97f1&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Chrome extension that uses vulnerabilities CVE-2021-33044 and CVE-2021-33045 to log in to Dahua cameras without authentication.</div>",
             "url": "https://github.com/Bd-Mutant7/DahuaLoginBypass",
             "title": "Bd-Mutant7/DahuaLoginBypass: Chrome extension that uses vulnerabilities CVE-2021-33044 and CVE-2021-33045 to log in to Dahua cameras without authentication.",
-            "date_modified": "2026-04-10T07:59:20.000Z",
+            "date_modified": "2026-04-10T09:12:50.000Z",
             "date_published": "2026-03-28T17:42:44.000Z",
             "author": {
                 "name": "Bd-Mutant7",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "snapdowgg",
                 "url": "https://github.com/snapdowgg"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/220472576?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>This room is based on exploiting the notorious Log4j vulnerability ( CVE-2021-44228), also referred to as the Log4Shell. The weakness enables attackers to execute a remote code via injection of the malicious payloads into the log messages.</div>",
-            "url": "https://github.com/Saru1718/THM---Solar-exploiting-Log-4j",
-            "title": "Saru1718/THM---Solar-exploiting-Log-4j: This room is based on exploiting the notorious Log4j vulnerability ( CVE-2021-44228), also referred to as the Log4Shell. The weakness enables attackers to execute a remote code via injection of the malicious payloads into the log messages.",
-            "date_modified": "2026-03-22T08:18:03.000Z",
-            "date_published": "2026-03-22T07:38:42.000Z",
-            "author": {
-                "name": "Saru1718",
-                "url": "https://github.com/Saru1718"
             }
         }
     ]
