@@ -6,6 +6,17 @@
     "description": "CVE-2022 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/110572083?u=dc89bd605ddbfd67081c4a2d58c4aef8e1dc5581&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Windows 11 exploit <a href=\"https://msrc.microsoft.com/update-guide/vulnerability/CVE-2022-41055\" class=\"Link--inTextBlock\" rel=\"nofollow\">https://msrc.microsoft.com/update-guide/vulnerability/CVE-2022-41055</a></div>",
+            "url": "https://github.com/TroyWarez/hid_pwn",
+            "title": "TroyWarez/hid_pwn: Windows 11 exploit https://msrc.microsoft.com/update-guide/vulnerability/CVE-2022-41055",
+            "date_modified": "2026-04-11T01:01:19.000Z",
+            "date_published": "2026-04-11T01:01:19.000Z",
+            "author": {
+                "name": "TroyWarez",
+                "url": "https://github.com/TroyWarez"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/258658268?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
             "url": "https://github.com/full-of-stars/cve_2022_0847",
             "title": "full-of-stars/cve_2022_0847",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "cybermaksxx",
                 "url": "https://github.com/cybermaksxx"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/14138005?u=3d6f96ffe92e3af4b5f5b7549844f325bfaa962b&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2022-46364-Poc Apache CXF SSRF via MTOM XOP:Include</div>",
-            "url": "https://github.com/kasem545/CVE-2022-46364-Poc",
-            "title": "kasem545/CVE-2022-46364-Poc: CVE-2022-46364-Poc Apache CXF SSRF via MTOM XOP:Include",
-            "date_modified": "2026-04-10T02:27:00.000Z",
-            "date_published": "2026-03-28T21:10:47.000Z",
-            "author": {
-                "name": "kasem545",
-                "url": "https://github.com/kasem545"
             }
         }
     ]
