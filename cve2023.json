@@ -9,7 +9,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/214546144?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>🔒 Analyze the CVE-2023-39910 vulnerability in Libbitcoin Explorer to understand its impact on Bitcoin wallet security and protect your assets.</div>",
             "url": "https://github.com/Hitplus/RingSide-Replay-Attack",
             "title": "Hitplus/RingSide-Replay-Attack: 🔒 Analyze the CVE-2023-39910 vulnerability in Libbitcoin Explorer to understand its impact on Bitcoin wallet security and protect your assets.",
-            "date_modified": "2026-04-12T01:02:21.000Z",
+            "date_modified": "2026-04-12T03:18:18.000Z",
             "date_published": "2026-01-07T14:24:08.000Z",
             "author": {
                 "name": "Hitplus",
@@ -20,11 +20,33 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/120130511?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>oob_entry tfp0 kernel exploit for armv7 iOS (iOS 3.0–10.3.4), using CVE-2023-32434. We will publish a write-up detailing the methods in the coming weeks. 🐙</div>",
             "url": "https://github.com/rkrakesh524/oob_entry",
             "title": "rkrakesh524/oob_entry: oob_entry tfp0 kernel exploit for armv7 iOS (iOS 3.0–10.3.4), using CVE-2023-32434. We will publish a write-up detailing the methods in the coming weeks. 🐙",
-            "date_modified": "2026-04-12T00:03:58.000Z",
+            "date_modified": "2026-04-12T02:20:32.000Z",
             "date_published": "2025-08-13T09:19:29.000Z",
             "author": {
                 "name": "rkrakesh524",
                 "url": "https://github.com/rkrakesh524"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/157994006?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>BitLocker full-disk encryption bypass research using CVE-2023-21563 (BitPixie). Methodology, exploit chain, and defensive recommendations.</div>",
+            "url": "https://github.com/c-sprinks/bitlocker-bypass-research",
+            "title": "c-sprinks/bitlocker-bypass-research: BitLocker full-disk encryption bypass research using CVE-2023-21563 (BitPixie). Methodology, exploit chain, and defensive recommendations.",
+            "date_modified": "2026-04-12T02:15:06.000Z",
+            "date_published": "2026-04-12T02:14:38.000Z",
+            "author": {
+                "name": "c-sprinks",
+                "url": "https://github.com/c-sprinks"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/151980876?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>TOP All bugbounty pentesting CVE-2023- POC Exp  RCE example payload  Things</div>",
+            "url": "https://github.com/GhostTroops/TOP",
+            "title": "GhostTroops/TOP: TOP All bugbounty pentesting CVE-2023- POC Exp  RCE example payload  Things",
+            "date_modified": "2026-04-12T02:08:37.000Z",
+            "date_published": "2022-03-19T01:54:15.000Z",
+            "author": {
+                "name": "GhostTroops",
+                "url": "https://github.com/GhostTroops"
             }
         },
         {
@@ -36,17 +58,6 @@
             "author": {
                 "name": "0xMOGA",
                 "url": "https://github.com/0xMOGA"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/151980876?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>TOP All bugbounty pentesting CVE-2023- POC Exp  RCE example payload  Things</div>",
-            "url": "https://github.com/GhostTroops/TOP",
-            "title": "GhostTroops/TOP: TOP All bugbounty pentesting CVE-2023- POC Exp  RCE example payload  Things",
-            "date_modified": "2026-04-11T01:55:25.000Z",
-            "date_published": "2022-03-19T01:54:15.000Z",
-            "author": {
-                "name": "GhostTroops",
-                "url": "https://github.com/GhostTroops"
             }
         },
         {
@@ -212,17 +223,6 @@
             "author": {
                 "name": "arnavps",
                 "url": "https://github.com/arnavps"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/112891506?u=bd91a748b37e850d47a421a2431ef988622ffcc2&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>POC exploits demonstrating OverlayFS-based local privilege escalation vulnerabilities in Ubuntu (CVE-2023-2640 &amp; CVE-2023-3262)</div>",
-            "url": "https://github.com/z3usx01/CVE-2023-2640-3262-PoC",
-            "title": "z3usx01/CVE-2023-2640-3262-PoC: POC exploits demonstrating OverlayFS-based local privilege escalation vulnerabilities in Ubuntu (CVE-2023-2640 & CVE-2023-3262)",
-            "date_modified": "2026-04-04T19:05:37.000Z",
-            "date_published": "2026-04-04T19:00:05.000Z",
-            "author": {
-                "name": "z3usx01",
-                "url": "https://github.com/z3usx01"
             }
         }
     ]
