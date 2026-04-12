@@ -6,6 +6,28 @@
     "description": "CVE-2023 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/214546144?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>🔒 Analyze the CVE-2023-39910 vulnerability in Libbitcoin Explorer to understand its impact on Bitcoin wallet security and protect your assets.</div>",
+            "url": "https://github.com/Hitplus/RingSide-Replay-Attack",
+            "title": "Hitplus/RingSide-Replay-Attack: 🔒 Analyze the CVE-2023-39910 vulnerability in Libbitcoin Explorer to understand its impact on Bitcoin wallet security and protect your assets.",
+            "date_modified": "2026-04-12T14:21:52.000Z",
+            "date_published": "2026-01-07T14:24:08.000Z",
+            "author": {
+                "name": "Hitplus",
+                "url": "https://github.com/Hitplus"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/275310029?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Found 200+ vulnerabilities on scanme.nmap.org including CVE-2023-38408 (9.8 critical)</div>",
+            "url": "https://github.com/nonosticisiguzo-command/nmap-scan-results",
+            "title": "nonosticisiguzo-command/nmap-scan-results: Found 200+ vulnerabilities on scanme.nmap.org including CVE-2023-38408 (9.8 critical)",
+            "date_modified": "2026-04-12T14:16:00.000Z",
+            "date_published": "2026-04-12T14:08:59.000Z",
+            "author": {
+                "name": "nonosticisiguzo-command",
+                "url": "https://github.com/nonosticisiguzo-command"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/120130511?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>oob_entry tfp0 kernel exploit for armv7 iOS (iOS 3.0–10.3.4), using CVE-2023-32434. We will publish a write-up detailing the methods in the coming weeks. 🐙</div>",
             "url": "https://github.com/rkrakesh524/oob_entry",
             "title": "rkrakesh524/oob_entry: oob_entry tfp0 kernel exploit for armv7 iOS (iOS 3.0–10.3.4), using CVE-2023-32434. We will publish a write-up detailing the methods in the coming weeks. 🐙",
@@ -14,17 +36,6 @@
             "author": {
                 "name": "rkrakesh524",
                 "url": "https://github.com/rkrakesh524"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/214546144?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>🔒 Analyze the CVE-2023-39910 vulnerability in Libbitcoin Explorer to understand its impact on Bitcoin wallet security and protect your assets.</div>",
-            "url": "https://github.com/Hitplus/RingSide-Replay-Attack",
-            "title": "Hitplus/RingSide-Replay-Attack: 🔒 Analyze the CVE-2023-39910 vulnerability in Libbitcoin Explorer to understand its impact on Bitcoin wallet security and protect your assets.",
-            "date_modified": "2026-04-12T11:55:00.000Z",
-            "date_published": "2026-01-07T14:24:08.000Z",
-            "author": {
-                "name": "Hitplus",
-                "url": "https://github.com/Hitplus"
             }
         },
         {
@@ -212,17 +223,6 @@
             "author": {
                 "name": "lucastran05",
                 "url": "https://github.com/lucastran05"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/195564626?u=79d1304e4376d683a6f62147d31573299560b262&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A comprehensive collection of 12 containerized web exploitation challenges covering CVE-2023-25690, WebAuthn bypasses, HTTP/3 smuggling, and advanced XSS/RCE chains</div>",
-            "url": "https://github.com/arnavps/CTF-Web-Exploitation",
-            "title": "arnavps/CTF-Web-Exploitation: A comprehensive collection of 12 containerized web exploitation challenges covering CVE-2023-25690, WebAuthn bypasses, HTTP/3 smuggling, and advanced XSS/RCE chains",
-            "date_modified": "2026-04-05T08:43:06.000Z",
-            "date_published": "2026-04-05T07:48:18.000Z",
-            "author": {
-                "name": "arnavps",
-                "url": "https://github.com/arnavps"
             }
         }
     ]
