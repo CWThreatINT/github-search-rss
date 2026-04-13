@@ -39,17 +39,6 @@
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/110572083?u=dc89bd605ddbfd67081c4a2d58c4aef8e1dc5581&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Windows 11 exploit <a href=\"https://msrc.microsoft.com/update-guide/vulnerability/CVE-2022-41055\" class=\"Link--inTextBlock\" rel=\"nofollow\">https://msrc.microsoft.com/update-guide/vulnerability/CVE-2022-41055</a></div>",
-            "url": "https://github.com/TroyWarez/hid_pwn",
-            "title": "TroyWarez/hid_pwn: Windows 11 exploit https://msrc.microsoft.com/update-guide/vulnerability/CVE-2022-41055",
-            "date_modified": "2026-04-11T01:01:19.000Z",
-            "date_published": "2026-04-11T01:01:19.000Z",
-            "author": {
-                "name": "TroyWarez",
-                "url": "https://github.com/TroyWarez"
-            }
-        },
-        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/266095829?u=a6eb639fc9c9013955ff273dc1197d300da2b0ff&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Educational Proof-of-Concept for the CVE-2022-30190 (Follina) vulnerability.</div>",
             "url": "https://github.com/shndnth/CVE-2022-30190",
             "title": "shndnth/CVE-2022-30190: Educational Proof-of-Concept for the CVE-2022-30190 (Follina) vulnerability.",
@@ -223,6 +212,17 @@
             "author": {
                 "name": "Shashivanth009",
                 "url": "https://github.com/Shashivanth009"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/240323861?u=8746b6172a6451d7e3b9c467ca3636544fce6232&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>This vulnerability allows an attacker to perform SSRF (Server-Side Request Forgery) attacks on Apache CXF webservices that accept MTOM/XOP requests. The issue exists in how the href attribute of xop:Include is parsed, allowing arbitrary URLs to be requested by the server.</div>",
+            "url": "https://github.com/cybermaksxx/CVE-2022-46364-Proof-of-the-concept",
+            "title": "cybermaksxx/CVE-2022-46364-Proof-of-the-concept: This vulnerability allows an attacker to perform SSRF (Server-Side Request Forgery) attacks on Apache CXF webservices that accept MTOM/XOP requests. The issue exists in how the href attribute of xop:Include is parsed, allowing arbitrary URLs to be requested by the server.",
+            "date_modified": "2026-03-30T01:48:34.000Z",
+            "date_published": "2026-03-29T02:04:26.000Z",
+            "author": {
+                "name": "cybermaksxx",
+                "url": "https://github.com/cybermaksxx"
             }
         }
     ]
