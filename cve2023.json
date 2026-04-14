@@ -6,6 +6,17 @@
     "description": "CVE-2023 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/214546144?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>🔒 Analyze the CVE-2023-39910 vulnerability in Libbitcoin Explorer to understand its impact on Bitcoin wallet security and protect your assets.</div>",
+            "url": "https://github.com/Hitplus/RingSide-Replay-Attack",
+            "title": "Hitplus/RingSide-Replay-Attack: 🔒 Analyze the CVE-2023-39910 vulnerability in Libbitcoin Explorer to understand its impact on Bitcoin wallet security and protect your assets.",
+            "date_modified": "2026-04-14T06:58:50.000Z",
+            "date_published": "2026-01-07T14:24:08.000Z",
+            "author": {
+                "name": "Hitplus",
+                "url": "https://github.com/Hitplus"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/120130511?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>oob_entry tfp0 kernel exploit for armv7 iOS (iOS 3.0–10.3.4), using CVE-2023-32434. We will publish a write-up detailing the methods in the coming weeks. 🐙</div>",
             "url": "https://github.com/rkrakesh524/oob_entry",
             "title": "rkrakesh524/oob_entry: oob_entry tfp0 kernel exploit for armv7 iOS (iOS 3.0–10.3.4), using CVE-2023-32434. We will publish a write-up detailing the methods in the coming weeks. 🐙",
@@ -14,17 +25,6 @@
             "author": {
                 "name": "rkrakesh524",
                 "url": "https://github.com/rkrakesh524"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/214546144?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>🔒 Analyze the CVE-2023-39910 vulnerability in Libbitcoin Explorer to understand its impact on Bitcoin wallet security and protect your assets.</div>",
-            "url": "https://github.com/Hitplus/RingSide-Replay-Attack",
-            "title": "Hitplus/RingSide-Replay-Attack: 🔒 Analyze the CVE-2023-39910 vulnerability in Libbitcoin Explorer to understand its impact on Bitcoin wallet security and protect your assets.",
-            "date_modified": "2026-04-14T04:38:54.000Z",
-            "date_published": "2026-01-07T14:24:08.000Z",
-            "author": {
-                "name": "Hitplus",
-                "url": "https://github.com/Hitplus"
             }
         },
         {
@@ -40,13 +40,13 @@
         },
         {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/175491851?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>This repository contains a Proof of Concept (PoC) exploit for CVE-2023-6972.</div>",
-            "url": "https://github.com/Aliyankhan-source/CVE-2023-6972-Exploit-Arbitrary-File-Deletion",
-            "title": "Aliyankhan-source/CVE-2023-6972-Exploit-Arbitrary-File-Deletion: This repository contains a Proof of Concept (PoC) exploit for CVE-2023-6972.",
+            "url": "https://github.com/0x00phantom-hat/CVE-2023-6972-Exploit-Arbitrary-File-Deletion",
+            "title": "0x00phantom-hat/CVE-2023-6972-Exploit-Arbitrary-File-Deletion: This repository contains a Proof of Concept (PoC) exploit for CVE-2023-6972.",
             "date_modified": "2026-04-13T23:26:48.000Z",
             "date_published": "2026-04-13T22:56:21.000Z",
             "author": {
-                "name": "Aliyankhan-source",
-                "url": "https://github.com/Aliyankhan-source"
+                "name": "0x00phantom-hat",
+                "url": "https://github.com/0x00phantom-hat"
             }
         },
         {
@@ -106,13 +106,13 @@
         },
         {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/175491851?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>The Backup Migration plugin for WordPress is vulnerable to Remote Code Execution in all versions up to, and including, 1.3.7 via the /includes/backup-heart.php file.</div>",
-            "url": "https://github.com/Aliyankhan-source/CVE-2023-6553-RCE-Fancy-Exploit",
-            "title": "Aliyankhan-source/CVE-2023-6553-RCE-Fancy-Exploit: The Backup Migration plugin for WordPress is vulnerable to Remote Code Execution in all versions up to, and including, 1.3.7 via the /includes/backup-heart.php file.",
-            "date_modified": "2026-04-13T10:58:53.000Z",
+            "url": "https://github.com/0x00phantom-hat/CVE-2023-6553-RCE-Exploit",
+            "title": "0x00phantom-hat/CVE-2023-6553-RCE-Exploit: The Backup Migration plugin for WordPress is vulnerable to Remote Code Execution in all versions up to, and including, 1.3.7 via the /includes/backup-heart.php file.",
+            "date_modified": "2026-04-14T06:50:17.000Z",
             "date_published": "2026-04-10T13:46:35.000Z",
             "author": {
-                "name": "Aliyankhan-source",
-                "url": "https://github.com/Aliyankhan-source"
+                "name": "0x00phantom-hat",
+                "url": "https://github.com/0x00phantom-hat"
             }
         },
         {
