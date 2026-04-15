@@ -6,6 +6,17 @@
     "description": "CVE-2022 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/59868499?u=4c1e36cd3ec6552f5da814990daa711b521eda8d&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Exploit for CVE-2022-35650, a Moodle Arbitrary File Read.</div>",
+            "url": "https://github.com/Gr4y-r0se/CVE-2022-35650",
+            "title": "Gr4y-r0se/CVE-2022-35650: Exploit for CVE-2022-35650, a Moodle Arbitrary File Read.",
+            "date_modified": "2026-04-15T14:23:00.000Z",
+            "date_published": "2026-04-15T14:21:19.000Z",
+            "author": {
+                "name": "Gr4y-r0se",
+                "url": "https://github.com/Gr4y-r0se"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/3480548?u=99a531a7e5be479662c27ca5da6413c6d5fde828&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Investigating CVE-2022-36804</div>",
             "url": "https://github.com/JohanGabrielson/bitbucket-test",
             "title": "JohanGabrielson/bitbucket-test: Investigating CVE-2022-36804",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "cybermaksxx",
                 "url": "https://github.com/cybermaksxx"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/14138005?u=3d6f96ffe92e3af4b5f5b7549844f325bfaa962b&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2022-46364-Poc Apache CXF SSRF via MTOM XOP:Include</div>",
-            "url": "https://github.com/kasem545/CVE-2022-46364-Poc",
-            "title": "kasem545/CVE-2022-46364-Poc: CVE-2022-46364-Poc Apache CXF SSRF via MTOM XOP:Include",
-            "date_modified": "2026-04-10T02:27:00.000Z",
-            "date_published": "2026-03-28T21:10:47.000Z",
-            "author": {
-                "name": "kasem545",
-                "url": "https://github.com/kasem545"
             }
         }
     ]
