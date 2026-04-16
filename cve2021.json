@@ -9,11 +9,22 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/182138871?u=5a625dbde10ddebc6f9772ae9e409b49e97a97f1&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Chrome extension that uses vulnerabilities CVE-2021-33044 and CVE-2021-33045 to log in to Dahua cameras without authentication.</div>",
             "url": "https://github.com/Bd-Mutant7/DahuaLoginBypass",
             "title": "Bd-Mutant7/DahuaLoginBypass: Chrome extension that uses vulnerabilities CVE-2021-33044 and CVE-2021-33045 to log in to Dahua cameras without authentication.",
-            "date_modified": "2026-04-16T19:41:38.000Z",
+            "date_modified": "2026-04-16T20:29:54.000Z",
             "date_published": "2026-03-28T17:42:44.000Z",
             "author": {
                 "name": "Bd-Mutant7",
                 "url": "https://github.com/Bd-Mutant7"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/792482?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Windows Elevation of Privilege Vulnerability (SeriousSAM)</div>",
+            "url": "https://github.com/VertigoRay/CVE-2021-36934",
+            "title": "VertigoRay/CVE-2021-36934: Windows Elevation of Privilege Vulnerability (SeriousSAM)",
+            "date_modified": "2026-04-16T20:20:46.000Z",
+            "date_published": "2021-07-22T14:53:09.000Z",
+            "author": {
+                "name": "VertigoRay",
+                "url": "https://github.com/VertigoRay"
             }
         },
         {
@@ -212,17 +223,6 @@
             "author": {
                 "name": "danieljosmariyan7254",
                 "url": "https://github.com/danieljosmariyan7254"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/141505121?u=75ed09645a59dec88c7b345569e3451f7d54d502&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>POC for CVE-2021-3156 - Heap-based buffer overflow in sudo</div>",
-            "url": "https://github.com/ngtuonghung/CVE-2021-3156",
-            "title": "ngtuonghung/CVE-2021-3156: POC for CVE-2021-3156 - Heap-based buffer overflow in sudo",
-            "date_modified": "2026-03-26T15:24:18.000Z",
-            "date_published": "2026-03-19T09:55:40.000Z",
-            "author": {
-                "name": "ngtuonghung",
-                "url": "https://github.com/ngtuonghung"
             }
         }
     ]
