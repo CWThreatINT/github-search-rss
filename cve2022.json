@@ -6,6 +6,28 @@
     "description": "CVE-2022 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/258658268?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
+            "url": "https://github.com/full-of-stars/cve_2022_0847",
+            "title": "full-of-stars/cve_2022_0847",
+            "date_modified": "2026-04-16T18:36:29.000Z",
+            "date_published": "2026-04-08T20:33:18.000Z",
+            "author": {
+                "name": "full-of-stars",
+                "url": "https://github.com/full-of-stars"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/5289877?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>This repository provides a comprehensive security remediation of denial-of-service and allocation of resources without limits or throttling security vulnerabilities reported in CVE-2025-52999, GHSA-2m67-wjpj-xhg9 and sonatype-2022-6438 while maintaining full compatibility with jackson‑core 2.13.5.</div>",
+            "url": "https://github.com/sassoftware/jackson",
+            "title": "sassoftware/jackson: This repository provides a comprehensive security remediation of denial-of-service and allocation of resources without limits or throttling security vulnerabilities reported in CVE-2025-52999, GHSA-2m67-wjpj-xhg9 and sonatype-2022-6438 while maintaining full compatibility with jackson‑core 2.13.5.",
+            "date_modified": "2026-04-16T18:15:53.000Z",
+            "date_published": "2026-02-23T15:12:34.000Z",
+            "author": {
+                "name": "sassoftware",
+                "url": "https://github.com/sassoftware"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/59868499?u=4c1e36cd3ec6552f5da814990daa711b521eda8d&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Exploit for CVE-2022-35650, a Moodle Arbitrary File Read.</div>",
             "url": "https://github.com/Gr4y-r0se/CVE-2022-35650",
             "title": "Gr4y-r0se/CVE-2022-35650: Exploit for CVE-2022-35650, a Moodle Arbitrary File Read.",
@@ -25,17 +47,6 @@
             "author": {
                 "name": "JohanGabrielson",
                 "url": "https://github.com/JohanGabrielson"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/258658268?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
-            "url": "https://github.com/full-of-stars/cve_2022_0847",
-            "title": "full-of-stars/cve_2022_0847",
-            "date_modified": "2026-04-14T18:24:37.000Z",
-            "date_published": "2026-04-08T20:33:18.000Z",
-            "author": {
-                "name": "full-of-stars",
-                "url": "https://github.com/full-of-stars"
             }
         },
         {
@@ -212,17 +223,6 @@
             "author": {
                 "name": "Shashivanth009",
                 "url": "https://github.com/Shashivanth009"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/240323861?u=8746b6172a6451d7e3b9c467ca3636544fce6232&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>This vulnerability allows an attacker to perform SSRF (Server-Side Request Forgery) attacks on Apache CXF webservices that accept MTOM/XOP requests. The issue exists in how the href attribute of xop:Include is parsed, allowing arbitrary URLs to be requested by the server.</div>",
-            "url": "https://github.com/cybermaksxx/CVE-2022-46364-Proof-of-the-concept",
-            "title": "cybermaksxx/CVE-2022-46364-Proof-of-the-concept: This vulnerability allows an attacker to perform SSRF (Server-Side Request Forgery) attacks on Apache CXF webservices that accept MTOM/XOP requests. The issue exists in how the href attribute of xop:Include is parsed, allowing arbitrary URLs to be requested by the server.",
-            "date_modified": "2026-03-30T01:48:34.000Z",
-            "date_published": "2026-03-29T02:04:26.000Z",
-            "author": {
-                "name": "cybermaksxx",
-                "url": "https://github.com/cybermaksxx"
             }
         }
     ]
