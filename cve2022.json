@@ -6,6 +6,17 @@
     "description": "CVE-2022 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/3480548?u=99a531a7e5be479662c27ca5da6413c6d5fde828&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Investigating CVE-2022-36804</div>",
+            "url": "https://github.com/JohanGabrielson/bitbucket-test",
+            "title": "JohanGabrielson/bitbucket-test: Investigating CVE-2022-36804",
+            "date_modified": "2026-04-17T08:37:14.000Z",
+            "date_published": "2026-03-24T09:32:33.000Z",
+            "author": {
+                "name": "JohanGabrielson",
+                "url": "https://github.com/JohanGabrielson"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/168992869?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Browser demo: EJS template injection (CVE-2022-29078) with Seal Security remediation</div>",
             "url": "https://github.com/seal-sec-demo-2/npm-demo",
             "title": "seal-sec-demo-2/npm-demo: Browser demo: EJS template injection (CVE-2022-29078) with Seal Security remediation",
@@ -47,17 +58,6 @@
             "author": {
                 "name": "Gr4y-r0se",
                 "url": "https://github.com/Gr4y-r0se"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/3480548?u=99a531a7e5be479662c27ca5da6413c6d5fde828&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Investigating CVE-2022-36804</div>",
-            "url": "https://github.com/JohanGabrielson/bitbucket-test",
-            "title": "JohanGabrielson/bitbucket-test: Investigating CVE-2022-36804",
-            "date_modified": "2026-04-15T11:13:52.000Z",
-            "date_published": "2026-03-24T09:32:33.000Z",
-            "author": {
-                "name": "JohanGabrielson",
-                "url": "https://github.com/JohanGabrielson"
             }
         },
         {
