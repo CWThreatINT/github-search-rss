@@ -6,6 +6,28 @@
     "description": "CVE-2023 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/1445218?u=59431e7052ffb9382316e00f4d9d30861b3c67d0&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
+            "url": "https://github.com/jithinodattu/CVE-2023-24329-lab",
+            "title": "jithinodattu/CVE-2023-24329-lab",
+            "date_modified": "2026-04-18T10:14:47.000Z",
+            "date_published": "2026-04-18T10:05:18.000Z",
+            "author": {
+                "name": "jithinodattu",
+                "url": "https://github.com/jithinodattu"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/214546144?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>🔒 Analyze the CVE-2023-39910 vulnerability in Libbitcoin Explorer to understand its impact on Bitcoin wallet security and protect your assets.</div>",
+            "url": "https://github.com/Hitplus/RingSide-Replay-Attack",
+            "title": "Hitplus/RingSide-Replay-Attack: 🔒 Analyze the CVE-2023-39910 vulnerability in Libbitcoin Explorer to understand its impact on Bitcoin wallet security and protect your assets.",
+            "date_modified": "2026-04-18T09:52:41.000Z",
+            "date_published": "2026-01-07T14:24:08.000Z",
+            "author": {
+                "name": "Hitplus",
+                "url": "https://github.com/Hitplus"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/42577748?u=823750d75632e7f9e0a0d74876973c8dbbc40173&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Automated exploit chain for HTB Sau — CVE-2023-27163 (SSRF) + Maltrail Unauthenticated RCE → Reverse Shell</div>",
             "url": "https://github.com/tombstoneghost/htb-sau-exploit-chain",
             "title": "tombstoneghost/htb-sau-exploit-chain: Automated exploit chain for HTB Sau — CVE-2023-27163 (SSRF) + Maltrail Unauthenticated RCE → Reverse Shell",
@@ -25,17 +47,6 @@
             "author": {
                 "name": "rkrakesh524",
                 "url": "https://github.com/rkrakesh524"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/214546144?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>🔒 Analyze the CVE-2023-39910 vulnerability in Libbitcoin Explorer to understand its impact on Bitcoin wallet security and protect your assets.</div>",
-            "url": "https://github.com/Hitplus/RingSide-Replay-Attack",
-            "title": "Hitplus/RingSide-Replay-Attack: 🔒 Analyze the CVE-2023-39910 vulnerability in Libbitcoin Explorer to understand its impact on Bitcoin wallet security and protect your assets.",
-            "date_modified": "2026-04-18T07:33:31.000Z",
-            "date_published": "2026-01-07T14:24:08.000Z",
-            "author": {
-                "name": "Hitplus",
-                "url": "https://github.com/Hitplus"
             }
         },
         {
@@ -212,17 +223,6 @@
             "author": {
                 "name": "Spektrainfiniti",
                 "url": "https://github.com/Spektrainfiniti"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/65491519?u=f233d2538f1b3f268e153466f2df59ef081c2b96&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Full walkthrough for HackTheBox Snoopy (Hard) – LFI, DNS poisoning, Git symlink (CVE‑2023‑23946), ClamAV XXE (CVE‑2023‑20052)</div>",
-            "url": "https://github.com/mararaEd/HTB-Snoopy-Writeup",
-            "title": "mararaEd/HTB-Snoopy-Writeup: Full walkthrough for HackTheBox Snoopy (Hard) – LFI, DNS poisoning, Git symlink (CVE‑2023‑23946), ClamAV XXE (CVE‑2023‑20052)",
-            "date_modified": "2026-04-07T06:44:06.000Z",
-            "date_published": "2026-04-07T05:08:13.000Z",
-            "author": {
-                "name": "mararaEd",
-                "url": "https://github.com/mararaEd"
             }
         }
     ]
