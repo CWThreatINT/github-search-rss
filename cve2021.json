@@ -9,11 +9,22 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/182138871?u=5a625dbde10ddebc6f9772ae9e409b49e97a97f1&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Chrome extension that uses vulnerabilities CVE-2021-33044 and CVE-2021-33045 to log in to Dahua cameras without authentication.</div>",
             "url": "https://github.com/Bd-Mutant7/DahuaLoginBypass",
             "title": "Bd-Mutant7/DahuaLoginBypass: Chrome extension that uses vulnerabilities CVE-2021-33044 and CVE-2021-33045 to log in to Dahua cameras without authentication.",
-            "date_modified": "2026-04-19T13:45:19.000Z",
+            "date_modified": "2026-04-19T15:22:48.000Z",
             "date_published": "2026-03-28T17:42:44.000Z",
             "author": {
                 "name": "Bd-Mutant7",
                 "url": "https://github.com/Bd-Mutant7"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/277325289?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A technical walkthrough of exploiting CVE-2021-44228 (Log4Shell) in a UniFi Network Application environment, including MongoDB manipulation and privilege escalation.</div>",
+            "url": "https://github.com/davindersingh74569-lang/HTB-Unified-Writeup",
+            "title": "davindersingh74569-lang/HTB-Unified-Writeup: A technical walkthrough of exploiting CVE-2021-44228 (Log4Shell) in a UniFi Network Application environment, including MongoDB manipulation and privilege escalation.",
+            "date_modified": "2026-04-19T14:44:19.000Z",
+            "date_published": "2026-04-19T14:40:29.000Z",
+            "author": {
+                "name": "davindersingh74569-lang",
+                "url": "https://github.com/davindersingh74569-lang"
             }
         },
         {
@@ -212,17 +223,6 @@
             "author": {
                 "name": "JacobTaylor3",
                 "url": "https://github.com/JacobTaylor3"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/271497192?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Full penetration testing workflow: credential brute force, SSH access and privilege escalation (CVE-2021-4034)</div>",
-            "url": "https://github.com/vaibhavkrishna12004/ubuntu-privesc-lab",
-            "title": "vaibhavkrishna12004/ubuntu-privesc-lab: Full penetration testing workflow: credential brute force, SSH access and privilege escalation (CVE-2021-4034)",
-            "date_modified": "2026-04-01T07:54:51.000Z",
-            "date_published": "2026-04-01T06:02:15.000Z",
-            "author": {
-                "name": "vaibhavkrishna12004",
-                "url": "https://github.com/vaibhavkrishna12004"
             }
         }
     ]
