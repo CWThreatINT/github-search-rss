@@ -6,6 +6,17 @@
     "description": "CVE-2022 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/171613834?u=d0d03d82f06ddb2502bd05ffb7382f90e4273f4d&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Based on CVE-2022-3590, WordPress &lt;= 6.9.1 - Unauthenticated Blind SSRF via XML-RPC Pingback Discovery proof of concept (PoC)</div>",
+            "url": "https://github.com/TJouleL/WordPress-6.9.1-Blind-SSRF",
+            "title": "TJouleL/WordPress-6.9.1-Blind-SSRF: Based on CVE-2022-3590, WordPress <= 6.9.1 - Unauthenticated Blind SSRF via XML-RPC Pingback Discovery proof of concept (PoC)",
+            "date_modified": "2026-04-22T12:25:30.000Z",
+            "date_published": "2026-04-22T12:03:01.000Z",
+            "author": {
+                "name": "TJouleL",
+                "url": "https://github.com/TJouleL"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/141915211?u=0d2032f07abfc995844356f313ffed7c1e8d43f0&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Apache ActiveMQ漏洞综合利用工具(CVE-2015-5254，CVE-2016-3088，CVE-2022-41678，CVE-2023-46604，CVE-2024-32114，CVE-2026-34197)</div>",
             "url": "https://github.com/Catherines77/ActiveMQ-EXPtools",
             "title": "Catherines77/ActiveMQ-EXPtools: Apache ActiveMQ漏洞综合利用工具(CVE-2015-5254，CVE-2016-3088，CVE-2022-41678，CVE-2023-46604，CVE-2024-32114，CVE-2026-34197)",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "0xmid00",
                 "url": "https://github.com/0xmid00"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/270829027?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Setup and exploit recreation for CVE-2022-42889 Text4Shell.</div>",
-            "url": "https://github.com/KosmicOwl045/ICT287-CVE-2022-42889",
-            "title": "KosmicOwl045/ICT287-CVE-2022-42889: Setup and exploit recreation for CVE-2022-42889 Text4Shell.",
-            "date_modified": "2026-03-30T08:05:45.000Z",
-            "date_published": "2026-03-30T07:21:51.000Z",
-            "author": {
-                "name": "KosmicOwl045",
-                "url": "https://github.com/KosmicOwl045"
             }
         }
     ]
