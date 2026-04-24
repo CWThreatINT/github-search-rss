@@ -6,6 +6,17 @@
     "description": "CVE-2023 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/277412034?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Bug Bounty: CVE-2023-50839 IDOR identified in a third-party support component via 'gau' and 'Nuclei'. Despite perimeter redirects, the outdated software remained exposed. Confirmed through manual header analysis. Severity: 5.3 (Medium). Focused on Defense in Depth failures and PII protection. Status: Reported on Intigriti.</div>",
+            "url": "https://github.com/Francesco-CyberIntelligence/bug-bounty-findings-o-research-disclosures.",
+            "title": "Francesco-CyberIntelligence/bug-bounty-findings-o-research-disclosures.: Bug Bounty: CVE-2023-50839 IDOR identified in a third-party support component via 'gau' and 'Nuclei'. Despite perimeter redirects, the outdated software remained exposed. Confirmed through manual header analysis. Severity: 5.3 (Medium). Focused on Defense in Depth failures and PII protection. Status: Reported on Intigriti.",
+            "date_modified": "2026-04-24T15:39:00.000Z",
+            "date_published": "2026-04-24T15:38:56.000Z",
+            "author": {
+                "name": "Francesco-CyberIntelligence",
+                "url": "https://github.com/Francesco-CyberIntelligence"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/214546144?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>🔒 Analyze the CVE-2023-39910 vulnerability in Libbitcoin Explorer to understand its impact on Bitcoin wallet security and protect your assets.</div>",
             "url": "https://github.com/Hitplus/RingSide-Replay-Attack",
             "title": "Hitplus/RingSide-Replay-Attack: 🔒 Analyze the CVE-2023-39910 vulnerability in Libbitcoin Explorer to understand its impact on Bitcoin wallet security and protect your assets.",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "0xMOGA",
                 "url": "https://github.com/0xMOGA"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/175491851?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>The Backup Migration plugin for WordPress is vulnerable to Remote Code Execution in all versions up to, and including, 1.3.7 via the /includes/backup-heart.php file.</div>",
-            "url": "https://github.com/0x00phantom-hat/CVE-2023-6553-RCE-Exploit",
-            "title": "0x00phantom-hat/CVE-2023-6553-RCE-Exploit: The Backup Migration plugin for WordPress is vulnerable to Remote Code Execution in all versions up to, and including, 1.3.7 via the /includes/backup-heart.php file.",
-            "date_modified": "2026-04-14T06:50:17.000Z",
-            "date_published": "2026-04-10T13:46:35.000Z",
-            "author": {
-                "name": "0x00phantom-hat",
-                "url": "https://github.com/0x00phantom-hat"
             }
         }
     ]
