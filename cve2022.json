@@ -6,6 +6,17 @@
     "description": "CVE-2022 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/277402864?u=1c6e22cb02bc023cfcc0c7c88f2fded30b3a5267&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>ACEmanager PoC exploit</div>",
+            "url": "https://github.com/KaraFlow/CVE-2022-46649",
+            "title": "KaraFlow/CVE-2022-46649: ACEmanager PoC exploit",
+            "date_modified": "2026-04-25T06:11:53.000Z",
+            "date_published": "2026-04-25T06:06:01.000Z",
+            "author": {
+                "name": "KaraFlow",
+                "url": "https://github.com/KaraFlow"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/88006098?u=179b2bb241060cdcac8280d10c0fa6e099b17930&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>SLUBStick exploitation of CVE-2022-32250. Converting a Netfilter UAF into a cross-cache arbitrary memory R/W primitive through PTE manipulation.</div>",
             "url": "https://github.com/LSinus/CacheMeIfYouCan",
             "title": "LSinus/CacheMeIfYouCan: SLUBStick exploitation of CVE-2022-32250. Converting a Netfilter UAF into a cross-cache arbitrary memory R/W primitive through PTE manipulation.",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "pintukumar-sutradhar",
                 "url": "https://github.com/pintukumar-sutradhar"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/268855291?u=24b30b10ee94515c6ff9d699397fa544f7eaeaf0&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Security Operations &amp; NIS2/DORA Cyber Compliance MCP Server — 12 tools for NIS2 compliance, ISO 27001:2022 gap analysis, DORA ICT risk (Art.5-12), incident playbooks, CVE prioritization, attack surface checks, phishing detection.</div>",
-            "url": "https://github.com/ToolOracle/cybershield",
-            "title": "ToolOracle/cybershield: Security Operations & NIS2/DORA Cyber Compliance MCP Server — 12 tools for NIS2 compliance, ISO 27001:2022 gap analysis, DORA ICT risk (Art.5-12), incident playbooks, CVE prioritization, attack surface checks, phishing detection.",
-            "date_modified": "2026-04-01T07:45:36.000Z",
-            "date_published": "2026-04-01T07:45:12.000Z",
-            "author": {
-                "name": "ToolOracle",
-                "url": "https://github.com/ToolOracle"
             }
         }
     ]
