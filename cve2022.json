@@ -6,6 +6,17 @@
     "description": "CVE-2022 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/88006098?u=179b2bb241060cdcac8280d10c0fa6e099b17930&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>SLUBStick exploitation of CVE-2022-32250. Converting a Netfilter UAF into a cross-cache arbitrary memory R/W primitive through PTE manipulation.</div>",
+            "url": "https://github.com/LSinus/CacheMeIfYouCan",
+            "title": "LSinus/CacheMeIfYouCan: SLUBStick exploitation of CVE-2022-32250. Converting a Netfilter UAF into a cross-cache arbitrary memory R/W primitive through PTE manipulation.",
+            "date_modified": "2026-04-26T20:26:40.000Z",
+            "date_published": "2026-02-23T17:33:28.000Z",
+            "author": {
+                "name": "LSinus",
+                "url": "https://github.com/LSinus"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/277402864?u=1c6e22cb02bc023cfcc0c7c88f2fded30b3a5267&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>ACEmanager PoC exploit</div>",
             "url": "https://github.com/KaraFlow/CVE-2022-46649",
             "title": "KaraFlow/CVE-2022-46649: ACEmanager PoC exploit",
@@ -14,17 +25,6 @@
             "author": {
                 "name": "KaraFlow",
                 "url": "https://github.com/KaraFlow"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/88006098?u=179b2bb241060cdcac8280d10c0fa6e099b17930&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>SLUBStick exploitation of CVE-2022-32250. Converting a Netfilter UAF into a cross-cache arbitrary memory R/W primitive through PTE manipulation.</div>",
-            "url": "https://github.com/LSinus/CacheMeIfYouCan",
-            "title": "LSinus/CacheMeIfYouCan: SLUBStick exploitation of CVE-2022-32250. Converting a Netfilter UAF into a cross-cache arbitrary memory R/W primitive through PTE manipulation.",
-            "date_modified": "2026-04-23T13:26:19.000Z",
-            "date_published": "2026-02-23T17:33:28.000Z",
-            "author": {
-                "name": "LSinus",
-                "url": "https://github.com/LSinus"
             }
         },
         {
