@@ -4,5 +4,226 @@
     "home_page_url": "https://github.com/search?o=desc&q=CVE-2023&s=updated&type=Repositories",
     "feed_url": "https://cwthreatint.github.io/github-search-rss/cve2023.json",
     "description": "CVE-2023 FEED on GitHub",
-    "items": []
+    "items": [
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/120130511?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>oob_entry tfp0 kernel exploit for armv7 iOS (iOS 3.0–10.3.4), using CVE-2023-32434. We will publish a write-up detailing the methods in the coming weeks. 🐙</div>",
+            "url": "https://github.com/rkrakesh524/oob_entry",
+            "title": "rkrakesh524/oob_entry: oob_entry tfp0 kernel exploit for armv7 iOS (iOS 3.0–10.3.4), using CVE-2023-32434. We will publish a write-up detailing the methods in the coming weeks. 🐙",
+            "date_modified": "2026-04-27T19:03:44.000Z",
+            "date_published": "2025-08-13T09:19:29.000Z",
+            "author": {
+                "name": "rkrakesh524",
+                "url": "https://github.com/rkrakesh524"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/42876133?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2023-44487</div>",
+            "url": "https://github.com/galletitaconpate/CVE-2023-44487",
+            "title": "galletitaconpate/CVE-2023-44487: CVE-2023-44487",
+            "date_modified": "2026-04-27T14:44:57.000Z",
+            "date_published": "2026-04-24T03:05:32.000Z",
+            "author": {
+                "name": "galletitaconpate",
+                "url": "https://github.com/galletitaconpate"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/214546144?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>🔒 Analyze the CVE-2023-39910 vulnerability in Libbitcoin Explorer to understand its impact on Bitcoin wallet security and protect your assets.</div>",
+            "url": "https://github.com/Hitplus/RingSide-Replay-Attack",
+            "title": "Hitplus/RingSide-Replay-Attack: 🔒 Analyze the CVE-2023-39910 vulnerability in Libbitcoin Explorer to understand its impact on Bitcoin wallet security and protect your assets.",
+            "date_modified": "2026-04-27T13:12:32.000Z",
+            "date_published": "2026-01-07T14:24:08.000Z",
+            "author": {
+                "name": "Hitplus",
+                "url": "https://github.com/Hitplus"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/141915211?u=0d2032f07abfc995844356f313ffed7c1e8d43f0&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Apache ActiveMQ漏洞综合利用工具(CVE-2015-5254，CVE-2016-3088，CVE-2022-41678，CVE-2023-46604，CVE-2024-32114，CVE-2026-34197)</div>",
+            "url": "https://github.com/Catherines77/ActiveMQ-EXPtools",
+            "title": "Catherines77/ActiveMQ-EXPtools: Apache ActiveMQ漏洞综合利用工具(CVE-2015-5254，CVE-2016-3088，CVE-2022-41678，CVE-2023-46604，CVE-2024-32114，CVE-2026-34197)",
+            "date_modified": "2026-04-27T09:47:55.000Z",
+            "date_published": "2026-04-20T02:38:50.000Z",
+            "author": {
+                "name": "Catherines77",
+                "url": "https://github.com/Catherines77"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/151980876?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>TOP All bugbounty pentesting CVE-2023- POC Exp  RCE example payload  Things</div>",
+            "url": "https://github.com/GhostTroops/TOP",
+            "title": "GhostTroops/TOP: TOP All bugbounty pentesting CVE-2023- POC Exp  RCE example payload  Things",
+            "date_modified": "2026-04-27T02:26:37.000Z",
+            "date_published": "2022-03-19T01:54:15.000Z",
+            "author": {
+                "name": "GhostTroops",
+                "url": "https://github.com/GhostTroops"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/91031916?u=fcee3ccd85ff92636b90925aaead04bf3c05fe5f&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>OverlayFS Local Privilege Escalation - Full write-up to full escalation</div>",
+            "url": "https://github.com/h3raklez/CVE-2023-32629",
+            "title": "h3raklez/CVE-2023-32629: OverlayFS Local Privilege Escalation - Full write-up to full escalation",
+            "date_modified": "2026-04-25T14:55:22.000Z",
+            "date_published": "2026-04-25T14:42:57.000Z",
+            "author": {
+                "name": "h3raklez",
+                "url": "https://github.com/h3raklez"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/277412034?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Bug Bounty: CVE-2023-50839 IDOR identified in a third-party support component via 'gau' and 'Nuclei'. Despite perimeter redirects, the outdated software remained exposed. Confirmed through manual header analysis. Severity: 5.3 (Medium). Focused on Defense in Depth failures and PII protection. Status: Reported on Intigriti.</div>",
+            "url": "https://github.com/Francesco-CyberIntelligence/bug-bounty-findings-o-research-disclosures.",
+            "title": "Francesco-CyberIntelligence/bug-bounty-findings-o-research-disclosures.: Bug Bounty: CVE-2023-50839 IDOR identified in a third-party support component via 'gau' and 'Nuclei'. Despite perimeter redirects, the outdated software remained exposed. Confirmed through manual header analysis. Severity: 5.3 (Medium). Focused on Defense in Depth failures and PII protection. Status: Reported on Intigriti.",
+            "date_modified": "2026-04-24T15:39:00.000Z",
+            "date_published": "2026-04-24T15:38:56.000Z",
+            "author": {
+                "name": "Francesco-CyberIntelligence",
+                "url": "https://github.com/Francesco-CyberIntelligence"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/224064244?u=0d16760891b29951030a3f0605fac49baab658bb&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>HackTheBox TwoMillion machine writeup — API abuse, command injection &amp; CVE-2023-0386</div>",
+            "url": "https://github.com/karimelsheikh1/HTB-TwoMillion-Writeup",
+            "title": "karimelsheikh1/HTB-TwoMillion-Writeup: HackTheBox TwoMillion machine writeup — API abuse, command injection & CVE-2023-0386",
+            "date_modified": "2026-04-23T11:52:44.000Z",
+            "date_published": "2026-04-23T11:49:56.000Z",
+            "author": {
+                "name": "karimelsheikh1",
+                "url": "https://github.com/karimelsheikh1"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/82722340?u=aa1b08e2f1d2f1da27c79ac47a4af563f6ab1ec4&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
+            "url": "https://github.com/jpselva/CVE-2023-4863",
+            "title": "jpselva/CVE-2023-4863",
+            "date_modified": "2026-04-22T15:34:46.000Z",
+            "date_published": "2026-04-22T15:32:23.000Z",
+            "author": {
+                "name": "jpselva",
+                "url": "https://github.com/jpselva"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/278160701?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Trailing header server side desync check for CVE-2023-45648</div>",
+            "url": "https://github.com/latr0phil/CVE-2023-45648-Hang-Check",
+            "title": "latr0phil/CVE-2023-45648-Hang-Check: Trailing header server side desync check for CVE-2023-45648",
+            "date_modified": "2026-04-21T17:44:58.000Z",
+            "date_published": "2026-04-21T17:20:35.000Z",
+            "author": {
+                "name": "latr0phil",
+                "url": "https://github.com/latr0phil"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/16137689?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>X-Ways Acropalypse extension detects CVE-2023-21036 in common images </div>",
+            "url": "https://github.com/PolitoInc/XWFAcropalypse",
+            "title": "PolitoInc/XWFAcropalypse: X-Ways Acropalypse extension detects CVE-2023-21036 in common images ",
+            "date_modified": "2026-04-20T22:18:02.000Z",
+            "date_published": "2026-04-17T01:46:46.000Z",
+            "author": {
+                "name": "PolitoInc",
+                "url": "https://github.com/PolitoInc"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/184717627?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2023-20198 Authorized Pentest Report | CVSS 9.8</div>",
+            "url": "https://github.com/AjayKalbhile/Cisco-SD-WAN-Auth-Bypass-Pentest",
+            "title": "AjayKalbhile/Cisco-SD-WAN-Auth-Bypass-Pentest: CVE-2023-20198 Authorized Pentest Report | CVSS 9.8",
+            "date_modified": "2026-04-20T08:52:37.000Z",
+            "date_published": "2026-04-20T08:52:37.000Z",
+            "author": {
+                "name": "AjayKalbhile",
+                "url": "https://github.com/AjayKalbhile"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/101027763?u=676b3225be70431d1141e5fb8f698c7de61c5289&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2023-45802 - Apache HTTP/2 Memory Exhaustion DoS Apache versions: 2.4.17 through 2.4.57 Target: Apache/2.4.52 (Ubuntu) - VULNERABLE MehranTurk (M.T) WARNING: For authorized testing in LAB environment only!</div>",
+            "url": "https://github.com/MehranTurk/CVE-2023-45802",
+            "title": "MehranTurk/CVE-2023-45802: CVE-2023-45802 - Apache HTTP/2 Memory Exhaustion DoS Apache versions: 2.4.17 through 2.4.57 Target: Apache/2.4.52 (Ubuntu) - VULNERABLE MehranTurk (M.T) WARNING: For authorized testing in LAB environment only!",
+            "date_modified": "2026-04-19T19:39:31.000Z",
+            "date_published": "2026-04-19T19:34:23.000Z",
+            "author": {
+                "name": "MehranTurk",
+                "url": "https://github.com/MehranTurk"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/1445218?u=59431e7052ffb9382316e00f4d9d30861b3c67d0&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
+            "url": "https://github.com/jithinodattu/CVE-2023-24329-lab",
+            "title": "jithinodattu/CVE-2023-24329-lab",
+            "date_modified": "2026-04-18T10:14:47.000Z",
+            "date_published": "2026-04-18T10:05:18.000Z",
+            "author": {
+                "name": "jithinodattu",
+                "url": "https://github.com/jithinodattu"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/42577748?u=823750d75632e7f9e0a0d74876973c8dbbc40173&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Automated exploit chain for HTB Sau — CVE-2023-27163 (SSRF) + Maltrail Unauthenticated RCE → Reverse Shell</div>",
+            "url": "https://github.com/tombstoneghost/htb-sau-exploit-chain",
+            "title": "tombstoneghost/htb-sau-exploit-chain: Automated exploit chain for HTB Sau — CVE-2023-27163 (SSRF) + Maltrail Unauthenticated RCE → Reverse Shell",
+            "date_modified": "2026-04-18T09:12:15.000Z",
+            "date_published": "2026-04-17T12:29:48.000Z",
+            "author": {
+                "name": "tombstoneghost",
+                "url": "https://github.com/tombstoneghost"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/175491851?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>This repository contains a Proof of Concept (PoC) exploit for CVE-2023-6972.</div>",
+            "url": "https://github.com/0x00phantom-hat/CVE-2023-6972-Exploit-Arbitrary-File-Deletion",
+            "title": "0x00phantom-hat/CVE-2023-6972-Exploit-Arbitrary-File-Deletion: This repository contains a Proof of Concept (PoC) exploit for CVE-2023-6972.",
+            "date_modified": "2026-04-13T23:26:48.000Z",
+            "date_published": "2026-04-13T22:56:21.000Z",
+            "author": {
+                "name": "0x00phantom-hat",
+                "url": "https://github.com/0x00phantom-hat"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/113451397?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
+            "url": "https://github.com/DonVorrin/CVE-2023-29357",
+            "title": "DonVorrin/CVE-2023-29357",
+            "date_modified": "2026-04-13T21:54:49.000Z",
+            "date_published": "2026-04-13T21:54:18.000Z",
+            "author": {
+                "name": "DonVorrin",
+                "url": "https://github.com/DonVorrin"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/275310029?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Found 200+ vulnerabilities on scanme.nmap.org including CVE-2023-38408 (9.8 critical)</div>",
+            "url": "https://github.com/nonosticisiguzo-command/nmap-scan-results",
+            "title": "nonosticisiguzo-command/nmap-scan-results: Found 200+ vulnerabilities on scanme.nmap.org including CVE-2023-38408 (9.8 critical)",
+            "date_modified": "2026-04-12T14:16:00.000Z",
+            "date_published": "2026-04-12T14:08:59.000Z",
+            "author": {
+                "name": "nonosticisiguzo-command",
+                "url": "https://github.com/nonosticisiguzo-command"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/157994006?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>BitLocker full-disk encryption bypass research using CVE-2023-21563 (BitPixie). Methodology, exploit chain, and defensive recommendations.</div>",
+            "url": "https://github.com/c-sprinks/bitlocker-bypass-research",
+            "title": "c-sprinks/bitlocker-bypass-research: BitLocker full-disk encryption bypass research using CVE-2023-21563 (BitPixie). Methodology, exploit chain, and defensive recommendations.",
+            "date_modified": "2026-04-12T02:15:06.000Z",
+            "date_published": "2026-04-12T02:14:38.000Z",
+            "author": {
+                "name": "c-sprinks",
+                "url": "https://github.com/c-sprinks"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/272607332?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
+            "url": "https://github.com/0xMOGA/CVE-2023-4911-Lab",
+            "title": "0xMOGA/CVE-2023-4911-Lab",
+            "date_modified": "2026-04-11T18:06:36.000Z",
+            "date_published": "2026-04-11T18:01:27.000Z",
+            "author": {
+                "name": "0xMOGA",
+                "url": "https://github.com/0xMOGA"
+            }
+        }
+    ]
 }

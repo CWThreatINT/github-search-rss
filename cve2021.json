@@ -4,5 +4,226 @@
     "home_page_url": "https://github.com/search?o=desc&q=CVE-2021&s=updated&type=Repositories",
     "feed_url": "https://cwthreatint.github.io/github-search-rss/cve2021.json",
     "description": "CVE-2021 FEED on GitHub",
-    "items": []
+    "items": [
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/182138871?u=5a625dbde10ddebc6f9772ae9e409b49e97a97f1&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Chrome extension that uses vulnerabilities CVE-2021-33044 and CVE-2021-33045 to log in to Dahua cameras without authentication.</div>",
+            "url": "https://github.com/Bd-Mutant7/DahuaLoginBypass",
+            "title": "Bd-Mutant7/DahuaLoginBypass: Chrome extension that uses vulnerabilities CVE-2021-33044 and CVE-2021-33045 to log in to Dahua cameras without authentication.",
+            "date_modified": "2026-04-27T19:52:18.000Z",
+            "date_published": "2026-03-28T17:42:44.000Z",
+            "author": {
+                "name": "Bd-Mutant7",
+                "url": "https://github.com/Bd-Mutant7"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/206778611?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>🚀 Enhance your penetration testing with PwnKit Helper, a simple tool for exploiting the CVE-2021-4034 vulnerability in pkexec for local privilege escalation.</div>",
+            "url": "https://github.com/kaisen-bot/pwnkit-helper",
+            "title": "kaisen-bot/pwnkit-helper: 🚀 Enhance your penetration testing with PwnKit Helper, a simple tool for exploiting the CVE-2021-4034 vulnerability in pkexec for local privilege escalation.",
+            "date_modified": "2026-04-27T19:34:27.000Z",
+            "date_published": "2025-10-01T09:53:03.000Z",
+            "author": {
+                "name": "kaisen-bot",
+                "url": "https://github.com/kaisen-bot"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/179056781?u=4f186c23844454711f34d30ccadebba7fe0f6833&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Recreation and analysis of a curious logic error in Apache 2.4.49 that escalated to remote code execution</div>",
+            "url": "https://github.com/klmntbelgium/cve-2021-41773-exploration",
+            "title": "klmntbelgium/cve-2021-41773-exploration: Recreation and analysis of a curious logic error in Apache 2.4.49 that escalated to remote code execution",
+            "date_modified": "2026-04-27T19:01:35.000Z",
+            "date_published": "2026-04-23T04:51:19.000Z",
+            "author": {
+                "name": "klmntbelgium",
+                "url": "https://github.com/klmntbelgium"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/105421904?u=7553827cc6dc2e3cac13344cfa6eb9a52415d267&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>We hope to reproduce CVE-2021-41773 to deepen our understanding of real-world cybersecurity vulnerabilities so that we can be knowledgeable about exploits in industry and academic work.</div>",
+            "url": "https://github.com/JKIM72403/CS4277-CVE-Path-Traversal-Apache-HTTP-Server",
+            "title": "JKIM72403/CS4277-CVE-Path-Traversal-Apache-HTTP-Server: We hope to reproduce CVE-2021-41773 to deepen our understanding of real-world cybersecurity vulnerabilities so that we can be knowledgeable about exploits in industry and academic work.",
+            "date_modified": "2026-04-27T11:47:22.000Z",
+            "date_published": "2026-04-20T03:39:39.000Z",
+            "author": {
+                "name": "JKIM72403",
+                "url": "https://github.com/JKIM72403"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/169343360?u=3fd51787609361289cb4ba536c27a8a338991896&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
+            "url": "https://github.com/im2nerd/CVE-2021-41773",
+            "title": "im2nerd/CVE-2021-41773",
+            "date_modified": "2026-04-25T11:06:46.000Z",
+            "date_published": "2026-04-25T09:20:19.000Z",
+            "author": {
+                "name": "im2nerd",
+                "url": "https://github.com/im2nerd"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/114340758?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Multi-Stage Attack Modeling and Detection of Log4Shell for CVE-2021-44228</div>",
+            "url": "https://github.com/pinaraltinok/Log4Shell-Attack",
+            "title": "pinaraltinok/Log4Shell-Attack: Multi-Stage Attack Modeling and Detection of Log4Shell for CVE-2021-44228",
+            "date_modified": "2026-04-22T19:07:20.000Z",
+            "date_published": "2026-04-22T19:05:01.000Z",
+            "author": {
+                "name": "pinaraltinok",
+                "url": "https://github.com/pinaraltinok"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/276264074?u=43974214c3f6004895d211ae3dff672cb8019039&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Type Local Privilege Escalation exploit for CVE-2021-3493(Ubuntu Kernel vulnerability) documrnted during TryHackme Lab</div>",
+            "url": "https://github.com/iqbalhussainas/OverlayFS-LPE-Exploit",
+            "title": "iqbalhussainas/OverlayFS-LPE-Exploit: Type Local Privilege Escalation exploit for CVE-2021-3493(Ubuntu Kernel vulnerability) documrnted during TryHackme Lab",
+            "date_modified": "2026-04-20T11:08:30.000Z",
+            "date_published": "2026-04-20T09:31:09.000Z",
+            "author": {
+                "name": "iqbalhussainas",
+                "url": "https://github.com/iqbalhussainas"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/277325289?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A technical walkthrough of exploiting CVE-2021-44228 (Log4Shell) in a UniFi Network Application environment, including MongoDB manipulation and privilege escalation.</div>",
+            "url": "https://github.com/davindersingh74569-lang/HTB-Unified-Writeup",
+            "title": "davindersingh74569-lang/HTB-Unified-Writeup: A technical walkthrough of exploiting CVE-2021-44228 (Log4Shell) in a UniFi Network Application environment, including MongoDB manipulation and privilege escalation.",
+            "date_modified": "2026-04-19T14:44:19.000Z",
+            "date_published": "2026-04-19T14:40:29.000Z",
+            "author": {
+                "name": "davindersingh74569-lang",
+                "url": "https://github.com/davindersingh74569-lang"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/165874457?u=efaf6569d797abb71672777fc447d16bfa7d304f&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
+            "url": "https://github.com/yutasato88/CVE-2021-3560-PolkitPrivilegeEsclation",
+            "title": "yutasato88/CVE-2021-3560-PolkitPrivilegeEsclation",
+            "date_modified": "2026-04-17T15:59:29.000Z",
+            "date_published": "2026-04-17T15:59:13.000Z",
+            "author": {
+                "name": "yutasato88",
+                "url": "https://github.com/yutasato88"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/151864620?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2021-25337</div>",
+            "url": "https://github.com/CrisZalSa/JustALampNothingElse",
+            "title": "CrisZalSa/JustALampNothingElse: CVE-2021-25337",
+            "date_modified": "2026-04-17T14:26:20.000Z",
+            "date_published": "2026-04-17T14:20:30.000Z",
+            "author": {
+                "name": "CrisZalSa",
+                "url": "https://github.com/CrisZalSa"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/154408379?u=1d91f41e1612b5731cccd3f8644f45b7fdcb195c&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
+            "url": "https://github.com/Nyabayo/PentestReportMetasploitable3CVE20143704Drupalgeddon-CVE20214034PwnkitNmapMetasploitNetcatMeterpreter",
+            "title": "Nyabayo/PentestReportMetasploitable3CVE20143704Drupalgeddon-CVE20214034PwnkitNmapMetasploitNetcatMeterpreter",
+            "date_modified": "2026-04-17T00:53:38.000Z",
+            "date_published": "2026-04-17T00:48:10.000Z",
+            "author": {
+                "name": "Nyabayo",
+                "url": "https://github.com/Nyabayo"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/792482?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Windows Elevation of Privilege Vulnerability (SeriousSAM)</div>",
+            "url": "https://github.com/VertigoRay/CVE-2021-36934",
+            "title": "VertigoRay/CVE-2021-36934: Windows Elevation of Privilege Vulnerability (SeriousSAM)",
+            "date_modified": "2026-04-16T20:20:46.000Z",
+            "date_published": "2021-07-22T14:53:09.000Z",
+            "author": {
+                "name": "VertigoRay",
+                "url": "https://github.com/VertigoRay"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/91457220?u=919dbd37e2ee2d2b258a41826346899ec2d77daa&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Exploit-Class Deterministic Control Validation System (ECD-CVS) grounded in CVE-derived failure class abstraction, enforcing ASVS-mapped control evaluation with cryptographically verifiable execution traces.</div>",
+            "url": "https://github.com/whatheheckisthis/Canonical-Extension-CVE-2021-22986",
+            "title": "whatheheckisthis/Canonical-Extension-CVE-2021-22986: Exploit-Class Deterministic Control Validation System (ECD-CVS) grounded in CVE-derived failure class abstraction, enforcing ASVS-mapped control evaluation with cryptographically verifiable execution traces.",
+            "date_modified": "2026-04-15T08:58:38.000Z",
+            "date_published": "2024-07-05T11:09:37.000Z",
+            "author": {
+                "name": "whatheheckisthis",
+                "url": "https://github.com/whatheheckisthis"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/132749997?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Repositorio para la práctica de DEV sobre la vulnerabilidad CVE-2021-4034. Realizada únicamente con fines académicos.</div>",
+            "url": "https://github.com/Murguii/DEV-CVE-2021-4034",
+            "title": "Murguii/DEV-CVE-2021-4034: Repositorio para la práctica de DEV sobre la vulnerabilidad CVE-2021-4034. Realizada únicamente con fines académicos.",
+            "date_modified": "2026-04-15T08:03:15.000Z",
+            "date_published": "2026-04-15T07:57:11.000Z",
+            "author": {
+                "name": "Murguii",
+                "url": "https://github.com/Murguii"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/89854560?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Performed a live cybersecurity assessment on a university Linux server. During analysis, active attack activity was identified, including brute-force authentication attempts and exploitation attempts targeting Log4Shell (CVE-2021-44228).</div>",
+            "url": "https://github.com/jdormannn/SecureOps-Lab",
+            "title": "jdormannn/SecureOps-Lab: Performed a live cybersecurity assessment on a university Linux server. During analysis, active attack activity was identified, including brute-force authentication attempts and exploitation attempts targeting Log4Shell (CVE-2021-44228).",
+            "date_modified": "2026-04-16T15:57:26.000Z",
+            "date_published": "2026-04-09T18:01:53.000Z",
+            "author": {
+                "name": "jdormannn",
+                "url": "https://github.com/jdormannn"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/91457220?u=919dbd37e2ee2d2b258a41826346899ec2d77daa&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Structured SecDevOps research platform modelling CVE-2021-22986 (F5 BIG-IP iControl REST unauthenticated RCE) </div>",
+            "url": "https://github.com/whatheheckisthis/CVE-2021-22986",
+            "title": "whatheheckisthis/CVE-2021-22986: Structured SecDevOps research platform modelling CVE-2021-22986 (F5 BIG-IP iControl REST unauthenticated RCE) ",
+            "date_modified": "2026-04-15T20:38:59.000Z",
+            "date_published": "2026-04-10T20:16:43.000Z",
+            "author": {
+                "name": "whatheheckisthis",
+                "url": "https://github.com/whatheheckisthis"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/126501090?u=3d1ec1ee8a6b5bb24519f4742c00bb25797ff88d&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Camera Dahua Research lỗ hổng CVE-2021-33044</div>",
+            "url": "https://github.com/eagle-nett/DAHUA_AUTH-BYPASS-CVE-2021-33044",
+            "title": "eagle-nett/DAHUA_AUTH-BYPASS-CVE-2021-33044: Camera Dahua Research lỗ hổng CVE-2021-33044",
+            "date_modified": "2026-04-12T06:01:57.000Z",
+            "date_published": "2026-03-24T03:20:55.000Z",
+            "author": {
+                "name": "eagle-nett",
+                "url": "https://github.com/eagle-nett"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/235692443?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2021-22911 Rocket.Chat NoSQL Injection RCE Exploit - Educational Purpose</div>",
+            "url": "https://github.com/roshanrajbanshi/rocketcat-cve-2021-22911-exploit",
+            "title": "roshanrajbanshi/rocketcat-cve-2021-22911-exploit: CVE-2021-22911 Rocket.Chat NoSQL Injection RCE Exploit - Educational Purpose",
+            "date_modified": "2026-04-11T14:45:59.000Z",
+            "date_published": "2026-04-10T09:16:26.000Z",
+            "author": {
+                "name": "roshanrajbanshi",
+                "url": "https://github.com/roshanrajbanshi"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/49611151?u=80371903ed013ac2408a81839ecbc54827b92d16&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
+            "url": "https://github.com/Kouf320/attacker-lab-cve-2017-5638-cve-2021-41773-paper",
+            "title": "Kouf320/attacker-lab-cve-2017-5638-cve-2021-41773-paper",
+            "date_modified": "2026-04-19T18:20:40.000Z",
+            "date_published": "2026-04-11T13:03:03.000Z",
+            "author": {
+                "name": "Kouf320",
+                "url": "https://github.com/Kouf320"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/38336057?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>PoC of CVE-2021-44228</div>",
+            "url": "https://github.com/joaovicdev/EXPLOIT-CVE-2021-44228",
+            "title": "joaovicdev/EXPLOIT-CVE-2021-44228: PoC of CVE-2021-44228",
+            "date_modified": "2026-04-10T05:26:42.000Z",
+            "date_published": "2026-04-10T05:24:43.000Z",
+            "author": {
+                "name": "joaovicdev",
+                "url": "https://github.com/joaovicdev"
+            }
+        }
+    ]
 }
