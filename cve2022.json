@@ -6,6 +6,17 @@
     "description": "CVE-2022 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/47143007?u=52063b982a0bc191eb531bed31f107974052f5ac&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
+            "url": "https://github.com/cyhe50/cve-2022-23636-poc",
+            "title": "cyhe50/cve-2022-23636-poc",
+            "date_modified": "2026-04-27T02:03:51.000Z",
+            "date_published": "2026-04-27T02:03:37.000Z",
+            "author": {
+                "name": "cyhe50",
+                "url": "https://github.com/cyhe50"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/88006098?u=179b2bb241060cdcac8280d10c0fa6e099b17930&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>SLUBStick exploitation of CVE-2022-32250. Converting a Netfilter UAF into a cross-cache arbitrary memory R/W primitive through PTE manipulation.</div>",
             "url": "https://github.com/LSinus/CacheMeIfYouCan",
             "title": "LSinus/CacheMeIfYouCan: SLUBStick exploitation of CVE-2022-32250. Converting a Netfilter UAF into a cross-cache arbitrary memory R/W primitive through PTE manipulation.",
@@ -53,7 +64,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/141915211?u=0d2032f07abfc995844356f313ffed7c1e8d43f0&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Apache ActiveMQ漏洞综合利用工具(CVE-2015-5254，CVE-2016-3088，CVE-2022-41678，CVE-2023-46604，CVE-2024-32114，CVE-2026-34197)</div>",
             "url": "https://github.com/Catherines77/ActiveMQ-EXPtools",
             "title": "Catherines77/ActiveMQ-EXPtools: Apache ActiveMQ漏洞综合利用工具(CVE-2015-5254，CVE-2016-3088，CVE-2022-41678，CVE-2023-46604，CVE-2024-32114，CVE-2026-34197)",
-            "date_modified": "2026-04-26T07:08:34.000Z",
+            "date_modified": "2026-04-27T01:49:18.000Z",
             "date_published": "2026-04-20T02:38:50.000Z",
             "author": {
                 "name": "Catherines77",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "ImVihanga03",
                 "url": "https://github.com/ImVihanga03"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/126931192?u=7082de24afdbfac29e93a8aef10475f46daad181&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>FortiGate CVE-2022-40684 assessment tool for user enumeration, configuration dump, and lab testing.</div>",
-            "url": "https://github.com/pintukumar-sutradhar/fortigate-cve-2022-40684-tool",
-            "title": "pintukumar-sutradhar/fortigate-cve-2022-40684-tool: FortiGate CVE-2022-40684 assessment tool for user enumeration, configuration dump, and lab testing.",
-            "date_modified": "2026-04-01T08:34:08.000Z",
-            "date_published": "2026-04-01T08:06:30.000Z",
-            "author": {
-                "name": "pintukumar-sutradhar",
-                "url": "https://github.com/pintukumar-sutradhar"
             }
         }
     ]
