@@ -6,6 +6,17 @@
     "description": "CVE-2022 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/141505121?u=75ed09645a59dec88c7b345569e3451f7d54d502&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
+            "url": "https://github.com/ngtuonghung/CVE-2022-4543-EntryBleed",
+            "title": "ngtuonghung/CVE-2022-4543-EntryBleed",
+            "date_modified": "2026-04-29T05:11:21.000Z",
+            "date_published": "2026-04-18T10:26:41.000Z",
+            "author": {
+                "name": "ngtuonghung",
+                "url": "https://github.com/ngtuonghung"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/167197155?u=fca7135826e4eb65be82a36e871c6488d1406208&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
             "url": "https://github.com/melikesraoz/cve-2022-39227-jwt-auth-bypass-demo",
             "title": "melikesraoz/cve-2022-39227-jwt-auth-bypass-demo",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "nicostan15",
                 "url": "https://github.com/nicostan15"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/199966715?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2022-22947 vulnerability task</div>",
-            "url": "https://github.com/SanderSchepers1993/CyberSec2026",
-            "title": "SanderSchepers1993/CyberSec2026: CVE-2022-22947 vulnerability task",
-            "date_modified": "2026-04-02T20:35:09.000Z",
-            "date_published": "2026-03-30T20:38:39.000Z",
-            "author": {
-                "name": "SanderSchepers1993",
-                "url": "https://github.com/SanderSchepers1993"
             }
         }
     ]
