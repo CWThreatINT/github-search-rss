@@ -6,10 +6,21 @@
     "description": "CVE-2021 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/55274241?u=f76e6008cc884ba881e42ceb4366fc9f44ca7d43&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Generate malicious files using recently published homoglyphic-attack (CVE-2021-42694)</div>",
+            "url": "https://github.com/simplylu/CVE-2021-42694",
+            "title": "simplylu/CVE-2021-42694: Generate malicious files using recently published homoglyphic-attack (CVE-2021-42694)",
+            "date_modified": "2026-05-02T12:18:37.000Z",
+            "date_published": "2021-11-02T20:39:47.000Z",
+            "author": {
+                "name": "simplylu",
+                "url": "https://github.com/simplylu"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/182138871?u=5a625dbde10ddebc6f9772ae9e409b49e97a97f1&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Chrome extension that uses vulnerabilities CVE-2021-33044 and CVE-2021-33045 to log in to Dahua cameras without authentication.</div>",
             "url": "https://github.com/Bd-Mutant7/DahuaLoginBypass",
             "title": "Bd-Mutant7/DahuaLoginBypass: Chrome extension that uses vulnerabilities CVE-2021-33044 and CVE-2021-33045 to log in to Dahua cameras without authentication.",
-            "date_modified": "2026-05-02T11:12:38.000Z",
+            "date_modified": "2026-05-02T11:58:53.000Z",
             "date_published": "2026-03-28T17:42:44.000Z",
             "author": {
                 "name": "Bd-Mutant7",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "Murguii",
                 "url": "https://github.com/Murguii"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/89854560?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Performed a live cybersecurity assessment on a university Linux server. During analysis, active attack activity was identified, including brute-force authentication attempts and exploitation attempts targeting Log4Shell (CVE-2021-44228).</div>",
-            "url": "https://github.com/jdormannn/SecureOps-Lab",
-            "title": "jdormannn/SecureOps-Lab: Performed a live cybersecurity assessment on a university Linux server. During analysis, active attack activity was identified, including brute-force authentication attempts and exploitation attempts targeting Log4Shell (CVE-2021-44228).",
-            "date_modified": "2026-04-16T15:57:26.000Z",
-            "date_published": "2026-04-09T18:01:53.000Z",
-            "author": {
-                "name": "jdormannn",
-                "url": "https://github.com/jdormannn"
             }
         }
     ]
