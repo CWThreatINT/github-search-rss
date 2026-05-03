@@ -9,11 +9,22 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/182138871?u=5a625dbde10ddebc6f9772ae9e409b49e97a97f1&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Chrome extension that uses vulnerabilities CVE-2021-33044 and CVE-2021-33045 to log in to Dahua cameras without authentication.</div>",
             "url": "https://github.com/Bd-Mutant7/DahuaLoginBypass",
             "title": "Bd-Mutant7/DahuaLoginBypass: Chrome extension that uses vulnerabilities CVE-2021-33044 and CVE-2021-33045 to log in to Dahua cameras without authentication.",
-            "date_modified": "2026-05-03T17:16:35.000Z",
+            "date_modified": "2026-05-03T18:07:00.000Z",
             "date_published": "2026-03-28T17:42:44.000Z",
             "author": {
                 "name": "Bd-Mutant7",
                 "url": "https://github.com/Bd-Mutant7"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/66417852?u=68efcbc09026a976622f8fd906007664593d3a16&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Empirical validation of a cloud security threat taxonomy (Khoda Parast et al. 2021) against NVD CVE data for 2010–2021 — coverage, CVSS severity, temporal trend, and CWE distribution across IaaS, PaaS, SaaS, and Generic categories.</div>",
+            "url": "https://github.com/milosmilosmilos/nvd",
+            "title": "milosmilosmilos/nvd: Empirical validation of a cloud security threat taxonomy (Khoda Parast et al. 2021) against NVD CVE data for 2010–2021 — coverage, CVSS severity, temporal trend, and CWE distribution across IaaS, PaaS, SaaS, and Generic categories.",
+            "date_modified": "2026-05-03T17:41:35.000Z",
+            "date_published": "2026-03-16T08:05:00.000Z",
+            "author": {
+                "name": "milosmilosmilos",
+                "url": "https://github.com/milosmilosmilos"
             }
         },
         {
@@ -212,17 +223,6 @@
             "author": {
                 "name": "whatheheckisthis",
                 "url": "https://github.com/whatheheckisthis"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/132749997?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Repositorio para la práctica de DEV sobre la vulnerabilidad CVE-2021-4034. Realizada únicamente con fines académicos.</div>",
-            "url": "https://github.com/Murguii/DEV-CVE-2021-4034",
-            "title": "Murguii/DEV-CVE-2021-4034: Repositorio para la práctica de DEV sobre la vulnerabilidad CVE-2021-4034. Realizada únicamente con fines académicos.",
-            "date_modified": "2026-04-15T08:03:15.000Z",
-            "date_published": "2026-04-15T07:57:11.000Z",
-            "author": {
-                "name": "Murguii",
-                "url": "https://github.com/Murguii"
             }
         }
     ]
