@@ -6,6 +6,17 @@
     "description": "CVE-2022 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/161943517?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
+            "url": "https://github.com/flora6907/CVE-2022-20186",
+            "title": "flora6907/CVE-2022-20186",
+            "date_modified": "2026-05-05T11:55:35.000Z",
+            "date_published": "2026-05-05T11:35:42.000Z",
+            "author": {
+                "name": "flora6907",
+                "url": "https://github.com/flora6907"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/141505121?u=75ed09645a59dec88c7b345569e3451f7d54d502&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
             "url": "https://github.com/ngtuonghung/CVE-2022-4543-EntryBleed",
             "title": "ngtuonghung/CVE-2022-4543-EntryBleed",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "sbani",
                 "url": "https://github.com/sbani"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/270709056?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>TP-Link Router Authenticated RCE Exploit (CVE-2022-30075)  Bu araç, TP-Link Archer AX50 ve bazı diğer TP-Link router modellerinde bulunan **CVE-2022-30075** güvenlik açığını kullanarak kimliği doğrulanmış uzaktan komut çalıştırma (Authenticated Remote Code Execution) işlemi gerçekleştirir. </div>",
-            "url": "https://github.com/RhestCorp/TP-L-NK-SIZMA-EXPLO-T",
-            "title": "RhestCorp/TP-L-NK-SIZMA-EXPLO-T: TP-Link Router Authenticated RCE Exploit (CVE-2022-30075)  Bu araç, TP-Link Archer AX50 ve bazı diğer TP-Link router modellerinde bulunan **CVE-2022-30075** güvenlik açığını kullanarak kimliği doğrulanmış uzaktan komut çalıştırma (Authenticated Remote Code Execution) işlemi gerçekleştirir. ",
-            "date_modified": "2026-04-12T20:33:11.000Z",
-            "date_published": "2026-04-03T16:48:19.000Z",
-            "author": {
-                "name": "RhestCorp",
-                "url": "https://github.com/RhestCorp"
             }
         }
     ]
