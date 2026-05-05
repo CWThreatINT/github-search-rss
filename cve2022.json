@@ -6,6 +6,17 @@
     "description": "CVE-2022 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/25870990?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Simple exploit</div>",
+            "url": "https://github.com/cyberager/CVE-2022-22963",
+            "title": "cyberager/CVE-2022-22963: Simple exploit",
+            "date_modified": "2026-05-05T15:15:46.000Z",
+            "date_published": "2026-05-05T14:42:13.000Z",
+            "author": {
+                "name": "cyberager",
+                "url": "https://github.com/cyberager"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/161943517?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
             "url": "https://github.com/flora6907/CVE-2022-20186",
             "title": "flora6907/CVE-2022-20186",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "kullai-secasure",
                 "url": "https://github.com/kullai-secasure"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/3541652?u=d6cc536a400c6142b5013dfccf788796d316472e&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2022-29221 Proof of Concept Code - Smarty RCE</div>",
-            "url": "https://github.com/sbani/CVE-2022-29221-PoC",
-            "title": "sbani/CVE-2022-29221-PoC: CVE-2022-29221 Proof of Concept Code - Smarty RCE",
-            "date_modified": "2026-04-06T20:36:14.000Z",
-            "date_published": "2022-05-25T06:02:23.000Z",
-            "author": {
-                "name": "sbani",
-                "url": "https://github.com/sbani"
             }
         }
     ]
