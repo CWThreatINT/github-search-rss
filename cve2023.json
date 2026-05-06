@@ -9,7 +9,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/214546144?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>🔒 Analyze the CVE-2023-39910 vulnerability in Libbitcoin Explorer to understand its impact on Bitcoin wallet security and protect your assets.</div>",
             "url": "https://github.com/Hitplus/RingSide-Replay-Attack",
             "title": "Hitplus/RingSide-Replay-Attack: 🔒 Analyze the CVE-2023-39910 vulnerability in Libbitcoin Explorer to understand its impact on Bitcoin wallet security and protect your assets.",
-            "date_modified": "2026-05-05T22:55:47.000Z",
+            "date_modified": "2026-05-06T01:34:01.000Z",
             "date_published": "2026-01-07T14:24:08.000Z",
             "author": {
                 "name": "Hitplus",
@@ -20,11 +20,22 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/120130511?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>oob_entry tfp0 kernel exploit for armv7 iOS (iOS 3.0–10.3.4), using CVE-2023-32434. We will publish a write-up detailing the methods in the coming weeks. 🐙</div>",
             "url": "https://github.com/rkrakesh524/oob_entry",
             "title": "rkrakesh524/oob_entry: oob_entry tfp0 kernel exploit for armv7 iOS (iOS 3.0–10.3.4), using CVE-2023-32434. We will publish a write-up detailing the methods in the coming weeks. 🐙",
-            "date_modified": "2026-05-05T21:50:36.000Z",
+            "date_modified": "2026-05-06T00:33:03.000Z",
             "date_published": "2025-08-13T09:19:29.000Z",
             "author": {
                 "name": "rkrakesh524",
                 "url": "https://github.com/rkrakesh524"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/61420434?u=de6771dd12883f7ac28489254c5572916230ae33&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>This repository contains an academic and technical analysis of CVE-2023-34362, a critical SQL injection vulnerability affecting the MOVEit Transfer application, a widely used enterprise Managed File Transfer (MFT) platform. The project was developed as part of the CYB625 – Ethical Hacking &amp; Penetration Testing course at Pace University.</div>",
+            "url": "https://github.com/KarmanyaT28/Multi-Stage-Exploitation-and-Detection-Engineering-Analysis-of-CVE-2023-34362-in-MOVEit-Transfer",
+            "title": "KarmanyaT28/Multi-Stage-Exploitation-and-Detection-Engineering-Analysis-of-CVE-2023-34362-in-MOVEit-Transfer: This repository contains an academic and technical analysis of CVE-2023-34362, a critical SQL injection vulnerability affecting the MOVEit Transfer application, a widely used enterprise Managed File Transfer (MFT) platform. The project was developed as part of the CYB625 – Ethical Hacking & Penetration Testing course at Pace University.",
+            "date_modified": "2026-05-06T00:18:15.000Z",
+            "date_published": "2026-05-06T00:17:41.000Z",
+            "author": {
+                "name": "KarmanyaT28",
+                "url": "https://github.com/KarmanyaT28"
             }
         },
         {
@@ -212,17 +223,6 @@
             "author": {
                 "name": "latr0phil",
                 "url": "https://github.com/latr0phil"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/16137689?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>X-Ways Acropalypse extension detects CVE-2023-21036 in common images </div>",
-            "url": "https://github.com/PolitoInc/XWFAcropalypse",
-            "title": "PolitoInc/XWFAcropalypse: X-Ways Acropalypse extension detects CVE-2023-21036 in common images ",
-            "date_modified": "2026-04-20T22:18:02.000Z",
-            "date_published": "2026-04-17T01:46:46.000Z",
-            "author": {
-                "name": "PolitoInc",
-                "url": "https://github.com/PolitoInc"
             }
         }
     ]
