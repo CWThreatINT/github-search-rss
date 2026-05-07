@@ -9,11 +9,33 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/214546144?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>🔒 Analyze the CVE-2023-39910 vulnerability in Libbitcoin Explorer to understand its impact on Bitcoin wallet security and protect your assets.</div>",
             "url": "https://github.com/Hitplus/RingSide-Replay-Attack",
             "title": "Hitplus/RingSide-Replay-Attack: 🔒 Analyze the CVE-2023-39910 vulnerability in Libbitcoin Explorer to understand its impact on Bitcoin wallet security and protect your assets.",
-            "date_modified": "2026-05-07T16:17:57.000Z",
+            "date_modified": "2026-05-07T19:11:08.000Z",
             "date_published": "2026-01-07T14:24:08.000Z",
             "author": {
                 "name": "Hitplus",
                 "url": "https://github.com/Hitplus"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/278160701?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Trailing header server side desync check for CVE-2023-45648</div>",
+            "url": "https://github.com/latr0phil/CVE-2023-45648-Hang-Check",
+            "title": "latr0phil/CVE-2023-45648-Hang-Check: Trailing header server side desync check for CVE-2023-45648",
+            "date_modified": "2026-05-07T18:18:08.000Z",
+            "date_published": "2026-04-21T17:20:35.000Z",
+            "author": {
+                "name": "latr0phil",
+                "url": "https://github.com/latr0phil"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/120130511?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>oob_entry tfp0 kernel exploit for armv7 iOS (iOS 3.0–10.3.4), using CVE-2023-32434. We will publish a write-up detailing the methods in the coming weeks. 🐙</div>",
+            "url": "https://github.com/rkrakesh524/oob_entry",
+            "title": "rkrakesh524/oob_entry: oob_entry tfp0 kernel exploit for armv7 iOS (iOS 3.0–10.3.4), using CVE-2023-32434. We will publish a write-up detailing the methods in the coming weeks. 🐙",
+            "date_modified": "2026-05-07T18:02:03.000Z",
+            "date_published": "2025-08-13T09:19:29.000Z",
+            "author": {
+                "name": "rkrakesh524",
+                "url": "https://github.com/rkrakesh524"
             }
         },
         {
@@ -25,17 +47,6 @@
             "author": {
                 "name": "Caliburn9",
                 "url": "https://github.com/Caliburn9"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/120130511?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>oob_entry tfp0 kernel exploit for armv7 iOS (iOS 3.0–10.3.4), using CVE-2023-32434. We will publish a write-up detailing the methods in the coming weeks. 🐙</div>",
-            "url": "https://github.com/rkrakesh524/oob_entry",
-            "title": "rkrakesh524/oob_entry: oob_entry tfp0 kernel exploit for armv7 iOS (iOS 3.0–10.3.4), using CVE-2023-32434. We will publish a write-up detailing the methods in the coming weeks. 🐙",
-            "date_modified": "2026-05-07T15:13:04.000Z",
-            "date_published": "2025-08-13T09:19:29.000Z",
-            "author": {
-                "name": "rkrakesh524",
-                "url": "https://github.com/rkrakesh524"
             }
         },
         {
@@ -212,17 +223,6 @@
             "author": {
                 "name": "Francesco-CyberIntelligence",
                 "url": "https://github.com/Francesco-CyberIntelligence"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/224064244?u=0d16760891b29951030a3f0605fac49baab658bb&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>HackTheBox TwoMillion machine writeup — API abuse, command injection &amp; CVE-2023-0386</div>",
-            "url": "https://github.com/karimelsheikh1/HTB-TwoMillion-Writeup",
-            "title": "karimelsheikh1/HTB-TwoMillion-Writeup: HackTheBox TwoMillion machine writeup — API abuse, command injection & CVE-2023-0386",
-            "date_modified": "2026-04-23T11:52:44.000Z",
-            "date_published": "2026-04-23T11:49:56.000Z",
-            "author": {
-                "name": "karimelsheikh1",
-                "url": "https://github.com/karimelsheikh1"
             }
         }
     ]
