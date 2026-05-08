@@ -6,6 +6,17 @@
     "description": "CVE-2022 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/144248875?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2022-30190 — \"Follina\" — MSDT remote code execution via Word docs, no macro needed, Defender initially missed it</div>",
+            "url": "https://github.com/Dhananjayasj/CVE-2022-30190-Follina-",
+            "title": "Dhananjayasj/CVE-2022-30190-Follina-: CVE-2022-30190 — \"Follina\" — MSDT remote code execution via Word docs, no macro needed, Defender initially missed it",
+            "date_modified": "2026-05-08T06:49:02.000Z",
+            "date_published": "2026-05-08T06:49:01.000Z",
+            "author": {
+                "name": "Dhananjayasj",
+                "url": "https://github.com/Dhananjayasj"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/58806494?u=a6ff4b8218423ccc287ff70708bae7f217b1434d&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Metasploit module for obtaining passwords for Kyocera printer address books in cleartext</div>",
             "url": "https://github.com/sh94ya/kyocera_cve_2022_1026",
             "title": "sh94ya/kyocera_cve_2022_1026: Metasploit module for obtaining passwords for Kyocera printer address books in cleartext",
@@ -141,7 +152,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/141915211?u=0d2032f07abfc995844356f313ffed7c1e8d43f0&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Apache ActiveMQ漏洞综合利用工具(CVE-2015-5254，CVE-2016-3088，CVE-2022-41678，CVE-2023-46604，CVE-2024-32114，CVE-2026-34197，CVE-2026-40466)</div>",
             "url": "https://github.com/Catherines77/ActiveMQ-EXPtools",
             "title": "Catherines77/ActiveMQ-EXPtools: Apache ActiveMQ漏洞综合利用工具(CVE-2015-5254，CVE-2016-3088，CVE-2022-41678，CVE-2023-46604，CVE-2024-32114，CVE-2026-34197，CVE-2026-40466)",
-            "date_modified": "2026-05-08T06:03:36.000Z",
+            "date_modified": "2026-05-08T07:36:08.000Z",
             "date_published": "2026-04-20T02:38:50.000Z",
             "author": {
                 "name": "Catherines77",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "TJouleL",
                 "url": "https://github.com/TJouleL"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/3480548?u=99a531a7e5be479662c27ca5da6413c6d5fde828&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Investigating CVE-2022-36804</div>",
-            "url": "https://github.com/JohanGabrielson/bitbucket-test",
-            "title": "JohanGabrielson/bitbucket-test: Investigating CVE-2022-36804",
-            "date_modified": "2026-04-17T08:37:14.000Z",
-            "date_published": "2026-03-24T09:32:33.000Z",
-            "author": {
-                "name": "JohanGabrielson",
-                "url": "https://github.com/JohanGabrielson"
             }
         }
     ]
