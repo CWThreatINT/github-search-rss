@@ -6,6 +6,17 @@
     "description": "CVE-2023 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/145467202?u=58d91d93f748d318c0ee6d20cb6ddb41a605a9aa&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>PoC exploit for CVE-2023-34468 — RCE via H2 RUNSCRIPT in Apache NiFi &lt;= 1.21.0</div>",
+            "url": "https://github.com/Al3xx-sec/CVE-2023-34468-POC",
+            "title": "Al3xx-sec/CVE-2023-34468-POC: PoC exploit for CVE-2023-34468 — RCE via H2 RUNSCRIPT in Apache NiFi <= 1.21.0",
+            "date_modified": "2026-05-10T18:40:55.000Z",
+            "date_published": "2026-05-10T15:43:28.000Z",
+            "author": {
+                "name": "Al3xx-sec",
+                "url": "https://github.com/Al3xx-sec"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/214546144?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>🔒 Analyze the CVE-2023-39910 vulnerability in Libbitcoin Explorer to understand its impact on Bitcoin wallet security and protect your assets.</div>",
             "url": "https://github.com/Hitplus/RingSide-Replay-Attack",
             "title": "Hitplus/RingSide-Replay-Attack: 🔒 Analyze the CVE-2023-39910 vulnerability in Libbitcoin Explorer to understand its impact on Bitcoin wallet security and protect your assets.",
@@ -25,17 +36,6 @@
             "author": {
                 "name": "rkrakesh524",
                 "url": "https://github.com/rkrakesh524"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/145467202?u=58d91d93f748d318c0ee6d20cb6ddb41a605a9aa&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>PoC exploit for CVE-2023-34468 — RCE via H2 RUNSCRIPT in Apache NiFi &lt;= 1.21.0</div>",
-            "url": "https://github.com/Al3xx-sec/CVE-2023-34468-POC",
-            "title": "Al3xx-sec/CVE-2023-34468-POC: PoC exploit for CVE-2023-34468 — RCE via H2 RUNSCRIPT in Apache NiFi <= 1.21.0",
-            "date_modified": "2026-05-10T15:44:15.000Z",
-            "date_published": "2026-05-10T15:43:28.000Z",
-            "author": {
-                "name": "Al3xx-sec",
-                "url": "https://github.com/Al3xx-sec"
             }
         },
         {
