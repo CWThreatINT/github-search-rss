@@ -9,11 +9,22 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/210430869?u=d4d5b37f8418edc79ecbd51fc793fcb1caefc91d&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2023-34468 - Apache NiFi H2 RCE PoC</div>",
             "url": "https://github.com/Jeanpt/CVE-2023-34468",
             "title": "Jeanpt/CVE-2023-34468: CVE-2023-34468 - Apache NiFi H2 RCE PoC",
-            "date_modified": "2026-05-10T19:32:10.000Z",
+            "date_modified": "2026-05-10T20:11:08.000Z",
             "date_published": "2026-05-10T19:31:57.000Z",
             "author": {
                 "name": "Jeanpt",
                 "url": "https://github.com/Jeanpt"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/120130511?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>oob_entry tfp0 kernel exploit for armv7 iOS (iOS 3.0–10.3.4), using CVE-2023-32434. We will publish a write-up detailing the methods in the coming weeks. 🐙</div>",
+            "url": "https://github.com/rkrakesh524/oob_entry",
+            "title": "rkrakesh524/oob_entry: oob_entry tfp0 kernel exploit for armv7 iOS (iOS 3.0–10.3.4), using CVE-2023-32434. We will publish a write-up detailing the methods in the coming weeks. 🐙",
+            "date_modified": "2026-05-10T20:05:07.000Z",
+            "date_published": "2025-08-13T09:19:29.000Z",
+            "author": {
+                "name": "rkrakesh524",
+                "url": "https://github.com/rkrakesh524"
             }
         },
         {
@@ -47,17 +58,6 @@
             "author": {
                 "name": "Hitplus",
                 "url": "https://github.com/Hitplus"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/120130511?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>oob_entry tfp0 kernel exploit for armv7 iOS (iOS 3.0–10.3.4), using CVE-2023-32434. We will publish a write-up detailing the methods in the coming weeks. 🐙</div>",
-            "url": "https://github.com/rkrakesh524/oob_entry",
-            "title": "rkrakesh524/oob_entry: oob_entry tfp0 kernel exploit for armv7 iOS (iOS 3.0–10.3.4), using CVE-2023-32434. We will publish a write-up detailing the methods in the coming weeks. 🐙",
-            "date_modified": "2026-05-10T15:44:57.000Z",
-            "date_published": "2025-08-13T09:19:29.000Z",
-            "author": {
-                "name": "rkrakesh524",
-                "url": "https://github.com/rkrakesh524"
             }
         },
         {
