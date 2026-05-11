@@ -6,6 +6,17 @@
     "description": "CVE-2023 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/214546144?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>🔒 Analyze the CVE-2023-39910 vulnerability in Libbitcoin Explorer to understand its impact on Bitcoin wallet security and protect your assets.</div>",
+            "url": "https://github.com/Hitplus/RingSide-Replay-Attack",
+            "title": "Hitplus/RingSide-Replay-Attack: 🔒 Analyze the CVE-2023-39910 vulnerability in Libbitcoin Explorer to understand its impact on Bitcoin wallet security and protect your assets.",
+            "date_modified": "2026-05-11T15:26:27.000Z",
+            "date_published": "2026-01-07T14:24:08.000Z",
+            "author": {
+                "name": "Hitplus",
+                "url": "https://github.com/Hitplus"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/120130511?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>oob_entry tfp0 kernel exploit for armv7 iOS (iOS 3.0–10.3.4), using CVE-2023-32434. We will publish a write-up detailing the methods in the coming weeks. 🐙</div>",
             "url": "https://github.com/rkrakesh524/oob_entry",
             "title": "rkrakesh524/oob_entry: oob_entry tfp0 kernel exploit for armv7 iOS (iOS 3.0–10.3.4), using CVE-2023-32434. We will publish a write-up detailing the methods in the coming weeks. 🐙",
@@ -25,17 +36,6 @@
             "author": {
                 "name": "olowostandard1",
                 "url": "https://github.com/olowostandard1"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/214546144?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>🔒 Analyze the CVE-2023-39910 vulnerability in Libbitcoin Explorer to understand its impact on Bitcoin wallet security and protect your assets.</div>",
-            "url": "https://github.com/Hitplus/RingSide-Replay-Attack",
-            "title": "Hitplus/RingSide-Replay-Attack: 🔒 Analyze the CVE-2023-39910 vulnerability in Libbitcoin Explorer to understand its impact on Bitcoin wallet security and protect your assets.",
-            "date_modified": "2026-05-11T10:40:45.000Z",
-            "date_published": "2026-01-07T14:24:08.000Z",
-            "author": {
-                "name": "Hitplus",
-                "url": "https://github.com/Hitplus"
             }
         },
         {
@@ -72,17 +72,6 @@
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/162082498?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
-            "url": "https://github.com/ycseo-git/CVE-2023-22527",
-            "title": "ycseo-git/CVE-2023-22527",
-            "date_modified": "2026-05-10T18:44:32.000Z",
-            "date_published": "2026-05-06T10:33:53.000Z",
-            "author": {
-                "name": "ycseo-git",
-                "url": "https://github.com/ycseo-git"
-            }
-        },
-        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/145467202?u=58d91d93f748d318c0ee6d20cb6ddb41a605a9aa&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>PoC exploit for CVE-2023-34468 — RCE via H2 RUNSCRIPT in Apache NiFi &lt;= 1.21.0</div>",
             "url": "https://github.com/Al3xx-sec/CVE-2023-34468-POC",
             "title": "Al3xx-sec/CVE-2023-34468-POC: PoC exploit for CVE-2023-34468 — RCE via H2 RUNSCRIPT in Apache NiFi <= 1.21.0",
@@ -94,7 +83,7 @@
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/14059710?u=c27868b5f3be28212e2237587a9466bd8d3487e3&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/14059710?u=244c028b687e239f489a804d9f71bd0040304a91&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
             "url": "https://github.com/murdok1982/Exploit-en-Python-para-CVE-2023-4147",
             "title": "murdok1982/Exploit-en-Python-para-CVE-2023-4147",
             "date_modified": "2026-05-10T09:33:15.000Z",
@@ -127,10 +116,10 @@
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/278160701?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Trailing header server side desync check for CVE-2023-45648</div>",
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/278160701?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Hang check </div>",
             "url": "https://github.com/latr0phil/CVE-2023-45648-Hang-Check",
-            "title": "latr0phil/CVE-2023-45648-Hang-Check: Trailing header server side desync check for CVE-2023-45648",
-            "date_modified": "2026-05-07T18:18:08.000Z",
+            "title": "latr0phil/CVE-2023-45648-Hang-Check: Hang check ",
+            "date_modified": "2026-05-11T17:08:15.000Z",
             "date_published": "2026-04-21T17:20:35.000Z",
             "author": {
                 "name": "latr0phil",
@@ -223,6 +212,17 @@
             "author": {
                 "name": "luisdevpentest",
                 "url": "https://github.com/luisdevpentest"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/139716223?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>My first hands-on Intel 471 threat hunting workshop experience investigating CVE-2023-46604 using Elastic SIEM, vulnerability intelligence, and post-exploitation detection.</div>",
+            "url": "https://github.com/Navya240/intel471-threat-hunting-cve-2023-46604",
+            "title": "Navya240/intel471-threat-hunting-cve-2023-46604: My first hands-on Intel 471 threat hunting workshop experience investigating CVE-2023-46604 using Elastic SIEM, vulnerability intelligence, and post-exploitation detection.",
+            "date_modified": "2026-04-30T04:54:49.000Z",
+            "date_published": "2026-04-30T04:38:32.000Z",
+            "author": {
+                "name": "Navya240",
+                "url": "https://github.com/Navya240"
             }
         }
     ]
