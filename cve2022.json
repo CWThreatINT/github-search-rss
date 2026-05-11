@@ -39,17 +39,6 @@
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/144248875?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2022-30190 — \"Follina\" — MSDT remote code execution via Word docs, no macro needed, Defender initially missed it</div>",
-            "url": "https://github.com/Dhananjayasj/CVE-2022-30190-Follina-",
-            "title": "Dhananjayasj/CVE-2022-30190-Follina-: CVE-2022-30190 — \"Follina\" — MSDT remote code execution via Word docs, no macro needed, Defender initially missed it",
-            "date_modified": "2026-05-08T06:49:02.000Z",
-            "date_published": "2026-05-08T06:49:01.000Z",
-            "author": {
-                "name": "Dhananjayasj",
-                "url": "https://github.com/Dhananjayasj"
-            }
-        },
-        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/58806494?u=a6ff4b8218423ccc287ff70708bae7f217b1434d&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Metasploit module for obtaining passwords for Kyocera printer address books in cleartext</div>",
             "url": "https://github.com/sh94ya/kyocera_cve_2022_1026",
             "title": "sh94ya/kyocera_cve_2022_1026: Metasploit module for obtaining passwords for Kyocera printer address books in cleartext",
@@ -223,6 +212,17 @@
             "author": {
                 "name": "KaraFlow",
                 "url": "https://github.com/KaraFlow"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/63208974?u=270967a5c2e0da336fb78a97ed4b6a5ce11e2a87&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Kyocera cred dumper based on CVE-2022-1026</div>",
+            "url": "https://github.com/D4RKMATT3R/KyoceraCredsDump",
+            "title": "D4RKMATT3R/KyoceraCredsDump: Kyocera cred dumper based on CVE-2022-1026",
+            "date_modified": "2026-04-22T15:18:59.000Z",
+            "date_published": "2026-04-22T15:04:12.000Z",
+            "author": {
+                "name": "D4RKMATT3R",
+                "url": "https://github.com/D4RKMATT3R"
             }
         }
     ]
