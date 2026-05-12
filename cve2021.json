@@ -6,10 +6,21 @@
     "description": "CVE-2021 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/51700892?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Telegram bot to test Dahua IP cameras for CVE-2021-33044 and CVE-2021-33045 auth bypass vulnerabilities</div>",
+            "url": "https://github.com/andriips/dahua-scanner-bot",
+            "title": "andriips/dahua-scanner-bot: Telegram bot to test Dahua IP cameras for CVE-2021-33044 and CVE-2021-33045 auth bypass vulnerabilities",
+            "date_modified": "2026-05-12T12:49:40.000Z",
+            "date_published": "2026-05-12T12:49:33.000Z",
+            "author": {
+                "name": "andriips",
+                "url": "https://github.com/andriips"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/182138871?u=5a625dbde10ddebc6f9772ae9e409b49e97a97f1&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Chrome extension that uses vulnerabilities CVE-2021-33044 and CVE-2021-33045 to log in to Dahua cameras without authentication.</div>",
             "url": "https://github.com/Bd-Mutant7/DahuaLoginBypass",
             "title": "Bd-Mutant7/DahuaLoginBypass: Chrome extension that uses vulnerabilities CVE-2021-33044 and CVE-2021-33045 to log in to Dahua cameras without authentication.",
-            "date_modified": "2026-05-12T10:28:28.000Z",
+            "date_modified": "2026-05-12T12:38:58.000Z",
             "date_published": "2026-03-28T17:42:44.000Z",
             "author": {
                 "name": "Bd-Mutant7",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "klmntbelgium",
                 "url": "https://github.com/klmntbelgium"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/169343360?u=3fd51787609361289cb4ba536c27a8a338991896&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
-            "url": "https://github.com/im2nerd/CVE-2021-41773",
-            "title": "im2nerd/CVE-2021-41773",
-            "date_modified": "2026-04-25T11:06:46.000Z",
-            "date_published": "2026-04-25T09:20:19.000Z",
-            "author": {
-                "name": "im2nerd",
-                "url": "https://github.com/im2nerd"
             }
         }
     ]
