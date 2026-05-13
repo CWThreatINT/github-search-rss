@@ -6,10 +6,21 @@
     "description": "CVE-2023 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/205400397?u=e7b524cebeef0372b7efbd0eebe3af3627b852f9&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>SSH Terrapin Attack Vulnerability Scanner (CVE-2023-48795)</div>",
+            "url": "https://github.com/fumioryoto/Terrapin-attack",
+            "title": "fumioryoto/Terrapin-attack: SSH Terrapin Attack Vulnerability Scanner (CVE-2023-48795)",
+            "date_modified": "2026-05-13T11:06:57.000Z",
+            "date_published": "2026-03-22T08:00:23.000Z",
+            "author": {
+                "name": "fumioryoto",
+                "url": "https://github.com/fumioryoto"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/214546144?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>🔒 Analyze the CVE-2023-39910 vulnerability in Libbitcoin Explorer to understand its impact on Bitcoin wallet security and protect your assets.</div>",
             "url": "https://github.com/Hitplus/RingSide-Replay-Attack",
             "title": "Hitplus/RingSide-Replay-Attack: 🔒 Analyze the CVE-2023-39910 vulnerability in Libbitcoin Explorer to understand its impact on Bitcoin wallet security and protect your assets.",
-            "date_modified": "2026-05-13T06:44:22.000Z",
+            "date_modified": "2026-05-13T09:53:23.000Z",
             "date_published": "2026-01-07T14:24:08.000Z",
             "author": {
                 "name": "Hitplus",
@@ -20,7 +31,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/120130511?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>oob_entry tfp0 kernel exploit for armv7 iOS (iOS 3.0–10.3.4), using CVE-2023-32434. We will publish a write-up detailing the methods in the coming weeks. 🐙</div>",
             "url": "https://github.com/rkrakesh524/oob_entry",
             "title": "rkrakesh524/oob_entry: oob_entry tfp0 kernel exploit for armv7 iOS (iOS 3.0–10.3.4), using CVE-2023-32434. We will publish a write-up detailing the methods in the coming weeks. 🐙",
-            "date_modified": "2026-05-13T05:37:40.000Z",
+            "date_modified": "2026-05-13T08:41:16.000Z",
             "date_published": "2025-08-13T09:19:29.000Z",
             "author": {
                 "name": "rkrakesh524",
@@ -130,7 +141,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/145467202?u=58d91d93f748d318c0ee6d20cb6ddb41a605a9aa&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>PoC exploit for CVE-2023-34468 — RCE via H2 RUNSCRIPT in Apache NiFi &lt;= 1.21.0</div>",
             "url": "https://github.com/Al3xx-sec/CVE-2023-34468-POC",
             "title": "Al3xx-sec/CVE-2023-34468-POC: PoC exploit for CVE-2023-34468 — RCE via H2 RUNSCRIPT in Apache NiFi <= 1.21.0",
-            "date_modified": "2026-05-10T18:40:55.000Z",
+            "date_modified": "2026-05-13T10:24:02.000Z",
             "date_published": "2026-05-10T15:43:28.000Z",
             "author": {
                 "name": "Al3xx-sec",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "pulentoski",
                 "url": "https://github.com/pulentoski"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/154598240?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>IDS/IPS lab for detecting and preventing Apache ActiveMQ RCE (CVE-2023-46604) using GVM, Nmap, Snort, iptables, and UFW.</div>",
-            "url": "https://github.com/trnguyen03/activemq-ids-ips-lab",
-            "title": "trnguyen03/activemq-ids-ips-lab: IDS/IPS lab for detecting and preventing Apache ActiveMQ RCE (CVE-2023-46604) using GVM, Nmap, Snort, iptables, and UFW.",
-            "date_modified": "2026-05-02T16:08:30.000Z",
-            "date_published": "2026-05-02T16:07:03.000Z",
-            "author": {
-                "name": "trnguyen03",
-                "url": "https://github.com/trnguyen03"
             }
         }
     ]
