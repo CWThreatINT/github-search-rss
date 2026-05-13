@@ -9,7 +9,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/120130511?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>oob_entry tfp0 kernel exploit for armv7 iOS (iOS 3.0–10.3.4), using CVE-2023-32434. We will publish a write-up detailing the methods in the coming weeks. 🐙</div>",
             "url": "https://github.com/rkrakesh524/oob_entry",
             "title": "rkrakesh524/oob_entry: oob_entry tfp0 kernel exploit for armv7 iOS (iOS 3.0–10.3.4), using CVE-2023-32434. We will publish a write-up detailing the methods in the coming weeks. 🐙",
-            "date_modified": "2026-05-13T01:58:38.000Z",
+            "date_modified": "2026-05-13T05:37:40.000Z",
             "date_published": "2025-08-13T09:19:29.000Z",
             "author": {
                 "name": "rkrakesh524",
@@ -17,14 +17,36 @@
             }
         },
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/206536465?u=df3bdb7f14c1b644eb91c936450251498fd83baa&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>My note while studying cve-2023-20938 vulnerability.</div>",
+            "url": "https://github.com/Cyb3rCr0wCC/cve-2023-20938",
+            "title": "Cyb3rCr0wCC/cve-2023-20938: My note while studying cve-2023-20938 vulnerability.",
+            "date_modified": "2026-05-13T04:20:00.000Z",
+            "date_published": "2026-05-13T04:14:22.000Z",
+            "author": {
+                "name": "Cyb3rCr0wCC",
+                "url": "https://github.com/Cyb3rCr0wCC"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/214546144?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>🔒 Analyze the CVE-2023-39910 vulnerability in Libbitcoin Explorer to understand its impact on Bitcoin wallet security and protect your assets.</div>",
             "url": "https://github.com/Hitplus/RingSide-Replay-Attack",
             "title": "Hitplus/RingSide-Replay-Attack: 🔒 Analyze the CVE-2023-39910 vulnerability in Libbitcoin Explorer to understand its impact on Bitcoin wallet security and protect your assets.",
-            "date_modified": "2026-05-13T00:20:56.000Z",
+            "date_modified": "2026-05-13T02:59:03.000Z",
             "date_published": "2026-01-07T14:24:08.000Z",
             "author": {
                 "name": "Hitplus",
                 "url": "https://github.com/Hitplus"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/151980876?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>TOP All bugbounty pentesting CVE-2023- POC Exp  RCE example payload  Things</div>",
+            "url": "https://github.com/GhostTroops/TOP",
+            "title": "GhostTroops/TOP: TOP All bugbounty pentesting CVE-2023- POC Exp  RCE example payload  Things",
+            "date_modified": "2026-05-13T02:43:18.000Z",
+            "date_published": "2022-03-19T01:54:15.000Z",
+            "author": {
+                "name": "GhostTroops",
+                "url": "https://github.com/GhostTroops"
             }
         },
         {
@@ -80,17 +102,6 @@
             "author": {
                 "name": "Jeanback1",
                 "url": "https://github.com/Jeanback1"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/151980876?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>TOP All bugbounty pentesting CVE-2023- POC Exp  RCE example payload  Things</div>",
-            "url": "https://github.com/GhostTroops/TOP",
-            "title": "GhostTroops/TOP: TOP All bugbounty pentesting CVE-2023- POC Exp  RCE example payload  Things",
-            "date_modified": "2026-05-12T16:45:23.000Z",
-            "date_published": "2022-03-19T01:54:15.000Z",
-            "author": {
-                "name": "GhostTroops",
-                "url": "https://github.com/GhostTroops"
             }
         },
         {
@@ -212,17 +223,6 @@
             "author": {
                 "name": "trnguyen03",
                 "url": "https://github.com/trnguyen03"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/70909693?u=0a3ee92d3ec0495000252e218623317fcec860e1&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A PoC exploit for CVE-2023-43208 - Mirth Connect Remote Code Execution (RCE)</div>",
-            "url": "https://github.com/K3ysTr0K3R/CVE-2023-43208-EXPLOIT",
-            "title": "K3ysTr0K3R/CVE-2023-43208-EXPLOIT: A PoC exploit for CVE-2023-43208 - Mirth Connect Remote Code Execution (RCE)",
-            "date_modified": "2026-04-30T23:24:51.000Z",
-            "date_published": "2024-03-15T12:03:51.000Z",
-            "author": {
-                "name": "K3ysTr0K3R",
-                "url": "https://github.com/K3ysTr0K3R"
             }
         }
     ]
