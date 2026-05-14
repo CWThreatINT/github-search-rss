@@ -6,17 +6,6 @@
     "description": "CVE-2023 FEED on GitHub",
     "items": [
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/247032962?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Writeup for Interpreter — HackTheBox Medium Linux box. CVE-2023-43208 Mirth Connect RCE, PBKDF2 hash cracking, Python eval() injection for root.</div>",
-            "url": "https://github.com/ledksv/Interpreter-HackTheBox",
-            "title": "ledksv/Interpreter-HackTheBox: Writeup for Interpreter — HackTheBox Medium Linux box. CVE-2023-43208 Mirth Connect RCE, PBKDF2 hash cracking, Python eval() injection for root.",
-            "date_modified": "2026-05-14T21:56:29.000Z",
-            "date_published": "2026-05-05T09:11:39.000Z",
-            "author": {
-                "name": "ledksv",
-                "url": "https://github.com/ledksv"
-            }
-        },
-        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/127609476?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div> A comprehensive full-lifecycle penetration testing project on Joomla 4.2.5 exploiting CVE-2023-23752 inside a Dockerized lab environment</div>",
             "url": "https://github.com/Marwan651/Joomla-CMS-Full-Lifecycle-Pentest",
             "title": "Marwan651/Joomla-CMS-Full-Lifecycle-Pentest:  A comprehensive full-lifecycle penetration testing project on Joomla 4.2.5 exploiting CVE-2023-23752 inside a Dockerized lab environment",
@@ -223,6 +212,17 @@
             "author": {
                 "name": "Catherines77",
                 "url": "https://github.com/Catherines77"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/49017853?u=cbd0c8b79318bdb020820b9809385b271fc9d34f&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
+            "url": "https://github.com/Caliburn9/CVE-2023-21716-Analysis-ICT287",
+            "title": "Caliburn9/CVE-2023-21716-Analysis-ICT287",
+            "date_modified": "2026-05-07T16:16:24.000Z",
+            "date_published": "2026-05-07T16:07:39.000Z",
+            "author": {
+                "name": "Caliburn9",
+                "url": "https://github.com/Caliburn9"
             }
         }
     ]
