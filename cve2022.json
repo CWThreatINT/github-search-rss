@@ -72,6 +72,17 @@
             }
         },
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/40566803?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2022-0847 used to achieve container escape 利用CVE-2022-0847 (Dirty Pipe) 实现容器逃逸</div>",
+            "url": "https://github.com/greenhandatsjtu/CVE-2022-0847-Container-Escape",
+            "title": "greenhandatsjtu/CVE-2022-0847-Container-Escape: CVE-2022-0847 used to achieve container escape 利用CVE-2022-0847 (Dirty Pipe) 实现容器逃逸",
+            "date_modified": "2026-05-14T16:01:53.000Z",
+            "date_published": "2022-06-04T08:31:32.000Z",
+            "author": {
+                "name": "greenhandatsjtu",
+                "url": "https://github.com/greenhandatsjtu"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/270854248?u=b63c2f946306570af8ae8f4e05cb076faf02d145&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
             "url": "https://github.com/NeoArtemis37/OverlayFS-PrivEsc-CVE-2022-0944",
             "title": "NeoArtemis37/OverlayFS-PrivEsc-CVE-2022-0944",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "KaraFlow",
                 "url": "https://github.com/KaraFlow"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/63208974?u=270967a5c2e0da336fb78a97ed4b6a5ce11e2a87&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Kyocera cred dumper based on CVE-2022-1026</div>",
-            "url": "https://github.com/D4RKMATT3R/KyoceraCredsDump",
-            "title": "D4RKMATT3R/KyoceraCredsDump: Kyocera cred dumper based on CVE-2022-1026",
-            "date_modified": "2026-04-22T15:18:59.000Z",
-            "date_published": "2026-04-22T15:04:12.000Z",
-            "author": {
-                "name": "D4RKMATT3R",
-                "url": "https://github.com/D4RKMATT3R"
             }
         }
     ]
