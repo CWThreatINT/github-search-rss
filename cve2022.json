@@ -6,6 +6,17 @@
     "description": "CVE-2022 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/252552620?u=b06db0f8529fd827148f35c447d7edf571f80b6d&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>rooting an ATOZEE P12 on Android 14 using CVE-2022-38694 — because fastboot oem unlock said no, so we found another way.</div>",
+            "url": "https://github.com/Phlegmelm/CRACK12",
+            "title": "Phlegmelm/CRACK12: rooting an ATOZEE P12 on Android 14 using CVE-2022-38694 — because fastboot oem unlock said no, so we found another way.",
+            "date_modified": "2026-05-14T20:06:21.000Z",
+            "date_published": "2026-05-14T18:38:18.000Z",
+            "author": {
+                "name": "Phlegmelm",
+                "url": "https://github.com/Phlegmelm"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/199966715?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2022-22947 vulnerability task</div>",
             "url": "https://github.com/SanderSchepers1993/CyberSec2026",
             "title": "SanderSchepers1993/CyberSec2026: CVE-2022-22947 vulnerability task",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "LSinus",
                 "url": "https://github.com/LSinus"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/277402864?u=1c6e22cb02bc023cfcc0c7c88f2fded30b3a5267&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>ACEmanager PoC exploit</div>",
-            "url": "https://github.com/KaraFlow/CVE-2022-46649",
-            "title": "KaraFlow/CVE-2022-46649: ACEmanager PoC exploit",
-            "date_modified": "2026-04-25T06:11:53.000Z",
-            "date_published": "2026-04-25T06:06:01.000Z",
-            "author": {
-                "name": "KaraFlow",
-                "url": "https://github.com/KaraFlow"
             }
         }
     ]
