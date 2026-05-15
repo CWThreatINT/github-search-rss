@@ -9,11 +9,22 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/182138871?u=5a625dbde10ddebc6f9772ae9e409b49e97a97f1&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Chrome extension that uses vulnerabilities CVE-2021-33044 and CVE-2021-33045 to log in to Dahua cameras without authentication.</div>",
             "url": "https://github.com/Bd-Mutant7/DahuaLoginBypass",
             "title": "Bd-Mutant7/DahuaLoginBypass: Chrome extension that uses vulnerabilities CVE-2021-33044 and CVE-2021-33045 to log in to Dahua cameras without authentication.",
-            "date_modified": "2026-05-15T17:10:52.000Z",
+            "date_modified": "2026-05-15T18:55:03.000Z",
             "date_published": "2026-03-28T17:42:44.000Z",
             "author": {
                 "name": "Bd-Mutant7",
                 "url": "https://github.com/Bd-Mutant7"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/5671969?u=7a91c7044e1d06b8bffa69bcc27b5a39ba75dd11&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2021-21425 - GravCMS 1.10.7 Unauthenticated RCE via Scheduler. Improved exploit with CLI args and auto base64 encoding.</div>",
+            "url": "https://github.com/TeddyEngel/CVE-2021-21425",
+            "title": "TeddyEngel/CVE-2021-21425: CVE-2021-21425 - GravCMS 1.10.7 Unauthenticated RCE via Scheduler. Improved exploit with CLI args and auto base64 encoding.",
+            "date_modified": "2026-05-15T17:59:13.000Z",
+            "date_published": "2026-05-15T17:42:09.000Z",
+            "author": {
+                "name": "TeddyEngel",
+                "url": "https://github.com/TeddyEngel"
             }
         },
         {
@@ -209,17 +220,6 @@
             "title": "sanupl/CVE-2021-46072: CVE-2021-46072 - A Stored Cross Site Scripting (XSS) vulnerability exists in Vehicle Service Management System 1.0 via the Service List Section in login panel.",
             "date_modified": "2026-05-12T18:01:59.000Z",
             "date_published": "2022-01-14T19:34:50.000Z",
-            "author": {
-                "name": "sanupl",
-                "url": "https://github.com/sanupl"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/61007700?u=ec36f17d6bbaa7dff44c3d92b3b949777d443af2&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2021-46073 - A Stored Cross Site Scripting (XSS) vulnerability exists in Sourcecodester Vehicle Service Management System 1.0 via the User List Section in login panel.</div>",
-            "url": "https://github.com/sanupl/Vehicle-Service-Management-System-User-List-Stored-Cross-Site-Scripting-XSS",
-            "title": "sanupl/Vehicle-Service-Management-System-User-List-Stored-Cross-Site-Scripting-XSS: CVE-2021-46073 - A Stored Cross Site Scripting (XSS) vulnerability exists in Sourcecodester Vehicle Service Management System 1.0 via the User List Section in login panel.",
-            "date_modified": "2026-05-12T18:01:49.000Z",
-            "date_published": "2021-12-28T14:29:44.000Z",
             "author": {
                 "name": "sanupl",
                 "url": "https://github.com/sanupl"
