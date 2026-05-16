@@ -6,10 +6,10 @@
     "description": "CVE-2023 FEED on GitHub",
     "items": [
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/79040327?u=4ef3261416b9bcd641b4456f11ece214829e63b7&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/79040327?u=4ef3261416b9bcd641b4456f11ece214829e63b7&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE affecting Git prior to versions 2.39.2, 2.38.4, 2.37.6, 2.36.5, 2.35.7, 2.34.7, 2.33.7, 2.32.6, 2.31.7, and 2.30.8.</div>",
             "url": "https://github.com/tralsesec/CVE-2023-23946",
-            "title": "tralsesec/CVE-2023-23946",
-            "date_modified": "2026-05-16T17:08:07.000Z",
+            "title": "tralsesec/CVE-2023-23946: CVE affecting Git prior to versions 2.39.2, 2.38.4, 2.37.6, 2.36.5, 2.35.7, 2.34.7, 2.33.7, 2.32.6, 2.31.7, and 2.30.8.",
+            "date_modified": "2026-05-16T17:56:29.000Z",
             "date_published": "2026-05-16T17:08:07.000Z",
             "author": {
                 "name": "tralsesec",
@@ -17,10 +17,10 @@
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/79040327?u=4ef3261416b9bcd641b4456f11ece214829e63b7&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/79040327?u=4ef3261416b9bcd641b4456f11ece214829e63b7&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE affecting ClamAV versions 1.0.0 and earlier, 0.105.1 and earlier, and 0.103.7 and earlier.</div>",
             "url": "https://github.com/tralsesec/CVE-2023-20052",
-            "title": "tralsesec/CVE-2023-20052",
-            "date_modified": "2026-05-16T17:00:22.000Z",
+            "title": "tralsesec/CVE-2023-20052: CVE affecting ClamAV versions 1.0.0 and earlier, 0.105.1 and earlier, and 0.103.7 and earlier.",
+            "date_modified": "2026-05-16T17:56:47.000Z",
             "date_published": "2026-05-16T17:00:22.000Z",
             "author": {
                 "name": "tralsesec",

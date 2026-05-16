@@ -6,10 +6,21 @@
     "description": "CVE-2021 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/34131293?u=ce0541a480a2188a700c1291f1d5a848d321b733&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>This exploit is based on CVE-2021-33393 and was built upon the original exploit by Mücahit Saratar, extending it to achieve a reverse shell with root privileges.</div>",
+            "url": "https://github.com/joaoaugustom/IPFire_2.25_RCE_Authenticated",
+            "title": "joaoaugustom/IPFire_2.25_RCE_Authenticated: This exploit is based on CVE-2021-33393 and was built upon the original exploit by Mücahit Saratar, extending it to achieve a reverse shell with root privileges.",
+            "date_modified": "2026-05-16T18:21:47.000Z",
+            "date_published": "2026-05-16T18:08:14.000Z",
+            "author": {
+                "name": "joaoaugustom",
+                "url": "https://github.com/joaoaugustom"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/182138871?u=5a625dbde10ddebc6f9772ae9e409b49e97a97f1&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Chrome extension that uses vulnerabilities CVE-2021-33044 and CVE-2021-33045 to log in to Dahua cameras without authentication.</div>",
             "url": "https://github.com/Bd-Mutant7/DahuaLoginBypass",
             "title": "Bd-Mutant7/DahuaLoginBypass: Chrome extension that uses vulnerabilities CVE-2021-33044 and CVE-2021-33045 to log in to Dahua cameras without authentication.",
-            "date_modified": "2026-05-16T17:17:52.000Z",
+            "date_modified": "2026-05-16T18:10:33.000Z",
             "date_published": "2026-03-28T17:42:44.000Z",
             "author": {
                 "name": "Bd-Mutant7",
@@ -209,17 +220,6 @@
             "title": "sanupl/Vehicle-Service-Management-System-MyAccount-Stored-Cross-Site-Scripting-XSS: CVE-2021-46068 - A Stored Cross Site Scripting (XSS) vulnerability exists in Vehicle Service Management System 1.0 via the My Account Section in login panel.",
             "date_modified": "2026-05-12T18:02:16.000Z",
             "date_published": "2021-12-27T22:07:08.000Z",
-            "author": {
-                "name": "sanupl",
-                "url": "https://github.com/sanupl"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/61007700?u=ec36f17d6bbaa7dff44c3d92b3b949777d443af2&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2021-46068 - A Stored Cross Site Scripting (XSS) vulnerability exists in Vehicle Service Management System 1.0 via the My Account Section in login panel.</div>",
-            "url": "https://github.com/sanupl/CVE-2021-46068",
-            "title": "sanupl/CVE-2021-46068: CVE-2021-46068 - A Stored Cross Site Scripting (XSS) vulnerability exists in Vehicle Service Management System 1.0 via the My Account Section in login panel.",
-            "date_modified": "2026-05-12T18:02:07.000Z",
-            "date_published": "2022-01-14T18:04:01.000Z",
             "author": {
                 "name": "sanupl",
                 "url": "https://github.com/sanupl"
