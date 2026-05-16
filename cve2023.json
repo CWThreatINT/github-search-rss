@@ -6,6 +6,17 @@
     "description": "CVE-2023 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/214546144?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>🔒 Analyze the CVE-2023-39910 vulnerability in Libbitcoin Explorer to understand its impact on Bitcoin wallet security and protect your assets.</div>",
+            "url": "https://github.com/Hitplus/RingSide-Replay-Attack",
+            "title": "Hitplus/RingSide-Replay-Attack: 🔒 Analyze the CVE-2023-39910 vulnerability in Libbitcoin Explorer to understand its impact on Bitcoin wallet security and protect your assets.",
+            "date_modified": "2026-05-16T19:56:22.000Z",
+            "date_published": "2026-01-07T14:24:08.000Z",
+            "author": {
+                "name": "Hitplus",
+                "url": "https://github.com/Hitplus"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/34131293?u=ce0541a480a2188a700c1291f1d5a848d321b733&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>This exploit is based on CVE-2023-26360 (<a href=\"https://nvd.nist.gov/vuln/detail/CVE-2023-26360\" class=\"Link--inTextBlock\" rel=\"nofollow\">https://nvd.nist.gov/vuln/detail/CVE-2023-26360</a>) and was built on top of the Metasploit module and the jakabakos/CVE-2023-26360-adobe-coldfusion-rce-exploit.</div>",
             "url": "https://github.com/joaoaugustom/Adobe_ColdFusion_RCE_Unauthenticated",
             "title": "joaoaugustom/Adobe_ColdFusion_RCE_Unauthenticated: This exploit is based on CVE-2023-26360 (https://nvd.nist.gov/vuln/detail/CVE-2023-26360) and was built on top of the Metasploit module and the jakabakos/CVE-2023-26360-adobe-coldfusion-rce-exploit.",
@@ -47,17 +58,6 @@
             "author": {
                 "name": "tralsesec",
                 "url": "https://github.com/tralsesec"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/214546144?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>🔒 Analyze the CVE-2023-39910 vulnerability in Libbitcoin Explorer to understand its impact on Bitcoin wallet security and protect your assets.</div>",
-            "url": "https://github.com/Hitplus/RingSide-Replay-Attack",
-            "title": "Hitplus/RingSide-Replay-Attack: 🔒 Analyze the CVE-2023-39910 vulnerability in Libbitcoin Explorer to understand its impact on Bitcoin wallet security and protect your assets.",
-            "date_modified": "2026-05-16T16:03:22.000Z",
-            "date_published": "2026-01-07T14:24:08.000Z",
-            "author": {
-                "name": "Hitplus",
-                "url": "https://github.com/Hitplus"
             }
         },
         {
