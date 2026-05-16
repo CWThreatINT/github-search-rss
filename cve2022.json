@@ -6,6 +6,17 @@
     "description": "CVE-2022 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/88181924?u=f10d6f4f37e85c8a7339d69b5fc375d22f36c318&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Bootloader unlock (CVE-2022-38694) &amp; root guide for Realme C53 / RMX3760 (Unisoc T612)</div>",
+            "url": "https://github.com/Gopartner/realme-c53-unlock-root",
+            "title": "Gopartner/realme-c53-unlock-root: Bootloader unlock (CVE-2022-38694) & root guide for Realme C53 / RMX3760 (Unisoc T612)",
+            "date_modified": "2026-05-16T16:41:05.000Z",
+            "date_published": "2026-05-16T16:16:31.000Z",
+            "author": {
+                "name": "Gopartner",
+                "url": "https://github.com/Gopartner"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/80516843?u=663edc5fb9c422ca3e98c440eea893015505a54a&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>permite a un atacante remoto no autenticado leer archivos arbitrarios del sistema afectado mediante una inyección de XML External Entity (XXE) </div>",
             "url": "https://github.com/fevar54/CVE-2026-20224---XXE-Injection-en-Cisco-Catalyst-SD-WAN-Manager",
             "title": "fevar54/CVE-2026-20224---XXE-Injection-en-Cisco-Catalyst-SD-WAN-Manager: permite a un atacante remoto no autenticado leer archivos arbitrarios del sistema afectado mediante una inyección de XML External Entity (XXE) ",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "melikesraoz",
                 "url": "https://github.com/melikesraoz"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/266545470?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Biblioteca curada de referência canônica em cybersegurança (pt-BR): 213 arquivos cobrindo MITRE ATT&amp;CK/ATLAS/D3FEND/CAPEC, OWASP, NIST CSF/SP800-53/SSDF, ISO 27001:2022, CIS Controls v8, PCI DSS v4.0, CVE/CWE/CVSS, STIX/TAXII, threat intel e mais.</div>",
-            "url": "https://github.com/izaurogabriel-hash/seguranca",
-            "title": "izaurogabriel-hash/seguranca: Biblioteca curada de referência canônica em cybersegurança (pt-BR): 213 arquivos cobrindo MITRE ATT&CK/ATLAS/D3FEND/CAPEC, OWASP, NIST CSF/SP800-53/SSDF, ISO 27001:2022, CIS Controls v8, PCI DSS v4.0, CVE/CWE/CVSS, STIX/TAXII, threat intel e mais.",
-            "date_modified": "2026-05-01T02:24:46.000Z",
-            "date_published": "2026-04-07T16:27:01.000Z",
-            "author": {
-                "name": "izaurogabriel-hash",
-                "url": "https://github.com/izaurogabriel-hash"
             }
         }
     ]
