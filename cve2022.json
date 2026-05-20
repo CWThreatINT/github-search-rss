@@ -6,6 +6,17 @@
     "description": "CVE-2022 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/167197155?u=fca7135826e4eb65be82a36e871c6488d1406208&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
+            "url": "https://github.com/melikesraoz/cve-2022-39227-jwt-auth-bypass-demo",
+            "title": "melikesraoz/cve-2022-39227-jwt-auth-bypass-demo",
+            "date_modified": "2026-05-20T21:52:39.000Z",
+            "date_published": "2026-04-27T23:32:48.000Z",
+            "author": {
+                "name": "melikesraoz",
+                "url": "https://github.com/melikesraoz"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/88181924?u=f10d6f4f37e85c8a7339d69b5fc375d22f36c318&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Bootloader unlock (CVE-2022-38694) &amp; root guide for Realme C53 / RMX3760 (Unisoc T612)</div>",
             "url": "https://github.com/Gopartner/realme-c53-unlock-root",
             "title": "Gopartner/realme-c53-unlock-root: Bootloader unlock (CVE-2022-38694) & root guide for Realme C53 / RMX3760 (Unisoc T612)",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "ngtuonghung",
                 "url": "https://github.com/ngtuonghung"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/227201998?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>this is  a repo who is facing a escalation issue in their linux system and a news regarding problem of \"Dirty pipeline\" </div>",
-            "url": "https://github.com/gaganhm3018-art/CVE-2022-0847-Dirty-Pipe-",
-            "title": "gaganhm3018-art/CVE-2022-0847-Dirty-Pipe-: this is  a repo who is facing a escalation issue in their linux system and a news regarding problem of \"Dirty pipeline\" ",
-            "date_modified": "2026-05-02T10:00:24.000Z",
-            "date_published": "2026-05-02T09:14:52.000Z",
-            "author": {
-                "name": "gaganhm3018-art",
-                "url": "https://github.com/gaganhm3018-art"
             }
         }
     ]
