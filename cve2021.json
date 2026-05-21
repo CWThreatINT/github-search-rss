@@ -6,6 +6,17 @@
     "description": "CVE-2021 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/182138871?u=5a625dbde10ddebc6f9772ae9e409b49e97a97f1&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Chrome extension that uses vulnerabilities CVE-2021-33044 and CVE-2021-33045 to log in to Dahua cameras without authentication.</div>",
+            "url": "https://github.com/Bd-Mutant7/DahuaLoginBypass",
+            "title": "Bd-Mutant7/DahuaLoginBypass: Chrome extension that uses vulnerabilities CVE-2021-33044 and CVE-2021-33045 to log in to Dahua cameras without authentication.",
+            "date_modified": "2026-05-21T21:09:05.000Z",
+            "date_published": "2026-03-28T17:42:44.000Z",
+            "author": {
+                "name": "Bd-Mutant7",
+                "url": "https://github.com/Bd-Mutant7"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/20546638?u=f5e325b8f6dd9b7e7512aaa600301a413cfb9d04&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Deep-dive write-up for CVE-2021-35036, plus an adapted VMG8825-B50B genpass lab showing how Zyxel super-admin, TR-069, and FTPS credentials could be exposed across shared firmware.</div>",
             "url": "https://github.com/minanagehsalalma/zyxel-cve-2021-35036-super-admin-password-leak",
             "title": "minanagehsalalma/zyxel-cve-2021-35036-super-admin-password-leak: Deep-dive write-up for CVE-2021-35036, plus an adapted VMG8825-B50B genpass lab showing how Zyxel super-admin, TR-069, and FTPS credentials could be exposed across shared firmware.",
@@ -25,17 +36,6 @@
             "author": {
                 "name": "kaisen-bot",
                 "url": "https://github.com/kaisen-bot"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/182138871?u=5a625dbde10ddebc6f9772ae9e409b49e97a97f1&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Chrome extension that uses vulnerabilities CVE-2021-33044 and CVE-2021-33045 to log in to Dahua cameras without authentication.</div>",
-            "url": "https://github.com/Bd-Mutant7/DahuaLoginBypass",
-            "title": "Bd-Mutant7/DahuaLoginBypass: Chrome extension that uses vulnerabilities CVE-2021-33044 and CVE-2021-33045 to log in to Dahua cameras without authentication.",
-            "date_modified": "2026-05-21T19:22:35.000Z",
-            "date_published": "2026-03-28T17:42:44.000Z",
-            "author": {
-                "name": "Bd-Mutant7",
-                "url": "https://github.com/Bd-Mutant7"
             }
         },
         {
