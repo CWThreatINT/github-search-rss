@@ -6,10 +6,21 @@
     "description": "CVE-2021 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/20546638?u=f5e325b8f6dd9b7e7512aaa600301a413cfb9d04&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Zyxel super-admin credential exposure write-up across CPE/ONT/LTE/5G firmware, with an adapted VMG8825-B50B genpass lab.</div>",
+            "url": "https://github.com/minanagehsalalma/zyxel-cve-2021-35036-super-admin-password-leak",
+            "title": "minanagehsalalma/zyxel-cve-2021-35036-super-admin-password-leak: Zyxel super-admin credential exposure write-up across CPE/ONT/LTE/5G firmware, with an adapted VMG8825-B50B genpass lab.",
+            "date_modified": "2026-05-22T21:40:57.000Z",
+            "date_published": "2026-05-19T11:22:20.000Z",
+            "author": {
+                "name": "minanagehsalalma",
+                "url": "https://github.com/minanagehsalalma"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/182138871?u=5a625dbde10ddebc6f9772ae9e409b49e97a97f1&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Chrome extension that uses vulnerabilities CVE-2021-33044 and CVE-2021-33045 to log in to Dahua cameras without authentication.</div>",
             "url": "https://github.com/Bd-Mutant7/DahuaLoginBypass",
             "title": "Bd-Mutant7/DahuaLoginBypass: Chrome extension that uses vulnerabilities CVE-2021-33044 and CVE-2021-33045 to log in to Dahua cameras without authentication.",
-            "date_modified": "2026-05-22T20:18:54.000Z",
+            "date_modified": "2026-05-22T21:39:14.000Z",
             "date_published": "2026-03-28T17:42:44.000Z",
             "author": {
                 "name": "Bd-Mutant7",
@@ -20,22 +31,11 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/206778611?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>🚀 Enhance your penetration testing with PwnKit Helper, a simple tool for exploiting the CVE-2021-4034 vulnerability in pkexec for local privilege escalation.</div>",
             "url": "https://github.com/kaisen-bot/pwnkit-helper",
             "title": "kaisen-bot/pwnkit-helper: 🚀 Enhance your penetration testing with PwnKit Helper, a simple tool for exploiting the CVE-2021-4034 vulnerability in pkexec for local privilege escalation.",
-            "date_modified": "2026-05-22T16:46:42.000Z",
+            "date_modified": "2026-05-22T21:15:49.000Z",
             "date_published": "2025-10-01T09:53:03.000Z",
             "author": {
                 "name": "kaisen-bot",
                 "url": "https://github.com/kaisen-bot"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/20546638?u=f5e325b8f6dd9b7e7512aaa600301a413cfb9d04&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Deep-dive write-up for CVE-2021-35036, plus an adapted VMG8825-B50B genpass lab showing how Zyxel super-admin, TR-069, and FTPS credentials could be exposed across shared firmware.</div>",
-            "url": "https://github.com/minanagehsalalma/zyxel-cve-2021-35036-super-admin-password-leak",
-            "title": "minanagehsalalma/zyxel-cve-2021-35036-super-admin-password-leak: Deep-dive write-up for CVE-2021-35036, plus an adapted VMG8825-B50B genpass lab showing how Zyxel super-admin, TR-069, and FTPS credentials could be exposed across shared firmware.",
-            "date_modified": "2026-05-22T12:03:15.000Z",
-            "date_published": "2026-05-19T11:22:20.000Z",
-            "author": {
-                "name": "minanagehsalalma",
-                "url": "https://github.com/minanagehsalalma"
             }
         },
         {
