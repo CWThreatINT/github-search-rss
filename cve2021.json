@@ -6,10 +6,21 @@
     "description": "CVE-2021 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/140343899?u=85c434b5046b636e9a2298440e2a3822f035ef4c&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
+            "url": "https://github.com/Leemyunglyul/cve-2021-4034-mock",
+            "title": "Leemyunglyul/cve-2021-4034-mock",
+            "date_modified": "2026-05-24T15:42:05.000Z",
+            "date_published": "2026-05-24T05:51:25.000Z",
+            "author": {
+                "name": "Leemyunglyul",
+                "url": "https://github.com/Leemyunglyul"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/182138871?u=5a625dbde10ddebc6f9772ae9e409b49e97a97f1&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Chrome extension that uses vulnerabilities CVE-2021-33044 and CVE-2021-33045 to log in to Dahua cameras without authentication.</div>",
             "url": "https://github.com/Bd-Mutant7/DahuaLoginBypass",
             "title": "Bd-Mutant7/DahuaLoginBypass: Chrome extension that uses vulnerabilities CVE-2021-33044 and CVE-2021-33045 to log in to Dahua cameras without authentication.",
-            "date_modified": "2026-05-24T14:17:06.000Z",
+            "date_modified": "2026-05-24T15:38:33.000Z",
             "date_published": "2026-03-28T17:42:44.000Z",
             "author": {
                 "name": "Bd-Mutant7",
@@ -25,17 +36,6 @@
             "author": {
                 "name": "kaisen-bot",
                 "url": "https://github.com/kaisen-bot"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/140343899?u=85c434b5046b636e9a2298440e2a3822f035ef4c&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
-            "url": "https://github.com/Leemyunglyul/cve-2021-4034-mock",
-            "title": "Leemyunglyul/cve-2021-4034-mock",
-            "date_modified": "2026-05-24T10:28:30.000Z",
-            "date_published": "2026-05-24T05:51:25.000Z",
-            "author": {
-                "name": "Leemyunglyul",
-                "url": "https://github.com/Leemyunglyul"
             }
         },
         {
@@ -86,7 +86,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/16516497?u=89b3d13f301b5a05002ae883221b9af24ffdd726&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Laravel RCE Exploit PoC - CVE-2021-3129 (user-friendly with automatic log path detection)</div>",
             "url": "https://github.com/joshuavanderpoll/CVE-2021-3129",
             "title": "joshuavanderpoll/CVE-2021-3129: Laravel RCE Exploit PoC - CVE-2021-3129 (user-friendly with automatic log path detection)",
-            "date_modified": "2026-05-23T10:51:56.000Z",
+            "date_modified": "2026-05-24T15:34:17.000Z",
             "date_published": "2022-04-16T17:22:55.000Z",
             "author": {
                 "name": "joshuavanderpoll",
