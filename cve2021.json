@@ -6,10 +6,21 @@
     "description": "CVE-2021 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/182138871?u=5a625dbde10ddebc6f9772ae9e409b49e97a97f1&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Chrome extension that uses vulnerabilities CVE-2021-33044 and CVE-2021-33045 to log in to Dahua cameras without authentication.</div>",
+            "url": "https://github.com/Bd-Mutant7/DahuaLoginBypass",
+            "title": "Bd-Mutant7/DahuaLoginBypass: Chrome extension that uses vulnerabilities CVE-2021-33044 and CVE-2021-33045 to log in to Dahua cameras without authentication.",
+            "date_modified": "2026-05-25T15:42:53.000Z",
+            "date_published": "2026-03-28T17:42:44.000Z",
+            "author": {
+                "name": "Bd-Mutant7",
+                "url": "https://github.com/Bd-Mutant7"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/20546638?u=f5e325b8f6dd9b7e7512aaa600301a413cfb9d04&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2021-21735 write-up: ZTE ZXHN H168N V3.5 wizard-page information leak, firmware routing flaw, and the path from exposed PPPoE/WLAN data to full admin compromise.</div>",
             "url": "https://github.com/minanagehsalalma/cve-2021-21735-zte-zxhn-h168n-admin-compromise",
             "title": "minanagehsalalma/cve-2021-21735-zte-zxhn-h168n-admin-compromise: CVE-2021-21735 write-up: ZTE ZXHN H168N V3.5 wizard-page information leak, firmware routing flaw, and the path from exposed PPPoE/WLAN data to full admin compromise.",
-            "date_modified": "2026-05-25T14:08:01.000Z",
+            "date_modified": "2026-05-25T16:40:37.000Z",
             "date_published": "2026-05-19T11:26:32.000Z",
             "author": {
                 "name": "minanagehsalalma",
@@ -25,17 +36,6 @@
             "author": {
                 "name": "kaisen-bot",
                 "url": "https://github.com/kaisen-bot"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/182138871?u=5a625dbde10ddebc6f9772ae9e409b49e97a97f1&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Chrome extension that uses vulnerabilities CVE-2021-33044 and CVE-2021-33045 to log in to Dahua cameras without authentication.</div>",
-            "url": "https://github.com/Bd-Mutant7/DahuaLoginBypass",
-            "title": "Bd-Mutant7/DahuaLoginBypass: Chrome extension that uses vulnerabilities CVE-2021-33044 and CVE-2021-33045 to log in to Dahua cameras without authentication.",
-            "date_modified": "2026-05-25T12:41:56.000Z",
-            "date_published": "2026-03-28T17:42:44.000Z",
-            "author": {
-                "name": "Bd-Mutant7",
-                "url": "https://github.com/Bd-Mutant7"
             }
         },
         {
