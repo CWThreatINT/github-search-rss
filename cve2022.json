@@ -6,6 +6,17 @@
     "description": "CVE-2022 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/108614485?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Technical report about CVE-2022-22947 in Spring Cloud Gateway and its exploitation through exposed Actuator endpoints.</div>",
+            "url": "https://github.com/ciri3/spring-cloud-gateway-cve-2022-22947-report",
+            "title": "ciri3/spring-cloud-gateway-cve-2022-22947-report: Technical report about CVE-2022-22947 in Spring Cloud Gateway and its exploitation through exposed Actuator endpoints.",
+            "date_modified": "2026-05-29T17:35:04.000Z",
+            "date_published": "2026-05-29T17:34:32.000Z",
+            "author": {
+                "name": "ciri3",
+                "url": "https://github.com/ciri3"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/72667797?u=7c99437fb4bd7443732052f60f1dc5308d7fdc5f&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Automated CVE-2022-26923 Exploitation (Certifried)</div>",
             "url": "https://github.com/Nefhara/CVE-2022-26923",
             "title": "Nefhara/CVE-2022-26923: Automated CVE-2022-26923 Exploitation (Certifried)",
@@ -209,17 +220,6 @@
             "title": "Ozozuz/Qlik-View-12.60-Including-SR-Stored-Cross-Site-Scripting-CVE-2022-42248",
             "date_modified": "2026-05-06T09:25:42.000Z",
             "date_published": "2023-02-27T13:02:16.000Z",
-            "author": {
-                "name": "Ozozuz",
-                "url": "https://github.com/Ozozuz"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/32651700?u=6394c7776c1aa12bd0a8de49cc4f0ee625c19bf1&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
-            "url": "https://github.com/Ozozuz/Magnolia-CMS-6.2.19-Stored-Cross-Site-Scripting-CVE-2022-33098",
-            "title": "Ozozuz/Magnolia-CMS-6.2.19-Stored-Cross-Site-Scripting-CVE-2022-33098",
-            "date_modified": "2026-05-06T09:21:50.000Z",
-            "date_published": "2023-02-27T12:54:55.000Z",
             "author": {
                 "name": "Ozozuz",
                 "url": "https://github.com/Ozozuz"
