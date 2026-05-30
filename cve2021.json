@@ -9,11 +9,22 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/182138871?u=5a625dbde10ddebc6f9772ae9e409b49e97a97f1&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Chrome extension that uses vulnerabilities CVE-2021-33044 and CVE-2021-33045 to log in to Dahua cameras without authentication.</div>",
             "url": "https://github.com/Bd-Mutant7/DahuaLoginBypass",
             "title": "Bd-Mutant7/DahuaLoginBypass: Chrome extension that uses vulnerabilities CVE-2021-33044 and CVE-2021-33045 to log in to Dahua cameras without authentication.",
-            "date_modified": "2026-05-30T10:14:13.000Z",
+            "date_modified": "2026-05-30T11:46:44.000Z",
             "date_published": "2026-03-28T17:42:44.000Z",
             "author": {
                 "name": "Bd-Mutant7",
                 "url": "https://github.com/Bd-Mutant7"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/74922912?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
+            "url": "https://github.com/jomjosh17/Log4Shell-CVE-2021-44228-",
+            "title": "jomjosh17/Log4Shell-CVE-2021-44228-",
+            "date_modified": "2026-05-30T11:23:59.000Z",
+            "date_published": "2026-05-30T11:22:48.000Z",
+            "author": {
+                "name": "jomjosh17",
+                "url": "https://github.com/jomjosh17"
             }
         },
         {
@@ -212,17 +223,6 @@
             "author": {
                 "name": "RoninForge",
                 "url": "https://github.com/RoninForge"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/132866139?u=1c979224156b600307ff7b92e5f8859fb5846f78&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Intentionally vulnerable Log4j 2.14.1 demo for Sysdig CNAPP scanning (CVE-2021-44228)</div>",
-            "url": "https://github.com/aaronm-sysdig/log4j-vuln-demo",
-            "title": "aaronm-sysdig/log4j-vuln-demo: Intentionally vulnerable Log4j 2.14.1 demo for Sysdig CNAPP scanning (CVE-2021-44228)",
-            "date_modified": "2026-05-19T05:44:47.000Z",
-            "date_published": "2026-05-16T01:52:21.000Z",
-            "author": {
-                "name": "aaronm-sysdig",
-                "url": "https://github.com/aaronm-sysdig"
             }
         }
     ]
