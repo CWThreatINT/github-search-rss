@@ -6,6 +6,17 @@
     "description": "CVE-2023 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/120130511?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>oob_entry tfp0 kernel exploit for armv7 iOS (iOS 3.0–10.3.4), using CVE-2023-32434. We will publish a write-up detailing the methods in the coming weeks. 🐙</div>",
+            "url": "https://github.com/rkrakesh524/oob_entry",
+            "title": "rkrakesh524/oob_entry: oob_entry tfp0 kernel exploit for armv7 iOS (iOS 3.0–10.3.4), using CVE-2023-32434. We will publish a write-up detailing the methods in the coming weeks. 🐙",
+            "date_modified": "2026-05-31T14:14:37.000Z",
+            "date_published": "2025-08-13T09:19:29.000Z",
+            "author": {
+                "name": "rkrakesh524",
+                "url": "https://github.com/rkrakesh524"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/221480148?u=befec81ed51495fc560d1ed58d912072cff18117&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A technical case study and timeline dataset documenting Google Gemini 2.5 Pro's safety alignment policies, guardrails, and refusal behavior evolution regarding legacy Linux kernel vulnerability primitives (CVE-2023-32233).</div>",
             "url": "https://github.com/Destawell/gemini-2.5-pro-nf-tables-red-teamin",
             "title": "Destawell/gemini-2.5-pro-nf-tables-red-teamin: A technical case study and timeline dataset documenting Google Gemini 2.5 Pro's safety alignment policies, guardrails, and refusal behavior evolution regarding legacy Linux kernel vulnerability primitives (CVE-2023-32233).",
@@ -36,17 +47,6 @@
             "author": {
                 "name": "Joe1sn",
                 "url": "https://github.com/Joe1sn"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/120130511?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>oob_entry tfp0 kernel exploit for armv7 iOS (iOS 3.0–10.3.4), using CVE-2023-32434. We will publish a write-up detailing the methods in the coming weeks. 🐙</div>",
-            "url": "https://github.com/rkrakesh524/oob_entry",
-            "title": "rkrakesh524/oob_entry: oob_entry tfp0 kernel exploit for armv7 iOS (iOS 3.0–10.3.4), using CVE-2023-32434. We will publish a write-up detailing the methods in the coming weeks. 🐙",
-            "date_modified": "2026-05-31T10:22:10.000Z",
-            "date_published": "2025-08-13T09:19:29.000Z",
-            "author": {
-                "name": "rkrakesh524",
-                "url": "https://github.com/rkrakesh524"
             }
         },
         {

@@ -6,6 +6,17 @@
     "description": "CVE-2022 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/72828296?u=e21a9213f90e50ccea6e01fe9f1221db4fdcd61a&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Extract a concerning amount of user information from Unisoc ZTE devices using CVE-2022-38694.</div>",
+            "url": "https://github.com/JoshAtticus/ztewaste",
+            "title": "JoshAtticus/ztewaste: Extract a concerning amount of user information from Unisoc ZTE devices using CVE-2022-38694.",
+            "date_modified": "2026-05-31T13:55:18.000Z",
+            "date_published": "2026-05-31T13:54:11.000Z",
+            "author": {
+                "name": "JoshAtticus",
+                "url": "https://github.com/JoshAtticus"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/108614485?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Technical report about CVE-2022-22947 in Spring Cloud Gateway and its exploitation through exposed Actuator endpoints.</div>",
             "url": "https://github.com/ciri3/spring-cloud-gateway-cve-2022-22947-report",
             "title": "ciri3/spring-cloud-gateway-cve-2022-22947-report: Technical report about CVE-2022-22947 in Spring Cloud Gateway and its exploitation through exposed Actuator endpoints.",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "NeoArtemis37",
                 "url": "https://github.com/NeoArtemis37"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/32651700?u=6394c7776c1aa12bd0a8de49cc4f0ee625c19bf1&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
-            "url": "https://github.com/Ozozuz/Qlik-View-12.60-Including-SR-Stored-Cross-Site-Scripting-CVE-2022-42248",
-            "title": "Ozozuz/Qlik-View-12.60-Including-SR-Stored-Cross-Site-Scripting-CVE-2022-42248",
-            "date_modified": "2026-05-06T09:25:42.000Z",
-            "date_published": "2023-02-27T13:02:16.000Z",
-            "author": {
-                "name": "Ozozuz",
-                "url": "https://github.com/Ozozuz"
             }
         }
     ]
