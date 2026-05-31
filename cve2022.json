@@ -6,6 +6,17 @@
     "description": "CVE-2022 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/88013057?u=71c7f52b55227d5b9fe582b882d3a568f4e46ee2&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Vulnerability research on Tesla Model 3/Y infotainment systems. 6 vulnerabilities, 4 CVEs (CVE-2022-42005 through CVE-2022-42008). Root shell, persistent access, insurance telemetry spoofing.</div>",
+            "url": "https://github.com/AnalyticETH/tesla-security-research",
+            "title": "AnalyticETH/tesla-security-research: Vulnerability research on Tesla Model 3/Y infotainment systems. 6 vulnerabilities, 4 CVEs (CVE-2022-42005 through CVE-2022-42008). Root shell, persistent access, insurance telemetry spoofing.",
+            "date_modified": "2026-05-31T18:34:18.000Z",
+            "date_published": "2026-05-31T18:16:43.000Z",
+            "author": {
+                "name": "AnalyticETH",
+                "url": "https://github.com/AnalyticETH"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/108614485?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Technical report about CVE-2022-22947 in Spring Cloud Gateway and its exploitation through exposed Actuator endpoints.</div>",
             "url": "https://github.com/ciri3/spring-cloud-gateway-cve-2022-22947-report",
             "title": "ciri3/spring-cloud-gateway-cve-2022-22947-report: Technical report about CVE-2022-22947 in Spring Cloud Gateway and its exploitation through exposed Actuator endpoints.",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "sh94ya",
                 "url": "https://github.com/sh94ya"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/40566803?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2022-0847 used to achieve container escape 利用CVE-2022-0847 (Dirty Pipe) 实现容器逃逸</div>",
-            "url": "https://github.com/greenhandatsjtu/CVE-2022-0847-Container-Escape",
-            "title": "greenhandatsjtu/CVE-2022-0847-Container-Escape: CVE-2022-0847 used to achieve container escape 利用CVE-2022-0847 (Dirty Pipe) 实现容器逃逸",
-            "date_modified": "2026-05-28T08:11:33.000Z",
-            "date_published": "2022-06-04T08:31:32.000Z",
-            "author": {
-                "name": "greenhandatsjtu",
-                "url": "https://github.com/greenhandatsjtu"
             }
         }
     ]
