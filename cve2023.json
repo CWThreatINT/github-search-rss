@@ -6,6 +6,28 @@
     "description": "CVE-2023 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/64997402?u=8084056af54a91c0ada083c3eacb1775458d2d0d&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>EDSEC_BKIF is a keystroke injection tool for Android, Linux, and iOS. With the help of CVE-2023-45866, it grants users unprecedented control over targeted systems, enabling various functions from keystroke injection to advanced system manipulations.</div>",
+            "url": "https://github.com/hegaz0y/-BuL",
+            "title": "hegaz0y/-BuL: EDSEC_BKIF is a keystroke injection tool for Android, Linux, and iOS. With the help of CVE-2023-45866, it grants users unprecedented control over targeted systems, enabling various functions from keystroke injection to advanced system manipulations.",
+            "date_modified": "2026-05-31T17:31:41.000Z",
+            "date_published": "2026-05-31T17:29:29.000Z",
+            "author": {
+                "name": "hegaz0y",
+                "url": "https://github.com/hegaz0y"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/120130511?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>oob_entry tfp0 kernel exploit for armv7 iOS (iOS 3.0–10.3.4), using CVE-2023-32434. We will publish a write-up detailing the methods in the coming weeks. 🐙</div>",
+            "url": "https://github.com/rkrakesh524/oob_entry",
+            "title": "rkrakesh524/oob_entry: oob_entry tfp0 kernel exploit for armv7 iOS (iOS 3.0–10.3.4), using CVE-2023-32434. We will publish a write-up detailing the methods in the coming weeks. 🐙",
+            "date_modified": "2026-05-31T17:09:44.000Z",
+            "date_published": "2025-08-13T09:19:29.000Z",
+            "author": {
+                "name": "rkrakesh524",
+                "url": "https://github.com/rkrakesh524"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/214546144?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>🔒 Analyze the CVE-2023-39910 vulnerability in Libbitcoin Explorer to understand its impact on Bitcoin wallet security and protect your assets.</div>",
             "url": "https://github.com/Hitplus/RingSide-Replay-Attack",
             "title": "Hitplus/RingSide-Replay-Attack: 🔒 Analyze the CVE-2023-39910 vulnerability in Libbitcoin Explorer to understand its impact on Bitcoin wallet security and protect your assets.",
@@ -14,17 +36,6 @@
             "author": {
                 "name": "Hitplus",
                 "url": "https://github.com/Hitplus"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/120130511?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>oob_entry tfp0 kernel exploit for armv7 iOS (iOS 3.0–10.3.4), using CVE-2023-32434. We will publish a write-up detailing the methods in the coming weeks. 🐙</div>",
-            "url": "https://github.com/rkrakesh524/oob_entry",
-            "title": "rkrakesh524/oob_entry: oob_entry tfp0 kernel exploit for armv7 iOS (iOS 3.0–10.3.4), using CVE-2023-32434. We will publish a write-up detailing the methods in the coming weeks. 🐙",
-            "date_modified": "2026-05-31T14:14:37.000Z",
-            "date_published": "2025-08-13T09:19:29.000Z",
-            "author": {
-                "name": "rkrakesh524",
-                "url": "https://github.com/rkrakesh524"
             }
         },
         {
@@ -212,17 +223,6 @@
             "author": {
                 "name": "cyb3rk0ala",
                 "url": "https://github.com/cyb3rk0ala"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/34131293?u=ce0541a480a2188a700c1291f1d5a848d321b733&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>This exploit is based on CVE-2023-26360 (<a href=\"https://nvd.nist.gov/vuln/detail/CVE-2023-26360\" class=\"Link--inTextBlock\" rel=\"nofollow\">https://nvd.nist.gov/vuln/detail/CVE-2023-26360</a>) and was built on top of the Metasploit module and the jakabakos/CVE-2023-26360-adobe-coldfusion-rce-exploit.</div>",
-            "url": "https://github.com/joaoaugustom/Adobe_ColdFusion_RCE_Unauthenticated",
-            "title": "joaoaugustom/Adobe_ColdFusion_RCE_Unauthenticated: This exploit is based on CVE-2023-26360 (https://nvd.nist.gov/vuln/detail/CVE-2023-26360) and was built on top of the Metasploit module and the jakabakos/CVE-2023-26360-adobe-coldfusion-rce-exploit.",
-            "date_modified": "2026-05-24T23:49:32.000Z",
-            "date_published": "2026-05-16T19:00:16.000Z",
-            "author": {
-                "name": "joaoaugustom",
-                "url": "https://github.com/joaoaugustom"
             }
         }
     ]
