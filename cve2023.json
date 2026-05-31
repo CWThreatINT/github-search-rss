@@ -6,10 +6,32 @@
     "description": "CVE-2023 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/221480148?u=befec81ed51495fc560d1ed58d912072cff18117&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A technical case study and timeline dataset documenting Google Gemini 2.5 Pro's safety alignment policies, guardrails, and refusal behavior evolution regarding legacy Linux kernel vulnerability primitives (CVE-2023-32233).</div>",
+            "url": "https://github.com/Destawell/gemini-2.5-pro-nf-tables-red-teamin",
+            "title": "Destawell/gemini-2.5-pro-nf-tables-red-teamin: A technical case study and timeline dataset documenting Google Gemini 2.5 Pro's safety alignment policies, guardrails, and refusal behavior evolution regarding legacy Linux kernel vulnerability primitives (CVE-2023-32233).",
+            "date_modified": "2026-05-31T12:51:29.000Z",
+            "date_published": "2026-05-22T09:38:44.000Z",
+            "author": {
+                "name": "Destawell",
+                "url": "https://github.com/Destawell"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/214546144?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>🔒 Analyze the CVE-2023-39910 vulnerability in Libbitcoin Explorer to understand its impact on Bitcoin wallet security and protect your assets.</div>",
+            "url": "https://github.com/Hitplus/RingSide-Replay-Attack",
+            "title": "Hitplus/RingSide-Replay-Attack: 🔒 Analyze the CVE-2023-39910 vulnerability in Libbitcoin Explorer to understand its impact on Bitcoin wallet security and protect your assets.",
+            "date_modified": "2026-05-31T11:25:24.000Z",
+            "date_published": "2026-01-07T14:24:08.000Z",
+            "author": {
+                "name": "Hitplus",
+                "url": "https://github.com/Hitplus"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/37005640?u=c724a3225c5df7eaf9fa0ac60786146169e75020&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>poc and exp for CVE_2023_21768, related to my analyze</div>",
             "url": "https://github.com/Joe1sn/CVE_2023_21768",
             "title": "Joe1sn/CVE_2023_21768: poc and exp for CVE_2023_21768, related to my analyze",
-            "date_modified": "2026-05-31T11:19:57.000Z",
+            "date_modified": "2026-05-31T11:27:09.000Z",
             "date_published": "2026-05-22T03:13:20.000Z",
             "author": {
                 "name": "Joe1sn",
@@ -25,17 +47,6 @@
             "author": {
                 "name": "rkrakesh524",
                 "url": "https://github.com/rkrakesh524"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/214546144?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>🔒 Analyze the CVE-2023-39910 vulnerability in Libbitcoin Explorer to understand its impact on Bitcoin wallet security and protect your assets.</div>",
-            "url": "https://github.com/Hitplus/RingSide-Replay-Attack",
-            "title": "Hitplus/RingSide-Replay-Attack: 🔒 Analyze the CVE-2023-39910 vulnerability in Libbitcoin Explorer to understand its impact on Bitcoin wallet security and protect your assets.",
-            "date_modified": "2026-05-31T08:36:49.000Z",
-            "date_published": "2026-01-07T14:24:08.000Z",
-            "author": {
-                "name": "Hitplus",
-                "url": "https://github.com/Hitplus"
             }
         },
         {
@@ -212,17 +223,6 @@
             "author": {
                 "name": "joaoaugustom",
                 "url": "https://github.com/joaoaugustom"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/219590584?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Cracking BitLocker encryption based on CVE-2023-21563 vulnerability</div>",
-            "url": "https://github.com/LR2006-Robot/bitpixie",
-            "title": "LR2006-Robot/bitpixie: Cracking BitLocker encryption based on CVE-2023-21563 vulnerability",
-            "date_modified": "2026-05-23T14:45:31.000Z",
-            "date_published": "2026-05-23T14:45:27.000Z",
-            "author": {
-                "name": "LR2006-Robot",
-                "url": "https://github.com/LR2006-Robot"
             }
         }
     ]
