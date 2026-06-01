@@ -6,6 +6,17 @@
     "description": "CVE-2022 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/72828296?u=e21a9213f90e50ccea6e01fe9f1221db4fdcd61a&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Extract a concerning amount of user information from Unisoc ZTE devices using CVE-2022-38694.</div>",
+            "url": "https://github.com/JoshAtticus/ztewaste",
+            "title": "JoshAtticus/ztewaste: Extract a concerning amount of user information from Unisoc ZTE devices using CVE-2022-38694.",
+            "date_modified": "2026-06-01T00:36:46.000Z",
+            "date_published": "2026-05-31T13:54:11.000Z",
+            "author": {
+                "name": "JoshAtticus",
+                "url": "https://github.com/JoshAtticus"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/108614485?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Technical report about CVE-2022-22947 in Spring Cloud Gateway and its exploitation through exposed Actuator endpoints.</div>",
             "url": "https://github.com/ciri3/spring-cloud-gateway-cve-2022-22947-report",
             "title": "ciri3/spring-cloud-gateway-cve-2022-22947-report: Technical report about CVE-2022-22947 in Spring Cloud Gateway and its exploitation through exposed Actuator endpoints.",
@@ -36,17 +47,6 @@
             "author": {
                 "name": "Jeanback1",
                 "url": "https://github.com/Jeanback1"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/72828296?u=e21a9213f90e50ccea6e01fe9f1221db4fdcd61a&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Extract a concerning amount of user information from Unisoc ZTE devices using CVE-2022-38694.</div>",
-            "url": "https://github.com/JoshAtticus/ztewaste",
-            "title": "JoshAtticus/ztewaste: Extract a concerning amount of user information from Unisoc ZTE devices using CVE-2022-38694.",
-            "date_modified": "2026-05-31T13:55:18.000Z",
-            "date_published": "2026-05-31T13:54:11.000Z",
-            "author": {
-                "name": "JoshAtticus",
-                "url": "https://github.com/JoshAtticus"
             }
         },
         {
