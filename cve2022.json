@@ -6,6 +6,28 @@
     "description": "CVE-2022 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/108614485?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Technical report about CVE-2022-22947 in Spring Cloud Gateway and its exploitation through exposed Actuator endpoints.</div>",
+            "url": "https://github.com/ciri3/spring-cloud-gateway-cve-2022-22947-report",
+            "title": "ciri3/spring-cloud-gateway-cve-2022-22947-report: Technical report about CVE-2022-22947 in Spring Cloud Gateway and its exploitation through exposed Actuator endpoints.",
+            "date_modified": "2026-06-01T11:07:30.000Z",
+            "date_published": "2026-05-29T17:34:32.000Z",
+            "author": {
+                "name": "ciri3",
+                "url": "https://github.com/ciri3"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/169581961?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Sentinel demo: transitive snakeyaml CVE-2022-1471 via Spring Boot + exploitable code pattern</div>",
+            "url": "https://github.com/anupamojha-eng/sentinel-transitive-cve-demo",
+            "title": "anupamojha-eng/sentinel-transitive-cve-demo: Sentinel demo: transitive snakeyaml CVE-2022-1471 via Spring Boot + exploitable code pattern",
+            "date_modified": "2026-06-01T10:22:25.000Z",
+            "date_published": "2026-06-01T09:33:10.000Z",
+            "author": {
+                "name": "anupamojha-eng",
+                "url": "https://github.com/anupamojha-eng"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/72828296?u=e21a9213f90e50ccea6e01fe9f1221db4fdcd61a&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Extract a concerning amount of user information from Unisoc ZTE devices using CVE-2022-38694.</div>",
             "url": "https://github.com/JoshAtticus/ztewaste",
             "title": "JoshAtticus/ztewaste: Extract a concerning amount of user information from Unisoc ZTE devices using CVE-2022-38694.",
@@ -14,17 +36,6 @@
             "author": {
                 "name": "JoshAtticus",
                 "url": "https://github.com/JoshAtticus"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/108614485?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Technical report about CVE-2022-22947 in Spring Cloud Gateway and its exploitation through exposed Actuator endpoints.</div>",
-            "url": "https://github.com/ciri3/spring-cloud-gateway-cve-2022-22947-report",
-            "title": "ciri3/spring-cloud-gateway-cve-2022-22947-report: Technical report about CVE-2022-22947 in Spring Cloud Gateway and its exploitation through exposed Actuator endpoints.",
-            "date_modified": "2026-05-31T21:31:10.000Z",
-            "date_published": "2026-05-29T17:34:32.000Z",
-            "author": {
-                "name": "ciri3",
-                "url": "https://github.com/ciri3"
             }
         },
         {
@@ -163,7 +174,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/141915211?u=0d2032f07abfc995844356f313ffed7c1e8d43f0&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Apache ActiveMQ漏洞综合利用工具(CVE-2015-5254，CVE-2016-3088，CVE-2022-41678，CVE-2023-46604，CVE-2024-32114，CVE-2026-34197，CVE-2026-40466)</div>",
             "url": "https://github.com/Catherines77/ActiveMQ-EXPtools",
             "title": "Catherines77/ActiveMQ-EXPtools: Apache ActiveMQ漏洞综合利用工具(CVE-2015-5254，CVE-2016-3088，CVE-2022-41678，CVE-2023-46604，CVE-2024-32114，CVE-2026-34197，CVE-2026-40466)",
-            "date_modified": "2026-05-30T05:57:35.000Z",
+            "date_modified": "2026-06-01T08:54:02.000Z",
             "date_published": "2026-04-20T02:38:50.000Z",
             "author": {
                 "name": "Catherines77",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "u1tr0nex",
                 "url": "https://github.com/u1tr0nex"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/58806494?u=a6ff4b8218423ccc287ff70708bae7f217b1434d&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Metasploit module for obtaining passwords for Kyocera printer address books in cleartext</div>",
-            "url": "https://github.com/sh94ya/kyocera_cve_2022_1026",
-            "title": "sh94ya/kyocera_cve_2022_1026: Metasploit module for obtaining passwords for Kyocera printer address books in cleartext",
-            "date_modified": "2026-05-08T05:13:50.000Z",
-            "date_published": "2026-05-08T04:54:43.000Z",
-            "author": {
-                "name": "sh94ya",
-                "url": "https://github.com/sh94ya"
             }
         }
     ]

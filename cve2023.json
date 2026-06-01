@@ -6,10 +6,21 @@
     "description": "CVE-2023 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/283362890?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Plan v3 US-6: coredns-style fork fixture for Scanner E2E (CVE-2023-39325)</div>",
+            "url": "https://github.com/eilam-cell/cve-test-coredns-fork",
+            "title": "eilam-cell/cve-test-coredns-fork: Plan v3 US-6: coredns-style fork fixture for Scanner E2E (CVE-2023-39325)",
+            "date_modified": "2026-06-01T13:35:53.000Z",
+            "date_published": "2026-06-01T13:27:24.000Z",
+            "author": {
+                "name": "eilam-cell",
+                "url": "https://github.com/eilam-cell"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/214546144?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>🔒 Analyze the CVE-2023-39910 vulnerability in Libbitcoin Explorer to understand its impact on Bitcoin wallet security and protect your assets.</div>",
             "url": "https://github.com/Hitplus/RingSide-Replay-Attack",
             "title": "Hitplus/RingSide-Replay-Attack: 🔒 Analyze the CVE-2023-39910 vulnerability in Libbitcoin Explorer to understand its impact on Bitcoin wallet security and protect your assets.",
-            "date_modified": "2026-06-01T08:02:52.000Z",
+            "date_modified": "2026-06-01T12:23:16.000Z",
             "date_published": "2026-01-07T14:24:08.000Z",
             "author": {
                 "name": "Hitplus",
@@ -20,7 +31,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/120130511?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>oob_entry tfp0 kernel exploit for armv7 iOS (iOS 3.0–10.3.4), using CVE-2023-32434. We will publish a write-up detailing the methods in the coming weeks. 🐙</div>",
             "url": "https://github.com/rkrakesh524/oob_entry",
             "title": "rkrakesh524/oob_entry: oob_entry tfp0 kernel exploit for armv7 iOS (iOS 3.0–10.3.4), using CVE-2023-32434. We will publish a write-up detailing the methods in the coming weeks. 🐙",
-            "date_modified": "2026-06-01T06:44:39.000Z",
+            "date_modified": "2026-06-01T11:08:51.000Z",
             "date_published": "2025-08-13T09:19:29.000Z",
             "author": {
                 "name": "rkrakesh524",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "nmlz",
                 "url": "https://github.com/nmlz"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/14059710?u=244c028b687e239f489a804d9f71bd0040304a91&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>PoC educativo del exploit CVE-2023-4147 (Linux kernel Netfilter UAF) — solo para entornos autorizados</div>",
-            "url": "https://github.com/murdok1982/Exploit-en-Python-para-CVE-2023-4147",
-            "title": "murdok1982/Exploit-en-Python-para-CVE-2023-4147: PoC educativo del exploit CVE-2023-4147 (Linux kernel Netfilter UAF) — solo para entornos autorizados",
-            "date_modified": "2026-05-25T17:56:43.000Z",
-            "date_published": "2024-12-30T18:08:46.000Z",
-            "author": {
-                "name": "murdok1982",
-                "url": "https://github.com/murdok1982"
             }
         }
     ]
