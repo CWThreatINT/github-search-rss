@@ -6,6 +6,17 @@
     "description": "CVE-2022 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/73120825?u=4bb8e7b9e01cd8915b9d997948e3a21c209dffb1&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
+            "url": "https://github.com/entr0pie/demo-cve-2022-22947",
+            "title": "entr0pie/demo-cve-2022-22947",
+            "date_modified": "2026-06-02T14:54:39.000Z",
+            "date_published": "2026-06-02T14:24:24.000Z",
+            "author": {
+                "name": "entr0pie",
+                "url": "https://github.com/entr0pie"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/169581961?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Sentinel demo: transitive snakeyaml CVE-2022-1471 via Spring Boot + exploitable code pattern</div>",
             "url": "https://github.com/anupamojha-eng/sentinel-transitive-cve-demo",
             "title": "anupamojha-eng/sentinel-transitive-cve-demo: Sentinel demo: transitive snakeyaml CVE-2022-1471 via Spring Boot + exploitable code pattern",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "UmbertoDellaMonica",
                 "url": "https://github.com/UmbertoDellaMonica"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/37265416?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Full exploit chain lab and Suricata IDS detection for CVE-2022-30190 (Follina) - MSDT RCE</div>",
-            "url": "https://github.com/u1tr0nex/CVE-2022-30190-Follina-Lab",
-            "title": "u1tr0nex/CVE-2022-30190-Follina-Lab: Full exploit chain lab and Suricata IDS detection for CVE-2022-30190 (Follina) - MSDT RCE",
-            "date_modified": "2026-05-09T10:31:53.000Z",
-            "date_published": "2026-05-08T12:18:31.000Z",
-            "author": {
-                "name": "u1tr0nex",
-                "url": "https://github.com/u1tr0nex"
             }
         }
     ]
