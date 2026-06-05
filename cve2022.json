@@ -6,6 +6,17 @@
     "description": "CVE-2022 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/138096840?u=936c19a2d09cc0f491621fcd5efa7d406752918a&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
+            "url": "https://github.com/Gao-Zuin/cve-2022-46395-qemu",
+            "title": "Gao-Zuin/cve-2022-46395-qemu",
+            "date_modified": "2026-06-05T00:58:52.000Z",
+            "date_published": "2026-06-05T00:52:44.000Z",
+            "author": {
+                "name": "Gao-Zuin",
+                "url": "https://github.com/Gao-Zuin"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/108614485?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Technical report about CVE-2022-22947 in Spring Cloud Gateway and its exploitation through exposed Actuator endpoints.</div>",
             "url": "https://github.com/ciri3/spring-cloud-gateway-cve-2022-22947-report",
             "title": "ciri3/spring-cloud-gateway-cve-2022-22947-report: Technical report about CVE-2022-22947 in Spring Cloud Gateway and its exploitation through exposed Actuator endpoints.",
@@ -61,7 +72,7 @@
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/210536453?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/210536453?u=7556add622d857a8a79d1f65bc418ac7de3e8b3f&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
             "url": "https://github.com/Jeanback1/CVE-2022-25765-exploit",
             "title": "Jeanback1/CVE-2022-25765-exploit",
             "date_modified": "2026-05-31T16:10:26.000Z",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "ngtuonghung",
                 "url": "https://github.com/ngtuonghung"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/65555541?u=5a8b603a563fd5872b7c8bee582dc4d50b66d278&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>From Solder to Shell: Full Hardware Exploitation of the Linksys WRT54GL Router (CVE-2022-43973)</div>",
-            "url": "https://github.com/UmbertoDellaMonica/Linksys-WRT54GL-Exploitation",
-            "title": "UmbertoDellaMonica/Linksys-WRT54GL-Exploitation: From Solder to Shell: Full Hardware Exploitation of the Linksys WRT54GL Router (CVE-2022-43973)",
-            "date_modified": "2026-05-11T21:28:22.000Z",
-            "date_published": "2024-01-10T21:51:19.000Z",
-            "author": {
-                "name": "UmbertoDellaMonica",
-                "url": "https://github.com/UmbertoDellaMonica"
             }
         }
     ]
