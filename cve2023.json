@@ -6,6 +6,17 @@
     "description": "CVE-2023 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/261627037?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>HTTP/2 attack simulation &amp; defense lab - Slowloris, Rapid Reset (CVE-2023-44487), HPACK Bomb attacks with 5 layered defenses. Built in pure Python with raw sockets and h2 library.</div>",
+            "url": "https://github.com/madhantr0/http2-security-lab",
+            "title": "madhantr0/http2-security-lab: HTTP/2 attack simulation & defense lab - Slowloris, Rapid Reset (CVE-2023-44487), HPACK Bomb attacks with 5 layered defenses. Built in pure Python with raw sockets and h2 library.",
+            "date_modified": "2026-06-06T16:41:15.000Z",
+            "date_published": "2026-06-06T16:41:14.000Z",
+            "author": {
+                "name": "madhantr0",
+                "url": "https://github.com/madhantr0"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/214546144?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>🔒 Analyze the CVE-2023-39910 vulnerability in Libbitcoin Explorer to understand its impact on Bitcoin wallet security and protect your assets.</div>",
             "url": "https://github.com/Hitplus/RingSide-Replay-Attack",
             "title": "Hitplus/RingSide-Replay-Attack: 🔒 Analyze the CVE-2023-39910 vulnerability in Libbitcoin Explorer to understand its impact on Bitcoin wallet security and protect your assets.",
@@ -209,17 +220,6 @@
             "title": "Jenderal92/WP-CVE-2023-32243: Wordpress CVE-2023-32243",
             "date_modified": "2026-05-30T20:08:19.000Z",
             "date_published": "2023-07-03T04:16:16.000Z",
-            "author": {
-                "name": "Jenderal92",
-                "url": "https://github.com/Jenderal92"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/59664965?u=11a4ea6dfe1c49ca6ffb3b4535d14ef9acbbafcf&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Wordpress CVE-2023-28121</div>",
-            "url": "https://github.com/Jenderal92/WP-CVE-2023-28121",
-            "title": "Jenderal92/WP-CVE-2023-28121: Wordpress CVE-2023-28121",
-            "date_modified": "2026-05-30T20:08:15.000Z",
-            "date_published": "2023-11-03T01:19:09.000Z",
             "author": {
                 "name": "Jenderal92",
                 "url": "https://github.com/Jenderal92"
