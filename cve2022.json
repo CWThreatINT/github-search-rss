@@ -6,6 +6,17 @@
     "description": "CVE-2022 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/256938688?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
+            "url": "https://github.com/t1ckprivate/CVE-2022-0847-Dirty-Pipe",
+            "title": "t1ckprivate/CVE-2022-0847-Dirty-Pipe",
+            "date_modified": "2026-06-06T02:38:19.000Z",
+            "date_published": "2026-06-06T02:35:22.000Z",
+            "author": {
+                "name": "t1ckprivate",
+                "url": "https://github.com/t1ckprivate"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/138096840?u=936c19a2d09cc0f491621fcd5efa7d406752918a&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
             "url": "https://github.com/Gao-Zuin/cve-2022-46395-qemu",
             "title": "Gao-Zuin/cve-2022-46395-qemu",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "Phlegmelm",
                 "url": "https://github.com/Phlegmelm"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/141505121?u=75ed09645a59dec88c7b345569e3451f7d54d502&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
-            "url": "https://github.com/ngtuonghung/CVE-2022-27666",
-            "title": "ngtuonghung/CVE-2022-27666",
-            "date_modified": "2026-05-12T16:17:37.000Z",
-            "date_published": "2026-04-30T03:05:26.000Z",
-            "author": {
-                "name": "ngtuonghung",
-                "url": "https://github.com/ngtuonghung"
             }
         }
     ]
