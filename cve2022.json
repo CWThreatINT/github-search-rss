@@ -6,6 +6,17 @@
     "description": "CVE-2022 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/38815439?u=7c5a5946eb7d5c98d137837c9a916d2c7dcdb223&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>POC for CVE-2022-39996 (Reflected XSS) and CVE-2022-39997 (Weak Password) in Teldat RS123/RS123w Router</div>",
+            "url": "https://github.com/uyhacked/Teldat-Router-CVE-2022-POC",
+            "title": "uyhacked/Teldat-Router-CVE-2022-POC: POC for CVE-2022-39996 (Reflected XSS) and CVE-2022-39997 (Weak Password) in Teldat RS123/RS123w Router",
+            "date_modified": "2026-06-09T05:43:37.000Z",
+            "date_published": "2026-06-09T05:13:44.000Z",
+            "author": {
+                "name": "uyhacked",
+                "url": "https://github.com/uyhacked"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/73120825?u=4bb8e7b9e01cd8915b9d997948e3a21c209dffb1&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
             "url": "https://github.com/entr0pie/demo-cve-2022-22947",
             "title": "entr0pie/demo-cve-2022-22947",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "fevar54",
                 "url": "https://github.com/fevar54"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/252552620?u=b06db0f8529fd827148f35c447d7edf571f80b6d&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>rooting an ATOZEE P12 on Android 14 using CVE-2022-38694 — because fastboot oem unlock said no, so we found another way.</div>",
-            "url": "https://github.com/Phlegmelm/CRACK12",
-            "title": "Phlegmelm/CRACK12: rooting an ATOZEE P12 on Android 14 using CVE-2022-38694 — because fastboot oem unlock said no, so we found another way.",
-            "date_modified": "2026-06-01T20:32:23.000Z",
-            "date_published": "2026-05-14T18:38:18.000Z",
-            "author": {
-                "name": "Phlegmelm",
-                "url": "https://github.com/Phlegmelm"
             }
         }
     ]
