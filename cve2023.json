@@ -6,6 +6,28 @@
     "description": "CVE-2023 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/120130511?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>oob_entry tfp0 kernel exploit for armv7 iOS (iOS 3.0–10.3.4), using CVE-2023-32434. We will publish a write-up detailing the methods in the coming weeks. 🐙</div>",
+            "url": "https://github.com/rkrakesh524/oob_entry",
+            "title": "rkrakesh524/oob_entry: oob_entry tfp0 kernel exploit for armv7 iOS (iOS 3.0–10.3.4), using CVE-2023-32434. We will publish a write-up detailing the methods in the coming weeks. 🐙",
+            "date_modified": "2026-06-12T22:10:51.000Z",
+            "date_published": "2025-08-13T09:19:29.000Z",
+            "author": {
+                "name": "rkrakesh524",
+                "url": "https://github.com/rkrakesh524"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/106854622?u=65c1c27a1bf9b0b6b130b0940a0ffdee1462a7b1&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Security advisory tracking for Django 3.2.16 vulnerabilities - CVE-2023-23969 and CVE-2023-24580</div>",
+            "url": "https://github.com/lkq111/django-security-advisory-3.2.16",
+            "title": "lkq111/django-security-advisory-3.2.16: Security advisory tracking for Django 3.2.16 vulnerabilities - CVE-2023-23969 and CVE-2023-24580",
+            "date_modified": "2026-06-12T21:31:28.000Z",
+            "date_published": "2026-06-12T21:31:24.000Z",
+            "author": {
+                "name": "lkq111",
+                "url": "https://github.com/lkq111"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/214546144?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>🔒 Analyze the CVE-2023-39910 vulnerability in Libbitcoin Explorer to understand its impact on Bitcoin wallet security and protect your assets.</div>",
             "url": "https://github.com/Hitplus/RingSide-Replay-Attack",
             "title": "Hitplus/RingSide-Replay-Attack: 🔒 Analyze the CVE-2023-39910 vulnerability in Libbitcoin Explorer to understand its impact on Bitcoin wallet security and protect your assets.",
@@ -28,17 +50,6 @@
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/120130511?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>oob_entry tfp0 kernel exploit for armv7 iOS (iOS 3.0–10.3.4), using CVE-2023-32434. We will publish a write-up detailing the methods in the coming weeks. 🐙</div>",
-            "url": "https://github.com/rkrakesh524/oob_entry",
-            "title": "rkrakesh524/oob_entry: oob_entry tfp0 kernel exploit for armv7 iOS (iOS 3.0–10.3.4), using CVE-2023-32434. We will publish a write-up detailing the methods in the coming weeks. 🐙",
-            "date_modified": "2026-06-12T19:22:16.000Z",
-            "date_published": "2025-08-13T09:19:29.000Z",
-            "author": {
-                "name": "rkrakesh524",
-                "url": "https://github.com/rkrakesh524"
-            }
-        },
-        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/151980876?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>TOP All bugbounty pentesting CVE-2023- POC Exp  RCE example payload  Things</div>",
             "url": "https://github.com/GhostTroops/TOP",
             "title": "GhostTroops/TOP: TOP All bugbounty pentesting CVE-2023- POC Exp  RCE example payload  Things",
@@ -50,7 +61,7 @@
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/191168547?u=61ddb3e0e20dce449ebed5bfba608a7767de451f&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>From deobfuscating code.js to root, CVE-2023-0386</div>",
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/191168547?u=d8c36e6995b78f1fab3fa7ac39e89bbdf8574904&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>From deobfuscating code.js to root, CVE-2023-0386</div>",
             "url": "https://github.com/achnouri/TwoMillion-Machine",
             "title": "achnouri/TwoMillion-Machine: From deobfuscating code.js to root, CVE-2023-0386",
             "date_modified": "2026-06-12T02:29:15.000Z",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "REGGYRAIDER",
                 "url": "https://github.com/REGGYRAIDER"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/41143106?u=b79f5d86dffe824e89ae06b3b19b41a4d6dc8413&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2026-20230 - Cisco Unified CM</div>",
-            "url": "https://github.com/HORKimhab/CVE-2026-20230",
-            "title": "HORKimhab/CVE-2026-20230: CVE-2026-20230 - Cisco Unified CM",
-            "date_modified": "2026-06-05T06:06:56.000Z",
-            "date_published": "2026-06-05T01:17:53.000Z",
-            "author": {
-                "name": "HORKimhab",
-                "url": "https://github.com/HORKimhab"
             }
         }
     ]
