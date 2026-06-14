@@ -6,10 +6,21 @@
     "description": "CVE-2021 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/189422599?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Apache HTTP Server 2.4.49 Path Traversal Vulnerability Reproduction</div>",
+            "url": "https://github.com/fxdyx-a/CVE-2021-41773-POC",
+            "title": "fxdyx-a/CVE-2021-41773-POC: Apache HTTP Server 2.4.49 Path Traversal Vulnerability Reproduction",
+            "date_modified": "2026-06-14T16:26:56.000Z",
+            "date_published": "2026-06-14T16:01:51.000Z",
+            "author": {
+                "name": "fxdyx-a",
+                "url": "https://github.com/fxdyx-a"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/182138871?u=5a625dbde10ddebc6f9772ae9e409b49e97a97f1&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Chrome extension that uses vulnerabilities CVE-2021-33044 and CVE-2021-33045 to log in to Dahua cameras without authentication.</div>",
             "url": "https://github.com/Bd-Mutant7/DahuaLoginBypass",
             "title": "Bd-Mutant7/DahuaLoginBypass: Chrome extension that uses vulnerabilities CVE-2021-33044 and CVE-2021-33045 to log in to Dahua cameras without authentication.",
-            "date_modified": "2026-06-14T14:56:20.000Z",
+            "date_modified": "2026-06-14T16:26:26.000Z",
             "date_published": "2026-03-28T17:42:44.000Z",
             "author": {
                 "name": "Bd-Mutant7",
@@ -179,17 +190,6 @@
             "author": {
                 "name": "jomjosh17",
                 "url": "https://github.com/jomjosh17"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/19218766?u=0e055c0dce7ae4e511967a660bcb5c9fb0b6f5d8&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
-            "url": "https://github.com/smallkill/CVE-2021-3493",
-            "title": "smallkill/CVE-2021-3493",
-            "date_modified": "2026-06-01T16:55:13.000Z",
-            "date_published": "2023-05-21T00:14:40.000Z",
-            "author": {
-                "name": "smallkill",
-                "url": "https://github.com/smallkill"
             }
         },
         {
