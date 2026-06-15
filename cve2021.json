@@ -9,7 +9,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/206778611?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>🚀 Enhance your penetration testing with PwnKit Helper, a simple tool for exploiting the CVE-2021-4034 vulnerability in pkexec for local privilege escalation.</div>",
             "url": "https://github.com/kaisen-bot/pwnkit-helper",
             "title": "kaisen-bot/pwnkit-helper: 🚀 Enhance your penetration testing with PwnKit Helper, a simple tool for exploiting the CVE-2021-4034 vulnerability in pkexec for local privilege escalation.",
-            "date_modified": "2026-06-15T04:07:39.000Z",
+            "date_modified": "2026-06-15T10:40:10.000Z",
             "date_published": "2025-10-01T09:53:03.000Z",
             "author": {
                 "name": "kaisen-bot",
@@ -17,10 +17,21 @@
             }
         },
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/66986299?u=d81c91255d62f47894f5e7347098427cf90147da&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>webapp vulnerable to CVE-2021-44228</div>",
+            "url": "https://github.com/limxuan/ehir-vuln-enterprise-login",
+            "title": "limxuan/ehir-vuln-enterprise-login: webapp vulnerable to CVE-2021-44228",
+            "date_modified": "2026-06-15T09:02:28.000Z",
+            "date_published": "2026-06-15T05:48:46.000Z",
+            "author": {
+                "name": "limxuan",
+                "url": "https://github.com/limxuan"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/182138871?u=5a625dbde10ddebc6f9772ae9e409b49e97a97f1&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Chrome extension that uses vulnerabilities CVE-2021-33044 and CVE-2021-33045 to log in to Dahua cameras without authentication.</div>",
             "url": "https://github.com/Bd-Mutant7/DahuaLoginBypass",
             "title": "Bd-Mutant7/DahuaLoginBypass: Chrome extension that uses vulnerabilities CVE-2021-33044 and CVE-2021-33045 to log in to Dahua cameras without authentication.",
-            "date_modified": "2026-06-15T02:05:57.000Z",
+            "date_modified": "2026-06-15T07:35:25.000Z",
             "date_published": "2026-03-28T17:42:44.000Z",
             "author": {
                 "name": "Bd-Mutant7",
@@ -53,7 +64,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/204069580?u=b1bbb1e3b1b206347a2640efbbb49c1d3de94f67&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2021-21425 - GravCMS 1.10.7 Unauthenticated RCE via Scheduler. Improved exploit with CLI args and auto base64 encoding.</div>",
             "url": "https://github.com/d4ytox/CVE-2021-21425",
             "title": "d4ytox/CVE-2021-21425: CVE-2021-21425 - GravCMS 1.10.7 Unauthenticated RCE via Scheduler. Improved exploit with CLI args and auto base64 encoding.",
-            "date_modified": "2026-06-13T11:18:58.000Z",
+            "date_modified": "2026-06-15T08:59:10.000Z",
             "date_published": "2026-06-13T11:00:08.000Z",
             "author": {
                 "name": "d4ytox",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "Robblackcatchai",
                 "url": "https://github.com/Robblackcatchai"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/107775193?u=944e9d72f24a9bda9f9ecbe71937fa5e96997a48&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>PrintNightmare Report</div>",
-            "url": "https://github.com/AlDawli/CVE-2021-34527-",
-            "title": "AlDawli/CVE-2021-34527-: PrintNightmare Report",
-            "date_modified": "2026-05-27T10:45:17.000Z",
-            "date_published": "2026-05-27T10:43:57.000Z",
-            "author": {
-                "name": "AlDawli",
-                "url": "https://github.com/AlDawli"
             }
         }
     ]
