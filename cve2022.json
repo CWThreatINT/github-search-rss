@@ -6,6 +6,17 @@
     "description": "CVE-2022 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/16516497?u=89b3d13f301b5a05002ae883221b9af24ffdd726&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>NimbusPwn (CVE-2022-29799/29800) local privilege escalation PoC in C.</div>",
+            "url": "https://github.com/joshuavanderpoll/NimbusPWN-CVE-2022-29799-29800",
+            "title": "joshuavanderpoll/NimbusPWN-CVE-2022-29799-29800: NimbusPwn (CVE-2022-29799/29800) local privilege escalation PoC in C.",
+            "date_modified": "2026-06-17T20:13:34.000Z",
+            "date_published": "2026-06-17T19:44:47.000Z",
+            "author": {
+                "name": "joshuavanderpoll",
+                "url": "https://github.com/joshuavanderpoll"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/123841147?u=f9f383b83cc0d496eff35779c35b9c2ff21931f7&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>TryHackMe SOC Level 1 — Follina CVE-2022-30190, Nim C2, Chisel, PrintSpoofer, backdoor accounts</div>",
             "url": "https://github.com/czabatta/THM-Tempest",
             "title": "czabatta/THM-Tempest: TryHackMe SOC Level 1 — Follina CVE-2022-30190, Nim C2, Chisel, PrintSpoofer, backdoor accounts",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "march0n",
                 "url": "https://github.com/march0n"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/88181924?u=f10d6f4f37e85c8a7339d69b5fc375d22f36c318&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Bootloader unlock (CVE-2022-38694) &amp; root guide for Realme C53 / RMX3760 (Unisoc T612)</div>",
-            "url": "https://github.com/Gopartner/realme-c53-unlock-root",
-            "title": "Gopartner/realme-c53-unlock-root: Bootloader unlock (CVE-2022-38694) & root guide for Realme C53 / RMX3760 (Unisoc T612)",
-            "date_modified": "2026-05-22T12:32:41.000Z",
-            "date_published": "2026-05-16T16:16:31.000Z",
-            "author": {
-                "name": "Gopartner",
-                "url": "https://github.com/Gopartner"
             }
         }
     ]
