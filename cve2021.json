@@ -9,11 +9,22 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/182138871?u=5a625dbde10ddebc6f9772ae9e409b49e97a97f1&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Chrome extension that uses vulnerabilities CVE-2021-33044 and CVE-2021-33045 to log in to Dahua cameras without authentication.</div>",
             "url": "https://github.com/Bd-Mutant7/DahuaLoginBypass",
             "title": "Bd-Mutant7/DahuaLoginBypass: Chrome extension that uses vulnerabilities CVE-2021-33044 and CVE-2021-33045 to log in to Dahua cameras without authentication.",
-            "date_modified": "2026-06-17T13:55:35.000Z",
+            "date_modified": "2026-06-17T16:53:25.000Z",
             "date_published": "2026-03-28T17:42:44.000Z",
             "author": {
                 "name": "Bd-Mutant7",
                 "url": "https://github.com/Bd-Mutant7"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/107343580?u=3d7c2a09685b50a434f001fb6f184183f6d305ac&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Aritifacts of docker env of CVE-2021-3975</div>",
+            "url": "https://github.com/yan5ui/ENV-CVE-2021-3975",
+            "title": "yan5ui/ENV-CVE-2021-3975: Aritifacts of docker env of CVE-2021-3975",
+            "date_modified": "2026-06-17T16:51:18.000Z",
+            "date_published": "2026-06-17T16:33:23.000Z",
+            "author": {
+                "name": "yan5ui",
+                "url": "https://github.com/yan5ui"
             }
         },
         {
@@ -135,17 +146,6 @@
             "author": {
                 "name": "RoninForge",
                 "url": "https://github.com/RoninForge"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/217349927?u=4a8658dfb7494d0293707cf3c4e800eed3cd0017&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>An autonomous reflective Go agent for full-cycle security auditing, WAF evasion, OOB LDAP verification, self-remediation (auto-patching), and compliance reporting for CVE-2021-44228 (Log4Shell).</div>",
-            "url": "https://github.com/C00LN3T/Log4ShellAuditor",
-            "title": "C00LN3T/Log4ShellAuditor: An autonomous reflective Go agent for full-cycle security auditing, WAF evasion, OOB LDAP verification, self-remediation (auto-patching), and compliance reporting for CVE-2021-44228 (Log4Shell).",
-            "date_modified": "2026-06-10T17:31:23.000Z",
-            "date_published": "2026-05-31T23:20:17.000Z",
-            "author": {
-                "name": "C00LN3T",
-                "url": "https://github.com/C00LN3T"
             }
         },
         {
