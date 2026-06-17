@@ -9,11 +9,22 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/182138871?u=5a625dbde10ddebc6f9772ae9e409b49e97a97f1&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Chrome extension that uses vulnerabilities CVE-2021-33044 and CVE-2021-33045 to log in to Dahua cameras without authentication.</div>",
             "url": "https://github.com/Bd-Mutant7/DahuaLoginBypass",
             "title": "Bd-Mutant7/DahuaLoginBypass: Chrome extension that uses vulnerabilities CVE-2021-33044 and CVE-2021-33045 to log in to Dahua cameras without authentication.",
-            "date_modified": "2026-06-17T00:01:36.000Z",
+            "date_modified": "2026-06-17T05:06:25.000Z",
             "date_published": "2026-03-28T17:42:44.000Z",
             "author": {
                 "name": "Bd-Mutant7",
                 "url": "https://github.com/Bd-Mutant7"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/37005640?u=c724a3225c5df7eaf9fa0ac60786146169e75020&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>poc and exp for CVE_2021_1732, related to my analyze</div>",
+            "url": "https://github.com/Joe1sn/CVE_2021_1732",
+            "title": "Joe1sn/CVE_2021_1732: poc and exp for CVE_2021_1732, related to my analyze",
+            "date_modified": "2026-06-17T02:30:39.000Z",
+            "date_published": "2026-06-05T14:26:44.000Z",
+            "author": {
+                "name": "Joe1sn",
+                "url": "https://github.com/Joe1sn"
             }
         },
         {
@@ -212,17 +223,6 @@
             "author": {
                 "name": "hfh86",
                 "url": "https://github.com/hfh86"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/288399767?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>this is a study about CVE-2021-3156: Heap-Based Buffer Overflow in Sudo (Baron Samedit)</div>",
-            "url": "https://github.com/Robblackcatchai/porfolio-Baron-Samedit",
-            "title": "Robblackcatchai/porfolio-Baron-Samedit: this is a study about CVE-2021-3156: Heap-Based Buffer Overflow in Sudo (Baron Samedit)",
-            "date_modified": "2026-05-27T18:53:51.000Z",
-            "date_published": "2026-05-27T18:46:54.000Z",
-            "author": {
-                "name": "Robblackcatchai",
-                "url": "https://github.com/Robblackcatchai"
             }
         }
     ]

@@ -6,6 +6,17 @@
     "description": "CVE-2023 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/151980876?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>TOP All bugbounty pentesting CVE-2023- POC Exp  RCE example payload  Things</div>",
+            "url": "https://github.com/GhostTroops/TOP",
+            "title": "GhostTroops/TOP: TOP All bugbounty pentesting CVE-2023- POC Exp  RCE example payload  Things",
+            "date_modified": "2026-06-17T03:37:54.000Z",
+            "date_published": "2022-03-19T01:54:15.000Z",
+            "author": {
+                "name": "GhostTroops",
+                "url": "https://github.com/GhostTroops"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/28319566?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Educational proof-of-concept for CVE-2023-34468 affecting Apache NiFi. Demonstrates H2 JDBC URL abuse leading to authenticated RCE in vulnerable NiFi versions.</div>",
             "url": "https://github.com/spikeyjr/CVE-2023-34468-PoC",
             "title": "spikeyjr/CVE-2023-34468-PoC: Educational proof-of-concept for CVE-2023-34468 affecting Apache NiFi. Demonstrates H2 JDBC URL abuse leading to authenticated RCE in vulnerable NiFi versions.",
@@ -47,17 +58,6 @@
             "author": {
                 "name": "r4uzn",
                 "url": "https://github.com/r4uzn"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/151980876?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>TOP All bugbounty pentesting CVE-2023- POC Exp  RCE example payload  Things</div>",
-            "url": "https://github.com/GhostTroops/TOP",
-            "title": "GhostTroops/TOP: TOP All bugbounty pentesting CVE-2023- POC Exp  RCE example payload  Things",
-            "date_modified": "2026-06-16T03:38:22.000Z",
-            "date_published": "2022-03-19T01:54:15.000Z",
-            "author": {
-                "name": "GhostTroops",
-                "url": "https://github.com/GhostTroops"
             }
         },
         {
