@@ -9,11 +9,22 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/182138871?u=5a625dbde10ddebc6f9772ae9e409b49e97a97f1&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Chrome extension that uses vulnerabilities CVE-2021-33044 and CVE-2021-33045 to log in to Dahua cameras without authentication.</div>",
             "url": "https://github.com/Bd-Mutant7/DahuaLoginBypass",
             "title": "Bd-Mutant7/DahuaLoginBypass: Chrome extension that uses vulnerabilities CVE-2021-33044 and CVE-2021-33045 to log in to Dahua cameras without authentication.",
-            "date_modified": "2026-06-19T07:34:16.000Z",
+            "date_modified": "2026-06-19T11:52:18.000Z",
             "date_published": "2026-03-28T17:42:44.000Z",
             "author": {
                 "name": "Bd-Mutant7",
                 "url": "https://github.com/Bd-Mutant7"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/183918033?u=4a1b1ab3f6c5e1fa8fe55e317101eabe7d1415ac&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>RAG system that answers natural language questions about CVE vulnerabilities using ChromaDB vector search + Groq (Llama 3.3 70B). Knowledge base: 494 real CVEs from 2021-2024.</div>",
+            "url": "https://github.com/pablenr/cve-intelligence-assistant",
+            "title": "pablenr/cve-intelligence-assistant: RAG system that answers natural language questions about CVE vulnerabilities using ChromaDB vector search + Groq (Llama 3.3 70B). Knowledge base: 494 real CVEs from 2021-2024.",
+            "date_modified": "2026-06-19T11:49:03.000Z",
+            "date_published": "2026-06-19T11:38:38.000Z",
+            "author": {
+                "name": "pablenr",
+                "url": "https://github.com/pablenr"
             }
         },
         {
@@ -105,7 +116,7 @@
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/259905299?u=9b72faad30df37ab137d1530ff5f9f4b17dfab75&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2021-44228</div>",
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/259905299?u=b199a0d15f67409cd8517bff7a01268a9a7a9b72&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2021-44228</div>",
             "url": "https://github.com/0xBlackash/CVE-2021-44228",
             "title": "0xBlackash/CVE-2021-44228: CVE-2021-44228",
             "date_modified": "2026-06-14T14:29:22.000Z",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "bhimsekhar",
                 "url": "https://github.com/bhimsekhar"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/192468305?u=4b779d4bde606405724b405daa54eba240650238&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
-            "url": "https://github.com/Okymi-X/CVE-2021-43798",
-            "title": "Okymi-X/CVE-2021-43798",
-            "date_modified": "2026-06-02T19:42:54.000Z",
-            "date_published": "2026-06-02T19:27:13.000Z",
-            "author": {
-                "name": "Okymi-X",
-                "url": "https://github.com/Okymi-X"
             }
         }
     ]
