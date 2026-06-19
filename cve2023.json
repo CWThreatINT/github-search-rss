@@ -6,6 +6,17 @@
     "description": "CVE-2023 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/86880893?u=d6bbd88131676396515fd5c6b7f24ce742cb3162&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>PoC exploit for CVE-2023-6019 - Remote Code Execution via unauthenticated Ray Dashboard Jobs API.</div>",
+            "url": "https://github.com/joaquinrrr/CVE-2023-6019",
+            "title": "joaquinrrr/CVE-2023-6019: PoC exploit for CVE-2023-6019 - Remote Code Execution via unauthenticated Ray Dashboard Jobs API.",
+            "date_modified": "2026-06-19T19:11:06.000Z",
+            "date_published": "2026-06-19T19:08:58.000Z",
+            "author": {
+                "name": "joaquinrrr",
+                "url": "https://github.com/joaquinrrr"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/151980876?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>TOP All bugbounty pentesting CVE-2023- POC Exp  RCE example payload  Things</div>",
             "url": "https://github.com/GhostTroops/TOP",
             "title": "GhostTroops/TOP: TOP All bugbounty pentesting CVE-2023- POC Exp  RCE example payload  Things",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "Catherines77",
                 "url": "https://github.com/Catherines77"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/36542035?u=2d12c62b403f46ed9e5dba84f98427466d83e671&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Python research notes and tooling for CVE-2023-28121</div>",
-            "url": "https://github.com/1337nemojj/CVE-2023-28121",
-            "title": "1337nemojj/CVE-2023-28121: Python research notes and tooling for CVE-2023-28121",
-            "date_modified": "2026-06-07T10:02:28.000Z",
-            "date_published": "2023-11-03T22:02:11.000Z",
-            "author": {
-                "name": "1337nemojj",
-                "url": "https://github.com/1337nemojj"
             }
         }
     ]
