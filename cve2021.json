@@ -6,25 +6,25 @@
     "description": "CVE-2021 FEED on GitHub",
     "items": [
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/23316198?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>повышение привилегий через race condition в polkit</div>",
-            "url": "https://github.com/adakoifman/CVE-2021-3560",
-            "title": "adakoifman/CVE-2021-3560: повышение привилегий через race condition в polkit",
-            "date_modified": "2026-06-19T19:16:05.000Z",
-            "date_published": "2026-06-19T19:16:01.000Z",
-            "author": {
-                "name": "adakoifman",
-                "url": "https://github.com/adakoifman"
-            }
-        },
-        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/182138871?u=5a625dbde10ddebc6f9772ae9e409b49e97a97f1&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Chrome extension that uses vulnerabilities CVE-2021-33044 and CVE-2021-33045 to log in to Dahua cameras without authentication.</div>",
             "url": "https://github.com/Bd-Mutant7/DahuaLoginBypass",
             "title": "Bd-Mutant7/DahuaLoginBypass: Chrome extension that uses vulnerabilities CVE-2021-33044 and CVE-2021-33045 to log in to Dahua cameras without authentication.",
-            "date_modified": "2026-06-19T19:09:21.000Z",
+            "date_modified": "2026-06-19T20:46:25.000Z",
             "date_published": "2026-03-28T17:42:44.000Z",
             "author": {
                 "name": "Bd-Mutant7",
                 "url": "https://github.com/Bd-Mutant7"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/23316198?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Повышение привилегий через race condition в polkit</div>",
+            "url": "https://github.com/adakoifman/CVE-2021-3560",
+            "title": "adakoifman/CVE-2021-3560: Повышение привилегий через race condition в polkit",
+            "date_modified": "2026-06-19T20:26:55.000Z",
+            "date_published": "2026-06-19T19:16:01.000Z",
+            "author": {
+                "name": "adakoifman",
+                "url": "https://github.com/adakoifman"
             }
         },
         {

@@ -6,6 +6,17 @@
     "description": "CVE-2022 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/70909693?u=0f866dddd15fab5d60225009bc79d6aa66a2f975&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
+            "url": "https://github.com/K3ysTr0K3R/CVE-2022-0543",
+            "title": "K3ysTr0K3R/CVE-2022-0543",
+            "date_modified": "2026-06-19T20:40:00.000Z",
+            "date_published": "2026-06-19T20:39:56.000Z",
+            "author": {
+                "name": "K3ysTr0K3R",
+                "url": "https://github.com/K3ysTr0K3R"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/16516497?u=89b3d13f301b5a05002ae883221b9af24ffdd726&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>NimbusPwn (CVE-2022-29799/29800) local privilege escalation PoC in C.</div>",
             "url": "https://github.com/joshuavanderpoll/NimbusPWN-CVE-2022-29799-29800",
             "title": "joshuavanderpoll/NimbusPWN-CVE-2022-29799-29800: NimbusPwn (CVE-2022-29799/29800) local privilege escalation PoC in C.",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "Nefhara",
                 "url": "https://github.com/Nefhara"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/49409453?u=ef18d649b5126f83ed578bcd88843cb3afabaf42&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Description</div>",
-            "url": "https://github.com/march0n/PoC-CVE-2022-22965-Spring4Shell",
-            "title": "march0n/PoC-CVE-2022-22965-Spring4Shell: Description",
-            "date_modified": "2026-05-27T12:37:47.000Z",
-            "date_published": "2026-05-27T12:23:49.000Z",
-            "author": {
-                "name": "march0n",
-                "url": "https://github.com/march0n"
             }
         }
     ]
