@@ -6,6 +6,17 @@
     "description": "CVE-2023 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/291318255?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
+            "url": "https://github.com/aelshimony-cloud/OpenWire-CVE-2023-46604-Investigation",
+            "title": "aelshimony-cloud/OpenWire-CVE-2023-46604-Investigation",
+            "date_modified": "2026-06-20T22:04:51.000Z",
+            "date_published": "2026-06-20T21:57:34.000Z",
+            "author": {
+                "name": "aelshimony-cloud",
+                "url": "https://github.com/aelshimony-cloud"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/144266550?u=5bcddb6ff5f7abdd5545964eba40e86e9c018923&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
             "url": "https://github.com/xl337x/CVE-2023-31902",
             "title": "xl337x/CVE-2023-31902",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "REGGYRAIDER",
                 "url": "https://github.com/REGGYRAIDER"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/283362890?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Plan v3 US-6: coredns-style fork fixture for Scanner E2E (CVE-2023-39325)</div>",
-            "url": "https://github.com/eilam-cell/cve-test-coredns-fork",
-            "title": "eilam-cell/cve-test-coredns-fork: Plan v3 US-6: coredns-style fork fixture for Scanner E2E (CVE-2023-39325)",
-            "date_modified": "2026-06-08T09:06:54.000Z",
-            "date_published": "2026-06-01T13:27:24.000Z",
-            "author": {
-                "name": "eilam-cell",
-                "url": "https://github.com/eilam-cell"
             }
         }
     ]
