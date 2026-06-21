@@ -9,11 +9,22 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/120130511?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>oob_entry tfp0 kernel exploit for armv7 iOS (iOS 3.0–10.3.4), using CVE-2023-32434. We will publish a write-up detailing the methods in the coming weeks. 🐙</div>",
             "url": "https://github.com/rkrakesh524/oob_entry",
             "title": "rkrakesh524/oob_entry: oob_entry tfp0 kernel exploit for armv7 iOS (iOS 3.0–10.3.4), using CVE-2023-32434. We will publish a write-up detailing the methods in the coming weeks. 🐙",
-            "date_modified": "2026-06-21T09:12:44.000Z",
+            "date_modified": "2026-06-21T11:28:02.000Z",
             "date_published": "2025-08-13T09:19:29.000Z",
             "author": {
                 "name": "rkrakesh524",
                 "url": "https://github.com/rkrakesh524"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/287076898?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Traveller is an Easy Linux machine featuring a Joomla 4.2.7 travel booking website vulnerable to CVE-2023-23752, an unauthenticated REST API information disclosure that leaks database credentials, leading to admin panel access, remote code execution, and root via sudo misconfiguration.</div>",
+            "url": "https://github.com/Sharma01672/traveller-htb",
+            "title": "Sharma01672/traveller-htb: Traveller is an Easy Linux machine featuring a Joomla 4.2.7 travel booking website vulnerable to CVE-2023-23752, an unauthenticated REST API information disclosure that leaks database credentials, leading to admin panel access, remote code execution, and root via sudo misconfiguration.",
+            "date_modified": "2026-06-21T09:52:51.000Z",
+            "date_published": "2026-06-21T09:41:42.000Z",
+            "author": {
+                "name": "Sharma01672",
+                "url": "https://github.com/Sharma01672"
             }
         },
         {
@@ -212,17 +223,6 @@
             "author": {
                 "name": "Mr-Whiskerss",
                 "url": "https://github.com/Mr-Whiskerss"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/265893143?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2023-21716 - Microsoft Word RTF fonttbl Heap Corruption RCE exploit with reverse shell payload</div>",
-            "url": "https://github.com/REGGYRAIDER/CVE-2023-21716",
-            "title": "REGGYRAIDER/CVE-2023-21716: CVE-2023-21716 - Microsoft Word RTF fonttbl Heap Corruption RCE exploit with reverse shell payload",
-            "date_modified": "2026-06-08T11:37:54.000Z",
-            "date_published": "2026-06-08T11:37:09.000Z",
-            "author": {
-                "name": "REGGYRAIDER",
-                "url": "https://github.com/REGGYRAIDER"
             }
         }
     ]
