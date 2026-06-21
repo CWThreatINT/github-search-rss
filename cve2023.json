@@ -6,6 +6,17 @@
     "description": "CVE-2023 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/188628610?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Security-maintenance fork of disintegration/imaging (CVE-2023-36308 fix) used by Tala WTE</div>",
+            "url": "https://github.com/vtemlabs/imaging",
+            "title": "vtemlabs/imaging: Security-maintenance fork of disintegration/imaging (CVE-2023-36308 fix) used by Tala WTE",
+            "date_modified": "2026-06-21T18:30:28.000Z",
+            "date_published": "2026-06-21T18:27:34.000Z",
+            "author": {
+                "name": "vtemlabs",
+                "url": "https://github.com/vtemlabs"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/120130511?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>oob_entry tfp0 kernel exploit for armv7 iOS (iOS 3.0–10.3.4), using CVE-2023-32434. We will publish a write-up detailing the methods in the coming weeks. 🐙</div>",
             "url": "https://github.com/rkrakesh524/oob_entry",
             "title": "rkrakesh524/oob_entry: oob_entry tfp0 kernel exploit for armv7 iOS (iOS 3.0–10.3.4), using CVE-2023-32434. We will publish a write-up detailing the methods in the coming weeks. 🐙",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "horrister",
                 "url": "https://github.com/horrister"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/42265828?u=4ebaa756dc0a00bc004a5898863ab6d56cae3af5&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
-            "url": "https://github.com/Mr-Whiskerss/SSH-Terrapin-Prefix-Truncation-Weakness-CVE-2023-48795-Checker",
-            "title": "Mr-Whiskerss/SSH-Terrapin-Prefix-Truncation-Weakness-CVE-2023-48795-Checker",
-            "date_modified": "2026-06-08T16:42:26.000Z",
-            "date_published": "2026-06-08T16:36:18.000Z",
-            "author": {
-                "name": "Mr-Whiskerss",
-                "url": "https://github.com/Mr-Whiskerss"
             }
         }
     ]
