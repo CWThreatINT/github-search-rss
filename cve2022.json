@@ -6,6 +6,17 @@
     "description": "CVE-2022 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/88006098?u=179b2bb241060cdcac8280d10c0fa6e099b17930&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>SLUBStick exploitation of CVE-2022-32250. Converting a Netfilter UAF into a cross-cache arbitrary memory R/W primitive through PTE manipulation.</div>",
+            "url": "https://github.com/LSinus/CacheMeIfYouCan",
+            "title": "LSinus/CacheMeIfYouCan: SLUBStick exploitation of CVE-2022-32250. Converting a Netfilter UAF into a cross-cache arbitrary memory R/W primitive through PTE manipulation.",
+            "date_modified": "2026-06-21T20:04:38.000Z",
+            "date_published": "2026-02-23T17:33:28.000Z",
+            "author": {
+                "name": "LSinus",
+                "url": "https://github.com/LSinus"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/281986064?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>JFrog AppTrust lifecycle policy enforcement demo — shows release gate blocking CVE-2022-22965 (Spring4Shell) with waiver request flow</div>",
             "url": "https://github.com/ernestom-commits/jfrog-apptrust-demo",
             "title": "ernestom-commits/jfrog-apptrust-demo: JFrog AppTrust lifecycle policy enforcement demo — shows release gate blocking CVE-2022-22965 (Spring4Shell) with waiver request flow",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "anupamojha-eng",
                 "url": "https://github.com/anupamojha-eng"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/88013057?u=71c7f52b55227d5b9fe582b882d3a568f4e46ee2&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Vulnerability research on Tesla Model 3/Y infotainment systems. 6 vulnerabilities, 4 CVEs (CVE-2022-42005 through CVE-2022-42008). Root shell, persistent access, insurance telemetry spoofing.</div>",
-            "url": "https://github.com/AnalyticETH/tesla-security-research",
-            "title": "AnalyticETH/tesla-security-research: Vulnerability research on Tesla Model 3/Y infotainment systems. 6 vulnerabilities, 4 CVEs (CVE-2022-42005 through CVE-2022-42008). Root shell, persistent access, insurance telemetry spoofing.",
-            "date_modified": "2026-06-18T15:18:32.000Z",
-            "date_published": "2026-05-31T18:16:43.000Z",
-            "author": {
-                "name": "AnalyticETH",
-                "url": "https://github.com/AnalyticETH"
             }
         }
     ]
