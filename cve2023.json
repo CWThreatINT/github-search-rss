@@ -6,10 +6,21 @@
     "description": "CVE-2023 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/206423085?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2023-31290 Scanner </div>",
+            "url": "https://github.com/ethicbrudhack/CVE-2023-31290-Scanner-",
+            "title": "ethicbrudhack/CVE-2023-31290-Scanner-: CVE-2023-31290 Scanner ",
+            "date_modified": "2026-06-22T17:17:52.000Z",
+            "date_published": "2026-06-22T17:09:48.000Z",
+            "author": {
+                "name": "ethicbrudhack",
+                "url": "https://github.com/ethicbrudhack"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/120130511?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>oob_entry tfp0 kernel exploit for armv7 iOS (iOS 3.0–10.3.4), using CVE-2023-32434. We will publish a write-up detailing the methods in the coming weeks. 🐙</div>",
             "url": "https://github.com/rkrakesh524/oob_entry",
             "title": "rkrakesh524/oob_entry: oob_entry tfp0 kernel exploit for armv7 iOS (iOS 3.0–10.3.4), using CVE-2023-32434. We will publish a write-up detailing the methods in the coming weeks. 🐙",
-            "date_modified": "2026-06-22T09:53:07.000Z",
+            "date_modified": "2026-06-22T14:55:33.000Z",
             "date_published": "2025-08-13T09:19:29.000Z",
             "author": {
                 "name": "rkrakesh524",
@@ -182,7 +193,7 @@
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/191168547?u=d8c36e6995b78f1fab3fa7ac39e89bbdf8574904&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>From deobfuscating code.js to root, CVE-2023-0386</div>",
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/191168547?u=c72f45acbba7591032bf811e53e43633577e67bc&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>From deobfuscating code.js to root, CVE-2023-0386</div>",
             "url": "https://github.com/achnouri/TwoMillion-Machine",
             "title": "achnouri/TwoMillion-Machine: From deobfuscating code.js to root, CVE-2023-0386",
             "date_modified": "2026-06-12T02:29:15.000Z",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "amar-imamovic",
                 "url": "https://github.com/amar-imamovic"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/33124690?u=7d4175685a49e9b17ffdd7a32ba15db72f670f72&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>GLPI cve-2023-36808</div>",
-            "url": "https://github.com/fransosiche/exploit-cve-2023-36808",
-            "title": "fransosiche/exploit-cve-2023-36808: GLPI cve-2023-36808",
-            "date_modified": "2026-06-10T23:27:22.000Z",
-            "date_published": "2026-06-10T12:33:34.000Z",
-            "author": {
-                "name": "fransosiche",
-                "url": "https://github.com/fransosiche"
             }
         }
     ]
