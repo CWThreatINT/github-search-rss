@@ -6,25 +6,25 @@
     "description": "CVE-2021 FEED on GitHub",
     "items": [
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/291429318?u=66140baf32336150a88e32fd75d17febb0531104&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>El exploit para obtener root usado la vulnerabilidad del CVE-2021-4034 o tambien llamado PwnKit el cual permite teniendo un shell hacer una escalada de privilegios siempre y cuando la version de pkexec sea = o &lt; que la v0.105</div>",
-            "url": "https://github.com/ropydev/CVE-2021-4034-PwnKit",
-            "title": "ropydev/CVE-2021-4034-PwnKit: El exploit para obtener root usado la vulnerabilidad del CVE-2021-4034 o tambien llamado PwnKit el cual permite teniendo un shell hacer una escalada de privilegios siempre y cuando la version de pkexec sea = o < que la v0.105",
-            "date_modified": "2026-06-22T17:06:42.000Z",
-            "date_published": "2026-06-22T16:01:50.000Z",
-            "author": {
-                "name": "ropydev",
-                "url": "https://github.com/ropydev"
-            }
-        },
-        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/182138871?u=5a625dbde10ddebc6f9772ae9e409b49e97a97f1&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Chrome extension that uses vulnerabilities CVE-2021-33044 and CVE-2021-33045 to log in to Dahua cameras without authentication.</div>",
             "url": "https://github.com/Bd-Mutant7/DahuaLoginBypass",
             "title": "Bd-Mutant7/DahuaLoginBypass: Chrome extension that uses vulnerabilities CVE-2021-33044 and CVE-2021-33045 to log in to Dahua cameras without authentication.",
-            "date_modified": "2026-06-22T16:05:23.000Z",
+            "date_modified": "2026-06-22T19:41:01.000Z",
             "date_published": "2026-03-28T17:42:44.000Z",
             "author": {
                 "name": "Bd-Mutant7",
                 "url": "https://github.com/Bd-Mutant7"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/291429318?u=66140baf32336150a88e32fd75d17febb0531104&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>El exploit para obtener root usado la vulnerabilidad del CVE-2021-4034 o tambien llamado PwnKit el cual permite teniendo un shell hacer una escalada de privilegios siempre y cuando la version de pkexec sea = o &lt; que la v0.105</div>",
+            "url": "https://github.com/ropydev/CVE-2021-4034-PwnKit",
+            "title": "ropydev/CVE-2021-4034-PwnKit: El exploit para obtener root usado la vulnerabilidad del CVE-2021-4034 o tambien llamado PwnKit el cual permite teniendo un shell hacer una escalada de privilegios siempre y cuando la version de pkexec sea = o < que la v0.105",
+            "date_modified": "2026-06-22T17:45:59.000Z",
+            "date_published": "2026-06-22T16:01:50.000Z",
+            "author": {
+                "name": "ropydev",
+                "url": "https://github.com/ropydev"
             }
         },
         {
