@@ -6,6 +6,17 @@
     "description": "CVE-2022 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/25614871?u=d45b52abc84b3796e40ae6995a6592e2ba5b2f48&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Security research and CVE write-ups by Steven Amador (HackinKraken) - CVE-2022-2650, CVE-2026-39338</div>",
+            "url": "https://github.com/HackinKraken/Security-Research-and-CVE",
+            "title": "HackinKraken/Security-Research-and-CVE: Security research and CVE write-ups by Steven Amador (HackinKraken) - CVE-2022-2650, CVE-2026-39338",
+            "date_modified": "2026-06-22T03:45:51.000Z",
+            "date_published": "2026-04-12T07:49:34.000Z",
+            "author": {
+                "name": "HackinKraken",
+                "url": "https://github.com/HackinKraken"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/88006098?u=179b2bb241060cdcac8280d10c0fa6e099b17930&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>SLUBStick exploitation of CVE-2022-32250. Converting a Netfilter UAF into a cross-cache arbitrary memory R/W primitive through PTE manipulation.</div>",
             "url": "https://github.com/LSinus/CacheMeIfYouCan",
             "title": "LSinus/CacheMeIfYouCan: SLUBStick exploitation of CVE-2022-32250. Converting a Netfilter UAF into a cross-cache arbitrary memory R/W primitive through PTE manipulation.",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "JoshAtticus",
                 "url": "https://github.com/JoshAtticus"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/169581961?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Sentinel demo: transitive snakeyaml CVE-2022-1471 via Spring Boot + exploitable code pattern</div>",
-            "url": "https://github.com/anupamojha-eng/sentinel-transitive-cve-demo",
-            "title": "anupamojha-eng/sentinel-transitive-cve-demo: Sentinel demo: transitive snakeyaml CVE-2022-1471 via Spring Boot + exploitable code pattern",
-            "date_modified": "2026-06-02T05:01:31.000Z",
-            "date_published": "2026-06-01T09:33:10.000Z",
-            "author": {
-                "name": "anupamojha-eng",
-                "url": "https://github.com/anupamojha-eng"
             }
         }
     ]
