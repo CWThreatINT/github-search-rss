@@ -6,14 +6,113 @@
     "description": "CVE-2022 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/69421356?u=089e0b1fac87102ae26b9214b7d7bffd9d38fe60&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>The manage engine mass loader for CVE-2022-47966</div>",
+            "url": "https://github.com/SystemVll/CVE-2022-47966",
+            "title": "SystemVll/CVE-2022-47966: The manage engine mass loader for CVE-2022-47966",
+            "date_modified": "2026-06-23T21:20:40.000Z",
+            "date_published": "2023-01-23T10:45:23.000Z",
+            "author": {
+                "name": "SystemVll",
+                "url": "https://github.com/SystemVll"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/69421356?u=089e0b1fac87102ae26b9214b7d7bffd9d38fe60&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Cacti Unauthenticated Command Injection</div>",
+            "url": "https://github.com/SystemVll/CVE-2022-46169",
+            "title": "SystemVll/CVE-2022-46169: Cacti Unauthenticated Command Injection",
+            "date_modified": "2026-06-23T21:20:39.000Z",
+            "date_published": "2023-01-02T18:03:26.000Z",
+            "author": {
+                "name": "SystemVll",
+                "url": "https://github.com/SystemVll"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/69421356?u=089e0b1fac87102ae26b9214b7d7bffd9d38fe60&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Proof of concept for CVE-2022-31814</div>",
+            "url": "https://github.com/SystemVll/CVE-2022-31814",
+            "title": "SystemVll/CVE-2022-31814: Proof of concept for CVE-2022-31814",
+            "date_modified": "2026-06-23T21:20:39.000Z",
+            "date_published": "2025-01-16T13:59:45.000Z",
+            "author": {
+                "name": "SystemVll",
+                "url": "https://github.com/SystemVll"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/69421356?u=089e0b1fac87102ae26b9214b7d7bffd9d38fe60&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A bots loader for CVE-2022-29464 with multithreading</div>",
+            "url": "https://github.com/SystemVll/CVE-2022-29464",
+            "title": "SystemVll/CVE-2022-29464: A bots loader for CVE-2022-29464 with multithreading",
+            "date_modified": "2026-06-23T21:20:39.000Z",
+            "date_published": "2022-05-15T08:51:16.000Z",
+            "author": {
+                "name": "SystemVll",
+                "url": "https://github.com/SystemVll"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/69421356?u=089e0b1fac87102ae26b9214b7d7bffd9d38fe60&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A loader for zimbra 2022 rce (cve-2022-27925)</div>",
+            "url": "https://github.com/SystemVll/CVE-2022-27925",
+            "title": "SystemVll/CVE-2022-27925: A loader for zimbra 2022 rce (cve-2022-27925)",
+            "date_modified": "2026-06-23T21:20:40.000Z",
+            "date_published": "2022-10-01T10:33:55.000Z",
+            "author": {
+                "name": "SystemVll",
+                "url": "https://github.com/SystemVll"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/69421356?u=089e0b1fac87102ae26b9214b7d7bffd9d38fe60&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>The first proof of concept of the Contao CMS RCE</div>",
+            "url": "https://github.com/SystemVll/CVE-2022-26265",
+            "title": "SystemVll/CVE-2022-26265: The first proof of concept of the Contao CMS RCE",
+            "date_modified": "2026-06-23T21:20:39.000Z",
+            "date_published": "2022-12-01T23:11:19.000Z",
+            "author": {
+                "name": "SystemVll",
+                "url": "https://github.com/SystemVll"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/69421356?u=089e0b1fac87102ae26b9214b7d7bffd9d38fe60&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>The FreeBSD ICMP buffer overflow, freebsd buffer overflow poc</div>",
+            "url": "https://github.com/SystemVll/CVE-2022-23093",
+            "title": "SystemVll/CVE-2022-23093: The FreeBSD ICMP buffer overflow, freebsd buffer overflow poc",
+            "date_modified": "2026-06-23T21:20:40.000Z",
+            "date_published": "2023-03-02T20:18:54.000Z",
+            "author": {
+                "name": "SystemVll",
+                "url": "https://github.com/SystemVll"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/69421356?u=089e0b1fac87102ae26b9214b7d7bffd9d38fe60&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A loader for bitbucket 2022 rce (cve-2022-36804)</div>",
+            "url": "https://github.com/SystemVll/CVE-2022-36804",
+            "title": "SystemVll/CVE-2022-36804: A loader for bitbucket 2022 rce (cve-2022-36804)",
+            "date_modified": "2026-06-23T21:20:39.000Z",
+            "date_published": "2022-09-26T08:35:31.000Z",
+            "author": {
+                "name": "SystemVll",
+                "url": "https://github.com/SystemVll"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/278274242?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Demonstrate local privilege escalation in networkd-dispatcher via CVE-2022-29799 and CVE-2022-29800 using this C proof of concept.</div>",
             "url": "https://github.com/pansyhebephrenic23/NimbusPWN-CVE-2022-29799-29800",
             "title": "pansyhebephrenic23/NimbusPWN-CVE-2022-29799-29800: Demonstrate local privilege escalation in networkd-dispatcher via CVE-2022-29799 and CVE-2022-29800 using this C proof of concept.",
-            "date_modified": "2026-06-23T18:31:01.000Z",
+            "date_modified": "2026-06-23T20:44:24.000Z",
             "date_published": "2026-06-23T14:05:18.000Z",
             "author": {
                 "name": "pansyhebephrenic23",
                 "url": "https://github.com/pansyhebephrenic23"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/25614871?u=d45b52abc84b3796e40ae6995a6592e2ba5b2f48&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Security research and CVE write-ups by Steven Amador (HackinKraken) - CVE-2022-2650, CVE-2026-39338</div>",
+            "url": "https://github.com/HackinKraken/Security-Research-and-CVE",
+            "title": "HackinKraken/Security-Research-and-CVE: Security research and CVE write-ups by Steven Amador (HackinKraken) - CVE-2022-2650, CVE-2026-39338",
+            "date_modified": "2026-06-23T20:36:42.000Z",
+            "date_published": "2026-04-12T07:49:34.000Z",
+            "author": {
+                "name": "HackinKraken",
+                "url": "https://github.com/HackinKraken"
             }
         },
         {
@@ -58,17 +157,6 @@
             "author": {
                 "name": "Chaelsoo",
                 "url": "https://github.com/Chaelsoo"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/25614871?u=d45b52abc84b3796e40ae6995a6592e2ba5b2f48&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Security research and CVE write-ups by Steven Amador (HackinKraken) - CVE-2022-2650, CVE-2026-39338</div>",
-            "url": "https://github.com/HackinKraken/Security-Research-and-CVE",
-            "title": "HackinKraken/Security-Research-and-CVE: Security research and CVE write-ups by Steven Amador (HackinKraken) - CVE-2022-2650, CVE-2026-39338",
-            "date_modified": "2026-06-22T06:30:00.000Z",
-            "date_published": "2026-04-12T07:49:34.000Z",
-            "author": {
-                "name": "HackinKraken",
-                "url": "https://github.com/HackinKraken"
             }
         },
         {
@@ -135,94 +223,6 @@
             "author": {
                 "name": "czabatta",
                 "url": "https://github.com/czabatta"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/68686790?u=ed4d88445780adb05173d6f07d8ed85d9a62bd46&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
-            "url": "https://github.com/mutur4/CVE-2022-38691",
-            "title": "mutur4/CVE-2022-38691",
-            "date_modified": "2026-06-15T07:52:36.000Z",
-            "date_published": "2026-06-15T07:52:36.000Z",
-            "author": {
-                "name": "mutur4",
-                "url": "https://github.com/mutur4"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/216897593?u=3f662f31149ead992ced56fb18f05e0aa429602b&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
-            "url": "https://github.com/kaleth4/CVE-2022-30190",
-            "title": "kaleth4/CVE-2022-30190",
-            "date_modified": "2026-06-14T21:13:53.000Z",
-            "date_published": "2026-06-14T21:06:56.000Z",
-            "author": {
-                "name": "kaleth4",
-                "url": "https://github.com/kaleth4"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/237575522?u=f450ccecbf111316c55885123e085b62dca3d34e&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Spring4Shell (CVE-2022-22965) 漏洞環境搭建與 CTF 題目</div>",
-            "url": "https://github.com/YUTING-HUANG0/Spring4Shell-CTF",
-            "title": "YUTING-HUANG0/Spring4Shell-CTF: Spring4Shell (CVE-2022-22965) 漏洞環境搭建與 CTF 題目",
-            "date_modified": "2026-06-14T15:47:21.000Z",
-            "date_published": "2026-05-27T09:23:58.000Z",
-            "author": {
-                "name": "YUTING-HUANG0",
-                "url": "https://github.com/YUTING-HUANG0"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/257444977?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>LAB CVE</div>",
-            "url": "https://github.com/hieudzpro2k10-svg/CVE_2022_352526",
-            "title": "hieudzpro2k10-svg/CVE_2022_352526: LAB CVE",
-            "date_modified": "2026-06-13T11:11:16.000Z",
-            "date_published": "2026-06-13T11:11:15.000Z",
-            "author": {
-                "name": "hieudzpro2k10-svg",
-                "url": "https://github.com/hieudzpro2k10-svg"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/240505746?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Magisk root guide for ZTE Blade X1001 (Android 15, Unisoc UMS9230) using CVE-2022-38694 exploit. Contributions and screenshots welcome.</div>",
-            "url": "https://github.com/sloden1977-lang/ROOT-ZTE-X1001",
-            "title": "sloden1977-lang/ROOT-ZTE-X1001: Magisk root guide for ZTE Blade X1001 (Android 15, Unisoc UMS9230) using CVE-2022-38694 exploit. Contributions and screenshots welcome.",
-            "date_modified": "2026-06-12T15:00:20.000Z",
-            "date_published": "2026-06-12T14:49:05.000Z",
-            "author": {
-                "name": "sloden1977-lang",
-                "url": "https://github.com/sloden1977-lang"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/266545470?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Biblioteca curada de referência canônica em cybersegurança (pt-BR): 213 arquivos cobrindo MITRE ATT&amp;CK/ATLAS/D3FEND/CAPEC, OWASP, NIST CSF/SP800-53/SSDF, ISO 27001:2022, CIS Controls v8, PCI DSS v4.0, CVE/CWE/CVSS, STIX/TAXII, threat intel e mais.</div>",
-            "url": "https://github.com/izaurogabriel-hash/seguranca",
-            "title": "izaurogabriel-hash/seguranca: Biblioteca curada de referência canônica em cybersegurança (pt-BR): 213 arquivos cobrindo MITRE ATT&CK/ATLAS/D3FEND/CAPEC, OWASP, NIST CSF/SP800-53/SSDF, ISO 27001:2022, CIS Controls v8, PCI DSS v4.0, CVE/CWE/CVSS, STIX/TAXII, threat intel e mais.",
-            "date_modified": "2026-06-10T19:58:18.000Z",
-            "date_published": "2026-04-07T16:27:01.000Z",
-            "author": {
-                "name": "izaurogabriel-hash",
-                "url": "https://github.com/izaurogabriel-hash"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/38815439?u=7c5a5946eb7d5c98d137837c9a916d2c7dcdb223&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>POC for CVE-2022-39996 (Reflected XSS) and CVE-2022-39997 (Weak Password) in Teldat RS123/RS123w Router</div>",
-            "url": "https://github.com/uyhacked/Teldat-Router-CVE-2022-POC",
-            "title": "uyhacked/Teldat-Router-CVE-2022-POC: POC for CVE-2022-39996 (Reflected XSS) and CVE-2022-39997 (Weak Password) in Teldat RS123/RS123w Router",
-            "date_modified": "2026-06-09T05:43:37.000Z",
-            "date_published": "2026-06-09T05:13:44.000Z",
-            "author": {
-                "name": "uyhacked",
-                "url": "https://github.com/uyhacked"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/73120825?u=4bb8e7b9e01cd8915b9d997948e3a21c209dffb1&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
-            "url": "https://github.com/entr0pie/demo-cve-2022-22947",
-            "title": "entr0pie/demo-cve-2022-22947",
-            "date_modified": "2026-06-08T19:38:42.000Z",
-            "date_published": "2026-06-02T14:24:24.000Z",
-            "author": {
-                "name": "entr0pie",
-                "url": "https://github.com/entr0pie"
             }
         }
     ]
