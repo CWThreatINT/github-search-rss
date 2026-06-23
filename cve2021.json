@@ -6,25 +6,36 @@
     "description": "CVE-2021 FEED on GitHub",
     "items": [
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/243733926?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Mutation testing on X.509 Certificate Validation IN OpenSSL v.1.1.1h, based on CVE-2021-3450.</div>",
-            "url": "https://github.com/dedellix/MUT-BC-SS-01",
-            "title": "dedellix/MUT-BC-SS-01: Mutation testing on X.509 Certificate Validation IN OpenSSL v.1.1.1h, based on CVE-2021-3450.",
-            "date_modified": "2026-06-23T05:41:12.000Z",
-            "date_published": "2026-06-23T04:00:29.000Z",
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/296035383?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>aaPanel WebSocket CSRF Bypass leading to RCE (Incomplete fix for CVE-2021-37840)</div>",
+            "url": "https://github.com/EonSecurity/aapanel-ws-bypass",
+            "title": "EonSecurity/aapanel-ws-bypass: aaPanel WebSocket CSRF Bypass leading to RCE (Incomplete fix for CVE-2021-37840)",
+            "date_modified": "2026-06-23T08:24:33.000Z",
+            "date_published": "2026-06-23T03:21:10.000Z",
             "author": {
-                "name": "dedellix",
-                "url": "https://github.com/dedellix"
+                "name": "EonSecurity",
+                "url": "https://github.com/EonSecurity"
             }
         },
         {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/182138871?u=5a625dbde10ddebc6f9772ae9e409b49e97a97f1&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Chrome extension that uses vulnerabilities CVE-2021-33044 and CVE-2021-33045 to log in to Dahua cameras without authentication.</div>",
             "url": "https://github.com/Bd-Mutant7/DahuaLoginBypass",
             "title": "Bd-Mutant7/DahuaLoginBypass: Chrome extension that uses vulnerabilities CVE-2021-33044 and CVE-2021-33045 to log in to Dahua cameras without authentication.",
-            "date_modified": "2026-06-23T04:36:47.000Z",
+            "date_modified": "2026-06-23T08:19:17.000Z",
             "date_published": "2026-03-28T17:42:44.000Z",
             "author": {
                 "name": "Bd-Mutant7",
                 "url": "https://github.com/Bd-Mutant7"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/243733926?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Mutation testing on X.509 Certificate Validation IN OpenSSL v.1.1.1h, based on CVE-2021-3450.</div>",
+            "url": "https://github.com/dedellix/MUT-BC-SS-01",
+            "title": "dedellix/MUT-BC-SS-01: Mutation testing on X.509 Certificate Validation IN OpenSSL v.1.1.1h, based on CVE-2021-3450.",
+            "date_modified": "2026-06-23T07:08:23.000Z",
+            "date_published": "2026-06-23T04:00:29.000Z",
+            "author": {
+                "name": "dedellix",
+                "url": "https://github.com/dedellix"
             }
         },
         {
@@ -36,17 +47,6 @@
             "author": {
                 "name": "Joapath",
                 "url": "https://github.com/Joapath"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/296035383?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>aaPanel WebSocket CSRF Bypass leading to RCE (Incomplete fix for CVE-2021-37840)</div>",
-            "url": "https://github.com/EonSecurity/aapanel-ws-bypass",
-            "title": "EonSecurity/aapanel-ws-bypass: aaPanel WebSocket CSRF Bypass leading to RCE (Incomplete fix for CVE-2021-37840)",
-            "date_modified": "2026-06-23T03:33:54.000Z",
-            "date_published": "2026-06-23T03:21:10.000Z",
-            "author": {
-                "name": "EonSecurity",
-                "url": "https://github.com/EonSecurity"
             }
         },
         {
