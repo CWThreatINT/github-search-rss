@@ -6,6 +6,28 @@
     "description": "CVE-2022 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/281986064?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>JFrog AppTrust lifecycle policy enforcement demo — shows release gate blocking CVE-2022-22965 (Spring4Shell) with waiver request flow</div>",
+            "url": "https://github.com/ernestom-commits/jfrog-apptrust-demo",
+            "title": "ernestom-commits/jfrog-apptrust-demo: JFrog AppTrust lifecycle policy enforcement demo — shows release gate blocking CVE-2022-22965 (Spring4Shell) with waiver request flow",
+            "date_modified": "2026-06-23T23:46:18.000Z",
+            "date_published": "2026-06-21T03:02:40.000Z",
+            "author": {
+                "name": "ernestom-commits",
+                "url": "https://github.com/ernestom-commits"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/278274242?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Demonstrate local privilege escalation in networkd-dispatcher via CVE-2022-29799 and CVE-2022-29800 using this C proof of concept.</div>",
+            "url": "https://github.com/pansyhebephrenic23/NimbusPWN-CVE-2022-29799-29800",
+            "title": "pansyhebephrenic23/NimbusPWN-CVE-2022-29799-29800: Demonstrate local privilege escalation in networkd-dispatcher via CVE-2022-29799 and CVE-2022-29800 using this C proof of concept.",
+            "date_modified": "2026-06-23T23:36:35.000Z",
+            "date_published": "2026-06-23T14:05:18.000Z",
+            "author": {
+                "name": "pansyhebephrenic23",
+                "url": "https://github.com/pansyhebephrenic23"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/69421356?u=089e0b1fac87102ae26b9214b7d7bffd9d38fe60&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>The manage engine mass loader for CVE-2022-47966</div>",
             "url": "https://github.com/SystemVll/CVE-2022-47966",
             "title": "SystemVll/CVE-2022-47966: The manage engine mass loader for CVE-2022-47966",
@@ -94,17 +116,6 @@
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/278274242?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Demonstrate local privilege escalation in networkd-dispatcher via CVE-2022-29799 and CVE-2022-29800 using this C proof of concept.</div>",
-            "url": "https://github.com/pansyhebephrenic23/NimbusPWN-CVE-2022-29799-29800",
-            "title": "pansyhebephrenic23/NimbusPWN-CVE-2022-29799-29800: Demonstrate local privilege escalation in networkd-dispatcher via CVE-2022-29799 and CVE-2022-29800 using this C proof of concept.",
-            "date_modified": "2026-06-23T20:44:24.000Z",
-            "date_published": "2026-06-23T14:05:18.000Z",
-            "author": {
-                "name": "pansyhebephrenic23",
-                "url": "https://github.com/pansyhebephrenic23"
-            }
-        },
-        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/25614871?u=d45b52abc84b3796e40ae6995a6592e2ba5b2f48&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Security research and CVE write-ups by Steven Amador (HackinKraken) - CVE-2022-2650, CVE-2026-39338</div>",
             "url": "https://github.com/HackinKraken/Security-Research-and-CVE",
             "title": "HackinKraken/Security-Research-and-CVE: Security research and CVE write-ups by Steven Amador (HackinKraken) - CVE-2022-2650, CVE-2026-39338",
@@ -168,17 +179,6 @@
             "author": {
                 "name": "LSinus",
                 "url": "https://github.com/LSinus"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/281986064?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>JFrog AppTrust lifecycle policy enforcement demo — shows release gate blocking CVE-2022-22965 (Spring4Shell) with waiver request flow</div>",
-            "url": "https://github.com/ernestom-commits/jfrog-apptrust-demo",
-            "title": "ernestom-commits/jfrog-apptrust-demo: JFrog AppTrust lifecycle policy enforcement demo — shows release gate blocking CVE-2022-22965 (Spring4Shell) with waiver request flow",
-            "date_modified": "2026-06-21T05:27:09.000Z",
-            "date_published": "2026-06-21T03:02:40.000Z",
-            "author": {
-                "name": "ernestom-commits",
-                "url": "https://github.com/ernestom-commits"
             }
         },
         {
