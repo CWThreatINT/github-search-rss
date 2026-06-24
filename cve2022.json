@@ -9,11 +9,22 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/278274242?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Demonstrate local privilege escalation in networkd-dispatcher via CVE-2022-29799 and CVE-2022-29800 using this C proof of concept.</div>",
             "url": "https://github.com/pansyhebephrenic23/NimbusPWN-CVE-2022-29799-29800",
             "title": "pansyhebephrenic23/NimbusPWN-CVE-2022-29799-29800: Demonstrate local privilege escalation in networkd-dispatcher via CVE-2022-29799 and CVE-2022-29800 using this C proof of concept.",
-            "date_modified": "2026-06-24T11:46:25.000Z",
+            "date_modified": "2026-06-24T14:42:47.000Z",
             "date_published": "2026-06-23T14:05:18.000Z",
             "author": {
                 "name": "pansyhebephrenic23",
                 "url": "https://github.com/pansyhebephrenic23"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/176841317?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>ROOT TOOL</div>",
+            "url": "https://github.com/Massive43/CVE-2022-37706",
+            "title": "Massive43/CVE-2022-37706: ROOT TOOL",
+            "date_modified": "2026-06-24T13:16:51.000Z",
+            "date_published": "2026-06-24T13:15:37.000Z",
+            "author": {
+                "name": "Massive43",
+                "url": "https://github.com/Massive43"
             }
         },
         {
@@ -212,17 +223,6 @@
             "author": {
                 "name": "joshuavanderpoll",
                 "url": "https://github.com/joshuavanderpoll"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/123841147?u=f9f383b83cc0d496eff35779c35b9c2ff21931f7&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>TryHackMe SOC Level 1 — Follina CVE-2022-30190, Nim C2, Chisel, PrintSpoofer, backdoor accounts</div>",
-            "url": "https://github.com/czabatta/THM-Tempest",
-            "title": "czabatta/THM-Tempest: TryHackMe SOC Level 1 — Follina CVE-2022-30190, Nim C2, Chisel, PrintSpoofer, backdoor accounts",
-            "date_modified": "2026-06-15T20:56:31.000Z",
-            "date_published": "2026-06-15T20:37:10.000Z",
-            "author": {
-                "name": "czabatta",
-                "url": "https://github.com/czabatta"
             }
         }
     ]
