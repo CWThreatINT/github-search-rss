@@ -6,10 +6,21 @@
     "description": "CVE-2021 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/213002857?u=2a063839df9e86a53493c52f293be650b47970f4&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>DAHUA_AUTH-BYPASS-CVE-2021-33044</div>",
+            "url": "https://github.com/litndat/Camera-Dahua-Research-l-h-ng-CVE-2021-33044",
+            "title": "litndat/Camera-Dahua-Research-l-h-ng-CVE-2021-33044: DAHUA_AUTH-BYPASS-CVE-2021-33044",
+            "date_modified": "2026-06-24T12:34:24.000Z",
+            "date_published": "2026-06-24T12:31:56.000Z",
+            "author": {
+                "name": "litndat",
+                "url": "https://github.com/litndat"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/182138871?u=5a625dbde10ddebc6f9772ae9e409b49e97a97f1&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Chrome extension that uses vulnerabilities CVE-2021-33044 and CVE-2021-33045 to log in to Dahua cameras without authentication.</div>",
             "url": "https://github.com/Bd-Mutant7/DahuaLoginBypass",
             "title": "Bd-Mutant7/DahuaLoginBypass: Chrome extension that uses vulnerabilities CVE-2021-33044 and CVE-2021-33045 to log in to Dahua cameras without authentication.",
-            "date_modified": "2026-06-24T08:34:45.000Z",
+            "date_modified": "2026-06-24T11:26:03.000Z",
             "date_published": "2026-03-28T17:42:44.000Z",
             "author": {
                 "name": "Bd-Mutant7",
@@ -209,17 +220,6 @@
             "title": "d4ytox/CVE-2021-21425: CVE-2021-21425 - GravCMS 1.10.7 Unauthenticated RCE via Scheduler. Improved exploit with CLI args and auto base64 encoding.",
             "date_modified": "2026-06-15T08:59:10.000Z",
             "date_published": "2026-06-13T11:00:08.000Z",
-            "author": {
-                "name": "d4ytox",
-                "url": "https://github.com/d4ytox"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/204069580?u=b1bbb1e3b1b206347a2640efbbb49c1d3de94f67&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>ExifTool RCE exploit (CVE-2021-22204) - improved version, no exiftool dependency</div>",
-            "url": "https://github.com/d4ytox/CVE-2021-22204",
-            "title": "d4ytox/CVE-2021-22204: ExifTool RCE exploit (CVE-2021-22204) - improved version, no exiftool dependency",
-            "date_modified": "2026-06-13T11:15:45.000Z",
-            "date_published": "2026-06-13T11:14:25.000Z",
             "author": {
                 "name": "d4ytox",
                 "url": "https://github.com/d4ytox"
