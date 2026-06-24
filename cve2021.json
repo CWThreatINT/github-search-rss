@@ -6,10 +6,32 @@
     "description": "CVE-2021 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/265891812?u=7a4b742a33094c0c0952785a4764366040e2c41f&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Prueba de concepto de CVE-2021-41773</div>",
+            "url": "https://github.com/Joapath/CVE-2021-41773",
+            "title": "Joapath/CVE-2021-41773: Prueba de concepto de CVE-2021-41773",
+            "date_modified": "2026-06-24T23:50:10.000Z",
+            "date_published": "2026-06-23T04:07:49.000Z",
+            "author": {
+                "name": "Joapath",
+                "url": "https://github.com/Joapath"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/70909693?u=0f866dddd15fab5d60225009bc79d6aa66a2f975&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2021-22205 - GitLab Unauthenticated Remote Code Execution</div>",
+            "url": "https://github.com/K3ysTr0K3R/CVE-2021-22205",
+            "title": "K3ysTr0K3R/CVE-2021-22205: CVE-2021-22205 - GitLab Unauthenticated Remote Code Execution",
+            "date_modified": "2026-06-24T22:56:57.000Z",
+            "date_published": "2026-06-24T22:48:52.000Z",
+            "author": {
+                "name": "K3ysTr0K3R",
+                "url": "https://github.com/K3ysTr0K3R"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/182138871?u=5a625dbde10ddebc6f9772ae9e409b49e97a97f1&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Chrome extension that uses vulnerabilities CVE-2021-33044 and CVE-2021-33045 to log in to Dahua cameras without authentication.</div>",
             "url": "https://github.com/Bd-Mutant7/DahuaLoginBypass",
             "title": "Bd-Mutant7/DahuaLoginBypass: Chrome extension that uses vulnerabilities CVE-2021-33044 and CVE-2021-33045 to log in to Dahua cameras without authentication.",
-            "date_modified": "2026-06-24T21:41:02.000Z",
+            "date_modified": "2026-06-24T22:52:35.000Z",
             "date_published": "2026-03-28T17:42:44.000Z",
             "author": {
                 "name": "Bd-Mutant7",
@@ -44,17 +66,6 @@
             "title": "Joapath/CVE-2021-42013",
             "date_modified": "2026-06-24T01:09:22.000Z",
             "date_published": "2026-06-24T01:07:18.000Z",
-            "author": {
-                "name": "Joapath",
-                "url": "https://github.com/Joapath"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/265891812?u=7a4b742a33094c0c0952785a4764366040e2c41f&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Prueba de concepto de CVE-2021-41773</div>",
-            "url": "https://github.com/Joapath/CVE-2021-41773",
-            "title": "Joapath/CVE-2021-41773: Prueba de concepto de CVE-2021-41773",
-            "date_modified": "2026-06-24T00:53:40.000Z",
-            "date_published": "2026-06-23T04:07:49.000Z",
             "author": {
                 "name": "Joapath",
                 "url": "https://github.com/Joapath"
@@ -212,17 +223,6 @@
             "author": {
                 "name": "fxdyx-a",
                 "url": "https://github.com/fxdyx-a"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/259905299?u=58ac0fa7b6c74cedc0a0e556f7631877f3c8438b&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2021-44228</div>",
-            "url": "https://github.com/0xBlackash/CVE-2021-44228",
-            "title": "0xBlackash/CVE-2021-44228: CVE-2021-44228",
-            "date_modified": "2026-06-14T14:29:22.000Z",
-            "date_published": "2026-02-26T18:39:00.000Z",
-            "author": {
-                "name": "0xBlackash",
-                "url": "https://github.com/0xBlackash"
             }
         }
     ]

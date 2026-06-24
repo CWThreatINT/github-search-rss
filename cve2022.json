@@ -6,11 +6,11 @@
     "description": "CVE-2022 FEED on GitHub",
     "items": [
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/278536951?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>npm repo with ejs CVE-2022-29078 (CVSS 9.8, EPSS 32%) for Dependabot automerge testing</div>",
-            "url": "https://github.com/test-avm-714877d2df585126/vuln-ejs-critical",
-            "title": "test-avm-714877d2df585126/vuln-ejs-critical: npm repo with ejs CVE-2022-29078 (CVSS 9.8, EPSS 32%) for Dependabot automerge testing",
-            "date_modified": "2026-06-24T21:40:11.000Z",
-            "date_published": "2026-06-24T21:17:19.000Z",
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/278536951?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Dependabot security automerge test - ejs CVE-2022-29078</div>",
+            "url": "https://github.com/test-avm-714877d2df585126/C-test-2",
+            "title": "test-avm-714877d2df585126/C-test-2: Dependabot security automerge test - ejs CVE-2022-29078",
+            "date_modified": "2026-06-24T22:45:36.000Z",
+            "date_published": "2026-06-24T22:42:24.000Z",
             "author": {
                 "name": "test-avm-714877d2df585126",
                 "url": "https://github.com/test-avm-714877d2df585126"
@@ -20,11 +20,22 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/278274242?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Demonstrate local privilege escalation in networkd-dispatcher via CVE-2022-29799 and CVE-2022-29800 using this C proof of concept.</div>",
             "url": "https://github.com/pansyhebephrenic23/NimbusPWN-CVE-2022-29799-29800",
             "title": "pansyhebephrenic23/NimbusPWN-CVE-2022-29799-29800: Demonstrate local privilege escalation in networkd-dispatcher via CVE-2022-29799 and CVE-2022-29800 using this C proof of concept.",
-            "date_modified": "2026-06-24T19:58:34.000Z",
+            "date_modified": "2026-06-24T22:13:11.000Z",
             "date_published": "2026-06-23T14:05:18.000Z",
             "author": {
                 "name": "pansyhebephrenic23",
                 "url": "https://github.com/pansyhebephrenic23"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/278536951?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>npm repo with ejs CVE-2022-29078 (CVSS 9.8, EPSS 32%) for Dependabot automerge testing</div>",
+            "url": "https://github.com/test-avm-714877d2df585126/vuln-ejs-critical",
+            "title": "test-avm-714877d2df585126/vuln-ejs-critical: npm repo with ejs CVE-2022-29078 (CVSS 9.8, EPSS 32%) for Dependabot automerge testing",
+            "date_modified": "2026-06-24T21:40:11.000Z",
+            "date_published": "2026-06-24T21:17:19.000Z",
+            "author": {
+                "name": "test-avm-714877d2df585126",
+                "url": "https://github.com/test-avm-714877d2df585126"
             }
         },
         {
@@ -212,17 +223,6 @@
             "author": {
                 "name": "ninajafli",
                 "url": "https://github.com/ninajafli"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/70909693?u=0f866dddd15fab5d60225009bc79d6aa66a2f975&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>PoC for CVE-2022-0543 – Redis Remote Code Execution (RCE)</div>",
-            "url": "https://github.com/K3ysTr0K3R/CVE-2022-0543",
-            "title": "K3ysTr0K3R/CVE-2022-0543: PoC for CVE-2022-0543 – Redis Remote Code Execution (RCE)",
-            "date_modified": "2026-06-19T21:22:09.000Z",
-            "date_published": "2026-06-19T20:39:56.000Z",
-            "author": {
-                "name": "K3ysTr0K3R",
-                "url": "https://github.com/K3ysTr0K3R"
             }
         }
     ]
