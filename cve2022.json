@@ -6,6 +6,17 @@
     "description": "CVE-2022 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/278536951?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>npm repo with ejs CVE-2022-29078 (CVSS 9.8, EPSS 32%) for Dependabot automerge testing</div>",
+            "url": "https://github.com/test-avm-714877d2df585126/vuln-ejs-critical",
+            "title": "test-avm-714877d2df585126/vuln-ejs-critical: npm repo with ejs CVE-2022-29078 (CVSS 9.8, EPSS 32%) for Dependabot automerge testing",
+            "date_modified": "2026-06-24T21:40:11.000Z",
+            "date_published": "2026-06-24T21:17:19.000Z",
+            "author": {
+                "name": "test-avm-714877d2df585126",
+                "url": "https://github.com/test-avm-714877d2df585126"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/278274242?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Demonstrate local privilege escalation in networkd-dispatcher via CVE-2022-29799 and CVE-2022-29800 using this C proof of concept.</div>",
             "url": "https://github.com/pansyhebephrenic23/NimbusPWN-CVE-2022-29799-29800",
             "title": "pansyhebephrenic23/NimbusPWN-CVE-2022-29799-29800: Demonstrate local privilege escalation in networkd-dispatcher via CVE-2022-29799 and CVE-2022-29800 using this C proof of concept.",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "K3ysTr0K3R",
                 "url": "https://github.com/K3ysTr0K3R"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/16516497?u=89b3d13f301b5a05002ae883221b9af24ffdd726&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>NimbusPwn (CVE-2022-29799/29800) local privilege escalation PoC in C.</div>",
-            "url": "https://github.com/joshuavanderpoll/NimbusPWN-CVE-2022-29799-29800",
-            "title": "joshuavanderpoll/NimbusPWN-CVE-2022-29799-29800: NimbusPwn (CVE-2022-29799/29800) local privilege escalation PoC in C.",
-            "date_modified": "2026-06-21T04:48:55.000Z",
-            "date_published": "2026-06-17T19:44:47.000Z",
-            "author": {
-                "name": "joshuavanderpoll",
-                "url": "https://github.com/joshuavanderpoll"
             }
         }
     ]
