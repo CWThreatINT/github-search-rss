@@ -6,6 +6,28 @@
     "description": "CVE-2023 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/233620105?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
+            "url": "https://github.com/charlesjson/CVE-2023-20198",
+            "title": "charlesjson/CVE-2023-20198",
+            "date_modified": "2026-06-25T02:30:39.000Z",
+            "date_published": "2026-06-25T02:30:38.000Z",
+            "author": {
+                "name": "charlesjson",
+                "url": "https://github.com/charlesjson"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/120130511?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>oob_entry tfp0 kernel exploit for armv7 iOS (iOS 3.0–10.3.4), using CVE-2023-32434. We will publish a write-up detailing the methods in the coming weeks. 🐙</div>",
+            "url": "https://github.com/rkrakesh524/oob_entry",
+            "title": "rkrakesh524/oob_entry: oob_entry tfp0 kernel exploit for armv7 iOS (iOS 3.0–10.3.4), using CVE-2023-32434. We will publish a write-up detailing the methods in the coming weeks. 🐙",
+            "date_modified": "2026-06-25T01:23:48.000Z",
+            "date_published": "2025-08-13T09:19:29.000Z",
+            "author": {
+                "name": "rkrakesh524",
+                "url": "https://github.com/rkrakesh524"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/111023888?u=9b388d0892c4d911fc52d52b3c21453ec25517ed&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
             "url": "https://github.com/julianertle/CVE-2023-0386-CTF",
             "title": "julianertle/CVE-2023-0386-CTF",
@@ -14,17 +36,6 @@
             "author": {
                 "name": "julianertle",
                 "url": "https://github.com/julianertle"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/120130511?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>oob_entry tfp0 kernel exploit for armv7 iOS (iOS 3.0–10.3.4), using CVE-2023-32434. We will publish a write-up detailing the methods in the coming weeks. 🐙</div>",
-            "url": "https://github.com/rkrakesh524/oob_entry",
-            "title": "rkrakesh524/oob_entry: oob_entry tfp0 kernel exploit for armv7 iOS (iOS 3.0–10.3.4), using CVE-2023-32434. We will publish a write-up detailing the methods in the coming weeks. 🐙",
-            "date_modified": "2026-06-24T23:10:44.000Z",
-            "date_published": "2025-08-13T09:19:29.000Z",
-            "author": {
-                "name": "rkrakesh524",
-                "url": "https://github.com/rkrakesh524"
             }
         },
         {
@@ -212,17 +223,6 @@
             "author": {
                 "name": "lkq111",
                 "url": "https://github.com/lkq111"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/191168547?u=c72f45acbba7591032bf811e53e43633577e67bc&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>From deobfuscating code.js to root, CVE-2023-0386</div>",
-            "url": "https://github.com/anxs3c/TwoMillion-Machine",
-            "title": "anxs3c/TwoMillion-Machine: From deobfuscating code.js to root, CVE-2023-0386",
-            "date_modified": "2026-06-12T02:29:15.000Z",
-            "date_published": "2026-06-11T05:05:57.000Z",
-            "author": {
-                "name": "anxs3c",
-                "url": "https://github.com/anxs3c"
             }
         }
     ]
