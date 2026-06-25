@@ -9,11 +9,22 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/182138871?u=5a625dbde10ddebc6f9772ae9e409b49e97a97f1&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Chrome extension that uses vulnerabilities CVE-2021-33044 and CVE-2021-33045 to log in to Dahua cameras without authentication.</div>",
             "url": "https://github.com/Bd-Mutant7/DahuaLoginBypass",
             "title": "Bd-Mutant7/DahuaLoginBypass: Chrome extension that uses vulnerabilities CVE-2021-33044 and CVE-2021-33045 to log in to Dahua cameras without authentication.",
-            "date_modified": "2026-06-25T10:50:00.000Z",
+            "date_modified": "2026-06-25T15:45:08.000Z",
             "date_published": "2026-03-28T17:42:44.000Z",
             "author": {
                 "name": "Bd-Mutant7",
                 "url": "https://github.com/Bd-Mutant7"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/90069111?u=3ed2b6daff79c9995d818edc221198102c04d7d8&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Let's hijack our bootchain - CVE-2021-30327</div>",
+            "url": "https://github.com/Daniel224455/katana",
+            "title": "Daniel224455/katana: Let's hijack our bootchain - CVE-2021-30327",
+            "date_modified": "2026-06-25T16:03:46.000Z",
+            "date_published": "2026-06-25T12:12:38.000Z",
+            "author": {
+                "name": "Daniel224455",
+                "url": "https://github.com/Daniel224455"
             }
         },
         {
@@ -212,17 +223,6 @@
             "author": {
                 "name": "Joe1sn",
                 "url": "https://github.com/Joe1sn"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/66986299?u=d81c91255d62f47894f5e7347098427cf90147da&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>webapp vulnerable to CVE-2021-44228</div>",
-            "url": "https://github.com/limxuan/ehir-vuln-enterprise-login",
-            "title": "limxuan/ehir-vuln-enterprise-login: webapp vulnerable to CVE-2021-44228",
-            "date_modified": "2026-06-15T09:02:28.000Z",
-            "date_published": "2026-06-15T05:48:46.000Z",
-            "author": {
-                "name": "limxuan",
-                "url": "https://github.com/limxuan"
             }
         }
     ]
