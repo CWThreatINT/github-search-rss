@@ -9,11 +9,22 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/182138871?u=5a625dbde10ddebc6f9772ae9e409b49e97a97f1&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Chrome extension that uses vulnerabilities CVE-2021-33044 and CVE-2021-33045 to log in to Dahua cameras without authentication.</div>",
             "url": "https://github.com/Bd-Mutant7/DahuaLoginBypass",
             "title": "Bd-Mutant7/DahuaLoginBypass: Chrome extension that uses vulnerabilities CVE-2021-33044 and CVE-2021-33045 to log in to Dahua cameras without authentication.",
-            "date_modified": "2026-06-25T23:09:40.000Z",
+            "date_modified": "2026-06-26T01:29:35.000Z",
             "date_published": "2026-03-28T17:42:44.000Z",
             "author": {
                 "name": "Bd-Mutant7",
                 "url": "https://github.com/Bd-Mutant7"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/159681973?u=fa1c34b8904383f6c4fc24930c4ffc08000d42d0&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>历史漏洞的细节以及利用方法汇总收集</div>",
+            "url": "https://github.com/OracleNep/Nday-Exploit-Plan",
+            "title": "OracleNep/Nday-Exploit-Plan: 历史漏洞的细节以及利用方法汇总收集",
+            "date_modified": "2026-06-26T01:21:30.000Z",
+            "date_published": "2024-02-11T06:55:47.000Z",
+            "author": {
+                "name": "OracleNep",
+                "url": "https://github.com/OracleNep"
             }
         },
         {
@@ -212,17 +223,6 @@
             "author": {
                 "name": "DAADAISMYLIFE",
                 "url": "https://github.com/DAADAISMYLIFE"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/37005640?u=c724a3225c5df7eaf9fa0ac60786146169e75020&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>poc and exp for CVE_2021_1732, related to my analyze</div>",
-            "url": "https://github.com/Joe1sn/CVE_2021_1732",
-            "title": "Joe1sn/CVE_2021_1732: poc and exp for CVE_2021_1732, related to my analyze",
-            "date_modified": "2026-06-17T02:30:39.000Z",
-            "date_published": "2026-06-05T14:26:44.000Z",
-            "author": {
-                "name": "Joe1sn",
-                "url": "https://github.com/Joe1sn"
             }
         }
     ]
