@@ -9,11 +9,22 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/182138871?u=5a625dbde10ddebc6f9772ae9e409b49e97a97f1&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Chrome extension that uses vulnerabilities CVE-2021-33044 and CVE-2021-33045 to log in to Dahua cameras without authentication.</div>",
             "url": "https://github.com/Bd-Mutant7/DahuaLoginBypass",
             "title": "Bd-Mutant7/DahuaLoginBypass: Chrome extension that uses vulnerabilities CVE-2021-33044 and CVE-2021-33045 to log in to Dahua cameras without authentication.",
-            "date_modified": "2026-06-26T23:50:40.000Z",
+            "date_modified": "2026-06-27T06:00:31.000Z",
             "date_published": "2026-03-28T17:42:44.000Z",
             "author": {
                 "name": "Bd-Mutant7",
                 "url": "https://github.com/Bd-Mutant7"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/100122463?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Utilize Tai-e to identify the Log4shell (a.k.a. CVE-2021-44228) Vulnerability</div>",
+            "url": "https://github.com/Tai-e/CVE-2021-44228",
+            "title": "Tai-e/CVE-2021-44228: Utilize Tai-e to identify the Log4shell (a.k.a. CVE-2021-44228) Vulnerability",
+            "date_modified": "2026-06-27T05:47:59.000Z",
+            "date_published": "2023-10-06T04:36:31.000Z",
+            "author": {
+                "name": "Tai-e",
+                "url": "https://github.com/Tai-e"
             }
         },
         {
@@ -212,17 +223,6 @@
             "author": {
                 "name": "Kranti08",
                 "url": "https://github.com/Kranti08"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/115148898?u=9c46cb2dcd7bd2be937ef9863539afef1c4fb40e&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Log4Shell (CVE-2021-44228) 보안 실습 환경 - Log4j 2.14.1 취약 로그 수집 서버</div>",
-            "url": "https://github.com/DAADAISMYLIFE/log4shell-lab",
-            "title": "DAADAISMYLIFE/log4shell-lab: Log4Shell (CVE-2021-44228) 보안 실습 환경 - Log4j 2.14.1 취약 로그 수집 서버",
-            "date_modified": "2026-06-17T08:40:06.000Z",
-            "date_published": "2026-06-17T08:32:57.000Z",
-            "author": {
-                "name": "DAADAISMYLIFE",
-                "url": "https://github.com/DAADAISMYLIFE"
             }
         }
     ]
