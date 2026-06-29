@@ -6,6 +6,17 @@
     "description": "CVE-2023 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/40407438?u=5cd3bfc56a9fabaec587e053b54bff95ba49ba96&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Pure C exploit for CVE-2023-4911 (Looney Tunables). No Python required. Features multi-processing brute-forcing, dynamic calibration, and integrated ELF parser.</div>",
+            "url": "https://github.com/jarpex/cve-2023-4911-exploit-optimized",
+            "title": "jarpex/cve-2023-4911-exploit-optimized: Pure C exploit for CVE-2023-4911 (Looney Tunables). No Python required. Features multi-processing brute-forcing, dynamic calibration, and integrated ELF parser.",
+            "date_modified": "2026-06-29T21:34:46.000Z",
+            "date_published": "2026-06-29T21:05:09.000Z",
+            "author": {
+                "name": "jarpex",
+                "url": "https://github.com/jarpex"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/120130511?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>oob_entry tfp0 kernel exploit for armv7 iOS (iOS 3.0–10.3.4), using CVE-2023-32434. We will publish a write-up detailing the methods in the coming weeks. 🐙</div>",
             "url": "https://github.com/rkrakesh524/oob_entry",
             "title": "rkrakesh524/oob_entry: oob_entry tfp0 kernel exploit for armv7 iOS (iOS 3.0–10.3.4), using CVE-2023-32434. We will publish a write-up detailing the methods in the coming weeks. 🐙",
@@ -20,7 +31,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/105335451?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Cert exploit for MTK devices.There is a logic flaw in MTK cert verification process.Similar to CVE-2023-20696.</div>",
             "url": "https://github.com/kasnria001/pwnage24mtk",
             "title": "kasnria001/pwnage24mtk: Cert exploit for MTK devices.There is a logic flaw in MTK cert verification process.Similar to CVE-2023-20696.",
-            "date_modified": "2026-06-29T20:36:21.000Z",
+            "date_modified": "2026-06-29T21:21:22.000Z",
             "date_published": "2026-06-22T02:09:35.000Z",
             "author": {
                 "name": "kasnria001",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "xl337x",
                 "url": "https://github.com/xl337x"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/86880893?u=d6bbd88131676396515fd5c6b7f24ce742cb3162&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>PoC exploit for CVE-2023-6019 - Remote Code Execution via unauthenticated Ray Dashboard Jobs API.</div>",
-            "url": "https://github.com/joaquinrrr/CVE-2023-6019",
-            "title": "joaquinrrr/CVE-2023-6019: PoC exploit for CVE-2023-6019 - Remote Code Execution via unauthenticated Ray Dashboard Jobs API.",
-            "date_modified": "2026-06-23T02:15:12.000Z",
-            "date_published": "2026-06-19T19:08:58.000Z",
-            "author": {
-                "name": "joaquinrrr",
-                "url": "https://github.com/joaquinrrr"
             }
         }
     ]
