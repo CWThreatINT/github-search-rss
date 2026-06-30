@@ -9,11 +9,22 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/278274242?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Demonstrate local privilege escalation in networkd-dispatcher via CVE-2022-29799 and CVE-2022-29800 using this C proof of concept.</div>",
             "url": "https://github.com/pansyhebephrenic23/NimbusPWN-CVE-2022-29799-29800",
             "title": "pansyhebephrenic23/NimbusPWN-CVE-2022-29799-29800: Demonstrate local privilege escalation in networkd-dispatcher via CVE-2022-29799 and CVE-2022-29800 using this C proof of concept.",
-            "date_modified": "2026-06-30T09:38:03.000Z",
+            "date_modified": "2026-06-30T12:05:11.000Z",
             "date_published": "2026-06-23T14:05:18.000Z",
             "author": {
                 "name": "pansyhebephrenic23",
                 "url": "https://github.com/pansyhebephrenic23"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/110045228?u=8503b4aa34758b305b70e739c8e76b9e8cd1c417&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
+            "url": "https://github.com/Kuri119/CVE-2022-22965-Spring4Shell",
+            "title": "Kuri119/CVE-2022-22965-Spring4Shell",
+            "date_modified": "2026-06-30T11:23:26.000Z",
+            "date_published": "2026-06-30T11:06:42.000Z",
+            "author": {
+                "name": "Kuri119",
+                "url": "https://github.com/Kuri119"
             }
         },
         {
@@ -212,17 +223,6 @@
             "author": {
                 "name": "ethicbrudhack",
                 "url": "https://github.com/ethicbrudhack"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/56998716?u=65f247fd281afc1303938085d37e8b5e710727f5&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A proof of concept for CVE-2022-30190 (Follina).</div>",
-            "url": "https://github.com/winstxnhdw/CVE-2022-30190",
-            "title": "winstxnhdw/CVE-2022-30190: A proof of concept for CVE-2022-30190 (Follina).",
-            "date_modified": "2026-06-22T10:03:21.000Z",
-            "date_published": "2022-09-15T16:12:57.000Z",
-            "author": {
-                "name": "winstxnhdw",
-                "url": "https://github.com/winstxnhdw"
             }
         }
     ]
