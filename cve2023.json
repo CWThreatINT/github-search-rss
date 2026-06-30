@@ -6,6 +6,39 @@
     "description": "CVE-2023 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/120130511?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>oob_entry tfp0 kernel exploit for armv7 iOS (iOS 3.0–10.3.4), using CVE-2023-32434. We will publish a write-up detailing the methods in the coming weeks. 🐙</div>",
+            "url": "https://github.com/rkrakesh524/oob_entry",
+            "title": "rkrakesh524/oob_entry: oob_entry tfp0 kernel exploit for armv7 iOS (iOS 3.0–10.3.4), using CVE-2023-32434. We will publish a write-up detailing the methods in the coming weeks. 🐙",
+            "date_modified": "2026-06-30T04:37:44.000Z",
+            "date_published": "2025-08-13T09:19:29.000Z",
+            "author": {
+                "name": "rkrakesh524",
+                "url": "https://github.com/rkrakesh524"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/144773569?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
+            "url": "https://github.com/astrocombat1607/CVE-2023-27146-LocalPotato-Priviledge-Escalation",
+            "title": "astrocombat1607/CVE-2023-27146-LocalPotato-Priviledge-Escalation",
+            "date_modified": "2026-06-30T03:24:38.000Z",
+            "date_published": "2024-07-28T08:56:56.000Z",
+            "author": {
+                "name": "astrocombat1607",
+                "url": "https://github.com/astrocombat1607"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/151980876?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>TOP All bugbounty pentesting CVE-2023- POC Exp  RCE example payload  Things</div>",
+            "url": "https://github.com/GhostTroops/TOP",
+            "title": "GhostTroops/TOP: TOP All bugbounty pentesting CVE-2023- POC Exp  RCE example payload  Things",
+            "date_modified": "2026-06-30T02:53:21.000Z",
+            "date_published": "2022-03-19T01:54:15.000Z",
+            "author": {
+                "name": "GhostTroops",
+                "url": "https://github.com/GhostTroops"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/103023268?u=4532e5aab5a6e9da2cdb873eaf007ecb0ec8f079&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>POC exploit via unsafe `eval()` usage in Searchor (&lt; 2.4.2)</div>",
             "url": "https://github.com/Herick-Costa/CVE-2023-43364-Searchor-RCE-Exploit",
             "title": "Herick-Costa/CVE-2023-43364-Searchor-RCE-Exploit: POC exploit via unsafe `eval()` usage in Searchor (< 2.4.2)",
@@ -20,22 +53,11 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/105335451?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Cert exploit for MTK devices.There is a logic flaw in MTK cert verification process.Similar to CVE-2023-20696.</div>",
             "url": "https://github.com/kasnria001/pwnage24mtk",
             "title": "kasnria001/pwnage24mtk: Cert exploit for MTK devices.There is a logic flaw in MTK cert verification process.Similar to CVE-2023-20696.",
-            "date_modified": "2026-06-30T01:58:53.000Z",
+            "date_modified": "2026-06-30T05:46:07.000Z",
             "date_published": "2026-06-22T02:09:35.000Z",
             "author": {
                 "name": "kasnria001",
                 "url": "https://github.com/kasnria001"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/120130511?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>oob_entry tfp0 kernel exploit for armv7 iOS (iOS 3.0–10.3.4), using CVE-2023-32434. We will publish a write-up detailing the methods in the coming weeks. 🐙</div>",
-            "url": "https://github.com/rkrakesh524/oob_entry",
-            "title": "rkrakesh524/oob_entry: oob_entry tfp0 kernel exploit for armv7 iOS (iOS 3.0–10.3.4), using CVE-2023-32434. We will publish a write-up detailing the methods in the coming weeks. 🐙",
-            "date_modified": "2026-06-29T23:09:03.000Z",
-            "date_published": "2025-08-13T09:19:29.000Z",
-            "author": {
-                "name": "rkrakesh524",
-                "url": "https://github.com/rkrakesh524"
             }
         },
         {
@@ -83,21 +105,10 @@
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/151980876?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>TOP All bugbounty pentesting CVE-2023- POC Exp  RCE example payload  Things</div>",
-            "url": "https://github.com/GhostTroops/TOP",
-            "title": "GhostTroops/TOP: TOP All bugbounty pentesting CVE-2023- POC Exp  RCE example payload  Things",
-            "date_modified": "2026-06-29T03:28:09.000Z",
-            "date_published": "2022-03-19T01:54:15.000Z",
-            "author": {
-                "name": "GhostTroops",
-                "url": "https://github.com/GhostTroops"
-            }
-        },
-        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/141915211?u=0d47b2e96e4ab5193843068b2b2a7a488f23b8cb&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Apache ActiveMQ漏洞综合利用工具(CVE-2015-5254，CVE-2016-3088，CVE-2022-41678，CVE-2023-46604，CVE-2024-32114，CVE-2026-34197，CVE-2026-40466， CVE-2026-42588)</div>",
             "url": "https://github.com/Catherines77/ActiveMQ-EXPtools",
             "title": "Catherines77/ActiveMQ-EXPtools: Apache ActiveMQ漏洞综合利用工具(CVE-2015-5254，CVE-2016-3088，CVE-2022-41678，CVE-2023-46604，CVE-2024-32114，CVE-2026-34197，CVE-2026-40466， CVE-2026-42588)",
-            "date_modified": "2026-06-27T07:20:39.000Z",
+            "date_modified": "2026-06-30T02:26:00.000Z",
             "date_published": "2026-04-20T02:38:50.000Z",
             "author": {
                 "name": "Catherines77",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "vtemlabs",
                 "url": "https://github.com/vtemlabs"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/291318255?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
-            "url": "https://github.com/aelshimony-cloud/OpenWire-CVE-2023-46604-Investigation",
-            "title": "aelshimony-cloud/OpenWire-CVE-2023-46604-Investigation",
-            "date_modified": "2026-06-20T22:04:51.000Z",
-            "date_published": "2026-06-20T21:57:34.000Z",
-            "author": {
-                "name": "aelshimony-cloud",
-                "url": "https://github.com/aelshimony-cloud"
             }
         }
     ]
