@@ -6,6 +6,28 @@
     "description": "CVE-2023 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/103023268?u=4532e5aab5a6e9da2cdb873eaf007ecb0ec8f079&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>POC exploit via unsafe `eval()` usage in Searchor (&lt; 2.4.2)</div>",
+            "url": "https://github.com/Herick-Costa/CVE-2023-43364-Searchor-RCE-Exploit",
+            "title": "Herick-Costa/CVE-2023-43364-Searchor-RCE-Exploit: POC exploit via unsafe `eval()` usage in Searchor (< 2.4.2)",
+            "date_modified": "2026-06-30T00:39:40.000Z",
+            "date_published": "2026-06-30T00:12:09.000Z",
+            "author": {
+                "name": "Herick-Costa",
+                "url": "https://github.com/Herick-Costa"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/105335451?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Cert exploit for MTK devices.There is a logic flaw in MTK cert verification process.Similar to CVE-2023-20696.</div>",
+            "url": "https://github.com/kasnria001/pwnage24mtk",
+            "title": "kasnria001/pwnage24mtk: Cert exploit for MTK devices.There is a logic flaw in MTK cert verification process.Similar to CVE-2023-20696.",
+            "date_modified": "2026-06-30T01:58:53.000Z",
+            "date_published": "2026-06-22T02:09:35.000Z",
+            "author": {
+                "name": "kasnria001",
+                "url": "https://github.com/kasnria001"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/120130511?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>oob_entry tfp0 kernel exploit for armv7 iOS (iOS 3.0–10.3.4), using CVE-2023-32434. We will publish a write-up detailing the methods in the coming weeks. 🐙</div>",
             "url": "https://github.com/rkrakesh524/oob_entry",
             "title": "rkrakesh524/oob_entry: oob_entry tfp0 kernel exploit for armv7 iOS (iOS 3.0–10.3.4), using CVE-2023-32434. We will publish a write-up detailing the methods in the coming weeks. 🐙",
@@ -25,17 +47,6 @@
             "author": {
                 "name": "jarpex",
                 "url": "https://github.com/jarpex"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/105335451?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Cert exploit for MTK devices.There is a logic flaw in MTK cert verification process.Similar to CVE-2023-20696.</div>",
-            "url": "https://github.com/kasnria001/pwnage24mtk",
-            "title": "kasnria001/pwnage24mtk: Cert exploit for MTK devices.There is a logic flaw in MTK cert verification process.Similar to CVE-2023-20696.",
-            "date_modified": "2026-06-29T21:21:22.000Z",
-            "date_published": "2026-06-22T02:09:35.000Z",
-            "author": {
-                "name": "kasnria001",
-                "url": "https://github.com/kasnria001"
             }
         },
         {
@@ -212,17 +223,6 @@
             "author": {
                 "name": "aelshimony-cloud",
                 "url": "https://github.com/aelshimony-cloud"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/144266550?u=5bcddb6ff5f7abdd5545964eba40e86e9c018923&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
-            "url": "https://github.com/xl337x/CVE-2023-31902",
-            "title": "xl337x/CVE-2023-31902",
-            "date_modified": "2026-06-20T18:59:51.000Z",
-            "date_published": "2026-05-26T14:40:01.000Z",
-            "author": {
-                "name": "xl337x",
-                "url": "https://github.com/xl337x"
             }
         }
     ]
