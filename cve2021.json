@@ -9,11 +9,33 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/182138871?u=5a625dbde10ddebc6f9772ae9e409b49e97a97f1&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Chrome extension that uses vulnerabilities CVE-2021-33044 and CVE-2021-33045 to log in to Dahua cameras without authentication.</div>",
             "url": "https://github.com/Bd-Mutant7/DahuaLoginBypass",
             "title": "Bd-Mutant7/DahuaLoginBypass: Chrome extension that uses vulnerabilities CVE-2021-33044 and CVE-2021-33045 to log in to Dahua cameras without authentication.",
-            "date_modified": "2026-07-02T07:53:33.000Z",
+            "date_modified": "2026-07-02T10:34:26.000Z",
             "date_published": "2026-03-28T17:42:44.000Z",
             "author": {
                 "name": "Bd-Mutant7",
                 "url": "https://github.com/Bd-Mutant7"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/32034902?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A modified version of the Rapid7 Metasploit module for CVE-2021-27877 that supports direct command execution for reliable vulnerability validation. Includes documentation explaining the exploit workflow, the module modifications, and usage examples.</div>",
+            "url": "https://github.com/yashswarup12/CVE-2021-27877-PoC",
+            "title": "yashswarup12/CVE-2021-27877-PoC: A modified version of the Rapid7 Metasploit module for CVE-2021-27877 that supports direct command execution for reliable vulnerability validation. Includes documentation explaining the exploit workflow, the module modifications, and usage examples.",
+            "date_modified": "2026-07-02T09:01:04.000Z",
+            "date_published": "2026-07-02T08:55:27.000Z",
+            "author": {
+                "name": "yashswarup12",
+                "url": "https://github.com/yashswarup12"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/10350761?u=c7ce4bdba2dc7cd93a5104d96acd6e57dffcab8b&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>My take on unlocking Xperia 5 SO-01M for p42 bootloader using CVE-2021-1931</div>",
+            "url": "https://github.com/aomsin2526/xperia_5_bl_unlocker_poc",
+            "title": "aomsin2526/xperia_5_bl_unlocker_poc: My take on unlocking Xperia 5 SO-01M for p42 bootloader using CVE-2021-1931",
+            "date_modified": "2026-07-02T08:42:32.000Z",
+            "date_published": "2026-07-02T08:03:35.000Z",
+            "author": {
+                "name": "aomsin2526",
+                "url": "https://github.com/aomsin2526"
             }
         },
         {
@@ -201,28 +223,6 @@
             "author": {
                 "name": "wingerbijay",
                 "url": "https://github.com/wingerbijay"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/107343580?u=3d7c2a09685b50a434f001fb6f184183f6d305ac&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Aritifacts of docker env of CVE-2021-3975</div>",
-            "url": "https://github.com/yan5ui/ENV-CVE-2021-3975",
-            "title": "yan5ui/ENV-CVE-2021-3975: Aritifacts of docker env of CVE-2021-3975",
-            "date_modified": "2026-06-18T02:43:36.000Z",
-            "date_published": "2026-06-17T16:33:23.000Z",
-            "author": {
-                "name": "yan5ui",
-                "url": "https://github.com/yan5ui"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/112960691?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Windows POC for CVE-2021-34427 affecting Birt Viewer</div>",
-            "url": "https://github.com/rt1252/CVE-2021-34427",
-            "title": "rt1252/CVE-2021-34427: Windows POC for CVE-2021-34427 affecting Birt Viewer",
-            "date_modified": "2026-06-17T23:52:54.000Z",
-            "date_published": "2026-06-17T23:48:19.000Z",
-            "author": {
-                "name": "rt1252",
-                "url": "https://github.com/rt1252"
             }
         }
     ]
