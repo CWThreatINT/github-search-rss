@@ -6,10 +6,21 @@
     "description": "CVE-2021 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/5639911?u=5b1946e52bd8de4ee899abf83ddb51b549aaf730&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Chrome extension that uses vulnerabilities CVE-2021-33044 and CVE-2021-33045 to log in to Dahua cameras without authentication.</div>",
+            "url": "https://github.com/bp2008/DahuaLoginBypass",
+            "title": "bp2008/DahuaLoginBypass: Chrome extension that uses vulnerabilities CVE-2021-33044 and CVE-2021-33045 to log in to Dahua cameras without authentication.",
+            "date_modified": "2026-07-03T15:44:33.000Z",
+            "date_published": "2021-10-11T22:08:47.000Z",
+            "author": {
+                "name": "bp2008",
+                "url": "https://github.com/bp2008"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/182138871?u=5a625dbde10ddebc6f9772ae9e409b49e97a97f1&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Chrome extension that uses vulnerabilities CVE-2021-33044 and CVE-2021-33045 to log in to Dahua cameras without authentication.</div>",
             "url": "https://github.com/Bd-Mutant7/DahuaLoginBypass",
             "title": "Bd-Mutant7/DahuaLoginBypass: Chrome extension that uses vulnerabilities CVE-2021-33044 and CVE-2021-33045 to log in to Dahua cameras without authentication.",
-            "date_modified": "2026-07-03T13:07:45.000Z",
+            "date_modified": "2026-07-03T15:23:49.000Z",
             "date_published": "2026-03-28T17:42:44.000Z",
             "author": {
                 "name": "Bd-Mutant7",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "pablenr",
                 "url": "https://github.com/pablenr"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/64668074?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Unauthenticated RCE exploit for Veritas Backup Exec Agent (CVE-2021-27876/77/78) — SHA auth bypass to SYSTEM via NDMP</div>",
-            "url": "https://github.com/wingerbijay/CVE-2021-27876",
-            "title": "wingerbijay/CVE-2021-27876: Unauthenticated RCE exploit for Veritas Backup Exec Agent (CVE-2021-27876/77/78) — SHA auth bypass to SYSTEM via NDMP",
-            "date_modified": "2026-06-22T10:23:08.000Z",
-            "date_published": "2026-06-18T06:58:57.000Z",
-            "author": {
-                "name": "wingerbijay",
-                "url": "https://github.com/wingerbijay"
             }
         }
     ]
