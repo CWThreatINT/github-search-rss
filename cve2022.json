@@ -9,11 +9,33 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/278274242?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Demonstrate local privilege escalation in networkd-dispatcher via CVE-2022-29799 and CVE-2022-29800 using this C proof of concept.</div>",
             "url": "https://github.com/pansyhebephrenic23/NimbusPWN-CVE-2022-29799-29800",
             "title": "pansyhebephrenic23/NimbusPWN-CVE-2022-29799-29800: Demonstrate local privilege escalation in networkd-dispatcher via CVE-2022-29799 and CVE-2022-29800 using this C proof of concept.",
-            "date_modified": "2026-07-02T21:28:01.000Z",
+            "date_modified": "2026-07-03T03:01:07.000Z",
             "date_published": "2026-06-23T14:05:18.000Z",
             "author": {
                 "name": "pansyhebephrenic23",
                 "url": "https://github.com/pansyhebephrenic23"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/61143679?u=42a42a03c75aca56088933b5b33671e8836ede3a&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Redis 7.0.0 核心模块重构与漏洞修复交付（重构 sds/adlist/intset/listpack，相似度≤20%；修复 CVE-2023-25155/28856、CVE-2024-31449、CVE-2022-36021、CVE-2022-31144 等漏洞）</div>",
+            "url": "https://github.com/qwqqaqqwq00/opensource_defect_repare_cc",
+            "title": "qwqqaqqwq00/opensource_defect_repare_cc: Redis 7.0.0 核心模块重构与漏洞修复交付（重构 sds/adlist/intset/listpack，相似度≤20%；修复 CVE-2023-25155/28856、CVE-2024-31449、CVE-2022-36021、CVE-2022-31144 等漏洞）",
+            "date_modified": "2026-07-03T00:56:30.000Z",
+            "date_published": "2026-07-03T00:55:25.000Z",
+            "author": {
+                "name": "qwqqaqqwq00",
+                "url": "https://github.com/qwqqaqqwq00"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/61143679?u=42a42a03c75aca56088933b5b33671e8836ede3a&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Redis 7.0.0 核心模块重构与漏洞修复交付（重构 sds/adlist/intset/listpack，相似度≤20%；修复 CVE-2023-25155/28856、CVE-2024-31449、CVE-2022-36021、CVE-2022-31144 等漏洞）</div>",
+            "url": "https://github.com/qwqqaqqwq00/opensource_defect_repair_cc",
+            "title": "qwqqaqqwq00/opensource_defect_repair_cc: Redis 7.0.0 核心模块重构与漏洞修复交付（重构 sds/adlist/intset/listpack，相似度≤20%；修复 CVE-2023-25155/28856、CVE-2024-31449、CVE-2022-36021、CVE-2022-31144 等漏洞）",
+            "date_modified": "2026-07-03T00:54:46.000Z",
+            "date_published": "2026-07-03T00:54:46.000Z",
+            "author": {
+                "name": "qwqqaqqwq00",
+                "url": "https://github.com/qwqqaqqwq00"
             }
         },
         {
@@ -201,28 +223,6 @@
             "author": {
                 "name": "SystemVll",
                 "url": "https://github.com/SystemVll"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/69421356?u=089e0b1fac87102ae26b9214b7d7bffd9d38fe60&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A loader for bitbucket 2022 rce (cve-2022-36804)</div>",
-            "url": "https://github.com/SystemVll/CVE-2022-36804",
-            "title": "SystemVll/CVE-2022-36804: A loader for bitbucket 2022 rce (cve-2022-36804)",
-            "date_modified": "2026-06-23T21:20:39.000Z",
-            "date_published": "2022-09-26T08:35:31.000Z",
-            "author": {
-                "name": "SystemVll",
-                "url": "https://github.com/SystemVll"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/25614871?u=d45b52abc84b3796e40ae6995a6592e2ba5b2f48&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Security research and CVE write-ups by Steven Amador (HackinKraken) - CVE-2022-2650, CVE-2026-39338</div>",
-            "url": "https://github.com/HackinKraken/Security-Research-and-CVE",
-            "title": "HackinKraken/Security-Research-and-CVE: Security research and CVE write-ups by Steven Amador (HackinKraken) - CVE-2022-2650, CVE-2026-39338",
-            "date_modified": "2026-06-23T20:36:42.000Z",
-            "date_published": "2026-04-12T07:49:34.000Z",
-            "author": {
-                "name": "HackinKraken",
-                "url": "https://github.com/HackinKraken"
             }
         }
     ]
