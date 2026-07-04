@@ -6,6 +6,17 @@
     "description": "CVE-2022 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/278274242?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Demonstrate local privilege escalation in networkd-dispatcher via CVE-2022-29799 and CVE-2022-29800 using this C proof of concept.</div>",
+            "url": "https://github.com/pansyhebephrenic23/NimbusPWN-CVE-2022-29799-29800",
+            "title": "pansyhebephrenic23/NimbusPWN-CVE-2022-29799-29800: Demonstrate local privilege escalation in networkd-dispatcher via CVE-2022-29799 and CVE-2022-29800 using this C proof of concept.",
+            "date_modified": "2026-07-04T08:03:29.000Z",
+            "date_published": "2026-06-23T14:05:18.000Z",
+            "author": {
+                "name": "pansyhebephrenic23",
+                "url": "https://github.com/pansyhebephrenic23"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/214934109?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Script de python para Webmin 1.996</div>",
             "url": "https://github.com/darnabin/CVE-2022-36446-Webmin-RCE",
             "title": "darnabin/CVE-2022-36446-Webmin-RCE: Script de python para Webmin 1.996",
@@ -14,17 +25,6 @@
             "author": {
                 "name": "darnabin",
                 "url": "https://github.com/darnabin"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/278274242?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Demonstrate local privilege escalation in networkd-dispatcher via CVE-2022-29799 and CVE-2022-29800 using this C proof of concept.</div>",
-            "url": "https://github.com/pansyhebephrenic23/NimbusPWN-CVE-2022-29799-29800",
-            "title": "pansyhebephrenic23/NimbusPWN-CVE-2022-29799-29800: Demonstrate local privilege escalation in networkd-dispatcher via CVE-2022-29799 and CVE-2022-29800 using this C proof of concept.",
-            "date_modified": "2026-07-04T02:39:02.000Z",
-            "date_published": "2026-06-23T14:05:18.000Z",
-            "author": {
-                "name": "pansyhebephrenic23",
-                "url": "https://github.com/pansyhebephrenic23"
             }
         },
         {
