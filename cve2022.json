@@ -6,10 +6,21 @@
     "description": "CVE-2022 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/214934109?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Script de python para Webmin 1.996</div>",
+            "url": "https://github.com/darnabin/CVE-2022-36446-Webmin-RCE",
+            "title": "darnabin/CVE-2022-36446-Webmin-RCE: Script de python para Webmin 1.996",
+            "date_modified": "2026-07-04T04:48:13.000Z",
+            "date_published": "2026-07-04T04:33:47.000Z",
+            "author": {
+                "name": "darnabin",
+                "url": "https://github.com/darnabin"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/278274242?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Demonstrate local privilege escalation in networkd-dispatcher via CVE-2022-29799 and CVE-2022-29800 using this C proof of concept.</div>",
             "url": "https://github.com/pansyhebephrenic23/NimbusPWN-CVE-2022-29799-29800",
             "title": "pansyhebephrenic23/NimbusPWN-CVE-2022-29799-29800: Demonstrate local privilege escalation in networkd-dispatcher via CVE-2022-29799 and CVE-2022-29800 using this C proof of concept.",
-            "date_modified": "2026-07-04T00:14:32.000Z",
+            "date_modified": "2026-07-04T02:39:02.000Z",
             "date_published": "2026-06-23T14:05:18.000Z",
             "author": {
                 "name": "pansyhebephrenic23",
@@ -209,17 +220,6 @@
             "title": "SystemVll/CVE-2022-27925: A loader for zimbra 2022 rce (cve-2022-27925)",
             "date_modified": "2026-06-23T21:20:40.000Z",
             "date_published": "2022-10-01T10:33:55.000Z",
-            "author": {
-                "name": "SystemVll",
-                "url": "https://github.com/SystemVll"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/69421356?u=089e0b1fac87102ae26b9214b7d7bffd9d38fe60&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>The first proof of concept of the Contao CMS RCE</div>",
-            "url": "https://github.com/SystemVll/CVE-2022-26265",
-            "title": "SystemVll/CVE-2022-26265: The first proof of concept of the Contao CMS RCE",
-            "date_modified": "2026-06-23T21:20:39.000Z",
-            "date_published": "2022-12-01T23:11:19.000Z",
             "author": {
                 "name": "SystemVll",
                 "url": "https://github.com/SystemVll"
