@@ -6,10 +6,21 @@
     "description": "CVE-2023 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/259967922?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Find the vulnerability your tests were never written to catch. A ReGrade demo modeling CVE-2023-5968: catch a password-hash leak by comparing an app to itself.</div>",
+            "url": "https://github.com/Curtail-Inc/hello-ReGrade-security",
+            "title": "Curtail-Inc/hello-ReGrade-security: Find the vulnerability your tests were never written to catch. A ReGrade demo modeling CVE-2023-5968: catch a password-hash leak by comparing an app to itself.",
+            "date_modified": "2026-07-04T00:48:15.000Z",
+            "date_published": "2026-07-04T00:48:09.000Z",
+            "author": {
+                "name": "Curtail-Inc",
+                "url": "https://github.com/Curtail-Inc"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/120130511?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>oob_entry tfp0 kernel exploit for armv7 iOS (iOS 3.0–10.3.4), using CVE-2023-32434. We will publish a write-up detailing the methods in the coming weeks. 🐙</div>",
             "url": "https://github.com/rkrakesh524/oob_entry",
             "title": "rkrakesh524/oob_entry: oob_entry tfp0 kernel exploit for armv7 iOS (iOS 3.0–10.3.4), using CVE-2023-32434. We will publish a write-up detailing the methods in the coming weeks. 🐙",
-            "date_modified": "2026-07-03T22:14:42.000Z",
+            "date_modified": "2026-07-04T00:43:44.000Z",
             "date_published": "2025-08-13T09:19:29.000Z",
             "author": {
                 "name": "rkrakesh524",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "HORKimhab",
                 "url": "https://github.com/HORKimhab"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/206423085?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2023-31290 Scanner </div>",
-            "url": "https://github.com/ethicbrudhack/CVE-2023-31290-Scanner-",
-            "title": "ethicbrudhack/CVE-2023-31290-Scanner-: CVE-2023-31290 Scanner ",
-            "date_modified": "2026-06-22T17:17:52.000Z",
-            "date_published": "2026-06-22T17:09:48.000Z",
-            "author": {
-                "name": "ethicbrudhack",
-                "url": "https://github.com/ethicbrudhack"
             }
         }
     ]
