@@ -6,6 +6,17 @@
     "description": "CVE-2022 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/278274242?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Demonstrate local privilege escalation in networkd-dispatcher via CVE-2022-29799 and CVE-2022-29800 using this C proof of concept.</div>",
+            "url": "https://github.com/pansyhebephrenic23/NimbusPWN-CVE-2022-29799-29800",
+            "title": "pansyhebephrenic23/NimbusPWN-CVE-2022-29799-29800: Demonstrate local privilege escalation in networkd-dispatcher via CVE-2022-29799 and CVE-2022-29800 using this C proof of concept.",
+            "date_modified": "2026-07-05T11:24:17.000Z",
+            "date_published": "2026-06-23T14:05:18.000Z",
+            "author": {
+                "name": "pansyhebephrenic23",
+                "url": "https://github.com/pansyhebephrenic23"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/117078126?u=7a0a396b158e587c3a274e616f720ad9d77bf9e9&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Proof of Concept (PoC) for CVE-2022-42889 (Text4Shell) targeting Apache Commons Text versions prior to 1.10.0. This script automates Remote Code Execution (RCE) via script interpolation to establish a reverse shell. This version is a structured optimization based on the original exploit found at Exploit-DB (ID: 52261).</div>",
             "url": "https://github.com/Goultarde/CVE-2022-42889-text4shell",
             "title": "Goultarde/CVE-2022-42889-text4shell: Proof of Concept (PoC) for CVE-2022-42889 (Text4Shell) targeting Apache Commons Text versions prior to 1.10.0. This script automates Remote Code Execution (RCE) via script interpolation to establish a reverse shell. This version is a structured optimization based on the original exploit found at Exploit-DB (ID: 52261).",
@@ -14,17 +25,6 @@
             "author": {
                 "name": "Goultarde",
                 "url": "https://github.com/Goultarde"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/278274242?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Demonstrate local privilege escalation in networkd-dispatcher via CVE-2022-29799 and CVE-2022-29800 using this C proof of concept.</div>",
-            "url": "https://github.com/pansyhebephrenic23/NimbusPWN-CVE-2022-29799-29800",
-            "title": "pansyhebephrenic23/NimbusPWN-CVE-2022-29799-29800: Demonstrate local privilege escalation in networkd-dispatcher via CVE-2022-29799 and CVE-2022-29800 using this C proof of concept.",
-            "date_modified": "2026-07-05T08:59:23.000Z",
-            "date_published": "2026-06-23T14:05:18.000Z",
-            "author": {
-                "name": "pansyhebephrenic23",
-                "url": "https://github.com/pansyhebephrenic23"
             }
         },
         {
