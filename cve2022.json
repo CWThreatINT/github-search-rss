@@ -6,10 +6,21 @@
     "description": "CVE-2022 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/117078126?u=7a0a396b158e587c3a274e616f720ad9d77bf9e9&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Proof of Concept (PoC) for CVE-2022-42889 (Text4Shell) targeting Apache Commons Text versions prior to 1.10.0. This script automates Remote Code Execution (RCE) via script interpolation to establish a reverse shell. This version is a structured optimization based on the original exploit found at Exploit-DB (ID: 52261).</div>",
+            "url": "https://github.com/Goultarde/CVE-2022-42889-text4shell",
+            "title": "Goultarde/CVE-2022-42889-text4shell: Proof of Concept (PoC) for CVE-2022-42889 (Text4Shell) targeting Apache Commons Text versions prior to 1.10.0. This script automates Remote Code Execution (RCE) via script interpolation to establish a reverse shell. This version is a structured optimization based on the original exploit found at Exploit-DB (ID: 52261).",
+            "date_modified": "2026-07-05T09:14:25.000Z",
+            "date_published": "2026-01-02T05:55:49.000Z",
+            "author": {
+                "name": "Goultarde",
+                "url": "https://github.com/Goultarde"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/278274242?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Demonstrate local privilege escalation in networkd-dispatcher via CVE-2022-29799 and CVE-2022-29800 using this C proof of concept.</div>",
             "url": "https://github.com/pansyhebephrenic23/NimbusPWN-CVE-2022-29799-29800",
             "title": "pansyhebephrenic23/NimbusPWN-CVE-2022-29799-29800: Demonstrate local privilege escalation in networkd-dispatcher via CVE-2022-29799 and CVE-2022-29800 using this C proof of concept.",
-            "date_modified": "2026-07-05T05:55:56.000Z",
+            "date_modified": "2026-07-05T08:59:23.000Z",
             "date_published": "2026-06-23T14:05:18.000Z",
             "author": {
                 "name": "pansyhebephrenic23",
@@ -209,17 +220,6 @@
             "title": "SystemVll/CVE-2022-29464: A bots loader for CVE-2022-29464 with multithreading",
             "date_modified": "2026-06-23T21:20:39.000Z",
             "date_published": "2022-05-15T08:51:16.000Z",
-            "author": {
-                "name": "SystemVll",
-                "url": "https://github.com/SystemVll"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/69421356?u=089e0b1fac87102ae26b9214b7d7bffd9d38fe60&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A loader for zimbra 2022 rce (cve-2022-27925)</div>",
-            "url": "https://github.com/SystemVll/CVE-2022-27925",
-            "title": "SystemVll/CVE-2022-27925: A loader for zimbra 2022 rce (cve-2022-27925)",
-            "date_modified": "2026-06-23T21:20:40.000Z",
-            "date_published": "2022-10-01T10:33:55.000Z",
             "author": {
                 "name": "SystemVll",
                 "url": "https://github.com/SystemVll"
