@@ -6,6 +6,17 @@
     "description": "CVE-2022 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/281986064?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>JFrog AppTrust lifecycle policy enforcement demo — shows release gate blocking CVE-2022-22965 (Spring4Shell) with waiver request flow</div>",
+            "url": "https://github.com/ernestom-commits/jfrog-apptrust-demo",
+            "title": "ernestom-commits/jfrog-apptrust-demo: JFrog AppTrust lifecycle policy enforcement demo — shows release gate blocking CVE-2022-22965 (Spring4Shell) with waiver request flow",
+            "date_modified": "2026-07-07T20:31:05.000Z",
+            "date_published": "2026-06-21T03:02:40.000Z",
+            "author": {
+                "name": "ernestom-commits",
+                "url": "https://github.com/ernestom-commits"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/278274242?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Demonstrate local privilege escalation in networkd-dispatcher via CVE-2022-29799 and CVE-2022-29800 using this C proof of concept.</div>",
             "url": "https://github.com/pansyhebephrenic23/NimbusPWN-CVE-2022-29799-29800",
             "title": "pansyhebephrenic23/NimbusPWN-CVE-2022-29799-29800: Demonstrate local privilege escalation in networkd-dispatcher via CVE-2022-29799 and CVE-2022-29800 using this C proof of concept.",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "xmqaq",
                 "url": "https://github.com/xmqaq"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/141915211?u=0d47b2e96e4ab5193843068b2b2a7a488f23b8cb&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Apache ActiveMQ漏洞综合利用工具(CVE-2015-5254，CVE-2016-3088，CVE-2022-41678，CVE-2023-46604，CVE-2024-32114，CVE-2026-34197，CVE-2026-40466， CVE-2026-42588)</div>",
-            "url": "https://github.com/Catherines77/ActiveMQ-EXPtools",
-            "title": "Catherines77/ActiveMQ-EXPtools: Apache ActiveMQ漏洞综合利用工具(CVE-2015-5254，CVE-2016-3088，CVE-2022-41678，CVE-2023-46604，CVE-2024-32114，CVE-2026-34197，CVE-2026-40466， CVE-2026-42588)",
-            "date_modified": "2026-07-07T09:49:58.000Z",
-            "date_published": "2026-04-20T02:38:50.000Z",
-            "author": {
-                "name": "Catherines77",
-                "url": "https://github.com/Catherines77"
             }
         }
     ]
