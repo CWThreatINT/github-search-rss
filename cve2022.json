@@ -9,11 +9,22 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/278274242?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Demonstrate local privilege escalation in networkd-dispatcher via CVE-2022-29799 and CVE-2022-29800 using this C proof of concept.</div>",
             "url": "https://github.com/pansyhebephrenic23/NimbusPWN-CVE-2022-29799-29800",
             "title": "pansyhebephrenic23/NimbusPWN-CVE-2022-29799-29800: Demonstrate local privilege escalation in networkd-dispatcher via CVE-2022-29799 and CVE-2022-29800 using this C proof of concept.",
-            "date_modified": "2026-07-07T03:53:27.000Z",
+            "date_modified": "2026-07-07T09:23:55.000Z",
             "date_published": "2026-06-23T14:05:18.000Z",
             "author": {
                 "name": "pansyhebephrenic23",
                 "url": "https://github.com/pansyhebephrenic23"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/297998846?u=914da622658500659822ee1b0d684e6c69920b3c&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2022-22965</div>",
+            "url": "https://github.com/RootEvil333/CVE-2022-22965",
+            "title": "RootEvil333/CVE-2022-22965: CVE-2022-22965",
+            "date_modified": "2026-07-07T09:16:17.000Z",
+            "date_published": "2026-07-07T09:12:45.000Z",
+            "author": {
+                "name": "RootEvil333",
+                "url": "https://github.com/RootEvil333"
             }
         },
         {
@@ -196,7 +207,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/141915211?u=0d47b2e96e4ab5193843068b2b2a7a488f23b8cb&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Apache ActiveMQ漏洞综合利用工具(CVE-2015-5254，CVE-2016-3088，CVE-2022-41678，CVE-2023-46604，CVE-2024-32114，CVE-2026-34197，CVE-2026-40466， CVE-2026-42588)</div>",
             "url": "https://github.com/Catherines77/ActiveMQ-EXPtools",
             "title": "Catherines77/ActiveMQ-EXPtools: Apache ActiveMQ漏洞综合利用工具(CVE-2015-5254，CVE-2016-3088，CVE-2022-41678，CVE-2023-46604，CVE-2024-32114，CVE-2026-34197，CVE-2026-40466， CVE-2026-42588)",
-            "date_modified": "2026-06-30T02:26:00.000Z",
+            "date_modified": "2026-07-07T09:49:58.000Z",
             "date_published": "2026-04-20T02:38:50.000Z",
             "author": {
                 "name": "Catherines77",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "pansyhebephrenic23",
                 "url": "https://github.com/pansyhebephrenic23"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/159681973?u=fa1c34b8904383f6c4fc24930c4ffc08000d42d0&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>历史漏洞的细节以及利用方法汇总收集</div>",
-            "url": "https://github.com/OracleNep/Nday-Exploit-Plan",
-            "title": "OracleNep/Nday-Exploit-Plan: 历史漏洞的细节以及利用方法汇总收集",
-            "date_modified": "2026-06-26T09:07:39.000Z",
-            "date_published": "2024-02-11T06:55:47.000Z",
-            "author": {
-                "name": "OracleNep",
-                "url": "https://github.com/OracleNep"
             }
         }
     ]
