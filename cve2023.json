@@ -6,6 +6,39 @@
     "description": "CVE-2023 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/105918602?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Cisco Email Security Appliance: Email to zero-click RCE as root - Remote Code Execution/Memory Corruption/ROP-chain </div>",
+            "url": "https://github.com/ly1g3/cisco-CVE-2023-31488",
+            "title": "ly1g3/cisco-CVE-2023-31488: Cisco Email Security Appliance: Email to zero-click RCE as root - Remote Code Execution/Memory Corruption/ROP-chain ",
+            "date_modified": "2026-07-07T14:14:56.000Z",
+            "date_published": "2026-07-07T13:17:13.000Z",
+            "author": {
+                "name": "ly1g3",
+                "url": "https://github.com/ly1g3"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/105918602?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Cisco Email Security Appliance: Local Privilege Escalation and Shell Escape</div>",
+            "url": "https://github.com/ly1g3/cisco-CVE-2023-20075",
+            "title": "ly1g3/cisco-CVE-2023-20075: Cisco Email Security Appliance: Local Privilege Escalation and Shell Escape",
+            "date_modified": "2026-07-07T14:14:57.000Z",
+            "date_published": "2026-07-07T13:12:39.000Z",
+            "author": {
+                "name": "ly1g3",
+                "url": "https://github.com/ly1g3"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/105918602?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Cisco Email Security Appliance: Remote Code Execution - RCE from config file</div>",
+            "url": "https://github.com/ly1g3/cisco-CVE-2023-20009",
+            "title": "ly1g3/cisco-CVE-2023-20009: Cisco Email Security Appliance: Remote Code Execution - RCE from config file",
+            "date_modified": "2026-07-07T14:14:58.000Z",
+            "date_published": "2026-07-07T13:11:14.000Z",
+            "author": {
+                "name": "ly1g3",
+                "url": "https://github.com/ly1g3"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/120130511?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>oob_entry tfp0 kernel exploit for armv7 iOS (iOS 3.0–10.3.4), using CVE-2023-32434. We will publish a write-up detailing the methods in the coming weeks. 🐙</div>",
             "url": "https://github.com/rkrakesh524/oob_entry",
             "title": "rkrakesh524/oob_entry: oob_entry tfp0 kernel exploit for armv7 iOS (iOS 3.0–10.3.4), using CVE-2023-32434. We will publish a write-up detailing the methods in the coming weeks. 🐙",
@@ -17,10 +50,10 @@
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/105918602?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Remote Code Execution - Unauthenticated RCE</div>",
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/105918602?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Proofpoint Email Gateway: Unauthenticated RCE </div>",
             "url": "https://github.com/ly1g3/proofpoint-CVE-2023-0090",
-            "title": "ly1g3/proofpoint-CVE-2023-0090: Remote Code Execution - Unauthenticated RCE",
-            "date_modified": "2026-07-07T13:06:24.000Z",
+            "title": "ly1g3/proofpoint-CVE-2023-0090: Proofpoint Email Gateway: Unauthenticated RCE ",
+            "date_modified": "2026-07-07T14:14:58.000Z",
             "date_published": "2026-07-07T13:05:21.000Z",
             "author": {
                 "name": "ly1g3",
@@ -28,10 +61,10 @@
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/105918602?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Remote Code Execution - Low level authenticated user to admin RCE</div>",
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/105918602?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Proofpoint Email Gateway: Low level authenticated user to admin RCE</div>",
             "url": "https://github.com/ly1g3/proofpoint-CVE-2023-0089",
-            "title": "ly1g3/proofpoint-CVE-2023-0089: Remote Code Execution - Low level authenticated user to admin RCE",
-            "date_modified": "2026-07-07T13:05:05.000Z",
+            "title": "ly1g3/proofpoint-CVE-2023-0089: Proofpoint Email Gateway: Low level authenticated user to admin RCE",
+            "date_modified": "2026-07-07T14:14:59.000Z",
             "date_published": "2026-07-07T13:02:57.000Z",
             "author": {
                 "name": "ly1g3",
@@ -138,17 +171,6 @@
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/105335451?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Cert exploit for MTK devices.There is a logic flaw in MTK cert verification process.Similar to CVE-2023-20696.</div>",
-            "url": "https://github.com/kasnria001/pwnage24mtk",
-            "title": "kasnria001/pwnage24mtk: Cert exploit for MTK devices.There is a logic flaw in MTK cert verification process.Similar to CVE-2023-20696.",
-            "date_modified": "2026-07-06T06:22:48.000Z",
-            "date_published": "2026-06-22T02:09:35.000Z",
-            "author": {
-                "name": "kasnria001",
-                "url": "https://github.com/kasnria001"
-            }
-        },
-        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/144773569?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
             "url": "https://github.com/astrocombat1607/CVE-2023-27146-LocalPotato-Priviledge-Escalation",
             "title": "astrocombat1607/CVE-2023-27146-LocalPotato-Priviledge-Escalation",
@@ -182,6 +204,17 @@
             }
         },
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/108566609?u=e6af399d6f1cce5e7cef74da482c05f4d8f3800b&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Cert exploit for MTK devices.There is a logic flaw in MTK cert verification process.Similar to CVE-2023-20696.</div>",
+            "url": "https://github.com/wzy114514sb/pwnage24mtk",
+            "title": "wzy114514sb/pwnage24mtk: Cert exploit for MTK devices.There is a logic flaw in MTK cert verification process.Similar to CVE-2023-20696.",
+            "date_modified": "2026-06-29T10:38:14.000Z",
+            "date_published": "2026-06-28T23:00:44.000Z",
+            "author": {
+                "name": "wzy114514sb",
+                "url": "https://github.com/wzy114514sb"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/57570315?u=6e6e25763d10ead4148b8a6fe58f5affea79ab6d&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Copy fake in-memory files to disk using overlayFS</div>",
             "url": "https://github.com/pwncone/CVE-2023-0386-OverlayFS",
             "title": "pwncone/CVE-2023-0386-OverlayFS: Copy fake in-memory files to disk using overlayFS",
@@ -190,39 +223,6 @@
             "author": {
                 "name": "pwncone",
                 "url": "https://github.com/pwncone"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/53284782?u=7b9bda93ecd874dd3b5500e3b28db053c73e013b&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Documentation and PoC for CVE-2023-21554 MSMQ Vulnerability</div>",
-            "url": "https://github.com/leongxudong/MSMQ-Vulnerability",
-            "title": "leongxudong/MSMQ-Vulnerability: Documentation and PoC for CVE-2023-21554 MSMQ Vulnerability",
-            "date_modified": "2026-06-29T04:33:05.000Z",
-            "date_published": "2025-03-31T09:06:57.000Z",
-            "author": {
-                "name": "leongxudong",
-                "url": "https://github.com/leongxudong"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/141915211?u=0d47b2e96e4ab5193843068b2b2a7a488f23b8cb&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Apache ActiveMQ漏洞综合利用工具(CVE-2015-5254，CVE-2016-3088，CVE-2022-41678，CVE-2023-46604，CVE-2024-32114，CVE-2026-34197，CVE-2026-40466， CVE-2026-42588)</div>",
-            "url": "https://github.com/Catherines77/ActiveMQ-EXPtools",
-            "title": "Catherines77/ActiveMQ-EXPtools: Apache ActiveMQ漏洞综合利用工具(CVE-2015-5254，CVE-2016-3088，CVE-2022-41678，CVE-2023-46604，CVE-2024-32114，CVE-2026-34197，CVE-2026-40466， CVE-2026-42588)",
-            "date_modified": "2026-07-07T09:49:58.000Z",
-            "date_published": "2026-04-20T02:38:50.000Z",
-            "author": {
-                "name": "Catherines77",
-                "url": "https://github.com/Catherines77"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/159681973?u=fa1c34b8904383f6c4fc24930c4ffc08000d42d0&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>历史漏洞的细节以及利用方法汇总收集</div>",
-            "url": "https://github.com/OracleNep/Nday-Exploit-Plan",
-            "title": "OracleNep/Nday-Exploit-Plan: 历史漏洞的细节以及利用方法汇总收集",
-            "date_modified": "2026-06-26T09:07:39.000Z",
-            "date_published": "2024-02-11T06:55:47.000Z",
-            "author": {
-                "name": "OracleNep",
-                "url": "https://github.com/OracleNep"
             }
         }
     ]

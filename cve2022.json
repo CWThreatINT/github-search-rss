@@ -6,21 +6,21 @@
     "description": "CVE-2022 FEED on GitHub",
     "items": [
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/105918602?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Email -&gt; RCE as root. CVE-2022-46332, CVE-2022-46333, CVE-2022-46334</div>",
-            "url": "https://github.com/ly1g3/proofpoint-Messaging-exploit-chain1",
-            "title": "ly1g3/proofpoint-Messaging-exploit-chain1: Email -> RCE as root. CVE-2022-46332, CVE-2022-46333, CVE-2022-46334",
-            "date_modified": "2026-07-07T13:01:41.000Z",
-            "date_published": "2026-07-07T12:57:21.000Z",
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/172115438?u=000411c01a70a09bbecde9da587781cd4270e79e&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Python POC, Exploit for CVE-2022-46364</div>",
+            "url": "https://github.com/c0gnit00/CVE-2022-46364",
+            "title": "c0gnit00/CVE-2022-46364: Python POC, Exploit for CVE-2022-46364",
+            "date_modified": "2026-07-07T16:07:34.000Z",
+            "date_published": "2026-07-07T16:04:14.000Z",
             "author": {
-                "name": "ly1g3",
-                "url": "https://github.com/ly1g3"
+                "name": "c0gnit00",
+                "url": "https://github.com/c0gnit00"
             }
         },
         {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/278274242?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Demonstrate local privilege escalation in networkd-dispatcher via CVE-2022-29799 and CVE-2022-29800 using this C proof of concept.</div>",
             "url": "https://github.com/pansyhebephrenic23/NimbusPWN-CVE-2022-29799-29800",
             "title": "pansyhebephrenic23/NimbusPWN-CVE-2022-29799-29800: Demonstrate local privilege escalation in networkd-dispatcher via CVE-2022-29799 and CVE-2022-29800 using this C proof of concept.",
-            "date_modified": "2026-07-07T12:36:28.000Z",
+            "date_modified": "2026-07-07T15:12:31.000Z",
             "date_published": "2026-06-23T14:05:18.000Z",
             "author": {
                 "name": "pansyhebephrenic23",
