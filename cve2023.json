@@ -9,11 +9,55 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/120130511?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>oob_entry tfp0 kernel exploit for armv7 iOS (iOS 3.0–10.3.4), using CVE-2023-32434. We will publish a write-up detailing the methods in the coming weeks. 🐙</div>",
             "url": "https://github.com/rkrakesh524/oob_entry",
             "title": "rkrakesh524/oob_entry: oob_entry tfp0 kernel exploit for armv7 iOS (iOS 3.0–10.3.4), using CVE-2023-32434. We will publish a write-up detailing the methods in the coming weeks. 🐙",
-            "date_modified": "2026-07-07T07:27:10.000Z",
+            "date_modified": "2026-07-07T13:07:03.000Z",
             "date_published": "2025-08-13T09:19:29.000Z",
             "author": {
                 "name": "rkrakesh524",
                 "url": "https://github.com/rkrakesh524"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/105918602?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Remote Code Execution - Unauthenticated RCE</div>",
+            "url": "https://github.com/ly1g3/proofpoint-CVE-2023-0090",
+            "title": "ly1g3/proofpoint-CVE-2023-0090: Remote Code Execution - Unauthenticated RCE",
+            "date_modified": "2026-07-07T13:06:24.000Z",
+            "date_published": "2026-07-07T13:05:21.000Z",
+            "author": {
+                "name": "ly1g3",
+                "url": "https://github.com/ly1g3"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/105918602?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Remote Code Execution - Low level authenticated user to admin RCE</div>",
+            "url": "https://github.com/ly1g3/proofpoint-CVE-2023-0089",
+            "title": "ly1g3/proofpoint-CVE-2023-0089: Remote Code Execution - Low level authenticated user to admin RCE",
+            "date_modified": "2026-07-07T13:05:05.000Z",
+            "date_published": "2026-07-07T13:02:57.000Z",
+            "author": {
+                "name": "ly1g3",
+                "url": "https://github.com/ly1g3"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/182764138?u=48b4beccadbf695e15de36e1cebd6015bb745a17&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Proof of Concept for CVE-2023-4861 in Filester</div>",
+            "url": "https://github.com/nomaisthere/CVE-2023-4861-PoC",
+            "title": "nomaisthere/CVE-2023-4861-PoC: Proof of Concept for CVE-2023-4861 in Filester",
+            "date_modified": "2026-07-07T13:07:43.000Z",
+            "date_published": "2026-07-07T11:15:43.000Z",
+            "author": {
+                "name": "nomaisthere",
+                "url": "https://github.com/nomaisthere"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/64693844?u=ac466d5b4e198ad48bfc29cd05aa88c51d9bc0a7&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2023-22515 - Broken Access Control Vulnerability in Confluence Data Center and Server</div>",
+            "url": "https://github.com/kh4sh3i/CVE-2023-22515",
+            "title": "kh4sh3i/CVE-2023-22515: CVE-2023-22515 - Broken Access Control Vulnerability in Confluence Data Center and Server",
+            "date_modified": "2026-07-07T10:28:45.000Z",
+            "date_published": "2023-10-11T11:21:47.000Z",
+            "author": {
+                "name": "kh4sh3i",
+                "url": "https://github.com/kh4sh3i"
             }
         },
         {
@@ -179,50 +223,6 @@
             "author": {
                 "name": "OracleNep",
                 "url": "https://github.com/OracleNep"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/287076898?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Traveller is an Easy Linux machine featuring a Joomla 4.2.7 travel booking website vulnerable to CVE-2023-23752, an unauthenticated REST API information disclosure that leaks database credentials, leading to admin panel access, remote code execution, and root via sudo misconfiguration.</div>",
-            "url": "https://github.com/Sharma01672/traveller-htb",
-            "title": "Sharma01672/traveller-htb: Traveller is an Easy Linux machine featuring a Joomla 4.2.7 travel booking website vulnerable to CVE-2023-23752, an unauthenticated REST API information disclosure that leaks database credentials, leading to admin panel access, remote code execution, and root via sudo misconfiguration.",
-            "date_modified": "2026-06-26T08:33:19.000Z",
-            "date_published": "2026-06-21T09:41:42.000Z",
-            "author": {
-                "name": "Sharma01672",
-                "url": "https://github.com/Sharma01672"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/56630479?u=7615e93113b55b70741970c85d7a60bff3a80622&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Fast, parallel SSH discovery and security auditing across hosts and CIDR ranges: identifies SSH on any port in real time, then flags auth methods, weak crypto, Terrapin (CVE-2023-48795), and reused host keys.</div>",
-            "url": "https://github.com/kabiri-labs/sshfinder",
-            "title": "kabiri-labs/sshfinder: Fast, parallel SSH discovery and security auditing across hosts and CIDR ranges: identifies SSH on any port in real time, then flags auth methods, weak crypto, Terrapin (CVE-2023-48795), and reused host keys.",
-            "date_modified": "2026-07-03T17:21:57.000Z",
-            "date_published": "2024-12-05T14:42:58.000Z",
-            "author": {
-                "name": "kabiri-labs",
-                "url": "https://github.com/kabiri-labs"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/111023888?u=9b388d0892c4d911fc52d52b3c21453ec25517ed&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
-            "url": "https://github.com/julianertle/CVE-2023-0386-CTF",
-            "title": "julianertle/CVE-2023-0386-CTF",
-            "date_modified": "2026-06-25T14:44:03.000Z",
-            "date_published": "2026-05-20T11:44:38.000Z",
-            "author": {
-                "name": "julianertle",
-                "url": "https://github.com/julianertle"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/255026013?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
-            "url": "https://github.com/W5M1n9/Cisco-Unified-Communications-Manager-Server-Side-Forgery-Request-Vulnerability-CVE-2026-20230",
-            "title": "W5M1n9/Cisco-Unified-Communications-Manager-Server-Side-Forgery-Request-Vulnerability-CVE-2026-20230",
-            "date_modified": "2026-06-25T10:02:01.000Z",
-            "date_published": "2026-06-25T09:56:26.000Z",
-            "author": {
-                "name": "W5M1n9",
-                "url": "https://github.com/W5M1n9"
             }
         }
     ]
