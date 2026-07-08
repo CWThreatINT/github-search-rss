@@ -9,11 +9,22 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/182138871?u=5a625dbde10ddebc6f9772ae9e409b49e97a97f1&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Chrome extension that uses vulnerabilities CVE-2021-33044 and CVE-2021-33045 to log in to Dahua cameras without authentication.</div>",
             "url": "https://github.com/Bd-Mutant7/DahuaLoginBypass",
             "title": "Bd-Mutant7/DahuaLoginBypass: Chrome extension that uses vulnerabilities CVE-2021-33044 and CVE-2021-33045 to log in to Dahua cameras without authentication.",
-            "date_modified": "2026-07-08T06:16:33.000Z",
+            "date_modified": "2026-07-08T09:02:08.000Z",
             "date_published": "2026-03-28T17:42:44.000Z",
             "author": {
                 "name": "Bd-Mutant7",
                 "url": "https://github.com/Bd-Mutant7"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/142884636?u=238c467ce34e8dafb9974db4163f69855e771d90&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>自研针对ESXI 堆栈溢出的CVE-2021-21974 POC，只支持项目给出的的目标和环境，用于学习和研究</div>",
+            "url": "https://github.com/Aiyakami/CVE-2021-21974",
+            "title": "Aiyakami/CVE-2021-21974: 自研针对ESXI 堆栈溢出的CVE-2021-21974 POC，只支持项目给出的的目标和环境，用于学习和研究",
+            "date_modified": "2026-07-08T07:52:02.000Z",
+            "date_published": "2026-07-08T07:52:01.000Z",
+            "author": {
+                "name": "Aiyakami",
+                "url": "https://github.com/Aiyakami"
             }
         },
         {
@@ -212,17 +223,6 @@
             "author": {
                 "name": "dedellix",
                 "url": "https://github.com/dedellix"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/296035383?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>aaPanel WebSocket CSRF Bypass leading to RCE (Incomplete fix for CVE-2021-37840)</div>",
-            "url": "https://github.com/EonSecurity/aapanel-ws-bypass",
-            "title": "EonSecurity/aapanel-ws-bypass: aaPanel WebSocket CSRF Bypass leading to RCE (Incomplete fix for CVE-2021-37840)",
-            "date_modified": "2026-06-23T08:24:33.000Z",
-            "date_published": "2026-06-23T03:21:10.000Z",
-            "author": {
-                "name": "EonSecurity",
-                "url": "https://github.com/EonSecurity"
             }
         }
     ]
