@@ -9,7 +9,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/129042671?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
             "url": "https://github.com/eunho87/CVE-2021-42013",
             "title": "eunho87/CVE-2021-42013",
-            "date_modified": "2026-07-08T14:48:08.000Z",
+            "date_modified": "2026-07-08T17:02:12.000Z",
             "date_published": "2026-07-08T12:16:39.000Z",
             "author": {
                 "name": "eunho87",
@@ -20,11 +20,22 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/182138871?u=5a625dbde10ddebc6f9772ae9e409b49e97a97f1&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Chrome extension that uses vulnerabilities CVE-2021-33044 and CVE-2021-33045 to log in to Dahua cameras without authentication.</div>",
             "url": "https://github.com/Bd-Mutant7/DahuaLoginBypass",
             "title": "Bd-Mutant7/DahuaLoginBypass: Chrome extension that uses vulnerabilities CVE-2021-33044 and CVE-2021-33045 to log in to Dahua cameras without authentication.",
-            "date_modified": "2026-07-08T12:52:27.000Z",
+            "date_modified": "2026-07-08T16:51:47.000Z",
             "date_published": "2026-03-28T17:42:44.000Z",
             "author": {
                 "name": "Bd-Mutant7",
                 "url": "https://github.com/Bd-Mutant7"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/169778746?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>WHS CVE-2021-40346 분석</div>",
+            "url": "https://github.com/jmg0929/CVE-2021-40346",
+            "title": "jmg0929/CVE-2021-40346: WHS CVE-2021-40346 분석",
+            "date_modified": "2026-07-08T15:39:58.000Z",
+            "date_published": "2026-07-08T15:22:50.000Z",
+            "author": {
+                "name": "jmg0929",
+                "url": "https://github.com/jmg0929"
             }
         },
         {
@@ -212,17 +223,6 @@
             "author": {
                 "name": "Joapath",
                 "url": "https://github.com/Joapath"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/112778628?u=3f52dfa4f2f1de652a2f9fb09da5f9ecab4fe66c&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
-            "url": "https://github.com/s1lentf00thold/CVE-2021-21425-RCE",
-            "title": "s1lentf00thold/CVE-2021-21425-RCE",
-            "date_modified": "2026-06-23T22:18:21.000Z",
-            "date_published": "2026-06-23T21:28:06.000Z",
-            "author": {
-                "name": "s1lentf00thold",
-                "url": "https://github.com/s1lentf00thold"
             }
         }
     ]
