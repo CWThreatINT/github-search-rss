@@ -9,7 +9,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/182138871?u=5a625dbde10ddebc6f9772ae9e409b49e97a97f1&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Chrome extension that uses vulnerabilities CVE-2021-33044 and CVE-2021-33045 to log in to Dahua cameras without authentication.</div>",
             "url": "https://github.com/Bd-Mutant7/DahuaLoginBypass",
             "title": "Bd-Mutant7/DahuaLoginBypass: Chrome extension that uses vulnerabilities CVE-2021-33044 and CVE-2021-33045 to log in to Dahua cameras without authentication.",
-            "date_modified": "2026-07-09T11:38:37.000Z",
+            "date_modified": "2026-07-09T14:16:46.000Z",
             "date_published": "2026-03-28T17:42:44.000Z",
             "author": {
                 "name": "Bd-Mutant7",
@@ -20,7 +20,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/293052987?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Whitehat School 4기 CVE-2021-4034 분석 및 POC 작성</div>",
             "url": "https://github.com/krleejihyeong/WHS4_CVE-2021-4034",
             "title": "krleejihyeong/WHS4_CVE-2021-4034: Whitehat School 4기 CVE-2021-4034 분석 및 POC 작성",
-            "date_modified": "2026-07-09T08:43:36.000Z",
+            "date_modified": "2026-07-09T14:06:38.000Z",
             "date_published": "2026-07-09T08:43:31.000Z",
             "author": {
                 "name": "krleejihyeong",
@@ -28,10 +28,21 @@
             }
         },
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/77766984?u=86701be6f14094e68e2e5a81089bcc405dc9a1d2&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
+            "url": "https://github.com/johnwickakash12/CVE-2021-41773",
+            "title": "johnwickakash12/CVE-2021-41773",
+            "date_modified": "2026-07-09T13:42:14.000Z",
+            "date_published": "2026-07-09T13:40:57.000Z",
+            "author": {
+                "name": "johnwickakash12",
+                "url": "https://github.com/johnwickakash12"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/142884636?u=238c467ce34e8dafb9974db4163f69855e771d90&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>自研针对ESXI 堆栈溢出的CVE-2021-21974 POC，只支持项目给出的的目标和环境，用于学习和研究</div>",
             "url": "https://github.com/Aiyakami/CVE-2021-21974",
             "title": "Aiyakami/CVE-2021-21974: 自研针对ESXI 堆栈溢出的CVE-2021-21974 POC，只支持项目给出的的目标和环境，用于学习和研究",
-            "date_modified": "2026-07-09T08:07:45.000Z",
+            "date_modified": "2026-07-09T14:23:28.000Z",
             "date_published": "2026-07-08T07:52:01.000Z",
             "author": {
                 "name": "Aiyakami",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "K3ysTr0K3R",
                 "url": "https://github.com/K3ysTr0K3R"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/18534814?u=fe298c9deff680b7df7cfd4fd4606f0f024becb7&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>PoC and Dockerized vulnerable lab for CVE-2021-40822 (SSRF in GeoServer)</div>",
-            "url": "https://github.com/phor3nsic/CVE-2021-40822",
-            "title": "phor3nsic/CVE-2021-40822: PoC and Dockerized vulnerable lab for CVE-2021-40822 (SSRF in GeoServer)",
-            "date_modified": "2026-06-24T16:33:07.000Z",
-            "date_published": "2022-05-17T13:58:11.000Z",
-            "author": {
-                "name": "phor3nsic",
-                "url": "https://github.com/phor3nsic"
             }
         }
     ]
