@@ -6,6 +6,28 @@
     "description": "CVE-2021 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/182138871?u=5a625dbde10ddebc6f9772ae9e409b49e97a97f1&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Chrome extension that uses vulnerabilities CVE-2021-33044 and CVE-2021-33045 to log in to Dahua cameras without authentication.</div>",
+            "url": "https://github.com/Bd-Mutant7/DahuaLoginBypass",
+            "title": "Bd-Mutant7/DahuaLoginBypass: Chrome extension that uses vulnerabilities CVE-2021-33044 and CVE-2021-33045 to log in to Dahua cameras without authentication.",
+            "date_modified": "2026-07-09T11:38:37.000Z",
+            "date_published": "2026-03-28T17:42:44.000Z",
+            "author": {
+                "name": "Bd-Mutant7",
+                "url": "https://github.com/Bd-Mutant7"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/293052987?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Whitehat School 4기 CVE-2021-4034 분석 및 POC 작성</div>",
+            "url": "https://github.com/krleejihyeong/WHS4_CVE-2021-4034",
+            "title": "krleejihyeong/WHS4_CVE-2021-4034: Whitehat School 4기 CVE-2021-4034 분석 및 POC 작성",
+            "date_modified": "2026-07-09T08:43:36.000Z",
+            "date_published": "2026-07-09T08:43:31.000Z",
+            "author": {
+                "name": "krleejihyeong",
+                "url": "https://github.com/krleejihyeong"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/142884636?u=238c467ce34e8dafb9974db4163f69855e771d90&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>自研针对ESXI 堆栈溢出的CVE-2021-21974 POC，只支持项目给出的的目标和环境，用于学习和研究</div>",
             "url": "https://github.com/Aiyakami/CVE-2021-21974",
             "title": "Aiyakami/CVE-2021-21974: 自研针对ESXI 堆栈溢出的CVE-2021-21974 POC，只支持项目给出的的目标和环境，用于学习和研究",
@@ -25,17 +47,6 @@
             "author": {
                 "name": "code-with-amitk",
                 "url": "https://github.com/code-with-amitk"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/182138871?u=5a625dbde10ddebc6f9772ae9e409b49e97a97f1&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Chrome extension that uses vulnerabilities CVE-2021-33044 and CVE-2021-33045 to log in to Dahua cameras without authentication.</div>",
-            "url": "https://github.com/Bd-Mutant7/DahuaLoginBypass",
-            "title": "Bd-Mutant7/DahuaLoginBypass: Chrome extension that uses vulnerabilities CVE-2021-33044 and CVE-2021-33045 to log in to Dahua cameras without authentication.",
-            "date_modified": "2026-07-09T05:09:51.000Z",
-            "date_published": "2026-03-28T17:42:44.000Z",
-            "author": {
-                "name": "Bd-Mutant7",
-                "url": "https://github.com/Bd-Mutant7"
             }
         },
         {
@@ -212,17 +223,6 @@
             "author": {
                 "name": "phor3nsic",
                 "url": "https://github.com/phor3nsic"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/213002857?u=2a063839df9e86a53493c52f293be650b47970f4&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>DAHUA_AUTH-BYPASS-CVE-2021-33044</div>",
-            "url": "https://github.com/litndat/Camera-Dahua-Research-l-h-ng-CVE-2021-33044",
-            "title": "litndat/Camera-Dahua-Research-l-h-ng-CVE-2021-33044: DAHUA_AUTH-BYPASS-CVE-2021-33044",
-            "date_modified": "2026-06-24T12:34:24.000Z",
-            "date_published": "2026-06-24T12:31:56.000Z",
-            "author": {
-                "name": "litndat",
-                "url": "https://github.com/litndat"
             }
         }
     ]
