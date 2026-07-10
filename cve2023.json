@@ -9,11 +9,22 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/120130511?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>oob_entry tfp0 kernel exploit for armv7 iOS (iOS 3.0–10.3.4), using CVE-2023-32434. We will publish a write-up detailing the methods in the coming weeks. 🐙</div>",
             "url": "https://github.com/rkrakesh524/oob_entry",
             "title": "rkrakesh524/oob_entry: oob_entry tfp0 kernel exploit for armv7 iOS (iOS 3.0–10.3.4), using CVE-2023-32434. We will publish a write-up detailing the methods in the coming weeks. 🐙",
-            "date_modified": "2026-07-10T18:36:24.000Z",
+            "date_modified": "2026-07-10T21:04:57.000Z",
             "date_published": "2025-08-13T09:19:29.000Z",
             "author": {
                 "name": "rkrakesh524",
                 "url": "https://github.com/rkrakesh524"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/60004847?u=9278141595df1c3b597c6bbcabfbec2d5e6f6414&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
+            "url": "https://github.com/pulentoski/Explotacion-CVE-2023-32315-Openfire",
+            "title": "pulentoski/Explotacion-CVE-2023-32315-Openfire",
+            "date_modified": "2026-07-10T20:39:02.000Z",
+            "date_published": "2025-04-14T18:07:47.000Z",
+            "author": {
+                "name": "pulentoski",
+                "url": "https://github.com/pulentoski"
             }
         },
         {
@@ -209,17 +220,6 @@
             "title": "qwqqaqqwq00/opensource_defect_repare_cc: Redis 7.0.0 核心模块重构与漏洞修复交付（重构 sds/adlist/intset/listpack，相似度≤20%；修复 CVE-2023-25155/28856、CVE-2024-31449、CVE-2022-36021、CVE-2022-31144 等漏洞）",
             "date_modified": "2026-07-03T00:56:30.000Z",
             "date_published": "2026-07-03T00:55:25.000Z",
-            "author": {
-                "name": "qwqqaqqwq00",
-                "url": "https://github.com/qwqqaqqwq00"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/61143679?u=42a42a03c75aca56088933b5b33671e8836ede3a&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Redis 7.0.0 核心模块重构与漏洞修复交付（重构 sds/adlist/intset/listpack，相似度≤20%；修复 CVE-2023-25155/28856、CVE-2024-31449、CVE-2022-36021、CVE-2022-31144 等漏洞）</div>",
-            "url": "https://github.com/qwqqaqqwq00/opensource_defect_repair_cc",
-            "title": "qwqqaqqwq00/opensource_defect_repair_cc: Redis 7.0.0 核心模块重构与漏洞修复交付（重构 sds/adlist/intset/listpack，相似度≤20%；修复 CVE-2023-25155/28856、CVE-2024-31449、CVE-2022-36021、CVE-2022-31144 等漏洞）",
-            "date_modified": "2026-07-03T00:54:46.000Z",
-            "date_published": "2026-07-03T00:54:46.000Z",
             "author": {
                 "name": "qwqqaqqwq00",
                 "url": "https://github.com/qwqqaqqwq00"
