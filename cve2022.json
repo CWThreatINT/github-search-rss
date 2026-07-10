@@ -6,10 +6,21 @@
     "description": "CVE-2022 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/84855371?u=55f5589e557ff7d6022ad95be5a5cc72678d0479&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
+            "url": "https://github.com/Y0ngC1oud/CVE-2022-22947",
+            "title": "Y0ngC1oud/CVE-2022-22947",
+            "date_modified": "2026-07-10T04:08:50.000Z",
+            "date_published": "2026-07-09T13:16:21.000Z",
+            "author": {
+                "name": "Y0ngC1oud",
+                "url": "https://github.com/Y0ngC1oud"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/278274242?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Demonstrate local privilege escalation in networkd-dispatcher via CVE-2022-29799 and CVE-2022-29800 using this C proof of concept.</div>",
             "url": "https://github.com/pansyhebephrenic23/NimbusPWN-CVE-2022-29799-29800",
             "title": "pansyhebephrenic23/NimbusPWN-CVE-2022-29799-29800: Demonstrate local privilege escalation in networkd-dispatcher via CVE-2022-29799 and CVE-2022-29800 using this C proof of concept.",
-            "date_modified": "2026-07-10T00:51:32.000Z",
+            "date_modified": "2026-07-10T03:51:07.000Z",
             "date_published": "2026-06-23T14:05:18.000Z",
             "author": {
                 "name": "pansyhebephrenic23",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "qwqqaqqwq00",
                 "url": "https://github.com/qwqqaqqwq00"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/421543?u=5fe3bd7e6f940cc39fe0697959806054063f726f&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>try to determine if a host is vulnerable to SpringShell CVE‐2022‐22965 and CVE‐2022‐22963</div>",
-            "url": "https://github.com/jschauma/check-springshell",
-            "title": "jschauma/check-springshell: try to determine if a host is vulnerable to SpringShell CVE‐2022‐22965 and CVE‐2022‐22963",
-            "date_modified": "2026-06-30T16:58:46.000Z",
-            "date_published": "2022-03-30T21:30:09.000Z",
-            "author": {
-                "name": "jschauma",
-                "url": "https://github.com/jschauma"
             }
         }
     ]
