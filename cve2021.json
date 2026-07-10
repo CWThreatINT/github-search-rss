@@ -6,14 +6,36 @@
     "description": "CVE-2021 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/43928011?u=b9df06c14c8816a228ec8cb1463ffb9b72f27d91&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>PoC educacional do CVE-2021-4034, o PwnKit, LPE via pkexec do polkit. Uso autorizado apenas.</div>",
+            "url": "https://github.com/mac3d0/CVE-2021-4034-pwnkit",
+            "title": "mac3d0/CVE-2021-4034-pwnkit: PoC educacional do CVE-2021-4034, o PwnKit, LPE via pkexec do polkit. Uso autorizado apenas.",
+            "date_modified": "2026-07-10T19:59:06.000Z",
+            "date_published": "2026-06-13T15:06:58.000Z",
+            "author": {
+                "name": "mac3d0",
+                "url": "https://github.com/mac3d0"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/182138871?u=5a625dbde10ddebc6f9772ae9e409b49e97a97f1&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Chrome extension that uses vulnerabilities CVE-2021-33044 and CVE-2021-33045 to log in to Dahua cameras without authentication.</div>",
             "url": "https://github.com/Bd-Mutant7/DahuaLoginBypass",
             "title": "Bd-Mutant7/DahuaLoginBypass: Chrome extension that uses vulnerabilities CVE-2021-33044 and CVE-2021-33045 to log in to Dahua cameras without authentication.",
-            "date_modified": "2026-07-10T17:55:03.000Z",
+            "date_modified": "2026-07-10T19:26:19.000Z",
             "date_published": "2026-03-28T17:42:44.000Z",
             "author": {
                 "name": "Bd-Mutant7",
                 "url": "https://github.com/Bd-Mutant7"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/117029004?u=95de6b45f0ad8406c5111ef402be3d36ea622fe3&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2021-28235 PoC</div>",
+            "url": "https://github.com/h3ck13r/CVE-2021-28235",
+            "title": "h3ck13r/CVE-2021-28235: CVE-2021-28235 PoC",
+            "date_modified": "2026-07-10T18:45:07.000Z",
+            "date_published": "2026-07-10T18:45:06.000Z",
+            "author": {
+                "name": "h3ck13r",
+                "url": "https://github.com/h3ck13r"
             }
         },
         {
@@ -198,28 +220,6 @@
             "title": "K3ysTr0K3R/CVE-2021-29441: CVE-2021-29441 - Nacos Authentication Bypass",
             "date_modified": "2026-06-25T00:58:24.000Z",
             "date_published": "2026-06-25T00:29:53.000Z",
-            "author": {
-                "name": "K3ysTr0K3R",
-                "url": "https://github.com/K3ysTr0K3R"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/265891812?u=7a4b742a33094c0c0952785a4764366040e2c41f&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Prueba de concepto de CVE-2021-41773</div>",
-            "url": "https://github.com/Joapath/CVE-2021-41773",
-            "title": "Joapath/CVE-2021-41773: Prueba de concepto de CVE-2021-41773",
-            "date_modified": "2026-06-24T23:50:10.000Z",
-            "date_published": "2026-06-23T04:07:49.000Z",
-            "author": {
-                "name": "Joapath",
-                "url": "https://github.com/Joapath"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/70909693?u=0f866dddd15fab5d60225009bc79d6aa66a2f975&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2021-22205 - GitLab Unauthenticated Remote Code Execution</div>",
-            "url": "https://github.com/K3ysTr0K3R/CVE-2021-22205",
-            "title": "K3ysTr0K3R/CVE-2021-22205: CVE-2021-22205 - GitLab Unauthenticated Remote Code Execution",
-            "date_modified": "2026-06-24T22:56:57.000Z",
-            "date_published": "2026-06-24T22:48:52.000Z",
             "author": {
                 "name": "K3ysTr0K3R",
                 "url": "https://github.com/K3ysTr0K3R"
