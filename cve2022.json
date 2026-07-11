@@ -6,6 +6,17 @@
     "description": "CVE-2022 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/169938932?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Analyzed 88K+ CVEs (2022-2024) from the NVD API using Python &amp; SQL to uncover vulnerability trends, severity patterns, and common exploit types — visualized in an interactive Streamlit dashboard.</div>",
+            "url": "https://github.com/ShifaShaikh074/cve-vulnerability-trend-analyzer",
+            "title": "ShifaShaikh074/cve-vulnerability-trend-analyzer: Analyzed 88K+ CVEs (2022-2024) from the NVD API using Python & SQL to uncover vulnerability trends, severity patterns, and common exploit types — visualized in an interactive Streamlit dashboard.",
+            "date_modified": "2026-07-11T18:31:03.000Z",
+            "date_published": "2026-07-11T18:27:34.000Z",
+            "author": {
+                "name": "ShifaShaikh074",
+                "url": "https://github.com/ShifaShaikh074"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/278274242?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Demonstrate local privilege escalation in networkd-dispatcher via CVE-2022-29799 and CVE-2022-29800 using this C proof of concept.</div>",
             "url": "https://github.com/pansyhebephrenic23/NimbusPWN-CVE-2022-29799-29800",
             "title": "pansyhebephrenic23/NimbusPWN-CVE-2022-29799-29800: Demonstrate local privilege escalation in networkd-dispatcher via CVE-2022-29799 and CVE-2022-29800 using this C proof of concept.",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "darnabin",
                 "url": "https://github.com/darnabin"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/61143679?u=42a42a03c75aca56088933b5b33671e8836ede3a&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Redis 7.0.0 核心模块重构与漏洞修复交付（重构 sds/adlist/intset/listpack，相似度≤20%；修复 CVE-2023-25155/28856、CVE-2024-31449、CVE-2022-36021、CVE-2022-31144 等漏洞）</div>",
-            "url": "https://github.com/qwqqaqqwq00/opensource_defect_repare_cc",
-            "title": "qwqqaqqwq00/opensource_defect_repare_cc: Redis 7.0.0 核心模块重构与漏洞修复交付（重构 sds/adlist/intset/listpack，相似度≤20%；修复 CVE-2023-25155/28856、CVE-2024-31449、CVE-2022-36021、CVE-2022-31144 等漏洞）",
-            "date_modified": "2026-07-03T00:56:30.000Z",
-            "date_published": "2026-07-03T00:55:25.000Z",
-            "author": {
-                "name": "qwqqaqqwq00",
-                "url": "https://github.com/qwqqaqqwq00"
             }
         }
     ]
