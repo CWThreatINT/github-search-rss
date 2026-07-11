@@ -6,21 +6,21 @@
     "description": "CVE-2021 FEED on GitHub",
     "items": [
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/182138871?u=5a625dbde10ddebc6f9772ae9e409b49e97a97f1&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Chrome extension that uses vulnerabilities CVE-2021-33044 and CVE-2021-33045 to log in to Dahua cameras without authentication.</div>",
-            "url": "https://github.com/Bd-Mutant7/DahuaLoginBypass",
-            "title": "Bd-Mutant7/DahuaLoginBypass: Chrome extension that uses vulnerabilities CVE-2021-33044 and CVE-2021-33045 to log in to Dahua cameras without authentication.",
-            "date_modified": "2026-07-11T11:15:13.000Z",
-            "date_published": "2026-03-28T17:42:44.000Z",
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/293052987?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Whitehat School 4기 CVE-2021-4034 분석 및 POC 작성</div>",
+            "url": "https://github.com/krleejihyeong/WHS4_CVE-2021-4034",
+            "title": "krleejihyeong/WHS4_CVE-2021-4034: Whitehat School 4기 CVE-2021-4034 분석 및 POC 작성",
+            "date_modified": "2026-07-11T12:28:35.000Z",
+            "date_published": "2026-07-09T08:43:31.000Z",
             "author": {
-                "name": "Bd-Mutant7",
-                "url": "https://github.com/Bd-Mutant7"
+                "name": "krleejihyeong",
+                "url": "https://github.com/krleejihyeong"
             }
         },
         {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/112608167?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
             "url": "https://github.com/Lim-ahmin/CVE-2021-43798",
             "title": "Lim-ahmin/CVE-2021-43798",
-            "date_modified": "2026-07-11T11:13:43.000Z",
+            "date_modified": "2026-07-11T12:17:03.000Z",
             "date_published": "2026-07-11T11:13:23.000Z",
             "author": {
                 "name": "Lim-ahmin",
@@ -28,14 +28,25 @@
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/293052987?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Whitehat School 4기 CVE-2021-4034 분석 및 POC 작성</div>",
-            "url": "https://github.com/krleejihyeong/WHS4_CVE-2021-4034",
-            "title": "krleejihyeong/WHS4_CVE-2021-4034: Whitehat School 4기 CVE-2021-4034 분석 및 POC 작성",
-            "date_modified": "2026-07-11T10:17:56.000Z",
-            "date_published": "2026-07-09T08:43:31.000Z",
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/249121913?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>WHS 4기 이희수. kr-vulhub 과제 제출물</div>",
+            "url": "https://github.com/lheeeesoo/Apache-CVE-2021-41773",
+            "title": "lheeeesoo/Apache-CVE-2021-41773: WHS 4기 이희수. kr-vulhub 과제 제출물",
+            "date_modified": "2026-07-11T12:11:03.000Z",
+            "date_published": "2026-07-11T12:11:02.000Z",
             "author": {
-                "name": "krleejihyeong",
-                "url": "https://github.com/krleejihyeong"
+                "name": "lheeeesoo",
+                "url": "https://github.com/lheeeesoo"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/182138871?u=5a625dbde10ddebc6f9772ae9e409b49e97a97f1&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Chrome extension that uses vulnerabilities CVE-2021-33044 and CVE-2021-33045 to log in to Dahua cameras without authentication.</div>",
+            "url": "https://github.com/Bd-Mutant7/DahuaLoginBypass",
+            "title": "Bd-Mutant7/DahuaLoginBypass: Chrome extension that uses vulnerabilities CVE-2021-33044 and CVE-2021-33045 to log in to Dahua cameras without authentication.",
+            "date_modified": "2026-07-11T12:07:57.000Z",
+            "date_published": "2026-03-28T17:42:44.000Z",
+            "author": {
+                "name": "Bd-Mutant7",
+                "url": "https://github.com/Bd-Mutant7"
             }
         },
         {
@@ -212,17 +223,6 @@
             "author": {
                 "name": "OracleNep",
                 "url": "https://github.com/OracleNep"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/90069111?u=3ed2b6daff79c9995d818edc221198102c04d7d8&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Let's hijack our bootchain - CVE-2021-30327</div>",
-            "url": "https://github.com/Daniel224455/katana",
-            "title": "Daniel224455/katana: Let's hijack our bootchain - CVE-2021-30327",
-            "date_modified": "2026-07-11T10:46:02.000Z",
-            "date_published": "2026-06-25T12:12:38.000Z",
-            "author": {
-                "name": "Daniel224455",
-                "url": "https://github.com/Daniel224455"
             }
         }
     ]
