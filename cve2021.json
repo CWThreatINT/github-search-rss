@@ -6,7 +6,29 @@
     "description": "CVE-2021 FEED on GitHub",
     "items": [
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/302280951?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Cybersecurity Capstone Project completed during the NCSC Nashama CyberCamp 11, delivered in collaboration with IT Security C&amp;T. The project demonstrates vulnerability assessment, exploitation, mitigation, and SIEM detection for Oracle WebLogic (CVE-2017-10271) and Apache Druid (CVE-2021-25646).</div>",
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/164551050?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>whs-homework</div>",
+            "url": "https://github.com/Park123r/CVE-2021-41773",
+            "title": "Park123r/CVE-2021-41773: whs-homework",
+            "date_modified": "2026-07-11T15:42:23.000Z",
+            "date_published": "2026-07-07T08:49:43.000Z",
+            "author": {
+                "name": "Park123r",
+                "url": "https://github.com/Park123r"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/182138871?u=5a625dbde10ddebc6f9772ae9e409b49e97a97f1&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Chrome extension that uses vulnerabilities CVE-2021-33044 and CVE-2021-33045 to log in to Dahua cameras without authentication.</div>",
+            "url": "https://github.com/Bd-Mutant7/DahuaLoginBypass",
+            "title": "Bd-Mutant7/DahuaLoginBypass: Chrome extension that uses vulnerabilities CVE-2021-33044 and CVE-2021-33045 to log in to Dahua cameras without authentication.",
+            "date_modified": "2026-07-11T15:40:34.000Z",
+            "date_published": "2026-03-28T17:42:44.000Z",
+            "author": {
+                "name": "Bd-Mutant7",
+                "url": "https://github.com/Bd-Mutant7"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/302280951?u=13974879c9cb22e2a304a3f2a4f03e1b90b09050&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Cybersecurity Capstone Project completed during the NCSC Nashama CyberCamp 11, delivered in collaboration with IT Security C&amp;T. The project demonstrates vulnerability assessment, exploitation, mitigation, and SIEM detection for Oracle WebLogic (CVE-2017-10271) and Apache Druid (CVE-2021-25646).</div>",
             "url": "https://github.com/shahdawadfallah-sys/Cybersecurity-Capstone-Project",
             "title": "shahdawadfallah-sys/Cybersecurity-Capstone-Project: Cybersecurity Capstone Project completed during the NCSC Nashama CyberCamp 11, delivered in collaboration with IT Security C&T. The project demonstrates vulnerability assessment, exploitation, mitigation, and SIEM detection for Oracle WebLogic (CVE-2017-10271) and Apache Druid (CVE-2021-25646).",
             "date_modified": "2026-07-11T13:55:55.000Z",
@@ -14,17 +36,6 @@
             "author": {
                 "name": "shahdawadfallah-sys",
                 "url": "https://github.com/shahdawadfallah-sys"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/182138871?u=5a625dbde10ddebc6f9772ae9e409b49e97a97f1&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Chrome extension that uses vulnerabilities CVE-2021-33044 and CVE-2021-33045 to log in to Dahua cameras without authentication.</div>",
-            "url": "https://github.com/Bd-Mutant7/DahuaLoginBypass",
-            "title": "Bd-Mutant7/DahuaLoginBypass: Chrome extension that uses vulnerabilities CVE-2021-33044 and CVE-2021-33045 to log in to Dahua cameras without authentication.",
-            "date_modified": "2026-07-11T13:52:19.000Z",
-            "date_published": "2026-03-28T17:42:44.000Z",
-            "author": {
-                "name": "Bd-Mutant7",
-                "url": "https://github.com/Bd-Mutant7"
             }
         },
         {
@@ -138,17 +149,6 @@
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/164551050?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>whs-homework</div>",
-            "url": "https://github.com/Park123r/CVE-2021-41773",
-            "title": "Park123r/CVE-2021-41773: whs-homework",
-            "date_modified": "2026-07-07T15:42:48.000Z",
-            "date_published": "2026-07-07T08:49:43.000Z",
-            "author": {
-                "name": "Park123r",
-                "url": "https://github.com/Park123r"
-            }
-        },
-        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/113894356?u=ea3a9ce0673933151ca1ab8b2555764bc4bb6bed&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Go implementation of NoPac, exploiting CVE-2021-42278 and CVE-2021-42287</div>",
             "url": "https://github.com/xLTJ/noPac",
             "title": "xLTJ/noPac: Go implementation of NoPac, exploiting CVE-2021-42278 and CVE-2021-42287",
@@ -215,14 +215,14 @@
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/100122463?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Utilize Tai-e to identify the Log4shell (a.k.a. CVE-2021-44228) Vulnerability</div>",
-            "url": "https://github.com/Tai-e/CVE-2021-44228",
-            "title": "Tai-e/CVE-2021-44228: Utilize Tai-e to identify the Log4shell (a.k.a. CVE-2021-44228) Vulnerability",
-            "date_modified": "2026-06-27T05:47:59.000Z",
-            "date_published": "2023-10-06T04:36:31.000Z",
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/98337319?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Exploit-WordPress Plugin The True Ranker 2.2.2 - Arbitrary File Read</div>",
+            "url": "https://github.com/root-wav/wordpress-true-ranker-cve-2021-39312",
+            "title": "root-wav/wordpress-true-ranker-cve-2021-39312: Exploit-WordPress Plugin The True Ranker 2.2.2 - Arbitrary File Read",
+            "date_modified": "2026-07-11T14:42:52.000Z",
+            "date_published": "2022-01-24T16:11:11.000Z",
             "author": {
-                "name": "Tai-e",
-                "url": "https://github.com/Tai-e"
+                "name": "root-wav",
+                "url": "https://github.com/root-wav"
             }
         }
     ]
