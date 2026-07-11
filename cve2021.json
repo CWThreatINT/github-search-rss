@@ -6,6 +6,39 @@
     "description": "CVE-2021 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/302280951?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Cybersecurity Capstone Project completed during the NCSC Nashama CyberCamp 11, delivered in collaboration with IT Security C&amp;T. The project demonstrates vulnerability assessment, exploitation, mitigation, and SIEM detection for Oracle WebLogic (CVE-2017-10271) and Apache Druid (CVE-2021-25646).</div>",
+            "url": "https://github.com/shahdawadfallah-sys/Cybersecurity-Capstone-Project",
+            "title": "shahdawadfallah-sys/Cybersecurity-Capstone-Project: Cybersecurity Capstone Project completed during the NCSC Nashama CyberCamp 11, delivered in collaboration with IT Security C&T. The project demonstrates vulnerability assessment, exploitation, mitigation, and SIEM detection for Oracle WebLogic (CVE-2017-10271) and Apache Druid (CVE-2021-25646).",
+            "date_modified": "2026-07-11T13:55:55.000Z",
+            "date_published": "2026-07-11T13:50:49.000Z",
+            "author": {
+                "name": "shahdawadfallah-sys",
+                "url": "https://github.com/shahdawadfallah-sys"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/182138871?u=5a625dbde10ddebc6f9772ae9e409b49e97a97f1&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Chrome extension that uses vulnerabilities CVE-2021-33044 and CVE-2021-33045 to log in to Dahua cameras without authentication.</div>",
+            "url": "https://github.com/Bd-Mutant7/DahuaLoginBypass",
+            "title": "Bd-Mutant7/DahuaLoginBypass: Chrome extension that uses vulnerabilities CVE-2021-33044 and CVE-2021-33045 to log in to Dahua cameras without authentication.",
+            "date_modified": "2026-07-11T13:52:19.000Z",
+            "date_published": "2026-03-28T17:42:44.000Z",
+            "author": {
+                "name": "Bd-Mutant7",
+                "url": "https://github.com/Bd-Mutant7"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/249121913?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>WHS 4기 이희수. kr-vulhub 과제 제출물</div>",
+            "url": "https://github.com/lheeeesoo/Apache-CVE-2021-41773",
+            "title": "lheeeesoo/Apache-CVE-2021-41773: WHS 4기 이희수. kr-vulhub 과제 제출물",
+            "date_modified": "2026-07-11T13:04:36.000Z",
+            "date_published": "2026-07-11T12:11:02.000Z",
+            "author": {
+                "name": "lheeeesoo",
+                "url": "https://github.com/lheeeesoo"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/293052987?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Whitehat School 4기 CVE-2021-4034 분석 및 POC 작성</div>",
             "url": "https://github.com/krleejihyeong/WHS4_CVE-2021-4034",
             "title": "krleejihyeong/WHS4_CVE-2021-4034: Whitehat School 4기 CVE-2021-4034 분석 및 POC 작성",
@@ -25,28 +58,6 @@
             "author": {
                 "name": "Lim-ahmin",
                 "url": "https://github.com/Lim-ahmin"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/249121913?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>WHS 4기 이희수. kr-vulhub 과제 제출물</div>",
-            "url": "https://github.com/lheeeesoo/Apache-CVE-2021-41773",
-            "title": "lheeeesoo/Apache-CVE-2021-41773: WHS 4기 이희수. kr-vulhub 과제 제출물",
-            "date_modified": "2026-07-11T12:11:03.000Z",
-            "date_published": "2026-07-11T12:11:02.000Z",
-            "author": {
-                "name": "lheeeesoo",
-                "url": "https://github.com/lheeeesoo"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/182138871?u=5a625dbde10ddebc6f9772ae9e409b49e97a97f1&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Chrome extension that uses vulnerabilities CVE-2021-33044 and CVE-2021-33045 to log in to Dahua cameras without authentication.</div>",
-            "url": "https://github.com/Bd-Mutant7/DahuaLoginBypass",
-            "title": "Bd-Mutant7/DahuaLoginBypass: Chrome extension that uses vulnerabilities CVE-2021-33044 and CVE-2021-33045 to log in to Dahua cameras without authentication.",
-            "date_modified": "2026-07-11T12:07:57.000Z",
-            "date_published": "2026-03-28T17:42:44.000Z",
-            "author": {
-                "name": "Bd-Mutant7",
-                "url": "https://github.com/Bd-Mutant7"
             }
         },
         {
@@ -212,17 +223,6 @@
             "author": {
                 "name": "Tai-e",
                 "url": "https://github.com/Tai-e"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/159681973?u=fa1c34b8904383f6c4fc24930c4ffc08000d42d0&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>历史漏洞的细节以及利用方法汇总收集</div>",
-            "url": "https://github.com/OracleNep/Nday-Exploit-Plan",
-            "title": "OracleNep/Nday-Exploit-Plan: 历史漏洞的细节以及利用方法汇总收集",
-            "date_modified": "2026-06-26T09:07:39.000Z",
-            "date_published": "2024-02-11T06:55:47.000Z",
-            "author": {
-                "name": "OracleNep",
-                "url": "https://github.com/OracleNep"
             }
         }
     ]
