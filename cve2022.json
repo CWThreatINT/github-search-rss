@@ -9,7 +9,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/278274242?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Demonstrate local privilege escalation in networkd-dispatcher via CVE-2022-29799 and CVE-2022-29800 using this C proof of concept.</div>",
             "url": "https://github.com/pansyhebephrenic23/NimbusPWN-CVE-2022-29799-29800",
             "title": "pansyhebephrenic23/NimbusPWN-CVE-2022-29799-29800: Demonstrate local privilege escalation in networkd-dispatcher via CVE-2022-29799 and CVE-2022-29800 using this C proof of concept.",
-            "date_modified": "2026-07-12T19:02:21.000Z",
+            "date_modified": "2026-07-12T22:08:34.000Z",
             "date_published": "2026-06-23T14:05:18.000Z",
             "author": {
                 "name": "pansyhebephrenic23",
@@ -119,7 +119,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/69421356?u=976f450608522dd729ffc838f434b16606715394&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>The FreeBSD ICMP buffer overflow, freebsd buffer overflow poc</div>",
             "url": "https://github.com/sh4den/CVE-2022-23093",
             "title": "sh4den/CVE-2022-23093: The FreeBSD ICMP buffer overflow, freebsd buffer overflow poc",
-            "date_modified": "2026-07-06T09:40:20.000Z",
+            "date_modified": "2026-07-12T21:42:49.000Z",
             "date_published": "2023-03-02T20:18:54.000Z",
             "author": {
                 "name": "sh4den",
@@ -130,7 +130,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/69421356?u=976f450608522dd729ffc838f434b16606715394&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>The manage engine mass loader for CVE-2022-47966</div>",
             "url": "https://github.com/sh4den/CVE-2022-47966",
             "title": "sh4den/CVE-2022-47966: The manage engine mass loader for CVE-2022-47966",
-            "date_modified": "2026-07-06T08:38:59.000Z",
+            "date_modified": "2026-07-12T21:42:49.000Z",
             "date_published": "2023-01-23T10:45:23.000Z",
             "author": {
                 "name": "sh4den",
@@ -141,7 +141,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/69421356?u=976f450608522dd729ffc838f434b16606715394&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Cacti Unauthenticated Command Injection</div>",
             "url": "https://github.com/sh4den/CVE-2022-46169",
             "title": "sh4den/CVE-2022-46169: Cacti Unauthenticated Command Injection",
-            "date_modified": "2026-07-06T08:38:55.000Z",
+            "date_modified": "2026-07-12T21:42:48.000Z",
             "date_published": "2023-01-02T18:03:26.000Z",
             "author": {
                 "name": "sh4den",
@@ -152,7 +152,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/69421356?u=976f450608522dd729ffc838f434b16606715394&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A loader for bitbucket 2022 rce (cve-2022-36804)</div>",
             "url": "https://github.com/sh4den/CVE-2022-36804",
             "title": "sh4den/CVE-2022-36804: A loader for bitbucket 2022 rce (cve-2022-36804)",
-            "date_modified": "2026-07-06T08:38:53.000Z",
+            "date_modified": "2026-07-12T21:42:47.000Z",
             "date_published": "2022-09-26T08:35:31.000Z",
             "author": {
                 "name": "sh4den",
@@ -163,7 +163,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/69421356?u=976f450608522dd729ffc838f434b16606715394&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Proof of concept for CVE-2022-31814</div>",
             "url": "https://github.com/sh4den/CVE-2022-31814",
             "title": "sh4den/CVE-2022-31814: Proof of concept for CVE-2022-31814",
-            "date_modified": "2026-07-06T08:38:50.000Z",
+            "date_modified": "2026-07-12T21:42:41.000Z",
             "date_published": "2025-01-16T13:59:45.000Z",
             "author": {
                 "name": "sh4den",
@@ -174,7 +174,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/69421356?u=976f450608522dd729ffc838f434b16606715394&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A bots loader for CVE-2022-29464 with multithreading</div>",
             "url": "https://github.com/sh4den/CVE-2022-29464",
             "title": "sh4den/CVE-2022-29464: A bots loader for CVE-2022-29464 with multithreading",
-            "date_modified": "2026-07-07T18:17:42.000Z",
+            "date_modified": "2026-07-12T21:42:46.000Z",
             "date_published": "2022-05-15T08:51:16.000Z",
             "author": {
                 "name": "sh4den",
@@ -185,7 +185,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/69421356?u=976f450608522dd729ffc838f434b16606715394&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A loader for zimbra 2022 rce (cve-2022-27925)</div>",
             "url": "https://github.com/sh4den/CVE-2022-27925",
             "title": "sh4den/CVE-2022-27925: A loader for zimbra 2022 rce (cve-2022-27925)",
-            "date_modified": "2026-07-06T08:38:43.000Z",
+            "date_modified": "2026-07-12T21:42:47.000Z",
             "date_published": "2022-10-01T10:33:55.000Z",
             "author": {
                 "name": "sh4den",
@@ -196,7 +196,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/69421356?u=976f450608522dd729ffc838f434b16606715394&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>The first proof of concept of the Contao CMS RCE</div>",
             "url": "https://github.com/sh4den/CVE-2022-26265",
             "title": "sh4den/CVE-2022-26265: The first proof of concept of the Contao CMS RCE",
-            "date_modified": "2026-07-06T08:38:41.000Z",
+            "date_modified": "2026-07-12T21:42:48.000Z",
             "date_published": "2022-12-01T23:11:19.000Z",
             "author": {
                 "name": "sh4den",
