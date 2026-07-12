@@ -6,10 +6,21 @@
     "description": "CVE-2023 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/127627278?u=ae7acf6eb1b5c3b80c265b9a8baf9f8b5af93ec2&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2023-34468 Apache NiFi ExecuteSQL H2 RUNSCRIPT RCE PoC</div>",
+            "url": "https://github.com/ozcanpng/CVE-2023-34468",
+            "title": "ozcanpng/CVE-2023-34468: CVE-2023-34468 Apache NiFi ExecuteSQL H2 RUNSCRIPT RCE PoC",
+            "date_modified": "2026-07-12T17:25:33.000Z",
+            "date_published": "2026-07-12T17:21:46.000Z",
+            "author": {
+                "name": "ozcanpng",
+                "url": "https://github.com/ozcanpng"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/120130511?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>oob_entry tfp0 kernel exploit for armv7 iOS (iOS 3.0–10.3.4), using CVE-2023-32434. We will publish a write-up detailing the methods in the coming weeks. 🐙</div>",
             "url": "https://github.com/rkrakesh524/oob_entry",
             "title": "rkrakesh524/oob_entry: oob_entry tfp0 kernel exploit for armv7 iOS (iOS 3.0–10.3.4), using CVE-2023-32434. We will publish a write-up detailing the methods in the coming weeks. 🐙",
-            "date_modified": "2026-07-12T14:34:45.000Z",
+            "date_modified": "2026-07-12T17:04:54.000Z",
             "date_published": "2025-08-13T09:19:29.000Z",
             "author": {
                 "name": "rkrakesh524",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "jstjep00",
                 "url": "https://github.com/jstjep00"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/103343291?u=8b64a886119fd7daa162e1c3f87f416862c9e034&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>春秋云镜</div>",
-            "url": "https://github.com/LSP1025923/cve-2023-51385",
-            "title": "LSP1025923/cve-2023-51385: 春秋云镜",
-            "date_modified": "2026-07-06T06:43:32.000Z",
-            "date_published": "2026-07-06T06:42:39.000Z",
-            "author": {
-                "name": "LSP1025923",
-                "url": "https://github.com/LSP1025923"
             }
         }
     ]
