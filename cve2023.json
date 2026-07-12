@@ -6,6 +6,17 @@
     "description": "CVE-2023 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/138558494?u=4b79478b0b0b7c4e890e4dcde613a23d6b619629&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Node.js vm2 CVE-2023-29017 reproduction with Docker Compose and PoC</div>",
+            "url": "https://github.com/gunwoo105/Node_CVE-2023-29017",
+            "title": "gunwoo105/Node_CVE-2023-29017: Node.js vm2 CVE-2023-29017 reproduction with Docker Compose and PoC",
+            "date_modified": "2026-07-12T19:09:11.000Z",
+            "date_published": "2026-07-12T19:09:01.000Z",
+            "author": {
+                "name": "gunwoo105",
+                "url": "https://github.com/gunwoo105"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/127627278?u=ae7acf6eb1b5c3b80c265b9a8baf9f8b5af93ec2&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2023-34468 Apache NiFi ExecuteSQL H2 RUNSCRIPT RCE PoC</div>",
             "url": "https://github.com/ozcanpng/CVE-2023-34468",
             "title": "ozcanpng/CVE-2023-34468: CVE-2023-34468 Apache NiFi ExecuteSQL H2 RUNSCRIPT RCE PoC",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "kh4sh3i",
                 "url": "https://github.com/kh4sh3i"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/57007759?u=be4f40733ddf654eb10c20929e466f47bac24aaf&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>PoC for CVE-2023-22496: Netdata Agent &lt;1.37 OS Command Injection via registry_hostname</div>",
-            "url": "https://github.com/jstjep00/CVE-2023-22496-PoC",
-            "title": "jstjep00/CVE-2023-22496-PoC: PoC for CVE-2023-22496: Netdata Agent <1.37 OS Command Injection via registry_hostname",
-            "date_modified": "2026-07-07T09:10:01.000Z",
-            "date_published": "2026-07-06T19:29:10.000Z",
-            "author": {
-                "name": "jstjep00",
-                "url": "https://github.com/jstjep00"
             }
         }
     ]
