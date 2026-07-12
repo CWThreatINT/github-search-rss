@@ -9,11 +9,33 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/182138871?u=5a625dbde10ddebc6f9772ae9e409b49e97a97f1&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Chrome extension that uses vulnerabilities CVE-2021-33044 and CVE-2021-33045 to log in to Dahua cameras without authentication.</div>",
             "url": "https://github.com/Bd-Mutant7/DahuaLoginBypass",
             "title": "Bd-Mutant7/DahuaLoginBypass: Chrome extension that uses vulnerabilities CVE-2021-33044 and CVE-2021-33045 to log in to Dahua cameras without authentication.",
-            "date_modified": "2026-07-12T04:36:56.000Z",
+            "date_modified": "2026-07-12T07:14:59.000Z",
             "date_published": "2026-03-28T17:42:44.000Z",
             "author": {
                 "name": "Bd-Mutant7",
                 "url": "https://github.com/Bd-Mutant7"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/112608167?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
+            "url": "https://github.com/Lim-ahmin/CVE-2021-43798",
+            "title": "Lim-ahmin/CVE-2021-43798",
+            "date_modified": "2026-07-12T06:03:38.000Z",
+            "date_published": "2026-07-11T11:13:23.000Z",
+            "author": {
+                "name": "Lim-ahmin",
+                "url": "https://github.com/Lim-ahmin"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/37005640?u=c724a3225c5df7eaf9fa0ac60786146169e75020&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>poc and exp for CVE_2021_40449, related to my analyze</div>",
+            "url": "https://github.com/Joe1sn/CVE_2021_40449",
+            "title": "Joe1sn/CVE_2021_40449: poc and exp for CVE_2021_40449, related to my analyze",
+            "date_modified": "2026-07-12T05:32:50.000Z",
+            "date_published": "2026-06-17T02:53:26.000Z",
+            "author": {
+                "name": "Joe1sn",
+                "url": "https://github.com/Joe1sn"
             }
         },
         {
@@ -58,17 +80,6 @@
             "author": {
                 "name": "krleejihyeong",
                 "url": "https://github.com/krleejihyeong"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/112608167?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
-            "url": "https://github.com/Lim-ahmin/CVE-2021-43798",
-            "title": "Lim-ahmin/CVE-2021-43798",
-            "date_modified": "2026-07-11T12:17:03.000Z",
-            "date_published": "2026-07-11T11:13:23.000Z",
-            "author": {
-                "name": "Lim-ahmin",
-                "url": "https://github.com/Lim-ahmin"
             }
         },
         {
@@ -212,17 +223,6 @@
             "author": {
                 "name": "yahoo",
                 "url": "https://github.com/yahoo"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/98337319?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Exploit-WordPress Plugin The True Ranker 2.2.2 - Arbitrary File Read</div>",
-            "url": "https://github.com/root-wav/wordpress-true-ranker-cve-2021-39312",
-            "title": "root-wav/wordpress-true-ranker-cve-2021-39312: Exploit-WordPress Plugin The True Ranker 2.2.2 - Arbitrary File Read",
-            "date_modified": "2026-07-11T14:42:52.000Z",
-            "date_published": "2022-01-24T16:11:11.000Z",
-            "author": {
-                "name": "root-wav",
-                "url": "https://github.com/root-wav"
             }
         }
     ]
