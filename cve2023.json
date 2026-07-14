@@ -9,11 +9,22 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/120130511?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>oob_entry tfp0 kernel exploit for armv7 iOS (iOS 3.0–10.3.4), using CVE-2023-32434. We will publish a write-up detailing the methods in the coming weeks. 🐙</div>",
             "url": "https://github.com/rkrakesh524/oob_entry",
             "title": "rkrakesh524/oob_entry: oob_entry tfp0 kernel exploit for armv7 iOS (iOS 3.0–10.3.4), using CVE-2023-32434. We will publish a write-up detailing the methods in the coming weeks. 🐙",
-            "date_modified": "2026-07-14T02:42:21.000Z",
+            "date_modified": "2026-07-14T05:50:11.000Z",
             "date_published": "2025-08-13T09:19:29.000Z",
             "author": {
                 "name": "rkrakesh524",
                 "url": "https://github.com/rkrakesh524"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/143801587?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Repo contains the PoC and steps to reproduce cve 2023-38646</div>",
+            "url": "https://github.com/Kushiro45/metabase-cve-2023-38646",
+            "title": "Kushiro45/metabase-cve-2023-38646: Repo contains the PoC and steps to reproduce cve 2023-38646",
+            "date_modified": "2026-07-14T04:50:39.000Z",
+            "date_published": "2026-07-14T04:43:35.000Z",
+            "author": {
+                "name": "Kushiro45",
+                "url": "https://github.com/Kushiro45"
             }
         },
         {
@@ -209,17 +220,6 @@
             "title": "ly1g3/proofpoint-CVE-2023-0090: Proofpoint Email Gateway: Unauthenticated RCE ",
             "date_modified": "2026-07-07T14:14:58.000Z",
             "date_published": "2026-07-07T13:05:21.000Z",
-            "author": {
-                "name": "ly1g3",
-                "url": "https://github.com/ly1g3"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/105918602?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Proofpoint Email Gateway: Low level authenticated user to admin RCE</div>",
-            "url": "https://github.com/ly1g3/proofpoint-CVE-2023-0089",
-            "title": "ly1g3/proofpoint-CVE-2023-0089: Proofpoint Email Gateway: Low level authenticated user to admin RCE",
-            "date_modified": "2026-07-07T14:14:59.000Z",
-            "date_published": "2026-07-07T13:02:57.000Z",
             "author": {
                 "name": "ly1g3",
                 "url": "https://github.com/ly1g3"
