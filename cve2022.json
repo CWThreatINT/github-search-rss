@@ -9,11 +9,22 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/278274242?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Demonstrate local privilege escalation in networkd-dispatcher via CVE-2022-29799 and CVE-2022-29800 using this C proof of concept.</div>",
             "url": "https://github.com/pansyhebephrenic23/NimbusPWN-CVE-2022-29799-29800",
             "title": "pansyhebephrenic23/NimbusPWN-CVE-2022-29799-29800: Demonstrate local privilege escalation in networkd-dispatcher via CVE-2022-29799 and CVE-2022-29800 using this C proof of concept.",
-            "date_modified": "2026-07-15T06:54:49.000Z",
+            "date_modified": "2026-07-15T09:23:01.000Z",
             "date_published": "2026-06-23T14:05:18.000Z",
             "author": {
                 "name": "pansyhebephrenic23",
                 "url": "https://github.com/pansyhebephrenic23"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/300069390?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Spring Framework CVE-2022-22965 本地影响条件验证、版本升级修复与复测项目</div>",
+            "url": "https://github.com/meng-security/spring4shell-local-verification-lab",
+            "title": "meng-security/spring4shell-local-verification-lab: Spring Framework CVE-2022-22965 本地影响条件验证、版本升级修复与复测项目",
+            "date_modified": "2026-07-15T07:43:55.000Z",
+            "date_published": "2026-07-15T07:31:11.000Z",
+            "author": {
+                "name": "meng-security",
+                "url": "https://github.com/meng-security"
             }
         },
         {
@@ -209,17 +220,6 @@
             "title": "sh4den/CVE-2022-29464: A bots loader for CVE-2022-29464 with multithreading",
             "date_modified": "2026-07-14T20:31:16.000Z",
             "date_published": "2022-05-15T08:51:16.000Z",
-            "author": {
-                "name": "sh4den",
-                "url": "https://github.com/sh4den"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/69421356?u=976f450608522dd729ffc838f434b16606715394&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A loader for zimbra 2022 rce (cve-2022-27925)</div>",
-            "url": "https://github.com/sh4den/CVE-2022-27925",
-            "title": "sh4den/CVE-2022-27925: A loader for zimbra 2022 rce (cve-2022-27925)",
-            "date_modified": "2026-07-12T21:42:47.000Z",
-            "date_published": "2022-10-01T10:33:55.000Z",
             "author": {
                 "name": "sh4den",
                 "url": "https://github.com/sh4den"
