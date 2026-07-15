@@ -9,11 +9,22 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/182138871?u=5a625dbde10ddebc6f9772ae9e409b49e97a97f1&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Chrome extension that uses vulnerabilities CVE-2021-33044 and CVE-2021-33045 to log in to Dahua cameras without authentication.</div>",
             "url": "https://github.com/Bd-Mutant7/DahuaLoginBypass",
             "title": "Bd-Mutant7/DahuaLoginBypass: Chrome extension that uses vulnerabilities CVE-2021-33044 and CVE-2021-33045 to log in to Dahua cameras without authentication.",
-            "date_modified": "2026-07-15T10:17:12.000Z",
+            "date_modified": "2026-07-15T11:53:30.000Z",
             "date_published": "2026-03-28T17:42:44.000Z",
             "author": {
                 "name": "Bd-Mutant7",
                 "url": "https://github.com/Bd-Mutant7"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/187151733?u=a8fcf9780a9d3b8c20a61ff2c8eb50bb892db373&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>The GREENDARK hospital infrastructure was configured by Dr. Gusto Rogue  prior to his termination. No further details are provided.</div>",
+            "url": "https://github.com/0xrogg/CVE-2021-41773",
+            "title": "0xrogg/CVE-2021-41773: The GREENDARK hospital infrastructure was configured by Dr. Gusto Rogue  prior to his termination. No further details are provided.",
+            "date_modified": "2026-07-15T11:26:02.000Z",
+            "date_published": "2026-07-15T11:23:14.000Z",
+            "author": {
+                "name": "0xrogg",
+                "url": "https://github.com/0xrogg"
             }
         },
         {
@@ -212,17 +223,6 @@
             "author": {
                 "name": "eunho87",
                 "url": "https://github.com/eunho87"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/113894356?u=ea3a9ce0673933151ca1ab8b2555764bc4bb6bed&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Go implementation of NoPac, exploiting CVE-2021-42278 and CVE-2021-42287</div>",
-            "url": "https://github.com/xLTJ/noPac",
-            "title": "xLTJ/noPac: Go implementation of NoPac, exploiting CVE-2021-42278 and CVE-2021-42287",
-            "date_modified": "2026-07-07T04:18:53.000Z",
-            "date_published": "2026-07-07T03:58:03.000Z",
-            "author": {
-                "name": "xLTJ",
-                "url": "https://github.com/xLTJ"
             }
         }
     ]
