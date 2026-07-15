@@ -6,21 +6,10 @@
     "description": "CVE-2021 FEED on GitHub",
     "items": [
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/151609921?u=7a4fd0dc78e96c1277927480c823afe90ef57b4d&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2021-3156 Report and Research</div>",
-            "url": "https://github.com/IJBaig/CVE-2021-3156",
-            "title": "IJBaig/CVE-2021-3156: CVE-2021-3156 Report and Research",
-            "date_modified": "2026-07-15T18:32:42.000Z",
-            "date_published": "2026-07-07T08:27:46.000Z",
-            "author": {
-                "name": "IJBaig",
-                "url": "https://github.com/IJBaig"
-            }
-        },
-        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/182138871?u=5a625dbde10ddebc6f9772ae9e409b49e97a97f1&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Chrome extension that uses vulnerabilities CVE-2021-33044 and CVE-2021-33045 to log in to Dahua cameras without authentication.</div>",
             "url": "https://github.com/Bd-Mutant7/DahuaLoginBypass",
             "title": "Bd-Mutant7/DahuaLoginBypass: Chrome extension that uses vulnerabilities CVE-2021-33044 and CVE-2021-33045 to log in to Dahua cameras without authentication.",
-            "date_modified": "2026-07-15T17:57:46.000Z",
+            "date_modified": "2026-07-15T19:23:55.000Z",
             "date_published": "2026-03-28T17:42:44.000Z",
             "author": {
                 "name": "Bd-Mutant7",
@@ -31,11 +20,22 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/301042230?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Intentionally vulnerable VM-hosted Java shop — Log4Shell (CVE-2021-44228) workshop lab (EC2 / Azure VM / GCE)</div>",
             "url": "https://github.com/AstralJays/TraditionalJay",
             "title": "AstralJays/TraditionalJay: Intentionally vulnerable VM-hosted Java shop — Log4Shell (CVE-2021-44228) workshop lab (EC2 / Azure VM / GCE)",
-            "date_modified": "2026-07-15T16:42:50.000Z",
+            "date_modified": "2026-07-15T19:21:21.000Z",
             "date_published": "2026-07-14T15:29:37.000Z",
             "author": {
                 "name": "AstralJays",
                 "url": "https://github.com/AstralJays"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/151609921?u=7a4fd0dc78e96c1277927480c823afe90ef57b4d&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2021-3156 Report and Research</div>",
+            "url": "https://github.com/IJBaig/CVE-2021-3156",
+            "title": "IJBaig/CVE-2021-3156: CVE-2021-3156 Report and Research",
+            "date_modified": "2026-07-15T18:32:42.000Z",
+            "date_published": "2026-07-07T08:27:46.000Z",
+            "author": {
+                "name": "IJBaig",
+                "url": "https://github.com/IJBaig"
             }
         },
         {
@@ -50,7 +50,7 @@
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/169343360?u=f2f20e8452ba62c7ae5b6ea0857fd4e10403d1f6&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/169343360?u=bc65096de0ebb534faa59cfdcad498684e7e4191&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
             "url": "https://github.com/im2sinister/CVE-2021-41773",
             "title": "im2sinister/CVE-2021-41773",
             "date_modified": "2026-07-15T04:42:44.000Z",
