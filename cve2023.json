@@ -9,7 +9,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/120130511?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>oob_entry tfp0 kernel exploit for armv7 iOS (iOS 3.0–10.3.4), using CVE-2023-32434. We will publish a write-up detailing the methods in the coming weeks. 🐙</div>",
             "url": "https://github.com/rkrakesh524/oob_entry",
             "title": "rkrakesh524/oob_entry: oob_entry tfp0 kernel exploit for armv7 iOS (iOS 3.0–10.3.4), using CVE-2023-32434. We will publish a write-up detailing the methods in the coming weeks. 🐙",
-            "date_modified": "2026-07-16T09:06:02.000Z",
+            "date_modified": "2026-07-16T11:34:55.000Z",
             "date_published": "2025-08-13T09:19:29.000Z",
             "author": {
                 "name": "rkrakesh524",
@@ -36,6 +36,17 @@
             "author": {
                 "name": "kasnria001",
                 "url": "https://github.com/kasnria001"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/156885325?u=44c363c4da6a47831ebdea95c638e5cf5f91c0d6&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Old CVE, but new way to leak everything.</div>",
+            "url": "https://github.com/nhh9905/CVE-2023-36802",
+            "title": "nhh9905/CVE-2023-36802: Old CVE, but new way to leak everything.",
+            "date_modified": "2026-07-16T12:11:09.000Z",
+            "date_published": "2026-07-15T09:56:21.000Z",
+            "author": {
+                "name": "nhh9905",
+                "url": "https://github.com/nhh9905"
             }
         },
         {
@@ -212,17 +223,6 @@
             "author": {
                 "name": "jarpex",
                 "url": "https://github.com/jarpex"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/105918602?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Cisco Email Security Appliance: Local Privilege Escalation and Shell Escape</div>",
-            "url": "https://github.com/ly1g3/cisco-CVE-2023-20075",
-            "title": "ly1g3/cisco-CVE-2023-20075: Cisco Email Security Appliance: Local Privilege Escalation and Shell Escape",
-            "date_modified": "2026-07-07T14:14:57.000Z",
-            "date_published": "2026-07-07T13:12:39.000Z",
-            "author": {
-                "name": "ly1g3",
-                "url": "https://github.com/ly1g3"
             }
         }
     ]
