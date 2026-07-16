@@ -6,10 +6,21 @@
     "description": "CVE-2022 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/278274242?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Demonstrate local privilege escalation in networkd-dispatcher via CVE-2022-29799 and CVE-2022-29800 using this C proof of concept.</div>",
+            "url": "https://github.com/pansyhebephrenic23/NimbusPWN-CVE-2022-29799-29800",
+            "title": "pansyhebephrenic23/NimbusPWN-CVE-2022-29799-29800: Demonstrate local privilege escalation in networkd-dispatcher via CVE-2022-29799 and CVE-2022-29800 using this C proof of concept.",
+            "date_modified": "2026-07-16T07:07:01.000Z",
+            "date_published": "2026-06-23T14:05:18.000Z",
+            "author": {
+                "name": "pansyhebephrenic23",
+                "url": "https://github.com/pansyhebephrenic23"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/41143106?u=b79f5d86dffe824e89ae06b3b19b41a4d6dc8413&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE Realtek SD card reader. CVE-2022-25477, CVE-2022-25478, CVE-2022-25479, CVE-2022-25480, CVE-2024-40432, CVE-2024-40431</div>",
             "url": "https://github.com/HORKimhab/CVE-2022-25477",
             "title": "HORKimhab/CVE-2022-25477: CVE Realtek SD card reader. CVE-2022-25477, CVE-2022-25478, CVE-2022-25479, CVE-2022-25480, CVE-2024-40432, CVE-2024-40431",
-            "date_modified": "2026-07-16T04:47:58.000Z",
+            "date_modified": "2026-07-16T04:48:46.000Z",
             "date_published": "2026-07-16T04:46:13.000Z",
             "author": {
                 "name": "HORKimhab",
@@ -25,17 +36,6 @@
             "author": {
                 "name": "HORKimhab",
                 "url": "https://github.com/HORKimhab"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/278274242?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Demonstrate local privilege escalation in networkd-dispatcher via CVE-2022-29799 and CVE-2022-29800 using this C proof of concept.</div>",
-            "url": "https://github.com/pansyhebephrenic23/NimbusPWN-CVE-2022-29799-29800",
-            "title": "pansyhebephrenic23/NimbusPWN-CVE-2022-29799-29800: Demonstrate local privilege escalation in networkd-dispatcher via CVE-2022-29799 and CVE-2022-29800 using this C proof of concept.",
-            "date_modified": "2026-07-16T04:41:21.000Z",
-            "date_published": "2026-06-23T14:05:18.000Z",
-            "author": {
-                "name": "pansyhebephrenic23",
-                "url": "https://github.com/pansyhebephrenic23"
             }
         },
         {
