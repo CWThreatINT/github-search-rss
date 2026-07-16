@@ -6,10 +6,32 @@
     "description": "CVE-2022 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/41143106?u=b79f5d86dffe824e89ae06b3b19b41a4d6dc8413&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE Realtek SD card reader. CVE-2022-25477, CVE-2022-25478, CVE-2022-25479, CVE-2022-25480, CVE-2024-40432, CVE-2024-40431</div>",
+            "url": "https://github.com/HORKimhab/CVE-2022-25477",
+            "title": "HORKimhab/CVE-2022-25477: CVE Realtek SD card reader. CVE-2022-25477, CVE-2022-25478, CVE-2022-25479, CVE-2022-25480, CVE-2024-40432, CVE-2024-40431",
+            "date_modified": "2026-07-16T04:47:58.000Z",
+            "date_published": "2026-07-16T04:46:13.000Z",
+            "author": {
+                "name": "HORKimhab",
+                "url": "https://github.com/HORKimhab"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/41143106?u=b79f5d86dffe824e89ae06b3b19b41a4d6dc8413&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2022-25476 - Collection</div>",
+            "url": "https://github.com/HORKimhab/CVE-2022-25476",
+            "title": "HORKimhab/CVE-2022-25476: CVE-2022-25476 - Collection",
+            "date_modified": "2026-07-16T04:43:01.000Z",
+            "date_published": "2026-07-16T04:40:48.000Z",
+            "author": {
+                "name": "HORKimhab",
+                "url": "https://github.com/HORKimhab"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/278274242?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Demonstrate local privilege escalation in networkd-dispatcher via CVE-2022-29799 and CVE-2022-29800 using this C proof of concept.</div>",
             "url": "https://github.com/pansyhebephrenic23/NimbusPWN-CVE-2022-29799-29800",
             "title": "pansyhebephrenic23/NimbusPWN-CVE-2022-29799-29800: Demonstrate local privilege escalation in networkd-dispatcher via CVE-2022-29799 and CVE-2022-29800 using this C proof of concept.",
-            "date_modified": "2026-07-15T23:14:25.000Z",
+            "date_modified": "2026-07-16T04:41:21.000Z",
             "date_published": "2026-06-23T14:05:18.000Z",
             "author": {
                 "name": "pansyhebephrenic23",
@@ -198,28 +220,6 @@
             "title": "sh4den/CVE-2022-36804: A loader for bitbucket 2022 rce (cve-2022-36804)",
             "date_modified": "2026-07-12T21:42:47.000Z",
             "date_published": "2022-09-26T08:35:31.000Z",
-            "author": {
-                "name": "sh4den",
-                "url": "https://github.com/sh4den"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/69421356?u=976f450608522dd729ffc838f434b16606715394&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Proof of concept for CVE-2022-31814</div>",
-            "url": "https://github.com/sh4den/CVE-2022-31814",
-            "title": "sh4den/CVE-2022-31814: Proof of concept for CVE-2022-31814",
-            "date_modified": "2026-07-12T21:42:41.000Z",
-            "date_published": "2025-01-16T13:59:45.000Z",
-            "author": {
-                "name": "sh4den",
-                "url": "https://github.com/sh4den"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/69421356?u=976f450608522dd729ffc838f434b16606715394&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A bots loader for CVE-2022-29464 with multithreading</div>",
-            "url": "https://github.com/sh4den/CVE-2022-29464",
-            "title": "sh4den/CVE-2022-29464: A bots loader for CVE-2022-29464 with multithreading",
-            "date_modified": "2026-07-14T20:31:16.000Z",
-            "date_published": "2022-05-15T08:51:16.000Z",
             "author": {
                 "name": "sh4den",
                 "url": "https://github.com/sh4den"
