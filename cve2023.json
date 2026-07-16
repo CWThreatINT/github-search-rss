@@ -6,6 +6,28 @@
     "description": "CVE-2023 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/158209500?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>HTTP Request Smuggling lab: Apache 2.4.55 CRLF injection</div>",
+            "url": "https://github.com/giordy0424/CVE-2023-25690_lab",
+            "title": "giordy0424/CVE-2023-25690_lab: HTTP Request Smuggling lab: Apache 2.4.55 CRLF injection",
+            "date_modified": "2026-07-16T16:42:39.000Z",
+            "date_published": "2026-07-16T16:34:10.000Z",
+            "author": {
+                "name": "giordy0424",
+                "url": "https://github.com/giordy0424"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/156885325?u=44c363c4da6a47831ebdea95c638e5cf5f91c0d6&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Old CVE, but new way to leak everything.</div>",
+            "url": "https://github.com/nhh9905/CVE-2023-36802",
+            "title": "nhh9905/CVE-2023-36802: Old CVE, but new way to leak everything.",
+            "date_modified": "2026-07-16T15:42:16.000Z",
+            "date_published": "2026-07-15T09:56:21.000Z",
+            "author": {
+                "name": "nhh9905",
+                "url": "https://github.com/nhh9905"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/120130511?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>oob_entry tfp0 kernel exploit for armv7 iOS (iOS 3.0–10.3.4), using CVE-2023-32434. We will publish a write-up detailing the methods in the coming weeks. 🐙</div>",
             "url": "https://github.com/rkrakesh524/oob_entry",
             "title": "rkrakesh524/oob_entry: oob_entry tfp0 kernel exploit for armv7 iOS (iOS 3.0–10.3.4), using CVE-2023-32434. We will publish a write-up detailing the methods in the coming weeks. 🐙",
@@ -36,17 +58,6 @@
             "author": {
                 "name": "kasnria001",
                 "url": "https://github.com/kasnria001"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/156885325?u=44c363c4da6a47831ebdea95c638e5cf5f91c0d6&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Old CVE, but new way to leak everything.</div>",
-            "url": "https://github.com/nhh9905/CVE-2023-36802",
-            "title": "nhh9905/CVE-2023-36802: Old CVE, but new way to leak everything.",
-            "date_modified": "2026-07-16T12:11:09.000Z",
-            "date_published": "2026-07-15T09:56:21.000Z",
-            "author": {
-                "name": "nhh9905",
-                "url": "https://github.com/nhh9905"
             }
         },
         {
@@ -212,17 +223,6 @@
             "author": {
                 "name": "ly1g3",
                 "url": "https://github.com/ly1g3"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/40407438?u=5cd3bfc56a9fabaec587e053b54bff95ba49ba96&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Pure C exploit for CVE-2023-4911 (Looney Tunables) — x86_64 &amp; aarch64 implementations. Multi-processing brute-forcing, dynamic calibration, integrated ELF parser.</div>",
-            "url": "https://github.com/jarpex/cve-2023-4911-exploit-optimized",
-            "title": "jarpex/cve-2023-4911-exploit-optimized: Pure C exploit for CVE-2023-4911 (Looney Tunables) — x86_64 & aarch64 implementations. Multi-processing brute-forcing, dynamic calibration, integrated ELF parser.",
-            "date_modified": "2026-07-07T21:02:30.000Z",
-            "date_published": "2026-06-29T21:05:09.000Z",
-            "author": {
-                "name": "jarpex",
-                "url": "https://github.com/jarpex"
             }
         }
     ]
