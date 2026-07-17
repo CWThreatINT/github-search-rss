@@ -6,10 +6,32 @@
     "description": "CVE-2022 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/95763550?u=e7ff3e6b6da72a2c1ea8d35bba101eebca3d7f54&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>TM4WEB Vulnerability - CVE-2022-35497</div>",
+            "url": "https://github.com/PN-Tester/CVE-2022-35497",
+            "title": "PN-Tester/CVE-2022-35497: TM4WEB Vulnerability - CVE-2022-35497",
+            "date_modified": "2026-07-17T15:39:54.000Z",
+            "date_published": "2026-07-17T15:29:31.000Z",
+            "author": {
+                "name": "PN-Tester",
+                "url": "https://github.com/PN-Tester"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/95763550?u=e7ff3e6b6da72a2c1ea8d35bba101eebca3d7f54&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>TM4Web Vulnerability - CVE-2022-35499</div>",
+            "url": "https://github.com/PN-Tester/CVE-2022-35499",
+            "title": "PN-Tester/CVE-2022-35499: TM4Web Vulnerability - CVE-2022-35499",
+            "date_modified": "2026-07-17T15:27:22.000Z",
+            "date_published": "2026-07-17T15:07:47.000Z",
+            "author": {
+                "name": "PN-Tester",
+                "url": "https://github.com/PN-Tester"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/278274242?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Demonstrate local privilege escalation in networkd-dispatcher via CVE-2022-29799 and CVE-2022-29800 using this C proof of concept.</div>",
             "url": "https://github.com/pansyhebephrenic23/NimbusPWN-CVE-2022-29799-29800",
             "title": "pansyhebephrenic23/NimbusPWN-CVE-2022-29799-29800: Demonstrate local privilege escalation in networkd-dispatcher via CVE-2022-29799 and CVE-2022-29800 using this C proof of concept.",
-            "date_modified": "2026-07-17T12:33:03.000Z",
+            "date_modified": "2026-07-17T15:06:26.000Z",
             "date_published": "2026-06-23T14:05:18.000Z",
             "author": {
                 "name": "pansyhebephrenic23",
@@ -198,28 +220,6 @@
             "title": "sh4den/CVE-2022-23093: The FreeBSD ICMP buffer overflow, freebsd buffer overflow poc",
             "date_modified": "2026-07-12T21:42:49.000Z",
             "date_published": "2023-03-02T20:18:54.000Z",
-            "author": {
-                "name": "sh4den",
-                "url": "https://github.com/sh4den"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/69421356?u=976f450608522dd729ffc838f434b16606715394&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>The manage engine mass loader for CVE-2022-47966</div>",
-            "url": "https://github.com/sh4den/CVE-2022-47966",
-            "title": "sh4den/CVE-2022-47966: The manage engine mass loader for CVE-2022-47966",
-            "date_modified": "2026-07-12T21:42:49.000Z",
-            "date_published": "2023-01-23T10:45:23.000Z",
-            "author": {
-                "name": "sh4den",
-                "url": "https://github.com/sh4den"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/69421356?u=976f450608522dd729ffc838f434b16606715394&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Cacti Unauthenticated Command Injection</div>",
-            "url": "https://github.com/sh4den/CVE-2022-46169",
-            "title": "sh4den/CVE-2022-46169: Cacti Unauthenticated Command Injection",
-            "date_modified": "2026-07-12T21:42:48.000Z",
-            "date_published": "2023-01-02T18:03:26.000Z",
             "author": {
                 "name": "sh4den",
                 "url": "https://github.com/sh4den"
