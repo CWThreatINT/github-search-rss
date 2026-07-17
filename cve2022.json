@@ -6,6 +6,28 @@
     "description": "CVE-2022 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/240768955?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>SnakeYAML CVE-2022-1471 exploit payload for Seal Security demos</div>",
+            "url": "https://github.com/seal-sean-org/yaml-payload",
+            "title": "seal-sean-org/yaml-payload: SnakeYAML CVE-2022-1471 exploit payload for Seal Security demos",
+            "date_modified": "2026-07-17T20:21:44.000Z",
+            "date_published": "2026-07-17T20:01:20.000Z",
+            "author": {
+                "name": "seal-sean-org",
+                "url": "https://github.com/seal-sean-org"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/240768955?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Sean's Surf &amp; Skate Co. — Spring Boot storefront with a vulnerable SnakeYAML dep (CVE-2022-1471) for Seal Security demos</div>",
+            "url": "https://github.com/seal-sean-org/seans-surf-and-skate",
+            "title": "seal-sean-org/seans-surf-and-skate: Sean's Surf & Skate Co. — Spring Boot storefront with a vulnerable SnakeYAML dep (CVE-2022-1471) for Seal Security demos",
+            "date_modified": "2026-07-17T20:21:29.000Z",
+            "date_published": "2026-07-17T20:10:43.000Z",
+            "author": {
+                "name": "seal-sean-org",
+                "url": "https://github.com/seal-sean-org"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/95763550?u=e7ff3e6b6da72a2c1ea8d35bba101eebca3d7f54&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>TM4WEB Vulnerability - CVE-2022-35497</div>",
             "url": "https://github.com/PN-Tester/CVE-2022-35497",
             "title": "PN-Tester/CVE-2022-35497: TM4WEB Vulnerability - CVE-2022-35497",
@@ -201,28 +223,6 @@
             "author": {
                 "name": "c0gnit00",
                 "url": "https://github.com/c0gnit00"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/297998846?u=914da622658500659822ee1b0d684e6c69920b3c&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2022-22965</div>",
-            "url": "https://github.com/RootEvil333/CVE-2022-22965",
-            "title": "RootEvil333/CVE-2022-22965: CVE-2022-22965",
-            "date_modified": "2026-07-07T09:16:17.000Z",
-            "date_published": "2026-07-07T09:12:45.000Z",
-            "author": {
-                "name": "RootEvil333",
-                "url": "https://github.com/RootEvil333"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/69421356?u=976f450608522dd729ffc838f434b16606715394&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>The FreeBSD ICMP buffer overflow, freebsd buffer overflow poc</div>",
-            "url": "https://github.com/sh4den/CVE-2022-23093",
-            "title": "sh4den/CVE-2022-23093: The FreeBSD ICMP buffer overflow, freebsd buffer overflow poc",
-            "date_modified": "2026-07-12T21:42:49.000Z",
-            "date_published": "2023-03-02T20:18:54.000Z",
-            "author": {
-                "name": "sh4den",
-                "url": "https://github.com/sh4den"
             }
         }
     ]
