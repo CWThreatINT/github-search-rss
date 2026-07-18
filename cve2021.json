@@ -9,11 +9,33 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/182138871?u=5a625dbde10ddebc6f9772ae9e409b49e97a97f1&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Chrome extension that uses vulnerabilities CVE-2021-33044 and CVE-2021-33045 to log in to Dahua cameras without authentication.</div>",
             "url": "https://github.com/Bd-Mutant7/DahuaLoginBypass",
             "title": "Bd-Mutant7/DahuaLoginBypass: Chrome extension that uses vulnerabilities CVE-2021-33044 and CVE-2021-33045 to log in to Dahua cameras without authentication.",
-            "date_modified": "2026-07-17T23:28:35.000Z",
+            "date_modified": "2026-07-18T00:59:36.000Z",
             "date_published": "2026-03-28T17:42:44.000Z",
             "author": {
                 "name": "Bd-Mutant7",
                 "url": "https://github.com/Bd-Mutant7"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/273746365?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Lightweight scanner that detects vulnerable Log4j versions and Log4Shell (CVE-2021-44228) indicators in a filesystem tree.</div>",
+            "url": "https://github.com/arpitgupta369/log4shell-scanner",
+            "title": "arpitgupta369/log4shell-scanner: Lightweight scanner that detects vulnerable Log4j versions and Log4Shell (CVE-2021-44228) indicators in a filesystem tree.",
+            "date_modified": "2026-07-18T00:03:26.000Z",
+            "date_published": "2026-07-18T00:03:17.000Z",
+            "author": {
+                "name": "arpitgupta369",
+                "url": "https://github.com/arpitgupta369"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/233878056?u=0bb6bbb0a8807b2093a0bad7217c3061e0ecd85b&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>HIKRAVEN - Advanced Hikvision Security Assessment Platform for professional penetration testing. Detects 12+ CVEs including CVE-2021-36260 (CRITICAL), tests default credentials, performs network discovery, and generates professional security reports. For authorized security testing only! 🛡️🔒</div>",
+            "url": "https://github.com/sylhetyhackvenger/HIKRAVEN",
+            "title": "sylhetyhackvenger/HIKRAVEN: HIKRAVEN - Advanced Hikvision Security Assessment Platform for professional penetration testing. Detects 12+ CVEs including CVE-2021-36260 (CRITICAL), tests default credentials, performs network discovery, and generates professional security reports. For authorized security testing only! 🛡️🔒",
+            "date_modified": "2026-07-17T23:55:59.000Z",
+            "date_published": "2026-07-17T23:29:55.000Z",
+            "author": {
+                "name": "sylhetyhackvenger",
+                "url": "https://github.com/sylhetyhackvenger"
             }
         },
         {
@@ -201,28 +223,6 @@
             "author": {
                 "name": "johnwickakash12",
                 "url": "https://github.com/johnwickakash12"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/142884636?u=238c467ce34e8dafb9974db4163f69855e771d90&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>自研针对ESXI 堆栈溢出的CVE-2021-21974 POC，只支持项目给出的的目标和环境，用于学习和研究</div>",
-            "url": "https://github.com/Aiyakami/CVE-2021-21974",
-            "title": "Aiyakami/CVE-2021-21974: 自研针对ESXI 堆栈溢出的CVE-2021-21974 POC，只支持项目给出的的目标和环境，用于学习和研究",
-            "date_modified": "2026-07-14T16:45:31.000Z",
-            "date_published": "2026-07-08T07:52:01.000Z",
-            "author": {
-                "name": "Aiyakami",
-                "url": "https://github.com/Aiyakami"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/23084104?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Production Ready Steps for Remediating a openssl CVE(<a href=\"https://nvd.nist.gov/vuln/detail/cve-2021-3712\" class=\"Link--inTextBlock\" rel=\"nofollow\">https://nvd.nist.gov/vuln/detail/cve-2021-3712</a>) on EOL CentOS7 box</div>",
-            "url": "https://github.com/code-with-amitk/CentOS7_CVE-2021-3712_Remediation",
-            "title": "code-with-amitk/CentOS7_CVE-2021-3712_Remediation: Production Ready Steps for Remediating a openssl CVE(https://nvd.nist.gov/vuln/detail/cve-2021-3712) on EOL CentOS7 box",
-            "date_modified": "2026-07-09T07:05:34.000Z",
-            "date_published": "2026-07-09T06:45:42.000Z",
-            "author": {
-                "name": "code-with-amitk",
-                "url": "https://github.com/code-with-amitk"
             }
         }
     ]
