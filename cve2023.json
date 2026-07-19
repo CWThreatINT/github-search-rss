@@ -6,6 +6,17 @@
     "description": "CVE-2023 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/125787279?u=724160c9387ca3628ce70ddc965814b1def5ad4a&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Agentic-AI (Apex/Horizon) eval: autonomously remediate CVE-2023-49092 on a Kubernetes fanout microservice against active drift — pod/ConfigMap drift, GitOps OutOfSync, cert rotation, and live fan-out delivery, all graded on real cluster state.</div>",
+            "url": "https://github.com/omonuj/fanout-cve-rollout",
+            "title": "omonuj/fanout-cve-rollout: Agentic-AI (Apex/Horizon) eval: autonomously remediate CVE-2023-49092 on a Kubernetes fanout microservice against active drift — pod/ConfigMap drift, GitOps OutOfSync, cert rotation, and live fan-out delivery, all graded on real cluster state.",
+            "date_modified": "2026-07-19T10:50:28.000Z",
+            "date_published": "2026-07-18T15:16:25.000Z",
+            "author": {
+                "name": "omonuj",
+                "url": "https://github.com/omonuj"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/120130511?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>oob_entry tfp0 kernel exploit for armv7 iOS (iOS 3.0–10.3.4), using CVE-2023-32434. We will publish a write-up detailing the methods in the coming weeks. 🐙</div>",
             "url": "https://github.com/rkrakesh524/oob_entry",
             "title": "rkrakesh524/oob_entry: oob_entry tfp0 kernel exploit for armv7 iOS (iOS 3.0–10.3.4), using CVE-2023-32434. We will publish a write-up detailing the methods in the coming weeks. 🐙",
@@ -25,17 +36,6 @@
             "author": {
                 "name": "GhostTroops",
                 "url": "https://github.com/GhostTroops"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/125787279?u=724160c9387ca3628ce70ddc965814b1def5ad4a&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Agentic-AI (Apex/Horizon) eval: autonomously remediate CVE-2023-49092 on a Kubernetes fanout microservice against active drift — pod/ConfigMap drift, GitOps OutOfSync, cert rotation, and live fan-out delivery, all graded on real cluster state.</div>",
-            "url": "https://github.com/omonuj/fanout-cve-rollout",
-            "title": "omonuj/fanout-cve-rollout: Agentic-AI (Apex/Horizon) eval: autonomously remediate CVE-2023-49092 on a Kubernetes fanout microservice against active drift — pod/ConfigMap drift, GitOps OutOfSync, cert rotation, and live fan-out delivery, all graded on real cluster state.",
-            "date_modified": "2026-07-18T15:16:58.000Z",
-            "date_published": "2026-07-18T15:16:25.000Z",
-            "author": {
-                "name": "omonuj",
-                "url": "https://github.com/omonuj"
             }
         },
         {
