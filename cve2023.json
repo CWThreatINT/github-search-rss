@@ -6,6 +6,17 @@
     "description": "CVE-2023 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/79825753?u=ef4d49ca7eb57e9da1f26f9bb70065f9de0ac535&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A kernel exploit for Pico 4 devices based on cve-2023-33107</div>",
+            "url": "https://github.com/264312431/picohaxx",
+            "title": "264312431/picohaxx: A kernel exploit for Pico 4 devices based on cve-2023-33107",
+            "date_modified": "2026-07-19T11:47:20.000Z",
+            "date_published": "2026-07-18T08:06:18.000Z",
+            "author": {
+                "name": "264312431",
+                "url": "https://github.com/264312431"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/125787279?u=724160c9387ca3628ce70ddc965814b1def5ad4a&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Agentic-AI (Apex/Horizon) eval: autonomously remediate CVE-2023-49092 on a Kubernetes fanout microservice against active drift — pod/ConfigMap drift, GitOps OutOfSync, cert rotation, and live fan-out delivery, all graded on real cluster state.</div>",
             "url": "https://github.com/omonuj/fanout-cve-rollout",
             "title": "omonuj/fanout-cve-rollout: Agentic-AI (Apex/Horizon) eval: autonomously remediate CVE-2023-49092 on a Kubernetes fanout microservice against active drift — pod/ConfigMap drift, GitOps OutOfSync, cert rotation, and live fan-out delivery, all graded on real cluster state.",
@@ -47,17 +58,6 @@
             "author": {
                 "name": "tahaXafous",
                 "url": "https://github.com/tahaXafous"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/79825753?u=ef4d49ca7eb57e9da1f26f9bb70065f9de0ac535&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A kernel exploit for Pico 4 devices based on cve-2023-33107</div>",
-            "url": "https://github.com/264312431/picohaxx",
-            "title": "264312431/picohaxx: A kernel exploit for Pico 4 devices based on cve-2023-33107",
-            "date_modified": "2026-07-18T08:06:37.000Z",
-            "date_published": "2026-07-18T08:06:18.000Z",
-            "author": {
-                "name": "264312431",
-                "url": "https://github.com/264312431"
             }
         },
         {
