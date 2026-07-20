@@ -6,10 +6,21 @@
     "description": "CVE-2021 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/163033692?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Docker ortamında Apache HTTP Server 2.4.49 (CVE-2021-42013) zafiyetinin gösterildiği laboratuvar çalışması.</div>",
+            "url": "https://github.com/berraesen/apache-cve-2021-42013-lab",
+            "title": "berraesen/apache-cve-2021-42013-lab: Docker ortamında Apache HTTP Server 2.4.49 (CVE-2021-42013) zafiyetinin gösterildiği laboratuvar çalışması.",
+            "date_modified": "2026-07-20T13:37:48.000Z",
+            "date_published": "2026-07-20T13:24:03.000Z",
+            "author": {
+                "name": "berraesen",
+                "url": "https://github.com/berraesen"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/182138871?u=5a625dbde10ddebc6f9772ae9e409b49e97a97f1&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Chrome extension that uses vulnerabilities CVE-2021-33044 and CVE-2021-33045 to log in to Dahua cameras without authentication.</div>",
             "url": "https://github.com/Bd-Mutant7/DahuaLoginBypass",
             "title": "Bd-Mutant7/DahuaLoginBypass: Chrome extension that uses vulnerabilities CVE-2021-33044 and CVE-2021-33045 to log in to Dahua cameras without authentication.",
-            "date_modified": "2026-07-20T10:42:04.000Z",
+            "date_modified": "2026-07-20T12:56:30.000Z",
             "date_published": "2026-03-28T17:42:44.000Z",
             "author": {
                 "name": "Bd-Mutant7",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "Joe1sn",
                 "url": "https://github.com/Joe1sn"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/302280951?u=13974879c9cb22e2a304a3f2a4f03e1b90b09050&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Cybersecurity Capstone Project completed during the NCSC Nashama CyberCamp 11, delivered in collaboration with IT Security C&amp;T. The project demonstrates vulnerability assessment, exploitation, mitigation, and SIEM detection for Oracle WebLogic (CVE-2017-10271) and Apache Druid (CVE-2021-25646).</div>",
-            "url": "https://github.com/shahdawadfallah-sys/Cybersecurity-Capstone-Project",
-            "title": "shahdawadfallah-sys/Cybersecurity-Capstone-Project: Cybersecurity Capstone Project completed during the NCSC Nashama CyberCamp 11, delivered in collaboration with IT Security C&T. The project demonstrates vulnerability assessment, exploitation, mitigation, and SIEM detection for Oracle WebLogic (CVE-2017-10271) and Apache Druid (CVE-2021-25646).",
-            "date_modified": "2026-07-11T13:55:55.000Z",
-            "date_published": "2026-07-11T13:50:49.000Z",
-            "author": {
-                "name": "shahdawadfallah-sys",
-                "url": "https://github.com/shahdawadfallah-sys"
             }
         }
     ]
