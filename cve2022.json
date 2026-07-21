@@ -17,17 +17,6 @@
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/219814603?u=6c9324370159aa5184dd260c737ff40281856f03&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Threat analysis writeup for Follina (CVE-2022-30190) — Microsoft MSDT RCE zero-day exploited in the wild. Covers static analysis, VirusTotal, OSINT, MITRE ATT&amp;CK T1059, and detection engineering using Windows Event ID 4688.</div>",
-            "url": "https://github.com/zavikhttak/Follina-CVE-2022-30190-Analysis",
-            "title": "zavikhttak/Follina-CVE-2022-30190-Analysis: Threat analysis writeup for Follina (CVE-2022-30190) — Microsoft MSDT RCE zero-day exploited in the wild. Covers static analysis, VirusTotal, OSINT, MITRE ATT&CK T1059, and detection engineering using Windows Event ID 4688.",
-            "date_modified": "2026-07-21T03:59:10.000Z",
-            "date_published": "2026-07-21T03:59:10.000Z",
-            "author": {
-                "name": "zavikhttak",
-                "url": "https://github.com/zavikhttak"
-            }
-        },
-        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/306053261?u=a98fd39538f2e72864ab402340e6e578fcc99fdf&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Mirrored from tegal1337/CVE-2022-0441</div>",
             "url": "https://github.com/DappaNISM/CVE-2022-0441",
             "title": "DappaNISM/CVE-2022-0441: Mirrored from tegal1337/CVE-2022-0441",
@@ -223,6 +212,17 @@
             "author": {
                 "name": "taka3636",
                 "url": "https://github.com/taka3636"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/255097571?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>vulhub/H2-database/CVE-2022-23221</div>",
+            "url": "https://github.com/straightSang/H2-database-CVE-2022-23221",
+            "title": "straightSang/H2-database-CVE-2022-23221: vulhub/H2-database/CVE-2022-23221",
+            "date_modified": "2026-07-10T13:11:33.000Z",
+            "date_published": "2026-07-09T04:32:32.000Z",
+            "author": {
+                "name": "straightSang",
+                "url": "https://github.com/straightSang"
             }
         }
     ]
