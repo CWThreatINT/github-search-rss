@@ -6,6 +6,17 @@
     "description": "CVE-2023 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/99561321?u=259d6eaeafe1dcbf8f5a733e1340323982afbd48&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A minimalist Local Privilege Escalation (LPE) vulnerability checker for CVE-2023-21817 (Windows Kerberos LPE) written in C++.</div>",
+            "url": "https://github.com/johnnygreeme/CVE-2023-21817",
+            "title": "johnnygreeme/CVE-2023-21817: A minimalist Local Privilege Escalation (LPE) vulnerability checker for CVE-2023-21817 (Windows Kerberos LPE) written in C++.",
+            "date_modified": "2026-07-22T18:16:13.000Z",
+            "date_published": "2026-07-22T18:12:23.000Z",
+            "author": {
+                "name": "johnnygreeme",
+                "url": "https://github.com/johnnygreeme"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/128129242?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Scripts and code for \"The Secret Life of CVEs\", presented at MSR 2023 Challenge: <a href=\"https://conf.researchr.org/track/msr-2023/msr-2023-mining-challenge\" class=\"Link--inTextBlock\" rel=\"nofollow\">https://conf.researchr.org/track/msr-2023/msr-2023-mining-challenge</a></div>",
             "url": "https://github.com/ncusi/secret_life_of_CVEs",
             "title": "ncusi/secret_life_of_CVEs: Scripts and code for \"The Secret Life of CVEs\", presented at MSR 2023 Challenge: https://conf.researchr.org/track/msr-2023/msr-2023-mining-challenge",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "gunwoo105",
                 "url": "https://github.com/gunwoo105"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/127627278?u=ae7acf6eb1b5c3b80c265b9a8baf9f8b5af93ec2&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2023-34468 Apache NiFi ExecuteSQL H2 RUNSCRIPT RCE PoC</div>",
-            "url": "https://github.com/ozcanpng/CVE-2023-34468",
-            "title": "ozcanpng/CVE-2023-34468: CVE-2023-34468 Apache NiFi ExecuteSQL H2 RUNSCRIPT RCE PoC",
-            "date_modified": "2026-07-12T17:25:33.000Z",
-            "date_published": "2026-07-12T17:21:46.000Z",
-            "author": {
-                "name": "ozcanpng",
-                "url": "https://github.com/ozcanpng"
             }
         }
     ]
