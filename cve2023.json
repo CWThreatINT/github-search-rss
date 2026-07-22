@@ -6,6 +6,17 @@
     "description": "CVE-2023 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/99561321?u=259d6eaeafe1dcbf8f5a733e1340323982afbd48&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>PoC for CVE-2023-36003: Windows Exploit Security Feature Bypass Vulnerability in Windows Defender.</div>",
+            "url": "https://github.com/johnnygreeme/CVE-2023-36003",
+            "title": "johnnygreeme/CVE-2023-36003: PoC for CVE-2023-36003: Windows Exploit Security Feature Bypass Vulnerability in Windows Defender.",
+            "date_modified": "2026-07-22T19:46:43.000Z",
+            "date_published": "2026-07-22T19:43:34.000Z",
+            "author": {
+                "name": "johnnygreeme",
+                "url": "https://github.com/johnnygreeme"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/99561321?u=259d6eaeafe1dcbf8f5a733e1340323982afbd48&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A minimalist Local Privilege Escalation (LPE) vulnerability checker for CVE-2023-21817 (Windows Kerberos LPE) written in C++.</div>",
             "url": "https://github.com/johnnygreeme/CVE-2023-21817",
             "title": "johnnygreeme/CVE-2023-21817: A minimalist Local Privilege Escalation (LPE) vulnerability checker for CVE-2023-21817 (Windows Kerberos LPE) written in C++.",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "Giangdurian",
                 "url": "https://github.com/Giangdurian"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/138558494?u=4b79478b0b0b7c4e890e4dcde613a23d6b619629&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Node.js vm2 CVE-2023-29017 reproduction with Docker Compose and PoC</div>",
-            "url": "https://github.com/gunwoo105/Node_CVE-2023-29017",
-            "title": "gunwoo105/Node_CVE-2023-29017: Node.js vm2 CVE-2023-29017 reproduction with Docker Compose and PoC",
-            "date_modified": "2026-07-12T19:09:11.000Z",
-            "date_published": "2026-07-12T19:09:01.000Z",
-            "author": {
-                "name": "gunwoo105",
-                "url": "https://github.com/gunwoo105"
             }
         }
     ]
