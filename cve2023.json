@@ -6,6 +6,17 @@
     "description": "CVE-2023 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/128129242?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Scripts and code for \"The Secret Life of CVEs\", presented at MSR 2023 Challenge: <a href=\"https://conf.researchr.org/track/msr-2023/msr-2023-mining-challenge\" class=\"Link--inTextBlock\" rel=\"nofollow\">https://conf.researchr.org/track/msr-2023/msr-2023-mining-challenge</a></div>",
+            "url": "https://github.com/ncusi/secret_life_of_CVEs",
+            "title": "ncusi/secret_life_of_CVEs: Scripts and code for \"The Secret Life of CVEs\", presented at MSR 2023 Challenge: https://conf.researchr.org/track/msr-2023/msr-2023-mining-challenge",
+            "date_modified": "2026-07-22T16:42:05.000Z",
+            "date_published": "2023-03-17T10:24:09.000Z",
+            "author": {
+                "name": "ncusi",
+                "url": "https://github.com/ncusi"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/158827278?u=10c7fa2e0b45a727087f339b56c6fa44e8334b0f&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
             "url": "https://github.com/WhatsWrongAndWhy/CVE-2023-2640-CVE-2023-32629",
             "title": "WhatsWrongAndWhy/CVE-2023-2640-CVE-2023-32629",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "ozcanpng",
                 "url": "https://github.com/ozcanpng"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/135018788?u=043412b65afbf1ce2ab6c36685d3ffa952fb6457&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Better POC</div>",
-            "url": "https://github.com/CH0ico/CVE-2023-38146-Poc",
-            "title": "CH0ico/CVE-2023-38146-Poc: Better POC",
-            "date_modified": "2026-07-12T12:16:47.000Z",
-            "date_published": "2026-07-12T12:14:46.000Z",
-            "author": {
-                "name": "CH0ico",
-                "url": "https://github.com/CH0ico"
             }
         }
     ]
