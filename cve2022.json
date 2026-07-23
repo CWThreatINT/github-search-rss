@@ -6,6 +6,17 @@
     "description": "CVE-2022 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/21672558?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A Zeek package to detect CVE-2022-26937, a vulnerability in the Network Lock Manager (NLM) protocol in Windows NFS server.</div>",
+            "url": "https://github.com/corelight/CVE-2022-26937",
+            "title": "corelight/CVE-2022-26937: A Zeek package to detect CVE-2022-26937, a vulnerability in the Network Lock Manager (NLM) protocol in Windows NFS server.",
+            "date_modified": "2026-07-23T14:41:34.000Z",
+            "date_published": "2022-05-11T18:36:45.000Z",
+            "author": {
+                "name": "corelight",
+                "url": "https://github.com/corelight"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/255097571?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>vulhub/H2-database/CVE-2022-23221</div>",
             "url": "https://github.com/straightSang/H2-database-CVE-2022-23221",
             "title": "straightSang/H2-database-CVE-2022-23221: vulhub/H2-database/CVE-2022-23221",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "seal-sec-demo-2",
                 "url": "https://github.com/seal-sec-demo-2"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/169938932?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Analyzed 88K+ CVEs (2022-2024) from the NVD API using Python &amp; SQL to uncover vulnerability trends, severity patterns, and common exploit types — visualized in an interactive Streamlit dashboard.</div>",
-            "url": "https://github.com/ShifaShaikh074/cve-vulnerability-trend-analyzer",
-            "title": "ShifaShaikh074/cve-vulnerability-trend-analyzer: Analyzed 88K+ CVEs (2022-2024) from the NVD API using Python & SQL to uncover vulnerability trends, severity patterns, and common exploit types — visualized in an interactive Streamlit dashboard.",
-            "date_modified": "2026-07-11T18:47:32.000Z",
-            "date_published": "2026-07-11T18:27:34.000Z",
-            "author": {
-                "name": "ShifaShaikh074",
-                "url": "https://github.com/ShifaShaikh074"
             }
         }
     ]
