@@ -6,10 +6,32 @@
     "description": "CVE-2021 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/22788893?u=5ecb36b49dfa7bf7277fc993da63b7bcdfa835d1&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
+            "url": "https://github.com/0xlane/CVE-2021-3493",
+            "title": "0xlane/CVE-2021-3493",
+            "date_modified": "2026-07-23T10:36:26.000Z",
+            "date_published": "2026-07-23T10:36:25.000Z",
+            "author": {
+                "name": "0xlane",
+                "url": "https://github.com/0xlane"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/23299078?u=605ee4288692d8f6907031b307a0d1443683667d&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2021-41773 Apache</div>",
+            "url": "https://github.com/gagaltotal/CVE-2021-41773-apache",
+            "title": "gagaltotal/CVE-2021-41773-apache: CVE-2021-41773 Apache",
+            "date_modified": "2026-07-23T10:05:01.000Z",
+            "date_published": "2026-07-23T09:49:31.000Z",
+            "author": {
+                "name": "gagaltotal",
+                "url": "https://github.com/gagaltotal"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/182138871?u=5a625dbde10ddebc6f9772ae9e409b49e97a97f1&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Chrome extension that uses vulnerabilities CVE-2021-33044 and CVE-2021-33045 to log in to Dahua cameras without authentication.</div>",
             "url": "https://github.com/Bd-Mutant7/DahuaLoginBypass",
             "title": "Bd-Mutant7/DahuaLoginBypass: Chrome extension that uses vulnerabilities CVE-2021-33044 and CVE-2021-33045 to log in to Dahua cameras without authentication.",
-            "date_modified": "2026-07-23T07:29:03.000Z",
+            "date_modified": "2026-07-23T09:36:51.000Z",
             "date_published": "2026-03-28T17:42:44.000Z",
             "author": {
                 "name": "Bd-Mutant7",
@@ -201,28 +223,6 @@
             "author": {
                 "name": "theNareshofficial",
                 "url": "https://github.com/theNareshofficial"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/273746365?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Lightweight scanner that detects vulnerable Log4j versions and Log4Shell (CVE-2021-44228) indicators in a filesystem tree.</div>",
-            "url": "https://github.com/arpitgupta369/log4shell-scanner",
-            "title": "arpitgupta369/log4shell-scanner: Lightweight scanner that detects vulnerable Log4j versions and Log4Shell (CVE-2021-44228) indicators in a filesystem tree.",
-            "date_modified": "2026-07-18T00:03:26.000Z",
-            "date_published": "2026-07-18T00:03:17.000Z",
-            "author": {
-                "name": "arpitgupta369",
-                "url": "https://github.com/arpitgupta369"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/233878056?u=0bb6bbb0a8807b2093a0bad7217c3061e0ecd85b&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>HIKRAVEN - Advanced Hikvision Security Assessment Platform for professional penetration testing. Detects 12+ CVEs including CVE-2021-36260 (CRITICAL), tests default credentials, performs network discovery, and generates professional security reports. For authorized security testing only! 🛡️🔒</div>",
-            "url": "https://github.com/sylhetyhackvenger/HIKRAVEN",
-            "title": "sylhetyhackvenger/HIKRAVEN: HIKRAVEN - Advanced Hikvision Security Assessment Platform for professional penetration testing. Detects 12+ CVEs including CVE-2021-36260 (CRITICAL), tests default credentials, performs network discovery, and generates professional security reports. For authorized security testing only! 🛡️🔒",
-            "date_modified": "2026-07-18T13:54:24.000Z",
-            "date_published": "2026-07-17T23:29:55.000Z",
-            "author": {
-                "name": "sylhetyhackvenger",
-                "url": "https://github.com/sylhetyhackvenger"
             }
         }
     ]
