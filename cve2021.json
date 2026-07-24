@@ -6,10 +6,32 @@
     "description": "CVE-2021 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/60946845?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Spring Boot web application vulnerable to Log4Shell (CVE-2021-44228).</div>",
+            "url": "https://github.com/prmawyer/log4shell-vulnerable-app",
+            "title": "prmawyer/log4shell-vulnerable-app: Spring Boot web application vulnerable to Log4Shell (CVE-2021-44228).",
+            "date_modified": "2026-07-24T13:56:24.000Z",
+            "date_published": "2026-07-16T18:23:36.000Z",
+            "author": {
+                "name": "prmawyer",
+                "url": "https://github.com/prmawyer"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/120041274?u=ba85e34c487a99a6aafa8723599e63014255c42d&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
+            "url": "https://github.com/sbimoxa/cve-2021-43798-lab",
+            "title": "sbimoxa/cve-2021-43798-lab",
+            "date_modified": "2026-07-24T13:41:42.000Z",
+            "date_published": "2026-07-24T12:32:39.000Z",
+            "author": {
+                "name": "sbimoxa",
+                "url": "https://github.com/sbimoxa"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/182138871?u=5a625dbde10ddebc6f9772ae9e409b49e97a97f1&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Chrome extension that uses vulnerabilities CVE-2021-33044 and CVE-2021-33045 to log in to Dahua cameras without authentication.</div>",
             "url": "https://github.com/Bd-Mutant7/DahuaLoginBypass",
             "title": "Bd-Mutant7/DahuaLoginBypass: Chrome extension that uses vulnerabilities CVE-2021-33044 and CVE-2021-33045 to log in to Dahua cameras without authentication.",
-            "date_modified": "2026-07-24T11:23:55.000Z",
+            "date_modified": "2026-07-24T12:55:29.000Z",
             "date_published": "2026-03-28T17:42:44.000Z",
             "author": {
                 "name": "Bd-Mutant7",
@@ -47,17 +69,6 @@
             "author": {
                 "name": "gagaltotal",
                 "url": "https://github.com/gagaltotal"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/60946845?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Spring Boot web application vulnerable to Log4Shell (CVE-2021-44228).</div>",
-            "url": "https://github.com/prmawyer/log4shell-vulnerable-app",
-            "title": "prmawyer/log4shell-vulnerable-app: Spring Boot web application vulnerable to Log4Shell (CVE-2021-44228).",
-            "date_modified": "2026-07-22T19:59:11.000Z",
-            "date_published": "2026-07-16T18:23:36.000Z",
-            "author": {
-                "name": "prmawyer",
-                "url": "https://github.com/prmawyer"
             }
         },
         {
@@ -212,17 +223,6 @@
             "author": {
                 "name": "Daniel224455",
                 "url": "https://github.com/Daniel224455"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/117029004?u=95de6b45f0ad8406c5111ef402be3d36ea622fe3&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2021-28235 PoC</div>",
-            "url": "https://github.com/h3ck13r/CVE-2021-28235",
-            "title": "h3ck13r/CVE-2021-28235: CVE-2021-28235 PoC",
-            "date_modified": "2026-07-18T19:16:54.000Z",
-            "date_published": "2026-07-10T18:45:06.000Z",
-            "author": {
-                "name": "h3ck13r",
-                "url": "https://github.com/h3ck13r"
             }
         }
     ]
