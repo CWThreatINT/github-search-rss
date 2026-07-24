@@ -6,6 +6,17 @@
     "description": "CVE-2022 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/278274242?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Demonstrate local privilege escalation in networkd-dispatcher via CVE-2022-29799 and CVE-2022-29800 using this C proof of concept.</div>",
+            "url": "https://github.com/pansyhebephrenic23/NimbusPWN-CVE-2022-29799-29800",
+            "title": "pansyhebephrenic23/NimbusPWN-CVE-2022-29799-29800: Demonstrate local privilege escalation in networkd-dispatcher via CVE-2022-29799 and CVE-2022-29800 using this C proof of concept.",
+            "date_modified": "2026-07-24T11:23:52.000Z",
+            "date_published": "2026-06-23T14:05:18.000Z",
+            "author": {
+                "name": "pansyhebephrenic23",
+                "url": "https://github.com/pansyhebephrenic23"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/21672558?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A Zeek package to detect CVE-2022-26937, a vulnerability in the Network Lock Manager (NLM) protocol in Windows NFS server.</div>",
             "url": "https://github.com/corelight/CVE-2022-26937",
             "title": "corelight/CVE-2022-26937: A Zeek package to detect CVE-2022-26937, a vulnerability in the Network Lock Manager (NLM) protocol in Windows NFS server.",
@@ -69,17 +80,6 @@
             "author": {
                 "name": "winstxnhdw",
                 "url": "https://github.com/winstxnhdw"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/278274242?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Demonstrate local privilege escalation in networkd-dispatcher via CVE-2022-29799 and CVE-2022-29800 using this C proof of concept.</div>",
-            "url": "https://github.com/pansyhebephrenic23/NimbusPWN-CVE-2022-29799-29800",
-            "title": "pansyhebephrenic23/NimbusPWN-CVE-2022-29799-29800: Demonstrate local privilege escalation in networkd-dispatcher via CVE-2022-29799 and CVE-2022-29800 using this C proof of concept.",
-            "date_modified": "2026-07-19T07:06:48.000Z",
-            "date_published": "2026-06-23T14:05:18.000Z",
-            "author": {
-                "name": "pansyhebephrenic23",
-                "url": "https://github.com/pansyhebephrenic23"
             }
         },
         {
