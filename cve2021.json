@@ -9,11 +9,22 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/182138871?u=5a625dbde10ddebc6f9772ae9e409b49e97a97f1&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Chrome extension that uses vulnerabilities CVE-2021-33044 and CVE-2021-33045 to log in to Dahua cameras without authentication.</div>",
             "url": "https://github.com/Bd-Mutant7/DahuaLoginBypass",
             "title": "Bd-Mutant7/DahuaLoginBypass: Chrome extension that uses vulnerabilities CVE-2021-33044 and CVE-2021-33045 to log in to Dahua cameras without authentication.",
-            "date_modified": "2026-07-24T07:14:22.000Z",
+            "date_modified": "2026-07-24T09:38:42.000Z",
             "date_published": "2026-03-28T17:42:44.000Z",
             "author": {
                 "name": "Bd-Mutant7",
                 "url": "https://github.com/Bd-Mutant7"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/200357710?u=bcc7cebf1bd3a27b94cc51e1480847dbe17e92d8&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2021-44228 Log4Shell - Apache Log4j2 JNDI Injection RCE</div>",
+            "url": "https://github.com/razureink/cve-2021-44228-log4shell_rce_reproduction",
+            "title": "razureink/cve-2021-44228-log4shell_rce_reproduction: CVE-2021-44228 Log4Shell - Apache Log4j2 JNDI Injection RCE",
+            "date_modified": "2026-07-24T08:52:12.000Z",
+            "date_published": "2026-07-24T08:51:13.000Z",
+            "author": {
+                "name": "razureink",
+                "url": "https://github.com/razureink"
             }
         },
         {
@@ -212,17 +223,6 @@
             "author": {
                 "name": "h3ck13r",
                 "url": "https://github.com/h3ck13r"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/142628560?u=50ffdb43a78e10b254ca6e84996fff97d9d03ed8&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2021-3129: Laravel Debug Mode RCE - Complete exploitation lab with Python  exploit, Docker container, and security analysis guide.</div>",
-            "url": "https://github.com/theNareshofficial/CVE-2021-3129-Lab",
-            "title": "theNareshofficial/CVE-2021-3129-Lab: CVE-2021-3129: Laravel Debug Mode RCE - Complete exploitation lab with Python  exploit, Docker container, and security analysis guide.",
-            "date_modified": "2026-07-18T18:57:04.000Z",
-            "date_published": "2026-07-18T18:42:43.000Z",
-            "author": {
-                "name": "theNareshofficial",
-                "url": "https://github.com/theNareshofficial"
             }
         }
     ]
