@@ -6,6 +6,17 @@
     "description": "CVE-2022 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/307403331?u=3bf7de29f3dcee4a4cddcd2e7ddb6f43f8191ec2&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>my exploit for GLPI</div>",
+            "url": "https://github.com/YumeSecurity/CVE-2022-35914",
+            "title": "YumeSecurity/CVE-2022-35914: my exploit for GLPI",
+            "date_modified": "2026-07-25T18:51:23.000Z",
+            "date_published": "2026-07-21T21:08:58.000Z",
+            "author": {
+                "name": "YumeSecurity",
+                "url": "https://github.com/YumeSecurity"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/278274242?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Demonstrate local privilege escalation in networkd-dispatcher via CVE-2022-29799 and CVE-2022-29800 using this C proof of concept.</div>",
             "url": "https://github.com/pansyhebephrenic23/NimbusPWN-CVE-2022-29799-29800",
             "title": "pansyhebephrenic23/NimbusPWN-CVE-2022-29799-29800: Demonstrate local privilege escalation in networkd-dispatcher via CVE-2022-29799 and CVE-2022-29800 using this C proof of concept.",
@@ -36,17 +47,6 @@
             "author": {
                 "name": "soralis0912",
                 "url": "https://github.com/soralis0912"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/307403331?u=3bf7de29f3dcee4a4cddcd2e7ddb6f43f8191ec2&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>my exploit for GLPI</div>",
-            "url": "https://github.com/YumeSecurity/CVE-2022-35914",
-            "title": "YumeSecurity/CVE-2022-35914: my exploit for GLPI",
-            "date_modified": "2026-07-25T01:43:33.000Z",
-            "date_published": "2026-07-21T21:08:58.000Z",
-            "author": {
-                "name": "YumeSecurity",
-                "url": "https://github.com/YumeSecurity"
             }
         },
         {
