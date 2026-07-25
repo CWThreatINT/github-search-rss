@@ -6,6 +6,17 @@
     "description": "CVE-2023 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/29025198?u=8f075442f5853a0f87364f52d9138fe1d2bd9af7&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Android App Pin Security Issue Allowing Unauthorized Payments via Google Wallet</div>",
+            "url": "https://github.com/MrTiz/CVE-2023-35671",
+            "title": "MrTiz/CVE-2023-35671: Android App Pin Security Issue Allowing Unauthorized Payments via Google Wallet",
+            "date_modified": "2026-07-25T20:41:49.000Z",
+            "date_published": "2023-09-01T20:16:28.000Z",
+            "author": {
+                "name": "MrTiz",
+                "url": "https://github.com/MrTiz"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/120130511?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>oob_entry tfp0 kernel exploit for armv7 iOS (iOS 3.0–10.3.4), using CVE-2023-32434. We will publish a write-up detailing the methods in the coming weeks. 🐙</div>",
             "url": "https://github.com/rkrakesh524/oob_entry",
             "title": "rkrakesh524/oob_entry: oob_entry tfp0 kernel exploit for armv7 iOS (iOS 3.0–10.3.4), using CVE-2023-32434. We will publish a write-up detailing the methods in the coming weeks. 🐙",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "Kushiro45",
                 "url": "https://github.com/Kushiro45"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/96762636?u=db01125be0ce1907a608bd618dbc1e4cb6457393&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A detailed walkthrough of Billing room exploiting CVE-2023-30258 and escalating via fail2ban misconfig</div>",
-            "url": "https://github.com/AdityaBhatt3010/Room-Walkthrough-Billing",
-            "title": "AdityaBhatt3010/Room-Walkthrough-Billing: A detailed walkthrough of Billing room exploiting CVE-2023-30258 and escalating via fail2ban misconfig",
-            "date_modified": "2026-07-13T19:32:44.000Z",
-            "date_published": "2025-07-13T12:53:47.000Z",
-            "author": {
-                "name": "AdityaBhatt3010",
-                "url": "https://github.com/AdityaBhatt3010"
             }
         }
     ]
