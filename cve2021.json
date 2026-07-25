@@ -9,11 +9,44 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/182138871?u=5a625dbde10ddebc6f9772ae9e409b49e97a97f1&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Chrome extension that uses vulnerabilities CVE-2021-33044 and CVE-2021-33045 to log in to Dahua cameras without authentication.</div>",
             "url": "https://github.com/Bd-Mutant7/DahuaLoginBypass",
             "title": "Bd-Mutant7/DahuaLoginBypass: Chrome extension that uses vulnerabilities CVE-2021-33044 and CVE-2021-33045 to log in to Dahua cameras without authentication.",
-            "date_modified": "2026-07-25T06:06:10.000Z",
+            "date_modified": "2026-07-25T08:22:03.000Z",
             "date_published": "2026-03-28T17:42:44.000Z",
             "author": {
                 "name": "Bd-Mutant7",
                 "url": "https://github.com/Bd-Mutant7"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/51931886?u=bf7e0ceb82288d332705dbe89d32d79375c802a0&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2020-5148 - Forced Authentication in the SonicWall UTM SSO Agent. The agent probes unvalidated workstations as Domain Admin, so one outbound web request yields a privileged NTLMv2 hash. Advisory SNWLID-2021-0003.</div>",
+            "url": "https://github.com/l0lsec/CVE-2020-5148",
+            "title": "l0lsec/CVE-2020-5148: CVE-2020-5148 - Forced Authentication in the SonicWall UTM SSO Agent. The agent probes unvalidated workstations as Domain Admin, so one outbound web request yields a privileged NTLMv2 hash. Advisory SNWLID-2021-0003.",
+            "date_modified": "2026-07-25T07:34:20.000Z",
+            "date_published": "2026-07-25T07:33:26.000Z",
+            "author": {
+                "name": "l0lsec",
+                "url": "https://github.com/l0lsec"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/51931886?u=bf7e0ceb82288d332705dbe89d32d79375c802a0&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2021-3262 - Blind SQL Injection in the editOEN parameter of TripSpark VEO Transportation / NovusEDU. Unauthenticated, internet-facing. Payloads, annotated requests, and evidence.</div>",
+            "url": "https://github.com/l0lsec/CVE-2021-3262",
+            "title": "l0lsec/CVE-2021-3262: CVE-2021-3262 - Blind SQL Injection in the editOEN parameter of TripSpark VEO Transportation / NovusEDU. Unauthenticated, internet-facing. Payloads, annotated requests, and evidence.",
+            "date_modified": "2026-07-25T07:33:21.000Z",
+            "date_published": "2026-07-25T07:33:14.000Z",
+            "author": {
+                "name": "l0lsec",
+                "url": "https://github.com/l0lsec"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/51931886?u=bf7e0ceb82288d332705dbe89d32d79375c802a0&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2021-26837 - SQL Injection in the SearchTextbox parameter of HelpSystems/Fortra DeliverNow. Payloads, annotated requests, and evidence. Fixed in 1.2.18.</div>",
+            "url": "https://github.com/l0lsec/CVE-2021-26837",
+            "title": "l0lsec/CVE-2021-26837: CVE-2021-26837 - SQL Injection in the SearchTextbox parameter of HelpSystems/Fortra DeliverNow. Payloads, annotated requests, and evidence. Fixed in 1.2.18.",
+            "date_modified": "2026-07-25T07:33:01.000Z",
+            "date_published": "2026-07-25T07:32:51.000Z",
+            "author": {
+                "name": "l0lsec",
+                "url": "https://github.com/l0lsec"
             }
         },
         {
@@ -190,39 +223,6 @@
             "author": {
                 "name": "DappaNISM",
                 "url": "https://github.com/DappaNISM"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/163033692?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Docker ortamında Apache HTTP Server 2.4.49 (CVE-2021-42013) zafiyetinin gösterildiği laboratuvar çalışması.</div>",
-            "url": "https://github.com/berraesen/apache-cve-2021-42013-lab",
-            "title": "berraesen/apache-cve-2021-42013-lab: Docker ortamında Apache HTTP Server 2.4.49 (CVE-2021-42013) zafiyetinin gösterildiği laboratuvar çalışması.",
-            "date_modified": "2026-07-20T13:37:48.000Z",
-            "date_published": "2026-07-20T13:24:03.000Z",
-            "author": {
-                "name": "berraesen",
-                "url": "https://github.com/berraesen"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/195605605?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
-            "url": "https://github.com/kaiw-icspark25/PrintNightmare-CVE-2021-1675-Analysis",
-            "title": "kaiw-icspark25/PrintNightmare-CVE-2021-1675-Analysis",
-            "date_modified": "2026-07-20T05:50:56.000Z",
-            "date_published": "2026-07-20T04:57:22.000Z",
-            "author": {
-                "name": "kaiw-icspark25",
-                "url": "https://github.com/kaiw-icspark25"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/90069111?u=3ed2b6daff79c9995d818edc221198102c04d7d8&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Let's hijack our bootchain - CVE-2021-30327</div>",
-            "url": "https://github.com/Daniel224455/katana",
-            "title": "Daniel224455/katana: Let's hijack our bootchain - CVE-2021-30327",
-            "date_modified": "2026-07-19T15:37:06.000Z",
-            "date_published": "2026-06-25T12:12:38.000Z",
-            "author": {
-                "name": "Daniel224455",
-                "url": "https://github.com/Daniel224455"
             }
         }
     ]
