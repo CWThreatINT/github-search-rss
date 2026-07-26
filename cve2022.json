@@ -9,22 +9,11 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/278274242?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Demonstrate local privilege escalation in networkd-dispatcher via CVE-2022-29799 and CVE-2022-29800 using this C proof of concept.</div>",
             "url": "https://github.com/pansyhebephrenic23/NimbusPWN-CVE-2022-29799-29800",
             "title": "pansyhebephrenic23/NimbusPWN-CVE-2022-29799-29800: Demonstrate local privilege escalation in networkd-dispatcher via CVE-2022-29799 and CVE-2022-29800 using this C proof of concept.",
-            "date_modified": "2026-07-26T17:42:59.000Z",
+            "date_modified": "2026-07-26T21:11:52.000Z",
             "date_published": "2026-06-23T14:05:18.000Z",
             "author": {
                 "name": "pansyhebephrenic23",
                 "url": "https://github.com/pansyhebephrenic23"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/307403331?u=3bf7de29f3dcee4a4cddcd2e7ddb6f43f8191ec2&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>my exploit for GLPI</div>",
-            "url": "https://github.com/YumeSecurity/CVE-2022-35914",
-            "title": "YumeSecurity/CVE-2022-35914: my exploit for GLPI",
-            "date_modified": "2026-07-25T18:51:23.000Z",
-            "date_published": "2026-07-21T21:08:58.000Z",
-            "author": {
-                "name": "YumeSecurity",
-                "url": "https://github.com/YumeSecurity"
             }
         },
         {
@@ -223,6 +212,17 @@
             "author": {
                 "name": "Hkaeeeer",
                 "url": "https://github.com/Hkaeeeer"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/168992869?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Seal Security example — vulnerable Maven app (SnakeYAML CVE-2022-1471) remediated to sealed versions; GitHub Actions + Jenkins integration</div>",
+            "url": "https://github.com/seal-sec-demo-2/Java-Example",
+            "title": "seal-sec-demo-2/Java-Example: Seal Security example — vulnerable Maven app (SnakeYAML CVE-2022-1471) remediated to sealed versions; GitHub Actions + Jenkins integration",
+            "date_modified": "2026-07-13T18:45:56.000Z",
+            "date_published": "2026-07-13T16:53:31.000Z",
+            "author": {
+                "name": "seal-sec-demo-2",
+                "url": "https://github.com/seal-sec-demo-2"
             }
         }
     ]
