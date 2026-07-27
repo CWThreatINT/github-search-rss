@@ -6,6 +6,17 @@
     "description": "CVE-2023 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/309883641?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Standalone assessment and servicing for the Secure Boot 2011 to 2023 certificate rollover (CVE-2023-24932 / KB5025885). Assess-only by default; no dependencies, no network, no telemetry.</div>",
+            "url": "https://github.com/ETS-MSE/secure-boot-cert-servicing",
+            "title": "ETS-MSE/secure-boot-cert-servicing: Standalone assessment and servicing for the Secure Boot 2011 to 2023 certificate rollover (CVE-2023-24932 / KB5025885). Assess-only by default; no dependencies, no network, no telemetry.",
+            "date_modified": "2026-07-27T21:12:49.000Z",
+            "date_published": "2026-07-27T21:11:57.000Z",
+            "author": {
+                "name": "ETS-MSE",
+                "url": "https://github.com/ETS-MSE"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/120130511?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>oob_entry tfp0 kernel exploit for armv7 iOS (iOS 3.0–10.3.4), using CVE-2023-32434. We will publish a write-up detailing the methods in the coming weeks. 🐙</div>",
             "url": "https://github.com/rkrakesh524/oob_entry",
             "title": "rkrakesh524/oob_entry: oob_entry tfp0 kernel exploit for armv7 iOS (iOS 3.0–10.3.4), using CVE-2023-32434. We will publish a write-up detailing the methods in the coming weeks. 🐙",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "Destawell",
                 "url": "https://github.com/Destawell"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/143801587?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Repo contains the PoC and steps to reproduce cve 2023-38646</div>",
-            "url": "https://github.com/Kushiro45/metabase-cve-2023-38646",
-            "title": "Kushiro45/metabase-cve-2023-38646: Repo contains the PoC and steps to reproduce cve 2023-38646",
-            "date_modified": "2026-07-14T04:50:39.000Z",
-            "date_published": "2026-07-14T04:43:35.000Z",
-            "author": {
-                "name": "Kushiro45",
-                "url": "https://github.com/Kushiro45"
             }
         }
     ]
