@@ -138,17 +138,6 @@
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/125787279?u=724160c9387ca3628ce70ddc965814b1def5ad4a&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Agentic-AI (Apex/Horizon) eval: autonomously remediate CVE-2023-49092 on a Kubernetes fanout microservice against active drift — pod/ConfigMap drift, GitOps OutOfSync, cert rotation, and live fan-out delivery, all graded on real cluster state.</div>",
-            "url": "https://github.com/omonuj/fanout-cve-rollout",
-            "title": "omonuj/fanout-cve-rollout: Agentic-AI (Apex/Horizon) eval: autonomously remediate CVE-2023-49092 on a Kubernetes fanout microservice against active drift — pod/ConfigMap drift, GitOps OutOfSync, cert rotation, and live fan-out delivery, all graded on real cluster state.",
-            "date_modified": "2026-07-19T10:50:28.000Z",
-            "date_published": "2026-07-18T15:16:25.000Z",
-            "author": {
-                "name": "omonuj",
-                "url": "https://github.com/omonuj"
-            }
-        },
-        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/281425000?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>PoC for CVE-2023-44487  ( HTTP/2 Rapid Reset Attack ) Concept </div>",
             "url": "https://github.com/tahaXafous/CVE-2023-44487-dos",
             "title": "tahaXafous/CVE-2023-44487-dos: PoC for CVE-2023-44487  ( HTTP/2 Rapid Reset Attack ) Concept ",
@@ -223,6 +212,17 @@
             "author": {
                 "name": "Destawell",
                 "url": "https://github.com/Destawell"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/143801587?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Repo contains the PoC and steps to reproduce cve 2023-38646</div>",
+            "url": "https://github.com/Kushiro45/metabase-cve-2023-38646",
+            "title": "Kushiro45/metabase-cve-2023-38646: Repo contains the PoC and steps to reproduce cve 2023-38646",
+            "date_modified": "2026-07-14T04:50:39.000Z",
+            "date_published": "2026-07-14T04:43:35.000Z",
+            "author": {
+                "name": "Kushiro45",
+                "url": "https://github.com/Kushiro45"
             }
         }
     ]

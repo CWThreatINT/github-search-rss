@@ -6,6 +6,28 @@
     "description": "CVE-2021 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/182138871?u=5a625dbde10ddebc6f9772ae9e409b49e97a97f1&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Chrome extension that uses vulnerabilities CVE-2021-33044 and CVE-2021-33045 to log in to Dahua cameras without authentication.</div>",
+            "url": "https://github.com/Bd-Mutant7/DahuaLoginBypass",
+            "title": "Bd-Mutant7/DahuaLoginBypass: Chrome extension that uses vulnerabilities CVE-2021-33044 and CVE-2021-33045 to log in to Dahua cameras without authentication.",
+            "date_modified": "2026-07-27T14:55:34.000Z",
+            "date_published": "2026-03-28T17:42:44.000Z",
+            "author": {
+                "name": "Bd-Mutant7",
+                "url": "https://github.com/Bd-Mutant7"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/187121943?u=92e4ff105a87f09066945039edcd833f6553b68b&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>PoC and analysis of CVE-2021-41773</div>",
+            "url": "https://github.com/tr3m0x/CVE-2021-41773",
+            "title": "tr3m0x/CVE-2021-41773: PoC and analysis of CVE-2021-41773",
+            "date_modified": "2026-07-27T13:58:49.000Z",
+            "date_published": "2026-07-27T13:54:27.000Z",
+            "author": {
+                "name": "tr3m0x",
+                "url": "https://github.com/tr3m0x"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/60946845?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Spring Boot web application vulnerable to Log4Shell (CVE-2021-44228).</div>",
             "url": "https://github.com/prmawyer/log4shell-vulnerable-app",
             "title": "prmawyer/log4shell-vulnerable-app: Spring Boot web application vulnerable to Log4Shell (CVE-2021-44228).",
@@ -14,17 +36,6 @@
             "author": {
                 "name": "prmawyer",
                 "url": "https://github.com/prmawyer"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/182138871?u=5a625dbde10ddebc6f9772ae9e409b49e97a97f1&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Chrome extension that uses vulnerabilities CVE-2021-33044 and CVE-2021-33045 to log in to Dahua cameras without authentication.</div>",
-            "url": "https://github.com/Bd-Mutant7/DahuaLoginBypass",
-            "title": "Bd-Mutant7/DahuaLoginBypass: Chrome extension that uses vulnerabilities CVE-2021-33044 and CVE-2021-33045 to log in to Dahua cameras without authentication.",
-            "date_modified": "2026-07-27T11:57:37.000Z",
-            "date_published": "2026-03-28T17:42:44.000Z",
-            "author": {
-                "name": "Bd-Mutant7",
-                "url": "https://github.com/Bd-Mutant7"
             }
         },
         {
@@ -209,17 +220,6 @@
             "title": "WhatsWrongAndWhy/CVE-2021-31440",
             "date_modified": "2026-07-21T18:51:04.000Z",
             "date_published": "2026-07-21T18:48:23.000Z",
-            "author": {
-                "name": "WhatsWrongAndWhy",
-                "url": "https://github.com/WhatsWrongAndWhy"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/158827278?u=10c7fa2e0b45a727087f339b56c6fa44e8334b0f&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
-            "url": "https://github.com/WhatsWrongAndWhy/CVE-2021-27365",
-            "title": "WhatsWrongAndWhy/CVE-2021-27365",
-            "date_modified": "2026-07-21T18:47:30.000Z",
-            "date_published": "2026-07-21T18:45:56.000Z",
             "author": {
                 "name": "WhatsWrongAndWhy",
                 "url": "https://github.com/WhatsWrongAndWhy"
