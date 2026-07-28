@@ -6,6 +6,17 @@
     "description": "CVE-2023 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/3471950?u=ba7aa6ca897341622750949a23a48aafa9d80e27&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Exploit for cryptographic Issue vulnerability on IBERMATICA RPS [CVE-2023-3350]</div>",
+            "url": "https://github.com/itres-labs/CVE-2023-3350",
+            "title": "itres-labs/CVE-2023-3350: Exploit for cryptographic Issue vulnerability on IBERMATICA RPS [CVE-2023-3350]",
+            "date_modified": "2026-07-28T09:32:51.000Z",
+            "date_published": "2026-07-28T09:21:18.000Z",
+            "author": {
+                "name": "itres-labs",
+                "url": "https://github.com/itres-labs"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/151980876?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>TOP All bugbounty pentesting CVE-2023- POC Exp  RCE example payload  Things</div>",
             "url": "https://github.com/GhostTroops/TOP",
             "title": "GhostTroops/TOP: TOP All bugbounty pentesting CVE-2023- POC Exp  RCE example payload  Things",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "0xBADACTOR",
                 "url": "https://github.com/0xBADACTOR"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/291030355?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Gemini 2.5 Pro nf_tables Red Teaming Case Study (CVE-2023-32233) — LLM Safety Alignment &amp; Responsible Disclosure</div>",
-            "url": "https://github.com/Destawell/gemini-2.5-pro-nf-tables-red-teaming",
-            "title": "Destawell/gemini-2.5-pro-nf-tables-red-teaming: Gemini 2.5 Pro nf_tables Red Teaming Case Study (CVE-2023-32233) — LLM Safety Alignment & Responsible Disclosure",
-            "date_modified": "2026-07-15T05:07:47.000Z",
-            "date_published": "2026-05-20T12:58:23.000Z",
-            "author": {
-                "name": "Destawell",
-                "url": "https://github.com/Destawell"
             }
         }
     ]

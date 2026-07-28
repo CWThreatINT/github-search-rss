@@ -6,6 +6,17 @@
     "description": "CVE-2022 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/84659093?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Tplink wr841 v10 rce exploit</div>",
+            "url": "https://github.com/ilizavr/CVE-2022-30024",
+            "title": "ilizavr/CVE-2022-30024: Tplink wr841 v10 rce exploit",
+            "date_modified": "2026-07-28T09:46:30.000Z",
+            "date_published": "2026-07-28T09:43:58.000Z",
+            "author": {
+                "name": "ilizavr",
+                "url": "https://github.com/ilizavr"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/278274242?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Demonstrate local privilege escalation in networkd-dispatcher via CVE-2022-29799 and CVE-2022-29800 using this C proof of concept.</div>",
             "url": "https://github.com/pansyhebephrenic23/NimbusPWN-CVE-2022-29799-29800",
             "title": "pansyhebephrenic23/NimbusPWN-CVE-2022-29799-29800: Demonstrate local privilege escalation in networkd-dispatcher via CVE-2022-29799 and CVE-2022-29800 using this C proof of concept.",
@@ -209,17 +220,6 @@
             "title": "seal-sec-demo-2/Java-Example: Seal Security example — vulnerable Maven app (SnakeYAML CVE-2022-1471) remediated to sealed versions; GitHub Actions + Jenkins integration",
             "date_modified": "2026-07-13T18:45:56.000Z",
             "date_published": "2026-07-13T16:53:31.000Z",
-            "author": {
-                "name": "seal-sec-demo-2",
-                "url": "https://github.com/seal-sec-demo-2"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/168992869?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Seal Security example — vulnerable npm app (EJS CVE-2022-29078) remediated to sealed versions; GitHub Actions + Jenkins integration</div>",
-            "url": "https://github.com/seal-sec-demo-2/JavaScript-Example",
-            "title": "seal-sec-demo-2/JavaScript-Example: Seal Security example — vulnerable npm app (EJS CVE-2022-29078) remediated to sealed versions; GitHub Actions + Jenkins integration",
-            "date_modified": "2026-07-13T18:05:11.000Z",
-            "date_published": "2026-07-13T16:52:21.000Z",
             "author": {
                 "name": "seal-sec-demo-2",
                 "url": "https://github.com/seal-sec-demo-2"
