@@ -6,6 +6,17 @@
     "description": "CVE-2023 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/79408142?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
+            "url": "https://github.com/ElianGonzi00/pocKeycloakCVE-2023-0264",
+            "title": "ElianGonzi00/pocKeycloakCVE-2023-0264",
+            "date_modified": "2026-07-28T18:02:25.000Z",
+            "date_published": "2026-07-28T18:01:18.000Z",
+            "author": {
+                "name": "ElianGonzi00",
+                "url": "https://github.com/ElianGonzi00"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/3471950?u=ba7aa6ca897341622750949a23a48aafa9d80e27&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Exploit for cryptographic Issue vulnerability on IBERMATICA RPS [CVE-2023-3350]</div>",
             "url": "https://github.com/itres-labs/CVE-2023-3350",
             "title": "itres-labs/CVE-2023-3350: Exploit for cryptographic Issue vulnerability on IBERMATICA RPS [CVE-2023-3350]",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "nhh9905",
                 "url": "https://github.com/nhh9905"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/298144492?u=7b66072a23a03ffe7afa8c39c7862195ba6c526c&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>This wizard is built to make life easier when you want to execute a Bluetooth HID exploit against an Android phone and walk away with remote access to it. The exploit itself (CVE-2023-45866, the Bluetooth keyboard impersonation bug) has been around for years and the raw pieces are scattered across the web...</div>",
-            "url": "https://github.com/0xBADACTOR/CVE-2023-45866",
-            "title": "0xBADACTOR/CVE-2023-45866: This wizard is built to make life easier when you want to execute a Bluetooth HID exploit against an Android phone and walk away with remote access to it. The exploit itself (CVE-2023-45866, the Bluetooth keyboard impersonation bug) has been around for years and the raw pieces are scattered across the web...",
-            "date_modified": "2026-07-15T09:45:06.000Z",
-            "date_published": "2026-07-15T09:24:13.000Z",
-            "author": {
-                "name": "0xBADACTOR",
-                "url": "https://github.com/0xBADACTOR"
             }
         }
     ]
