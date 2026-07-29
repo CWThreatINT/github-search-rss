@@ -6,6 +6,17 @@
     "description": "CVE-2023 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/151980876?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>TOP All bugbounty pentesting CVE-2023- POC Exp  RCE example payload  Things</div>",
+            "url": "https://github.com/GhostTroops/TOP",
+            "title": "GhostTroops/TOP: TOP All bugbounty pentesting CVE-2023- POC Exp  RCE example payload  Things",
+            "date_modified": "2026-07-29T02:08:50.000Z",
+            "date_published": "2022-03-19T01:54:15.000Z",
+            "author": {
+                "name": "GhostTroops",
+                "url": "https://github.com/GhostTroops"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/79408142?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
             "url": "https://github.com/ElianGonzi00/pocKeycloakCVE-2023-0264",
             "title": "ElianGonzi00/pocKeycloakCVE-2023-0264",
@@ -25,17 +36,6 @@
             "author": {
                 "name": "itres-labs",
                 "url": "https://github.com/itres-labs"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/151980876?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>TOP All bugbounty pentesting CVE-2023- POC Exp  RCE example payload  Things</div>",
-            "url": "https://github.com/GhostTroops/TOP",
-            "title": "GhostTroops/TOP: TOP All bugbounty pentesting CVE-2023- POC Exp  RCE example payload  Things",
-            "date_modified": "2026-07-28T02:05:41.000Z",
-            "date_published": "2022-03-19T01:54:15.000Z",
-            "author": {
-                "name": "GhostTroops",
-                "url": "https://github.com/GhostTroops"
             }
         },
         {
@@ -64,7 +64,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/82839813?u=a58290d0fcf2ae9a0e74272c284a135bd2dde268&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>PoC exploit for CVE-2023-52076 - zip-slip path traversal in Atril/Xreader (MATE/Cinnamon) enabling arbitrary file write and RCE via crafted EPUB. Authorized security testing only.</div>",
             "url": "https://github.com/Groppoxx/CVE-2023-52076-PoC",
             "title": "Groppoxx/CVE-2023-52076-PoC: PoC exploit for CVE-2023-52076 - zip-slip path traversal in Atril/Xreader (MATE/Cinnamon) enabling arbitrary file write and RCE via crafted EPUB. Authorized security testing only.",
-            "date_modified": "2026-07-27T07:14:18.000Z",
+            "date_modified": "2026-07-29T01:44:40.000Z",
             "date_published": "2026-07-27T06:51:21.000Z",
             "author": {
                 "name": "Groppoxx",
