@@ -6,6 +6,17 @@
     "description": "CVE-2023 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/91618051?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>End-to-end SOC incident analysis and threat hunting playbook targeting Microsoft SharePoint privilege escalation (CVE-2023-29375) using SIEM logs, firewall data, and threat intel.</div>",
+            "url": "https://github.com/Zedocun/Sharepoint-cve-2023-29375-incident-response",
+            "title": "Zedocun/Sharepoint-cve-2023-29375-incident-response: End-to-end SOC incident analysis and threat hunting playbook targeting Microsoft SharePoint privilege escalation (CVE-2023-29375) using SIEM logs, firewall data, and threat intel.",
+            "date_modified": "2026-07-29T08:31:56.000Z",
+            "date_published": "2026-07-29T08:02:05.000Z",
+            "author": {
+                "name": "Zedocun",
+                "url": "https://github.com/Zedocun"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/151980876?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>TOP All bugbounty pentesting CVE-2023- POC Exp  RCE example payload  Things</div>",
             "url": "https://github.com/GhostTroops/TOP",
             "title": "GhostTroops/TOP: TOP All bugbounty pentesting CVE-2023- POC Exp  RCE example payload  Things",
@@ -105,7 +116,7 @@
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/81335686?u=08536e4fdc793584fd5d429c14b4aea563cfe0b8&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Exploit basado en vulnerabilidades criticas Bluetooth (CVE-2023-45866, CVE-2024-21306)</div>",
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/81335686?u=05f6276f185ba373ba7dc57d67e07af387dc2507&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Exploit basado en vulnerabilidades criticas Bluetooth (CVE-2023-45866, CVE-2024-21306)</div>",
             "url": "https://github.com/Danyw24/blueXploit",
             "title": "Danyw24/blueXploit: Exploit basado en vulnerabilidades criticas Bluetooth (CVE-2023-45866, CVE-2024-21306)",
             "date_modified": "2026-07-23T10:02:04.000Z",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "giordy0424",
                 "url": "https://github.com/giordy0424"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/156885325?u=44c363c4da6a47831ebdea95c638e5cf5f91c0d6&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Old CVE, but new way to leak everything.</div>",
-            "url": "https://github.com/nhh9905/CVE-2023-36802",
-            "title": "nhh9905/CVE-2023-36802: Old CVE, but new way to leak everything.",
-            "date_modified": "2026-07-16T15:42:16.000Z",
-            "date_published": "2026-07-15T09:56:21.000Z",
-            "author": {
-                "name": "nhh9905",
-                "url": "https://github.com/nhh9905"
             }
         }
     ]
