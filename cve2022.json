@@ -6,6 +6,17 @@
     "description": "CVE-2022 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/84659093?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Tplink wr841 v10 rce exploit</div>",
+            "url": "https://github.com/ilizavr/CVE-2022-24355",
+            "title": "ilizavr/CVE-2022-24355: Tplink wr841 v10 rce exploit",
+            "date_modified": "2026-07-30T11:11:29.000Z",
+            "date_published": "2026-07-30T11:08:36.000Z",
+            "author": {
+                "name": "ilizavr",
+                "url": "https://github.com/ilizavr"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/83481196?u=3b030da2f8ac84ded40a82865b300f7fd28a6743&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>root for Samsung SCR-01 (SM-H412J) via Mali CVE-2022-38181 </div>",
             "url": "https://github.com/hackintoanetwork/SCRoot",
             "title": "hackintoanetwork/SCRoot: root for Samsung SCR-01 (SM-H412J) via Mali CVE-2022-38181 ",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "Hkaeeeer",
                 "url": "https://github.com/Hkaeeeer"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/168992869?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Seal Security example — vulnerable Maven app (SnakeYAML CVE-2022-1471) remediated to sealed versions; GitHub Actions + Jenkins integration</div>",
-            "url": "https://github.com/seal-sec-demo-2/Java-Example",
-            "title": "seal-sec-demo-2/Java-Example: Seal Security example — vulnerable Maven app (SnakeYAML CVE-2022-1471) remediated to sealed versions; GitHub Actions + Jenkins integration",
-            "date_modified": "2026-07-13T18:45:56.000Z",
-            "date_published": "2026-07-13T16:53:31.000Z",
-            "author": {
-                "name": "seal-sec-demo-2",
-                "url": "https://github.com/seal-sec-demo-2"
             }
         }
     ]
