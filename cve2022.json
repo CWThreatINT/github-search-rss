@@ -6,6 +6,17 @@
     "description": "CVE-2022 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/152012008?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2022-24903 Heap-based buffer overflow </div>",
+            "url": "https://github.com/andree554/CVE-2022-24903-Heap-based-buffer-overflow-Hand-On-Lab",
+            "title": "andree554/CVE-2022-24903-Heap-based-buffer-overflow-Hand-On-Lab: CVE-2022-24903 Heap-based buffer overflow ",
+            "date_modified": "2026-07-30T21:49:14.000Z",
+            "date_published": "2026-07-30T21:47:40.000Z",
+            "author": {
+                "name": "andree554",
+                "url": "https://github.com/andree554"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/5783068?u=8ead6f35fa4c2d1fc565e6f080630d2bb299f41d&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Python implementation for NotProxyShell aka CVE-2022-40140 &amp; CVE-2022-41082</div>",
             "url": "https://github.com/ZephrFish/NotProxyShellScanner",
             "title": "ZephrFish/NotProxyShellScanner: Python implementation for NotProxyShell aka CVE-2022-40140 & CVE-2022-41082",
@@ -209,17 +220,6 @@
             "title": "HORKimhab/CVE-2022-25477: CVE Realtek SD card reader. CVE-2022-25477, CVE-2022-25478, CVE-2022-25479, CVE-2022-25480, CVE-2024-40432, CVE-2024-40431",
             "date_modified": "2026-07-16T04:48:46.000Z",
             "date_published": "2026-07-16T04:46:13.000Z",
-            "author": {
-                "name": "HORKimhab",
-                "url": "https://github.com/HORKimhab"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/41143106?u=b79f5d86dffe824e89ae06b3b19b41a4d6dc8413&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2022-25476 - Collection</div>",
-            "url": "https://github.com/HORKimhab/CVE-2022-25476",
-            "title": "HORKimhab/CVE-2022-25476: CVE-2022-25476 - Collection",
-            "date_modified": "2026-07-16T04:43:01.000Z",
-            "date_published": "2026-07-16T04:40:48.000Z",
             "author": {
                 "name": "HORKimhab",
                 "url": "https://github.com/HORKimhab"
