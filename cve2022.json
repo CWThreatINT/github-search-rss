@@ -6,6 +6,28 @@
     "description": "CVE-2022 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/5783068?u=8ead6f35fa4c2d1fc565e6f080630d2bb299f41d&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Python implementation for NotProxyShell aka CVE-2022-40140 &amp; CVE-2022-41082</div>",
+            "url": "https://github.com/ZephrFish/NotProxyShellScanner",
+            "title": "ZephrFish/NotProxyShellScanner: Python implementation for NotProxyShell aka CVE-2022-40140 & CVE-2022-41082",
+            "date_modified": "2026-07-30T13:44:53.000Z",
+            "date_published": "2022-10-07T08:10:00.000Z",
+            "author": {
+                "name": "ZephrFish",
+                "url": "https://github.com/ZephrFish"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/5783068?u=8ead6f35fa4c2d1fc565e6f080630d2bb299f41d&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Exploit and Check Script for CVE 2022-1388</div>",
+            "url": "https://github.com/ZephrFish/F5-CVE-2022-1388-Exploit",
+            "title": "ZephrFish/F5-CVE-2022-1388-Exploit: Exploit and Check Script for CVE 2022-1388",
+            "date_modified": "2026-07-30T13:43:53.000Z",
+            "date_published": "2022-05-09T11:30:09.000Z",
+            "author": {
+                "name": "ZephrFish",
+                "url": "https://github.com/ZephrFish"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/84659093?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Tplink wr841 v10 rce exploit</div>",
             "url": "https://github.com/ilizavr/CVE-2022-24355",
             "title": "ilizavr/CVE-2022-24355: Tplink wr841 v10 rce exploit",
@@ -201,28 +223,6 @@
             "author": {
                 "name": "HORKimhab",
                 "url": "https://github.com/HORKimhab"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/300069390?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Spring Framework CVE-2022-22965 本地影响条件验证、版本升级修复与复测项目</div>",
-            "url": "https://github.com/meng-security/spring4shell-local-verification-lab",
-            "title": "meng-security/spring4shell-local-verification-lab: Spring Framework CVE-2022-22965 本地影响条件验证、版本升级修复与复测项目",
-            "date_modified": "2026-07-15T07:43:55.000Z",
-            "date_published": "2026-07-15T07:31:11.000Z",
-            "author": {
-                "name": "meng-security",
-                "url": "https://github.com/meng-security"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/161950504?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>exploit for  CVE-2022-42889</div>",
-            "url": "https://github.com/Hkaeeeer/CVE-2022-42889",
-            "title": "Hkaeeeer/CVE-2022-42889: exploit for  CVE-2022-42889",
-            "date_modified": "2026-07-15T01:46:10.000Z",
-            "date_published": "2026-07-15T01:35:55.000Z",
-            "author": {
-                "name": "Hkaeeeer",
-                "url": "https://github.com/Hkaeeeer"
             }
         }
     ]

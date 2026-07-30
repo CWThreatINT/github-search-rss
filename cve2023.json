@@ -6,10 +6,21 @@
     "description": "CVE-2023 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/5783068?u=8ead6f35fa4c2d1fc565e6f080630d2bb299f41d&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2023-20198 &amp; 0Day Implant Scanner</div>",
+            "url": "https://github.com/ZephrFish/CVE-2023-20198-Checker",
+            "title": "ZephrFish/CVE-2023-20198-Checker: CVE-2023-20198 & 0Day Implant Scanner",
+            "date_modified": "2026-07-30T13:44:01.000Z",
+            "date_published": "2023-10-17T22:41:14.000Z",
+            "author": {
+                "name": "ZephrFish",
+                "url": "https://github.com/ZephrFish"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/56630479?u=7615e93113b55b70741970c85d7a60bff3a80622&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Fast, parallel SSH discovery and security auditing across hosts and CIDR ranges: identifies SSH on any port in real time, then flags auth methods, weak crypto, Terrapin (CVE-2023-48795), and reused host keys.</div>",
             "url": "https://github.com/kabiri-labs/sshfinder",
             "title": "kabiri-labs/sshfinder: Fast, parallel SSH discovery and security auditing across hosts and CIDR ranges: identifies SSH on any port in real time, then flags auth methods, weak crypto, Terrapin (CVE-2023-48795), and reused host keys.",
-            "date_modified": "2026-07-30T12:09:12.000Z",
+            "date_modified": "2026-07-30T12:26:56.000Z",
             "date_published": "2024-12-05T14:42:58.000Z",
             "author": {
                 "name": "kabiri-labs",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "ungabunga-ctf",
                 "url": "https://github.com/ungabunga-ctf"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/58039786?u=f0d84ea0ec5e4b316bdc4ccae96f63ff06c5480a&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Python port of the CVE-2023-23752 exploit — Joomla! &lt; 4.2.8 unauthenticated information disclosure (user list + DB credentials leak)</div>",
-            "url": "https://github.com/BardLaudian/CVE-2023-23752",
-            "title": "BardLaudian/CVE-2023-23752: Python port of the CVE-2023-23752 exploit — Joomla! < 4.2.8 unauthenticated information disclosure (user list + DB credentials leak)",
-            "date_modified": "2026-07-17T14:28:23.000Z",
-            "date_published": "2026-07-17T14:16:43.000Z",
-            "author": {
-                "name": "BardLaudian",
-                "url": "https://github.com/BardLaudian"
             }
         }
     ]
