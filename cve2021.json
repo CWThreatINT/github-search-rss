@@ -6,6 +6,50 @@
     "description": "CVE-2021 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/5783068?u=8ead6f35fa4c2d1fc565e6f080630d2bb299f41d&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2021-26855: PoC (Not a HoneyPoC for once!)</div>",
+            "url": "https://github.com/ZephrFish/Exch-CVE-2021-26855",
+            "title": "ZephrFish/Exch-CVE-2021-26855: CVE-2021-26855: PoC (Not a HoneyPoC for once!)",
+            "date_modified": "2026-07-31T00:59:17.000Z",
+            "date_published": "2021-03-14T14:23:34.000Z",
+            "author": {
+                "name": "ZephrFish",
+                "url": "https://github.com/ZephrFish"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/5783068?u=8ead6f35fa4c2d1fc565e6f080630d2bb299f41d&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>DO NOT RUN THIS.</div>",
+            "url": "https://github.com/ZephrFish/CVE-2021-28480_HoneyPoC3",
+            "title": "ZephrFish/CVE-2021-28480_HoneyPoC3: DO NOT RUN THIS.",
+            "date_modified": "2026-07-31T00:59:12.000Z",
+            "date_published": "2021-04-21T09:50:39.000Z",
+            "author": {
+                "name": "ZephrFish",
+                "url": "https://github.com/ZephrFish"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/5783068?u=8ead6f35fa4c2d1fc565e6f080630d2bb299f41d&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2021-22986 Checker Script in Python3</div>",
+            "url": "https://github.com/ZephrFish/CVE-2021-22986_Check",
+            "title": "ZephrFish/CVE-2021-22986_Check: CVE-2021-22986 Checker Script in Python3",
+            "date_modified": "2026-07-31T00:59:12.000Z",
+            "date_published": "2021-03-23T02:04:39.000Z",
+            "author": {
+                "name": "ZephrFish",
+                "url": "https://github.com/ZephrFish"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/5783068?u=8ead6f35fa4c2d1fc565e6f080630d2bb299f41d&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>DO NOT RUN THIS.</div>",
+            "url": "https://github.com/ZephrFish/CVE-2021-22893_HoneyPoC2",
+            "title": "ZephrFish/CVE-2021-22893_HoneyPoC2: DO NOT RUN THIS.",
+            "date_modified": "2026-07-31T00:59:13.000Z",
+            "date_published": "2021-04-21T09:48:57.000Z",
+            "author": {
+                "name": "ZephrFish",
+                "url": "https://github.com/ZephrFish"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/182138871?u=5a625dbde10ddebc6f9772ae9e409b49e97a97f1&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Chrome extension that uses vulnerabilities CVE-2021-33044 and CVE-2021-33045 to log in to Dahua cameras without authentication.</div>",
             "url": "https://github.com/Bd-Mutant7/DahuaLoginBypass",
             "title": "Bd-Mutant7/DahuaLoginBypass: Chrome extension that uses vulnerabilities CVE-2021-33044 and CVE-2021-33045 to log in to Dahua cameras without authentication.",
@@ -179,50 +223,6 @@
             "author": {
                 "name": "gagaltotal",
                 "url": "https://github.com/gagaltotal"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/125808391?u=d206d9bed047e6d0447675596487cb360ee9902a&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
-            "url": "https://github.com/DanielKevinn/CVE-2021-4376",
-            "title": "DanielKevinn/CVE-2021-4376",
-            "date_modified": "2026-07-22T18:08:49.000Z",
-            "date_published": "2026-07-22T17:45:54.000Z",
-            "author": {
-                "name": "DanielKevinn",
-                "url": "https://github.com/DanielKevinn"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/82807033?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2019-1388 Lab Analysis: Documented local privilege escalation via Windows UAC certificate dialogs on Windows 7.</div>",
-            "url": "https://github.com/Tafloh/CVE-2019-1388-Privilege-Escalation--2021-",
-            "title": "Tafloh/CVE-2019-1388-Privilege-Escalation--2021-: CVE-2019-1388 Lab Analysis: Documented local privilege escalation via Windows UAC certificate dialogs on Windows 7.",
-            "date_modified": "2026-07-25T12:21:11.000Z",
-            "date_published": "2026-07-22T12:50:17.000Z",
-            "author": {
-                "name": "Tafloh",
-                "url": "https://github.com/Tafloh"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/158827278?u=10c7fa2e0b45a727087f339b56c6fa44e8334b0f&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
-            "url": "https://github.com/WhatsWrongAndWhy/CVE-2021-42008",
-            "title": "WhatsWrongAndWhy/CVE-2021-42008",
-            "date_modified": "2026-07-21T19:01:54.000Z",
-            "date_published": "2026-07-21T19:00:30.000Z",
-            "author": {
-                "name": "WhatsWrongAndWhy",
-                "url": "https://github.com/WhatsWrongAndWhy"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/158827278?u=10c7fa2e0b45a727087f339b56c6fa44e8334b0f&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
-            "url": "https://github.com/WhatsWrongAndWhy/CVE-2021-41073",
-            "title": "WhatsWrongAndWhy/CVE-2021-41073",
-            "date_modified": "2026-07-21T18:59:25.000Z",
-            "date_published": "2026-07-21T18:58:54.000Z",
-            "author": {
-                "name": "WhatsWrongAndWhy",
-                "url": "https://github.com/WhatsWrongAndWhy"
             }
         }
     ]
