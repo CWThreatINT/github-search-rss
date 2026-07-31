@@ -6,6 +6,17 @@
     "description": "CVE-2023 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/111023888?u=9b388d0892c4d911fc52d52b3c21453ec25517ed&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
+            "url": "https://github.com/julianertle/CVE-2023-0386-CTF",
+            "title": "julianertle/CVE-2023-0386-CTF",
+            "date_modified": "2026-07-31T13:10:21.000Z",
+            "date_published": "2026-05-20T11:44:38.000Z",
+            "author": {
+                "name": "julianertle",
+                "url": "https://github.com/julianertle"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/275622146?u=75b984103c6313ac151fcf47ec550b75592395e4&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>VampSecure Labs: FortiOS CVE scanner (CVE-2018-13379, CVE-2022-40684, CVE-2023-27997, CVE-2024-21762)</div>",
             "url": "https://github.com/belky-me/vamp-forticheck",
             "title": "belky-me/vamp-forticheck: VampSecure Labs: FortiOS CVE scanner (CVE-2018-13379, CVE-2022-40684, CVE-2023-27997, CVE-2024-21762)",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "tahaXafous",
                 "url": "https://github.com/tahaXafous"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/241449088?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2023-26039 - ZoneMinder. Any authenticated user can construct an api command to execute any shell command as the web user.</div>",
-            "url": "https://github.com/ungabunga-ctf/CVE-2023-26039",
-            "title": "ungabunga-ctf/CVE-2023-26039: CVE-2023-26039 - ZoneMinder. Any authenticated user can construct an api command to execute any shell command as the web user.",
-            "date_modified": "2026-07-17T22:54:39.000Z",
-            "date_published": "2026-07-17T22:51:34.000Z",
-            "author": {
-                "name": "ungabunga-ctf",
-                "url": "https://github.com/ungabunga-ctf"
             }
         }
     ]
