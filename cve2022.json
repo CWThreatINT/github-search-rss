@@ -6,11 +6,11 @@
     "description": "CVE-2022 FEED on GitHub",
     "items": [
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/84659093?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Tplink wr841 v10 rce exploit</div>",
-            "url": "https://github.com/ilizavr/CVE-2022-30024",
-            "title": "ilizavr/CVE-2022-30024: Tplink wr841 v10 rce exploit",
-            "date_modified": "2026-07-31T07:21:05.000Z",
-            "date_published": "2026-07-28T09:43:58.000Z",
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/84659093?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Tplink wr841 v10 rce exploit without authorisation </div>",
+            "url": "https://github.com/ilizavr/CVE-2022-24355",
+            "title": "ilizavr/CVE-2022-24355: Tplink wr841 v10 rce exploit without authorisation ",
+            "date_modified": "2026-07-31T10:57:48.000Z",
+            "date_published": "2026-07-30T11:08:36.000Z",
             "author": {
                 "name": "ilizavr",
                 "url": "https://github.com/ilizavr"
@@ -18,13 +18,24 @@
         },
         {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/84659093?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Tplink wr841 v10 rce exploit</div>",
-            "url": "https://github.com/ilizavr/CVE-2022-24355",
-            "title": "ilizavr/CVE-2022-24355: Tplink wr841 v10 rce exploit",
-            "date_modified": "2026-07-31T04:38:32.000Z",
-            "date_published": "2026-07-30T11:08:36.000Z",
+            "url": "https://github.com/ilizavr/CVE-2022-30024",
+            "title": "ilizavr/CVE-2022-30024: Tplink wr841 v10 rce exploit",
+            "date_modified": "2026-07-31T10:56:37.000Z",
+            "date_published": "2026-07-28T09:43:58.000Z",
             "author": {
                 "name": "ilizavr",
                 "url": "https://github.com/ilizavr"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/275622146?u=75b984103c6313ac151fcf47ec550b75592395e4&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>VampSecure Labs: FortiOS CVE scanner (CVE-2018-13379, CVE-2022-40684, CVE-2023-27997, CVE-2024-21762)</div>",
+            "url": "https://github.com/belky-me/vamp-forticheck",
+            "title": "belky-me/vamp-forticheck: VampSecure Labs: FortiOS CVE scanner (CVE-2018-13379, CVE-2022-40684, CVE-2023-27997, CVE-2024-21762)",
+            "date_modified": "2026-07-31T10:38:19.000Z",
+            "date_published": "2026-07-31T10:13:19.000Z",
+            "author": {
+                "name": "belky-me",
+                "url": "https://github.com/belky-me"
             }
         },
         {
@@ -212,17 +223,6 @@
             "author": {
                 "name": "Gopartner",
                 "url": "https://github.com/Gopartner"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/41143106?u=b79f5d86dffe824e89ae06b3b19b41a4d6dc8413&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE Realtek SD card reader. CVE-2022-25477, CVE-2022-25478, CVE-2022-25479, CVE-2022-25480, CVE-2024-40432, CVE-2024-40431</div>",
-            "url": "https://github.com/HORKimhab/CVE-2022-25477",
-            "title": "HORKimhab/CVE-2022-25477: CVE Realtek SD card reader. CVE-2022-25477, CVE-2022-25478, CVE-2022-25479, CVE-2022-25480, CVE-2024-40432, CVE-2024-40431",
-            "date_modified": "2026-07-16T04:48:46.000Z",
-            "date_published": "2026-07-16T04:46:13.000Z",
-            "author": {
-                "name": "HORKimhab",
-                "url": "https://github.com/HORKimhab"
             }
         }
     ]

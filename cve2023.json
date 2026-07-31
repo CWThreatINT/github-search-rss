@@ -6,6 +6,17 @@
     "description": "CVE-2023 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/275622146?u=75b984103c6313ac151fcf47ec550b75592395e4&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>VampSecure Labs: FortiOS CVE scanner (CVE-2018-13379, CVE-2022-40684, CVE-2023-27997, CVE-2024-21762)</div>",
+            "url": "https://github.com/belky-me/vamp-forticheck",
+            "title": "belky-me/vamp-forticheck: VampSecure Labs: FortiOS CVE scanner (CVE-2018-13379, CVE-2022-40684, CVE-2023-27997, CVE-2024-21762)",
+            "date_modified": "2026-07-31T10:38:19.000Z",
+            "date_published": "2026-07-31T10:13:19.000Z",
+            "author": {
+                "name": "belky-me",
+                "url": "https://github.com/belky-me"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/151980876?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>TOP All bugbounty pentesting CVE-2023- POC Exp  RCE example payload  Things</div>",
             "url": "https://github.com/GhostTroops/TOP",
             "title": "GhostTroops/TOP: TOP All bugbounty pentesting CVE-2023- POC Exp  RCE example payload  Things",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "ungabunga-ctf",
                 "url": "https://github.com/ungabunga-ctf"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/58039786?u=f0d84ea0ec5e4b316bdc4ccae96f63ff06c5480a&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Python port of the CVE-2023-23752 exploit — Joomla! &lt; 4.2.8 unauthenticated information disclosure (user list + DB credentials leak)</div>",
-            "url": "https://github.com/BardLaudian/CVE-2023-23752",
-            "title": "BardLaudian/CVE-2023-23752: Python port of the CVE-2023-23752 exploit — Joomla! < 4.2.8 unauthenticated information disclosure (user list + DB credentials leak)",
-            "date_modified": "2026-07-17T14:28:23.000Z",
-            "date_published": "2026-07-17T14:16:43.000Z",
-            "author": {
-                "name": "BardLaudian",
-                "url": "https://github.com/BardLaudian"
             }
         }
     ]
