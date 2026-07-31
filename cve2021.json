@@ -6,6 +6,28 @@
     "description": "CVE-2021 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/99209515?u=c63e0202a0bfdc63d133665a63f17ec8d70c10eb&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Unlock the Meta Quest 1 bootloader and gain root access using GhostLock + CVE-2021-1931.</div>",
+            "url": "https://github.com/starseed12345/QuestStack",
+            "title": "starseed12345/QuestStack: Unlock the Meta Quest 1 bootloader and gain root access using GhostLock + CVE-2021-1931.",
+            "date_modified": "2026-07-31T05:53:54.000Z",
+            "date_published": "2026-07-31T05:37:56.000Z",
+            "author": {
+                "name": "starseed12345",
+                "url": "https://github.com/starseed12345"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/182138871?u=5a625dbde10ddebc6f9772ae9e409b49e97a97f1&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Chrome extension that uses vulnerabilities CVE-2021-33044 and CVE-2021-33045 to log in to Dahua cameras without authentication.</div>",
+            "url": "https://github.com/Bd-Mutant7/DahuaLoginBypass",
+            "title": "Bd-Mutant7/DahuaLoginBypass: Chrome extension that uses vulnerabilities CVE-2021-33044 and CVE-2021-33045 to log in to Dahua cameras without authentication.",
+            "date_modified": "2026-07-31T03:35:12.000Z",
+            "date_published": "2026-03-28T17:42:44.000Z",
+            "author": {
+                "name": "Bd-Mutant7",
+                "url": "https://github.com/Bd-Mutant7"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/5783068?u=8ead6f35fa4c2d1fc565e6f080630d2bb299f41d&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2021-26855: PoC (Not a HoneyPoC for once!)</div>",
             "url": "https://github.com/ZephrFish/Exch-CVE-2021-26855",
             "title": "ZephrFish/Exch-CVE-2021-26855: CVE-2021-26855: PoC (Not a HoneyPoC for once!)",
@@ -50,17 +72,6 @@
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/182138871?u=5a625dbde10ddebc6f9772ae9e409b49e97a97f1&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Chrome extension that uses vulnerabilities CVE-2021-33044 and CVE-2021-33045 to log in to Dahua cameras without authentication.</div>",
-            "url": "https://github.com/Bd-Mutant7/DahuaLoginBypass",
-            "title": "Bd-Mutant7/DahuaLoginBypass: Chrome extension that uses vulnerabilities CVE-2021-33044 and CVE-2021-33045 to log in to Dahua cameras without authentication.",
-            "date_modified": "2026-07-30T23:57:06.000Z",
-            "date_published": "2026-03-28T17:42:44.000Z",
-            "author": {
-                "name": "Bd-Mutant7",
-                "url": "https://github.com/Bd-Mutant7"
-            }
-        },
-        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/5783068?u=8ead6f35fa4c2d1fc565e6f080630d2bb299f41d&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>patched to work</div>",
             "url": "https://github.com/ZephrFish/Exch-CVE-2021-26855_Priv",
             "title": "ZephrFish/Exch-CVE-2021-26855_Priv: patched to work",
@@ -80,6 +91,17 @@
             "author": {
                 "name": "ZephrFish",
                 "url": "https://github.com/ZephrFish"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/181308572?u=f874016582d7ba486cfe1d450178d26ea1e99c13&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
+            "url": "https://github.com/KunalKhandelwal-dev/cve-2021-41773-lab",
+            "title": "KunalKhandelwal-dev/cve-2021-41773-lab",
+            "date_modified": "2026-07-31T03:05:05.000Z",
+            "date_published": "2026-07-30T11:08:28.000Z",
+            "author": {
+                "name": "KunalKhandelwal-dev",
+                "url": "https://github.com/KunalKhandelwal-dev"
             }
         },
         {
@@ -201,28 +223,6 @@
             "author": {
                 "name": "razureink",
                 "url": "https://github.com/razureink"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/22788893?u=5ecb36b49dfa7bf7277fc993da63b7bcdfa835d1&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
-            "url": "https://github.com/0xlane/CVE-2021-3493",
-            "title": "0xlane/CVE-2021-3493",
-            "date_modified": "2026-07-23T11:27:25.000Z",
-            "date_published": "2026-07-23T10:36:25.000Z",
-            "author": {
-                "name": "0xlane",
-                "url": "https://github.com/0xlane"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/23299078?u=605ee4288692d8f6907031b307a0d1443683667d&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2021-41773 Apache</div>",
-            "url": "https://github.com/gagaltotal/CVE-2021-41773-apache",
-            "title": "gagaltotal/CVE-2021-41773-apache: CVE-2021-41773 Apache",
-            "date_modified": "2026-07-26T17:57:52.000Z",
-            "date_published": "2026-07-23T09:49:31.000Z",
-            "author": {
-                "name": "gagaltotal",
-                "url": "https://github.com/gagaltotal"
             }
         }
     ]

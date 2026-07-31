@@ -6,6 +6,17 @@
     "description": "CVE-2022 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/84659093?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Tplink wr841 v10 rce exploit</div>",
+            "url": "https://github.com/ilizavr/CVE-2022-24355",
+            "title": "ilizavr/CVE-2022-24355: Tplink wr841 v10 rce exploit",
+            "date_modified": "2026-07-31T04:38:32.000Z",
+            "date_published": "2026-07-30T11:08:36.000Z",
+            "author": {
+                "name": "ilizavr",
+                "url": "https://github.com/ilizavr"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/152012008?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2022-24903 Heap-based buffer overflow </div>",
             "url": "https://github.com/andree554/CVE-2022-24903-Heap-based-buffer-overflow-Hand-On-Lab",
             "title": "andree554/CVE-2022-24903-Heap-based-buffer-overflow-Hand-On-Lab: CVE-2022-24903 Heap-based buffer overflow ",
@@ -36,17 +47,6 @@
             "author": {
                 "name": "ZephrFish",
                 "url": "https://github.com/ZephrFish"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/84659093?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Tplink wr841 v10 rce exploit</div>",
-            "url": "https://github.com/ilizavr/CVE-2022-24355",
-            "title": "ilizavr/CVE-2022-24355: Tplink wr841 v10 rce exploit",
-            "date_modified": "2026-07-30T11:11:29.000Z",
-            "date_published": "2026-07-30T11:08:36.000Z",
-            "author": {
-                "name": "ilizavr",
-                "url": "https://github.com/ilizavr"
             }
         },
         {
