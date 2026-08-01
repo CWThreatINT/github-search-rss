@@ -6,6 +6,17 @@
     "description": "CVE-2022 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/28357058?u=3296a4e01e1b4e86b3ea64ccd44573a4eddfdae5&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Presentation slides and supplementary material</div>",
+            "url": "https://github.com/stfnw/Debugging_Dirty_Pipe_CVE-2022-0847",
+            "title": "stfnw/Debugging_Dirty_Pipe_CVE-2022-0847: Presentation slides and supplementary material",
+            "date_modified": "2026-08-01T06:17:01.000Z",
+            "date_published": "2022-04-01T05:51:27.000Z",
+            "author": {
+                "name": "stfnw",
+                "url": "https://github.com/stfnw"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/114046524?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
             "url": "https://github.com/byt3quester/CVE-2022-22706-poc",
             "title": "byt3quester/CVE-2022-22706-poc",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "seal-sean-org",
                 "url": "https://github.com/seal-sean-org"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/95763550?u=e7ff3e6b6da72a2c1ea8d35bba101eebca3d7f54&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>TM4WEB Vulnerability - CVE-2022-35497</div>",
-            "url": "https://github.com/PN-Tester/CVE-2022-35497",
-            "title": "PN-Tester/CVE-2022-35497: TM4WEB Vulnerability - CVE-2022-35497",
-            "date_modified": "2026-07-17T19:30:55.000Z",
-            "date_published": "2026-07-17T15:29:31.000Z",
-            "author": {
-                "name": "PN-Tester",
-                "url": "https://github.com/PN-Tester"
             }
         }
     ]
