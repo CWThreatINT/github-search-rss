@@ -6,6 +6,17 @@
     "description": "CVE-2023 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/275622146?u=75b984103c6313ac151fcf47ec550b75592395e4&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>VampSecure Labs: FortiOS CVE scanner (CVE-2018-13379, CVE-2022-40684, CVE-2023-27997, CVE-2024-21762)</div>",
+            "url": "https://github.com/belky-me/vamp-forticheck",
+            "title": "belky-me/vamp-forticheck: VampSecure Labs: FortiOS CVE scanner (CVE-2018-13379, CVE-2022-40684, CVE-2023-27997, CVE-2024-21762)",
+            "date_modified": "2026-08-01T15:44:26.000Z",
+            "date_published": "2026-07-31T10:13:19.000Z",
+            "author": {
+                "name": "belky-me",
+                "url": "https://github.com/belky-me"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/90186307?u=d303e88704dd190ddac0ef5cb1597e654c99e512&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Advanced CVE-2023-44487 HTTP/2 Rapid Reset vulnerability exploitation framework. Features multi-connection concurrent attacks, adaptive rate control, stealth mode with randomized headers, real-time metrics, and risk assessment reporting. For authorized penetration testing only. By Sudeepa Wanigarathna</div>",
             "url": "https://github.com/CerberusMrXi/CVE-2023-44487-HTTP2-DoS-Rapid-Reset-Exploit",
             "title": "CerberusMrXi/CVE-2023-44487-HTTP2-DoS-Rapid-Reset-Exploit: Advanced CVE-2023-44487 HTTP/2 Rapid Reset vulnerability exploitation framework. Features multi-connection concurrent attacks, adaptive rate control, stealth mode with randomized headers, real-time metrics, and risk assessment reporting. For authorized penetration testing only. By Sudeepa Wanigarathna",
@@ -36,17 +47,6 @@
             "author": {
                 "name": "julianertle",
                 "url": "https://github.com/julianertle"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/275622146?u=75b984103c6313ac151fcf47ec550b75592395e4&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>VampSecure Labs: FortiOS CVE scanner (CVE-2018-13379, CVE-2022-40684, CVE-2023-27997, CVE-2024-21762)</div>",
-            "url": "https://github.com/belky-me/vamp-forticheck",
-            "title": "belky-me/vamp-forticheck: VampSecure Labs: FortiOS CVE scanner (CVE-2018-13379, CVE-2022-40684, CVE-2023-27997, CVE-2024-21762)",
-            "date_modified": "2026-07-31T10:38:19.000Z",
-            "date_published": "2026-07-31T10:13:19.000Z",
-            "author": {
-                "name": "belky-me",
-                "url": "https://github.com/belky-me"
             }
         },
         {
