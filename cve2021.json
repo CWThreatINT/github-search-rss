@@ -6,6 +6,28 @@
     "description": "CVE-2021 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/49958238?u=44110b0c58b71743e59f62a5c0e7971d5828470e&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
+            "url": "https://github.com/thalpius/microsoft-cve-2021-1675",
+            "title": "thalpius/microsoft-cve-2021-1675",
+            "date_modified": "2026-08-02T18:44:20.000Z",
+            "date_published": "2021-07-16T18:06:05.000Z",
+            "author": {
+                "name": "thalpius",
+                "url": "https://github.com/thalpius"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/182138871?u=5a625dbde10ddebc6f9772ae9e409b49e97a97f1&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Chrome extension that uses vulnerabilities CVE-2021-33044 and CVE-2021-33045 to log in to Dahua cameras without authentication.</div>",
+            "url": "https://github.com/Bd-Mutant7/DahuaLoginBypass",
+            "title": "Bd-Mutant7/DahuaLoginBypass: Chrome extension that uses vulnerabilities CVE-2021-33044 and CVE-2021-33045 to log in to Dahua cameras without authentication.",
+            "date_modified": "2026-08-02T18:14:04.000Z",
+            "date_published": "2026-03-28T17:42:44.000Z",
+            "author": {
+                "name": "Bd-Mutant7",
+                "url": "https://github.com/Bd-Mutant7"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/221747380?u=4591ddafed83491ea732f5e899781bc480eb6925&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Open-source SBOM generator — CycloneDX 1.5, OSV.dev CVE scanning, SARB GN 3/2021 compliance</div>",
             "url": "https://github.com/Cybertronvula/aegis-sbom-scanner",
             "title": "Cybertronvula/aegis-sbom-scanner: Open-source SBOM generator — CycloneDX 1.5, OSV.dev CVE scanning, SARB GN 3/2021 compliance",
@@ -14,17 +36,6 @@
             "author": {
                 "name": "Cybertronvula",
                 "url": "https://github.com/Cybertronvula"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/182138871?u=5a625dbde10ddebc6f9772ae9e409b49e97a97f1&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Chrome extension that uses vulnerabilities CVE-2021-33044 and CVE-2021-33045 to log in to Dahua cameras without authentication.</div>",
-            "url": "https://github.com/Bd-Mutant7/DahuaLoginBypass",
-            "title": "Bd-Mutant7/DahuaLoginBypass: Chrome extension that uses vulnerabilities CVE-2021-33044 and CVE-2021-33045 to log in to Dahua cameras without authentication.",
-            "date_modified": "2026-08-02T17:15:22.000Z",
-            "date_published": "2026-03-28T17:42:44.000Z",
-            "author": {
-                "name": "Bd-Mutant7",
-                "url": "https://github.com/Bd-Mutant7"
             }
         },
         {
@@ -212,17 +223,6 @@
             "author": {
                 "name": "tr3m0x",
                 "url": "https://github.com/tr3m0x"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/309248139?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Docker-based isolated proof-of-concept lab for analysing CVE-2021-44228 (Log4Shell) for the COMP6441 Security Engineering project.</div>",
-            "url": "https://github.com/sfr0435122531-ui/-log4shell-lab",
-            "title": "sfr0435122531-ui/-log4shell-lab: Docker-based isolated proof-of-concept lab for analysing CVE-2021-44228 (Log4Shell) for the COMP6441 Security Engineering project.",
-            "date_modified": "2026-07-26T09:23:32.000Z",
-            "date_published": "2026-07-26T01:32:42.000Z",
-            "author": {
-                "name": "sfr0435122531-ui",
-                "url": "https://github.com/sfr0435122531-ui"
             }
         }
     ]
