@@ -6,25 +6,36 @@
     "description": "CVE-2021 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/182138871?u=5a625dbde10ddebc6f9772ae9e409b49e97a97f1&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Chrome extension that uses vulnerabilities CVE-2021-33044 and CVE-2021-33045 to log in to Dahua cameras without authentication.</div>",
+            "url": "https://github.com/Bd-Mutant7/DahuaLoginBypass",
+            "title": "Bd-Mutant7/DahuaLoginBypass: Chrome extension that uses vulnerabilities CVE-2021-33044 and CVE-2021-33045 to log in to Dahua cameras without authentication.",
+            "date_modified": "2026-08-02T21:31:52.000Z",
+            "date_published": "2026-03-28T17:42:44.000Z",
+            "author": {
+                "name": "Bd-Mutant7",
+                "url": "https://github.com/Bd-Mutant7"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/134332448?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>VMware vCenter Server CVE-2021-21972 (RCE) — vulnerability analysis, detection, and mitigation</div>",
             "url": "https://github.com/Hurrrraaaa/CVE-2021-21972",
             "title": "Hurrrraaaa/CVE-2021-21972: VMware vCenter Server CVE-2021-21972 (RCE) — vulnerability analysis, detection, and mitigation",
-            "date_modified": "2026-08-02T19:58:41.000Z",
-            "date_published": "2026-08-02T19:51:46.000Z",
+            "date_modified": "2026-08-02T20:44:19.000Z",
+            "date_published": "2026-08-02T20:32:15.000Z",
             "author": {
                 "name": "Hurrrraaaa",
                 "url": "https://github.com/Hurrrraaaa"
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/182138871?u=5a625dbde10ddebc6f9772ae9e409b49e97a97f1&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Chrome extension that uses vulnerabilities CVE-2021-33044 and CVE-2021-33045 to log in to Dahua cameras without authentication.</div>",
-            "url": "https://github.com/Bd-Mutant7/DahuaLoginBypass",
-            "title": "Bd-Mutant7/DahuaLoginBypass: Chrome extension that uses vulnerabilities CVE-2021-33044 and CVE-2021-33045 to log in to Dahua cameras without authentication.",
-            "date_modified": "2026-08-02T19:38:08.000Z",
-            "date_published": "2026-03-28T17:42:44.000Z",
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/238888691?u=f8525bdd2b19cf29c75c725296a234c0665027b9&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Log4Shell (CVE-2021-44228) research report — technical breakdown, root cause analysis, and end-to-end lab-reproduced exploit chain with evidence screenshots.</div>",
+            "url": "https://github.com/sanasimran1403-jpg/CVE-log4shell",
+            "title": "sanasimran1403-jpg/CVE-log4shell: Log4Shell (CVE-2021-44228) research report — technical breakdown, root cause analysis, and end-to-end lab-reproduced exploit chain with evidence screenshots.",
+            "date_modified": "2026-08-02T20:40:06.000Z",
+            "date_published": "2026-08-02T20:27:55.000Z",
             "author": {
-                "name": "Bd-Mutant7",
-                "url": "https://github.com/Bd-Mutant7"
+                "name": "sanasimran1403-jpg",
+                "url": "https://github.com/sanasimran1403-jpg"
             }
         },
         {
@@ -212,17 +223,6 @@
             "author": {
                 "name": "prmawyer",
                 "url": "https://github.com/prmawyer"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/187121943?u=92e4ff105a87f09066945039edcd833f6553b68b&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>PoC and analysis of CVE-2021-41773</div>",
-            "url": "https://github.com/tr3m0x/CVE-2021-41773",
-            "title": "tr3m0x/CVE-2021-41773: PoC and analysis of CVE-2021-41773",
-            "date_modified": "2026-07-27T13:58:49.000Z",
-            "date_published": "2026-07-27T13:54:27.000Z",
-            "author": {
-                "name": "tr3m0x",
-                "url": "https://github.com/tr3m0x"
             }
         }
     ]
