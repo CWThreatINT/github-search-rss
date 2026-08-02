@@ -9,11 +9,22 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/182138871?u=5a625dbde10ddebc6f9772ae9e409b49e97a97f1&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Chrome extension that uses vulnerabilities CVE-2021-33044 and CVE-2021-33045 to log in to Dahua cameras without authentication.</div>",
             "url": "https://github.com/Bd-Mutant7/DahuaLoginBypass",
             "title": "Bd-Mutant7/DahuaLoginBypass: Chrome extension that uses vulnerabilities CVE-2021-33044 and CVE-2021-33045 to log in to Dahua cameras without authentication.",
-            "date_modified": "2026-08-02T13:55:06.000Z",
+            "date_modified": "2026-08-02T15:03:12.000Z",
             "date_published": "2026-03-28T17:42:44.000Z",
             "author": {
                 "name": "Bd-Mutant7",
                 "url": "https://github.com/Bd-Mutant7"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/82807033?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2019-1388 Lab Analysis: Documented local privilege escalation via Windows UAC certificate dialogs on Windows 7.</div>",
+            "url": "https://github.com/Tafloh/CVE-2019-1388-Privilege-Escalation--2021-",
+            "title": "Tafloh/CVE-2019-1388-Privilege-Escalation--2021-: CVE-2019-1388 Lab Analysis: Documented local privilege escalation via Windows UAC certificate dialogs on Windows 7.",
+            "date_modified": "2026-08-02T14:59:46.000Z",
+            "date_published": "2026-07-22T12:50:17.000Z",
+            "author": {
+                "name": "Tafloh",
+                "url": "https://github.com/Tafloh"
             }
         },
         {
@@ -209,17 +220,6 @@
             "title": "l0lsec/CVE-2020-5148: CVE-2020-5148 - Forced Authentication in the SonicWall UTM SSO Agent. The agent probes unvalidated workstations as Domain Admin, so one outbound web request yields a privileged NTLMv2 hash. Advisory SNWLID-2021-0003.",
             "date_modified": "2026-07-25T07:34:20.000Z",
             "date_published": "2026-07-25T07:33:26.000Z",
-            "author": {
-                "name": "l0lsec",
-                "url": "https://github.com/l0lsec"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/51931886?u=bf7e0ceb82288d332705dbe89d32d79375c802a0&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2021-3262 - Blind SQL Injection in the editOEN parameter of TripSpark VEO Transportation / NovusEDU. Unauthenticated, internet-facing. Payloads, annotated requests, and evidence.</div>",
-            "url": "https://github.com/l0lsec/CVE-2021-3262",
-            "title": "l0lsec/CVE-2021-3262: CVE-2021-3262 - Blind SQL Injection in the editOEN parameter of TripSpark VEO Transportation / NovusEDU. Unauthenticated, internet-facing. Payloads, annotated requests, and evidence.",
-            "date_modified": "2026-07-25T07:33:21.000Z",
-            "date_published": "2026-07-25T07:33:14.000Z",
             "author": {
                 "name": "l0lsec",
                 "url": "https://github.com/l0lsec"
