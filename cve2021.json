@@ -6,10 +6,21 @@
     "description": "CVE-2021 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/221747380?u=4591ddafed83491ea732f5e899781bc480eb6925&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Open-source SBOM generator — CycloneDX 1.5, OSV.dev CVE scanning, SARB GN 3/2021 compliance</div>",
+            "url": "https://github.com/Cybertronvula/aegis-sbom-scanner",
+            "title": "Cybertronvula/aegis-sbom-scanner: Open-source SBOM generator — CycloneDX 1.5, OSV.dev CVE scanning, SARB GN 3/2021 compliance",
+            "date_modified": "2026-08-02T16:27:21.000Z",
+            "date_published": "2026-04-24T13:49:37.000Z",
+            "author": {
+                "name": "Cybertronvula",
+                "url": "https://github.com/Cybertronvula"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/182138871?u=5a625dbde10ddebc6f9772ae9e409b49e97a97f1&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Chrome extension that uses vulnerabilities CVE-2021-33044 and CVE-2021-33045 to log in to Dahua cameras without authentication.</div>",
             "url": "https://github.com/Bd-Mutant7/DahuaLoginBypass",
             "title": "Bd-Mutant7/DahuaLoginBypass: Chrome extension that uses vulnerabilities CVE-2021-33044 and CVE-2021-33045 to log in to Dahua cameras without authentication.",
-            "date_modified": "2026-08-02T15:03:12.000Z",
+            "date_modified": "2026-08-02T16:10:30.000Z",
             "date_published": "2026-03-28T17:42:44.000Z",
             "author": {
                 "name": "Bd-Mutant7",
@@ -152,7 +163,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/233878056?u=0bb6bbb0a8807b2093a0bad7217c3061e0ecd85b&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>HIKRAVEN - Advanced Hikvision Security Assessment Platform for professional penetration testing. Detects 12+ CVEs including CVE-2021-36260 (CRITICAL), tests default credentials, performs network discovery, and generates professional security reports. For authorized security testing only! 🛡️🔒</div>",
             "url": "https://github.com/sylhetyhackvenger/HIKRAVEN",
             "title": "sylhetyhackvenger/HIKRAVEN: HIKRAVEN - Advanced Hikvision Security Assessment Platform for professional penetration testing. Detects 12+ CVEs including CVE-2021-36260 (CRITICAL), tests default credentials, performs network discovery, and generates professional security reports. For authorized security testing only! 🛡️🔒",
-            "date_modified": "2026-08-02T09:31:44.000Z",
+            "date_modified": "2026-08-02T16:11:41.000Z",
             "date_published": "2026-07-17T23:29:55.000Z",
             "author": {
                 "name": "sylhetyhackvenger",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "sfr0435122531-ui",
                 "url": "https://github.com/sfr0435122531-ui"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/51931886?u=bf7e0ceb82288d332705dbe89d32d79375c802a0&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2020-5148 - Forced Authentication in the SonicWall UTM SSO Agent. The agent probes unvalidated workstations as Domain Admin, so one outbound web request yields a privileged NTLMv2 hash. Advisory SNWLID-2021-0003.</div>",
-            "url": "https://github.com/l0lsec/CVE-2020-5148",
-            "title": "l0lsec/CVE-2020-5148: CVE-2020-5148 - Forced Authentication in the SonicWall UTM SSO Agent. The agent probes unvalidated workstations as Domain Admin, so one outbound web request yields a privileged NTLMv2 hash. Advisory SNWLID-2021-0003.",
-            "date_modified": "2026-07-25T07:34:20.000Z",
-            "date_published": "2026-07-25T07:33:26.000Z",
-            "author": {
-                "name": "l0lsec",
-                "url": "https://github.com/l0lsec"
             }
         }
     ]
