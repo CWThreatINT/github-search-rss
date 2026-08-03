@@ -6,10 +6,32 @@
     "description": "CVE-2023 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/110236495?u=5f58ffa652ca8ba8317161808785ea7a8b92ad9b&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div> Walkthrough for Codify (Linux - Easy). Exploits vm2 RCE (CVE-2023-30547), SQLite DB hash extraction, Bcrypt cracking with John, and Privilege Escalation via Bash wildcard comparison in `mysql-backup.sh`.</div>",
+            "url": "https://github.com/R3fr4kt/Codify-TJNULL-OSCP-",
+            "title": "R3fr4kt/Codify-TJNULL-OSCP-:  Walkthrough for Codify (Linux - Easy). Exploits vm2 RCE (CVE-2023-30547), SQLite DB hash extraction, Bcrypt cracking with John, and Privilege Escalation via Bash wildcard comparison in `mysql-backup.sh`.",
+            "date_modified": "2026-08-03T12:17:48.000Z",
+            "date_published": "2026-08-03T12:13:41.000Z",
+            "author": {
+                "name": "R3fr4kt",
+                "url": "https://github.com/R3fr4kt"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/99561321?u=259d6eaeafe1dcbf8f5a733e1340323982afbd48&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Educational Proof of Concept (PoC) for CVE-2023-36874 — Windows Error Reporting (WER) Local Privilege Escalation vulnerability.</div>",
+            "url": "https://github.com/johnnygreeme/CVE-2023-36874",
+            "title": "johnnygreeme/CVE-2023-36874: Educational Proof of Concept (PoC) for CVE-2023-36874 — Windows Error Reporting (WER) Local Privilege Escalation vulnerability.",
+            "date_modified": "2026-08-03T11:55:47.000Z",
+            "date_published": "2026-08-03T11:53:44.000Z",
+            "author": {
+                "name": "johnnygreeme",
+                "url": "https://github.com/johnnygreeme"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/312404851?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>VampSecure Labs: FortiOS CVE scanner (CVE-2018-13379, CVE-2022-40684, CVE-2023-27997, CVE-2024-21762)</div>",
             "url": "https://github.com/Vampsecure-Labs/vamp-forticheck",
             "title": "Vampsecure-Labs/vamp-forticheck: VampSecure Labs: FortiOS CVE scanner (CVE-2018-13379, CVE-2022-40684, CVE-2023-27997, CVE-2024-21762)",
-            "date_modified": "2026-08-03T08:17:01.000Z",
+            "date_modified": "2026-08-03T09:36:47.000Z",
             "date_published": "2026-07-31T10:13:19.000Z",
             "author": {
                 "name": "Vampsecure-Labs",
@@ -20,7 +42,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/151980876?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>TOP All bugbounty pentesting CVE-2023- POC Exp  RCE example payload  Things</div>",
             "url": "https://github.com/GhostTroops/TOP",
             "title": "GhostTroops/TOP: TOP All bugbounty pentesting CVE-2023- POC Exp  RCE example payload  Things",
-            "date_modified": "2026-08-03T02:39:47.000Z",
+            "date_modified": "2026-08-03T11:28:11.000Z",
             "date_published": "2022-03-19T01:54:15.000Z",
             "author": {
                 "name": "GhostTroops",
@@ -201,28 +223,6 @@
             "author": {
                 "name": "ncusi",
                 "url": "https://github.com/ncusi"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/158827278?u=10c7fa2e0b45a727087f339b56c6fa44e8334b0f&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
-            "url": "https://github.com/WhatsWrongAndWhy/CVE-2023-2640-CVE-2023-32629",
-            "title": "WhatsWrongAndWhy/CVE-2023-2640-CVE-2023-32629",
-            "date_modified": "2026-07-22T05:25:30.000Z",
-            "date_published": "2026-07-22T05:24:44.000Z",
-            "author": {
-                "name": "WhatsWrongAndWhy",
-                "url": "https://github.com/WhatsWrongAndWhy"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/262610487?u=3bdfb6af0c9e7002abe4277d2708599d86622a9e&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
-            "url": "https://github.com/danielissaq/-PaperCut-CVE-2023-27350-",
-            "title": "danielissaq/-PaperCut-CVE-2023-27350-",
-            "date_modified": "2026-07-24T21:26:34.000Z",
-            "date_published": "2026-07-21T17:20:53.000Z",
-            "author": {
-                "name": "danielissaq",
-                "url": "https://github.com/danielissaq"
             }
         }
     ]
