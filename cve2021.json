@@ -9,11 +9,22 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/182138871?u=5a625dbde10ddebc6f9772ae9e409b49e97a97f1&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Chrome extension that uses vulnerabilities CVE-2021-33044 and CVE-2021-33045 to log in to Dahua cameras without authentication.</div>",
             "url": "https://github.com/Bd-Mutant7/DahuaLoginBypass",
             "title": "Bd-Mutant7/DahuaLoginBypass: Chrome extension that uses vulnerabilities CVE-2021-33044 and CVE-2021-33045 to log in to Dahua cameras without authentication.",
-            "date_modified": "2026-08-04T14:43:31.000Z",
+            "date_modified": "2026-08-04T18:16:06.000Z",
             "date_published": "2026-03-28T17:42:44.000Z",
             "author": {
                 "name": "Bd-Mutant7",
                 "url": "https://github.com/Bd-Mutant7"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/90186307?u=d303e88704dd190ddac0ef5cb1597e654c99e512&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Apache HTTP Server 2.4.x mod_lua Buffer Overflow (CVE-2021-44790) - Advanced exploitation framework with fingerprinting, multi-stage scanning, plugin architecture, professional reporting, screenshot capture, SQLite database, and 95%+ confidence detection. Author: Sudeepa Wanigarathna.</div>",
+            "url": "https://github.com/CerberusMrXi/Apache-Lua-Buffer-Overflow-Exploit-CVE-2021-44790",
+            "title": "CerberusMrXi/Apache-Lua-Buffer-Overflow-Exploit-CVE-2021-44790: Apache HTTP Server 2.4.x mod_lua Buffer Overflow (CVE-2021-44790) - Advanced exploitation framework with fingerprinting, multi-stage scanning, plugin architecture, professional reporting, screenshot capture, SQLite database, and 95%+ confidence detection. Author: Sudeepa Wanigarathna.",
+            "date_modified": "2026-08-04T18:12:58.000Z",
+            "date_published": "2026-08-04T17:37:16.000Z",
+            "author": {
+                "name": "CerberusMrXi",
+                "url": "https://github.com/CerberusMrXi"
             }
         },
         {
@@ -212,17 +223,6 @@
             "author": {
                 "name": "sylhetyhackvenger",
                 "url": "https://github.com/sylhetyhackvenger"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/120041274?u=ba85e34c487a99a6aafa8723599e63014255c42d&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
-            "url": "https://github.com/manfredgabriel/cve-2021-41773-lab",
-            "title": "manfredgabriel/cve-2021-41773-lab",
-            "date_modified": "2026-07-29T20:33:33.000Z",
-            "date_published": "2026-07-29T20:17:22.000Z",
-            "author": {
-                "name": "manfredgabriel",
-                "url": "https://github.com/manfredgabriel"
             }
         }
     ]
