@@ -6,6 +6,17 @@
     "description": "CVE-2023 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/146327014?u=374a3e85df9939eafe1c71bca7ec80ca2141e4d0&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Mobile Mouse 3.6.0.4 - Remote Code Execution - CVE-2023-31902</div>",
+            "url": "https://github.com/lypd0/mouseserver-exploit",
+            "title": "lypd0/mouseserver-exploit: Mobile Mouse 3.6.0.4 - Remote Code Execution - CVE-2023-31902",
+            "date_modified": "2026-08-04T05:45:00.000Z",
+            "date_published": "2026-08-04T05:39:12.000Z",
+            "author": {
+                "name": "lypd0",
+                "url": "https://github.com/lypd0"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/151980876?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>TOP All bugbounty pentesting CVE-2023- POC Exp  RCE example payload  Things</div>",
             "url": "https://github.com/GhostTroops/TOP",
             "title": "GhostTroops/TOP: TOP All bugbounty pentesting CVE-2023- POC Exp  RCE example payload  Things",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "johnnygreeme",
                 "url": "https://github.com/johnnygreeme"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/128129242?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Scripts and code for \"The Secret Life of CVEs\", presented at MSR 2023 Challenge: <a href=\"https://conf.researchr.org/track/msr-2023/msr-2023-mining-challenge\" class=\"Link--inTextBlock\" rel=\"nofollow\">https://conf.researchr.org/track/msr-2023/msr-2023-mining-challenge</a></div>",
-            "url": "https://github.com/ncusi/secret_life_of_CVEs",
-            "title": "ncusi/secret_life_of_CVEs: Scripts and code for \"The Secret Life of CVEs\", presented at MSR 2023 Challenge: https://conf.researchr.org/track/msr-2023/msr-2023-mining-challenge",
-            "date_modified": "2026-07-22T16:42:05.000Z",
-            "date_published": "2023-03-17T10:24:09.000Z",
-            "author": {
-                "name": "ncusi",
-                "url": "https://github.com/ncusi"
             }
         }
     ]
