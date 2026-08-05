@@ -6,6 +6,17 @@
     "description": "CVE-2022 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/109653251?u=80ca4e228b0fe5f3c32363e52e9a449a9b751b4e&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2022-38694 Hardened Exploit - RP2350 USB Host Auto Flasher for Unisoc devices</div>",
+            "url": "https://github.com/LeoChen-CoreMind/spd_flasher",
+            "title": "LeoChen-CoreMind/spd_flasher: CVE-2022-38694 Hardened Exploit - RP2350 USB Host Auto Flasher for Unisoc devices",
+            "date_modified": "2026-08-05T17:15:02.000Z",
+            "date_published": "2026-02-20T16:40:39.000Z",
+            "author": {
+                "name": "LeoChen-CoreMind",
+                "url": "https://github.com/LeoChen-CoreMind"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/88181924?u=f10d6f4f37e85c8a7339d69b5fc375d22f36c318&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Bootloader unlock (CVE-2022-38694) &amp; root guide for Realme C53 / RMX3760 (Unisoc T612)</div>",
             "url": "https://github.com/Gopartner/realme-c53-unlock-root",
             "title": "Gopartner/realme-c53-unlock-root: Bootloader unlock (CVE-2022-38694) & root guide for Realme C53 / RMX3760 (Unisoc T612)",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "straightSang",
                 "url": "https://github.com/straightSang"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/219814603?u=6c9324370159aa5184dd260c737ff40281856f03&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>🔵 Threat analysis writeup for Follina (CVE-2022-30190) — Microsoft MSDT RCE zero-day exploited in the wild. Covers static analysis, VirusTotal, OSINT, MITRE ATT&amp;CK T1059, and detection engineering using Windows Event ID 4688.</div>",
-            "url": "https://github.com/zavikhttak/follina-msdt-threat-investigation",
-            "title": "zavikhttak/follina-msdt-threat-investigation: 🔵 Threat analysis writeup for Follina (CVE-2022-30190) — Microsoft MSDT RCE zero-day exploited in the wild. Covers static analysis, VirusTotal, OSINT, MITRE ATT&CK T1059, and detection engineering using Windows Event ID 4688.",
-            "date_modified": "2026-07-21T04:08:43.000Z",
-            "date_published": "2026-07-21T04:04:32.000Z",
-            "author": {
-                "name": "zavikhttak",
-                "url": "https://github.com/zavikhttak"
             }
         }
     ]
