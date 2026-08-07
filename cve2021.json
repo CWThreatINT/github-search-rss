@@ -6,6 +6,28 @@
     "description": "CVE-2021 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/182138871?u=5a625dbde10ddebc6f9772ae9e409b49e97a97f1&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Chrome extension that uses vulnerabilities CVE-2021-33044 and CVE-2021-33045 to log in to Dahua cameras without authentication.</div>",
+            "url": "https://github.com/Bd-Mutant7/DahuaLoginBypass",
+            "title": "Bd-Mutant7/DahuaLoginBypass: Chrome extension that uses vulnerabilities CVE-2021-33044 and CVE-2021-33045 to log in to Dahua cameras without authentication.",
+            "date_modified": "2026-08-07T07:59:21.000Z",
+            "date_published": "2026-03-28T17:42:44.000Z",
+            "author": {
+                "name": "Bd-Mutant7",
+                "url": "https://github.com/Bd-Mutant7"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/210988226?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Automated reproduction and analysis of CVE-2021-26708 — a use-after-free vulnerability in the Linux kernel's AF_VSOCK subsystem (v5.10.12). Includes PoC exploit code, KASAN runtime detection report, and the full kernel build configuration for environment replication. Built with KernJC.</div>",
+            "url": "https://github.com/kungaocode/vulnerability-analysis-",
+            "title": "kungaocode/vulnerability-analysis-: Automated reproduction and analysis of CVE-2021-26708 — a use-after-free vulnerability in the Linux kernel's AF_VSOCK subsystem (v5.10.12). Includes PoC exploit code, KASAN runtime detection report, and the full kernel build configuration for environment replication. Built with KernJC.",
+            "date_modified": "2026-08-07T06:17:29.000Z",
+            "date_published": "2026-08-07T06:08:20.000Z",
+            "author": {
+                "name": "kungaocode",
+                "url": "https://github.com/kungaocode"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/289515373?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Full-lifecycle vulnerability management on a live Log4Shell (CVE-2021-44228) target — scan, manual exploitation, network detection, and remediation verification. Nessus, Suricata, Wireshark, Docker.</div>",
             "url": "https://github.com/yili-soc/vm-homelab-log4shell-assessment",
             "title": "yili-soc/vm-homelab-log4shell-assessment: Full-lifecycle vulnerability management on a live Log4Shell (CVE-2021-44228) target — scan, manual exploitation, network detection, and remediation verification. Nessus, Suricata, Wireshark, Docker.",
@@ -14,17 +36,6 @@
             "author": {
                 "name": "yili-soc",
                 "url": "https://github.com/yili-soc"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/182138871?u=5a625dbde10ddebc6f9772ae9e409b49e97a97f1&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Chrome extension that uses vulnerabilities CVE-2021-33044 and CVE-2021-33045 to log in to Dahua cameras without authentication.</div>",
-            "url": "https://github.com/Bd-Mutant7/DahuaLoginBypass",
-            "title": "Bd-Mutant7/DahuaLoginBypass: Chrome extension that uses vulnerabilities CVE-2021-33044 and CVE-2021-33045 to log in to Dahua cameras without authentication.",
-            "date_modified": "2026-08-07T05:19:46.000Z",
-            "date_published": "2026-03-28T17:42:44.000Z",
-            "author": {
-                "name": "Bd-Mutant7",
-                "url": "https://github.com/Bd-Mutant7"
             }
         },
         {
@@ -209,17 +220,6 @@
             "title": "ZephrFish/CVE-2021-22893_HoneyPoC2: DO NOT RUN THIS.",
             "date_modified": "2026-07-31T00:59:13.000Z",
             "date_published": "2021-04-21T09:48:57.000Z",
-            "author": {
-                "name": "ZephrFish",
-                "url": "https://github.com/ZephrFish"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/5783068?u=8ead6f35fa4c2d1fc565e6f080630d2bb299f41d&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>patched to work</div>",
-            "url": "https://github.com/ZephrFish/Exch-CVE-2021-26855_Priv",
-            "title": "ZephrFish/Exch-CVE-2021-26855_Priv: patched to work",
-            "date_modified": "2026-07-30T13:42:42.000Z",
-            "date_published": "2021-03-15T12:33:04.000Z",
             "author": {
                 "name": "ZephrFish",
                 "url": "https://github.com/ZephrFish"
