@@ -6,6 +6,28 @@
     "description": "CVE-2022 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/278274242?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Demonstrate local privilege escalation in networkd-dispatcher via CVE-2022-29799 and CVE-2022-29800 using this C proof of concept.</div>",
+            "url": "https://github.com/pansyhebephrenic23/NimbusPWN-CVE-2022-29799-29800",
+            "title": "pansyhebephrenic23/NimbusPWN-CVE-2022-29799-29800: Demonstrate local privilege escalation in networkd-dispatcher via CVE-2022-29799 and CVE-2022-29800 using this C proof of concept.",
+            "date_modified": "2026-08-07T09:43:21.000Z",
+            "date_published": "2026-06-23T14:05:18.000Z",
+            "author": {
+                "name": "pansyhebephrenic23",
+                "url": "https://github.com/pansyhebephrenic23"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/312404851?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>VampSecure Labs: FortiOS CVE scanner (CVE-2018-13379, CVE-2022-40684, CVE-2023-27997, CVE-2024-21762)</div>",
+            "url": "https://github.com/Vampsecure-Labs/vamp-forticheck",
+            "title": "Vampsecure-Labs/vamp-forticheck: VampSecure Labs: FortiOS CVE scanner (CVE-2018-13379, CVE-2022-40684, CVE-2023-27997, CVE-2024-21762)",
+            "date_modified": "2026-08-07T08:50:03.000Z",
+            "date_published": "2026-07-31T10:13:19.000Z",
+            "author": {
+                "name": "Vampsecure-Labs",
+                "url": "https://github.com/Vampsecure-Labs"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/41143106?u=b79f5d86dffe824e89ae06b3b19b41a4d6dc8413&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2022-31626, CVE-2024-2961, CVE-2019-6977, PHP security research</div>",
             "url": "https://github.com/HORKimhab/CVE-2022-31626-CVE-2024-2961-CVE-2019-6977",
             "title": "HORKimhab/CVE-2022-31626-CVE-2024-2961-CVE-2019-6977: CVE-2022-31626, CVE-2024-2961, CVE-2019-6977, PHP security research",
@@ -94,17 +116,6 @@
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/312404851?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>VampSecure Labs: FortiOS CVE scanner (CVE-2018-13379, CVE-2022-40684, CVE-2023-27997, CVE-2024-21762)</div>",
-            "url": "https://github.com/Vampsecure-Labs/vamp-forticheck",
-            "title": "Vampsecure-Labs/vamp-forticheck: VampSecure Labs: FortiOS CVE scanner (CVE-2018-13379, CVE-2022-40684, CVE-2023-27997, CVE-2024-21762)",
-            "date_modified": "2026-08-03T09:36:47.000Z",
-            "date_published": "2026-07-31T10:13:19.000Z",
-            "author": {
-                "name": "Vampsecure-Labs",
-                "url": "https://github.com/Vampsecure-Labs"
-            }
-        },
-        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/28357058?u=3296a4e01e1b4e86b3ea64ccd44573a4eddfdae5&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Presentation slides and supplementary material</div>",
             "url": "https://github.com/stfnw/Debugging_Dirty_Pipe_CVE-2022-0847",
             "title": "stfnw/Debugging_Dirty_Pipe_CVE-2022-0847: Presentation slides and supplementary material",
@@ -190,17 +201,6 @@
             "author": {
                 "name": "ZephrFish",
                 "url": "https://github.com/ZephrFish"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/278274242?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Demonstrate local privilege escalation in networkd-dispatcher via CVE-2022-29799 and CVE-2022-29800 using this C proof of concept.</div>",
-            "url": "https://github.com/pansyhebephrenic23/NimbusPWN-CVE-2022-29799-29800",
-            "title": "pansyhebephrenic23/NimbusPWN-CVE-2022-29799-29800: Demonstrate local privilege escalation in networkd-dispatcher via CVE-2022-29799 and CVE-2022-29800 using this C proof of concept.",
-            "date_modified": "2026-07-27T11:14:13.000Z",
-            "date_published": "2026-06-23T14:05:18.000Z",
-            "author": {
-                "name": "pansyhebephrenic23",
-                "url": "https://github.com/pansyhebephrenic23"
             }
         },
         {
