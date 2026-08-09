@@ -6,25 +6,25 @@
     "description": "CVE-2021 FEED on GitHub",
     "items": [
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/60609220?u=36993421d3e399b733b2df495dd5415e2e71c388&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A Proof-Of-Concept for the CVE-2021-44228 vulnerability.</div>",
-            "url": "https://github.com/Jiahong-Guan/log4j-shell-poc",
-            "title": "Jiahong-Guan/log4j-shell-poc: A Proof-Of-Concept for the CVE-2021-44228 vulnerability.",
-            "date_modified": "2026-08-09T08:11:59.000Z",
-            "date_published": "2026-08-09T07:04:50.000Z",
-            "author": {
-                "name": "Jiahong-Guan",
-                "url": "https://github.com/Jiahong-Guan"
-            }
-        },
-        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/182138871?u=5a625dbde10ddebc6f9772ae9e409b49e97a97f1&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Chrome extension that uses vulnerabilities CVE-2021-33044 and CVE-2021-33045 to log in to Dahua cameras without authentication.</div>",
             "url": "https://github.com/Bd-Mutant7/DahuaLoginBypass",
             "title": "Bd-Mutant7/DahuaLoginBypass: Chrome extension that uses vulnerabilities CVE-2021-33044 and CVE-2021-33045 to log in to Dahua cameras without authentication.",
-            "date_modified": "2026-08-09T07:59:31.000Z",
+            "date_modified": "2026-08-09T08:55:00.000Z",
             "date_published": "2026-03-28T17:42:44.000Z",
             "author": {
                 "name": "Bd-Mutant7",
                 "url": "https://github.com/Bd-Mutant7"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/60609220?u=36993421d3e399b733b2df495dd5415e2e71c388&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A Proof-Of-Concept for the CVE-2021-44228 vulnerability.</div>",
+            "url": "https://github.com/Jiahong-Guan/log4j-shell-poc",
+            "title": "Jiahong-Guan/log4j-shell-poc: A Proof-Of-Concept for the CVE-2021-44228 vulnerability.",
+            "date_modified": "2026-08-09T08:40:07.000Z",
+            "date_published": "2026-08-09T07:04:50.000Z",
+            "author": {
+                "name": "Jiahong-Guan",
+                "url": "https://github.com/Jiahong-Guan"
             }
         },
         {
