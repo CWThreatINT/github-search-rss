@@ -6,10 +6,21 @@
     "description": "CVE-2021 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/195605605?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
+            "url": "https://github.com/kaiw-icspark25/PrintNightmare-CVE-2021-1675-Analysis",
+            "title": "kaiw-icspark25/PrintNightmare-CVE-2021-1675-Analysis",
+            "date_modified": "2026-08-09T00:48:51.000Z",
+            "date_published": "2026-07-20T04:57:22.000Z",
+            "author": {
+                "name": "kaiw-icspark25",
+                "url": "https://github.com/kaiw-icspark25"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/182138871?u=5a625dbde10ddebc6f9772ae9e409b49e97a97f1&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Chrome extension that uses vulnerabilities CVE-2021-33044 and CVE-2021-33045 to log in to Dahua cameras without authentication.</div>",
             "url": "https://github.com/Bd-Mutant7/DahuaLoginBypass",
             "title": "Bd-Mutant7/DahuaLoginBypass: Chrome extension that uses vulnerabilities CVE-2021-33044 and CVE-2021-33045 to log in to Dahua cameras without authentication.",
-            "date_modified": "2026-08-08T23:00:31.000Z",
+            "date_modified": "2026-08-09T00:01:48.000Z",
             "date_published": "2026-03-28T17:42:44.000Z",
             "author": {
                 "name": "Bd-Mutant7",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "Tafloh",
                 "url": "https://github.com/Tafloh"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/5783068?u=8ead6f35fa4c2d1fc565e6f080630d2bb299f41d&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2021-26855: PoC (Not a HoneyPoC for once!)</div>",
-            "url": "https://github.com/ZephrFish/Exch-CVE-2021-26855",
-            "title": "ZephrFish/Exch-CVE-2021-26855: CVE-2021-26855: PoC (Not a HoneyPoC for once!)",
-            "date_modified": "2026-07-31T00:59:17.000Z",
-            "date_published": "2021-03-14T14:23:34.000Z",
-            "author": {
-                "name": "ZephrFish",
-                "url": "https://github.com/ZephrFish"
             }
         }
     ]
