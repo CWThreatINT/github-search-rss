@@ -6,6 +6,17 @@
     "description": "CVE-2023 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/50972716?u=e55eb23d9ab6f7a723a9dded438d4397b14566e0&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Weblogic CVE-2023-21839 RCE (无需Java依赖一键RCE)</div>",
+            "url": "https://github.com/ASkyeye/CVE-2023-21839",
+            "title": "ASkyeye/CVE-2023-21839: Weblogic CVE-2023-21839 RCE (无需Java依赖一键RCE)",
+            "date_modified": "2026-08-09T17:41:14.000Z",
+            "date_published": "2023-02-24T13:54:42.000Z",
+            "author": {
+                "name": "ASkyeye",
+                "url": "https://github.com/ASkyeye"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/81592655?u=6be132d8f132f9118ef57024ef9e612645f774bf&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A Linux-related vulnerability</div>",
             "url": "https://github.com/BurnSkyup/CVE-2023-32233-reproduction",
             "title": "BurnSkyup/CVE-2023-32233-reproduction: A Linux-related vulnerability",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "ETS-MSE",
                 "url": "https://github.com/ETS-MSE"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/82839813?u=a58290d0fcf2ae9a0e74272c284a135bd2dde268&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>PoC exploit for CVE-2023-52076 - zip-slip path traversal in Atril/Xreader (MATE/Cinnamon) enabling arbitrary file write and RCE via crafted EPUB. Authorized security testing only.</div>",
-            "url": "https://github.com/Groppoxx/CVE-2023-52076-PoC",
-            "title": "Groppoxx/CVE-2023-52076-PoC: PoC exploit for CVE-2023-52076 - zip-slip path traversal in Atril/Xreader (MATE/Cinnamon) enabling arbitrary file write and RCE via crafted EPUB. Authorized security testing only.",
-            "date_modified": "2026-07-29T01:44:40.000Z",
-            "date_published": "2026-07-27T06:51:21.000Z",
-            "author": {
-                "name": "Groppoxx",
-                "url": "https://github.com/Groppoxx"
             }
         }
     ]
