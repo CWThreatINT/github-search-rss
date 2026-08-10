@@ -6,6 +6,28 @@
     "description": "CVE-2023 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/277360420?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>AegisGraph: graph-based application-layer assessment evidence platform for Secure Messaging Applications (SMAs). DARPA ASEMA HR0011SB20254-12 Tier 3 research. ReproChain CVE-2023-4863 reachability + PolyDiff differential parser fuzzing + claim-state governance + reproducible benchmark surface.</div>",
+            "url": "https://github.com/577Industries/aegisgraph",
+            "title": "577Industries/aegisgraph: AegisGraph: graph-based application-layer assessment evidence platform for Secure Messaging Applications (SMAs). DARPA ASEMA HR0011SB20254-12 Tier 3 research. ReproChain CVE-2023-4863 reachability + PolyDiff differential parser fuzzing + claim-state governance + reproducible benchmark surface.",
+            "date_modified": "2026-08-10T01:45:13.000Z",
+            "date_published": "2026-05-08T13:04:43.000Z",
+            "author": {
+                "name": "577Industries",
+                "url": "https://github.com/577Industries"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/151980876?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>TOP All bugbounty pentesting CVE-2023- POC Exp  RCE example payload  Things</div>",
+            "url": "https://github.com/GhostTroops/TOP",
+            "title": "GhostTroops/TOP: TOP All bugbounty pentesting CVE-2023- POC Exp  RCE example payload  Things",
+            "date_modified": "2026-08-10T01:20:14.000Z",
+            "date_published": "2022-03-19T01:54:15.000Z",
+            "author": {
+                "name": "GhostTroops",
+                "url": "https://github.com/GhostTroops"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/50972716?u=e55eb23d9ab6f7a723a9dded438d4397b14566e0&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Weblogic CVE-2023-21839 RCE (无需Java依赖一键RCE)</div>",
             "url": "https://github.com/ASkyeye/CVE-2023-21839",
             "title": "ASkyeye/CVE-2023-21839: Weblogic CVE-2023-21839 RCE (无需Java依赖一键RCE)",
@@ -25,17 +47,6 @@
             "author": {
                 "name": "BurnSkyup",
                 "url": "https://github.com/BurnSkyup"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/151980876?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>TOP All bugbounty pentesting CVE-2023- POC Exp  RCE example payload  Things</div>",
-            "url": "https://github.com/GhostTroops/TOP",
-            "title": "GhostTroops/TOP: TOP All bugbounty pentesting CVE-2023- POC Exp  RCE example payload  Things",
-            "date_modified": "2026-08-09T01:18:36.000Z",
-            "date_published": "2022-03-19T01:54:15.000Z",
-            "author": {
-                "name": "GhostTroops",
-                "url": "https://github.com/GhostTroops"
             }
         },
         {
@@ -212,17 +223,6 @@
             "author": {
                 "name": "itres-labs",
                 "url": "https://github.com/itres-labs"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/309883641?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Standalone assessment and servicing for the Secure Boot 2011 to 2023 certificate rollover (CVE-2023-24932 / KB5025885). Assess-only by default; no dependencies, no network, no telemetry.</div>",
-            "url": "https://github.com/ETS-MSE/secure-boot-cert-servicing",
-            "title": "ETS-MSE/secure-boot-cert-servicing: Standalone assessment and servicing for the Secure Boot 2011 to 2023 certificate rollover (CVE-2023-24932 / KB5025885). Assess-only by default; no dependencies, no network, no telemetry.",
-            "date_modified": "2026-07-27T21:12:49.000Z",
-            "date_published": "2026-07-27T21:11:57.000Z",
-            "author": {
-                "name": "ETS-MSE",
-                "url": "https://github.com/ETS-MSE"
             }
         }
     ]

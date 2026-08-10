@@ -6,6 +6,17 @@
     "description": "CVE-2022 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/118337573?u=e192bbc36e94016cb25e5ccf21ed9ace8350bb1e&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Teleport v3.2.2, Teleport v3.5.6-rc6, and Teleport v3.6.3-b2 was discovered to contain an information leak via the /user/get-role-list web interface.</div>",
+            "url": "https://github.com/arleyna/CVE-2022-38599",
+            "title": "arleyna/CVE-2022-38599: Teleport v3.2.2, Teleport v3.5.6-rc6, and Teleport v3.6.3-b2 was discovered to contain an information leak via the /user/get-role-list web interface.",
+            "date_modified": "2026-08-10T02:23:25.000Z",
+            "date_published": "2026-08-10T02:11:23.000Z",
+            "author": {
+                "name": "arleyna",
+                "url": "https://github.com/arleyna"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/88181924?u=f10d6f4f37e85c8a7339d69b5fc375d22f36c318&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Bootloader unlock (CVE-2022-38694) &amp; root guide for Realme C53 / RMX3760 (Unisoc T612)</div>",
             "url": "https://github.com/Gopartner/realme-c53-unlock-root",
             "title": "Gopartner/realme-c53-unlock-root: Bootloader unlock (CVE-2022-38694) & root guide for Realme C53 / RMX3760 (Unisoc T612)",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "soralis0912",
                 "url": "https://github.com/soralis0912"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/21672558?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A Zeek package to detect CVE-2022-26937, a vulnerability in the Network Lock Manager (NLM) protocol in Windows NFS server.</div>",
-            "url": "https://github.com/corelight/CVE-2022-26937",
-            "title": "corelight/CVE-2022-26937: A Zeek package to detect CVE-2022-26937, a vulnerability in the Network Lock Manager (NLM) protocol in Windows NFS server.",
-            "date_modified": "2026-07-23T14:41:34.000Z",
-            "date_published": "2022-05-11T18:36:45.000Z",
-            "author": {
-                "name": "corelight",
-                "url": "https://github.com/corelight"
             }
         }
     ]
