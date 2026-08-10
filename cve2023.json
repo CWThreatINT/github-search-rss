@@ -6,6 +6,17 @@
     "description": "CVE-2023 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/291282580?u=bee0b796cce821aa4a614edcc527df480a1cc1cd&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Hack The Box TwoMillion machine writeup — JWT/invite-code bypass, IDOR, command injection, and CVE-2023-0386 privilege escalation.</div>",
+            "url": "https://github.com/abedallarawashdeh/HTB-TwoMillion-machine",
+            "title": "abedallarawashdeh/HTB-TwoMillion-machine: Hack The Box TwoMillion machine writeup — JWT/invite-code bypass, IDOR, command injection, and CVE-2023-0386 privilege escalation.",
+            "date_modified": "2026-08-10T19:08:16.000Z",
+            "date_published": "2026-08-05T16:33:30.000Z",
+            "author": {
+                "name": "abedallarawashdeh",
+                "url": "https://github.com/abedallarawashdeh"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/120130511?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>oob_entry tfp0 kernel exploit for armv7 iOS (iOS 3.0–10.3.4), using CVE-2023-32434. We will publish a write-up detailing the methods in the coming weeks. 🐙</div>",
             "url": "https://github.com/rkrakesh524/oob_entry",
             "title": "rkrakesh524/oob_entry: oob_entry tfp0 kernel exploit for armv7 iOS (iOS 3.0–10.3.4), using CVE-2023-32434. We will publish a write-up detailing the methods in the coming weeks. 🐙",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "CerberusMrXi",
                 "url": "https://github.com/CerberusMrXi"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/5783068?u=8ead6f35fa4c2d1fc565e6f080630d2bb299f41d&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2023-20198 &amp; 0Day Implant Scanner</div>",
-            "url": "https://github.com/ZephrFish/CVE-2023-20198-Checker",
-            "title": "ZephrFish/CVE-2023-20198-Checker: CVE-2023-20198 & 0Day Implant Scanner",
-            "date_modified": "2026-07-30T13:44:01.000Z",
-            "date_published": "2023-10-17T22:41:14.000Z",
-            "author": {
-                "name": "ZephrFish",
-                "url": "https://github.com/ZephrFish"
             }
         }
     ]

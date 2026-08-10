@@ -9,11 +9,22 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/182138871?u=5a625dbde10ddebc6f9772ae9e409b49e97a97f1&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Chrome extension that uses vulnerabilities CVE-2021-33044 and CVE-2021-33045 to log in to Dahua cameras without authentication.</div>",
             "url": "https://github.com/Bd-Mutant7/DahuaLoginBypass",
             "title": "Bd-Mutant7/DahuaLoginBypass: Chrome extension that uses vulnerabilities CVE-2021-33044 and CVE-2021-33045 to log in to Dahua cameras without authentication.",
-            "date_modified": "2026-08-10T18:30:29.000Z",
+            "date_modified": "2026-08-10T19:35:11.000Z",
             "date_published": "2026-03-28T17:42:44.000Z",
             "author": {
                 "name": "Bd-Mutant7",
                 "url": "https://github.com/Bd-Mutant7"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/33525376?u=177a058ea6ffc432fd541dea584d38013ebea77f&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2021-47881: Local stack buffer overflow in dataSIMS Avionics ARINC 664-1 v4.5.3 (CWE-121)</div>",
+            "url": "https://github.com/kagancapar/CVE-2021-47881",
+            "title": "kagancapar/CVE-2021-47881: CVE-2021-47881: Local stack buffer overflow in dataSIMS Avionics ARINC 664-1 v4.5.3 (CWE-121)",
+            "date_modified": "2026-08-10T18:47:04.000Z",
+            "date_published": "2026-08-10T18:43:45.000Z",
+            "author": {
+                "name": "kagancapar",
+                "url": "https://github.com/kagancapar"
             }
         },
         {
@@ -212,17 +223,6 @@
             "author": {
                 "name": "Hurrrraaaa",
                 "url": "https://github.com/Hurrrraaaa"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/49958238?u=44110b0c58b71743e59f62a5c0e7971d5828470e&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
-            "url": "https://github.com/thalpius/microsoft-cve-2021-1675",
-            "title": "thalpius/microsoft-cve-2021-1675",
-            "date_modified": "2026-08-02T18:44:20.000Z",
-            "date_published": "2021-07-16T18:06:05.000Z",
-            "author": {
-                "name": "thalpius",
-                "url": "https://github.com/thalpius"
             }
         }
     ]
