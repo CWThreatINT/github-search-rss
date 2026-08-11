@@ -9,22 +9,11 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/182138871?u=5a625dbde10ddebc6f9772ae9e409b49e97a97f1&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Chrome extension that uses vulnerabilities CVE-2021-33044 and CVE-2021-33045 to log in to Dahua cameras without authentication.</div>",
             "url": "https://github.com/Bd-Mutant7/DahuaLoginBypass",
             "title": "Bd-Mutant7/DahuaLoginBypass: Chrome extension that uses vulnerabilities CVE-2021-33044 and CVE-2021-33045 to log in to Dahua cameras without authentication.",
-            "date_modified": "2026-08-11T05:43:10.000Z",
+            "date_modified": "2026-08-11T06:38:33.000Z",
             "date_published": "2026-03-28T17:42:44.000Z",
             "author": {
                 "name": "Bd-Mutant7",
                 "url": "https://github.com/Bd-Mutant7"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/145964817?u=f127fe66fe4433098b851e98bb91f53ef46089e9&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>AI에게 CVE 분석을 시키고, AI가 낸 오류 6건을 공식 원문 대조로 잡아내 재발 방지 절차로 바꾼 기록. CVE-2021-41773 (Apache HTTP Server, CWE-22)</div>",
-            "url": "https://github.com/moovingGun/cve-harness-portfolio",
-            "title": "moovingGun/cve-harness-portfolio: AI에게 CVE 분석을 시키고, AI가 낸 오류 6건을 공식 원문 대조로 잡아내 재발 방지 절차로 바꾼 기록. CVE-2021-41773 (Apache HTTP Server, CWE-22)",
-            "date_modified": "2026-08-11T03:50:34.000Z",
-            "date_published": "2026-08-11T03:25:33.000Z",
-            "author": {
-                "name": "moovingGun",
-                "url": "https://github.com/moovingGun"
             }
         },
         {
@@ -223,6 +212,17 @@
             "author": {
                 "name": "sanasimran1403-jpg",
                 "url": "https://github.com/sanasimran1403-jpg"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/134332448?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>VMware vCenter Server CVE-2021-21972 (RCE) — vulnerability analysis, detection, and mitigation</div>",
+            "url": "https://github.com/Hurrrraaaa/CVE-2021-21972",
+            "title": "Hurrrraaaa/CVE-2021-21972: VMware vCenter Server CVE-2021-21972 (RCE) — vulnerability analysis, detection, and mitigation",
+            "date_modified": "2026-08-02T20:44:19.000Z",
+            "date_published": "2026-08-02T20:32:15.000Z",
+            "author": {
+                "name": "Hurrrraaaa",
+                "url": "https://github.com/Hurrrraaaa"
             }
         }
     ]
