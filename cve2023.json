@@ -6,6 +6,28 @@
     "description": "CVE-2023 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/312404851?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>VampSecure Labs: FortiOS CVE scanner (CVE-2018-13379, CVE-2022-40684, CVE-2023-27997, CVE-2024-21762)</div>",
+            "url": "https://github.com/Vampsecure-Labs/vamp-forticheck",
+            "title": "Vampsecure-Labs/vamp-forticheck: VampSecure Labs: FortiOS CVE scanner (CVE-2018-13379, CVE-2022-40684, CVE-2023-27997, CVE-2024-21762)",
+            "date_modified": "2026-08-11T10:29:04.000Z",
+            "date_published": "2026-07-31T10:13:19.000Z",
+            "author": {
+                "name": "Vampsecure-Labs",
+                "url": "https://github.com/Vampsecure-Labs"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/259967922?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Find the vulnerability your tests were never written to catch. A ReGrade demo modeling CVE-2023-5968: catch a password-hash leak by comparing an app to itself.</div>",
+            "url": "https://github.com/Curtail-Inc/hello-ReGrade-security",
+            "title": "Curtail-Inc/hello-ReGrade-security: Find the vulnerability your tests were never written to catch. A ReGrade demo modeling CVE-2023-5968: catch a password-hash leak by comparing an app to itself.",
+            "date_modified": "2026-08-11T10:26:57.000Z",
+            "date_published": "2026-07-04T00:48:09.000Z",
+            "author": {
+                "name": "Curtail-Inc",
+                "url": "https://github.com/Curtail-Inc"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/68657238?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
             "url": "https://github.com/MettHK/CVE-2023-48084-Revised",
             "title": "MettHK/CVE-2023-48084-Revised",
@@ -138,17 +160,6 @@
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/312404851?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>VampSecure Labs: FortiOS CVE scanner (CVE-2018-13379, CVE-2022-40684, CVE-2023-27997, CVE-2024-21762)</div>",
-            "url": "https://github.com/Vampsecure-Labs/vamp-forticheck",
-            "title": "Vampsecure-Labs/vamp-forticheck: VampSecure Labs: FortiOS CVE scanner (CVE-2018-13379, CVE-2022-40684, CVE-2023-27997, CVE-2024-21762)",
-            "date_modified": "2026-08-07T08:50:03.000Z",
-            "date_published": "2026-07-31T10:13:19.000Z",
-            "author": {
-                "name": "Vampsecure-Labs",
-                "url": "https://github.com/Vampsecure-Labs"
-            }
-        },
-        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/194424965?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2023-38831 WinRAR lab: detection with Sysmon/Wazuh, reverse engineering with Ghidra, patch analysis, and remediation.</div>",
             "url": "https://github.com/cristhiansm0/TXDXCristhian_2023-CVE-38831",
             "title": "cristhiansm0/TXDXCristhian_2023-CVE-38831: CVE-2023-38831 WinRAR lab: detection with Sysmon/Wazuh, reverse engineering with Ghidra, patch analysis, and remediation.",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "lypd0",
                 "url": "https://github.com/lypd0"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/110236495?u=5f58ffa652ca8ba8317161808785ea7a8b92ad9b&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div> Walkthrough for Codify (Linux - Easy). Exploits vm2 RCE (CVE-2023-30547), SQLite DB hash extraction, Bcrypt cracking with John, and Privilege Escalation via Bash wildcard comparison in `mysql-backup.sh`.</div>",
-            "url": "https://github.com/R3fr4kt/Codify-TJNULL-OSCP-",
-            "title": "R3fr4kt/Codify-TJNULL-OSCP-:  Walkthrough for Codify (Linux - Easy). Exploits vm2 RCE (CVE-2023-30547), SQLite DB hash extraction, Bcrypt cracking with John, and Privilege Escalation via Bash wildcard comparison in `mysql-backup.sh`.",
-            "date_modified": "2026-08-03T12:17:48.000Z",
-            "date_published": "2026-08-03T12:13:41.000Z",
-            "author": {
-                "name": "R3fr4kt",
-                "url": "https://github.com/R3fr4kt"
             }
         }
     ]
