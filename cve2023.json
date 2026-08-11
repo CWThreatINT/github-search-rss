@@ -6,6 +6,17 @@
     "description": "CVE-2023 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/259967922?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Find the vulnerability your tests were never written to catch. A ReGrade demo modeling CVE-2023-5968: catch a password-hash leak by comparing an app to itself.</div>",
+            "url": "https://github.com/Curtail-Inc/hello-ReGrade-security",
+            "title": "Curtail-Inc/hello-ReGrade-security: Find the vulnerability your tests were never written to catch. A ReGrade demo modeling CVE-2023-5968: catch a password-hash leak by comparing an app to itself.",
+            "date_modified": "2026-08-11T20:43:49.000Z",
+            "date_published": "2026-07-04T00:48:09.000Z",
+            "author": {
+                "name": "Curtail-Inc",
+                "url": "https://github.com/Curtail-Inc"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/50972716?u=e55eb23d9ab6f7a723a9dded438d4397b14566e0&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Weblogic CVE-2023-21839 RCE (无需Java依赖一键RCE)</div>",
             "url": "https://github.com/ASkyeye/CVE-2023-21839",
             "title": "ASkyeye/CVE-2023-21839: Weblogic CVE-2023-21839 RCE (无需Java依赖一键RCE)",
@@ -25,17 +36,6 @@
             "author": {
                 "name": "Vampsecure-Labs",
                 "url": "https://github.com/Vampsecure-Labs"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/259967922?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Find the vulnerability your tests were never written to catch. A ReGrade demo modeling CVE-2023-5968: catch a password-hash leak by comparing an app to itself.</div>",
-            "url": "https://github.com/Curtail-Inc/hello-ReGrade-security",
-            "title": "Curtail-Inc/hello-ReGrade-security: Find the vulnerability your tests were never written to catch. A ReGrade demo modeling CVE-2023-5968: catch a password-hash leak by comparing an app to itself.",
-            "date_modified": "2026-08-11T10:26:57.000Z",
-            "date_published": "2026-07-04T00:48:09.000Z",
-            "author": {
-                "name": "Curtail-Inc",
-                "url": "https://github.com/Curtail-Inc"
             }
         },
         {

@@ -6,10 +6,21 @@
     "description": "CVE-2022 FEED on GitHub",
     "items": [
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/92465650?u=4bde230b921bb6355dd3b70ba82a42c35501ca1d&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>PoC exploit for CVE-2022-35914 — GLPI htmLawed command injection, command execution, and reverse shell support.</div>",
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/68686790?u=ed4d88445780adb05173d6f07d8ed85d9a62bd46&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>This is a collection of Unisoc BootROMs i've dumped from various Unisoc chipsets via CVE-2022-38694</div>",
+            "url": "https://github.com/mutur4/UnisocBootROMs",
+            "title": "mutur4/UnisocBootROMs: This is a collection of Unisoc BootROMs i've dumped from various Unisoc chipsets via CVE-2022-38694",
+            "date_modified": "2026-08-11T21:08:39.000Z",
+            "date_published": "2026-06-22T07:48:50.000Z",
+            "author": {
+                "name": "mutur4",
+                "url": "https://github.com/mutur4"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/92465650?u=4bde230b921bb6355dd3b70ba82a42c35501ca1d&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>PoC exploit for CVE-2022-35914 — GLPI v.10.0.2 htmLawed command injection, command execution, and reverse shell support.</div>",
             "url": "https://github.com/cyb3rk0ala/CVE-2022-35914-RCE",
-            "title": "cyb3rk0ala/CVE-2022-35914-RCE: PoC exploit for CVE-2022-35914 — GLPI htmLawed command injection, command execution, and reverse shell support.",
-            "date_modified": "2026-08-11T15:48:33.000Z",
+            "title": "cyb3rk0ala/CVE-2022-35914-RCE: PoC exploit for CVE-2022-35914 — GLPI v.10.0.2 htmLawed command injection, command execution, and reverse shell support.",
+            "date_modified": "2026-08-11T21:03:13.000Z",
             "date_published": "2026-08-11T14:42:31.000Z",
             "author": {
                 "name": "cyb3rk0ala",
@@ -209,17 +220,6 @@
             "title": "ZephrFish/NotProxyShellScanner: Python implementation for NotProxyShell aka CVE-2022-40140 & CVE-2022-41082",
             "date_modified": "2026-07-30T13:44:53.000Z",
             "date_published": "2022-10-07T08:10:00.000Z",
-            "author": {
-                "name": "ZephrFish",
-                "url": "https://github.com/ZephrFish"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/5783068?u=8ead6f35fa4c2d1fc565e6f080630d2bb299f41d&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Exploit and Check Script for CVE 2022-1388</div>",
-            "url": "https://github.com/ZephrFish/F5-CVE-2022-1388-Exploit",
-            "title": "ZephrFish/F5-CVE-2022-1388-Exploit: Exploit and Check Script for CVE 2022-1388",
-            "date_modified": "2026-07-30T13:43:53.000Z",
-            "date_published": "2022-05-09T11:30:09.000Z",
             "author": {
                 "name": "ZephrFish",
                 "url": "https://github.com/ZephrFish"
