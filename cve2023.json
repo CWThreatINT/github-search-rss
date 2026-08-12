@@ -6,6 +6,17 @@
     "description": "CVE-2023 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/259967922?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Find the vulnerability your tests were never written to catch. A ReGrade demo modeling CVE-2023-5968: catch a password-hash leak by comparing an app to itself.</div>",
+            "url": "https://github.com/Curtail-Inc/hello-ReGrade-security",
+            "title": "Curtail-Inc/hello-ReGrade-security: Find the vulnerability your tests were never written to catch. A ReGrade demo modeling CVE-2023-5968: catch a password-hash leak by comparing an app to itself.",
+            "date_modified": "2026-08-12T19:36:45.000Z",
+            "date_published": "2026-07-04T00:48:09.000Z",
+            "author": {
+                "name": "Curtail-Inc",
+                "url": "https://github.com/Curtail-Inc"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/312404851?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>VampSecure Labs: FortiOS CVE scanner (CVE-2018-13379, CVE-2022-40684, CVE-2023-27997, CVE-2024-21762)</div>",
             "url": "https://github.com/Vampsecure-Labs/vamp-forticheck",
             "title": "Vampsecure-Labs/vamp-forticheck: VampSecure Labs: FortiOS CVE scanner (CVE-2018-13379, CVE-2022-40684, CVE-2023-27997, CVE-2024-21762)",
@@ -25,17 +36,6 @@
             "author": {
                 "name": "GhostTroops",
                 "url": "https://github.com/GhostTroops"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/259967922?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Find the vulnerability your tests were never written to catch. A ReGrade demo modeling CVE-2023-5968: catch a password-hash leak by comparing an app to itself.</div>",
-            "url": "https://github.com/Curtail-Inc/hello-ReGrade-security",
-            "title": "Curtail-Inc/hello-ReGrade-security: Find the vulnerability your tests were never written to catch. A ReGrade demo modeling CVE-2023-5968: catch a password-hash leak by comparing an app to itself.",
-            "date_modified": "2026-08-11T20:43:49.000Z",
-            "date_published": "2026-07-04T00:48:09.000Z",
-            "author": {
-                "name": "Curtail-Inc",
-                "url": "https://github.com/Curtail-Inc"
             }
         },
         {
