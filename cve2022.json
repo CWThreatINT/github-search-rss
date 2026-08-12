@@ -6,6 +6,17 @@
     "description": "CVE-2022 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/149047505?u=36a24193578d526772896a60a78eaa894f86f461&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>PoC Exploit for blind SSRF in XML-RPC Wordpress</div>",
+            "url": "https://github.com/4chech/CVE-2022-3590",
+            "title": "4chech/CVE-2022-3590: PoC Exploit for blind SSRF in XML-RPC Wordpress",
+            "date_modified": "2026-08-12T04:26:34.000Z",
+            "date_published": "2026-08-12T04:26:33.000Z",
+            "author": {
+                "name": "4chech",
+                "url": "https://github.com/4chech"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/48816467?u=44e716aa9d94351faa89a86f0ba0d9bdd3b27a89&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2022-22947 Exploit script</div>",
             "url": "https://github.com/Arrnitage/CVE-2022-22947_exp",
             "title": "Arrnitage/CVE-2022-22947_exp: CVE-2022-22947 Exploit script",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "ilizavr",
                 "url": "https://github.com/ilizavr"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/152012008?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2022-24903 Heap-based buffer overflow </div>",
-            "url": "https://github.com/andree554/CVE-2022-24903-Heap-based-buffer-overflow-Hand-On-Lab",
-            "title": "andree554/CVE-2022-24903-Heap-based-buffer-overflow-Hand-On-Lab: CVE-2022-24903 Heap-based buffer overflow ",
-            "date_modified": "2026-07-30T21:49:14.000Z",
-            "date_published": "2026-07-30T21:47:40.000Z",
-            "author": {
-                "name": "andree554",
-                "url": "https://github.com/andree554"
             }
         }
     ]
