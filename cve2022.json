@@ -83,6 +83,17 @@
             }
         },
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/1097185?u=4337166dec782aa1312084b6fb92cc4e0f78865b&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2022-22077 is a high-severity vulnerability (CVSS score 7.8) affecting the RTCore64.sys driver distributed with MSI Center</div>",
+            "url": "https://github.com/grisuno/CVE-2022-22077",
+            "title": "grisuno/CVE-2022-22077: CVE-2022-22077 is a high-severity vulnerability (CVSS score 7.8) affecting the RTCore64.sys driver distributed with MSI Center",
+            "date_modified": "2026-06-19T21:56:25.000Z",
+            "date_published": "2025-09-08T21:12:19.000Z",
+            "author": {
+                "name": "grisuno",
+                "url": "https://github.com/grisuno"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/88181924?u=f10d6f4f37e85c8a7339d69b5fc375d22f36c318&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Bootloader unlock (CVE-2022-38694) &amp; root guide for Realme C53 / RMX3760 (Unisoc T612)</div>",
             "url": "https://github.com/Gopartner/realme-c53-unlock-root",
             "title": "Gopartner/realme-c53-unlock-root: Bootloader unlock (CVE-2022-38694) & root guide for Realme C53 / RMX3760 (Unisoc T612)",
@@ -209,17 +220,6 @@
             "title": "ilizavr/CVE-2022-24355: Tplink wr841 v10 rce exploit without authorisation ",
             "date_modified": "2026-08-07T02:02:51.000Z",
             "date_published": "2026-07-30T11:08:36.000Z",
-            "author": {
-                "name": "ilizavr",
-                "url": "https://github.com/ilizavr"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/84659093?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Tplink wr841 v10 rce exploit</div>",
-            "url": "https://github.com/ilizavr/CVE-2022-30024",
-            "title": "ilizavr/CVE-2022-30024: Tplink wr841 v10 rce exploit",
-            "date_modified": "2026-08-07T02:02:47.000Z",
-            "date_published": "2026-07-28T09:43:58.000Z",
             "author": {
                 "name": "ilizavr",
                 "url": "https://github.com/ilizavr"
