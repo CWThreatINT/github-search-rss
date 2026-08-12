@@ -6,6 +6,17 @@
     "description": "CVE-2022 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/48816467?u=44e716aa9d94351faa89a86f0ba0d9bdd3b27a89&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2022-22947 Exploit script</div>",
+            "url": "https://github.com/Arrnitage/CVE-2022-22947_exp",
+            "title": "Arrnitage/CVE-2022-22947_exp: CVE-2022-22947 Exploit script",
+            "date_modified": "2026-08-12T01:57:03.000Z",
+            "date_published": "2022-03-10T03:51:47.000Z",
+            "author": {
+                "name": "Arrnitage",
+                "url": "https://github.com/Arrnitage"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/68686790?u=ed4d88445780adb05173d6f07d8ed85d9a62bd46&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>This is a collection of Unisoc BootROMs i've dumped from various Unisoc chipsets via CVE-2022-38694</div>",
             "url": "https://github.com/mutur4/UnisocBootROMs",
             "title": "mutur4/UnisocBootROMs: This is a collection of Unisoc BootROMs i've dumped from various Unisoc chipsets via CVE-2022-38694",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "andree554",
                 "url": "https://github.com/andree554"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/5783068?u=8ead6f35fa4c2d1fc565e6f080630d2bb299f41d&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Python implementation for NotProxyShell aka CVE-2022-40140 &amp; CVE-2022-41082</div>",
-            "url": "https://github.com/ZephrFish/NotProxyShellScanner",
-            "title": "ZephrFish/NotProxyShellScanner: Python implementation for NotProxyShell aka CVE-2022-40140 & CVE-2022-41082",
-            "date_modified": "2026-07-30T13:44:53.000Z",
-            "date_published": "2022-10-07T08:10:00.000Z",
-            "author": {
-                "name": "ZephrFish",
-                "url": "https://github.com/ZephrFish"
             }
         }
     ]
