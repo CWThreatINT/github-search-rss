@@ -6,6 +6,17 @@
     "description": "CVE-2023 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/259967922?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Find the vulnerability your tests were never written to catch. A ReGrade demo modeling CVE-2023-5968: catch a password-hash leak by comparing an app to itself.</div>",
+            "url": "https://github.com/Curtail-Inc/hello-ReGrade-security",
+            "title": "Curtail-Inc/hello-ReGrade-security: Find the vulnerability your tests were never written to catch. A ReGrade demo modeling CVE-2023-5968: catch a password-hash leak by comparing an app to itself.",
+            "date_modified": "2026-08-13T21:32:15.000Z",
+            "date_published": "2026-07-04T00:48:09.000Z",
+            "author": {
+                "name": "Curtail-Inc",
+                "url": "https://github.com/Curtail-Inc"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/120130511?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>oob_entry tfp0 kernel exploit for armv7 iOS (iOS 3.0–10.3.4), using CVE-2023-32434. We will publish a write-up detailing the methods in the coming weeks. 🐙</div>",
             "url": "https://github.com/rkrakesh524/oob_entry",
             "title": "rkrakesh524/oob_entry: oob_entry tfp0 kernel exploit for armv7 iOS (iOS 3.0–10.3.4), using CVE-2023-32434. We will publish a write-up detailing the methods in the coming weeks. 🐙",
@@ -36,17 +47,6 @@
             "author": {
                 "name": "GhostTroops",
                 "url": "https://github.com/GhostTroops"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/259967922?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Find the vulnerability your tests were never written to catch. A ReGrade demo modeling CVE-2023-5968: catch a password-hash leak by comparing an app to itself.</div>",
-            "url": "https://github.com/Curtail-Inc/hello-ReGrade-security",
-            "title": "Curtail-Inc/hello-ReGrade-security: Find the vulnerability your tests were never written to catch. A ReGrade demo modeling CVE-2023-5968: catch a password-hash leak by comparing an app to itself.",
-            "date_modified": "2026-08-12T19:36:45.000Z",
-            "date_published": "2026-07-04T00:48:09.000Z",
-            "author": {
-                "name": "Curtail-Inc",
-                "url": "https://github.com/Curtail-Inc"
             }
         },
         {
