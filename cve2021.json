@@ -9,11 +9,22 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/182138871?u=5a625dbde10ddebc6f9772ae9e409b49e97a97f1&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Chrome extension that uses vulnerabilities CVE-2021-33044 and CVE-2021-33045 to log in to Dahua cameras without authentication.</div>",
             "url": "https://github.com/Bd-Mutant7/DahuaLoginBypass",
             "title": "Bd-Mutant7/DahuaLoginBypass: Chrome extension that uses vulnerabilities CVE-2021-33044 and CVE-2021-33045 to log in to Dahua cameras without authentication.",
-            "date_modified": "2026-08-14T08:49:29.000Z",
+            "date_modified": "2026-08-14T09:47:18.000Z",
             "date_published": "2026-03-28T17:42:44.000Z",
             "author": {
                 "name": "Bd-Mutant7",
                 "url": "https://github.com/Bd-Mutant7"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/3677559?u=be3b5bd8f650ebb8146c4af743a5bbadf897de92&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
+            "url": "https://github.com/nu11secur1ty/CVE-2021-44228-VULN-APP",
+            "title": "nu11secur1ty/CVE-2021-44228-VULN-APP",
+            "date_modified": "2026-08-14T09:25:51.000Z",
+            "date_published": "2021-12-17T18:45:19.000Z",
+            "author": {
+                "name": "nu11secur1ty",
+                "url": "https://github.com/nu11secur1ty"
             }
         },
         {
@@ -212,17 +223,6 @@
             "author": {
                 "name": "lucastran05",
                 "url": "https://github.com/lucastran05"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/177889778?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Splunk SIEM lab simulating and detecting CVE-2021-34527 (PrintNightmare) exploitation using Sysmon, Windows Event logs, and custom SPL detection rules.</div>",
-            "url": "https://github.com/joertx07/printnightmare-detection-lab",
-            "title": "joertx07/printnightmare-detection-lab: Splunk SIEM lab simulating and detecting CVE-2021-34527 (PrintNightmare) exploitation using Sysmon, Windows Event logs, and custom SPL detection rules.",
-            "date_modified": "2026-08-04T22:15:20.000Z",
-            "date_published": "2026-08-04T21:22:33.000Z",
-            "author": {
-                "name": "joertx07",
-                "url": "https://github.com/joertx07"
             }
         }
     ]
