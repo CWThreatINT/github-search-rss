@@ -6,6 +6,17 @@
     "description": "CVE-2022 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/130175558?u=407a42c1bdd399e36a297d4d31c419f8a21a72cf&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>PoC for CVE-2022-3218</div>",
+            "url": "https://github.com/mermehr/MouseServer-1.7.8.5-RCE",
+            "title": "mermehr/MouseServer-1.7.8.5-RCE: PoC for CVE-2022-3218",
+            "date_modified": "2026-08-15T17:58:08.000Z",
+            "date_published": "2026-08-15T17:50:46.000Z",
+            "author": {
+                "name": "mermehr",
+                "url": "https://github.com/mermehr"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/100864630?u=2b27af0afe6e186bb841e10e3b487b2ebd91f0a5&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
             "url": "https://github.com/aykhan019/cve-2022-1471-jira-lab",
             "title": "aykhan019/cve-2022-1471-jira-lab",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "byt3quester",
                 "url": "https://github.com/byt3quester"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/68865673?u=91ec9e7e4579a5220ca9f2f8b6f20e100aec4ec3&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A bash script for easyly exploiting ImageMagick Arbitrary File Read Vulnerability CVE-2022-44268</div>",
-            "url": "https://github.com/atici/ImageMagick-CVE-2022-44268-PoC",
-            "title": "atici/ImageMagick-CVE-2022-44268-PoC: A bash script for easyly exploiting ImageMagick Arbitrary File Read Vulnerability CVE-2022-44268",
-            "date_modified": "2026-07-31T14:30:39.000Z",
-            "date_published": "2023-09-05T17:16:06.000Z",
-            "author": {
-                "name": "atici",
-                "url": "https://github.com/atici"
             }
         }
     ]
