@@ -9,11 +9,22 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/182138871?u=5a625dbde10ddebc6f9772ae9e409b49e97a97f1&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Chrome extension that uses vulnerabilities CVE-2021-33044 and CVE-2021-33045 to log in to Dahua cameras without authentication.</div>",
             "url": "https://github.com/Bd-Mutant7/DahuaLoginBypass",
             "title": "Bd-Mutant7/DahuaLoginBypass: Chrome extension that uses vulnerabilities CVE-2021-33044 and CVE-2021-33045 to log in to Dahua cameras without authentication.",
-            "date_modified": "2026-08-14T23:59:38.000Z",
+            "date_modified": "2026-08-15T01:44:20.000Z",
             "date_published": "2026-03-28T17:42:44.000Z",
             "author": {
                 "name": "Bd-Mutant7",
                 "url": "https://github.com/Bd-Mutant7"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/125031545?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
+            "url": "https://github.com/DuyDuongDuyDuong/CVE-2021-36934-DLL-Hijacking-DFIR-Investigation",
+            "title": "DuyDuongDuyDuong/CVE-2021-36934-DLL-Hijacking-DFIR-Investigation",
+            "date_modified": "2026-08-15T01:27:02.000Z",
+            "date_published": "2026-08-15T01:16:56.000Z",
+            "author": {
+                "name": "DuyDuongDuyDuong",
+                "url": "https://github.com/DuyDuongDuyDuong"
             }
         },
         {
@@ -212,17 +223,6 @@
             "author": {
                 "name": "yili-soc",
                 "url": "https://github.com/yili-soc"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/31022473?u=d73a36f0fd9abb6490093acf1a834ab9378c96e4&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A Java Agent that disables Apache Log4J's JNDI Lookup to mitigate CVE-2021-44228 (\"Log4Shell\").</div>",
-            "url": "https://github.com/winnpixie/log4noshell",
-            "title": "winnpixie/log4noshell: A Java Agent that disables Apache Log4J's JNDI Lookup to mitigate CVE-2021-44228 (\"Log4Shell\").",
-            "date_modified": "2026-08-06T18:36:52.000Z",
-            "date_published": "2021-12-10T21:59:31.000Z",
-            "author": {
-                "name": "winnpixie",
-                "url": "https://github.com/winnpixie"
             }
         }
     ]
