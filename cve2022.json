@@ -6,6 +6,17 @@
     "description": "CVE-2022 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/116545095?u=c7daa96e76e3b0221faf5c19667b4f6cd3c5aca1&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
+            "url": "https://github.com/uname1able/CVE-2022-24481-analysis",
+            "title": "uname1able/CVE-2022-24481-analysis",
+            "date_modified": "2026-08-16T06:07:39.000Z",
+            "date_published": "2026-08-16T06:06:27.000Z",
+            "author": {
+                "name": "uname1able",
+                "url": "https://github.com/uname1able"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/130175558?u=407a42c1bdd399e36a297d4d31c419f8a21a72cf&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>PoC for CVE-2022-3218</div>",
             "url": "https://github.com/mermehr/MouseServer-1.7.8.5-RCE",
             "title": "mermehr/MouseServer-1.7.8.5-RCE: PoC for CVE-2022-3218",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "stfnw",
                 "url": "https://github.com/stfnw"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/114046524?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
-            "url": "https://github.com/byt3quester/CVE-2022-22706-poc",
-            "title": "byt3quester/CVE-2022-22706-poc",
-            "date_modified": "2026-07-31T19:33:11.000Z",
-            "date_published": "2026-07-31T19:26:50.000Z",
-            "author": {
-                "name": "byt3quester",
-                "url": "https://github.com/byt3quester"
             }
         }
     ]
