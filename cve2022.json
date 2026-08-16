@@ -6,6 +6,17 @@
     "description": "CVE-2022 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/278274242?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Demonstrate local privilege escalation in networkd-dispatcher via CVE-2022-29799 and CVE-2022-29800 using this C proof of concept.</div>",
+            "url": "https://github.com/pansyhebephrenic23/NimbusPWN-CVE-2022-29799-29800",
+            "title": "pansyhebephrenic23/NimbusPWN-CVE-2022-29799-29800: Demonstrate local privilege escalation in networkd-dispatcher via CVE-2022-29799 and CVE-2022-29800 using this C proof of concept.",
+            "date_modified": "2026-08-16T16:40:25.000Z",
+            "date_published": "2026-06-23T14:05:18.000Z",
+            "author": {
+                "name": "pansyhebephrenic23",
+                "url": "https://github.com/pansyhebephrenic23"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/116545095?u=c7daa96e76e3b0221faf5c19667b4f6cd3c5aca1&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
             "url": "https://github.com/uname1able/CVE-2022-24481-analysis",
             "title": "uname1able/CVE-2022-24481-analysis",
@@ -36,17 +47,6 @@
             "author": {
                 "name": "aykhan019",
                 "url": "https://github.com/aykhan019"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/278274242?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Demonstrate local privilege escalation in networkd-dispatcher via CVE-2022-29799 and CVE-2022-29800 using this C proof of concept.</div>",
-            "url": "https://github.com/pansyhebephrenic23/NimbusPWN-CVE-2022-29799-29800",
-            "title": "pansyhebephrenic23/NimbusPWN-CVE-2022-29799-29800: Demonstrate local privilege escalation in networkd-dispatcher via CVE-2022-29799 and CVE-2022-29800 using this C proof of concept.",
-            "date_modified": "2026-08-14T02:18:25.000Z",
-            "date_published": "2026-06-23T14:05:18.000Z",
-            "author": {
-                "name": "pansyhebephrenic23",
-                "url": "https://github.com/pansyhebephrenic23"
             }
         },
         {
