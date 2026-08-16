@@ -9,11 +9,33 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/182138871?u=5a625dbde10ddebc6f9772ae9e409b49e97a97f1&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Chrome extension that uses vulnerabilities CVE-2021-33044 and CVE-2021-33045 to log in to Dahua cameras without authentication.</div>",
             "url": "https://github.com/Bd-Mutant7/DahuaLoginBypass",
             "title": "Bd-Mutant7/DahuaLoginBypass: Chrome extension that uses vulnerabilities CVE-2021-33044 and CVE-2021-33045 to log in to Dahua cameras without authentication.",
-            "date_modified": "2026-08-16T15:01:41.000Z",
+            "date_modified": "2026-08-16T15:51:53.000Z",
             "date_published": "2026-03-28T17:42:44.000Z",
             "author": {
                 "name": "Bd-Mutant7",
                 "url": "https://github.com/Bd-Mutant7"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/282130403?u=dd654d7a8e0b5c0a5485a9f7100d180746104abe&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Security hardening toolkit for COBOL legacy — detects Trojan Source (CVE-2021-42574) and Glassworm invisible Unicode in GnuCOBOL / Zowe pipelines</div>",
+            "url": "https://github.com/LuisCastellanos-dev/cobol-shield",
+            "title": "LuisCastellanos-dev/cobol-shield: Security hardening toolkit for COBOL legacy — detects Trojan Source (CVE-2021-42574) and Glassworm invisible Unicode in GnuCOBOL / Zowe pipelines",
+            "date_modified": "2026-08-16T15:45:10.000Z",
+            "date_published": "2026-08-12T23:01:35.000Z",
+            "author": {
+                "name": "LuisCastellanos-dev",
+                "url": "https://github.com/LuisCastellanos-dev"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/109800286?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Error-based blind SQL injection with bit-shifting approach for Moodle 3.10.4</div>",
+            "url": "https://github.com/StackOverflowExcept1on/CVE-2021-36393",
+            "title": "StackOverflowExcept1on/CVE-2021-36393: Error-based blind SQL injection with bit-shifting approach for Moodle 3.10.4",
+            "date_modified": "2026-08-16T15:30:32.000Z",
+            "date_published": "2023-10-27T17:13:55.000Z",
+            "author": {
+                "name": "StackOverflowExcept1on",
+                "url": "https://github.com/StackOverflowExcept1on"
             }
         },
         {
@@ -25,17 +47,6 @@
             "author": {
                 "name": "rakib-nyc",
                 "url": "https://github.com/rakib-nyc"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/282130403?u=dd654d7a8e0b5c0a5485a9f7100d180746104abe&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Security hardening toolkit for COBOL legacy — detects Trojan Source (CVE-2021-42574) and Glassworm invisible Unicode in GnuCOBOL / Zowe pipelines</div>",
-            "url": "https://github.com/LuisCastellanos-dev/cobol-shield",
-            "title": "LuisCastellanos-dev/cobol-shield: Security hardening toolkit for COBOL legacy — detects Trojan Source (CVE-2021-42574) and Glassworm invisible Unicode in GnuCOBOL / Zowe pipelines",
-            "date_modified": "2026-08-15T22:01:51.000Z",
-            "date_published": "2026-08-12T23:01:35.000Z",
-            "author": {
-                "name": "LuisCastellanos-dev",
-                "url": "https://github.com/LuisCastellanos-dev"
             }
         },
         {
@@ -212,17 +223,6 @@
             "author": {
                 "name": "AhndreWalters",
                 "url": "https://github.com/AhndreWalters"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/93591423?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
-            "url": "https://github.com/Giangdurian/CVE-2021-3129",
-            "title": "Giangdurian/CVE-2021-3129",
-            "date_modified": "2026-08-07T14:50:57.000Z",
-            "date_published": "2026-08-07T14:46:50.000Z",
-            "author": {
-                "name": "Giangdurian",
-                "url": "https://github.com/Giangdurian"
             }
         }
     ]
