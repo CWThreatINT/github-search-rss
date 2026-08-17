@@ -9,11 +9,22 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/182138871?u=5a625dbde10ddebc6f9772ae9e409b49e97a97f1&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Chrome extension that uses vulnerabilities CVE-2021-33044 and CVE-2021-33045 to log in to Dahua cameras without authentication.</div>",
             "url": "https://github.com/Bd-Mutant7/DahuaLoginBypass",
             "title": "Bd-Mutant7/DahuaLoginBypass: Chrome extension that uses vulnerabilities CVE-2021-33044 and CVE-2021-33045 to log in to Dahua cameras without authentication.",
-            "date_modified": "2026-08-17T00:23:55.000Z",
+            "date_modified": "2026-08-17T02:02:17.000Z",
             "date_published": "2026-03-28T17:42:44.000Z",
             "author": {
                 "name": "Bd-Mutant7",
                 "url": "https://github.com/Bd-Mutant7"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/217349927?u=4a8658dfb7494d0293707cf3c4e800eed3cd0017&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>An autonomous reflective Go agent for full-cycle security auditing, WAF evasion, OOB LDAP verification, self-remediation (auto-patching), and compliance reporting for CVE-2021-44228 (Log4Shell).</div>",
+            "url": "https://github.com/C00LN3T/Log4ShellAuditor",
+            "title": "C00LN3T/Log4ShellAuditor: An autonomous reflective Go agent for full-cycle security auditing, WAF evasion, OOB LDAP verification, self-remediation (auto-patching), and compliance reporting for CVE-2021-44228 (Log4Shell).",
+            "date_modified": "2026-08-17T00:54:29.000Z",
+            "date_published": "2026-05-31T23:20:17.000Z",
+            "author": {
+                "name": "C00LN3T",
+                "url": "https://github.com/C00LN3T"
             }
         },
         {
@@ -212,17 +223,6 @@
             "author": {
                 "name": "CerberusMrXi",
                 "url": "https://github.com/CerberusMrXi"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/120767274?u=f76175596c945d05a2b6b456783d4064b0d90542&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Hands-on homelab simulating the Log4Shell (CVE-2021-44228) vulnerability. Deploy Docker containers to build a vulnerable target and attacker machine, execute the exploit, and implement security mitigations. Perfect for learning offensive security and application hardening.</div>",
-            "url": "https://github.com/AhndreWalters/ProjectSecurity-Homelab",
-            "title": "AhndreWalters/ProjectSecurity-Homelab: Hands-on homelab simulating the Log4Shell (CVE-2021-44228) vulnerability. Deploy Docker containers to build a vulnerable target and attacker machine, execute the exploit, and implement security mitigations. Perfect for learning offensive security and application hardening.",
-            "date_modified": "2026-08-07T15:24:13.000Z",
-            "date_published": "2026-08-07T15:13:45.000Z",
-            "author": {
-                "name": "AhndreWalters",
-                "url": "https://github.com/AhndreWalters"
             }
         }
     ]
