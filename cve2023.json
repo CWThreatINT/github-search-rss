@@ -6,6 +6,17 @@
     "description": "CVE-2023 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/151980876?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>TOP All bugbounty pentesting CVE-2023- POC Exp  RCE example payload  Things</div>",
+            "url": "https://github.com/GhostTroops/TOP",
+            "title": "GhostTroops/TOP: TOP All bugbounty pentesting CVE-2023- POC Exp  RCE example payload  Things",
+            "date_modified": "2026-08-18T00:57:18.000Z",
+            "date_published": "2022-03-19T01:54:15.000Z",
+            "author": {
+                "name": "GhostTroops",
+                "url": "https://github.com/GhostTroops"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/158209500?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>HTTP Request Smuggling lab: Apache 2.4.55 CRLF injection</div>",
             "url": "https://github.com/giordy0424/CVE-2023-25690_lab",
             "title": "giordy0424/CVE-2023-25690_lab: HTTP Request Smuggling lab: Apache 2.4.55 CRLF injection",
@@ -25,17 +36,6 @@
             "author": {
                 "name": "rkrakesh524",
                 "url": "https://github.com/rkrakesh524"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/151980876?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>TOP All bugbounty pentesting CVE-2023- POC Exp  RCE example payload  Things</div>",
-            "url": "https://github.com/GhostTroops/TOP",
-            "title": "GhostTroops/TOP: TOP All bugbounty pentesting CVE-2023- POC Exp  RCE example payload  Things",
-            "date_modified": "2026-08-17T00:58:20.000Z",
-            "date_published": "2022-03-19T01:54:15.000Z",
-            "author": {
-                "name": "GhostTroops",
-                "url": "https://github.com/GhostTroops"
             }
         },
         {
@@ -108,7 +108,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/50972716?u=e55eb23d9ab6f7a723a9dded438d4397b14566e0&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Weblogic CVE-2023-21839 RCE (无需Java依赖一键RCE)</div>",
             "url": "https://github.com/ASkyeye/CVE-2023-21839",
             "title": "ASkyeye/CVE-2023-21839: Weblogic CVE-2023-21839 RCE (无需Java依赖一键RCE)",
-            "date_modified": "2026-08-15T17:21:15.000Z",
+            "date_modified": "2026-08-18T01:38:13.000Z",
             "date_published": "2023-02-24T13:54:42.000Z",
             "author": {
                 "name": "ASkyeye",
