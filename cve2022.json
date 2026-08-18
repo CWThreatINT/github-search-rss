@@ -6,17 +6,6 @@
     "description": "CVE-2022 FEED on GitHub",
     "items": [
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/96465568?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
-            "url": "https://github.com/curls0206/gitpython-cve-2022-24439",
-            "title": "curls0206/gitpython-cve-2022-24439",
-            "date_modified": "2026-08-18T08:55:18.000Z",
-            "date_published": "2026-08-18T08:53:33.000Z",
-            "author": {
-                "name": "curls0206",
-                "url": "https://github.com/curls0206"
-            }
-        },
-        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/10024821?u=03f7bca9d9a7a10f36a999044b0481a101b25da6&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>UNISOC BootROM/FDL flasher for macOS: patched spd_dump with CVE-2022-38694 exec_addr2, protocol reference, partition rules, backup verification (UMS9621)</div>",
             "url": "https://github.com/xun404/spd_dump-macos",
             "title": "xun404/spd_dump-macos: UNISOC BootROM/FDL flasher for macOS: patched spd_dump with CVE-2022-38694 exec_addr2, protocol reference, partition rules, backup verification (UMS9621)",
@@ -223,6 +212,17 @@
             "author": {
                 "name": "PrinceH4k",
                 "url": "https://github.com/PrinceH4k"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/120370770?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
+            "url": "https://github.com/siboy17/CVE-2022-21907-http.sys",
+            "title": "siboy17/CVE-2022-21907-http.sys",
+            "date_modified": "2026-08-03T11:41:48.000Z",
+            "date_published": "2026-08-03T11:39:18.000Z",
+            "author": {
+                "name": "siboy17",
+                "url": "https://github.com/siboy17"
             }
         }
     ]
