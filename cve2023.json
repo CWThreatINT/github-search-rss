@@ -6,6 +6,17 @@
     "description": "CVE-2023 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/231287694?u=a2a727458281fac68945a4de875df4a39bf531ae&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
+            "url": "https://github.com/stefanotractor/activemq-cve-2023-46604-lab",
+            "title": "stefanotractor/activemq-cve-2023-46604-lab",
+            "date_modified": "2026-08-19T12:06:53.000Z",
+            "date_published": "2026-08-19T12:04:13.000Z",
+            "author": {
+                "name": "stefanotractor",
+                "url": "https://github.com/stefanotractor"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/151980876?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>TOP All bugbounty pentesting CVE-2023- POC Exp  RCE example payload  Things</div>",
             "url": "https://github.com/GhostTroops/TOP",
             "title": "GhostTroops/TOP: TOP All bugbounty pentesting CVE-2023- POC Exp  RCE example payload  Things",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "joaoaugustom",
                 "url": "https://github.com/joaoaugustom"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/194424965?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2023-38831 WinRAR lab: detection with Sysmon/Wazuh, reverse engineering with Ghidra, patch analysis, and remediation.</div>",
-            "url": "https://github.com/cristhiansm0/TXDXCristhian_2023-CVE-38831",
-            "title": "cristhiansm0/TXDXCristhian_2023-CVE-38831: CVE-2023-38831 WinRAR lab: detection with Sysmon/Wazuh, reverse engineering with Ghidra, patch analysis, and remediation.",
-            "date_modified": "2026-08-07T02:06:13.000Z",
-            "date_published": "2026-08-05T00:28:12.000Z",
-            "author": {
-                "name": "cristhiansm0",
-                "url": "https://github.com/cristhiansm0"
             }
         }
     ]
