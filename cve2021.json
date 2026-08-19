@@ -6,14 +6,36 @@
     "description": "CVE-2021 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/99209515?u=c63e0202a0bfdc63d133665a63f17ec8d70c10eb&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Unlock the Meta Quest 1 bootloader and gain root access using GhostLock + CVE-2021-1931.</div>",
+            "url": "https://github.com/starseed12345/QuestStack",
+            "title": "starseed12345/QuestStack: Unlock the Meta Quest 1 bootloader and gain root access using GhostLock + CVE-2021-1931.",
+            "date_modified": "2026-08-19T14:18:47.000Z",
+            "date_published": "2026-07-31T05:37:56.000Z",
+            "author": {
+                "name": "starseed12345",
+                "url": "https://github.com/starseed12345"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/182138871?u=5a625dbde10ddebc6f9772ae9e409b49e97a97f1&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Chrome extension that uses vulnerabilities CVE-2021-33044 and CVE-2021-33045 to log in to Dahua cameras without authentication.</div>",
             "url": "https://github.com/Bd-Mutant7/DahuaLoginBypass",
             "title": "Bd-Mutant7/DahuaLoginBypass: Chrome extension that uses vulnerabilities CVE-2021-33044 and CVE-2021-33045 to log in to Dahua cameras without authentication.",
-            "date_modified": "2026-08-19T13:16:31.000Z",
+            "date_modified": "2026-08-19T14:06:27.000Z",
             "date_published": "2026-03-28T17:42:44.000Z",
             "author": {
                 "name": "Bd-Mutant7",
                 "url": "https://github.com/Bd-Mutant7"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/235932070?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
+            "url": "https://github.com/andreamammano89-maker/CVE-2021-42013_821311",
+            "title": "andreamammano89-maker/CVE-2021-42013_821311",
+            "date_modified": "2026-08-19T13:48:31.000Z",
+            "date_published": "2026-08-19T13:38:54.000Z",
+            "author": {
+                "name": "andreamammano89-maker",
+                "url": "https://github.com/andreamammano89-maker"
             }
         },
         {
@@ -36,17 +58,6 @@
             "author": {
                 "name": "VelesSecurity",
                 "url": "https://github.com/VelesSecurity"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/99209515?u=c63e0202a0bfdc63d133665a63f17ec8d70c10eb&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Unlock the Meta Quest 1 bootloader and gain root access using GhostLock + CVE-2021-1931.</div>",
-            "url": "https://github.com/starseed12345/QuestStack",
-            "title": "starseed12345/QuestStack: Unlock the Meta Quest 1 bootloader and gain root access using GhostLock + CVE-2021-1931.",
-            "date_modified": "2026-08-19T13:20:34.000Z",
-            "date_published": "2026-07-31T05:37:56.000Z",
-            "author": {
-                "name": "starseed12345",
-                "url": "https://github.com/starseed12345"
             }
         },
         {
@@ -212,17 +223,6 @@
             "author": {
                 "name": "kagancapar",
                 "url": "https://github.com/kagancapar"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/22836086?u=455de4355a4dfcac274ff019b35572e3d6fffdb5&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Froala Persistent XSS</div>",
-            "url": "https://github.com/Hackdwerg/CVE-2021-30109",
-            "title": "Hackdwerg/CVE-2021-30109: Froala Persistent XSS",
-            "date_modified": "2026-08-09T18:03:48.000Z",
-            "date_published": "2021-04-05T10:14:48.000Z",
-            "author": {
-                "name": "Hackdwerg",
-                "url": "https://github.com/Hackdwerg"
             }
         }
     ]
