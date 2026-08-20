@@ -9,7 +9,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/182138871?u=5a625dbde10ddebc6f9772ae9e409b49e97a97f1&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Chrome extension that uses vulnerabilities CVE-2021-33044 and CVE-2021-33045 to log in to Dahua cameras without authentication.</div>",
             "url": "https://github.com/Bd-Mutant7/DahuaLoginBypass",
             "title": "Bd-Mutant7/DahuaLoginBypass: Chrome extension that uses vulnerabilities CVE-2021-33044 and CVE-2021-33045 to log in to Dahua cameras without authentication.",
-            "date_modified": "2026-08-20T03:32:42.000Z",
+            "date_modified": "2026-08-20T04:18:35.000Z",
             "date_published": "2026-03-28T17:42:44.000Z",
             "author": {
                 "name": "Bd-Mutant7",
@@ -69,17 +69,6 @@
             "author": {
                 "name": "securifera",
                 "url": "https://github.com/securifera"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/282130403?u=dd654d7a8e0b5c0a5485a9f7100d180746104abe&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Security hardening toolkit for COBOL legacy — detects Trojan Source (CVE-2021-42574) and Glassworm invisible Unicode in GnuCOBOL / Zowe pipelines</div>",
-            "url": "https://github.com/LuisCastellanos-dev/cobol-shield",
-            "title": "LuisCastellanos-dev/cobol-shield: Security hardening toolkit for COBOL legacy — detects Trojan Source (CVE-2021-42574) and Glassworm invisible Unicode in GnuCOBOL / Zowe pipelines",
-            "date_modified": "2026-08-17T04:30:57.000Z",
-            "date_published": "2026-08-12T23:01:35.000Z",
-            "author": {
-                "name": "LuisCastellanos-dev",
-                "url": "https://github.com/LuisCastellanos-dev"
             }
         },
         {
@@ -223,6 +212,17 @@
             "author": {
                 "name": "kagancapar",
                 "url": "https://github.com/kagancapar"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/22836086?u=455de4355a4dfcac274ff019b35572e3d6fffdb5&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Froala Persistent XSS</div>",
+            "url": "https://github.com/Hackdwerg/CVE-2021-30109",
+            "title": "Hackdwerg/CVE-2021-30109: Froala Persistent XSS",
+            "date_modified": "2026-08-09T18:03:48.000Z",
+            "date_published": "2021-04-05T10:14:48.000Z",
+            "author": {
+                "name": "Hackdwerg",
+                "url": "https://github.com/Hackdwerg"
             }
         }
     ]
