@@ -6,6 +6,17 @@
     "description": "CVE-2022 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/73120825?u=4bb8e7b9e01cd8915b9d997948e3a21c209dffb1&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
+            "url": "https://github.com/entr0pie/demo-cve-2022-22947",
+            "title": "entr0pie/demo-cve-2022-22947",
+            "date_modified": "2026-08-20T18:57:51.000Z",
+            "date_published": "2026-06-02T14:24:24.000Z",
+            "author": {
+                "name": "entr0pie",
+                "url": "https://github.com/entr0pie"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/278274242?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Demonstrate local privilege escalation in networkd-dispatcher via CVE-2022-29799 and CVE-2022-29800 using this C proof of concept.</div>",
             "url": "https://github.com/pansyhebephrenic23/NimbusPWN-CVE-2022-29799-29800",
             "title": "pansyhebephrenic23/NimbusPWN-CVE-2022-29799-29800: Demonstrate local privilege escalation in networkd-dispatcher via CVE-2022-29799 and CVE-2022-29800 using this C proof of concept.",
@@ -14,17 +25,6 @@
             "author": {
                 "name": "pansyhebephrenic23",
                 "url": "https://github.com/pansyhebephrenic23"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/73120825?u=4bb8e7b9e01cd8915b9d997948e3a21c209dffb1&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
-            "url": "https://github.com/entr0pie/demo-cve-2022-22947",
-            "title": "entr0pie/demo-cve-2022-22947",
-            "date_modified": "2026-08-18T17:52:27.000Z",
-            "date_published": "2026-06-02T14:24:24.000Z",
-            "author": {
-                "name": "entr0pie",
-                "url": "https://github.com/entr0pie"
             }
         },
         {
