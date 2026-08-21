@@ -6,6 +6,17 @@
     "description": "CVE-2022 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/13029766?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2022-36804 Bitbucket command execution and file transfer tool</div>",
+            "url": "https://github.com/Junohea/cve-2022-36804",
+            "title": "Junohea/cve-2022-36804: CVE-2022-36804 Bitbucket command execution and file transfer tool",
+            "date_modified": "2026-08-21T02:15:05.000Z",
+            "date_published": "2026-08-21T02:14:29.000Z",
+            "author": {
+                "name": "Junohea",
+                "url": "https://github.com/Junohea"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/73120825?u=4bb8e7b9e01cd8915b9d997948e3a21c209dffb1&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
             "url": "https://github.com/entr0pie/demo-cve-2022-22947",
             "title": "entr0pie/demo-cve-2022-22947",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "OfficialChizaramPrecious",
                 "url": "https://github.com/OfficialChizaramPrecious"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/104641586?u=8254ae13e565e83410e403b0ff20b7e8c3560fb5&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Proof of Concept for exploiting the CVE-2022-22965 (Spring4Shell) vulnerability in an isolated environment, with Remote Code Execution (RCE) demonstrated.</div>",
-            "url": "https://github.com/PrinceH4k/Spring4Shell-POC",
-            "title": "PrinceH4k/Spring4Shell-POC: Proof of Concept for exploiting the CVE-2022-22965 (Spring4Shell) vulnerability in an isolated environment, with Remote Code Execution (RCE) demonstrated.",
-            "date_modified": "2026-08-03T17:16:06.000Z",
-            "date_published": "2026-08-03T16:18:54.000Z",
-            "author": {
-                "name": "PrinceH4k",
-                "url": "https://github.com/PrinceH4k"
             }
         }
     ]
