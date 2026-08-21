@@ -6,6 +6,17 @@
     "description": "CVE-2022 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/2423679?u=c71e9657752fd5935c1fc7f296d2e1285f274773&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Owning a tablet Amazon kept shutting down — CVE-2022-38181 write-up, four AI models, and a blog</div>",
+            "url": "https://github.com/ericpardee/fire-hd-ownership",
+            "title": "ericpardee/fire-hd-ownership: Owning a tablet Amazon kept shutting down — CVE-2022-38181 write-up, four AI models, and a blog",
+            "date_modified": "2026-08-21T07:17:40.000Z",
+            "date_published": "2026-08-20T08:02:17.000Z",
+            "author": {
+                "name": "ericpardee",
+                "url": "https://github.com/ericpardee"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/13029766?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2022-36804 Bitbucket command execution and file transfer tool</div>",
             "url": "https://github.com/Junohea/cve-2022-36804",
             "title": "Junohea/cve-2022-36804: CVE-2022-36804 Bitbucket command execution and file transfer tool",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "seal-sec-demo-2",
                 "url": "https://github.com/seal-sec-demo-2"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/261632880?u=c7ec12b4b2b5f01f727f9e64c6365f57caa5bd6c&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Developed a host and network vulnerability scanner that performs live NVD CVE matching, generates risk-based reports, and maps findings to NIST CSF 2.0 and ISO/IEC 27001:2022 controls, demonstrating the integration of technical vulnerability assessment with GRC practices.</div>",
-            "url": "https://github.com/OfficialChizaramPrecious/Sentry-Vulnerability-Scanner",
-            "title": "OfficialChizaramPrecious/Sentry-Vulnerability-Scanner: Developed a host and network vulnerability scanner that performs live NVD CVE matching, generates risk-based reports, and maps findings to NIST CSF 2.0 and ISO/IEC 27001:2022 controls, demonstrating the integration of technical vulnerability assessment with GRC practices.",
-            "date_modified": "2026-08-03T22:52:36.000Z",
-            "date_published": "2026-08-03T17:19:58.000Z",
-            "author": {
-                "name": "OfficialChizaramPrecious",
-                "url": "https://github.com/OfficialChizaramPrecious"
             }
         }
     ]
