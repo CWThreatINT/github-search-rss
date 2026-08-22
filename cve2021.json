@@ -6,6 +6,39 @@
     "description": "CVE-2021 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/204069580?u=b1bbb1e3b1b206347a2640efbbb49c1d3de94f67&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>ExifTool RCE exploit (CVE-2021-22204) - improved version, no exiftool dependency</div>",
+            "url": "https://github.com/d4ytox/CVE-2021-22204",
+            "title": "d4ytox/CVE-2021-22204: ExifTool RCE exploit (CVE-2021-22204) - improved version, no exiftool dependency",
+            "date_modified": "2026-08-22T15:06:37.000Z",
+            "date_published": "2026-06-13T11:14:25.000Z",
+            "author": {
+                "name": "d4ytox",
+                "url": "https://github.com/d4ytox"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/204069580?u=b1bbb1e3b1b206347a2640efbbb49c1d3de94f67&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2021-21425 - GravCMS 1.10.7 Unauthenticated RCE via Scheduler. Improved exploit with CLI args and auto base64 encoding.</div>",
+            "url": "https://github.com/d4ytox/CVE-2021-21425",
+            "title": "d4ytox/CVE-2021-21425: CVE-2021-21425 - GravCMS 1.10.7 Unauthenticated RCE via Scheduler. Improved exploit with CLI args and auto base64 encoding.",
+            "date_modified": "2026-08-22T15:06:36.000Z",
+            "date_published": "2026-06-13T11:00:08.000Z",
+            "author": {
+                "name": "d4ytox",
+                "url": "https://github.com/d4ytox"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/41143106?u=b79f5d86dffe824e89ae06b3b19b41a4d6dc8413&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2021-24092 - Draft or TODO</div>",
+            "url": "https://github.com/HORKimhab/CVE-2021-24092",
+            "title": "HORKimhab/CVE-2021-24092: CVE-2021-24092 - Draft or TODO",
+            "date_modified": "2026-08-22T14:56:18.000Z",
+            "date_published": "2026-08-22T14:56:08.000Z",
+            "author": {
+                "name": "HORKimhab",
+                "url": "https://github.com/HORKimhab"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/233878056?u=ecdf206d7975b1c9656aecd5735103598df2051b&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>HIKRAVEN - Advanced Hikvision Security Assessment Platform for professional penetration testing. Detects 12+ CVEs including CVE-2021-36260 (CRITICAL), tests default credentials, performs network discovery, and generates professional security reports. For authorized security testing only! 🛡️🔒</div>",
             "url": "https://github.com/sylhetyhackvenger/HIKRAVEN",
             "title": "sylhetyhackvenger/HIKRAVEN: HIKRAVEN - Advanced Hikvision Security Assessment Platform for professional penetration testing. Detects 12+ CVEs including CVE-2021-36260 (CRITICAL), tests default credentials, performs network discovery, and generates professional security reports. For authorized security testing only! 🛡️🔒",
@@ -190,39 +223,6 @@
             "author": {
                 "name": "nu11secur1ty",
                 "url": "https://github.com/nu11secur1ty"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/242452352?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Практические кейсы по информационной безопасности: развёртывание SIEM Wazuh и эксплуатация CVE-2021-41773</div>",
-            "url": "https://github.com/GlebUsalt/cybersecurity_portfolio",
-            "title": "GlebUsalt/cybersecurity_portfolio: Практические кейсы по информационной безопасности: развёртывание SIEM Wazuh и эксплуатация CVE-2021-41773",
-            "date_modified": "2026-08-13T21:54:11.000Z",
-            "date_published": "2026-08-13T21:36:14.000Z",
-            "author": {
-                "name": "GlebUsalt",
-                "url": "https://github.com/GlebUsalt"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/185695355?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Docker-based lab for reproducing CVE-2021-41773 (Apache HTTP Server 2.4.49) through controlled path traversal and file disclosure using a custom Python PoC.</div>",
-            "url": "https://github.com/s-amnajafri/CVE-2021-41773-Apache-Lab",
-            "title": "s-amnajafri/CVE-2021-41773-Apache-Lab: Docker-based lab for reproducing CVE-2021-41773 (Apache HTTP Server 2.4.49) through controlled path traversal and file disclosure using a custom Python PoC.",
-            "date_modified": "2026-08-13T20:25:01.000Z",
-            "date_published": "2026-08-13T20:09:26.000Z",
-            "author": {
-                "name": "s-amnajafri",
-                "url": "https://github.com/s-amnajafri"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/33525376?u=177a058ea6ffc432fd541dea584d38013ebea77f&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2021-47881: Local stack buffer overflow in dataSIMS Avionics ARINC 664-1 v4.5.3 (CWE-121)</div>",
-            "url": "https://github.com/kagancapar/CVE-2021-47881",
-            "title": "kagancapar/CVE-2021-47881: CVE-2021-47881: Local stack buffer overflow in dataSIMS Avionics ARINC 664-1 v4.5.3 (CWE-121)",
-            "date_modified": "2026-08-10T18:47:04.000Z",
-            "date_published": "2026-08-10T18:43:45.000Z",
-            "author": {
-                "name": "kagancapar",
-                "url": "https://github.com/kagancapar"
             }
         }
     ]
