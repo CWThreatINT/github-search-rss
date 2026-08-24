@@ -6,6 +6,28 @@
     "description": "CVE-2023 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/118776666?u=2c67ba34693b19e00a2c852643dc61b5a2334c07&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>rapid-reset-check is a small Go CLI for quickly inventorying HTTPS endpoints that expose HTTP/2 and therefore need a CVE-2023-44487 mitigation review</div>",
+            "url": "https://github.com/ramonzx6/rapid-reset-check",
+            "title": "ramonzx6/rapid-reset-check: rapid-reset-check is a small Go CLI for quickly inventorying HTTPS endpoints that expose HTTP/2 and therefore need a CVE-2023-44487 mitigation review",
+            "date_modified": "2026-08-24T01:34:26.000Z",
+            "date_published": "2023-12-29T17:40:24.000Z",
+            "author": {
+                "name": "ramonzx6",
+                "url": "https://github.com/ramonzx6"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/151980876?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>TOP All bugbounty pentesting CVE-2023- POC Exp  RCE example payload  Things</div>",
+            "url": "https://github.com/GhostTroops/TOP",
+            "title": "GhostTroops/TOP: TOP All bugbounty pentesting CVE-2023- POC Exp  RCE example payload  Things",
+            "date_modified": "2026-08-24T00:59:59.000Z",
+            "date_published": "2022-03-19T01:54:15.000Z",
+            "author": {
+                "name": "GhostTroops",
+                "url": "https://github.com/GhostTroops"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/120130511?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>oob_entry tfp0 kernel exploit for armv7 iOS (iOS 3.0–10.3.4), using CVE-2023-32434. We will publish a write-up detailing the methods in the coming weeks. 🐙</div>",
             "url": "https://github.com/rkrakesh524/oob_entry",
             "title": "rkrakesh524/oob_entry: oob_entry tfp0 kernel exploit for armv7 iOS (iOS 3.0–10.3.4), using CVE-2023-32434. We will publish a write-up detailing the methods in the coming weeks. 🐙",
@@ -14,17 +36,6 @@
             "author": {
                 "name": "rkrakesh524",
                 "url": "https://github.com/rkrakesh524"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/151980876?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>TOP All bugbounty pentesting CVE-2023- POC Exp  RCE example payload  Things</div>",
-            "url": "https://github.com/GhostTroops/TOP",
-            "title": "GhostTroops/TOP: TOP All bugbounty pentesting CVE-2023- POC Exp  RCE example payload  Things",
-            "date_modified": "2026-08-23T01:02:08.000Z",
-            "date_published": "2022-03-19T01:54:15.000Z",
-            "author": {
-                "name": "GhostTroops",
-                "url": "https://github.com/GhostTroops"
             }
         },
         {
@@ -212,17 +223,6 @@
             "author": {
                 "name": "577Industries",
                 "url": "https://github.com/577Industries"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/81592655?u=6be132d8f132f9118ef57024ef9e612645f774bf&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A Linux-related vulnerability</div>",
-            "url": "https://github.com/BurnSkyup/CVE-2023-32233-reproduction",
-            "title": "BurnSkyup/CVE-2023-32233-reproduction: A Linux-related vulnerability",
-            "date_modified": "2026-08-09T11:53:12.000Z",
-            "date_published": "2026-08-08T09:11:50.000Z",
-            "author": {
-                "name": "BurnSkyup",
-                "url": "https://github.com/BurnSkyup"
             }
         }
     ]
