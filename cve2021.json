@@ -6,6 +6,17 @@
     "description": "CVE-2021 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/90069111?u=175ad87f5f7faf1b4e7fb127f357f4b5e0edafa3&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Unlock the bootloader of any exploitable device vulnerable to CVE-2021-30327</div>",
+            "url": "https://github.com/Daniel224455/echidna",
+            "title": "Daniel224455/echidna: Unlock the bootloader of any exploitable device vulnerable to CVE-2021-30327",
+            "date_modified": "2026-08-24T20:36:06.000Z",
+            "date_published": "2026-08-24T20:32:57.000Z",
+            "author": {
+                "name": "Daniel224455",
+                "url": "https://github.com/Daniel224455"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/204069580?u=b1bbb1e3b1b206347a2640efbbb49c1d3de94f67&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>ExifTool RCE exploit (CVE-2021-22204) - improved version, no exiftool dependency</div>",
             "url": "https://github.com/d4ytox/CVE-2021-22204",
             "title": "d4ytox/CVE-2021-22204: ExifTool RCE exploit (CVE-2021-22204) - improved version, no exiftool dependency",
@@ -53,7 +64,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/99209515?u=c63e0202a0bfdc63d133665a63f17ec8d70c10eb&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Unlock the Meta Quest 1 bootloader and gain root access using GhostLock + CVE-2021-1931.</div>",
             "url": "https://github.com/starseed12345/QuestStack",
             "title": "starseed12345/QuestStack: Unlock the Meta Quest 1 bootloader and gain root access using GhostLock + CVE-2021-1931.",
-            "date_modified": "2026-08-24T14:07:35.000Z",
+            "date_modified": "2026-08-24T21:05:59.000Z",
             "date_published": "2026-07-31T05:37:56.000Z",
             "author": {
                 "name": "starseed12345",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "Emaar1x",
                 "url": "https://github.com/Emaar1x"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/3677559?u=be3b5bd8f650ebb8146c4af743a5bbadf897de92&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
-            "url": "https://github.com/nu11secur1ty/CVE-2021-44228-VULN-APP",
-            "title": "nu11secur1ty/CVE-2021-44228-VULN-APP",
-            "date_modified": "2026-08-14T09:25:51.000Z",
-            "date_published": "2021-12-17T18:45:19.000Z",
-            "author": {
-                "name": "nu11secur1ty",
-                "url": "https://github.com/nu11secur1ty"
             }
         }
     ]
