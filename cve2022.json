@@ -6,6 +6,17 @@
     "description": "CVE-2022 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/61962556?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Dirty COW restricted to shmem in linux kernel (CVE-2022-2590) analysis</div>",
+            "url": "https://github.com/moonnull/CVE-2022-2590-analysis",
+            "title": "moonnull/CVE-2022-2590-analysis: Dirty COW restricted to shmem in linux kernel (CVE-2022-2590) analysis",
+            "date_modified": "2026-08-24T05:13:12.000Z",
+            "date_published": "2026-08-24T05:13:02.000Z",
+            "author": {
+                "name": "moonnull",
+                "url": "https://github.com/moonnull"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/2423679?u=c71e9657752fd5935c1fc7f296d2e1285f274773&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Owning a tablet Amazon kept shutting down — CVE-2022-38181 write-up, four AI models, and a blog</div>",
             "url": "https://github.com/ericpardee/fire-hd-ownership",
             "title": "ericpardee/fire-hd-ownership: Owning a tablet Amazon kept shutting down — CVE-2022-38181 write-up, four AI models, and a blog",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "LeoChen-CoreMind",
                 "url": "https://github.com/LeoChen-CoreMind"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/310983584?u=9ccbce9b648b968b66f85d5e6e67d9bc642c59f4&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
-            "url": "https://github.com/m1kb0k/CVE-2022-25012-dvr4-weak-password-encryption",
-            "title": "m1kb0k/CVE-2022-25012-dvr4-weak-password-encryption",
-            "date_modified": "2026-08-06T03:53:12.000Z",
-            "date_published": "2026-08-05T05:52:50.000Z",
-            "author": {
-                "name": "m1kb0k",
-                "url": "https://github.com/m1kb0k"
             }
         }
     ]
