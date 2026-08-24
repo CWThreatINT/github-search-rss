@@ -6,6 +6,17 @@
     "description": "CVE-2023 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/304171033?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>GitHub Actions workflow sandbox for CVE-2023-30628 (changelog.yml command injection)</div>",
+            "url": "https://github.com/pvharmo2/gha-lab-227431b300",
+            "title": "pvharmo2/gha-lab-227431b300: GitHub Actions workflow sandbox for CVE-2023-30628 (changelog.yml command injection)",
+            "date_modified": "2026-08-24T19:53:43.000Z",
+            "date_published": "2026-08-24T19:52:30.000Z",
+            "author": {
+                "name": "pvharmo2",
+                "url": "https://github.com/pvharmo2"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/118776666?u=2c67ba34693b19e00a2c852643dc61b5a2334c07&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>rapid-reset-check is a small Go CLI for quickly inventorying HTTPS endpoints that expose HTTP/2 and therefore need a CVE-2023-44487 mitigation review</div>",
             "url": "https://github.com/ramonzx6/rapid-reset-check",
             "title": "ramonzx6/rapid-reset-check: rapid-reset-check is a small Go CLI for quickly inventorying HTTPS endpoints that expose HTTP/2 and therefore need a CVE-2023-44487 mitigation review",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "LazyBear8372",
                 "url": "https://github.com/LazyBear8372"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/277360420?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>AegisGraph: graph-based application-layer assessment evidence platform for Secure Messaging Applications (SMAs). DARPA ASEMA HR0011SB20254-12 Tier 3 research. ReproChain CVE-2023-4863 reachability + PolyDiff differential parser fuzzing + claim-state governance + reproducible benchmark surface.</div>",
-            "url": "https://github.com/577Industries/aegisgraph",
-            "title": "577Industries/aegisgraph: AegisGraph: graph-based application-layer assessment evidence platform for Secure Messaging Applications (SMAs). DARPA ASEMA HR0011SB20254-12 Tier 3 research. ReproChain CVE-2023-4863 reachability + PolyDiff differential parser fuzzing + claim-state governance + reproducible benchmark surface.",
-            "date_modified": "2026-08-20T22:36:55.000Z",
-            "date_published": "2026-05-08T13:04:43.000Z",
-            "author": {
-                "name": "577Industries",
-                "url": "https://github.com/577Industries"
             }
         }
     ]
