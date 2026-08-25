@@ -6,6 +6,17 @@
     "description": "CVE-2023 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/21230655?u=9c74d99bf709cbdebe769d0eca7cf60b74048bf5&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
+            "url": "https://github.com/JoshuaASmith/reproducer-okio-cve-2023-3635",
+            "title": "JoshuaASmith/reproducer-okio-cve-2023-3635",
+            "date_modified": "2026-08-25T22:31:48.000Z",
+            "date_published": "2026-08-25T22:22:44.000Z",
+            "author": {
+                "name": "JoshuaASmith",
+                "url": "https://github.com/JoshuaASmith"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/120130511?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>oob_entry tfp0 kernel exploit for armv7 iOS (iOS 3.0–10.3.4), using CVE-2023-32434. We will publish a write-up detailing the methods in the coming weeks. 🐙</div>",
             "url": "https://github.com/rkrakesh524/oob_entry",
             "title": "rkrakesh524/oob_entry: oob_entry tfp0 kernel exploit for armv7 iOS (iOS 3.0–10.3.4), using CVE-2023-32434. We will publish a write-up detailing the methods in the coming weeks. 🐙",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "LazyBear8372",
                 "url": "https://github.com/LazyBear8372"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/277360420?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>AegisGraph: graph-based application-layer assessment evidence platform for Secure Messaging Applications (SMAs). DARPA ASEMA HR0011SB20254-12 Tier 3 research. ReproChain CVE-2023-4863 reachability + PolyDiff differential parser fuzzing + claim-state governance + reproducible benchmark surface.</div>",
-            "url": "https://github.com/577Industries/aegisgraph",
-            "title": "577Industries/aegisgraph: AegisGraph: graph-based application-layer assessment evidence platform for Secure Messaging Applications (SMAs). DARPA ASEMA HR0011SB20254-12 Tier 3 research. ReproChain CVE-2023-4863 reachability + PolyDiff differential parser fuzzing + claim-state governance + reproducible benchmark surface.",
-            "date_modified": "2026-08-20T22:36:55.000Z",
-            "date_published": "2026-05-08T13:04:43.000Z",
-            "author": {
-                "name": "577Industries",
-                "url": "https://github.com/577Industries"
             }
         }
     ]
