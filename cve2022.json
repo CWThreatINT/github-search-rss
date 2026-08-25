@@ -6,6 +6,17 @@
     "description": "CVE-2022 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/265468268?u=29211a2add983d283758d9ef885f8b204fbc8dac&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2022-28906 Proof of concept in Python3</div>",
+            "url": "https://github.com/finnvle/CVE-2022-28906-POC",
+            "title": "finnvle/CVE-2022-28906-POC: CVE-2022-28906 Proof of concept in Python3",
+            "date_modified": "2026-08-25T07:32:38.000Z",
+            "date_published": "2026-08-25T07:10:08.000Z",
+            "author": {
+                "name": "finnvle",
+                "url": "https://github.com/finnvle"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/179660318?u=bd2c29bac08f4abd33870971486a8e38af3b0a60&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Proof of Concept (PoC) for research and controlled laboratory validation of CVE-2022-42475, a critical heap-based buffer overflow vulnerability affecting the SSL-VPN service in certain versions of FortiOS.</div>",
             "url": "https://github.com/uLl0a/cve-2022-42475-poc",
             "title": "uLl0a/cve-2022-42475-poc: Proof of Concept (PoC) for research and controlled laboratory validation of CVE-2022-42475, a critical heap-based buffer overflow vulnerability affecting the SSL-VPN service in certain versions of FortiOS.",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "Gopartner",
                 "url": "https://github.com/Gopartner"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/41143106?u=b79f5d86dffe824e89ae06b3b19b41a4d6dc8413&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2022-31626, CVE-2024-2961, CVE-2019-6977, PHP security research</div>",
-            "url": "https://github.com/HORKimhab/CVE-2022-31626-CVE-2024-2961-CVE-2019-6977",
-            "title": "HORKimhab/CVE-2022-31626-CVE-2024-2961-CVE-2019-6977: CVE-2022-31626, CVE-2024-2961, CVE-2019-6977, PHP security research",
-            "date_modified": "2026-08-06T06:43:40.000Z",
-            "date_published": "2026-08-06T06:39:46.000Z",
-            "author": {
-                "name": "HORKimhab",
-                "url": "https://github.com/HORKimhab"
             }
         }
     ]
