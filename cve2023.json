@@ -6,6 +6,17 @@
     "description": "CVE-2023 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/242691132?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
+            "url": "https://github.com/praneethnaidu1910-cmd/cve-2023-23397-purple-team",
+            "title": "praneethnaidu1910-cmd/cve-2023-23397-purple-team",
+            "date_modified": "2026-08-26T22:47:50.000Z",
+            "date_published": "2026-08-26T22:45:12.000Z",
+            "author": {
+                "name": "praneethnaidu1910-cmd",
+                "url": "https://github.com/praneethnaidu1910-cmd"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/120130511?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>oob_entry tfp0 kernel exploit for armv7 iOS (iOS 3.0–10.3.4), using CVE-2023-32434. We will publish a write-up detailing the methods in the coming weeks. 🐙</div>",
             "url": "https://github.com/rkrakesh524/oob_entry",
             "title": "rkrakesh524/oob_entry: oob_entry tfp0 kernel exploit for armv7 iOS (iOS 3.0–10.3.4), using CVE-2023-32434. We will publish a write-up detailing the methods in the coming weeks. 🐙",
@@ -20,7 +31,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/151980876?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>TOP All bugbounty pentesting CVE-2023- POC Exp  RCE example payload  Things</div>",
             "url": "https://github.com/GhostTroops/TOP",
             "title": "GhostTroops/TOP: TOP All bugbounty pentesting CVE-2023- POC Exp  RCE example payload  Things",
-            "date_modified": "2026-08-26T01:01:51.000Z",
+            "date_modified": "2026-08-27T00:12:12.000Z",
             "date_published": "2022-03-19T01:54:15.000Z",
             "author": {
                 "name": "GhostTroops",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "cyb3rk0ala",
                 "url": "https://github.com/cyb3rk0ala"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/67993303?u=065170670048aee0d10e4b74b772823cee63d443&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Educational Android lab for CVE-2023-31014 implicit intent hijacking</div>",
-            "url": "https://github.com/LazyBear8372/CVE-2023-31014_Lab",
-            "title": "LazyBear8372/CVE-2023-31014_Lab: Educational Android lab for CVE-2023-31014 implicit intent hijacking",
-            "date_modified": "2026-08-10T08:35:48.000Z",
-            "date_published": "2026-08-10T08:35:06.000Z",
-            "author": {
-                "name": "LazyBear8372",
-                "url": "https://github.com/LazyBear8372"
             }
         }
     ]
