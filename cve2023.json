@@ -50,6 +50,17 @@
             }
         },
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/304171033?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>GitHub Actions workflow sandbox for CVE-2023-30628 (changelog.yml command injection)</div>",
+            "url": "https://github.com/pvharmo2/gha-lab-227431b300",
+            "title": "pvharmo2/gha-lab-227431b300: GitHub Actions workflow sandbox for CVE-2023-30628 (changelog.yml command injection)",
+            "date_modified": "2026-08-24T19:53:43.000Z",
+            "date_published": "2026-08-24T19:52:30.000Z",
+            "author": {
+                "name": "pvharmo2",
+                "url": "https://github.com/pvharmo2"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/118776666?u=2c67ba34693b19e00a2c852643dc61b5a2334c07&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>rapid-reset-check is a small Go CLI for quickly inventorying HTTPS endpoints that expose HTTP/2 and therefore need a CVE-2023-44487 mitigation review</div>",
             "url": "https://github.com/ramonzx6/rapid-reset-check",
             "title": "ramonzx6/rapid-reset-check: rapid-reset-check is a small Go CLI for quickly inventorying HTTPS endpoints that expose HTTP/2 and therefore need a CVE-2023-44487 mitigation review",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "NikitaPark",
                 "url": "https://github.com/NikitaPark"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/92465650?u=4bde230b921bb6355dd3b70ba82a42c35501ca1d&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
-            "url": "https://github.com/cyb3rk0ala/THM-MagnusBilling-CVE-2023-30258-Exploit",
-            "title": "cyb3rk0ala/THM-MagnusBilling-CVE-2023-30258-Exploit",
-            "date_modified": "2026-08-10T12:23:24.000Z",
-            "date_published": "2026-04-08T12:14:37.000Z",
-            "author": {
-                "name": "cyb3rk0ala",
-                "url": "https://github.com/cyb3rk0ala"
             }
         }
     ]
