@@ -6,6 +6,17 @@
     "description": "CVE-2021 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/105069125?u=298e48728728ebaa0139dd1577a86ad92d264dfe&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Metasploit module: Veritas Backup Exec Agent SHA-auth NDMP remote code execution (CVE-2021-27876/27877/27878)</div>",
+            "url": "https://github.com/hyderpwn/veritas-backup",
+            "title": "hyderpwn/veritas-backup: Metasploit module: Veritas Backup Exec Agent SHA-auth NDMP remote code execution (CVE-2021-27876/27877/27878)",
+            "date_modified": "2026-08-27T13:04:51.000Z",
+            "date_published": "2026-08-27T12:37:03.000Z",
+            "author": {
+                "name": "hyderpwn",
+                "url": "https://github.com/hyderpwn"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/318180107?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2021-41773 Apache HTTP Server 2.4.49 Path Traversal to RCE Exploit</div>",
             "url": "https://github.com/abdulrafay25-svg/CVE-2021-41773-Exploit",
             "title": "abdulrafay25-svg/CVE-2021-41773-Exploit: CVE-2021-41773 Apache HTTP Server 2.4.49 Path Traversal to RCE Exploit",
@@ -20,7 +31,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/99209515?u=c63e0202a0bfdc63d133665a63f17ec8d70c10eb&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Unlock the Meta Quest 1 bootloader and gain root access using GhostLock + CVE-2021-1931.</div>",
             "url": "https://github.com/starseed12345/QuestStack",
             "title": "starseed12345/QuestStack: Unlock the Meta Quest 1 bootloader and gain root access using GhostLock + CVE-2021-1931.",
-            "date_modified": "2026-08-26T21:19:34.000Z",
+            "date_modified": "2026-08-27T12:18:38.000Z",
             "date_published": "2026-07-31T05:37:56.000Z",
             "author": {
                 "name": "starseed12345",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "DuyDuongDuyDuong",
                 "url": "https://github.com/DuyDuongDuyDuong"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/123203463?u=a05977129617ef2c311403ba4c79037a87ad53a7&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2021-41773 Exploit Lab</div>",
-            "url": "https://github.com/SANR01/CVE-2021-41773-Exploit-Lab",
-            "title": "SANR01/CVE-2021-41773-Exploit-Lab: CVE-2021-41773 Exploit Lab",
-            "date_modified": "2026-08-14T16:09:36.000Z",
-            "date_published": "2026-08-14T15:57:46.000Z",
-            "author": {
-                "name": "SANR01",
-                "url": "https://github.com/SANR01"
             }
         }
     ]
