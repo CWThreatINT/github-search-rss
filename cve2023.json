@@ -6,25 +6,47 @@
     "description": "CVE-2023 FEED on GitHub",
     "items": [
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/41143106?u=b79f5d86dffe824e89ae06b3b19b41a4d6dc8413&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2023-27350, CVE-2023-27351 - PaperCut - Draft or TODO</div>",
-            "url": "https://github.com/HORKimhab/CVE-2023-27350-CVE-2023-27351",
-            "title": "HORKimhab/CVE-2023-27350-CVE-2023-27351: CVE-2023-27350, CVE-2023-27351 - PaperCut - Draft or TODO",
-            "date_modified": "2026-08-28T07:19:08.000Z",
-            "date_published": "2026-08-28T07:14:59.000Z",
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/120130511?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>oob_entry tfp0 kernel exploit for armv7 iOS (iOS 3.0–10.3.4), using CVE-2023-32434. We will publish a write-up detailing the methods in the coming weeks. 🐙</div>",
+            "url": "https://github.com/rkrakesh524/oob_entry",
+            "title": "rkrakesh524/oob_entry: oob_entry tfp0 kernel exploit for armv7 iOS (iOS 3.0–10.3.4), using CVE-2023-32434. We will publish a write-up detailing the methods in the coming weeks. 🐙",
+            "date_modified": "2026-08-28T16:58:37.000Z",
+            "date_published": "2025-08-13T09:19:29.000Z",
             "author": {
-                "name": "HORKimhab",
-                "url": "https://github.com/HORKimhab"
+                "name": "rkrakesh524",
+                "url": "https://github.com/rkrakesh524"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/218322430?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Detection and mitigation research lab for CVE-2023-23397 using network and endpoint security telemetry.</div>",
+            "url": "https://github.com/ZHOUCC-CPU/cve-2023-23397-detection-lab",
+            "title": "ZHOUCC-CPU/cve-2023-23397-detection-lab: Detection and mitigation research lab for CVE-2023-23397 using network and endpoint security telemetry.",
+            "date_modified": "2026-08-28T09:39:57.000Z",
+            "date_published": "2026-08-28T09:00:27.000Z",
+            "author": {
+                "name": "ZHOUCC-CPU",
+                "url": "https://github.com/ZHOUCC-CPU"
             }
         },
         {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/151980876?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>TOP All bugbounty pentesting CVE-2023- POC Exp  RCE example payload  Things</div>",
             "url": "https://github.com/GhostTroops/TOP",
             "title": "GhostTroops/TOP: TOP All bugbounty pentesting CVE-2023- POC Exp  RCE example payload  Things",
-            "date_modified": "2026-08-27T06:58:21.000Z",
+            "date_modified": "2026-08-28T08:46:24.000Z",
             "date_published": "2022-03-19T01:54:15.000Z",
             "author": {
                 "name": "GhostTroops",
                 "url": "https://github.com/GhostTroops"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/41143106?u=b79f5d86dffe824e89ae06b3b19b41a4d6dc8413&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2023-27350, CVE-2023-27351 - PaperCut - Draft or TODO</div>",
+            "url": "https://github.com/HORKimhab/CVE-2023-27350-CVE-2023-27351",
+            "title": "HORKimhab/CVE-2023-27350-CVE-2023-27351: CVE-2023-27350, CVE-2023-27351 - PaperCut - Draft or TODO",
+            "date_modified": "2026-08-28T08:32:54.000Z",
+            "date_published": "2026-08-28T07:14:59.000Z",
+            "author": {
+                "name": "HORKimhab",
+                "url": "https://github.com/HORKimhab"
             }
         },
         {
@@ -36,17 +58,6 @@
             "author": {
                 "name": "praneethnaidu1910-cmd",
                 "url": "https://github.com/praneethnaidu1910-cmd"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/120130511?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>oob_entry tfp0 kernel exploit for armv7 iOS (iOS 3.0–10.3.4), using CVE-2023-32434. We will publish a write-up detailing the methods in the coming weeks. 🐙</div>",
-            "url": "https://github.com/rkrakesh524/oob_entry",
-            "title": "rkrakesh524/oob_entry: oob_entry tfp0 kernel exploit for armv7 iOS (iOS 3.0–10.3.4), using CVE-2023-32434. We will publish a write-up detailing the methods in the coming weeks. 🐙",
-            "date_modified": "2026-08-26T03:10:52.000Z",
-            "date_published": "2025-08-13T09:19:29.000Z",
-            "author": {
-                "name": "rkrakesh524",
-                "url": "https://github.com/rkrakesh524"
             }
         },
         {
@@ -212,17 +223,6 @@
             "author": {
                 "name": "LazyBear8372",
                 "url": "https://github.com/LazyBear8372"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/291282580?u=bee0b796cce821aa4a614edcc527df480a1cc1cd&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Hack The Box TwoMillion machine writeup — JWT/invite-code bypass, IDOR, command injection, and CVE-2023-0386 privilege escalation.</div>",
-            "url": "https://github.com/abedallarawashdeh/HTB-TwoMillion-machine",
-            "title": "abedallarawashdeh/HTB-TwoMillion-machine: Hack The Box TwoMillion machine writeup — JWT/invite-code bypass, IDOR, command injection, and CVE-2023-0386 privilege escalation.",
-            "date_modified": "2026-08-10T19:08:16.000Z",
-            "date_published": "2026-08-05T16:33:30.000Z",
-            "author": {
-                "name": "abedallarawashdeh",
-                "url": "https://github.com/abedallarawashdeh"
             }
         }
     ]
