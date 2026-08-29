@@ -6,6 +6,17 @@
     "description": "CVE-2023 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/250372099?u=f799717bfc754c6e9de16841a89bb632e2c0c704&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A collection of hands-on cybersecurity coursework. Includes a full penetration-testing audit of a Metasploitable 2 virtual machine (reconnaissance, five critical CVEs, and two Metasploit exploits to root) and an incident-response analysis of the 2023 23andMe data breach, complete with network forensics across three packet captures.</div>",
+            "url": "https://github.com/Ismael-Ifetayo/Security-Reports",
+            "title": "Ismael-Ifetayo/Security-Reports: A collection of hands-on cybersecurity coursework. Includes a full penetration-testing audit of a Metasploitable 2 virtual machine (reconnaissance, five critical CVEs, and two Metasploit exploits to root) and an incident-response analysis of the 2023 23andMe data breach, complete with network forensics across three packet captures.",
+            "date_modified": "2026-08-29T18:21:16.000Z",
+            "date_published": "2026-08-29T18:09:47.000Z",
+            "author": {
+                "name": "Ismael-Ifetayo",
+                "url": "https://github.com/Ismael-Ifetayo"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/120130511?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>oob_entry tfp0 kernel exploit for armv7 iOS (iOS 3.0–10.3.4), using CVE-2023-32434. We will publish a write-up detailing the methods in the coming weeks. 🐙</div>",
             "url": "https://github.com/rkrakesh524/oob_entry",
             "title": "rkrakesh524/oob_entry: oob_entry tfp0 kernel exploit for armv7 iOS (iOS 3.0–10.3.4), using CVE-2023-32434. We will publish a write-up detailing the methods in the coming weeks. 🐙",
@@ -20,7 +31,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/151980876?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>TOP All bugbounty pentesting CVE-2023- POC Exp  RCE example payload  Things</div>",
             "url": "https://github.com/GhostTroops/TOP",
             "title": "GhostTroops/TOP: TOP All bugbounty pentesting CVE-2023- POC Exp  RCE example payload  Things",
-            "date_modified": "2026-08-29T05:22:13.000Z",
+            "date_modified": "2026-08-29T18:03:50.000Z",
             "date_published": "2022-03-19T01:54:15.000Z",
             "author": {
                 "name": "GhostTroops",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "MettHK",
                 "url": "https://github.com/MettHK"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/67993303?u=065170670048aee0d10e4b74b772823cee63d443&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
-            "url": "https://github.com/LazyBear8372/CVE-2023-41898_Lab",
-            "title": "LazyBear8372/CVE-2023-41898_Lab",
-            "date_modified": "2026-08-11T02:48:59.000Z",
-            "date_published": "2026-08-11T02:48:45.000Z",
-            "author": {
-                "name": "LazyBear8372",
-                "url": "https://github.com/LazyBear8372"
             }
         }
     ]
