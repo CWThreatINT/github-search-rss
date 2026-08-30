@@ -6,6 +6,17 @@
     "description": "CVE-2021 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/108279746?u=795cbe57882cdcf2fda79d83f1dc1103ef51bbc1&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Log4Shell CVE-2021-44228 vulnerable lab</div>",
+            "url": "https://github.com/Vaibhav91one/log4shell-cve-lab",
+            "title": "Vaibhav91one/log4shell-cve-lab: Log4Shell CVE-2021-44228 vulnerable lab",
+            "date_modified": "2026-08-30T13:07:15.000Z",
+            "date_published": "2026-08-30T12:24:22.000Z",
+            "author": {
+                "name": "Vaibhav91one",
+                "url": "https://github.com/Vaibhav91one"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/322590151?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Reproducible Python analysis of NVD CVE feeds from 2021–2025 for Xi Wu’s dissertation.</div>",
             "url": "https://github.com/XiWu117/NVD_2021_2025_Xi_Wu",
             "title": "XiWu117/NVD_2021_2025_Xi_Wu: Reproducible Python analysis of NVD CVE feeds from 2021–2025 for Xi Wu’s dissertation.",
@@ -20,7 +31,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/99209515?u=c63e0202a0bfdc63d133665a63f17ec8d70c10eb&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Unlock the Meta Quest 1 bootloader and gain root access using GhostLock + CVE-2021-1931.</div>",
             "url": "https://github.com/starseed12345/QuestStack",
             "title": "starseed12345/QuestStack: Unlock the Meta Quest 1 bootloader and gain root access using GhostLock + CVE-2021-1931.",
-            "date_modified": "2026-08-30T10:15:46.000Z",
+            "date_modified": "2026-08-30T16:51:29.000Z",
             "date_published": "2026-07-31T05:37:56.000Z",
             "author": {
                 "name": "starseed12345",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "nicoibarburu",
                 "url": "https://github.com/nicoibarburu"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/109800286?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Error-based blind SQL injection with bit-shifting approach for Moodle 3.10.4</div>",
-            "url": "https://github.com/StackOverflowExcept1on/CVE-2021-36393",
-            "title": "StackOverflowExcept1on/CVE-2021-36393: Error-based blind SQL injection with bit-shifting approach for Moodle 3.10.4",
-            "date_modified": "2026-08-16T15:30:32.000Z",
-            "date_published": "2023-10-27T17:13:55.000Z",
-            "author": {
-                "name": "StackOverflowExcept1on",
-                "url": "https://github.com/StackOverflowExcept1on"
             }
         }
     ]
