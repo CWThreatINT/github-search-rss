@@ -6,6 +6,17 @@
     "description": "CVE-2021 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/304171033?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Authorized security-research lab reproducing CVE-2021-21423 (GHSA-gg2g-m5wc-vccq): projen rebuild-bot pwn request via issue_comment</div>",
+            "url": "https://github.com/pvharmo2/gha-lab-b9842b12c0",
+            "title": "pvharmo2/gha-lab-b9842b12c0: Authorized security-research lab reproducing CVE-2021-21423 (GHSA-gg2g-m5wc-vccq): projen rebuild-bot pwn request via issue_comment",
+            "date_modified": "2026-08-31T05:19:56.000Z",
+            "date_published": "2026-08-31T05:06:44.000Z",
+            "author": {
+                "name": "pvharmo2",
+                "url": "https://github.com/pvharmo2"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/108279746?u=795cbe57882cdcf2fda79d83f1dc1103ef51bbc1&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Log4Shell CVE-2021-44228 vulnerable lab</div>",
             "url": "https://github.com/Vaibhav91one/log4shell-cve-lab",
             "title": "Vaibhav91one/log4shell-cve-lab: Log4Shell CVE-2021-44228 vulnerable lab",
@@ -31,7 +42,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/99209515?u=c63e0202a0bfdc63d133665a63f17ec8d70c10eb&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Unlock the Meta Quest 1 bootloader and gain root access using GhostLock + CVE-2021-1931.</div>",
             "url": "https://github.com/starseed12345/QuestStack",
             "title": "starseed12345/QuestStack: Unlock the Meta Quest 1 bootloader and gain root access using GhostLock + CVE-2021-1931.",
-            "date_modified": "2026-08-30T22:16:49.000Z",
+            "date_modified": "2026-08-31T03:00:28.000Z",
             "date_published": "2026-07-31T05:37:56.000Z",
             "author": {
                 "name": "starseed12345",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "rakib-nyc",
                 "url": "https://github.com/rakib-nyc"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/153538261?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>This is my simple implementation of an exploit for the PwnKit vulnerability.</div>",
-            "url": "https://github.com/nicoibarburu/CVE-2021-4034",
-            "title": "nicoibarburu/CVE-2021-4034: This is my simple implementation of an exploit for the PwnKit vulnerability.",
-            "date_modified": "2026-08-16T17:07:41.000Z",
-            "date_published": "2026-08-15T19:42:46.000Z",
-            "author": {
-                "name": "nicoibarburu",
-                "url": "https://github.com/nicoibarburu"
             }
         }
     ]
