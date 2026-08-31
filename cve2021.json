@@ -6,6 +6,17 @@
     "description": "CVE-2021 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/304171033?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Security-research lab reproducing CVE-2021-4281 (GHSA-3796-3f93-cfvx): shell command injection via PR head-branch name in .github/workflows/combine-prs.yml (snapshot of BraveUX/for-the-badge @ 409c1fda). Do not use; authorized reproduction only.</div>",
+            "url": "https://github.com/pvharmo2/gha-lab-232af4821f",
+            "title": "pvharmo2/gha-lab-232af4821f: Security-research lab reproducing CVE-2021-4281 (GHSA-3796-3f93-cfvx): shell command injection via PR head-branch name in .github/workflows/combine-prs.yml (snapshot of BraveUX/for-the-badge @ 409c1fda). Do not use; authorized reproduction only.",
+            "date_modified": "2026-08-31T09:50:36.000Z",
+            "date_published": "2026-08-31T09:41:35.000Z",
+            "author": {
+                "name": "pvharmo2",
+                "url": "https://github.com/pvharmo2"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/304171033?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Authorized security-research lab reproducing CVE-2021-21423 (GHSA-gg2g-m5wc-vccq): projen rebuild-bot pwn request via issue_comment</div>",
             "url": "https://github.com/pvharmo2/gha-lab-b9842b12c0",
             "title": "pvharmo2/gha-lab-b9842b12c0: Authorized security-research lab reproducing CVE-2021-21423 (GHSA-gg2g-m5wc-vccq): projen rebuild-bot pwn request via issue_comment",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "C00LN3T",
                 "url": "https://github.com/C00LN3T"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/28086727?u=82d5660413ac9d3f835b6f7d35ee75f985648275&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Research-only AI watermark &amp; provenance robustness toolkit: local reverse proxy (OpenAI/Anthropic/Gemini) + CLI stripping C2PA/EXIF/XMP, zero-width &amp; homoglyph Unicode, KGW text watermarks, DWT/Tree-Ring image stego, AudioSeal, PDF/DOCX/PPTX/XLSX metadata, and Trojan Source (CVE-2021-42574) code scanning.</div>",
-            "url": "https://github.com/rakib-nyc/nullorigin",
-            "title": "rakib-nyc/nullorigin: Research-only AI watermark & provenance robustness toolkit: local reverse proxy (OpenAI/Anthropic/Gemini) + CLI stripping C2PA/EXIF/XMP, zero-width & homoglyph Unicode, KGW text watermarks, DWT/Tree-Ring image stego, AudioSeal, PDF/DOCX/PPTX/XLSX metadata, and Trojan Source (CVE-2021-42574) code scanning.",
-            "date_modified": "2026-08-16T20:14:12.000Z",
-            "date_published": "2026-08-16T01:17:41.000Z",
-            "author": {
-                "name": "rakib-nyc",
-                "url": "https://github.com/rakib-nyc"
             }
         }
     ]
