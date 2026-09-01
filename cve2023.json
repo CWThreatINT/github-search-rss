@@ -6,6 +6,28 @@
     "description": "CVE-2023 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/277360420?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>AegisGraph: graph-based application-layer assessment evidence platform for Secure Messaging Applications (SMAs). DARPA ASEMA HR0011SB20254-12 Tier 3 research. ReproChain CVE-2023-4863 reachability + PolyDiff differential parser fuzzing + claim-state governance + reproducible benchmark surface.</div>",
+            "url": "https://github.com/577Industries/aegisgraph",
+            "title": "577Industries/aegisgraph: AegisGraph: graph-based application-layer assessment evidence platform for Secure Messaging Applications (SMAs). DARPA ASEMA HR0011SB20254-12 Tier 3 research. ReproChain CVE-2023-4863 reachability + PolyDiff differential parser fuzzing + claim-state governance + reproducible benchmark surface.",
+            "date_modified": "2026-09-01T20:59:08.000Z",
+            "date_published": "2026-05-08T13:04:43.000Z",
+            "author": {
+                "name": "577Industries",
+                "url": "https://github.com/577Industries"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/299946762?u=3bcf1dc91b68cc2a7f17917f61290e51b3e9baf8&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>The FortiGate SSL-VPN pot of gold. CVE-2024-21762 and CVE-2023-27997.  79 working exploit clients. 53 hardware SKUs. 55 FortiOS builds. </div>",
+            "url": "https://github.com/abraxas/Fortigate-SSL-VPN-Exploit-Kit",
+            "title": "abraxas/Fortigate-SSL-VPN-Exploit-Kit: The FortiGate SSL-VPN pot of gold. CVE-2024-21762 and CVE-2023-27997.  79 working exploit clients. 53 hardware SKUs. 55 FortiOS builds. ",
+            "date_modified": "2026-09-01T20:33:38.000Z",
+            "date_published": "2026-09-01T20:04:23.000Z",
+            "author": {
+                "name": "abraxas",
+                "url": "https://github.com/abraxas"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/17119658?u=7efbd02055a47a910498f3a109bf8c50a13625df&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Exploit POC for Apache ActiveMQ CVE-2023-46604</div>",
             "url": "https://github.com/Bhanunamikaze/ActiveMQ-CVE-2023-46604",
             "title": "Bhanunamikaze/ActiveMQ-CVE-2023-46604: Exploit POC for Apache ActiveMQ CVE-2023-46604",
@@ -201,28 +223,6 @@
             "author": {
                 "name": "0xTerror",
                 "url": "https://github.com/0xTerror"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/222822904?u=96d271c3b2107e32bcfb229eccf5d2ae99b2d6d0&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Network forensics writeup + tooling for a TryHackMe DFIR challenge: reverses a hex→Base64→XOR exfiltration chain from PCAP traffic, then recovers a KeePass master password from a process memory dump via CVE-2023-32784.</div>",
-            "url": "https://github.com/Pugazhendii22/keepass-exfil-forensics",
-            "title": "Pugazhendii22/keepass-exfil-forensics: Network forensics writeup + tooling for a TryHackMe DFIR challenge: reverses a hex→Base64→XOR exfiltration chain from PCAP traffic, then recovers a KeePass master password from a process memory dump via CVE-2023-32784.",
-            "date_modified": "2026-08-14T06:20:32.000Z",
-            "date_published": "2026-08-14T06:02:15.000Z",
-            "author": {
-                "name": "Pugazhendii22",
-                "url": "https://github.com/Pugazhendii22"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/259967922?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Find the vulnerability your tests were never written to catch. A ReGrade demo modeling CVE-2023-5968: catch a password-hash leak by comparing an app to itself.</div>",
-            "url": "https://github.com/Curtail-Inc/hello-ReGrade-security",
-            "title": "Curtail-Inc/hello-ReGrade-security: Find the vulnerability your tests were never written to catch. A ReGrade demo modeling CVE-2023-5968: catch a password-hash leak by comparing an app to itself.",
-            "date_modified": "2026-08-13T21:32:15.000Z",
-            "date_published": "2026-07-04T00:48:09.000Z",
-            "author": {
-                "name": "Curtail-Inc",
-                "url": "https://github.com/Curtail-Inc"
             }
         }
     ]
