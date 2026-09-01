@@ -6,6 +6,28 @@
     "description": "CVE-2021 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/146650442?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2021-44228 (Log4Shell) 漏洞复现靶场 | SpringBoot + Log4j2 2.14.1 | 3 个攻击向量 PoC 验证</div>",
+            "url": "https://github.com/14free/log4j2-vuln-lab",
+            "title": "14free/log4j2-vuln-lab: CVE-2021-44228 (Log4Shell) 漏洞复现靶场 | SpringBoot + Log4j2 2.14.1 | 3 个攻击向量 PoC 验证",
+            "date_modified": "2026-09-01T04:15:15.000Z",
+            "date_published": "2026-09-01T04:04:00.000Z",
+            "author": {
+                "name": "14free",
+                "url": "https://github.com/14free"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/101990124?u=c6d60da253c5a4591f9cd0e0c5e86449a6dcfe06&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>It's a CVE-2021-3493 Exploit written in C</div>",
+            "url": "https://github.com/r3dw4n48m3d/CVE-2021-3493-Exploit",
+            "title": "r3dw4n48m3d/CVE-2021-3493-Exploit: It's a CVE-2021-3493 Exploit written in C",
+            "date_modified": "2026-09-01T03:11:07.000Z",
+            "date_published": "2026-09-01T02:56:40.000Z",
+            "author": {
+                "name": "r3dw4n48m3d",
+                "url": "https://github.com/r3dw4n48m3d"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/304171033?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Security-research lab reproducing CVE-2021-4281 (GHSA-3796-3f93-cfvx): shell command injection via PR head-branch name in .github/workflows/combine-prs.yml (snapshot of BraveUX/for-the-badge @ 409c1fda). Do not use; authorized reproduction only.</div>",
             "url": "https://github.com/pvharmo2/gha-lab-232af4821f",
             "title": "pvharmo2/gha-lab-232af4821f: Security-research lab reproducing CVE-2021-4281 (GHSA-3796-3f93-cfvx): shell command injection via PR head-branch name in .github/workflows/combine-prs.yml (snapshot of BraveUX/for-the-badge @ 409c1fda). Do not use; authorized reproduction only.",
@@ -201,28 +223,6 @@
             "author": {
                 "name": "VelesSecurity",
                 "url": "https://github.com/VelesSecurity"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/12126525?u=66855a61849b734f99af98778b6f2a2febd3a174&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>ZendTo unauthenticated ClamAV CVE-2026-20217 RCE and default-profile root escalation reproduction</div>",
-            "url": "https://github.com/securifera/CVE-2026-20217",
-            "title": "securifera/CVE-2026-20217: ZendTo unauthenticated ClamAV CVE-2026-20217 RCE and default-profile root escalation reproduction",
-            "date_modified": "2026-08-21T03:59:38.000Z",
-            "date_published": "2026-08-17T22:20:38.000Z",
-            "author": {
-                "name": "securifera",
-                "url": "https://github.com/securifera"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/217349927?u=4a8658dfb7494d0293707cf3c4e800eed3cd0017&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>An autonomous reflective Go agent for full-cycle security auditing, WAF evasion, OOB LDAP verification, self-remediation (auto-patching), and compliance reporting for CVE-2021-44228 (Log4Shell).</div>",
-            "url": "https://github.com/C00LN3T/Log4ShellAuditor",
-            "title": "C00LN3T/Log4ShellAuditor: An autonomous reflective Go agent for full-cycle security auditing, WAF evasion, OOB LDAP verification, self-remediation (auto-patching), and compliance reporting for CVE-2021-44228 (Log4Shell).",
-            "date_modified": "2026-08-17T00:54:29.000Z",
-            "date_published": "2026-05-31T23:20:17.000Z",
-            "author": {
-                "name": "C00LN3T",
-                "url": "https://github.com/C00LN3T"
             }
         }
     ]
