@@ -6,6 +6,17 @@
     "description": "CVE-2021 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/82807033?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2019-1388 Lab Analysis: Documented local privilege escalation via Windows UAC certificate dialogs on Windows 7.</div>",
+            "url": "https://github.com/Tafloh/CVE-2019-1388-Privilege-Escalation--2021-",
+            "title": "Tafloh/CVE-2019-1388-Privilege-Escalation--2021-: CVE-2019-1388 Lab Analysis: Documented local privilege escalation via Windows UAC certificate dialogs on Windows 7.",
+            "date_modified": "2026-09-01T12:39:58.000Z",
+            "date_published": "2026-07-22T12:50:17.000Z",
+            "author": {
+                "name": "Tafloh",
+                "url": "https://github.com/Tafloh"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/146650442?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2021-44228 (Log4Shell) 漏洞复现靶场 | SpringBoot + Log4j2 2.14.1 | 3 个攻击向量 PoC 验证</div>",
             "url": "https://github.com/14free/log4j2-vuln-lab",
             "title": "14free/log4j2-vuln-lab: CVE-2021-44228 (Log4Shell) 漏洞复现靶场 | SpringBoot + Log4j2 2.14.1 | 3 个攻击向量 PoC 验证",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "Shams-Ul-Mehmood",
                 "url": "https://github.com/Shams-Ul-Mehmood"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/238574865?u=ee8d0155becc8284d1f099973fa7f23b835af850&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
-            "url": "https://github.com/VelesSecurity/CVE-2021-1675-PrintNightmare-Analysis",
-            "title": "VelesSecurity/CVE-2021-1675-PrintNightmare-Analysis",
-            "date_modified": "2026-08-18T16:39:50.000Z",
-            "date_published": "2026-08-18T16:23:41.000Z",
-            "author": {
-                "name": "VelesSecurity",
-                "url": "https://github.com/VelesSecurity"
             }
         }
     ]

@@ -6,6 +6,17 @@
     "description": "CVE-2023 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/17119658?u=7efbd02055a47a910498f3a109bf8c50a13625df&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Exploit POC for Apache ActiveMQ CVE-2023-46604</div>",
+            "url": "https://github.com/Bhanunamikaze/ActiveMQ-CVE-2023-46604",
+            "title": "Bhanunamikaze/ActiveMQ-CVE-2023-46604: Exploit POC for Apache ActiveMQ CVE-2023-46604",
+            "date_modified": "2026-09-01T11:44:06.000Z",
+            "date_published": "2026-09-01T11:36:48.000Z",
+            "author": {
+                "name": "Bhanunamikaze",
+                "url": "https://github.com/Bhanunamikaze"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/120130511?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>oob_entry tfp0 kernel exploit for armv7 iOS (iOS 3.0–10.3.4), using CVE-2023-32434. We will publish a write-up detailing the methods in the coming weeks. 🐙</div>",
             "url": "https://github.com/rkrakesh524/oob_entry",
             "title": "rkrakesh524/oob_entry: oob_entry tfp0 kernel exploit for armv7 iOS (iOS 3.0–10.3.4), using CVE-2023-32434. We will publish a write-up detailing the methods in the coming weeks. 🐙",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "Curtail-Inc",
                 "url": "https://github.com/Curtail-Inc"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/396863?u=f58eb6b666ab9823657ff9599e1dea181471e470&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Educational study of Bitcoin key entropy: weak-RNG wallet enumeration (Milk Sad / CVE-2023-39910 class) vs. the infeasibility of brute-forcing a good key.</div>",
-            "url": "https://github.com/Xaxis/bitcoin-security",
-            "title": "Xaxis/bitcoin-security: Educational study of Bitcoin key entropy: weak-RNG wallet enumeration (Milk Sad / CVE-2023-39910 class) vs. the infeasibility of brute-forcing a good key.",
-            "date_modified": "2026-08-13T16:45:03.000Z",
-            "date_published": "2026-07-31T07:29:32.000Z",
-            "author": {
-                "name": "Xaxis",
-                "url": "https://github.com/Xaxis"
             }
         }
     ]
