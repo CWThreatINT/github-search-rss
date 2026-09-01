@@ -6,6 +6,28 @@
     "description": "CVE-2023 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/120130511?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>oob_entry tfp0 kernel exploit for armv7 iOS (iOS 3.0–10.3.4), using CVE-2023-32434. We will publish a write-up detailing the methods in the coming weeks. 🐙</div>",
+            "url": "https://github.com/rkrakesh524/oob_entry",
+            "title": "rkrakesh524/oob_entry: oob_entry tfp0 kernel exploit for armv7 iOS (iOS 3.0–10.3.4), using CVE-2023-32434. We will publish a write-up detailing the methods in the coming weeks. 🐙",
+            "date_modified": "2026-08-31T23:38:18.000Z",
+            "date_published": "2025-08-13T09:19:29.000Z",
+            "author": {
+                "name": "rkrakesh524",
+                "url": "https://github.com/rkrakesh524"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/304171033?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Security-research lab reproducing CVE-2023-6572 (GHSA-gqvf-3hgp-5hxv): command injection in gradio-app/gradio's workflow_run handling of generate-changeset.yml</div>",
+            "url": "https://github.com/pvharmo2/gha-lab-6255f5fc33",
+            "title": "pvharmo2/gha-lab-6255f5fc33: Security-research lab reproducing CVE-2023-6572 (GHSA-gqvf-3hgp-5hxv): command injection in gradio-app/gradio's workflow_run handling of generate-changeset.yml",
+            "date_modified": "2026-08-31T22:20:50.000Z",
+            "date_published": "2026-08-31T22:18:59.000Z",
+            "author": {
+                "name": "pvharmo2",
+                "url": "https://github.com/pvharmo2"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/56287751?u=648dd752fb491a51e367b9da235d073caea74e4d&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A project analysis of CVE-2023-49792, inspired by a HackerOne report I have recently come across.</div>",
             "url": "https://github.com/CStockdale1/nextcloud-cve-2023-49792-research",
             "title": "CStockdale1/nextcloud-cve-2023-49792-research: A project analysis of CVE-2023-49792, inspired by a HackerOne report I have recently come across.",
@@ -25,17 +47,6 @@
             "author": {
                 "name": "spartanx-alejandro",
                 "url": "https://github.com/spartanx-alejandro"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/120130511?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>oob_entry tfp0 kernel exploit for armv7 iOS (iOS 3.0–10.3.4), using CVE-2023-32434. We will publish a write-up detailing the methods in the coming weeks. 🐙</div>",
-            "url": "https://github.com/rkrakesh524/oob_entry",
-            "title": "rkrakesh524/oob_entry: oob_entry tfp0 kernel exploit for armv7 iOS (iOS 3.0–10.3.4), using CVE-2023-32434. We will publish a write-up detailing the methods in the coming weeks. 🐙",
-            "date_modified": "2026-08-31T17:05:40.000Z",
-            "date_published": "2025-08-13T09:19:29.000Z",
-            "author": {
-                "name": "rkrakesh524",
-                "url": "https://github.com/rkrakesh524"
             }
         },
         {
@@ -212,17 +223,6 @@
             "author": {
                 "name": "Xaxis",
                 "url": "https://github.com/Xaxis"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/312404851?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>VampSecure Labs: FortiOS CVE scanner (CVE-2018-13379, CVE-2022-40684, CVE-2023-27997, CVE-2024-21762)</div>",
-            "url": "https://github.com/Vampsecure-Labs/vamp-forticheck",
-            "title": "Vampsecure-Labs/vamp-forticheck: VampSecure Labs: FortiOS CVE scanner (CVE-2018-13379, CVE-2022-40684, CVE-2023-27997, CVE-2024-21762)",
-            "date_modified": "2026-08-12T07:55:01.000Z",
-            "date_published": "2026-07-31T10:13:19.000Z",
-            "author": {
-                "name": "Vampsecure-Labs",
-                "url": "https://github.com/Vampsecure-Labs"
             }
         }
     ]
