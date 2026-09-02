@@ -6,6 +6,39 @@
     "description": "CVE-2023 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/277360420?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>AegisGraph: graph-based application-layer assessment evidence platform for Secure Messaging Applications (SMAs). DARPA ASEMA HR0011SB20254-12 Tier 3 research. ReproChain CVE-2023-4863 reachability + PolyDiff differential parser fuzzing + claim-state governance + reproducible benchmark surface.</div>",
+            "url": "https://github.com/577Industries/aegisgraph",
+            "title": "577Industries/aegisgraph: AegisGraph: graph-based application-layer assessment evidence platform for Secure Messaging Applications (SMAs). DARPA ASEMA HR0011SB20254-12 Tier 3 research. ReproChain CVE-2023-4863 reachability + PolyDiff differential parser fuzzing + claim-state governance + reproducible benchmark surface.",
+            "date_modified": "2026-09-02T05:12:18.000Z",
+            "date_published": "2026-05-08T13:04:43.000Z",
+            "author": {
+                "name": "577Industries",
+                "url": "https://github.com/577Industries"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/71300630?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
+            "url": "https://github.com/shihongsu/NetSec-CVE-2023-4357",
+            "title": "shihongsu/NetSec-CVE-2023-4357",
+            "date_modified": "2026-09-02T02:36:54.000Z",
+            "date_published": "2026-09-02T02:15:00.000Z",
+            "author": {
+                "name": "shihongsu",
+                "url": "https://github.com/shihongsu"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/151980876?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>TOP All bugbounty pentesting CVE-2023- POC Exp  RCE example payload  Things</div>",
+            "url": "https://github.com/GhostTroops/TOP",
+            "title": "GhostTroops/TOP: TOP All bugbounty pentesting CVE-2023- POC Exp  RCE example payload  Things",
+            "date_modified": "2026-09-02T02:35:02.000Z",
+            "date_published": "2022-03-19T01:54:15.000Z",
+            "author": {
+                "name": "GhostTroops",
+                "url": "https://github.com/GhostTroops"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/56287751?u=648dd752fb491a51e367b9da235d073caea74e4d&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A project analysis of CVE-2023-49792, inspired by a HackerOne report I have recently come across.</div>",
             "url": "https://github.com/CStockdale1/nextcloud-cve-2023-49792-research",
             "title": "CStockdale1/nextcloud-cve-2023-49792-research: A project analysis of CVE-2023-49792, inspired by a HackerOne report I have recently come across.",
@@ -14,17 +47,6 @@
             "author": {
                 "name": "CStockdale1",
                 "url": "https://github.com/CStockdale1"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/277360420?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>AegisGraph: graph-based application-layer assessment evidence platform for Secure Messaging Applications (SMAs). DARPA ASEMA HR0011SB20254-12 Tier 3 research. ReproChain CVE-2023-4863 reachability + PolyDiff differential parser fuzzing + claim-state governance + reproducible benchmark surface.</div>",
-            "url": "https://github.com/577Industries/aegisgraph",
-            "title": "577Industries/aegisgraph: AegisGraph: graph-based application-layer assessment evidence platform for Secure Messaging Applications (SMAs). DARPA ASEMA HR0011SB20254-12 Tier 3 research. ReproChain CVE-2023-4863 reachability + PolyDiff differential parser fuzzing + claim-state governance + reproducible benchmark surface.",
-            "date_modified": "2026-09-01T20:59:08.000Z",
-            "date_published": "2026-05-08T13:04:43.000Z",
-            "author": {
-                "name": "577Industries",
-                "url": "https://github.com/577Industries"
             }
         },
         {
@@ -58,17 +80,6 @@
             "author": {
                 "name": "rkrakesh524",
                 "url": "https://github.com/rkrakesh524"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/151980876?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>TOP All bugbounty pentesting CVE-2023- POC Exp  RCE example payload  Things</div>",
-            "url": "https://github.com/GhostTroops/TOP",
-            "title": "GhostTroops/TOP: TOP All bugbounty pentesting CVE-2023- POC Exp  RCE example payload  Things",
-            "date_modified": "2026-09-01T03:17:17.000Z",
-            "date_published": "2022-03-19T01:54:15.000Z",
-            "author": {
-                "name": "GhostTroops",
-                "url": "https://github.com/GhostTroops"
             }
         },
         {
@@ -209,17 +220,6 @@
             "title": "0xTerror/CVE-2023-22047-Oracle-PeopleSoft-LFI: CVE-2023-22047 is a critical unauthenticated Local File Inclusion (LFI) vulnerability in Oracle PeopleSoft Enterprise PeopleTools. This exploit allows an attacker to read arbitrary files from the target server without any authentication.",
             "date_modified": "2026-08-15T17:29:45.000Z",
             "date_published": "2026-08-15T17:22:45.000Z",
-            "author": {
-                "name": "0xTerror",
-                "url": "https://github.com/0xTerror"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/212302361?u=165adecea964803de2d46a3c1e57bbf58dc42216&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2023-22047 is a critical unauthenticated Local File Inclusion (LFI) vulnerability in Oracle PeopleSoft Enterprise PeopleTools. This exploit allows an attacker to read arbitrary files from the target server without any authentication.</div>",
-            "url": "https://github.com/0xTerror/CVE-2023-22047---Oracle-PeopleSoft-LFI",
-            "title": "0xTerror/CVE-2023-22047---Oracle-PeopleSoft-LFI: CVE-2023-22047 is a critical unauthenticated Local File Inclusion (LFI) vulnerability in Oracle PeopleSoft Enterprise PeopleTools. This exploit allows an attacker to read arbitrary files from the target server without any authentication.",
-            "date_modified": "2026-08-15T17:14:06.000Z",
-            "date_published": "2026-08-15T17:13:30.000Z",
             "author": {
                 "name": "0xTerror",
                 "url": "https://github.com/0xTerror"
