@@ -6,6 +6,17 @@
     "description": "CVE-2023 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/103795428?u=f4974b46d6c6fdce1353fed3b1c1ce6cfe324e18&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Recovery notes for proxmox advisory ID: PSA-2026-00043-1 (CVE-2023-54391)</div>",
+            "url": "https://github.com/disqualifier/psa-2026-00043-recovery",
+            "title": "disqualifier/psa-2026-00043-recovery: Recovery notes for proxmox advisory ID: PSA-2026-00043-1 (CVE-2023-54391)",
+            "date_modified": "2026-09-03T22:16:44.000Z",
+            "date_published": "2026-09-03T21:51:08.000Z",
+            "author": {
+                "name": "disqualifier",
+                "url": "https://github.com/disqualifier"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/304171033?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Authorized lab reproduction of CVE-2023-26493 (GHSL-2023-027): command injection via github.head_ref in cocos-engine's &lt;Web&gt; Interface check pull_request_target workflow</div>",
             "url": "https://github.com/pvharmo2/gha-lab-fb32aba4a3",
             "title": "pvharmo2/gha-lab-fb32aba4a3: Authorized lab reproduction of CVE-2023-26493 (GHSL-2023-027): command injection via github.head_ref in cocos-engine's <Web> Interface check pull_request_target workflow",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "giordy0424",
                 "url": "https://github.com/giordy0424"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/212302361?u=165adecea964803de2d46a3c1e57bbf58dc42216&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2023-22047 is a critical unauthenticated Local File Inclusion (LFI) vulnerability in Oracle PeopleSoft Enterprise PeopleTools. This exploit allows an attacker to read arbitrary files from the target server without any authentication.</div>",
-            "url": "https://github.com/0xTerror/CVE-2023-22047-Oracle-PeopleSoft-LFI",
-            "title": "0xTerror/CVE-2023-22047-Oracle-PeopleSoft-LFI: CVE-2023-22047 is a critical unauthenticated Local File Inclusion (LFI) vulnerability in Oracle PeopleSoft Enterprise PeopleTools. This exploit allows an attacker to read arbitrary files from the target server without any authentication.",
-            "date_modified": "2026-08-15T17:29:45.000Z",
-            "date_published": "2026-08-15T17:22:45.000Z",
-            "author": {
-                "name": "0xTerror",
-                "url": "https://github.com/0xTerror"
             }
         }
     ]
