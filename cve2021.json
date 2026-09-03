@@ -6,6 +6,17 @@
     "description": "CVE-2021 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/88080067?u=778c3ee5b52db35092d5eb6da687f01bd18fbcfd&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>To fight against Windows security breach PrintNightmare! (CVE-2021-34527, CVE-2021-1675)</div>",
+            "url": "https://github.com/Tomparte/PrintNightmare",
+            "title": "Tomparte/PrintNightmare: To fight against Windows security breach PrintNightmare! (CVE-2021-34527, CVE-2021-1675)",
+            "date_modified": "2026-09-03T19:57:44.000Z",
+            "date_published": "2021-07-28T07:55:42.000Z",
+            "author": {
+                "name": "Tomparte",
+                "url": "https://github.com/Tomparte"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/82807033?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2019-1388 Lab Analysis: Documented local privilege escalation via Windows UAC certificate dialogs on Windows 7.</div>",
             "url": "https://github.com/Tafloh/CVE-2019-1388-Privilege-Escalation--2021-",
             "title": "Tafloh/CVE-2019-1388-Privilege-Escalation--2021-: CVE-2019-1388 Lab Analysis: Documented local privilege escalation via Windows UAC certificate dialogs on Windows 7.",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "andreamammano89-maker",
                 "url": "https://github.com/andreamammano89-maker"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/161685985?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
-            "url": "https://github.com/Shams-Ul-Mehmood/CVE-2021-3156-Project",
-            "title": "Shams-Ul-Mehmood/CVE-2021-3156-Project",
-            "date_modified": "2026-08-19T08:06:07.000Z",
-            "date_published": "2026-08-07T09:12:51.000Z",
-            "author": {
-                "name": "Shams-Ul-Mehmood",
-                "url": "https://github.com/Shams-Ul-Mehmood"
             }
         }
     ]
