@@ -6,6 +6,28 @@
     "description": "CVE-2023 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/56287751?u=648dd752fb491a51e367b9da235d073caea74e4d&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A project analysis of CVE-2023-49792, inspired by a HackerOne report I have recently come across.</div>",
+            "url": "https://github.com/CStockdale1/nextcloud-cve-2023-49792-research",
+            "title": "CStockdale1/nextcloud-cve-2023-49792-research: A project analysis of CVE-2023-49792, inspired by a HackerOne report I have recently come across.",
+            "date_modified": "2026-09-03T03:55:44.000Z",
+            "date_published": "2026-08-31T21:08:33.000Z",
+            "author": {
+                "name": "CStockdale1",
+                "url": "https://github.com/CStockdale1"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/151980876?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>TOP All bugbounty pentesting CVE-2023- POC Exp  RCE example payload  Things</div>",
+            "url": "https://github.com/GhostTroops/TOP",
+            "title": "GhostTroops/TOP: TOP All bugbounty pentesting CVE-2023- POC Exp  RCE example payload  Things",
+            "date_modified": "2026-09-03T02:41:37.000Z",
+            "date_published": "2022-03-19T01:54:15.000Z",
+            "author": {
+                "name": "GhostTroops",
+                "url": "https://github.com/GhostTroops"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/277360420?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>AegisGraph: graph-based application-layer assessment evidence platform for Secure Messaging Applications (SMAs). DARPA ASEMA HR0011SB20254-12 Tier 3 research. ReproChain CVE-2023-4863 reachability + PolyDiff differential parser fuzzing + claim-state governance + reproducible benchmark surface.</div>",
             "url": "https://github.com/577Industries/aegisgraph",
             "title": "577Industries/aegisgraph: AegisGraph: graph-based application-layer assessment evidence platform for Secure Messaging Applications (SMAs). DARPA ASEMA HR0011SB20254-12 Tier 3 research. ReproChain CVE-2023-4863 reachability + PolyDiff differential parser fuzzing + claim-state governance + reproducible benchmark surface.",
@@ -25,28 +47,6 @@
             "author": {
                 "name": "shihongsu",
                 "url": "https://github.com/shihongsu"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/151980876?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>TOP All bugbounty pentesting CVE-2023- POC Exp  RCE example payload  Things</div>",
-            "url": "https://github.com/GhostTroops/TOP",
-            "title": "GhostTroops/TOP: TOP All bugbounty pentesting CVE-2023- POC Exp  RCE example payload  Things",
-            "date_modified": "2026-09-02T02:35:02.000Z",
-            "date_published": "2022-03-19T01:54:15.000Z",
-            "author": {
-                "name": "GhostTroops",
-                "url": "https://github.com/GhostTroops"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/56287751?u=648dd752fb491a51e367b9da235d073caea74e4d&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A project analysis of CVE-2023-49792, inspired by a HackerOne report I have recently come across.</div>",
-            "url": "https://github.com/CStockdale1/nextcloud-cve-2023-49792-research",
-            "title": "CStockdale1/nextcloud-cve-2023-49792-research: A project analysis of CVE-2023-49792, inspired by a HackerOne report I have recently come across.",
-            "date_modified": "2026-09-01T23:09:08.000Z",
-            "date_published": "2026-08-31T21:08:33.000Z",
-            "author": {
-                "name": "CStockdale1",
-                "url": "https://github.com/CStockdale1"
             }
         },
         {
