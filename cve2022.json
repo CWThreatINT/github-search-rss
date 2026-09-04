@@ -6,6 +6,17 @@
     "description": "CVE-2022 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/237303650?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
+            "url": "https://github.com/gustanini/CVE-2022-42889-Text4Shell-POC",
+            "title": "gustanini/CVE-2022-42889-Text4Shell-POC",
+            "date_modified": "2026-09-04T10:15:02.000Z",
+            "date_published": "2026-09-04T10:11:03.000Z",
+            "author": {
+                "name": "gustanini",
+                "url": "https://github.com/gustanini"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/84614679?u=d1c085c5815a725d7f9ae28b7d540a6390348c0e&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2022-25765 | pdfkit v0.8.6 Python PoC</div>",
             "url": "https://github.com/innocentx0/CVE-2022-25765",
             "title": "innocentx0/CVE-2022-25765: CVE-2022-25765 | pdfkit v0.8.6 Python PoC",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "Vampsecure-Labs",
                 "url": "https://github.com/Vampsecure-Labs"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/149047505?u=36a24193578d526772896a60a78eaa894f86f461&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>PoC Exploit for blind SSRF in XML-RPC Wordpress</div>",
-            "url": "https://github.com/4chech/CVE-2022-3590",
-            "title": "4chech/CVE-2022-3590: PoC Exploit for blind SSRF in XML-RPC Wordpress",
-            "date_modified": "2026-08-12T04:26:34.000Z",
-            "date_published": "2026-08-12T04:26:33.000Z",
-            "author": {
-                "name": "4chech",
-                "url": "https://github.com/4chech"
             }
         }
     ]
