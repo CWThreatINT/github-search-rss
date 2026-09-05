@@ -6,6 +6,17 @@
     "description": "CVE-2021 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/325398919?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div># Jozini Network Scanner Built in Termux at KwaQondile Library, Jozini KZN  Tools: - scanner.py: Port scanner with banner grabbing (20 ports + report saving) - cve_check.py: Maps RouterOS version to known CVEs  Finding: MikroTik RouterOS 6.46.8 vulnerable to CVE-2020-2021 (Critical) Author: [Your Name] - Aspiring Pentester</div>",
+            "url": "https://github.com/mngunibanda1-prog/Jozini-network-scanner",
+            "title": "mngunibanda1-prog/Jozini-network-scanner: # Jozini Network Scanner Built in Termux at KwaQondile Library, Jozini KZN  Tools: - scanner.py: Port scanner with banner grabbing (20 ports + report saving) - cve_check.py: Maps RouterOS version to known CVEs  Finding: MikroTik RouterOS 6.46.8 vulnerable to CVE-2020-2021 (Critical) Author: [Your Name] - Aspiring Pentester",
+            "date_modified": "2026-09-05T19:50:41.000Z",
+            "date_published": "2026-09-05T19:12:27.000Z",
+            "author": {
+                "name": "mngunibanda1-prog",
+                "url": "https://github.com/mngunibanda1-prog"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/41143106?u=b79f5d86dffe824e89ae06b3b19b41a4d6dc8413&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2026-20212 - Draft or TODO</div>",
             "url": "https://github.com/HORKimhab/CVE-2026-20212",
             "title": "HORKimhab/CVE-2026-20212: CVE-2026-20212 - Draft or TODO",
@@ -108,7 +119,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/99209515?u=c63e0202a0bfdc63d133665a63f17ec8d70c10eb&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Unlock the Meta Quest 1 bootloader and gain root access using GhostLock + CVE-2021-1931.</div>",
             "url": "https://github.com/starseed12345/QuestStack",
             "title": "starseed12345/QuestStack: Unlock the Meta Quest 1 bootloader and gain root access using GhostLock + CVE-2021-1931.",
-            "date_modified": "2026-09-05T13:16:09.000Z",
+            "date_modified": "2026-09-05T18:54:24.000Z",
             "date_published": "2026-07-31T05:37:56.000Z",
             "author": {
                 "name": "starseed12345",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "nehaka02",
                 "url": "https://github.com/nehaka02"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/56201106?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Security advisories for CVE-2021-43716/43717/43718 (Epson EH-TW5350)</div>",
-            "url": "https://github.com/dpfkdlemtp/epson-eh-tw5350-advisories",
-            "title": "dpfkdlemtp/epson-eh-tw5350-advisories: Security advisories for CVE-2021-43716/43717/43718 (Epson EH-TW5350)",
-            "date_modified": "2026-08-21T01:15:24.000Z",
-            "date_published": "2026-08-12T05:10:13.000Z",
-            "author": {
-                "name": "dpfkdlemtp",
-                "url": "https://github.com/dpfkdlemtp"
             }
         }
     ]
