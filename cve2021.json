@@ -6,6 +6,17 @@
     "description": "CVE-2021 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/129468607?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Zero-days per week, before and after Mythos: exploited CVEs, AI-found vulnerabilities and vendor patch volume, one ISO week at a time since 2021.</div>",
+            "url": "https://github.com/sirbennyy88/zero-project",
+            "title": "sirbennyy88/zero-project: Zero-days per week, before and after Mythos: exploited CVEs, AI-found vulnerabilities and vendor patch volume, one ISO week at a time since 2021.",
+            "date_modified": "2026-09-06T08:03:28.000Z",
+            "date_published": "2026-09-06T07:58:32.000Z",
+            "author": {
+                "name": "sirbennyy88",
+                "url": "https://github.com/sirbennyy88"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/53303204?u=ebc027f5605225fcf5e101291120a36c163b8486&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Advisory: Cute Editor 6.4 reflected XSS via 'Theme' parameter in colorpicker_more.aspx</div>",
             "url": "https://github.com/athosgonzaga/CVE-2021-3030",
             "title": "athosgonzaga/CVE-2021-3030: Advisory: Cute Editor 6.4 reflected XSS via 'Theme' parameter in colorpicker_more.aspx",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "HORKimhab",
                 "url": "https://github.com/HORKimhab"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/233878056?u=ecdf206d7975b1c9656aecd5735103598df2051b&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>HIKRAVEN - Advanced Hikvision Security Assessment Platform for professional penetration testing. Detects 12+ CVEs including CVE-2021-36260 (CRITICAL), tests default credentials, performs network discovery, and generates professional security reports. For authorized security testing only! 🛡️🔒</div>",
-            "url": "https://github.com/sylhetyhackvenger/HIKRAVEN",
-            "title": "sylhetyhackvenger/HIKRAVEN: HIKRAVEN - Advanced Hikvision Security Assessment Platform for professional penetration testing. Detects 12+ CVEs including CVE-2021-36260 (CRITICAL), tests default credentials, performs network discovery, and generates professional security reports. For authorized security testing only! 🛡️🔒",
-            "date_modified": "2026-09-04T09:57:01.000Z",
-            "date_published": "2026-07-17T23:29:55.000Z",
-            "author": {
-                "name": "sylhetyhackvenger",
-                "url": "https://github.com/sylhetyhackvenger"
             }
         }
     ]
