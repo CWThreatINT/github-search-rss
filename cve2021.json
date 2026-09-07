@@ -6,6 +6,28 @@
     "description": "CVE-2021 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/129468607?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Zero-days per week, before and after Mythos: exploited CVEs, AI-found vulnerabilities and vendor patch volume, one ISO week at a time since 2021.</div>",
+            "url": "https://github.com/sirbennyy88/zero-project",
+            "title": "sirbennyy88/zero-project: Zero-days per week, before and after Mythos: exploited CVEs, AI-found vulnerabilities and vendor patch volume, one ISO week at a time since 2021.",
+            "date_modified": "2026-09-07T00:08:23.000Z",
+            "date_published": "2026-09-06T07:58:32.000Z",
+            "author": {
+                "name": "sirbennyy88",
+                "url": "https://github.com/sirbennyy88"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/325112385?u=94b1550871ee1494a1adba39ca0218209ef14239&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
+            "url": "https://github.com/HKenzoKimura/CVE-2021-1675",
+            "title": "HKenzoKimura/CVE-2021-1675",
+            "date_modified": "2026-09-06T23:36:56.000Z",
+            "date_published": "2026-09-06T23:32:22.000Z",
+            "author": {
+                "name": "HKenzoKimura",
+                "url": "https://github.com/HKenzoKimura"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/178926726?u=d1aced3b43107c7f8029baee6cc513890429cd1d&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2021-44228 Log4Shell reproduced end to end: exploitation through remediation</div>",
             "url": "https://github.com/Wafeeq-Fareed/log4shell-exploitation-lab",
             "title": "Wafeeq-Fareed/log4shell-exploitation-lab: CVE-2021-44228 Log4Shell reproduced end to end: exploitation through remediation",
@@ -14,17 +36,6 @@
             "author": {
                 "name": "Wafeeq-Fareed",
                 "url": "https://github.com/Wafeeq-Fareed"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/129468607?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Zero-days per week, before and after Mythos: exploited CVEs, AI-found vulnerabilities and vendor patch volume, one ISO week at a time since 2021.</div>",
-            "url": "https://github.com/sirbennyy88/zero-project",
-            "title": "sirbennyy88/zero-project: Zero-days per week, before and after Mythos: exploited CVEs, AI-found vulnerabilities and vendor patch volume, one ISO week at a time since 2021.",
-            "date_modified": "2026-09-06T11:57:40.000Z",
-            "date_published": "2026-09-06T07:58:32.000Z",
-            "author": {
-                "name": "sirbennyy88",
-                "url": "https://github.com/sirbennyy88"
             }
         },
         {
@@ -209,17 +220,6 @@
             "title": "d4ytox/CVE-2021-22204: ExifTool RCE exploit (CVE-2021-22204) - improved version, no exiftool dependency",
             "date_modified": "2026-08-22T15:17:06.000Z",
             "date_published": "2026-06-13T11:14:25.000Z",
-            "author": {
-                "name": "d4ytox",
-                "url": "https://github.com/d4ytox"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/204069580?u=b1bbb1e3b1b206347a2640efbbb49c1d3de94f67&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2021-21425 - GravCMS 1.10.7 Unauthenticated RCE via Scheduler. Improved exploit with CLI args and auto base64 encoding.</div>",
-            "url": "https://github.com/d4ytox/CVE-2021-21425",
-            "title": "d4ytox/CVE-2021-21425: CVE-2021-21425 - GravCMS 1.10.7 Unauthenticated RCE via Scheduler. Improved exploit with CLI args and auto base64 encoding.",
-            "date_modified": "2026-08-22T15:16:49.000Z",
-            "date_published": "2026-06-13T11:00:08.000Z",
             "author": {
                 "name": "d4ytox",
                 "url": "https://github.com/d4ytox"
