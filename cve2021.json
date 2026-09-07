@@ -6,6 +6,17 @@
     "description": "CVE-2021 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/49223612?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>This interactive suite targets CVE-2014-9222 (Misfortune Cookie) in legacy RomPager web servers, alongside modular testing for CVE-2017-17215 (Huawei HG532 RCE), CVE-2018-14847 (MikroTik WinBox credential leak), and the CVE-2021-27101 / CVE-2021-27102 exploit chain (Accellion FTA).</div>",
+            "url": "https://github.com/luel-4013/misfortune-cookie",
+            "title": "luel-4013/misfortune-cookie: This interactive suite targets CVE-2014-9222 (Misfortune Cookie) in legacy RomPager web servers, alongside modular testing for CVE-2017-17215 (Huawei HG532 RCE), CVE-2018-14847 (MikroTik WinBox credential leak), and the CVE-2021-27101 / CVE-2021-27102 exploit chain (Accellion FTA).",
+            "date_modified": "2026-09-07T20:03:13.000Z",
+            "date_published": "2026-09-07T19:47:47.000Z",
+            "author": {
+                "name": "luel-4013",
+                "url": "https://github.com/luel-4013"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/129468607?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Zero-days per week, before and after Mythos: exploited CVEs, AI-found vulnerabilities and vendor patch volume, one ISO week at a time since 2021.</div>",
             "url": "https://github.com/sirbennyy88/zero-project",
             "title": "sirbennyy88/zero-project: Zero-days per week, before and after Mythos: exploited CVEs, AI-found vulnerabilities and vendor patch volume, one ISO week at a time since 2021.",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "abdulrafay25-svg",
                 "url": "https://github.com/abdulrafay25-svg"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/90069111?u=175ad87f5f7faf1b4e7fb127f357f4b5e0edafa3&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Unlock the bootloader of any exploitable device vulnerable to CVE-2021-30327</div>",
-            "url": "https://github.com/Daniel224455/echidna",
-            "title": "Daniel224455/echidna: Unlock the bootloader of any exploitable device vulnerable to CVE-2021-30327",
-            "date_modified": "2026-08-30T03:05:19.000Z",
-            "date_published": "2026-08-24T20:32:57.000Z",
-            "author": {
-                "name": "Daniel224455",
-                "url": "https://github.com/Daniel224455"
             }
         }
     ]
