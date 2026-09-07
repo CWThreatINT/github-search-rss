@@ -6,6 +6,17 @@
     "description": "CVE-2023 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/40407438?u=d39e4d003ead06bc8cd839e59b44161682f6f870&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Pure C exploit for CVE-2023-4911 (Looney Tunables) — x86_64 &amp; aarch64 implementations. Multi-processing brute-forcing, dynamic calibration, integrated ELF parser.</div>",
+            "url": "https://github.com/jarpex/cve-2023-4911-exploit-optimized",
+            "title": "jarpex/cve-2023-4911-exploit-optimized: Pure C exploit for CVE-2023-4911 (Looney Tunables) — x86_64 & aarch64 implementations. Multi-processing brute-forcing, dynamic calibration, integrated ELF parser.",
+            "date_modified": "2026-09-07T20:44:26.000Z",
+            "date_published": "2026-06-29T21:05:09.000Z",
+            "author": {
+                "name": "jarpex",
+                "url": "https://github.com/jarpex"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/193401021?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Root-cause analysis and patch validation of CVE-2023-52356 in libtiff using AddressSanitizer and GDB.</div>",
             "url": "https://github.com/yardenbenita/CVE-2023-52356-libtiff-analysis",
             "title": "yardenbenita/CVE-2023-52356-libtiff-analysis: Root-cause analysis and patch validation of CVE-2023-52356 in libtiff using AddressSanitizer and GDB.",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "JoshuaASmith",
                 "url": "https://github.com/JoshuaASmith"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/118776666?u=2c67ba34693b19e00a2c852643dc61b5a2334c07&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>rapid-reset-check is a small Go CLI for quickly inventorying HTTPS endpoints that expose HTTP/2 and therefore need a CVE-2023-44487 mitigation review</div>",
-            "url": "https://github.com/ramonzx6/rapid-reset-check",
-            "title": "ramonzx6/rapid-reset-check: rapid-reset-check is a small Go CLI for quickly inventorying HTTPS endpoints that expose HTTP/2 and therefore need a CVE-2023-44487 mitigation review",
-            "date_modified": "2026-08-24T01:34:26.000Z",
-            "date_published": "2023-12-29T17:40:24.000Z",
-            "author": {
-                "name": "ramonzx6",
-                "url": "https://github.com/ramonzx6"
             }
         }
     ]

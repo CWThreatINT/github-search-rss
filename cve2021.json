@@ -6,6 +6,17 @@
     "description": "CVE-2021 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/220533903?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Log4Shell (CVE-2021-44228) exploitation from a Kali VM against a vulnerable containerized app, with Splunk-based detection engineering and validated remediation. Covers the full attack lifecycle: exploitation, JNDI and host-level auditd detection, and before/after remediation proof.</div>",
+            "url": "https://github.com/KalidouLabghaly/log4shell-exploitation-detection",
+            "title": "KalidouLabghaly/log4shell-exploitation-detection: Log4Shell (CVE-2021-44228) exploitation from a Kali VM against a vulnerable containerized app, with Splunk-based detection engineering and validated remediation. Covers the full attack lifecycle: exploitation, JNDI and host-level auditd detection, and before/after remediation proof.",
+            "date_modified": "2026-09-07T21:59:13.000Z",
+            "date_published": "2026-09-07T21:44:35.000Z",
+            "author": {
+                "name": "KalidouLabghaly",
+                "url": "https://github.com/KalidouLabghaly"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/49223612?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>This interactive suite targets CVE-2014-9222 (Misfortune Cookie) in legacy RomPager web servers, alongside modular testing for CVE-2017-17215 (Huawei HG532 RCE), CVE-2018-14847 (MikroTik WinBox credential leak), and the CVE-2021-27101 / CVE-2021-27102 exploit chain (Accellion FTA).</div>",
             "url": "https://github.com/luel-4013/misfortune-cookie",
             "title": "luel-4013/misfortune-cookie: This interactive suite targets CVE-2014-9222 (Misfortune Cookie) in legacy RomPager web servers, alongside modular testing for CVE-2017-17215 (Huawei HG532 RCE), CVE-2018-14847 (MikroTik WinBox credential leak), and the CVE-2021-27101 / CVE-2021-27102 exploit chain (Accellion FTA).",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "hyderpwn",
                 "url": "https://github.com/hyderpwn"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/318180107?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2021-41773 Apache HTTP Server 2.4.49 Path Traversal to RCE Exploit</div>",
-            "url": "https://github.com/abdulrafay25-svg/CVE-2021-41773-Exploit",
-            "title": "abdulrafay25-svg/CVE-2021-41773-Exploit: CVE-2021-41773 Apache HTTP Server 2.4.49 Path Traversal to RCE Exploit",
-            "date_modified": "2026-08-26T08:45:18.000Z",
-            "date_published": "2026-08-25T19:35:48.000Z",
-            "author": {
-                "name": "abdulrafay25-svg",
-                "url": "https://github.com/abdulrafay25-svg"
             }
         }
     ]
