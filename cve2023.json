@@ -6,10 +6,32 @@
     "description": "CVE-2023 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/55863604?u=37d0e0d37e0f081587eb416876b324a1478cf06c&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Xss injection, WonderCMS 3.2.0 -3.4.2 </div>",
+            "url": "https://github.com/Diegomjx/CVE-2023-41425-WonderCMS-Authenticated-RCE",
+            "title": "Diegomjx/CVE-2023-41425-WonderCMS-Authenticated-RCE: Xss injection, WonderCMS 3.2.0 -3.4.2 ",
+            "date_modified": "2026-09-09T20:51:58.000Z",
+            "date_published": "2024-11-24T17:39:45.000Z",
+            "author": {
+                "name": "Diegomjx",
+                "url": "https://github.com/Diegomjx"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/81971120?u=b36b58d3d60dfec63fa68a9743f1dae187782a7a&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2023-6063-PoC Exploit</div>",
+            "url": "https://github.com/zhairiazzeddine/Exploit-CVE-2023-6063-PoC-Vuln",
+            "title": "zhairiazzeddine/Exploit-CVE-2023-6063-PoC-Vuln: CVE-2023-6063-PoC Exploit",
+            "date_modified": "2026-09-09T20:19:59.000Z",
+            "date_published": "2026-09-09T20:17:00.000Z",
+            "author": {
+                "name": "zhairiazzeddine",
+                "url": "https://github.com/zhairiazzeddine"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/120130511?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>oob_entry tfp0 kernel exploit for armv7 iOS (iOS 3.0–10.3.4), using CVE-2023-32434. We will publish a write-up detailing the methods in the coming weeks. 🐙</div>",
             "url": "https://github.com/rkrakesh524/oob_entry",
             "title": "rkrakesh524/oob_entry: oob_entry tfp0 kernel exploit for armv7 iOS (iOS 3.0–10.3.4), using CVE-2023-32434. We will publish a write-up detailing the methods in the coming weeks. 🐙",
-            "date_modified": "2026-09-09T17:38:46.000Z",
+            "date_modified": "2026-09-09T19:34:07.000Z",
             "date_published": "2025-08-13T09:19:29.000Z",
             "author": {
                 "name": "rkrakesh524",
@@ -201,28 +223,6 @@
             "author": {
                 "name": "spartanx-alejandro",
                 "url": "https://github.com/spartanx-alejandro"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/250372099?u=f799717bfc754c6e9de16841a89bb632e2c0c704&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A collection of hands-on cybersecurity coursework. Includes a full penetration-testing audit of a Metasploitable 2 virtual machine (reconnaissance, five critical CVEs, and two Metasploit exploits to root) and an incident-response analysis of the 2023 23andMe data breach, complete with network forensics across three packet captures.</div>",
-            "url": "https://github.com/Ismael-Ifetayo/Security-Reports",
-            "title": "Ismael-Ifetayo/Security-Reports: A collection of hands-on cybersecurity coursework. Includes a full penetration-testing audit of a Metasploitable 2 virtual machine (reconnaissance, five critical CVEs, and two Metasploit exploits to root) and an incident-response analysis of the 2023 23andMe data breach, complete with network forensics across three packet captures.",
-            "date_modified": "2026-08-29T18:21:16.000Z",
-            "date_published": "2026-08-29T18:09:47.000Z",
-            "author": {
-                "name": "Ismael-Ifetayo",
-                "url": "https://github.com/Ismael-Ifetayo"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/41143106?u=b79f5d86dffe824e89ae06b3b19b41a4d6dc8413&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2023-27350, CVE-2023-27351 - PaperCut - Draft or TODO</div>",
-            "url": "https://github.com/HORKimhab/CVE-2023-27350-CVE-2023-27351",
-            "title": "HORKimhab/CVE-2023-27350-CVE-2023-27351: CVE-2023-27350, CVE-2023-27351 - PaperCut - Draft or TODO",
-            "date_modified": "2026-08-28T08:32:54.000Z",
-            "date_published": "2026-08-28T07:14:59.000Z",
-            "author": {
-                "name": "HORKimhab",
-                "url": "https://github.com/HORKimhab"
             }
         }
     ]
