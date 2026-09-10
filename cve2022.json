@@ -6,6 +6,17 @@
     "description": "CVE-2022 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/255097571?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>vulhub/H2-database/CVE-2022-23221</div>",
+            "url": "https://github.com/straightSang/H2-database-CVE-2022-23221",
+            "title": "straightSang/H2-database-CVE-2022-23221: vulhub/H2-database/CVE-2022-23221",
+            "date_modified": "2026-09-10T15:05:37.000Z",
+            "date_published": "2026-07-09T04:32:32.000Z",
+            "author": {
+                "name": "straightSang",
+                "url": "https://github.com/straightSang"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/75486586?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
             "url": "https://github.com/PrinceAikinsBaidoo/CVE-2022-24637",
             "title": "PrinceAikinsBaidoo/CVE-2022-24637",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "r4y-br",
                 "url": "https://github.com/r4y-br"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/13029766?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2022-36804 Bitbucket command execution and file transfer tool</div>",
-            "url": "https://github.com/Junohea/cve-2022-36804",
-            "title": "Junohea/cve-2022-36804: CVE-2022-36804 Bitbucket command execution and file transfer tool",
-            "date_modified": "2026-08-21T02:21:37.000Z",
-            "date_published": "2026-08-21T02:14:29.000Z",
-            "author": {
-                "name": "Junohea",
-                "url": "https://github.com/Junohea"
             }
         }
     ]
