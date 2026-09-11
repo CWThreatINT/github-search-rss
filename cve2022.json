@@ -6,6 +6,17 @@
     "description": "CVE-2022 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/4835677?u=d5a2439bb49c2f7d8bc37f500ca362ae071cdb01&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>FireOS 7.3.3.1 temp root by CVE-2022-38181</div>",
+            "url": "https://github.com/artur9010/amazon-mustang-hack",
+            "title": "artur9010/amazon-mustang-hack: FireOS 7.3.3.1 temp root by CVE-2022-38181",
+            "date_modified": "2026-09-11T21:15:40.000Z",
+            "date_published": "2026-09-11T21:04:59.000Z",
+            "author": {
+                "name": "artur9010",
+                "url": "https://github.com/artur9010"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/118515671?u=c97576201f2173861441ddd11eab9df8fd0f2017&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2022-34302 - Secure Boot bypass via New Horizon Datasys signed bootloader (shdloader.efi) - BYOVUA technique exploiting built-in custom PE/COFF loader to load unsigned UEFI applications without signature verification.</div>",
             "url": "https://github.com/TheMalwareGuardian/CVE-2022-34302",
             "title": "TheMalwareGuardian/CVE-2022-34302: CVE-2022-34302 - Secure Boot bypass via New Horizon Datasys signed bootloader (shdloader.efi) - BYOVUA technique exploiting built-in custom PE/COFF loader to load unsigned UEFI applications without signature verification.",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "mermehr",
                 "url": "https://github.com/mermehr"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/1097185?u=4337166dec782aa1312084b6fb92cc4e0f78865b&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2022-22077 is a high-severity vulnerability (CVSS score 7.8) affecting the RTCore64.sys driver distributed with MSI Center</div>",
-            "url": "https://github.com/grisuno/CVE-2022-22077",
-            "title": "grisuno/CVE-2022-22077: CVE-2022-22077 is a high-severity vulnerability (CVSS score 7.8) affecting the RTCore64.sys driver distributed with MSI Center",
-            "date_modified": "2026-08-28T01:47:07.000Z",
-            "date_published": "2025-09-08T21:12:19.000Z",
-            "author": {
-                "name": "grisuno",
-                "url": "https://github.com/grisuno"
             }
         }
     ]
