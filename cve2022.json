@@ -6,6 +6,28 @@
     "description": "CVE-2022 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/61962556?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2022-3176 io_uring POLLFREE UAF analysis and verified AArch64 CTF exploit</div>",
+            "url": "https://github.com/moonnull/RingofIO-analysis",
+            "title": "moonnull/RingofIO-analysis: CVE-2022-3176 io_uring POLLFREE UAF analysis and verified AArch64 CTF exploit",
+            "date_modified": "2026-09-11T06:46:39.000Z",
+            "date_published": "2026-09-11T06:46:38.000Z",
+            "author": {
+                "name": "moonnull",
+                "url": "https://github.com/moonnull"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/74727747?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Reproduction of the Retbleed (CVE-2022-29900/29901) micro-architectural attack in gem5. RSB underflow, Flush+Reload side-channel leak, and a verified lfence mitigation.</div>",
+            "url": "https://github.com/abdul-kalam2000/retbleed-speculative-execution-poc",
+            "title": "abdul-kalam2000/retbleed-speculative-execution-poc: Reproduction of the Retbleed (CVE-2022-29900/29901) micro-architectural attack in gem5. RSB underflow, Flush+Reload side-channel leak, and a verified lfence mitigation.",
+            "date_modified": "2026-09-11T02:33:37.000Z",
+            "date_published": "2026-09-11T02:22:23.000Z",
+            "author": {
+                "name": "abdul-kalam2000",
+                "url": "https://github.com/abdul-kalam2000"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/255097571?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>vulhub/H2-database/CVE-2022-23221</div>",
             "url": "https://github.com/straightSang/H2-database-CVE-2022-23221",
             "title": "straightSang/H2-database-CVE-2022-23221: vulhub/H2-database/CVE-2022-23221",
@@ -201,28 +223,6 @@
             "author": {
                 "name": "uLl0a",
                 "url": "https://github.com/uLl0a"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/2423679?u=c71e9657752fd5935c1fc7f296d2e1285f274773&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Owning a tablet Amazon kept shutting down — CVE-2022-38181 write-up, four AI models, and a blog</div>",
-            "url": "https://github.com/ericpardee/fire-hd-ownership",
-            "title": "ericpardee/fire-hd-ownership: Owning a tablet Amazon kept shutting down — CVE-2022-38181 write-up, four AI models, and a blog",
-            "date_modified": "2026-08-26T13:57:29.000Z",
-            "date_published": "2026-08-20T08:02:17.000Z",
-            "author": {
-                "name": "ericpardee",
-                "url": "https://github.com/ericpardee"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/192902133?u=783d41e5f0d440792717c63be1940853c9b59856&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Educational proof-of-concept automation for CVE-2022-22963, demonstrated in an authorized Hack The Box lab environment.</div>",
-            "url": "https://github.com/r4y-br/CVE-2022-22963",
-            "title": "r4y-br/CVE-2022-22963: Educational proof-of-concept automation for CVE-2022-22963, demonstrated in an authorized Hack The Box lab environment.",
-            "date_modified": "2026-08-22T09:46:11.000Z",
-            "date_published": "2026-08-22T09:45:30.000Z",
-            "author": {
-                "name": "r4y-br",
-                "url": "https://github.com/r4y-br"
             }
         }
     ]
