@@ -6,6 +6,39 @@
     "description": "CVE-2022 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/118515671?u=c97576201f2173861441ddd11eab9df8fd0f2017&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2022-34302 - Secure Boot bypass via New Horizon Datasys signed bootloader (shdloader.efi) - BYOVUA technique exploiting built-in custom PE/COFF loader to load unsigned UEFI applications without signature verification.</div>",
+            "url": "https://github.com/TheMalwareGuardian/CVE-2022-34302",
+            "title": "TheMalwareGuardian/CVE-2022-34302: CVE-2022-34302 - Secure Boot bypass via New Horizon Datasys signed bootloader (shdloader.efi) - BYOVUA technique exploiting built-in custom PE/COFF loader to load unsigned UEFI applications without signature verification.",
+            "date_modified": "2026-09-11T18:43:03.000Z",
+            "date_published": "2026-09-07T10:44:31.000Z",
+            "author": {
+                "name": "TheMalwareGuardian",
+                "url": "https://github.com/TheMalwareGuardian"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/118515671?u=c97576201f2173861441ddd11eab9df8fd0f2017&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2022-34303 - Secure Boot bypass via CryptoPro Secure Disk signed UEFI Shell (Shell_Full.efi) - BYOVUA technique exploiting mm command for gSecurity2 corruption to load unsigned UEFI applications.</div>",
+            "url": "https://github.com/TheMalwareGuardian/CVE-2022-34303",
+            "title": "TheMalwareGuardian/CVE-2022-34303: CVE-2022-34303 - Secure Boot bypass via CryptoPro Secure Disk signed UEFI Shell (Shell_Full.efi) - BYOVUA technique exploiting mm command for gSecurity2 corruption to load unsigned UEFI applications.",
+            "date_modified": "2026-09-11T18:33:48.000Z",
+            "date_published": "2026-08-31T07:23:58.000Z",
+            "author": {
+                "name": "TheMalwareGuardian",
+                "url": "https://github.com/TheMalwareGuardian"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/118515671?u=c97576201f2173861441ddd11eab9df8fd0f2017&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2022-34301 - Secure Boot bypass via Eurosoft signed UEFI Shell (esdiags.efi) - BYOVUA technique exploiting mm command for gSecurity2 corruption to load unsigned UEFI applications.</div>",
+            "url": "https://github.com/TheMalwareGuardian/CVE-2022-34301",
+            "title": "TheMalwareGuardian/CVE-2022-34301: CVE-2022-34301 - Secure Boot bypass via Eurosoft signed UEFI Shell (esdiags.efi) - BYOVUA technique exploiting mm command for gSecurity2 corruption to load unsigned UEFI applications.",
+            "date_modified": "2026-09-11T18:27:37.000Z",
+            "date_published": "2026-09-07T08:50:29.000Z",
+            "author": {
+                "name": "TheMalwareGuardian",
+                "url": "https://github.com/TheMalwareGuardian"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/74727747?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Reproduction of the Retbleed (CVE-2022-29900/29901) micro-architectural attack in gem5. RSB underflow, Flush+Reload side-channel leak, and a verified lfence mitigation.</div>",
             "url": "https://github.com/abdul-kalam2000/retbleed-speculative-execution-poc",
             "title": "abdul-kalam2000/retbleed-speculative-execution-poc: Reproduction of the Retbleed (CVE-2022-29900/29901) micro-architectural attack in gem5. RSB underflow, Flush+Reload side-channel leak, and a verified lfence mitigation.",
@@ -190,39 +223,6 @@
             "author": {
                 "name": "grisuno",
                 "url": "https://github.com/grisuno"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/265468268?u=29211a2add983d283758d9ef885f8b204fbc8dac&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2022-28906 Proof of concept in Python3</div>",
-            "url": "https://github.com/finnvle/CVE-2022-28906-POC",
-            "title": "finnvle/CVE-2022-28906-POC: CVE-2022-28906 Proof of concept in Python3",
-            "date_modified": "2026-08-25T08:31:55.000Z",
-            "date_published": "2026-08-25T07:10:08.000Z",
-            "author": {
-                "name": "finnvle",
-                "url": "https://github.com/finnvle"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/179660318?u=c4a5dda1ad2efbb5408aacddfdc5192ada3722ee&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Proof of Concept (PoC) for research and controlled laboratory validation of CVE-2022-42475, a critical heap-based buffer overflow vulnerability affecting the SSL-VPN service in certain versions of FortiOS.</div>",
-            "url": "https://github.com/uLl0a/cve-2022-42475-poc",
-            "title": "uLl0a/cve-2022-42475-poc: Proof of Concept (PoC) for research and controlled laboratory validation of CVE-2022-42475, a critical heap-based buffer overflow vulnerability affecting the SSL-VPN service in certain versions of FortiOS.",
-            "date_modified": "2026-08-25T17:02:39.000Z",
-            "date_published": "2026-08-25T04:17:24.000Z",
-            "author": {
-                "name": "uLl0a",
-                "url": "https://github.com/uLl0a"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/2423679?u=c71e9657752fd5935c1fc7f296d2e1285f274773&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Owning a tablet Amazon kept shutting down — CVE-2022-38181 write-up, four AI models, and a blog</div>",
-            "url": "https://github.com/ericpardee/fire-hd-ownership",
-            "title": "ericpardee/fire-hd-ownership: Owning a tablet Amazon kept shutting down — CVE-2022-38181 write-up, four AI models, and a blog",
-            "date_modified": "2026-08-26T13:57:29.000Z",
-            "date_published": "2026-08-20T08:02:17.000Z",
-            "author": {
-                "name": "ericpardee",
-                "url": "https://github.com/ericpardee"
             }
         }
     ]
