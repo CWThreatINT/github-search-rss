@@ -6,6 +6,17 @@
     "description": "CVE-2021 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/11529207?u=042d5a0131ffaf3ba1e6c2912a9fb5649798fbdc&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Survival analysis of 196,000 CVEs since 2021 shows that calendar-based patch SLAs miss the 26.4% of exploits already active before public disclosure.</div>",
+            "url": "https://github.com/patrick-lefler/rQuarto_time-to-exploit_survival_analysis_2026-09-10",
+            "title": "patrick-lefler/rQuarto_time-to-exploit_survival_analysis_2026-09-10: Survival analysis of 196,000 CVEs since 2021 shows that calendar-based patch SLAs miss the 26.4% of exploits already active before public disclosure.",
+            "date_modified": "2026-09-12T19:47:17.000Z",
+            "date_published": "2026-09-12T06:35:07.000Z",
+            "author": {
+                "name": "patrick-lefler",
+                "url": "https://github.com/patrick-lefler"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/90069111?u=175ad87f5f7faf1b4e7fb127f357f4b5e0edafa3&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Let's hijack our bootchain - CVE-2021-30327</div>",
             "url": "https://github.com/Daniel224455/katana",
             "title": "Daniel224455/katana: Let's hijack our bootchain - CVE-2021-30327",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "Vaibhav91one",
                 "url": "https://github.com/Vaibhav91one"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/322590151?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Reproducible Python analysis of NVD CVE feeds from 2021–2025 for Xi Wu’s dissertation.</div>",
-            "url": "https://github.com/XiWu117/NVD_2021_2025_Xi_Wu",
-            "title": "XiWu117/NVD_2021_2025_Xi_Wu: Reproducible Python analysis of NVD CVE feeds from 2021–2025 for Xi Wu’s dissertation.",
-            "date_modified": "2026-08-29T20:09:56.000Z",
-            "date_published": "2026-08-29T19:28:30.000Z",
-            "author": {
-                "name": "XiWu117",
-                "url": "https://github.com/XiWu117"
             }
         }
     ]
