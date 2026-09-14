@@ -6,6 +6,17 @@
     "description": "CVE-2022 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/102522579?u=1b7d91d2ae16f3bd75549da97665618f8a9c2ca6&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Windows update overview: every KB for Windows 10/11 and Server 2022/2025 with severity, fixed CVEs and Microsoft's known issues – newest first, auto-updated from MSRC, update history and release health. PHP, no framework, DE/EN.</div>",
+            "url": "https://github.com/Anivia1337/windows-updates",
+            "title": "Anivia1337/windows-updates: Windows update overview: every KB for Windows 10/11 and Server 2022/2025 with severity, fixed CVEs and Microsoft's known issues – newest first, auto-updated from MSRC, update history and release health. PHP, no framework, DE/EN.",
+            "date_modified": "2026-09-14T20:14:02.000Z",
+            "date_published": "2026-09-14T20:07:24.000Z",
+            "author": {
+                "name": "Anivia1337",
+                "url": "https://github.com/Anivia1337"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/101929604?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
             "url": "https://github.com/vudangducminh/CVE-2022-0847",
             "title": "vudangducminh/CVE-2022-0847",
@@ -17,7 +28,7 @@
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/83717675?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/83717675?u=96c8709cbfcf8936d3ab76a4c1742966b1bb24e9&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
             "url": "https://github.com/roodhelios/CVE-2022-26134-OGNL-Injection",
             "title": "roodhelios/CVE-2022-26134-OGNL-Injection",
             "date_modified": "2026-09-14T03:24:34.000Z",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "K4PXD",
                 "url": "https://github.com/K4PXD"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/186073228?u=238a6b5c8ac3593905da584092b512025f1fc897&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Threat model and vulnerability analysis of Contec SolarView Compact (CVE-2022-29303)</div>",
-            "url": "https://github.com/camgoering/solarview-ics-vulnerability-analysis",
-            "title": "camgoering/solarview-ics-vulnerability-analysis: Threat model and vulnerability analysis of Contec SolarView Compact (CVE-2022-29303)",
-            "date_modified": "2026-08-26T20:13:03.000Z",
-            "date_published": "2026-08-26T19:36:42.000Z",
-            "author": {
-                "name": "camgoering",
-                "url": "https://github.com/camgoering"
             }
         }
     ]
