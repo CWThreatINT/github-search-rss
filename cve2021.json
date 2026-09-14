@@ -6,6 +6,28 @@
     "description": "CVE-2021 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/220780988?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>PwnKit - polkit pkexec Local Privilege Escalation &lt;= 0.105-31</div>",
+            "url": "https://github.com/r00t-byte/Pwnkit-CVE-2021-4034-LPE",
+            "title": "r00t-byte/Pwnkit-CVE-2021-4034-LPE: PwnKit - polkit pkexec Local Privilege Escalation <= 0.105-31",
+            "date_modified": "2026-09-14T14:01:28.000Z",
+            "date_published": "2026-09-14T13:47:00.000Z",
+            "author": {
+                "name": "r00t-byte",
+                "url": "https://github.com/r00t-byte"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/160733420?u=dbf142bf628d2d762b9da9dc0fde902ab18b81f2&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
+            "url": "https://github.com/rh-rahulshetty/log4shell-CVE-2021-44228",
+            "title": "rh-rahulshetty/log4shell-CVE-2021-44228",
+            "date_modified": "2026-09-14T12:52:14.000Z",
+            "date_published": "2026-09-14T12:51:47.000Z",
+            "author": {
+                "name": "rh-rahulshetty",
+                "url": "https://github.com/rh-rahulshetty"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/11529207?u=042d5a0131ffaf3ba1e6c2912a9fb5649798fbdc&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Survival analysis of 196,000 CVEs since 2021 shows that calendar-based patch SLAs miss the 26.4% of exploits already active before public disclosure.</div>",
             "url": "https://github.com/patrick-lefler/rQuarto_time-to-exploit_survival_analysis_2026-09-10",
             "title": "patrick-lefler/rQuarto_time-to-exploit_survival_analysis_2026-09-10: Survival analysis of 196,000 CVEs since 2021 shows that calendar-based patch SLAs miss the 26.4% of exploits already active before public disclosure.",
@@ -201,28 +223,6 @@
             "author": {
                 "name": "pvharmo2",
                 "url": "https://github.com/pvharmo2"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/304171033?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Authorized security-research lab reproducing CVE-2021-21423 (GHSA-gg2g-m5wc-vccq): projen rebuild-bot pwn request via issue_comment</div>",
-            "url": "https://github.com/pvharmo2/gha-lab-b9842b12c0",
-            "title": "pvharmo2/gha-lab-b9842b12c0: Authorized security-research lab reproducing CVE-2021-21423 (GHSA-gg2g-m5wc-vccq): projen rebuild-bot pwn request via issue_comment",
-            "date_modified": "2026-08-31T05:19:56.000Z",
-            "date_published": "2026-08-31T05:06:44.000Z",
-            "author": {
-                "name": "pvharmo2",
-                "url": "https://github.com/pvharmo2"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/108279746?u=795cbe57882cdcf2fda79d83f1dc1103ef51bbc1&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Log4Shell CVE-2021-44228 vulnerable lab</div>",
-            "url": "https://github.com/Vaibhav91one/log4shell-cve-lab",
-            "title": "Vaibhav91one/log4shell-cve-lab: Log4Shell CVE-2021-44228 vulnerable lab",
-            "date_modified": "2026-08-30T13:07:15.000Z",
-            "date_published": "2026-08-30T12:24:22.000Z",
-            "author": {
-                "name": "Vaibhav91one",
-                "url": "https://github.com/Vaibhav91one"
             }
         }
     ]
