@@ -6,6 +6,28 @@
     "description": "CVE-2021 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/161004060?u=af314c60ee1c0d604f4bdbc967a996cfe5d04e93&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2021-41773/ CVE-2014-0160/ CVE-2023-25690/ CVE-2023-44487</div>",
+            "url": "https://github.com/TienToan2005/ATM-HTTP_HTTPS_WEB_SERVER_HARDENING",
+            "title": "TienToan2005/ATM-HTTP_HTTPS_WEB_SERVER_HARDENING: CVE-2021-41773/ CVE-2014-0160/ CVE-2023-25690/ CVE-2023-44487",
+            "date_modified": "2026-09-15T11:30:25.000Z",
+            "date_published": "2026-09-15T11:30:24.000Z",
+            "author": {
+                "name": "TienToan2005",
+                "url": "https://github.com/TienToan2005"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/10680674?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Tracking the family of unrelated IoT botnets sharing CVE-2021-35394 as a delivery vector — findings, relationships, methodology.</div>",
+            "url": "https://github.com/graphworlok/cve-2021-35394-ecosystem",
+            "title": "graphworlok/cve-2021-35394-ecosystem: Tracking the family of unrelated IoT botnets sharing CVE-2021-35394 as a delivery vector — findings, relationships, methodology.",
+            "date_modified": "2026-09-15T09:53:08.000Z",
+            "date_published": "2026-09-10T10:57:44.000Z",
+            "author": {
+                "name": "graphworlok",
+                "url": "https://github.com/graphworlok"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/129468607?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Zero-days per week, before and after Mythos: exploited CVEs, AI-found vulnerabilities and vendor patch volume, one ISO week at a time since 2021.</div>",
             "url": "https://github.com/sirbennyy88/zero-project",
             "title": "sirbennyy88/zero-project: Zero-days per week, before and after Mythos: exploited CVEs, AI-found vulnerabilities and vendor patch volume, one ISO week at a time since 2021.",
@@ -201,28 +223,6 @@
             "author": {
                 "name": "14free",
                 "url": "https://github.com/14free"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/101990124?u=c6d60da253c5a4591f9cd0e0c5e86449a6dcfe06&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>It's a CVE-2021-3493 Exploit written in C</div>",
-            "url": "https://github.com/r3dw4n48m3d/CVE-2021-3493-Exploit",
-            "title": "r3dw4n48m3d/CVE-2021-3493-Exploit: It's a CVE-2021-3493 Exploit written in C",
-            "date_modified": "2026-09-01T03:11:07.000Z",
-            "date_published": "2026-09-01T02:56:40.000Z",
-            "author": {
-                "name": "r3dw4n48m3d",
-                "url": "https://github.com/r3dw4n48m3d"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/304171033?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Security-research lab reproducing CVE-2021-4281 (GHSA-3796-3f93-cfvx): shell command injection via PR head-branch name in .github/workflows/combine-prs.yml (snapshot of BraveUX/for-the-badge @ 409c1fda). Do not use; authorized reproduction only.</div>",
-            "url": "https://github.com/pvharmo2/gha-lab-232af4821f",
-            "title": "pvharmo2/gha-lab-232af4821f: Security-research lab reproducing CVE-2021-4281 (GHSA-3796-3f93-cfvx): shell command injection via PR head-branch name in .github/workflows/combine-prs.yml (snapshot of BraveUX/for-the-badge @ 409c1fda). Do not use; authorized reproduction only.",
-            "date_modified": "2026-08-31T09:50:36.000Z",
-            "date_published": "2026-08-31T09:41:35.000Z",
-            "author": {
-                "name": "pvharmo2",
-                "url": "https://github.com/pvharmo2"
             }
         }
     ]
