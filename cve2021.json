@@ -6,6 +6,17 @@
     "description": "CVE-2021 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/173711250?u=2345c874c68fd81de0b169a580a2731d1537d234&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2021-29447 is an authenticated XML External Entity (XXE) vulnerability in WordPress</div>",
+            "url": "https://github.com/Kashyapghodasara/Public_Exploit-1--Wordpress-CVE-2021-29447",
+            "title": "Kashyapghodasara/Public_Exploit-1--Wordpress-CVE-2021-29447: CVE-2021-29447 is an authenticated XML External Entity (XXE) vulnerability in WordPress",
+            "date_modified": "2026-09-16T12:17:21.000Z",
+            "date_published": "2026-09-16T12:06:50.000Z",
+            "author": {
+                "name": "Kashyapghodasara",
+                "url": "https://github.com/Kashyapghodasara"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/10680674?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Tracking the family of unrelated IoT botnets sharing CVE-2021-35394 as a delivery vector — findings, relationships, methodology.</div>",
             "url": "https://github.com/graphworlok/cve-2021-35394-ecosystem",
             "title": "graphworlok/cve-2021-35394-ecosystem: Tracking the family of unrelated IoT botnets sharing CVE-2021-35394 as a delivery vector — findings, relationships, methodology.",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "14free",
                 "url": "https://github.com/14free"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/101990124?u=c6d60da253c5a4591f9cd0e0c5e86449a6dcfe06&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>It's a CVE-2021-3493 Exploit written in C</div>",
-            "url": "https://github.com/r3dw4n48m3d/CVE-2021-3493-Exploit",
-            "title": "r3dw4n48m3d/CVE-2021-3493-Exploit: It's a CVE-2021-3493 Exploit written in C",
-            "date_modified": "2026-09-01T03:11:07.000Z",
-            "date_published": "2026-09-01T02:56:40.000Z",
-            "author": {
-                "name": "r3dw4n48m3d",
-                "url": "https://github.com/r3dw4n48m3d"
             }
         }
     ]

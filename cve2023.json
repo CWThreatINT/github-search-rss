@@ -6,6 +6,17 @@
     "description": "CVE-2023 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/318980587?u=c4d03dc05ab6a085efa05c9f28dd9fe20e940c43&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>In-memory kernel root for Lenovo Legion Y700 2023 (TB320FC) via CVE-2025-21479</div>",
+            "url": "https://github.com/7678837-glitch/lenovo_y700_tb320fc_on_CVE-2025-21479",
+            "title": "7678837-glitch/lenovo_y700_tb320fc_on_CVE-2025-21479: In-memory kernel root for Lenovo Legion Y700 2023 (TB320FC) via CVE-2025-21479",
+            "date_modified": "2026-09-16T12:58:44.000Z",
+            "date_published": "2026-09-16T12:58:43.000Z",
+            "author": {
+                "name": "7678837-glitch",
+                "url": "https://github.com/7678837-glitch"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/120130511?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>oob_entry tfp0 kernel exploit for armv7 iOS (iOS 3.0–10.3.4), using CVE-2023-32434. We will publish a write-up detailing the methods in the coming weeks. 🐙</div>",
             "url": "https://github.com/rkrakesh524/oob_entry",
             "title": "rkrakesh524/oob_entry: oob_entry tfp0 kernel exploit for armv7 iOS (iOS 3.0–10.3.4), using CVE-2023-32434. We will publish a write-up detailing the methods in the coming weeks. 🐙",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "shihongsu",
                 "url": "https://github.com/shihongsu"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/299946762?u=3bcf1dc91b68cc2a7f17917f61290e51b3e9baf8&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>The FortiGate SSL-VPN pot of gold. CVE-2024-21762 and CVE-2023-27997.  79 working exploit clients. 53 hardware SKUs. 55 FortiOS builds. </div>",
-            "url": "https://github.com/abraxas/Fortigate-SSL-VPN-Exploit-Kit",
-            "title": "abraxas/Fortigate-SSL-VPN-Exploit-Kit: The FortiGate SSL-VPN pot of gold. CVE-2024-21762 and CVE-2023-27997.  79 working exploit clients. 53 hardware SKUs. 55 FortiOS builds. ",
-            "date_modified": "2026-09-15T20:35:23.000Z",
-            "date_published": "2026-09-01T20:04:23.000Z",
-            "author": {
-                "name": "abraxas",
-                "url": "https://github.com/abraxas"
             }
         }
     ]

@@ -6,6 +6,17 @@
     "description": "CVE-2022 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/26120836?u=281a0008aaa0d1d8789866797efa59c227bf2dd8&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>WordPress plugin Welcart e-Commerce &lt; 2.8.5 - Arbitrary File Read</div>",
+            "url": "https://github.com/anirbala98/CVE-2022-4140",
+            "title": "anirbala98/CVE-2022-4140: WordPress plugin Welcart e-Commerce < 2.8.5 - Arbitrary File Read",
+            "date_modified": "2026-09-16T11:25:44.000Z",
+            "date_published": "2026-09-07T13:48:33.000Z",
+            "author": {
+                "name": "anirbala98",
+                "url": "https://github.com/anirbala98"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/109347215?u=393e200650326a3e6b8e16b6d49510e9562a9742&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Unlocking the ZTE Blade V40 Vita (P606F02 / Unisoc UMS9230 / UFS) bootloader via CVE-2022-38694 - Linux scripts, the FBE post-unlock hang fix, and the two traps nobody documents</div>",
             "url": "https://github.com/redzrush101/zte-blade-v40-vita-unlock",
             "title": "redzrush101/zte-blade-v40-vita-unlock: Unlocking the ZTE Blade V40 Vita (P606F02 / Unisoc UMS9230 / UFS) bootloader via CVE-2022-38694 - Linux scripts, the FBE post-unlock hang fix, and the two traps nobody documents",
@@ -168,17 +179,6 @@
             "author": {
                 "name": "Gadorach",
                 "url": "https://github.com/Gadorach"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/26120836?u=281a0008aaa0d1d8789866797efa59c227bf2dd8&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>WordPress plugin Welcart e-Commerce &lt; 2.8.5 - Arbitrary File Read</div>",
-            "url": "https://github.com/anirbala98/CVE-2022-4140",
-            "title": "anirbala98/CVE-2022-4140: WordPress plugin Welcart e-Commerce < 2.8.5 - Arbitrary File Read",
-            "date_modified": "2026-09-08T13:07:52.000Z",
-            "date_published": "2026-09-07T13:48:33.000Z",
-            "author": {
-                "name": "anirbala98",
-                "url": "https://github.com/anirbala98"
             }
         },
         {
