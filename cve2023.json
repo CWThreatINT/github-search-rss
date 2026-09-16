@@ -6,6 +6,28 @@
     "description": "CVE-2023 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/79040327?u=4ef3261416b9bcd641b4456f11ece214829e63b7&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Original standalone Proof-of-Concept exploit for CVE-2023-23946 (Git path traversal via crafted patches in git-apply).</div>",
+            "url": "https://github.com/tralsesec/CVE-2023-23946",
+            "title": "tralsesec/CVE-2023-23946: Original standalone Proof-of-Concept exploit for CVE-2023-23946 (Git path traversal via crafted patches in git-apply).",
+            "date_modified": "2026-09-16T19:25:09.000Z",
+            "date_published": "2026-05-16T17:08:07.000Z",
+            "author": {
+                "name": "tralsesec",
+                "url": "https://github.com/tralsesec"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/79040327?u=4ef3261416b9bcd641b4456f11ece214829e63b7&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Original standalone Proof-of-Concept exploit and execution harness for CVE-2023-20052 (ClamAV DMG XML Entity Expansion).</div>",
+            "url": "https://github.com/tralsesec/CVE-2023-20052",
+            "title": "tralsesec/CVE-2023-20052: Original standalone Proof-of-Concept exploit and execution harness for CVE-2023-20052 (ClamAV DMG XML Entity Expansion).",
+            "date_modified": "2026-09-16T19:24:03.000Z",
+            "date_published": "2026-05-16T17:00:22.000Z",
+            "author": {
+                "name": "tralsesec",
+                "url": "https://github.com/tralsesec"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/318980587?u=c4d03dc05ab6a085efa05c9f28dd9fe20e940c43&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>In-memory kernel root for Lenovo Legion Y700 2023 (TB320FC) via CVE-2025-21479</div>",
             "url": "https://github.com/7678837-glitch/lenovo_y700_tb320fc_on_CVE-2025-21479",
             "title": "7678837-glitch/lenovo_y700_tb320fc_on_CVE-2025-21479: In-memory kernel root for Lenovo Legion Y700 2023 (TB320FC) via CVE-2025-21479",
@@ -201,28 +223,6 @@
             "author": {
                 "name": "CStockdale1",
                 "url": "https://github.com/CStockdale1"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/277360420?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>AegisGraph: graph-based application-layer assessment evidence platform for Secure Messaging Applications (SMAs). DARPA ASEMA HR0011SB20254-12 Tier 3 research. ReproChain CVE-2023-4863 reachability + PolyDiff differential parser fuzzing + claim-state governance + reproducible benchmark surface.</div>",
-            "url": "https://github.com/577Industries/aegisgraph",
-            "title": "577Industries/aegisgraph: AegisGraph: graph-based application-layer assessment evidence platform for Secure Messaging Applications (SMAs). DARPA ASEMA HR0011SB20254-12 Tier 3 research. ReproChain CVE-2023-4863 reachability + PolyDiff differential parser fuzzing + claim-state governance + reproducible benchmark surface.",
-            "date_modified": "2026-09-02T05:12:18.000Z",
-            "date_published": "2026-05-08T13:04:43.000Z",
-            "author": {
-                "name": "577Industries",
-                "url": "https://github.com/577Industries"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/71300630?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
-            "url": "https://github.com/shihongsu/NetSec-CVE-2023-4357",
-            "title": "shihongsu/NetSec-CVE-2023-4357",
-            "date_modified": "2026-09-02T02:36:54.000Z",
-            "date_published": "2026-09-02T02:15:00.000Z",
-            "author": {
-                "name": "shihongsu",
-                "url": "https://github.com/shihongsu"
             }
         }
     ]
