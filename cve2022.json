@@ -6,6 +6,17 @@
     "description": "CVE-2022 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/36407322?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Blogpost: <a href=\"https://whereisk0shl.top/post/break-me-out-of-sandbox-in-old-pipe-cve-2022-22715-windows-dirty-pipe\" class=\"Link--inTextBlock\" rel=\"nofollow\">https://whereisk0shl.top/post/break-me-out-of-sandbox-in-old-pipe-cve-2022-22715-windows-dirty-pipe</a></div>",
+            "url": "https://github.com/vportal/CVE-2022-22715",
+            "title": "vportal/CVE-2022-22715: Blogpost: https://whereisk0shl.top/post/break-me-out-of-sandbox-in-old-pipe-cve-2022-22715-windows-dirty-pipe",
+            "date_modified": "2026-09-16T15:28:03.000Z",
+            "date_published": "2026-09-16T15:15:28.000Z",
+            "author": {
+                "name": "vportal",
+                "url": "https://github.com/vportal"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/26120836?u=281a0008aaa0d1d8789866797efa59c227bf2dd8&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>WordPress plugin Welcart e-Commerce &lt; 2.8.5 - Arbitrary File Read</div>",
             "url": "https://github.com/anirbala98/CVE-2022-4140",
             "title": "anirbala98/CVE-2022-4140: WordPress plugin Welcart e-Commerce < 2.8.5 - Arbitrary File Read",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "CharanMv08",
                 "url": "https://github.com/CharanMv08"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/118923461?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Confluence Unauth RCE (CVE-2022-26134)</div>",
-            "url": "https://github.com/crypt0lith/confluence-ognl-rce",
-            "title": "crypt0lith/confluence-ognl-rce: Confluence Unauth RCE (CVE-2022-26134)",
-            "date_modified": "2026-08-29T21:35:26.000Z",
-            "date_published": "2026-02-26T17:52:29.000Z",
-            "author": {
-                "name": "crypt0lith",
-                "url": "https://github.com/crypt0lith"
             }
         }
     ]
