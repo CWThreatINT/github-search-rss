@@ -6,6 +6,17 @@
     "description": "CVE-2021 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/13796763?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2021-43287 CVE-2021-43288 CVE-2021-43289 CVE-2021-43290</div>",
+            "url": "https://github.com/HigorGabrielDCF/GoCD_PoC_Supply_Chain_Attack",
+            "title": "HigorGabrielDCF/GoCD_PoC_Supply_Chain_Attack: CVE-2021-43287 CVE-2021-43288 CVE-2021-43289 CVE-2021-43290",
+            "date_modified": "2026-09-17T00:33:38.000Z",
+            "date_published": "2025-10-11T02:32:32.000Z",
+            "author": {
+                "name": "HigorGabrielDCF",
+                "url": "https://github.com/HigorGabrielDCF"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/173711250?u=2345c874c68fd81de0b169a580a2731d1537d234&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2021-29447 is an authenticated XML External Entity (XXE) vulnerability in WordPress</div>",
             "url": "https://github.com/Kashyapghodasara/Public_Exploit-1--Wordpress-CVE-2021-29447",
             "title": "Kashyapghodasara/Public_Exploit-1--Wordpress-CVE-2021-29447: CVE-2021-29447 is an authenticated XML External Entity (XXE) vulnerability in WordPress",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "Tafloh",
                 "url": "https://github.com/Tafloh"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/146650442?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2021-44228 (Log4Shell) 漏洞复现靶场 | SpringBoot + Log4j2 2.14.1 | 3 个攻击向量 PoC 验证</div>",
-            "url": "https://github.com/14free/log4j2-vuln-lab",
-            "title": "14free/log4j2-vuln-lab: CVE-2021-44228 (Log4Shell) 漏洞复现靶场 | SpringBoot + Log4j2 2.14.1 | 3 个攻击向量 PoC 验证",
-            "date_modified": "2026-09-01T04:15:15.000Z",
-            "date_published": "2026-09-01T04:04:00.000Z",
-            "author": {
-                "name": "14free",
-                "url": "https://github.com/14free"
             }
         }
     ]
