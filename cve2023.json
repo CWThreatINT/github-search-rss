@@ -6,22 +6,33 @@
     "description": "CVE-2023 FEED on GitHub",
     "items": [
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/79040327?u=4ef3261416b9bcd641b4456f11ece214829e63b7&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Original standalone Proof-of-Concept exploit for CVE-2023-23946 (Git path traversal via crafted patches in git-apply).</div>",
-            "url": "https://github.com/tralsesec/CVE-2023-23946",
-            "title": "tralsesec/CVE-2023-23946: Original standalone Proof-of-Concept exploit for CVE-2023-23946 (Git path traversal via crafted patches in git-apply).",
-            "date_modified": "2026-09-16T19:25:09.000Z",
-            "date_published": "2026-05-16T17:08:07.000Z",
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/79040327?u=4ef3261416b9bcd641b4456f11ece214829e63b7&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Original standalone Proof-of-Concept exploit and execution harness for CVE-2023-20052 (ClamAV DMG XML Entity Expansion).</div>",
+            "url": "https://github.com/tralsesec/CVE-2023-20052",
+            "title": "tralsesec/CVE-2023-20052: Original standalone Proof-of-Concept exploit and execution harness for CVE-2023-20052 (ClamAV DMG XML Entity Expansion).",
+            "date_modified": "2026-09-17T05:54:44.000Z",
+            "date_published": "2026-05-16T17:00:22.000Z",
             "author": {
                 "name": "tralsesec",
                 "url": "https://github.com/tralsesec"
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/79040327?u=4ef3261416b9bcd641b4456f11ece214829e63b7&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Original standalone Proof-of-Concept exploit and execution harness for CVE-2023-20052 (ClamAV DMG XML Entity Expansion).</div>",
-            "url": "https://github.com/tralsesec/CVE-2023-20052",
-            "title": "tralsesec/CVE-2023-20052: Original standalone Proof-of-Concept exploit and execution harness for CVE-2023-20052 (ClamAV DMG XML Entity Expansion).",
-            "date_modified": "2026-09-16T19:24:03.000Z",
-            "date_published": "2026-05-16T17:00:22.000Z",
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/151980876?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>TOP All bugbounty pentesting CVE-2023- POC Exp  RCE example payload  Things</div>",
+            "url": "https://github.com/GhostTroops/TOP",
+            "title": "GhostTroops/TOP: TOP All bugbounty pentesting CVE-2023- POC Exp  RCE example payload  Things",
+            "date_modified": "2026-09-17T03:06:46.000Z",
+            "date_published": "2022-03-19T01:54:15.000Z",
+            "author": {
+                "name": "GhostTroops",
+                "url": "https://github.com/GhostTroops"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/79040327?u=4ef3261416b9bcd641b4456f11ece214829e63b7&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Original standalone Proof-of-Concept exploit for CVE-2023-23946 (Git path traversal via crafted patches in git-apply).</div>",
+            "url": "https://github.com/tralsesec/CVE-2023-23946",
+            "title": "tralsesec/CVE-2023-23946: Original standalone Proof-of-Concept exploit for CVE-2023-23946 (Git path traversal via crafted patches in git-apply).",
+            "date_modified": "2026-09-16T19:25:09.000Z",
+            "date_published": "2026-05-16T17:08:07.000Z",
             "author": {
                 "name": "tralsesec",
                 "url": "https://github.com/tralsesec"
@@ -47,17 +58,6 @@
             "author": {
                 "name": "rkrakesh524",
                 "url": "https://github.com/rkrakesh524"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/151980876?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>TOP All bugbounty pentesting CVE-2023- POC Exp  RCE example payload  Things</div>",
-            "url": "https://github.com/GhostTroops/TOP",
-            "title": "GhostTroops/TOP: TOP All bugbounty pentesting CVE-2023- POC Exp  RCE example payload  Things",
-            "date_modified": "2026-09-16T03:03:03.000Z",
-            "date_published": "2022-03-19T01:54:15.000Z",
-            "author": {
-                "name": "GhostTroops",
-                "url": "https://github.com/GhostTroops"
             }
         },
         {
