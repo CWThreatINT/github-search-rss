@@ -6,6 +6,17 @@
     "description": "CVE-2021 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/151489388?u=6de5d2ac5777226384c4ce6186e7d1e40327cfb0&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Enumerate Grafana plugin enumeration PoC for CVE-2021-43798</div>",
+            "url": "https://github.com/Squ1shification/Grafana-Plugin-Enumerator-CVE-2021-43798",
+            "title": "Squ1shification/Grafana-Plugin-Enumerator-CVE-2021-43798: Enumerate Grafana plugin enumeration PoC for CVE-2021-43798",
+            "date_modified": "2026-09-18T04:01:10.000Z",
+            "date_published": "2026-09-18T03:45:53.000Z",
+            "author": {
+                "name": "Squ1shification",
+                "url": "https://github.com/Squ1shification"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/129468607?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Zero-days per week, before and after Mythos: exploited CVEs, AI-found vulnerabilities and vendor patch volume, one ISO week at a time since 2021.</div>",
             "url": "https://github.com/sirbennyy88/zero-project",
             "title": "sirbennyy88/zero-project: Zero-days per week, before and after Mythos: exploited CVEs, AI-found vulnerabilities and vendor patch volume, one ISO week at a time since 2021.",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "Tomparte",
                 "url": "https://github.com/Tomparte"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/82807033?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2019-1388 Lab Analysis: Documented local privilege escalation via Windows UAC certificate dialogs on Windows 7.</div>",
-            "url": "https://github.com/Tafloh/CVE-2019-1388-Privilege-Escalation--2021-",
-            "title": "Tafloh/CVE-2019-1388-Privilege-Escalation--2021-: CVE-2019-1388 Lab Analysis: Documented local privilege escalation via Windows UAC certificate dialogs on Windows 7.",
-            "date_modified": "2026-09-01T12:39:58.000Z",
-            "date_published": "2026-07-22T12:50:17.000Z",
-            "author": {
-                "name": "Tafloh",
-                "url": "https://github.com/Tafloh"
             }
         }
     ]
