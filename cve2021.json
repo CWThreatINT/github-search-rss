@@ -6,6 +6,17 @@
     "description": "CVE-2021 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/11529207?u=042d5a0131ffaf3ba1e6c2912a9fb5649798fbdc&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Survival analysis of 196,000 CVEs since 2021 shows that calendar-based patch SLAs miss the 26.4% of exploits already active before public disclosure.</div>",
+            "url": "https://github.com/patrick-lefler/rQuarto_time-to-exploit_survival_analysis_2026-09-10",
+            "title": "patrick-lefler/rQuarto_time-to-exploit_survival_analysis_2026-09-10: Survival analysis of 196,000 CVEs since 2021 shows that calendar-based patch SLAs miss the 26.4% of exploits already active before public disclosure.",
+            "date_modified": "2026-09-18T16:42:30.000Z",
+            "date_published": "2026-09-12T06:35:07.000Z",
+            "author": {
+                "name": "patrick-lefler",
+                "url": "https://github.com/patrick-lefler"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/151489388?u=6de5d2ac5777226384c4ce6186e7d1e40327cfb0&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Enumerate Grafana plugin enumeration PoC for CVE-2021-43798</div>",
             "url": "https://github.com/Squ1shification/Grafana-Plugin-Enumerator-CVE-2021-43798",
             "title": "Squ1shification/Grafana-Plugin-Enumerator-CVE-2021-43798: Enumerate Grafana plugin enumeration PoC for CVE-2021-43798",
@@ -80,17 +91,6 @@
             "author": {
                 "name": "rh-rahulshetty",
                 "url": "https://github.com/rh-rahulshetty"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/11529207?u=042d5a0131ffaf3ba1e6c2912a9fb5649798fbdc&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Survival analysis of 196,000 CVEs since 2021 shows that calendar-based patch SLAs miss the 26.4% of exploits already active before public disclosure.</div>",
-            "url": "https://github.com/patrick-lefler/rQuarto_time-to-exploit_survival_analysis_2026-09-10",
-            "title": "patrick-lefler/rQuarto_time-to-exploit_survival_analysis_2026-09-10: Survival analysis of 196,000 CVEs since 2021 shows that calendar-based patch SLAs miss the 26.4% of exploits already active before public disclosure.",
-            "date_modified": "2026-09-13T20:01:24.000Z",
-            "date_published": "2026-09-12T06:35:07.000Z",
-            "author": {
-                "name": "patrick-lefler",
-                "url": "https://github.com/patrick-lefler"
             }
         },
         {
