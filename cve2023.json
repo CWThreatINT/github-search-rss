@@ -6,6 +6,28 @@
     "description": "CVE-2023 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/156820616?u=de53d8b6c22111a002c4ca27a01e966762a8f0f2&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Exploit information for CVE-2023-26609 </div>",
+            "url": "https://github.com/D1G17/CVE-2023-26609",
+            "title": "D1G17/CVE-2023-26609: Exploit information for CVE-2023-26609 ",
+            "date_modified": "2026-09-17T23:39:45.000Z",
+            "date_published": "2024-01-16T15:02:39.000Z",
+            "author": {
+                "name": "D1G17",
+                "url": "https://github.com/D1G17"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/156820616?u=de53d8b6c22111a002c4ca27a01e966762a8f0f2&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Exploit information for CVE-2023-26602 </div>",
+            "url": "https://github.com/D1G17/CVE-2023-26602",
+            "title": "D1G17/CVE-2023-26602: Exploit information for CVE-2023-26602 ",
+            "date_modified": "2026-09-17T23:39:16.000Z",
+            "date_published": "2024-01-16T15:01:33.000Z",
+            "author": {
+                "name": "D1G17",
+                "url": "https://github.com/D1G17"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/79040327?u=4ef3261416b9bcd641b4456f11ece214829e63b7&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Original standalone Proof-of-Concept exploit and execution harness for CVE-2023-20052 (ClamAV DMG XML Entity Expansion).</div>",
             "url": "https://github.com/tralsesec/CVE-2023-20052",
             "title": "tralsesec/CVE-2023-20052: Original standalone Proof-of-Concept exploit and execution harness for CVE-2023-20052 (ClamAV DMG XML Entity Expansion).",
@@ -201,28 +223,6 @@
             "author": {
                 "name": "disqualifier",
                 "url": "https://github.com/disqualifier"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/304171033?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Authorized lab reproduction of CVE-2023-26493 (GHSL-2023-027): command injection via github.head_ref in cocos-engine's &lt;Web&gt; Interface check pull_request_target workflow</div>",
-            "url": "https://github.com/pvharmo2/gha-lab-fb32aba4a3",
-            "title": "pvharmo2/gha-lab-fb32aba4a3: Authorized lab reproduction of CVE-2023-26493 (GHSL-2023-027): command injection via github.head_ref in cocos-engine's <Web> Interface check pull_request_target workflow",
-            "date_modified": "2026-09-03T17:44:41.000Z",
-            "date_published": "2026-08-31T13:53:42.000Z",
-            "author": {
-                "name": "pvharmo2",
-                "url": "https://github.com/pvharmo2"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/56287751?u=648dd752fb491a51e367b9da235d073caea74e4d&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A project analysis of CVE-2023-49792, inspired by a HackerOne report I have recently come across.</div>",
-            "url": "https://github.com/CStockdale1/nextcloud-cve-2023-49792-research",
-            "title": "CStockdale1/nextcloud-cve-2023-49792-research: A project analysis of CVE-2023-49792, inspired by a HackerOne report I have recently come across.",
-            "date_modified": "2026-09-03T03:55:44.000Z",
-            "date_published": "2026-08-31T21:08:33.000Z",
-            "author": {
-                "name": "CStockdale1",
-                "url": "https://github.com/CStockdale1"
             }
         }
     ]
