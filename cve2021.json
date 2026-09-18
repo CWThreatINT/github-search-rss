@@ -6,6 +6,17 @@
     "description": "CVE-2021 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/305407873?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Log4Shell (CVE-2021-44228) security review documentation and advisory triage</div>",
+            "url": "https://github.com/mcpmark-eval-liuhezi/log4shell-audit",
+            "title": "mcpmark-eval-liuhezi/log4shell-audit: Log4Shell (CVE-2021-44228) security review documentation and advisory triage",
+            "date_modified": "2026-09-18T18:29:51.000Z",
+            "date_published": "2026-09-18T18:28:53.000Z",
+            "author": {
+                "name": "mcpmark-eval-liuhezi",
+                "url": "https://github.com/mcpmark-eval-liuhezi"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/11529207?u=042d5a0131ffaf3ba1e6c2912a9fb5649798fbdc&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Survival analysis of 196,000 CVEs since 2021 shows that calendar-based patch SLAs miss the 26.4% of exploits already active before public disclosure.</div>",
             "url": "https://github.com/patrick-lefler/rQuarto_time-to-exploit_survival_analysis_2026-09-10",
             "title": "patrick-lefler/rQuarto_time-to-exploit_survival_analysis_2026-09-10: Survival analysis of 196,000 CVEs since 2021 shows that calendar-based patch SLAs miss the 26.4% of exploits already active before public disclosure.",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "HORKimhab",
                 "url": "https://github.com/HORKimhab"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/88080067?u=778c3ee5b52db35092d5eb6da687f01bd18fbcfd&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>To fight against Windows security breach PrintNightmare! (CVE-2021-34527, CVE-2021-1675)</div>",
-            "url": "https://github.com/Tomparte/PrintNightmare",
-            "title": "Tomparte/PrintNightmare: To fight against Windows security breach PrintNightmare! (CVE-2021-34527, CVE-2021-1675)",
-            "date_modified": "2026-09-03T19:57:44.000Z",
-            "date_published": "2021-07-28T07:55:42.000Z",
-            "author": {
-                "name": "Tomparte",
-                "url": "https://github.com/Tomparte"
             }
         }
     ]
