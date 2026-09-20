@@ -6,6 +6,28 @@
     "description": "CVE-2023 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/105312724?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
+            "url": "https://github.com/deepanshu-khurana/CVE-2023-43804",
+            "title": "deepanshu-khurana/CVE-2023-43804",
+            "date_modified": "2026-09-20T15:26:44.000Z",
+            "date_published": "2026-09-20T14:07:22.000Z",
+            "author": {
+                "name": "deepanshu-khurana",
+                "url": "https://github.com/deepanshu-khurana"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/208958449?u=d7441b42c7e17634c92a39af9fcf04856fe63b0b&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
+            "url": "https://github.com/AmulyaKaushik/CVE-2023-27163-lab",
+            "title": "AmulyaKaushik/CVE-2023-27163-lab",
+            "date_modified": "2026-09-20T14:29:01.000Z",
+            "date_published": "2026-09-20T13:38:38.000Z",
+            "author": {
+                "name": "AmulyaKaushik",
+                "url": "https://github.com/AmulyaKaushik"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/214270742?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
             "url": "https://github.com/TheArtist54/CVE-2023-21554-PoC",
             "title": "TheArtist54/CVE-2023-21554-PoC",
@@ -20,7 +42,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/151980876?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>TOP All bugbounty pentesting CVE-2023- POC Exp  RCE example payload  Things</div>",
             "url": "https://github.com/GhostTroops/TOP",
             "title": "GhostTroops/TOP: TOP All bugbounty pentesting CVE-2023- POC Exp  RCE example payload  Things",
-            "date_modified": "2026-09-20T03:04:38.000Z",
+            "date_modified": "2026-09-20T15:10:03.000Z",
             "date_published": "2022-03-19T01:54:15.000Z",
             "author": {
                 "name": "GhostTroops",
@@ -201,28 +223,6 @@
             "author": {
                 "name": "yardenbenita",
                 "url": "https://github.com/yardenbenita"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/191275178?u=f9ab69c5acc756e77137f2a17a54fde53033a5bd&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A mock app for the GitLab CVE-2023-7028, which allow multile email adresses when ordering a password reset.</div>",
-            "url": "https://github.com/FearThePLOTO/GitLab-CVE-2023-7028",
-            "title": "FearThePLOTO/GitLab-CVE-2023-7028: A mock app for the GitLab CVE-2023-7028, which allow multile email adresses when ordering a password reset.",
-            "date_modified": "2026-09-06T08:08:04.000Z",
-            "date_published": "2026-09-06T06:14:21.000Z",
-            "author": {
-                "name": "FearThePLOTO",
-                "url": "https://github.com/FearThePLOTO"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/230576031?u=f268e6a06662ee069fc3e8dee603704ee30c7069&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A PoC and automated version detection/exploit tool for JetBrains TeamCity Authentication Bypass &amp; RCE (CVE-2023-42793).</div>",
-            "url": "https://github.com/burakacar6/CVE-2023-42793-TeamCity-Unauthenticated-RCE",
-            "title": "burakacar6/CVE-2023-42793-TeamCity-Unauthenticated-RCE: A PoC and automated version detection/exploit tool for JetBrains TeamCity Authentication Bypass & RCE (CVE-2023-42793).",
-            "date_modified": "2026-09-05T06:29:06.000Z",
-            "date_published": "2026-09-05T06:25:41.000Z",
-            "author": {
-                "name": "burakacar6",
-                "url": "https://github.com/burakacar6"
             }
         }
     ]

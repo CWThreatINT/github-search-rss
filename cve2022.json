@@ -17,6 +17,17 @@
             }
         },
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/1097185?u=4337166dec782aa1312084b6fb92cc4e0f78865b&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2022-22077 is a high-severity vulnerability (CVSS score 7.8) affecting the RTCore64.sys driver distributed with MSI Center</div>",
+            "url": "https://github.com/grisuno/CVE-2022-22077",
+            "title": "grisuno/CVE-2022-22077: CVE-2022-22077 is a high-severity vulnerability (CVSS score 7.8) affecting the RTCore64.sys driver distributed with MSI Center",
+            "date_modified": "2026-09-20T14:49:13.000Z",
+            "date_published": "2025-09-08T21:12:19.000Z",
+            "author": {
+                "name": "grisuno",
+                "url": "https://github.com/grisuno"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/36407322?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Blogpost: <a href=\"https://whereisk0shl.top/post/break-me-out-of-sandbox-in-old-pipe-cve-2022-22715-windows-dirty-pipe\" class=\"Link--inTextBlock\" rel=\"nofollow\">https://whereisk0shl.top/post/break-me-out-of-sandbox-in-old-pipe-cve-2022-22715-windows-dirty-pipe</a></div>",
             "url": "https://github.com/vportal/CVE-2022-22715",
             "title": "vportal/CVE-2022-22715: Blogpost: https://whereisk0shl.top/post/break-me-out-of-sandbox-in-old-pipe-cve-2022-22715-windows-dirty-pipe",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "innocentx0",
                 "url": "https://github.com/innocentx0"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/230161252?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2022-29117 (.NET Cookie-Handling DoS) Assessment, Understanding &amp; Questions Framework</div>",
-            "url": "https://github.com/CharanMv08/cve-2022-29117-assessment",
-            "title": "CharanMv08/cve-2022-29117-assessment: CVE-2022-29117 (.NET Cookie-Handling DoS) Assessment, Understanding & Questions Framework",
-            "date_modified": "2026-08-31T11:58:58.000Z",
-            "date_published": "2026-08-31T11:51:50.000Z",
-            "author": {
-                "name": "CharanMv08",
-                "url": "https://github.com/CharanMv08"
             }
         }
     ]
