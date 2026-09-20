@@ -83,17 +83,6 @@
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/10680674?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Tracking the family of unrelated IoT botnets sharing CVE-2021-35394 as a delivery vector — findings, relationships, methodology.</div>",
-            "url": "https://github.com/graphworlok/cve-2021-35394-ecosystem",
-            "title": "graphworlok/cve-2021-35394-ecosystem: Tracking the family of unrelated IoT botnets sharing CVE-2021-35394 as a delivery vector — findings, relationships, methodology.",
-            "date_modified": "2026-09-15T09:53:08.000Z",
-            "date_published": "2026-09-10T10:57:44.000Z",
-            "author": {
-                "name": "graphworlok",
-                "url": "https://github.com/graphworlok"
-            }
-        },
-        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/220780988?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>PwnKit - polkit pkexec Local Privilege Escalation &lt;= 0.105-31</div>",
             "url": "https://github.com/r00t-byte/Pwnkit-CVE-2021-4034-LPE",
             "title": "r00t-byte/Pwnkit-CVE-2021-4034-LPE: PwnKit - polkit pkexec Local Privilege Escalation <= 0.105-31",
@@ -223,6 +212,17 @@
             "author": {
                 "name": "mngunibanda1-prog",
                 "url": "https://github.com/mngunibanda1-prog"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/41143106?u=b79f5d86dffe824e89ae06b3b19b41a4d6dc8413&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2026-20212 - Draft or TODO</div>",
+            "url": "https://github.com/HORKimhab/CVE-2026-20212",
+            "title": "HORKimhab/CVE-2026-20212: CVE-2026-20212 - Draft or TODO",
+            "date_modified": "2026-09-11T04:52:29.000Z",
+            "date_published": "2026-09-03T23:54:32.000Z",
+            "author": {
+                "name": "HORKimhab",
+                "url": "https://github.com/HORKimhab"
             }
         }
     ]
