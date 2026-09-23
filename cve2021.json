@@ -6,6 +6,17 @@
     "description": "CVE-2021 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/298255005?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Docker-based cybersecurity lab for studying and reproducing CVE-2021-41773 in an isolated environment.</div>",
+            "url": "https://github.com/1833ravikumar-max/CVE-2021-41773-Apache-Path-Traversal-Lab",
+            "title": "1833ravikumar-max/CVE-2021-41773-Apache-Path-Traversal-Lab: Docker-based cybersecurity lab for studying and reproducing CVE-2021-41773 in an isolated environment.",
+            "date_modified": "2026-09-23T19:40:29.000Z",
+            "date_published": "2026-09-23T19:14:38.000Z",
+            "author": {
+                "name": "1833ravikumar-max",
+                "url": "https://github.com/1833ravikumar-max"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/263181276?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
             "url": "https://github.com/rankthree/SOC-Detection-T1003.001-CVE-2021-40444",
             "title": "rankthree/SOC-Detection-T1003.001-CVE-2021-40444",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "Wafeeq-Fareed",
                 "url": "https://github.com/Wafeeq-Fareed"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/53303204?u=ebc027f5605225fcf5e101291120a36c163b8486&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Advisory: Cute Editor 6.4 reflected XSS via 'Theme' parameter in colorpicker_more.aspx</div>",
-            "url": "https://github.com/athosgonzaga/CVE-2021-3030",
-            "title": "athosgonzaga/CVE-2021-3030: Advisory: Cute Editor 6.4 reflected XSS via 'Theme' parameter in colorpicker_more.aspx",
-            "date_modified": "2026-09-06T00:17:24.000Z",
-            "date_published": "2026-09-06T00:17:17.000Z",
-            "author": {
-                "name": "athosgonzaga",
-                "url": "https://github.com/athosgonzaga"
             }
         }
     ]
