@@ -6,6 +6,28 @@
     "description": "CVE-2023 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/81207744?u=c18042714f2e4a49b136fb1910d1472769a1432c&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Proof of concept for CVE-2023-40028: Ghost arbitrary file read</div>",
+            "url": "https://github.com/godylockz/CVE-2023-40028",
+            "title": "godylockz/CVE-2023-40028: Proof of concept for CVE-2023-40028: Ghost arbitrary file read",
+            "date_modified": "2026-09-24T04:16:42.000Z",
+            "date_published": "2025-01-20T22:01:38.000Z",
+            "author": {
+                "name": "godylockz",
+                "url": "https://github.com/godylockz"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/151980876?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>TOP All bugbounty pentesting CVE-2023- POC Exp  RCE example payload  Things</div>",
+            "url": "https://github.com/GhostTroops/TOP",
+            "title": "GhostTroops/TOP: TOP All bugbounty pentesting CVE-2023- POC Exp  RCE example payload  Things",
+            "date_modified": "2026-09-24T03:42:53.000Z",
+            "date_published": "2022-03-19T01:54:15.000Z",
+            "author": {
+                "name": "GhostTroops",
+                "url": "https://github.com/GhostTroops"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/312404851?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>VampSecure Labs: FortiOS CVE scanner (CVE-2018-13379, CVE-2022-40684, CVE-2023-27997, CVE-2024-21762)</div>",
             "url": "https://github.com/Vampsecure-Labs/vamp-forticheck",
             "title": "Vampsecure-Labs/vamp-forticheck: VampSecure Labs: FortiOS CVE scanner (CVE-2018-13379, CVE-2022-40684, CVE-2023-27997, CVE-2024-21762)",
@@ -14,17 +36,6 @@
             "author": {
                 "name": "Vampsecure-Labs",
                 "url": "https://github.com/Vampsecure-Labs"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/151980876?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>TOP All bugbounty pentesting CVE-2023- POC Exp  RCE example payload  Things</div>",
-            "url": "https://github.com/GhostTroops/TOP",
-            "title": "GhostTroops/TOP: TOP All bugbounty pentesting CVE-2023- POC Exp  RCE example payload  Things",
-            "date_modified": "2026-09-23T23:54:41.000Z",
-            "date_published": "2022-03-19T01:54:15.000Z",
-            "author": {
-                "name": "GhostTroops",
-                "url": "https://github.com/GhostTroops"
             }
         },
         {
@@ -212,17 +223,6 @@
             "author": {
                 "name": "zhairiazzeddine",
                 "url": "https://github.com/zhairiazzeddine"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/185062739?u=b5c937be37f73daa3d3d383cc43948ce20397be7&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Writeup of the Hackthebox Helix machine</div>",
-            "url": "https://github.com/luiskrnr/HTB_Helix_CVE-2023-34468",
-            "title": "luiskrnr/HTB_Helix_CVE-2023-34468: Writeup of the Hackthebox Helix machine",
-            "date_modified": "2026-09-09T16:55:02.000Z",
-            "date_published": "2026-09-09T16:38:24.000Z",
-            "author": {
-                "name": "luiskrnr",
-                "url": "https://github.com/luiskrnr"
             }
         }
     ]

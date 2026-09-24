@@ -6,6 +6,17 @@
     "description": "CVE-2021 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/81207744?u=c18042714f2e4a49b136fb1910d1472769a1432c&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Proof of concept for CVE-2021-44967: LimeSurvey authenticated RCE</div>",
+            "url": "https://github.com/godylockz/CVE-2021-44967",
+            "title": "godylockz/CVE-2021-44967: Proof of concept for CVE-2021-44967: LimeSurvey authenticated RCE",
+            "date_modified": "2026-09-24T04:16:41.000Z",
+            "date_published": "2025-02-17T04:55:23.000Z",
+            "author": {
+                "name": "godylockz",
+                "url": "https://github.com/godylockz"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/298255005?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Docker-based cybersecurity lab for studying and reproducing CVE-2021-41773 in an isolated environment.</div>",
             "url": "https://github.com/1833ravikumar-max/CVE-2021-41773-Apache-Path-Traversal-Lab",
             "title": "1833ravikumar-max/CVE-2021-41773-Apache-Path-Traversal-Lab: Docker-based cybersecurity lab for studying and reproducing CVE-2021-41773 in an isolated environment.",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "HKenzoKimura",
                 "url": "https://github.com/HKenzoKimura"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/178926726?u=d1aced3b43107c7f8029baee6cc513890429cd1d&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2021-44228 Log4Shell reproduced end to end: exploitation through remediation</div>",
-            "url": "https://github.com/Wafeeq-Fareed/log4shell-exploitation-lab",
-            "title": "Wafeeq-Fareed/log4shell-exploitation-lab: CVE-2021-44228 Log4Shell reproduced end to end: exploitation through remediation",
-            "date_modified": "2026-09-06T14:54:09.000Z",
-            "date_published": "2026-09-06T14:48:16.000Z",
-            "author": {
-                "name": "Wafeeq-Fareed",
-                "url": "https://github.com/Wafeeq-Fareed"
             }
         }
     ]
