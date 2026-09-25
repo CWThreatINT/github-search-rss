@@ -6,6 +6,17 @@
     "description": "CVE-2022 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/312404851?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>VampSecure Labs: FortiOS CVE scanner (CVE-2018-13379, CVE-2022-40684, CVE-2023-27997, CVE-2024-21762)</div>",
+            "url": "https://github.com/Vampsecure-Labs/vamp-forticheck",
+            "title": "Vampsecure-Labs/vamp-forticheck: VampSecure Labs: FortiOS CVE scanner (CVE-2018-13379, CVE-2022-40684, CVE-2023-27997, CVE-2024-21762)",
+            "date_modified": "2026-09-25T08:28:55.000Z",
+            "date_published": "2026-07-31T10:13:19.000Z",
+            "author": {
+                "name": "Vampsecure-Labs",
+                "url": "https://github.com/Vampsecure-Labs"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/198447610?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Provable check for CVE-2022-40769: does an EOA's private key lie in the Profanity-reachable key space?</div>",
             "url": "https://github.com/artsbykriss/profanity-verifier",
             "title": "artsbykriss/profanity-verifier: Provable check for CVE-2022-40769: does an EOA's private key lie in the Profanity-reachable key space?",
@@ -14,17 +25,6 @@
             "author": {
                 "name": "artsbykriss",
                 "url": "https://github.com/artsbykriss"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/312404851?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>VampSecure Labs: FortiOS CVE scanner (CVE-2018-13379, CVE-2022-40684, CVE-2023-27997, CVE-2024-21762)</div>",
-            "url": "https://github.com/Vampsecure-Labs/vamp-forticheck",
-            "title": "Vampsecure-Labs/vamp-forticheck: VampSecure Labs: FortiOS CVE scanner (CVE-2018-13379, CVE-2022-40684, CVE-2023-27997, CVE-2024-21762)",
-            "date_modified": "2026-09-23T09:30:30.000Z",
-            "date_published": "2026-07-31T10:13:19.000Z",
-            "author": {
-                "name": "Vampsecure-Labs",
-                "url": "https://github.com/Vampsecure-Labs"
             }
         },
         {

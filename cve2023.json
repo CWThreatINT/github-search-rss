@@ -6,6 +6,28 @@
     "description": "CVE-2023 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/235692443?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Python exploit for CVE-2023-25690 — Apache HTTP Request Smuggling via CRLF injection in mod_rewrite/mod_proxy. Built and tested against TryHackMe's Contrabando box.</div>",
+            "url": "https://github.com/roshanrajbanshi/cve-2023-25690-smuggler",
+            "title": "roshanrajbanshi/cve-2023-25690-smuggler: Python exploit for CVE-2023-25690 — Apache HTTP Request Smuggling via CRLF injection in mod_rewrite/mod_proxy. Built and tested against TryHackMe's Contrabando box.",
+            "date_modified": "2026-09-25T09:31:35.000Z",
+            "date_published": "2026-09-25T09:23:01.000Z",
+            "author": {
+                "name": "roshanrajbanshi",
+                "url": "https://github.com/roshanrajbanshi"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/312404851?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>VampSecure Labs: FortiOS CVE scanner (CVE-2018-13379, CVE-2022-40684, CVE-2023-27997, CVE-2024-21762)</div>",
+            "url": "https://github.com/Vampsecure-Labs/vamp-forticheck",
+            "title": "Vampsecure-Labs/vamp-forticheck: VampSecure Labs: FortiOS CVE scanner (CVE-2018-13379, CVE-2022-40684, CVE-2023-27997, CVE-2024-21762)",
+            "date_modified": "2026-09-25T08:28:55.000Z",
+            "date_published": "2026-07-31T10:13:19.000Z",
+            "author": {
+                "name": "Vampsecure-Labs",
+                "url": "https://github.com/Vampsecure-Labs"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/120130511?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>oob_entry tfp0 kernel exploit for armv7 iOS (iOS 3.0–10.3.4), using CVE-2023-32434. We will publish a write-up detailing the methods in the coming weeks. 🐙</div>",
             "url": "https://github.com/rkrakesh524/oob_entry",
             "title": "rkrakesh524/oob_entry: oob_entry tfp0 kernel exploit for armv7 iOS (iOS 3.0–10.3.4), using CVE-2023-32434. We will publish a write-up detailing the methods in the coming weeks. 🐙",
@@ -47,17 +69,6 @@
             "author": {
                 "name": "godylockz",
                 "url": "https://github.com/godylockz"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/312404851?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>VampSecure Labs: FortiOS CVE scanner (CVE-2018-13379, CVE-2022-40684, CVE-2023-27997, CVE-2024-21762)</div>",
-            "url": "https://github.com/Vampsecure-Labs/vamp-forticheck",
-            "title": "Vampsecure-Labs/vamp-forticheck: VampSecure Labs: FortiOS CVE scanner (CVE-2018-13379, CVE-2022-40684, CVE-2023-27997, CVE-2024-21762)",
-            "date_modified": "2026-09-23T09:30:30.000Z",
-            "date_published": "2026-07-31T10:13:19.000Z",
-            "author": {
-                "name": "Vampsecure-Labs",
-                "url": "https://github.com/Vampsecure-Labs"
             }
         },
         {
@@ -212,17 +223,6 @@
             "author": {
                 "name": "ivanesk315",
                 "url": "https://github.com/ivanesk315"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/55863604?u=37d0e0d37e0f081587eb416876b324a1478cf06c&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Xss injection, WonderCMS 3.2.0 -3.4.2 </div>",
-            "url": "https://github.com/Diegomjx/CVE-2023-41425-WonderCMS-Authenticated-RCE",
-            "title": "Diegomjx/CVE-2023-41425-WonderCMS-Authenticated-RCE: Xss injection, WonderCMS 3.2.0 -3.4.2 ",
-            "date_modified": "2026-09-09T20:51:58.000Z",
-            "date_published": "2024-11-24T17:39:45.000Z",
-            "author": {
-                "name": "Diegomjx",
-                "url": "https://github.com/Diegomjx"
             }
         }
     ]
