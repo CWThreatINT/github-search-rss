@@ -6,6 +6,17 @@
     "description": "CVE-2023 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/4809643?u=87163842ffd3dd2062f6feff2712589c99656b30&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Passively fingerprint Citrix ADC / NetScaler ADC &amp; Gateway builds and detect known CVEs — CVE-2023-3519, CitrixBleed 2/3, CVE-2026-8452, and CVE-2026-88771/88772 (KEV)</div>",
+            "url": "https://github.com/securekomodo/citrixInspector",
+            "title": "securekomodo/citrixInspector: Passively fingerprint Citrix ADC / NetScaler ADC & Gateway builds and detect known CVEs — CVE-2023-3519, CitrixBleed 2/3, CVE-2026-8452, and CVE-2026-88771/88772 (KEV)",
+            "date_modified": "2026-09-28T15:15:02.000Z",
+            "date_published": "2023-07-20T16:05:07.000Z",
+            "author": {
+                "name": "securekomodo",
+                "url": "https://github.com/securekomodo"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/120130511?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>oob_entry tfp0 kernel exploit for armv7 iOS (iOS 3.0–10.3.4), using CVE-2023-32434. We will publish a write-up detailing the methods in the coming weeks. 🐙</div>",
             "url": "https://github.com/rkrakesh524/oob_entry",
             "title": "rkrakesh524/oob_entry: oob_entry tfp0 kernel exploit for armv7 iOS (iOS 3.0–10.3.4), using CVE-2023-32434. We will publish a write-up detailing the methods in the coming weeks. 🐙",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "ZHOUCC-CPU",
                 "url": "https://github.com/ZHOUCC-CPU"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/180046631?u=7047ace23f0294ca75d7febe49dafa821f72f1e1&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
-            "url": "https://github.com/ivanesk315/CVE-2023-25157",
-            "title": "ivanesk315/CVE-2023-25157",
-            "date_modified": "2026-09-10T07:24:38.000Z",
-            "date_published": "2026-09-10T07:14:13.000Z",
-            "author": {
-                "name": "ivanesk315",
-                "url": "https://github.com/ivanesk315"
             }
         }
     ]
