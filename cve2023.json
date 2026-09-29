@@ -6,10 +6,32 @@
     "description": "CVE-2023 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/196306147?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Three DFIR investigations: memory forensics (Volatility), disk/malware analysis (Silent Breach), and attack-chain reconstruction (CVE-2023-38831). Reports, timelines, IOCs and MITRE ATT&amp;CK mapping.</div>",
+            "url": "https://github.com/Dnyaneshwari-123/DFIR-Capstone-Investigations",
+            "title": "Dnyaneshwari-123/DFIR-Capstone-Investigations: Three DFIR investigations: memory forensics (Volatility), disk/malware analysis (Silent Breach), and attack-chain reconstruction (CVE-2023-38831). Reports, timelines, IOCs and MITRE ATT&CK mapping.",
+            "date_modified": "2026-09-29T08:54:54.000Z",
+            "date_published": "2026-09-29T08:10:18.000Z",
+            "author": {
+                "name": "Dnyaneshwari-123",
+                "url": "https://github.com/Dnyaneshwari-123"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/151980876?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>TOP All bugbounty pentesting CVE-2023- POC Exp  RCE example payload  Things</div>",
+            "url": "https://github.com/GhostTroops/TOP",
+            "title": "GhostTroops/TOP: TOP All bugbounty pentesting CVE-2023- POC Exp  RCE example payload  Things",
+            "date_modified": "2026-09-29T03:55:15.000Z",
+            "date_published": "2022-03-19T01:54:15.000Z",
+            "author": {
+                "name": "GhostTroops",
+                "url": "https://github.com/GhostTroops"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/4809643?u=87163842ffd3dd2062f6feff2712589c99656b30&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Passively fingerprint Citrix ADC / NetScaler ADC &amp; Gateway builds and detect known CVEs — CVE-2023-3519, CitrixBleed 2/3, CVE-2026-8452, and CVE-2026-88771/88772 (KEV)</div>",
             "url": "https://github.com/securekomodo/citrixInspector",
             "title": "securekomodo/citrixInspector: Passively fingerprint Citrix ADC / NetScaler ADC & Gateway builds and detect known CVEs — CVE-2023-3519, CitrixBleed 2/3, CVE-2026-8452, and CVE-2026-88771/88772 (KEV)",
-            "date_modified": "2026-09-28T23:02:44.000Z",
+            "date_modified": "2026-09-29T08:13:09.000Z",
             "date_published": "2023-07-20T16:05:07.000Z",
             "author": {
                 "name": "securekomodo",
@@ -25,17 +47,6 @@
             "author": {
                 "name": "rkrakesh524",
                 "url": "https://github.com/rkrakesh524"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/151980876?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>TOP All bugbounty pentesting CVE-2023- POC Exp  RCE example payload  Things</div>",
-            "url": "https://github.com/GhostTroops/TOP",
-            "title": "GhostTroops/TOP: TOP All bugbounty pentesting CVE-2023- POC Exp  RCE example payload  Things",
-            "date_modified": "2026-09-28T17:13:57.000Z",
-            "date_published": "2022-03-19T01:54:15.000Z",
-            "author": {
-                "name": "GhostTroops",
-                "url": "https://github.com/GhostTroops"
             }
         },
         {
@@ -212,17 +223,6 @@
             "author": {
                 "name": "R3fr4kt",
                 "url": "https://github.com/R3fr4kt"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/218322430?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Detection and mitigation research lab for CVE-2023-23397 using network and endpoint security telemetry.</div>",
-            "url": "https://github.com/ZHOUCC-CPU/cve-2023-23397-detection-lab",
-            "title": "ZHOUCC-CPU/cve-2023-23397-detection-lab: Detection and mitigation research lab for CVE-2023-23397 using network and endpoint security telemetry.",
-            "date_modified": "2026-09-11T07:16:27.000Z",
-            "date_published": "2026-08-28T09:00:27.000Z",
-            "author": {
-                "name": "ZHOUCC-CPU",
-                "url": "https://github.com/ZHOUCC-CPU"
             }
         }
     ]
