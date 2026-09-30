@@ -6,6 +6,39 @@
     "description": "CVE-2023 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/181821849?u=506e433b254832292f2379924c969e7a93b5fb0a&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
+            "url": "https://github.com/Sakura999999999/CVE-2023-3776_repro",
+            "title": "Sakura999999999/CVE-2023-3776_repro",
+            "date_modified": "2026-09-30T06:02:28.000Z",
+            "date_published": "2026-09-30T05:49:23.000Z",
+            "author": {
+                "name": "Sakura999999999",
+                "url": "https://github.com/Sakura999999999"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/151980876?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>TOP All bugbounty pentesting CVE-2023- POC Exp  RCE example payload  Things</div>",
+            "url": "https://github.com/GhostTroops/TOP",
+            "title": "GhostTroops/TOP: TOP All bugbounty pentesting CVE-2023- POC Exp  RCE example payload  Things",
+            "date_modified": "2026-09-30T03:42:46.000Z",
+            "date_published": "2022-03-19T01:54:15.000Z",
+            "author": {
+                "name": "GhostTroops",
+                "url": "https://github.com/GhostTroops"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/186227919?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>The purpose of this lab is to empirically demonstrate that relying solely on the free, built-in Microsoft Defender Antivirus is insufficient for small businesses. While free Defender provides baseline endpoint protection, it lacks the operational capabilities, patching, and 24/7 monitoring required to stop modern, multi-stage attacks. </div>",
+            "url": "https://github.com/KrioSocial/defender-bypass-winrar-cve-2023-38831",
+            "title": "KrioSocial/defender-bypass-winrar-cve-2023-38831: The purpose of this lab is to empirically demonstrate that relying solely on the free, built-in Microsoft Defender Antivirus is insufficient for small businesses. While free Defender provides baseline endpoint protection, it lacks the operational capabilities, patching, and 24/7 monitoring required to stop modern, multi-stage attacks. ",
+            "date_modified": "2026-09-30T01:34:27.000Z",
+            "date_published": "2026-09-30T01:34:22.000Z",
+            "author": {
+                "name": "KrioSocial",
+                "url": "https://github.com/KrioSocial"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/177132448?u=511b6c0e1585e14334ced92a5f9674ff3688048a&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
             "url": "https://github.com/IamSaishi/CVE-2023-43364_Exploit",
             "title": "IamSaishi/CVE-2023-43364_Exploit",
@@ -39,21 +72,10 @@
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/151980876?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>TOP All bugbounty pentesting CVE-2023- POC Exp  RCE example payload  Things</div>",
-            "url": "https://github.com/GhostTroops/TOP",
-            "title": "GhostTroops/TOP: TOP All bugbounty pentesting CVE-2023- POC Exp  RCE example payload  Things",
-            "date_modified": "2026-09-29T03:55:15.000Z",
-            "date_published": "2022-03-19T01:54:15.000Z",
-            "author": {
-                "name": "GhostTroops",
-                "url": "https://github.com/GhostTroops"
-            }
-        },
-        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/4809643?u=87163842ffd3dd2062f6feff2712589c99656b30&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Passively fingerprint Citrix ADC / NetScaler ADC &amp; Gateway builds and detect known CVEs — CVE-2023-3519, CitrixBleed 2/3, CVE-2026-8452, and CVE-2026-88771/88772 (KEV)</div>",
             "url": "https://github.com/securekomodo/citrixInspector",
             "title": "securekomodo/citrixInspector: Passively fingerprint Citrix ADC / NetScaler ADC & Gateway builds and detect known CVEs — CVE-2023-3519, CitrixBleed 2/3, CVE-2026-8452, and CVE-2026-88771/88772 (KEV)",
-            "date_modified": "2026-09-29T19:26:51.000Z",
+            "date_modified": "2026-09-30T02:47:16.000Z",
             "date_published": "2023-07-20T16:05:07.000Z",
             "author": {
                 "name": "securekomodo",
@@ -201,28 +223,6 @@
             "author": {
                 "name": "tralsesec",
                 "url": "https://github.com/tralsesec"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/318980587?u=c4d03dc05ab6a085efa05c9f28dd9fe20e940c43&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>In-memory kernel root for Lenovo Legion Y700 2023 (TB320FC) via CVE-2025-21479</div>",
-            "url": "https://github.com/7678837-glitch/lenovo_y700_tb320fc_on_CVE-2025-21479",
-            "title": "7678837-glitch/lenovo_y700_tb320fc_on_CVE-2025-21479: In-memory kernel root for Lenovo Legion Y700 2023 (TB320FC) via CVE-2025-21479",
-            "date_modified": "2026-09-16T12:58:44.000Z",
-            "date_published": "2026-09-16T12:58:43.000Z",
-            "author": {
-                "name": "7678837-glitch",
-                "url": "https://github.com/7678837-glitch"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/100072664?u=a6d82966c6192d7ed6199e95f8d4fb1756d9c870&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>enumerate files and directories from a remote server</div>",
-            "url": "https://github.com/MartiSabate/CVE-2023-39141-LFI-enumerator",
-            "title": "MartiSabate/CVE-2023-39141-LFI-enumerator: enumerate files and directories from a remote server",
-            "date_modified": "2026-09-15T19:44:55.000Z",
-            "date_published": "2025-04-09T12:11:09.000Z",
-            "author": {
-                "name": "MartiSabate",
-                "url": "https://github.com/MartiSabate"
             }
         }
     ]
