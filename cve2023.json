@@ -9,11 +9,22 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/120130511?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>oob_entry tfp0 kernel exploit for armv7 iOS (iOS 3.0–10.3.4), using CVE-2023-32434. We will publish a write-up detailing the methods in the coming weeks. 🐙</div>",
             "url": "https://github.com/rkrakesh524/oob_entry",
             "title": "rkrakesh524/oob_entry: oob_entry tfp0 kernel exploit for armv7 iOS (iOS 3.0–10.3.4), using CVE-2023-32434. We will publish a write-up detailing the methods in the coming weeks. 🐙",
-            "date_modified": "2026-09-30T10:24:17.000Z",
+            "date_modified": "2026-09-30T15:36:47.000Z",
             "date_published": "2025-08-13T09:19:29.000Z",
             "author": {
                 "name": "rkrakesh524",
                 "url": "https://github.com/rkrakesh524"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/468621?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Cisco IOS XE implant scanning &amp; detection (CVE-2023-20198, CVE-2023-20273)</div>",
+            "url": "https://github.com/fox-it/cisco-ios-xe-implant-detection",
+            "title": "fox-it/cisco-ios-xe-implant-detection: Cisco IOS XE implant scanning & detection (CVE-2023-20198, CVE-2023-20273)",
+            "date_modified": "2026-09-30T14:00:51.000Z",
+            "date_published": "2023-10-23T14:52:18.000Z",
+            "author": {
+                "name": "fox-it",
+                "url": "https://github.com/fox-it"
             }
         },
         {
@@ -209,17 +220,6 @@
             "title": "tralsesec/CVE-2023-20052: Original standalone Proof-of-Concept exploit and execution harness for CVE-2023-20052 (ClamAV DMG XML Entity Expansion).",
             "date_modified": "2026-09-17T05:54:44.000Z",
             "date_published": "2026-05-16T17:00:22.000Z",
-            "author": {
-                "name": "tralsesec",
-                "url": "https://github.com/tralsesec"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/79040327?u=4ef3261416b9bcd641b4456f11ece214829e63b7&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Original standalone Proof-of-Concept exploit for CVE-2023-23946 (Git path traversal via crafted patches in git-apply).</div>",
-            "url": "https://github.com/tralsesec/CVE-2023-23946",
-            "title": "tralsesec/CVE-2023-23946: Original standalone Proof-of-Concept exploit for CVE-2023-23946 (Git path traversal via crafted patches in git-apply).",
-            "date_modified": "2026-09-16T19:25:09.000Z",
-            "date_published": "2026-05-16T17:08:07.000Z",
             "author": {
                 "name": "tralsesec",
                 "url": "https://github.com/tralsesec"

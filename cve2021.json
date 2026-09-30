@@ -6,6 +6,17 @@
     "description": "CVE-2021 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/237313028?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Reproduction and patch verification of CVE-2021-3129 (Laravel Ignition RCE) in Docker. University project, Data Privacy and Security, LUISS.</div>",
+            "url": "https://github.com/cchiaravalentini/CVE-2021-3129",
+            "title": "cchiaravalentini/CVE-2021-3129: Reproduction and patch verification of CVE-2021-3129 (Laravel Ignition RCE) in Docker. University project, Data Privacy and Security, LUISS.",
+            "date_modified": "2026-09-30T13:54:58.000Z",
+            "date_published": "2026-06-06T13:07:01.000Z",
+            "author": {
+                "name": "cchiaravalentini",
+                "url": "https://github.com/cchiaravalentini"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/272830642?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Thesis scenario test (research only): Scenario D: KEV override path - systeminformation@5.3.0 CVE-2021-21315</div>",
             "url": "https://github.com/jimahub/scenario-d-kev",
             "title": "jimahub/scenario-d-kev: Thesis scenario test (research only): Scenario D: KEV override path - systeminformation@5.3.0 CVE-2021-21315",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "HigorGabrielDCF",
                 "url": "https://github.com/HigorGabrielDCF"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/173711250?u=2345c874c68fd81de0b169a580a2731d1537d234&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2021-29447 is an authenticated XML External Entity (XXE) vulnerability in WordPress</div>",
-            "url": "https://github.com/Kashyapghodasara/Public_Exploit-1--Wordpress-CVE-2021-29447",
-            "title": "Kashyapghodasara/Public_Exploit-1--Wordpress-CVE-2021-29447: CVE-2021-29447 is an authenticated XML External Entity (XXE) vulnerability in WordPress",
-            "date_modified": "2026-09-16T12:17:21.000Z",
-            "date_published": "2026-09-16T12:06:50.000Z",
-            "author": {
-                "name": "Kashyapghodasara",
-                "url": "https://github.com/Kashyapghodasara"
             }
         }
     ]
