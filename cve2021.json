@@ -6,6 +6,17 @@
     "description": "CVE-2021 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/336424038?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Unofficial, unmodified mirror of MinIO RELEASE.2021-02-14T04-01-33Z (Apache-2.0). Unpatched legacy, affected by CVE-2023-28432. Not affiliated with MinIO, Inc.</div>",
+            "url": "https://github.com/cgi-italy-insula-processing/minio",
+            "title": "cgi-italy-insula-processing/minio: Unofficial, unmodified mirror of MinIO RELEASE.2021-02-14T04-01-33Z (Apache-2.0). Unpatched legacy, affected by CVE-2023-28432. Not affiliated with MinIO, Inc.",
+            "date_modified": "2026-10-01T14:53:52.000Z",
+            "date_published": "2026-10-01T14:50:40.000Z",
+            "author": {
+                "name": "cgi-italy-insula-processing",
+                "url": "https://github.com/cgi-italy-insula-processing"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/237313028?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Reproduction and patch verification of CVE-2021-3129 (Laravel Ignition RCE) in Docker. University project, Data Privacy and Security, LUISS.</div>",
             "url": "https://github.com/cchiaravalentini/CVE-2021-3129",
             "title": "cchiaravalentini/CVE-2021-3129: Reproduction and patch verification of CVE-2021-3129 (Laravel Ignition RCE) in Docker. University project, Data Privacy and Security, LUISS.",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "Squ1shification",
                 "url": "https://github.com/Squ1shification"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/13796763?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2021-43287 CVE-2021-43288 CVE-2021-43289 CVE-2021-43290</div>",
-            "url": "https://github.com/HigorGabrielDCF/GoCD_PoC_Supply_Chain_Attack",
-            "title": "HigorGabrielDCF/GoCD_PoC_Supply_Chain_Attack: CVE-2021-43287 CVE-2021-43288 CVE-2021-43289 CVE-2021-43290",
-            "date_modified": "2026-09-22T02:32:14.000Z",
-            "date_published": "2025-10-11T02:32:32.000Z",
-            "author": {
-                "name": "HigorGabrielDCF",
-                "url": "https://github.com/HigorGabrielDCF"
             }
         }
     ]

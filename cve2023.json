@@ -6,6 +6,17 @@
     "description": "CVE-2023 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/336424038?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Unofficial, unmodified mirror of MinIO RELEASE.2021-02-14T04-01-33Z (Apache-2.0). Unpatched legacy, affected by CVE-2023-28432. Not affiliated with MinIO, Inc.</div>",
+            "url": "https://github.com/cgi-italy-insula-processing/minio",
+            "title": "cgi-italy-insula-processing/minio: Unofficial, unmodified mirror of MinIO RELEASE.2021-02-14T04-01-33Z (Apache-2.0). Unpatched legacy, affected by CVE-2023-28432. Not affiliated with MinIO, Inc.",
+            "date_modified": "2026-10-01T14:53:52.000Z",
+            "date_published": "2026-10-01T14:50:40.000Z",
+            "author": {
+                "name": "cgi-italy-insula-processing",
+                "url": "https://github.com/cgi-italy-insula-processing"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/120130511?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>oob_entry tfp0 kernel exploit for armv7 iOS (iOS 3.0–10.3.4), using CVE-2023-32434. We will publish a write-up detailing the methods in the coming weeks. 🐙</div>",
             "url": "https://github.com/rkrakesh524/oob_entry",
             "title": "rkrakesh524/oob_entry: oob_entry tfp0 kernel exploit for armv7 iOS (iOS 3.0–10.3.4), using CVE-2023-32434. We will publish a write-up detailing the methods in the coming weeks. 🐙",
@@ -97,7 +108,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/4809643?u=87163842ffd3dd2062f6feff2712589c99656b30&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Passively fingerprint Citrix ADC / NetScaler ADC &amp; Gateway builds and detect known CVEs — CVE-2023-3519, CitrixBleed 2/3, CVE-2026-8452, and CVE-2026-88771/88772 (KEV)</div>",
             "url": "https://github.com/securekomodo/citrixInspector",
             "title": "securekomodo/citrixInspector: Passively fingerprint Citrix ADC / NetScaler ADC & Gateway builds and detect known CVEs — CVE-2023-3519, CitrixBleed 2/3, CVE-2026-8452, and CVE-2026-88771/88772 (KEV)",
-            "date_modified": "2026-09-30T02:47:16.000Z",
+            "date_modified": "2026-10-01T10:55:23.000Z",
             "date_published": "2023-07-20T16:05:07.000Z",
             "author": {
                 "name": "securekomodo",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "D1G17",
                 "url": "https://github.com/D1G17"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/79040327?u=4ef3261416b9bcd641b4456f11ece214829e63b7&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Original standalone Proof-of-Concept exploit and execution harness for CVE-2023-20052 (ClamAV DMG XML Entity Expansion).</div>",
-            "url": "https://github.com/tralsesec/CVE-2023-20052",
-            "title": "tralsesec/CVE-2023-20052: Original standalone Proof-of-Concept exploit and execution harness for CVE-2023-20052 (ClamAV DMG XML Entity Expansion).",
-            "date_modified": "2026-09-17T05:54:44.000Z",
-            "date_published": "2026-05-16T17:00:22.000Z",
-            "author": {
-                "name": "tralsesec",
-                "url": "https://github.com/tralsesec"
             }
         }
     ]
