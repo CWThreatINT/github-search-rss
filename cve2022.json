@@ -6,14 +6,14 @@
     "description": "CVE-2022 FEED on GitHub",
     "items": [
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/204069580?u=b1bbb1e3b1b206347a2640efbbb49c1d3de94f67&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2022-44384 - authenticated arbitrary file upload to RCE in rConfig &lt;= 3.9.6. Working Python 3 rewrite of the public PoC</div>",
-            "url": "https://github.com/d4ytox/CVE-2022-44384",
-            "title": "d4ytox/CVE-2022-44384: CVE-2022-44384 - authenticated arbitrary file upload to RCE in rConfig <= 3.9.6. Working Python 3 rewrite of the public PoC",
-            "date_modified": "2026-10-04T12:33:51.000Z",
-            "date_published": "2026-10-04T12:19:12.000Z",
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/48636787?u=05ffcb2af163a1435c3414d15dab344b41077627&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A critical authentication bypass vulnerability in Fortinet products (FortiOS, FortiProxy, and FortiSwitchManager)</div>",
+            "url": "https://github.com/gotr00t0day/CVE-2022-40684",
+            "title": "gotr00t0day/CVE-2022-40684: A critical authentication bypass vulnerability in Fortinet products (FortiOS, FortiProxy, and FortiSwitchManager)",
+            "date_modified": "2026-10-04T18:16:55.000Z",
+            "date_published": "2026-10-04T18:15:27.000Z",
             "author": {
-                "name": "d4ytox",
-                "url": "https://github.com/d4ytox"
+                "name": "gotr00t0day",
+                "url": "https://github.com/gotr00t0day"
             }
         },
         {
