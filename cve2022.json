@@ -6,6 +6,17 @@
     "description": "CVE-2022 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/204069580?u=b1bbb1e3b1b206347a2640efbbb49c1d3de94f67&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2022-44384 - authenticated arbitrary file upload to RCE in rConfig &lt;= 3.9.6. Working Python 3 rewrite of the public PoC</div>",
+            "url": "https://github.com/d4ytox/CVE-2022-44384",
+            "title": "d4ytox/CVE-2022-44384: CVE-2022-44384 - authenticated arbitrary file upload to RCE in rConfig <= 3.9.6. Working Python 3 rewrite of the public PoC",
+            "date_modified": "2026-10-04T12:33:51.000Z",
+            "date_published": "2026-10-04T12:19:12.000Z",
+            "author": {
+                "name": "d4ytox",
+                "url": "https://github.com/d4ytox"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/48512895?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Isolated ASan/UBSan reproduction and patch verification lab for public CVE-2022-0891</div>",
             "url": "https://github.com/flavorex0000/libtiff-cve-2022-0891-lab",
             "title": "flavorex0000/libtiff-cve-2022-0891-lab: Isolated ASan/UBSan reproduction and patch verification lab for public CVE-2022-0891",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "halahajyahia",
                 "url": "https://github.com/halahajyahia"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/13224678?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Vankyo MatrixPad S30 (Unisoc SC9863A) — Bootloader unlock via CVE-2022-38694 FDL1 method</div>",
-            "url": "https://github.com/Gadorach/vankyo-s30-bootloader-unlock",
-            "title": "Gadorach/vankyo-s30-bootloader-unlock: Vankyo MatrixPad S30 (Unisoc SC9863A) — Bootloader unlock via CVE-2022-38694 FDL1 method",
-            "date_modified": "2026-09-07T22:31:46.000Z",
-            "date_published": "2026-08-29T09:31:21.000Z",
-            "author": {
-                "name": "Gadorach",
-                "url": "https://github.com/Gadorach"
             }
         }
     ]

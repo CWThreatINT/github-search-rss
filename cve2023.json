@@ -6,6 +6,17 @@
     "description": "CVE-2023 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/284519468?u=32c7a18419aede10ac05dd1fa702c67a6130e783&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>src-hunter 增强版(基于 MyuriKanao/src-hunter MIT): +SaaS多租户越权playbook +教育/政企行业 +教育SaaS指纹 +2023-24高频CVE</div>",
+            "url": "https://github.com/wdfdsyhb/src-hunter-enhanced",
+            "title": "wdfdsyhb/src-hunter-enhanced: src-hunter 增强版(基于 MyuriKanao/src-hunter MIT): +SaaS多租户越权playbook +教育/政企行业 +教育SaaS指纹 +2023-24高频CVE",
+            "date_modified": "2026-10-04T13:01:24.000Z",
+            "date_published": "2026-10-04T12:00:46.000Z",
+            "author": {
+                "name": "wdfdsyhb",
+                "url": "https://github.com/wdfdsyhb"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/114874332?u=0dfde71f1f476373352b963fe17a385f3b6fafb4&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Joomla 4.1.0 exploit</div>",
             "url": "https://github.com/s4m98/CVE-2023-23752",
             "title": "s4m98/CVE-2023-23752: Joomla 4.1.0 exploit",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "AmulyaKaushik",
                 "url": "https://github.com/AmulyaKaushik"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/214270742?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
-            "url": "https://github.com/TheArtist54/CVE-2023-21554-PoC",
-            "title": "TheArtist54/CVE-2023-21554-PoC",
-            "date_modified": "2026-09-20T06:58:02.000Z",
-            "date_published": "2026-09-20T06:55:08.000Z",
-            "author": {
-                "name": "TheArtist54",
-                "url": "https://github.com/TheArtist54"
             }
         }
     ]
