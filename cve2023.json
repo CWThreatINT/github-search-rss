@@ -6,6 +6,17 @@
     "description": "CVE-2023 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/230037394?u=f41bd402a6e30f337429662417ac725681fd155b&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Security research and controlled validation of CVE-2023-45866, examining unauthenticated Bluetooth HID connections, keystroke injection, affected configurations, and mitigations.</div>",
+            "url": "https://github.com/KiroShehata/CVE-2023-45866-Bluetooth-Security-Research",
+            "title": "KiroShehata/CVE-2023-45866-Bluetooth-Security-Research: Security research and controlled validation of CVE-2023-45866, examining unauthenticated Bluetooth HID connections, keystroke injection, affected configurations, and mitigations.",
+            "date_modified": "2026-10-05T16:05:59.000Z",
+            "date_published": "2026-10-05T16:05:53.000Z",
+            "author": {
+                "name": "KiroShehata",
+                "url": "https://github.com/KiroShehata"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/151980876?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>TOP All bugbounty pentesting CVE-2023- POC Exp  RCE example payload  Things</div>",
             "url": "https://github.com/GhostTroops/TOP",
             "title": "GhostTroops/TOP: TOP All bugbounty pentesting CVE-2023- POC Exp  RCE example payload  Things",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "deepanshu-khurana",
                 "url": "https://github.com/deepanshu-khurana"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/208958449?u=d7441b42c7e17634c92a39af9fcf04856fe63b0b&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
-            "url": "https://github.com/AmulyaKaushik/CVE-2023-27163-lab",
-            "title": "AmulyaKaushik/CVE-2023-27163-lab",
-            "date_modified": "2026-09-20T14:29:01.000Z",
-            "date_published": "2026-09-20T13:38:38.000Z",
-            "author": {
-                "name": "AmulyaKaushik",
-                "url": "https://github.com/AmulyaKaushik"
             }
         }
     ]
