@@ -6,6 +6,39 @@
     "description": "CVE-2021 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/39037574?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>BlackBerry KEY2 (BBF100-6) bootloader unlock (CVE-2021-1931), unlock-tool RE, recon, and LineageOS research</div>",
+            "url": "https://github.com/stanw47/Blackberry-Key2-Research",
+            "title": "stanw47/Blackberry-Key2-Research: BlackBerry KEY2 (BBF100-6) bootloader unlock (CVE-2021-1931), unlock-tool RE, recon, and LineageOS research",
+            "date_modified": "2026-10-05T20:03:33.000Z",
+            "date_published": "2026-10-05T17:01:34.000Z",
+            "author": {
+                "name": "stanw47",
+                "url": "https://github.com/stanw47"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/129468607?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Zero-days per week, before and after Mythos: exploited CVEs, AI-found vulnerabilities and vendor patch volume, one ISO week at a time since 2021.</div>",
+            "url": "https://github.com/sirbennyy88/zero-project",
+            "title": "sirbennyy88/zero-project: Zero-days per week, before and after Mythos: exploited CVEs, AI-found vulnerabilities and vendor patch volume, one ISO week at a time since 2021.",
+            "date_modified": "2026-10-05T18:40:16.000Z",
+            "date_published": "2026-09-06T07:58:32.000Z",
+            "author": {
+                "name": "sirbennyy88",
+                "url": "https://github.com/sirbennyy88"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/105972220?u=4297270af7e039926cd70653a36b6ba02b719a3c&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Hands-on cybersecurity and CTF labs covering tabnabbing, login security, web reconnaissance, admin access, service discovery, Nmap, Netdiscover, CVE-2020-23546, CVE-2021-31624, and Red Reclaim.</div>",
+            "url": "https://github.com/sifatnotes/Learn-SecByte-CTF-Labs-Tabnabbing-Web-Recon-Nmap-Netdiscover-CVE-Labs",
+            "title": "sifatnotes/Learn-SecByte-CTF-Labs-Tabnabbing-Web-Recon-Nmap-Netdiscover-CVE-Labs: Hands-on cybersecurity and CTF labs covering tabnabbing, login security, web reconnaissance, admin access, service discovery, Nmap, Netdiscover, CVE-2020-23546, CVE-2021-31624, and Red Reclaim.",
+            "date_modified": "2026-10-05T17:00:08.000Z",
+            "date_published": "2026-10-05T16:59:41.000Z",
+            "author": {
+                "name": "sifatnotes",
+                "url": "https://github.com/sifatnotes"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/11529207?u=042d5a0131ffaf3ba1e6c2912a9fb5649798fbdc&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Survival analysis of 196,000 CVEs since 2021 shows that calendar-based patch SLAs miss the 26.4% of exploits already active before public disclosure.</div>",
             "url": "https://github.com/patrick-lefler/rQuarto_time-to-exploit_survival_analysis_2026-09-10",
             "title": "patrick-lefler/rQuarto_time-to-exploit_survival_analysis_2026-09-10: Survival analysis of 196,000 CVEs since 2021 shows that calendar-based patch SLAs miss the 26.4% of exploits already active before public disclosure.",
@@ -91,17 +124,6 @@
             "author": {
                 "name": "dpfkdlemtp",
                 "url": "https://github.com/dpfkdlemtp"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/129468607?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Zero-days per week, before and after Mythos: exploited CVEs, AI-found vulnerabilities and vendor patch volume, one ISO week at a time since 2021.</div>",
-            "url": "https://github.com/sirbennyy88/zero-project",
-            "title": "sirbennyy88/zero-project: Zero-days per week, before and after Mythos: exploited CVEs, AI-found vulnerabilities and vendor patch volume, one ISO week at a time since 2021.",
-            "date_modified": "2026-09-28T17:49:50.000Z",
-            "date_published": "2026-09-06T07:58:32.000Z",
-            "author": {
-                "name": "sirbennyy88",
-                "url": "https://github.com/sirbennyy88"
             }
         },
         {
@@ -201,28 +223,6 @@
             "author": {
                 "name": "MohammadAliMehri",
                 "url": "https://github.com/MohammadAliMehri"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/305407873?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Log4Shell (CVE-2021-44228) security review documentation and advisory triage</div>",
-            "url": "https://github.com/mcpmark-eval-liuhezi/log4shell-audit",
-            "title": "mcpmark-eval-liuhezi/log4shell-audit: Log4Shell (CVE-2021-44228) security review documentation and advisory triage",
-            "date_modified": "2026-09-18T18:29:51.000Z",
-            "date_published": "2026-09-18T18:28:53.000Z",
-            "author": {
-                "name": "mcpmark-eval-liuhezi",
-                "url": "https://github.com/mcpmark-eval-liuhezi"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/151489388?u=6de5d2ac5777226384c4ce6186e7d1e40327cfb0&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Enumerate Grafana plugin enumeration PoC for CVE-2021-43798</div>",
-            "url": "https://github.com/Squ1shification/Grafana-Plugin-Enumerator-CVE-2021-43798",
-            "title": "Squ1shification/Grafana-Plugin-Enumerator-CVE-2021-43798: Enumerate Grafana plugin enumeration PoC for CVE-2021-43798",
-            "date_modified": "2026-09-18T04:01:10.000Z",
-            "date_published": "2026-09-18T03:45:53.000Z",
-            "author": {
-                "name": "Squ1shification",
-                "url": "https://github.com/Squ1shification"
             }
         }
     ]

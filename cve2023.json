@@ -6,10 +6,21 @@
     "description": "CVE-2023 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/312404851?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>VampSecure Labs: FortiOS CVE scanner (CVE-2018-13379, CVE-2022-40684, CVE-2023-27997, CVE-2024-21762)</div>",
+            "url": "https://github.com/Vampsecure-Labs/vamp-forticheck",
+            "title": "Vampsecure-Labs/vamp-forticheck: VampSecure Labs: FortiOS CVE scanner (CVE-2018-13379, CVE-2022-40684, CVE-2023-27997, CVE-2024-21762)",
+            "date_modified": "2026-10-05T19:19:10.000Z",
+            "date_published": "2026-07-31T10:13:19.000Z",
+            "author": {
+                "name": "Vampsecure-Labs",
+                "url": "https://github.com/Vampsecure-Labs"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/230037394?u=f41bd402a6e30f337429662417ac725681fd155b&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Security research and controlled validation of CVE-2023-45866, examining unauthenticated Bluetooth HID connections, keystroke injection, affected configurations, and mitigations.</div>",
             "url": "https://github.com/KiroShehata/CVE-2023-45866-Bluetooth-Security-Research",
             "title": "KiroShehata/CVE-2023-45866-Bluetooth-Security-Research: Security research and controlled validation of CVE-2023-45866, examining unauthenticated Bluetooth HID connections, keystroke injection, affected configurations, and mitigations.",
-            "date_modified": "2026-10-05T16:05:59.000Z",
+            "date_modified": "2026-10-05T17:23:05.000Z",
             "date_published": "2026-10-05T16:05:53.000Z",
             "author": {
                 "name": "KiroShehata",
@@ -124,17 +135,6 @@
             "author": {
                 "name": "IamSaishi",
                 "url": "https://github.com/IamSaishi"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/312404851?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>VampSecure Labs: FortiOS CVE scanner (CVE-2018-13379, CVE-2022-40684, CVE-2023-27997, CVE-2024-21762)</div>",
-            "url": "https://github.com/Vampsecure-Labs/vamp-forticheck",
-            "title": "Vampsecure-Labs/vamp-forticheck: VampSecure Labs: FortiOS CVE scanner (CVE-2018-13379, CVE-2022-40684, CVE-2023-27997, CVE-2024-21762)",
-            "date_modified": "2026-09-29T11:00:06.000Z",
-            "date_published": "2026-07-31T10:13:19.000Z",
-            "author": {
-                "name": "Vampsecure-Labs",
-                "url": "https://github.com/Vampsecure-Labs"
             }
         },
         {
