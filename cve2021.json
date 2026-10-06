@@ -6,6 +6,17 @@
     "description": "CVE-2021 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/89426396?u=cedce2193df47fa34fc7f2e9cc8c7ed475ad83a7&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>PoC Exploit for Apache httpd 2.4.49 &amp; 2.4.50 remote code exploitation</div>",
+            "url": "https://github.com/lmcewen9/cve-2021-42013",
+            "title": "lmcewen9/cve-2021-42013: PoC Exploit for Apache httpd 2.4.49 & 2.4.50 remote code exploitation",
+            "date_modified": "2026-10-06T18:46:14.000Z",
+            "date_published": "2026-05-12T19:06:15.000Z",
+            "author": {
+                "name": "lmcewen9",
+                "url": "https://github.com/lmcewen9"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/39037574?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>BlackBerry KEY2 (BBF100-6) bootloader unlock (CVE-2021-1931), unlock-tool RE, recon, and LineageOS research</div>",
             "url": "https://github.com/stanw47/Blackberry-Key2-Research",
             "title": "stanw47/Blackberry-Key2-Research: BlackBerry KEY2 (BBF100-6) bootloader unlock (CVE-2021-1931), unlock-tool RE, recon, and LineageOS research",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "shivamg2004",
                 "url": "https://github.com/shivamg2004"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/131454582?u=215d98d86bbf8300f1f393fffbc3079c93f20c06&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
-            "url": "https://github.com/MohammadAliMehri/cve-2021-44790-lab",
-            "title": "MohammadAliMehri/cve-2021-44790-lab",
-            "date_modified": "2026-09-19T22:26:37.000Z",
-            "date_published": "2026-09-19T22:23:49.000Z",
-            "author": {
-                "name": "MohammadAliMehri",
-                "url": "https://github.com/MohammadAliMehri"
             }
         }
     ]
