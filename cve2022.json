@@ -6,6 +6,17 @@
     "description": "CVE-2022 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/219342240?u=486f8e8980719b6fa6db963d296383973e283aa8&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>This is a PoC exploit I created for CVE-2022-0185 as practice. It is not a very stable exploit and it was created for kernel 5.15.</div>",
+            "url": "https://github.com/secjuhl/CVE-2022-0185",
+            "title": "secjuhl/CVE-2022-0185: This is a PoC exploit I created for CVE-2022-0185 as practice. It is not a very stable exploit and it was created for kernel 5.15.",
+            "date_modified": "2026-10-07T01:54:05.000Z",
+            "date_published": "2026-10-07T01:48:48.000Z",
+            "author": {
+                "name": "secjuhl",
+                "url": "https://github.com/secjuhl"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/83717675?u=96c8709cbfcf8936d3ab76a4c1742966b1bb24e9&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
             "url": "https://github.com/roodhelios/CVE-2022-26134-OGNL-Injection",
             "title": "roodhelios/CVE-2022-26134-OGNL-Injection",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "PrinceAikinsBaidoo",
                 "url": "https://github.com/PrinceAikinsBaidoo"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/128315215?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
-            "url": "https://github.com/halahajyahia/CVE-2022-2869-detector",
-            "title": "halahajyahia/CVE-2022-2869-detector",
-            "date_modified": "2026-09-08T17:13:00.000Z",
-            "date_published": "2026-09-08T16:05:41.000Z",
-            "author": {
-                "name": "halahajyahia",
-                "url": "https://github.com/halahajyahia"
             }
         }
     ]
