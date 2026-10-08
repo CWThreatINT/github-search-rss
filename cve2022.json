@@ -6,6 +6,17 @@
     "description": "CVE-2022 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/312404851?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>VampSecure Labs: FortiOS CVE scanner (CVE-2018-13379, CVE-2022-40684, CVE-2023-27997, CVE-2024-21762)</div>",
+            "url": "https://github.com/Vampsecure-Labs/vamp-forticheck",
+            "title": "Vampsecure-Labs/vamp-forticheck: VampSecure Labs: FortiOS CVE scanner (CVE-2018-13379, CVE-2022-40684, CVE-2023-27997, CVE-2024-21762)",
+            "date_modified": "2026-10-08T11:04:08.000Z",
+            "date_published": "2026-07-31T10:13:19.000Z",
+            "author": {
+                "name": "Vampsecure-Labs",
+                "url": "https://github.com/Vampsecure-Labs"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/1097185?u=4337166dec782aa1312084b6fb92cc4e0f78865b&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2022-22077 is a high-severity vulnerability (CVSS score 7.8) affecting the RTCore64.sys driver distributed with MSI Center</div>",
             "url": "https://github.com/grisuno/CVE-2022-22077",
             "title": "grisuno/CVE-2022-22077: CVE-2022-22077 is a high-severity vulnerability (CVSS score 7.8) affecting the RTCore64.sys driver distributed with MSI Center",
@@ -14,17 +25,6 @@
             "author": {
                 "name": "grisuno",
                 "url": "https://github.com/grisuno"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/312404851?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>VampSecure Labs: FortiOS CVE scanner (CVE-2018-13379, CVE-2022-40684, CVE-2023-27997, CVE-2024-21762)</div>",
-            "url": "https://github.com/Vampsecure-Labs/vamp-forticheck",
-            "title": "Vampsecure-Labs/vamp-forticheck: VampSecure Labs: FortiOS CVE scanner (CVE-2018-13379, CVE-2022-40684, CVE-2023-27997, CVE-2024-21762)",
-            "date_modified": "2026-10-07T09:55:21.000Z",
-            "date_published": "2026-07-31T10:13:19.000Z",
-            "author": {
-                "name": "Vampsecure-Labs",
-                "url": "https://github.com/Vampsecure-Labs"
             }
         },
         {
