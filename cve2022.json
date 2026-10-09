@@ -6,10 +6,32 @@
     "description": "CVE-2022 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/83717675?u=96c8709cbfcf8936d3ab76a4c1742966b1bb24e9&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
+            "url": "https://github.com/roodhelios/CVE-2022-26134-OGNL-Injection",
+            "title": "roodhelios/CVE-2022-26134-OGNL-Injection",
+            "date_modified": "2026-10-09T00:44:55.000Z",
+            "date_published": "2026-05-06T01:47:50.000Z",
+            "author": {
+                "name": "roodhelios",
+                "url": "https://github.com/roodhelios"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/190261590?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Vulhub spring/CVE-2022-22965: Spring4Shell on Spring WebMVC 5.3.17, run with Isoloom</div>",
+            "url": "https://github.com/CyberCTF/vulhub-spring-cve-2022-22965",
+            "title": "CyberCTF/vulhub-spring-cve-2022-22965: Vulhub spring/CVE-2022-22965: Spring4Shell on Spring WebMVC 5.3.17, run with Isoloom",
+            "date_modified": "2026-10-08T23:14:38.000Z",
+            "date_published": "2026-10-08T03:44:16.000Z",
+            "author": {
+                "name": "CyberCTF",
+                "url": "https://github.com/CyberCTF"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/190261590?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Vulhub spring/CVE-2022-22963: Spring Cloud Function SpEL Injection (CVE-2022-22963), run with Isoloom</div>",
             "url": "https://github.com/CyberCTF/vulhub-spring-cve-2022-22963",
             "title": "CyberCTF/vulhub-spring-cve-2022-22963: Vulhub spring/CVE-2022-22963: Spring Cloud Function SpEL Injection (CVE-2022-22963), run with Isoloom",
-            "date_modified": "2026-10-08T20:03:33.000Z",
+            "date_modified": "2026-10-08T23:14:34.000Z",
             "date_published": "2026-10-08T19:50:54.000Z",
             "author": {
                 "name": "CyberCTF",
@@ -17,11 +39,66 @@
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/190261590?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Vulhub spring/CVE-2022-22965: Spring4Shell on Spring WebMVC 5.3.17, run with Isoloom</div>",
-            "url": "https://github.com/CyberCTF/vulhub-spring-cve-2022-22965",
-            "title": "CyberCTF/vulhub-spring-cve-2022-22965: Vulhub spring/CVE-2022-22965: Spring4Shell on Spring WebMVC 5.3.17, run with Isoloom",
-            "date_modified": "2026-10-08T19:40:26.000Z",
-            "date_published": "2026-10-08T03:44:16.000Z",
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/190261590?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Vulhub spring/CVE-2022-22947: Spring Cloud Gateway Actuator Code Injection (CVE-2022-22947), run with Isoloom</div>",
+            "url": "https://github.com/CyberCTF/vulhub-spring-cve-2022-22947",
+            "title": "CyberCTF/vulhub-spring-cve-2022-22947: Vulhub spring/CVE-2022-22947: Spring Cloud Gateway Actuator Code Injection (CVE-2022-22947), run with Isoloom",
+            "date_modified": "2026-10-08T23:14:29.000Z",
+            "date_published": "2026-10-08T21:45:03.000Z",
+            "author": {
+                "name": "CyberCTF",
+                "url": "https://github.com/CyberCTF"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/190261590?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Vulhub redis/CVE-2022-0543: Redis Lua Sandbox Escape (CVE-2022-0543), run with Isoloom</div>",
+            "url": "https://github.com/CyberCTF/vulhub-redis-cve-2022-0543",
+            "title": "CyberCTF/vulhub-redis-cve-2022-0543: Vulhub redis/CVE-2022-0543: Redis Lua Sandbox Escape (CVE-2022-0543), run with Isoloom",
+            "date_modified": "2026-10-08T23:13:47.000Z",
+            "date_published": "2026-10-08T21:45:02.000Z",
+            "author": {
+                "name": "CyberCTF",
+                "url": "https://github.com/CyberCTF"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/190261590?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Vulhub imagemagick/CVE-2022-44268: ImageMagick PNG Text Chunk Arbitrary File Read (CVE-2022-44268), run with Isoloom</div>",
+            "url": "https://github.com/CyberCTF/vulhub-imagemagick-cve-2022-44268",
+            "title": "CyberCTF/vulhub-imagemagick-cve-2022-44268: Vulhub imagemagick/CVE-2022-44268: ImageMagick PNG Text Chunk Arbitrary File Read (CVE-2022-44268), run with Isoloom",
+            "date_modified": "2026-10-08T23:10:57.000Z",
+            "date_published": "2026-10-08T21:30:26.000Z",
+            "author": {
+                "name": "CyberCTF",
+                "url": "https://github.com/CyberCTF"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/190261590?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Vulhub h2database/CVE-2022-23221: H2 Database Console JDBC URL RCE (CVE-2022-23221), run with Isoloom</div>",
+            "url": "https://github.com/CyberCTF/vulhub-h2database-cve-2022-23221",
+            "title": "CyberCTF/vulhub-h2database-cve-2022-23221: Vulhub h2database/CVE-2022-23221: H2 Database Console JDBC URL RCE (CVE-2022-23221), run with Isoloom",
+            "date_modified": "2026-10-08T23:10:31.000Z",
+            "date_published": "2026-10-08T22:15:55.000Z",
+            "author": {
+                "name": "CyberCTF",
+                "url": "https://github.com/CyberCTF"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/190261590?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Vulhub django/CVE-2022-34265: Django Trunc and Extract SQL Injection (CVE-2022-34265), run with Isoloom</div>",
+            "url": "https://github.com/CyberCTF/vulhub-django-cve-2022-34265",
+            "title": "CyberCTF/vulhub-django-cve-2022-34265: Vulhub django/CVE-2022-34265: Django Trunc and Extract SQL Injection (CVE-2022-34265), run with Isoloom",
+            "date_modified": "2026-10-08T23:09:28.000Z",
+            "date_published": "2026-10-08T20:15:17.000Z",
+            "author": {
+                "name": "CyberCTF",
+                "url": "https://github.com/CyberCTF"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/190261590?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Vulhub cacti/CVE-2022-46169: Cacti remote_agent.php Command Injection (CVE-2022-46169), run with Isoloom</div>",
+            "url": "https://github.com/CyberCTF/vulhub-cacti-cve-2022-46169",
+            "title": "CyberCTF/vulhub-cacti-cve-2022-46169: Vulhub cacti/CVE-2022-46169: Cacti remote_agent.php Command Injection (CVE-2022-46169), run with Isoloom",
+            "date_modified": "2026-10-08T23:09:15.000Z",
+            "date_published": "2026-10-08T22:15:01.000Z",
             "author": {
                 "name": "CyberCTF",
                 "url": "https://github.com/CyberCTF"
@@ -69,17 +146,6 @@
             "author": {
                 "name": "secjuhl",
                 "url": "https://github.com/secjuhl"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/83717675?u=96c8709cbfcf8936d3ab76a4c1742966b1bb24e9&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
-            "url": "https://github.com/roodhelios/CVE-2022-26134-OGNL-Injection",
-            "title": "roodhelios/CVE-2022-26134-OGNL-Injection",
-            "date_modified": "2026-10-06T13:52:20.000Z",
-            "date_published": "2026-05-06T01:47:50.000Z",
-            "author": {
-                "name": "roodhelios",
-                "url": "https://github.com/roodhelios"
             }
         },
         {
@@ -157,72 +223,6 @@
             "author": {
                 "name": "fdjy1234",
                 "url": "https://github.com/fdjy1234"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/102522579?u=1b7d91d2ae16f3bd75549da97665618f8a9c2ca6&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Windows update overview: every KB for Windows 10/11 and Server 2022/2025 with severity, fixed CVEs and Microsoft's known issues – newest first, auto-updated from MSRC, update history and release health. PHP, no framework, DE/EN.</div>",
-            "url": "https://github.com/Anivia1337/windows-updates",
-            "title": "Anivia1337/windows-updates: Windows update overview: every KB for Windows 10/11 and Server 2022/2025 with severity, fixed CVEs and Microsoft's known issues – newest first, auto-updated from MSRC, update history and release health. PHP, no framework, DE/EN.",
-            "date_modified": "2026-09-14T20:14:02.000Z",
-            "date_published": "2026-09-14T20:07:24.000Z",
-            "author": {
-                "name": "Anivia1337",
-                "url": "https://github.com/Anivia1337"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/101929604?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
-            "url": "https://github.com/vudangducminh/CVE-2022-0847",
-            "title": "vudangducminh/CVE-2022-0847",
-            "date_modified": "2026-09-14T07:42:30.000Z",
-            "date_published": "2026-09-10T07:25:31.000Z",
-            "author": {
-                "name": "vudangducminh",
-                "url": "https://github.com/vudangducminh"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/4835677?u=d5a2439bb49c2f7d8bc37f500ca362ae071cdb01&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>FireOS 7.3.3.1 temp root by CVE-2022-38181</div>",
-            "url": "https://github.com/artur9010/amazon-mustang-hack",
-            "title": "artur9010/amazon-mustang-hack: FireOS 7.3.3.1 temp root by CVE-2022-38181",
-            "date_modified": "2026-09-12T00:20:55.000Z",
-            "date_published": "2026-09-11T21:04:59.000Z",
-            "author": {
-                "name": "artur9010",
-                "url": "https://github.com/artur9010"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/118515671?u=c97576201f2173861441ddd11eab9df8fd0f2017&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2022-34302 - Secure Boot bypass via New Horizon Datasys signed bootloader (shdloader.efi) - BYOVUA technique exploiting built-in custom PE/COFF loader to load unsigned UEFI applications without signature verification.</div>",
-            "url": "https://github.com/TheMalwareGuardian/CVE-2022-34302",
-            "title": "TheMalwareGuardian/CVE-2022-34302: CVE-2022-34302 - Secure Boot bypass via New Horizon Datasys signed bootloader (shdloader.efi) - BYOVUA technique exploiting built-in custom PE/COFF loader to load unsigned UEFI applications without signature verification.",
-            "date_modified": "2026-09-11T18:43:03.000Z",
-            "date_published": "2026-09-07T10:44:31.000Z",
-            "author": {
-                "name": "TheMalwareGuardian",
-                "url": "https://github.com/TheMalwareGuardian"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/118515671?u=c97576201f2173861441ddd11eab9df8fd0f2017&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2022-34303 - Secure Boot bypass via CryptoPro Secure Disk signed UEFI Shell (Shell_Full.efi) - BYOVUA technique exploiting mm command for gSecurity2 corruption to load unsigned UEFI applications.</div>",
-            "url": "https://github.com/TheMalwareGuardian/CVE-2022-34303",
-            "title": "TheMalwareGuardian/CVE-2022-34303: CVE-2022-34303 - Secure Boot bypass via CryptoPro Secure Disk signed UEFI Shell (Shell_Full.efi) - BYOVUA technique exploiting mm command for gSecurity2 corruption to load unsigned UEFI applications.",
-            "date_modified": "2026-09-11T18:33:48.000Z",
-            "date_published": "2026-08-31T07:23:58.000Z",
-            "author": {
-                "name": "TheMalwareGuardian",
-                "url": "https://github.com/TheMalwareGuardian"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/118515671?u=c97576201f2173861441ddd11eab9df8fd0f2017&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2022-34301 - Secure Boot bypass via Eurosoft signed UEFI Shell (esdiags.efi) - BYOVUA technique exploiting mm command for gSecurity2 corruption to load unsigned UEFI applications.</div>",
-            "url": "https://github.com/TheMalwareGuardian/CVE-2022-34301",
-            "title": "TheMalwareGuardian/CVE-2022-34301: CVE-2022-34301 - Secure Boot bypass via Eurosoft signed UEFI Shell (esdiags.efi) - BYOVUA technique exploiting mm command for gSecurity2 corruption to load unsigned UEFI applications.",
-            "date_modified": "2026-09-15T18:37:35.000Z",
-            "date_published": "2026-09-07T08:50:29.000Z",
-            "author": {
-                "name": "TheMalwareGuardian",
-                "url": "https://github.com/TheMalwareGuardian"
             }
         }
     ]

@@ -6,11 +6,11 @@
     "description": "CVE-2023 FEED on GitHub",
     "items": [
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/190261590?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Vulhub activemq/CVE-2023-46604: ActiveMQ 5.17.3 OpenWire RCE, run with Isoloom</div>",
-            "url": "https://github.com/CyberCTF/vulhub-activemq-cve-2023-46604",
-            "title": "CyberCTF/vulhub-activemq-cve-2023-46604: Vulhub activemq/CVE-2023-46604: ActiveMQ 5.17.3 OpenWire RCE, run with Isoloom",
-            "date_modified": "2026-10-08T20:11:32.000Z",
-            "date_published": "2026-10-08T20:11:23.000Z",
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/190261590?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Vulhub superset/CVE-2023-27524: Apache Superset Default SECRET_KEY Session Forgery (CVE-2023-27524), run with Isoloom</div>",
+            "url": "https://github.com/CyberCTF/vulhub-superset-cve-2023-27524",
+            "title": "CyberCTF/vulhub-superset-cve-2023-27524: Vulhub superset/CVE-2023-27524: Apache Superset Default SECRET_KEY Session Forgery (CVE-2023-27524), run with Isoloom",
+            "date_modified": "2026-10-08T23:15:25.000Z",
+            "date_published": "2026-10-08T19:38:15.000Z",
             "author": {
                 "name": "CyberCTF",
                 "url": "https://github.com/CyberCTF"
@@ -20,19 +20,8 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/190261590?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Vulhub openfire/CVE-2023-32315: Openfire Admin Console Authentication Bypass (CVE-2023-32315), run with Isoloom</div>",
             "url": "https://github.com/CyberCTF/vulhub-openfire-cve-2023-32315",
             "title": "CyberCTF/vulhub-openfire-cve-2023-32315: Vulhub openfire/CVE-2023-32315: Openfire Admin Console Authentication Bypass (CVE-2023-32315), run with Isoloom",
-            "date_modified": "2026-10-08T20:03:45.000Z",
+            "date_modified": "2026-10-08T23:12:36.000Z",
             "date_published": "2026-10-08T19:46:21.000Z",
-            "author": {
-                "name": "CyberCTF",
-                "url": "https://github.com/CyberCTF"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/190261590?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Vulhub superset/CVE-2023-27524: Apache Superset Default SECRET_KEY Session Forgery (CVE-2023-27524), run with Isoloom</div>",
-            "url": "https://github.com/CyberCTF/vulhub-superset-cve-2023-27524",
-            "title": "CyberCTF/vulhub-superset-cve-2023-27524: Vulhub superset/CVE-2023-27524: Apache Superset Default SECRET_KEY Session Forgery (CVE-2023-27524), run with Isoloom",
-            "date_modified": "2026-10-08T19:39:08.000Z",
-            "date_published": "2026-10-08T19:38:15.000Z",
             "author": {
                 "name": "CyberCTF",
                 "url": "https://github.com/CyberCTF"
@@ -42,11 +31,44 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/190261590?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Vulhub ofbiz/CVE-2023-51467: Apache OFBiz Authentication Bypass to RCE (CVE-2023-51467), run with Isoloom</div>",
             "url": "https://github.com/CyberCTF/vulhub-ofbiz-cve-2023-51467",
             "title": "CyberCTF/vulhub-ofbiz-cve-2023-51467: Vulhub ofbiz/CVE-2023-51467: Apache OFBiz Authentication Bypass to RCE (CVE-2023-51467), run with Isoloom",
-            "date_modified": "2026-10-08T19:39:11.000Z",
+            "date_modified": "2026-10-08T23:12:33.000Z",
             "date_published": "2026-10-08T19:37:51.000Z",
             "author": {
                 "name": "CyberCTF",
                 "url": "https://github.com/CyberCTF"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/190261590?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Vulhub joomla/CVE-2023-23752: Joomla Webservice Improper Access Check (CVE-2023-23752), run with Isoloom</div>",
+            "url": "https://github.com/CyberCTF/vulhub-joomla-cve-2023-23752",
+            "title": "CyberCTF/vulhub-joomla-cve-2023-23752: Vulhub joomla/CVE-2023-23752: Joomla Webservice Improper Access Check (CVE-2023-23752), run with Isoloom",
+            "date_modified": "2026-10-08T23:11:32.000Z",
+            "date_published": "2026-10-08T21:20:41.000Z",
+            "author": {
+                "name": "CyberCTF",
+                "url": "https://github.com/CyberCTF"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/190261590?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Vulhub activemq/CVE-2023-46604: ActiveMQ 5.17.3 OpenWire RCE, run with Isoloom</div>",
+            "url": "https://github.com/CyberCTF/vulhub-activemq-cve-2023-46604",
+            "title": "CyberCTF/vulhub-activemq-cve-2023-46604: Vulhub activemq/CVE-2023-46604: ActiveMQ 5.17.3 OpenWire RCE, run with Isoloom",
+            "date_modified": "2026-10-08T23:08:43.000Z",
+            "date_published": "2026-10-08T20:11:23.000Z",
+            "author": {
+                "name": "CyberCTF",
+                "url": "https://github.com/CyberCTF"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/145111222?u=5c63eaa8fce460d6d416a1a337c6733404ba9208&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2023-54391: Proxmox VE Authentication Bypass RCE</div>",
+            "url": "https://github.com/alexandrov666/CVE-2023-54391-RCE",
+            "title": "alexandrov666/CVE-2023-54391-RCE: CVE-2023-54391: Proxmox VE Authentication Bypass RCE",
+            "date_modified": "2026-10-08T21:06:08.000Z",
+            "date_published": "2026-10-06T08:49:34.000Z",
+            "author": {
+                "name": "alexandrov666",
+                "url": "https://github.com/alexandrov666"
             }
         },
         {
@@ -201,28 +223,6 @@
             "author": {
                 "name": "securekomodo",
                 "url": "https://github.com/securekomodo"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/235692443?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Python exploit for CVE-2023-25690 — Apache HTTP Request Smuggling via CRLF injection in mod_rewrite/mod_proxy. Built and tested against TryHackMe's Contrabando box.</div>",
-            "url": "https://github.com/roshanrajbanshi/cve-2023-25690-smuggler",
-            "title": "roshanrajbanshi/cve-2023-25690-smuggler: Python exploit for CVE-2023-25690 — Apache HTTP Request Smuggling via CRLF injection in mod_rewrite/mod_proxy. Built and tested against TryHackMe's Contrabando box.",
-            "date_modified": "2026-09-25T09:31:35.000Z",
-            "date_published": "2026-09-25T09:23:01.000Z",
-            "author": {
-                "name": "roshanrajbanshi",
-                "url": "https://github.com/roshanrajbanshi"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/58039786?u=f0d84ea0ec5e4b316bdc4ccae96f63ff06c5480a&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Apache OFBiz XML-RPC pre-auth deserialization RCE PoC (CVE-2023-49070) — auth bypass + ysoserial gadget chain via /webtools/control/xmlrpc</div>",
-            "url": "https://github.com/BardLaudian/CVE-2023-49070",
-            "title": "BardLaudian/CVE-2023-49070: Apache OFBiz XML-RPC pre-auth deserialization RCE PoC (CVE-2023-49070) — auth bypass + ysoserial gadget chain via /webtools/control/xmlrpc",
-            "date_modified": "2026-09-24T16:33:04.000Z",
-            "date_published": "2026-09-24T16:29:42.000Z",
-            "author": {
-                "name": "BardLaudian",
-                "url": "https://github.com/BardLaudian"
             }
         }
     ]
