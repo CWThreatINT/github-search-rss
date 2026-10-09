@@ -6,6 +6,39 @@
     "description": "CVE-2021 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/215319458?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Corrected python code for CVE-2021-26828 </div>",
+            "url": "https://github.com/h002733/CVE-2021-26828",
+            "title": "h002733/CVE-2021-26828: Corrected python code for CVE-2021-26828 ",
+            "date_modified": "2026-10-09T06:52:14.000Z",
+            "date_published": "2026-10-09T06:50:46.000Z",
+            "author": {
+                "name": "h002733",
+                "url": "https://github.com/h002733"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/125451309?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>C++ contact-list demo comparing vulnerable ICU4C 66.1 with ICU4X through Crubit (CVE-2021-30535).</div>",
+            "url": "https://github.com/califio/icu4x-crubit-demo",
+            "title": "califio/icu4x-crubit-demo: C++ contact-list demo comparing vulnerable ICU4C 66.1 with ICU4X through Crubit (CVE-2021-30535).",
+            "date_modified": "2026-10-09T05:18:35.000Z",
+            "date_published": "2026-10-08T14:00:45.000Z",
+            "author": {
+                "name": "califio",
+                "url": "https://github.com/califio"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/10350761?u=c7ce4bdba2dc7cd93a5104d96acd6e57dffcab8b&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>My take on unlocking Xperia 5 SO-01M for p42 bootloader using CVE-2021-1931</div>",
+            "url": "https://github.com/aomsin2526/xperia_5_bl_unlocker_poc",
+            "title": "aomsin2526/xperia_5_bl_unlocker_poc: My take on unlocking Xperia 5 SO-01M for p42 bootloader using CVE-2021-1931",
+            "date_modified": "2026-10-09T02:16:02.000Z",
+            "date_published": "2026-07-02T08:03:35.000Z",
+            "author": {
+                "name": "aomsin2526",
+                "url": "https://github.com/aomsin2526"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/190261590?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Vulhub nacos/CVE-2021-29441: Nacos User-Agent Authentication Bypass (CVE-2021-29441), run with Isoloom</div>",
             "url": "https://github.com/CyberCTF/vulhub-nacos-cve-2021-29441",
             "title": "CyberCTF/vulhub-nacos-cve-2021-29441: Vulhub nacos/CVE-2021-29441: Nacos User-Agent Authentication Bypass (CVE-2021-29441), run with Isoloom",
@@ -116,17 +149,6 @@
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/125451309?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>C++ contact-list demo comparing vulnerable ICU4C 66.1 with ICU4X through Crubit (CVE-2021-30535).</div>",
-            "url": "https://github.com/califio/icu4x-crubit-demo",
-            "title": "califio/icu4x-crubit-demo: C++ contact-list demo comparing vulnerable ICU4C 66.1 with ICU4X through Crubit (CVE-2021-30535).",
-            "date_modified": "2026-10-08T22:05:48.000Z",
-            "date_published": "2026-10-08T14:00:45.000Z",
-            "author": {
-                "name": "califio",
-                "url": "https://github.com/califio"
-            }
-        },
-        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/150133351?u=8466c583c1caf90a9ae6ab1ecb567e8ab5429d09&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>this is a exploit for CVE_2021-41773</div>",
             "url": "https://github.com/LordX404/CVE_2021-41773",
             "title": "LordX404/CVE_2021-41773: this is a exploit for CVE_2021-41773",
@@ -201,28 +223,6 @@
             "author": {
                 "name": "sirbennyy88",
                 "url": "https://github.com/sirbennyy88"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/105972220?u=4297270af7e039926cd70653a36b6ba02b719a3c&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Hands-on cybersecurity and CTF labs covering tabnabbing, login security, web reconnaissance, admin access, service discovery, Nmap, Netdiscover, CVE-2020-23546, CVE-2021-31624, and Red Reclaim.</div>",
-            "url": "https://github.com/sifatnotes/Learn-SecByte-CTF-Labs-Tabnabbing-Web-Recon-Nmap-Netdiscover-CVE-Labs",
-            "title": "sifatnotes/Learn-SecByte-CTF-Labs-Tabnabbing-Web-Recon-Nmap-Netdiscover-CVE-Labs: Hands-on cybersecurity and CTF labs covering tabnabbing, login security, web reconnaissance, admin access, service discovery, Nmap, Netdiscover, CVE-2020-23546, CVE-2021-31624, and Red Reclaim.",
-            "date_modified": "2026-10-05T17:00:08.000Z",
-            "date_published": "2026-10-05T16:59:41.000Z",
-            "author": {
-                "name": "sifatnotes",
-                "url": "https://github.com/sifatnotes"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/11529207?u=042d5a0131ffaf3ba1e6c2912a9fb5649798fbdc&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Survival analysis of 196,000 CVEs since 2021 shows that calendar-based patch SLAs miss the 26.4% of exploits already active before public disclosure.</div>",
-            "url": "https://github.com/patrick-lefler/rQuarto_time-to-exploit_survival_analysis_2026-09-10",
-            "title": "patrick-lefler/rQuarto_time-to-exploit_survival_analysis_2026-09-10: Survival analysis of 196,000 CVEs since 2021 shows that calendar-based patch SLAs miss the 26.4% of exploits already active before public disclosure.",
-            "date_modified": "2026-10-04T20:05:57.000Z",
-            "date_published": "2026-09-12T06:35:07.000Z",
-            "author": {
-                "name": "patrick-lefler",
-                "url": "https://github.com/patrick-lefler"
             }
         }
     ]
