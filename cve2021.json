@@ -6,32 +6,10 @@
     "description": "CVE-2021 FEED on GitHub",
     "items": [
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/228044151?u=cb82566b0e6fab3cd7b000572cc2229dd743a739&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
-            "url": "https://github.com/hoangvvthu/CVE-2021-44228-Log4Shell-Lab",
-            "title": "hoangvvthu/CVE-2021-44228-Log4Shell-Lab",
-            "date_modified": "2026-10-09T09:53:45.000Z",
-            "date_published": "2026-10-09T09:51:15.000Z",
-            "author": {
-                "name": "hoangvvthu",
-                "url": "https://github.com/hoangvvthu"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/190261590?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Vulhub laravel/CVE-2021-3129: Laravel Ignition RCE (CVE-2021-3129), run with Isoloom</div>",
-            "url": "https://github.com/CyberCTF/vulhub-laravel-cve-2021-3129",
-            "title": "CyberCTF/vulhub-laravel-cve-2021-3129: Vulhub laravel/CVE-2021-3129: Laravel Ignition RCE (CVE-2021-3129), run with Isoloom",
-            "date_modified": "2026-10-09T07:30:56.000Z",
-            "date_published": "2026-10-08T19:42:41.000Z",
-            "author": {
-                "name": "CyberCTF",
-                "url": "https://github.com/CyberCTF"
-            }
-        },
-        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/190261590?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Vulhub nacos/CVE-2021-29441: Nacos User-Agent Authentication Bypass (CVE-2021-29441), run with Isoloom</div>",
             "url": "https://github.com/CyberCTF/vulhub-nacos-cve-2021-29441",
             "title": "CyberCTF/vulhub-nacos-cve-2021-29441: Vulhub nacos/CVE-2021-29441: Nacos User-Agent Authentication Bypass (CVE-2021-29441), run with Isoloom",
-            "date_modified": "2026-10-09T07:06:12.000Z",
+            "date_modified": "2026-10-09T19:09:41.000Z",
             "date_published": "2026-10-08T20:46:24.000Z",
             "author": {
                 "name": "CyberCTF",
@@ -42,8 +20,19 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/190261590?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Vulhub log4j/CVE-2021-44228: Log4Shell in Apache Solr 8.11.0, run with Isoloom</div>",
             "url": "https://github.com/CyberCTF/vulhub-log4j-cve-2021-44228",
             "title": "CyberCTF/vulhub-log4j-cve-2021-44228: Vulhub log4j/CVE-2021-44228: Log4Shell in Apache Solr 8.11.0, run with Isoloom",
-            "date_modified": "2026-10-09T07:06:00.000Z",
+            "date_modified": "2026-10-09T19:09:28.000Z",
             "date_published": "2026-10-08T03:44:05.000Z",
+            "author": {
+                "name": "CyberCTF",
+                "url": "https://github.com/CyberCTF"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/190261590?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Vulhub laravel/CVE-2021-3129: Laravel Ignition RCE (CVE-2021-3129), run with Isoloom</div>",
+            "url": "https://github.com/CyberCTF/vulhub-laravel-cve-2021-3129",
+            "title": "CyberCTF/vulhub-laravel-cve-2021-3129: Vulhub laravel/CVE-2021-3129: Laravel Ignition RCE (CVE-2021-3129), run with Isoloom",
+            "date_modified": "2026-10-09T19:09:19.000Z",
+            "date_published": "2026-10-08T19:42:41.000Z",
             "author": {
                 "name": "CyberCTF",
                 "url": "https://github.com/CyberCTF"
@@ -53,7 +42,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/190261590?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Vulhub jetty/CVE-2021-28164: Jetty Ambiguous Path Information Disclosure (CVE-2021-28164), run with Isoloom</div>",
             "url": "https://github.com/CyberCTF/vulhub-jetty-cve-2021-28164",
             "title": "CyberCTF/vulhub-jetty-cve-2021-28164: Vulhub jetty/CVE-2021-28164: Jetty Ambiguous Path Information Disclosure (CVE-2021-28164), run with Isoloom",
-            "date_modified": "2026-10-09T07:05:33.000Z",
+            "date_modified": "2026-10-09T19:08:58.000Z",
             "date_published": "2026-10-08T21:30:39.000Z",
             "author": {
                 "name": "CyberCTF",
@@ -64,7 +53,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/190261590?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Vulhub httpd/CVE-2021-42013: Apache HTTP Server 2.4.50 Path Traversal and RCE (CVE-2021-42013), run with Isoloom</div>",
             "url": "https://github.com/CyberCTF/vulhub-httpd-cve-2021-42013",
             "title": "CyberCTF/vulhub-httpd-cve-2021-42013: Vulhub httpd/CVE-2021-42013: Apache HTTP Server 2.4.50 Path Traversal and RCE (CVE-2021-42013), run with Isoloom",
-            "date_modified": "2026-10-09T07:05:03.000Z",
+            "date_modified": "2026-10-09T19:08:19.000Z",
             "date_published": "2026-10-08T21:20:09.000Z",
             "author": {
                 "name": "CyberCTF",
@@ -75,7 +64,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/190261590?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Vulhub httpd/CVE-2021-41773: Apache 2.4.49 path traversal and CGI RCE, run with Isoloom</div>",
             "url": "https://github.com/CyberCTF/vulhub-httpd-cve-2021-41773",
             "title": "CyberCTF/vulhub-httpd-cve-2021-41773: Vulhub httpd/CVE-2021-41773: Apache 2.4.49 path traversal and CGI RCE, run with Isoloom",
-            "date_modified": "2026-10-09T07:05:00.000Z",
+            "date_modified": "2026-10-09T19:08:15.000Z",
             "date_published": "2026-10-08T06:53:40.000Z",
             "author": {
                 "name": "CyberCTF",
@@ -86,7 +75,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/190261590?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Vulhub grafana/CVE-2021-43798: Grafana Plugin Path Traversal (CVE-2021-43798), run with Isoloom</div>",
             "url": "https://github.com/CyberCTF/vulhub-grafana-cve-2021-43798",
             "title": "CyberCTF/vulhub-grafana-cve-2021-43798: Vulhub grafana/CVE-2021-43798: Grafana Plugin Path Traversal (CVE-2021-43798), run with Isoloom",
-            "date_modified": "2026-10-09T07:04:45.000Z",
+            "date_modified": "2026-10-09T19:07:57.000Z",
             "date_published": "2026-10-08T20:45:35.000Z",
             "author": {
                 "name": "CyberCTF",
@@ -97,7 +86,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/190261590?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Vulhub gitlab/CVE-2021-22205: GitLab CE 13.10.1 ExifTool unauthenticated RCE, run with Isoloom</div>",
             "url": "https://github.com/CyberCTF/vulhub-gitlab-cve-2021-22205",
             "title": "CyberCTF/vulhub-gitlab-cve-2021-22205: Vulhub gitlab/CVE-2021-22205: GitLab CE 13.10.1 ExifTool unauthenticated RCE, run with Isoloom",
-            "date_modified": "2026-10-09T07:04:38.000Z",
+            "date_modified": "2026-10-09T19:07:47.000Z",
             "date_published": "2026-10-08T20:37:01.000Z",
             "author": {
                 "name": "CyberCTF",
@@ -108,7 +97,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/190261590?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Vulhub apache-druid/CVE-2021-25646: Apache Druid Embedded JavaScript RCE (CVE-2021-25646), run with Isoloom</div>",
             "url": "https://github.com/CyberCTF/vulhub-apache-druid-cve-2021-25646",
             "title": "CyberCTF/vulhub-apache-druid-cve-2021-25646: Vulhub apache-druid/CVE-2021-25646: Apache Druid Embedded JavaScript RCE (CVE-2021-25646), run with Isoloom",
-            "date_modified": "2026-10-09T07:03:27.000Z",
+            "date_modified": "2026-10-09T19:06:20.000Z",
             "date_published": "2026-10-08T19:37:31.000Z",
             "author": {
                 "name": "CyberCTF",
@@ -119,11 +108,33 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/190261590?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>secDevLabs Golden Hat Society: mitmproxy 5.3.0 request smuggling, CVE-2021-39214 (OWASP A06), run with Isoloom</div>",
             "url": "https://github.com/CyberCTF/secdevlabs-golden-hat",
             "title": "CyberCTF/secdevlabs-golden-hat: secDevLabs Golden Hat Society: mitmproxy 5.3.0 request smuggling, CVE-2021-39214 (OWASP A06), run with Isoloom",
-            "date_modified": "2026-10-09T06:59:36.000Z",
+            "date_modified": "2026-10-09T19:01:36.000Z",
             "date_published": "2026-10-08T14:43:10.000Z",
             "author": {
                 "name": "CyberCTF",
                 "url": "https://github.com/CyberCTF"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/242891739?u=e3879f2a3805319515e2d0ea83306e6b2ef6ec1a&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div> Log4Shell (CVE-2021-44228)</div>",
+            "url": "https://github.com/sajanapamuditha/Cyber-Attack-Simulation-",
+            "title": "sajanapamuditha/Cyber-Attack-Simulation-:  Log4Shell (CVE-2021-44228)",
+            "date_modified": "2026-10-09T14:58:33.000Z",
+            "date_published": "2026-05-02T05:17:53.000Z",
+            "author": {
+                "name": "sajanapamuditha",
+                "url": "https://github.com/sajanapamuditha"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/228044151?u=cb82566b0e6fab3cd7b000572cc2229dd743a739&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
+            "url": "https://github.com/hoangvvthu/CVE-2021-44228-Log4Shell-Lab",
+            "title": "hoangvvthu/CVE-2021-44228-Log4Shell-Lab",
+            "date_modified": "2026-10-09T09:53:45.000Z",
+            "date_published": "2026-10-09T09:51:15.000Z",
+            "author": {
+                "name": "hoangvvthu",
+                "url": "https://github.com/hoangvvthu"
             }
         },
         {
@@ -168,17 +179,6 @@
             "author": {
                 "name": "LordX404",
                 "url": "https://github.com/LordX404"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/242891739?u=e3879f2a3805319515e2d0ea83306e6b2ef6ec1a&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div> Log4Shell (CVE-2021-44228)</div>",
-            "url": "https://github.com/sajanapamuditha/Cyber-Attack-Simulation-",
-            "title": "sajanapamuditha/Cyber-Attack-Simulation-:  Log4Shell (CVE-2021-44228)",
-            "date_modified": "2026-10-08T18:02:44.000Z",
-            "date_published": "2026-05-02T05:17:53.000Z",
-            "author": {
-                "name": "sajanapamuditha",
-                "url": "https://github.com/sajanapamuditha"
             }
         },
         {
