@@ -6,6 +6,116 @@
     "description": "CVE-2022 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/312404851?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>VampSecure Labs: FortiOS CVE scanner (CVE-2018-13379, CVE-2022-40684, CVE-2023-27997, CVE-2024-21762)</div>",
+            "url": "https://github.com/Vampsecure-Labs/vamp-forticheck",
+            "title": "Vampsecure-Labs/vamp-forticheck: VampSecure Labs: FortiOS CVE scanner (CVE-2018-13379, CVE-2022-40684, CVE-2023-27997, CVE-2024-21762)",
+            "date_modified": "2026-10-09T08:49:34.000Z",
+            "date_published": "2026-07-31T10:13:19.000Z",
+            "author": {
+                "name": "Vampsecure-Labs",
+                "url": "https://github.com/Vampsecure-Labs"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/213195266?u=4b6d3ecfea2e2de2261da68a002487e0593ca0ba&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
+            "url": "https://github.com/NeroMinddd/intel-haxm-kernel-reverse-engineering-cve-2022-21812",
+            "title": "NeroMinddd/intel-haxm-kernel-reverse-engineering-cve-2022-21812",
+            "date_modified": "2026-10-09T08:20:20.000Z",
+            "date_published": "2026-10-09T08:11:26.000Z",
+            "author": {
+                "name": "NeroMinddd",
+                "url": "https://github.com/NeroMinddd"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/190261590?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Vulhub spring/CVE-2022-22965: Spring4Shell on Spring WebMVC 5.3.17, run with Isoloom</div>",
+            "url": "https://github.com/CyberCTF/vulhub-spring-cve-2022-22965",
+            "title": "CyberCTF/vulhub-spring-cve-2022-22965: Vulhub spring/CVE-2022-22965: Spring4Shell on Spring WebMVC 5.3.17, run with Isoloom",
+            "date_modified": "2026-10-09T07:08:22.000Z",
+            "date_published": "2026-10-08T03:44:16.000Z",
+            "author": {
+                "name": "CyberCTF",
+                "url": "https://github.com/CyberCTF"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/190261590?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Vulhub spring/CVE-2022-22963: Spring Cloud Function SpEL Injection (CVE-2022-22963), run with Isoloom</div>",
+            "url": "https://github.com/CyberCTF/vulhub-spring-cve-2022-22963",
+            "title": "CyberCTF/vulhub-spring-cve-2022-22963: Vulhub spring/CVE-2022-22963: Spring Cloud Function SpEL Injection (CVE-2022-22963), run with Isoloom",
+            "date_modified": "2026-10-09T07:08:18.000Z",
+            "date_published": "2026-10-08T19:50:54.000Z",
+            "author": {
+                "name": "CyberCTF",
+                "url": "https://github.com/CyberCTF"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/190261590?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Vulhub spring/CVE-2022-22947: Spring Cloud Gateway Actuator Code Injection (CVE-2022-22947), run with Isoloom</div>",
+            "url": "https://github.com/CyberCTF/vulhub-spring-cve-2022-22947",
+            "title": "CyberCTF/vulhub-spring-cve-2022-22947: Vulhub spring/CVE-2022-22947: Spring Cloud Gateway Actuator Code Injection (CVE-2022-22947), run with Isoloom",
+            "date_modified": "2026-10-09T07:08:16.000Z",
+            "date_published": "2026-10-08T21:45:03.000Z",
+            "author": {
+                "name": "CyberCTF",
+                "url": "https://github.com/CyberCTF"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/190261590?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Vulhub redis/CVE-2022-0543: Redis Lua Sandbox Escape (CVE-2022-0543), run with Isoloom</div>",
+            "url": "https://github.com/CyberCTF/vulhub-redis-cve-2022-0543",
+            "title": "CyberCTF/vulhub-redis-cve-2022-0543: Vulhub redis/CVE-2022-0543: Redis Lua Sandbox Escape (CVE-2022-0543), run with Isoloom",
+            "date_modified": "2026-10-09T07:07:38.000Z",
+            "date_published": "2026-10-08T21:45:02.000Z",
+            "author": {
+                "name": "CyberCTF",
+                "url": "https://github.com/CyberCTF"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/190261590?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Vulhub imagemagick/CVE-2022-44268: ImageMagick PNG Text Chunk Arbitrary File Read (CVE-2022-44268), run with Isoloom</div>",
+            "url": "https://github.com/CyberCTF/vulhub-imagemagick-cve-2022-44268",
+            "title": "CyberCTF/vulhub-imagemagick-cve-2022-44268: Vulhub imagemagick/CVE-2022-44268: ImageMagick PNG Text Chunk Arbitrary File Read (CVE-2022-44268), run with Isoloom",
+            "date_modified": "2026-10-09T07:05:12.000Z",
+            "date_published": "2026-10-08T21:30:26.000Z",
+            "author": {
+                "name": "CyberCTF",
+                "url": "https://github.com/CyberCTF"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/190261590?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Vulhub h2database/CVE-2022-23221: H2 Database Console JDBC URL RCE (CVE-2022-23221), run with Isoloom</div>",
+            "url": "https://github.com/CyberCTF/vulhub-h2database-cve-2022-23221",
+            "title": "CyberCTF/vulhub-h2database-cve-2022-23221: Vulhub h2database/CVE-2022-23221: H2 Database Console JDBC URL RCE (CVE-2022-23221), run with Isoloom",
+            "date_modified": "2026-10-09T07:04:49.000Z",
+            "date_published": "2026-10-08T22:15:55.000Z",
+            "author": {
+                "name": "CyberCTF",
+                "url": "https://github.com/CyberCTF"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/190261590?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Vulhub django/CVE-2022-34265: Django Trunc and Extract SQL Injection (CVE-2022-34265), run with Isoloom</div>",
+            "url": "https://github.com/CyberCTF/vulhub-django-cve-2022-34265",
+            "title": "CyberCTF/vulhub-django-cve-2022-34265: Vulhub django/CVE-2022-34265: Django Trunc and Extract SQL Injection (CVE-2022-34265), run with Isoloom",
+            "date_modified": "2026-10-09T07:03:57.000Z",
+            "date_published": "2026-10-08T20:15:17.000Z",
+            "author": {
+                "name": "CyberCTF",
+                "url": "https://github.com/CyberCTF"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/190261590?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Vulhub cacti/CVE-2022-46169: Cacti remote_agent.php Command Injection (CVE-2022-46169), run with Isoloom</div>",
+            "url": "https://github.com/CyberCTF/vulhub-cacti-cve-2022-46169",
+            "title": "CyberCTF/vulhub-cacti-cve-2022-46169: Vulhub cacti/CVE-2022-46169: Cacti remote_agent.php Command Injection (CVE-2022-46169), run with Isoloom",
+            "date_modified": "2026-10-09T07:03:46.000Z",
+            "date_published": "2026-10-08T22:15:01.000Z",
+            "author": {
+                "name": "CyberCTF",
+                "url": "https://github.com/CyberCTF"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/83717675?u=96c8709cbfcf8936d3ab76a4c1742966b1bb24e9&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
             "url": "https://github.com/roodhelios/CVE-2022-26134-OGNL-Injection",
             "title": "roodhelios/CVE-2022-26134-OGNL-Injection",
@@ -17,94 +127,6 @@
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/190261590?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Vulhub spring/CVE-2022-22965: Spring4Shell on Spring WebMVC 5.3.17, run with Isoloom</div>",
-            "url": "https://github.com/CyberCTF/vulhub-spring-cve-2022-22965",
-            "title": "CyberCTF/vulhub-spring-cve-2022-22965: Vulhub spring/CVE-2022-22965: Spring4Shell on Spring WebMVC 5.3.17, run with Isoloom",
-            "date_modified": "2026-10-08T23:14:38.000Z",
-            "date_published": "2026-10-08T03:44:16.000Z",
-            "author": {
-                "name": "CyberCTF",
-                "url": "https://github.com/CyberCTF"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/190261590?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Vulhub spring/CVE-2022-22963: Spring Cloud Function SpEL Injection (CVE-2022-22963), run with Isoloom</div>",
-            "url": "https://github.com/CyberCTF/vulhub-spring-cve-2022-22963",
-            "title": "CyberCTF/vulhub-spring-cve-2022-22963: Vulhub spring/CVE-2022-22963: Spring Cloud Function SpEL Injection (CVE-2022-22963), run with Isoloom",
-            "date_modified": "2026-10-08T23:14:34.000Z",
-            "date_published": "2026-10-08T19:50:54.000Z",
-            "author": {
-                "name": "CyberCTF",
-                "url": "https://github.com/CyberCTF"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/190261590?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Vulhub spring/CVE-2022-22947: Spring Cloud Gateway Actuator Code Injection (CVE-2022-22947), run with Isoloom</div>",
-            "url": "https://github.com/CyberCTF/vulhub-spring-cve-2022-22947",
-            "title": "CyberCTF/vulhub-spring-cve-2022-22947: Vulhub spring/CVE-2022-22947: Spring Cloud Gateway Actuator Code Injection (CVE-2022-22947), run with Isoloom",
-            "date_modified": "2026-10-08T23:14:29.000Z",
-            "date_published": "2026-10-08T21:45:03.000Z",
-            "author": {
-                "name": "CyberCTF",
-                "url": "https://github.com/CyberCTF"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/190261590?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Vulhub redis/CVE-2022-0543: Redis Lua Sandbox Escape (CVE-2022-0543), run with Isoloom</div>",
-            "url": "https://github.com/CyberCTF/vulhub-redis-cve-2022-0543",
-            "title": "CyberCTF/vulhub-redis-cve-2022-0543: Vulhub redis/CVE-2022-0543: Redis Lua Sandbox Escape (CVE-2022-0543), run with Isoloom",
-            "date_modified": "2026-10-08T23:13:47.000Z",
-            "date_published": "2026-10-08T21:45:02.000Z",
-            "author": {
-                "name": "CyberCTF",
-                "url": "https://github.com/CyberCTF"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/190261590?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Vulhub imagemagick/CVE-2022-44268: ImageMagick PNG Text Chunk Arbitrary File Read (CVE-2022-44268), run with Isoloom</div>",
-            "url": "https://github.com/CyberCTF/vulhub-imagemagick-cve-2022-44268",
-            "title": "CyberCTF/vulhub-imagemagick-cve-2022-44268: Vulhub imagemagick/CVE-2022-44268: ImageMagick PNG Text Chunk Arbitrary File Read (CVE-2022-44268), run with Isoloom",
-            "date_modified": "2026-10-08T23:10:57.000Z",
-            "date_published": "2026-10-08T21:30:26.000Z",
-            "author": {
-                "name": "CyberCTF",
-                "url": "https://github.com/CyberCTF"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/190261590?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Vulhub h2database/CVE-2022-23221: H2 Database Console JDBC URL RCE (CVE-2022-23221), run with Isoloom</div>",
-            "url": "https://github.com/CyberCTF/vulhub-h2database-cve-2022-23221",
-            "title": "CyberCTF/vulhub-h2database-cve-2022-23221: Vulhub h2database/CVE-2022-23221: H2 Database Console JDBC URL RCE (CVE-2022-23221), run with Isoloom",
-            "date_modified": "2026-10-08T23:10:31.000Z",
-            "date_published": "2026-10-08T22:15:55.000Z",
-            "author": {
-                "name": "CyberCTF",
-                "url": "https://github.com/CyberCTF"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/190261590?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Vulhub django/CVE-2022-34265: Django Trunc and Extract SQL Injection (CVE-2022-34265), run with Isoloom</div>",
-            "url": "https://github.com/CyberCTF/vulhub-django-cve-2022-34265",
-            "title": "CyberCTF/vulhub-django-cve-2022-34265: Vulhub django/CVE-2022-34265: Django Trunc and Extract SQL Injection (CVE-2022-34265), run with Isoloom",
-            "date_modified": "2026-10-08T23:09:28.000Z",
-            "date_published": "2026-10-08T20:15:17.000Z",
-            "author": {
-                "name": "CyberCTF",
-                "url": "https://github.com/CyberCTF"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/190261590?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Vulhub cacti/CVE-2022-46169: Cacti remote_agent.php Command Injection (CVE-2022-46169), run with Isoloom</div>",
-            "url": "https://github.com/CyberCTF/vulhub-cacti-cve-2022-46169",
-            "title": "CyberCTF/vulhub-cacti-cve-2022-46169: Vulhub cacti/CVE-2022-46169: Cacti remote_agent.php Command Injection (CVE-2022-46169), run with Isoloom",
-            "date_modified": "2026-10-08T23:09:15.000Z",
-            "date_published": "2026-10-08T22:15:01.000Z",
-            "author": {
-                "name": "CyberCTF",
-                "url": "https://github.com/CyberCTF"
-            }
-        },
-        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/1097185?u=4337166dec782aa1312084b6fb92cc4e0f78865b&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2022-22077 is a high-severity vulnerability (CVSS score 7.8) affecting the RTCore64.sys driver distributed with MSI Center</div>",
             "url": "https://github.com/grisuno/CVE-2022-22077",
             "title": "grisuno/CVE-2022-22077: CVE-2022-22077 is a high-severity vulnerability (CVSS score 7.8) affecting the RTCore64.sys driver distributed with MSI Center",
@@ -113,17 +135,6 @@
             "author": {
                 "name": "grisuno",
                 "url": "https://github.com/grisuno"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/312404851?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>VampSecure Labs: FortiOS CVE scanner (CVE-2018-13379, CVE-2022-40684, CVE-2023-27997, CVE-2024-21762)</div>",
-            "url": "https://github.com/Vampsecure-Labs/vamp-forticheck",
-            "title": "Vampsecure-Labs/vamp-forticheck: VampSecure Labs: FortiOS CVE scanner (CVE-2018-13379, CVE-2022-40684, CVE-2023-27997, CVE-2024-21762)",
-            "date_modified": "2026-10-08T11:04:08.000Z",
-            "date_published": "2026-07-31T10:13:19.000Z",
-            "author": {
-                "name": "Vampsecure-Labs",
-                "url": "https://github.com/Vampsecure-Labs"
             }
         },
         {
@@ -212,17 +223,6 @@
             "author": {
                 "name": "anirbala98",
                 "url": "https://github.com/anirbala98"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/15226149?u=b83737d86a93143e175d6649ab31a8dd6d91ed45&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Windows Apache Tomcat resource limits implementation guide for CVE-2022-41404 DoS vulnerability protection</div>",
-            "url": "https://github.com/fdjy1234/CVE-2022-41404-DoS-Protection",
-            "title": "fdjy1234/CVE-2022-41404-DoS-Protection: Windows Apache Tomcat resource limits implementation guide for CVE-2022-41404 DoS vulnerability protection",
-            "date_modified": "2026-09-16T06:10:04.000Z",
-            "date_published": "2026-09-15T09:03:26.000Z",
-            "author": {
-                "name": "fdjy1234",
-                "url": "https://github.com/fdjy1234"
             }
         }
     ]
