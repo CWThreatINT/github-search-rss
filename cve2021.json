@@ -6,6 +6,17 @@
     "description": "CVE-2021 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/21672558?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Log4j Exploit Detection Logic for Zeek</div>",
+            "url": "https://github.com/corelight/cve-2021-44228",
+            "title": "corelight/cve-2021-44228: Log4j Exploit Detection Logic for Zeek",
+            "date_modified": "2026-10-10T00:30:06.000Z",
+            "date_published": "2021-12-13T17:25:52.000Z",
+            "author": {
+                "name": "corelight",
+                "url": "https://github.com/corelight"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/190261590?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Vulhub nacos/CVE-2021-29441: Nacos User-Agent Authentication Bypass (CVE-2021-29441), run with Isoloom</div>",
             "url": "https://github.com/CyberCTF/vulhub-nacos-cve-2021-29441",
             "title": "CyberCTF/vulhub-nacos-cve-2021-29441: Vulhub nacos/CVE-2021-29441: Nacos User-Agent Authentication Bypass (CVE-2021-29441), run with Isoloom",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "lmcewen9",
                 "url": "https://github.com/lmcewen9"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/39037574?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>BlackBerry KEY2 (BBF100-6) bootloader unlock (CVE-2021-1931), unlock-tool RE, recon, and LineageOS research</div>",
-            "url": "https://github.com/stanw47/Blackberry-Key2-Research",
-            "title": "stanw47/Blackberry-Key2-Research: BlackBerry KEY2 (BBF100-6) bootloader unlock (CVE-2021-1931), unlock-tool RE, recon, and LineageOS research",
-            "date_modified": "2026-10-05T20:03:33.000Z",
-            "date_published": "2026-10-05T17:01:34.000Z",
-            "author": {
-                "name": "stanw47",
-                "url": "https://github.com/stanw47"
             }
         }
     ]
