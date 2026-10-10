@@ -6,6 +6,39 @@
     "description": "CVE-2023 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/190261590?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Vulhub openfire/CVE-2023-32315: Openfire Admin Console Authentication Bypass (CVE-2023-32315), run with Isoloom</div>",
+            "url": "https://github.com/CyberCTF/vulhub-openfire-cve-2023-32315",
+            "title": "CyberCTF/vulhub-openfire-cve-2023-32315: Vulhub openfire/CVE-2023-32315: Openfire Admin Console Authentication Bypass (CVE-2023-32315), run with Isoloom",
+            "date_modified": "2026-10-10T10:33:08.000Z",
+            "date_published": "2026-10-08T19:46:21.000Z",
+            "author": {
+                "name": "CyberCTF",
+                "url": "https://github.com/CyberCTF"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/190261590?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Vulhub ofbiz/CVE-2023-51467: Apache OFBiz Authentication Bypass to RCE (CVE-2023-51467), run with Isoloom</div>",
+            "url": "https://github.com/CyberCTF/vulhub-ofbiz-cve-2023-51467",
+            "title": "CyberCTF/vulhub-ofbiz-cve-2023-51467: Vulhub ofbiz/CVE-2023-51467: Apache OFBiz Authentication Bypass to RCE (CVE-2023-51467), run with Isoloom",
+            "date_modified": "2026-10-10T10:26:51.000Z",
+            "date_published": "2026-10-08T19:37:51.000Z",
+            "author": {
+                "name": "CyberCTF",
+                "url": "https://github.com/CyberCTF"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/190261590?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Vulhub activemq/CVE-2023-46604: ActiveMQ 5.17.3 OpenWire RCE, run with Isoloom</div>",
+            "url": "https://github.com/CyberCTF/vulhub-activemq-cve-2023-46604",
+            "title": "CyberCTF/vulhub-activemq-cve-2023-46604: Vulhub activemq/CVE-2023-46604: ActiveMQ 5.17.3 OpenWire RCE, run with Isoloom",
+            "date_modified": "2026-10-10T10:20:48.000Z",
+            "date_published": "2026-10-08T20:11:23.000Z",
+            "author": {
+                "name": "CyberCTF",
+                "url": "https://github.com/CyberCTF"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/120130511?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>oob_entry tfp0 kernel exploit for armv7 iOS (iOS 3.0–10.3.4), using CVE-2023-32434. We will publish a write-up detailing the methods in the coming weeks. 🐙</div>",
             "url": "https://github.com/rkrakesh524/oob_entry",
             "title": "rkrakesh524/oob_entry: oob_entry tfp0 kernel exploit for armv7 iOS (iOS 3.0–10.3.4), using CVE-2023-32434. We will publish a write-up detailing the methods in the coming weeks. 🐙",
@@ -39,44 +72,11 @@
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/190261590?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Vulhub openfire/CVE-2023-32315: Openfire Admin Console Authentication Bypass (CVE-2023-32315), run with Isoloom</div>",
-            "url": "https://github.com/CyberCTF/vulhub-openfire-cve-2023-32315",
-            "title": "CyberCTF/vulhub-openfire-cve-2023-32315: Vulhub openfire/CVE-2023-32315: Openfire Admin Console Authentication Bypass (CVE-2023-32315), run with Isoloom",
-            "date_modified": "2026-10-09T19:10:14.000Z",
-            "date_published": "2026-10-08T19:46:21.000Z",
-            "author": {
-                "name": "CyberCTF",
-                "url": "https://github.com/CyberCTF"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/190261590?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Vulhub ofbiz/CVE-2023-51467: Apache OFBiz Authentication Bypass to RCE (CVE-2023-51467), run with Isoloom</div>",
-            "url": "https://github.com/CyberCTF/vulhub-ofbiz-cve-2023-51467",
-            "title": "CyberCTF/vulhub-ofbiz-cve-2023-51467: Vulhub ofbiz/CVE-2023-51467: Apache OFBiz Authentication Bypass to RCE (CVE-2023-51467), run with Isoloom",
-            "date_modified": "2026-10-09T19:10:10.000Z",
-            "date_published": "2026-10-08T19:37:51.000Z",
-            "author": {
-                "name": "CyberCTF",
-                "url": "https://github.com/CyberCTF"
-            }
-        },
-        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/190261590?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Vulhub joomla/CVE-2023-23752: Joomla Webservice Improper Access Check (CVE-2023-23752), run with Isoloom</div>",
             "url": "https://github.com/CyberCTF/vulhub-joomla-cve-2023-23752",
             "title": "CyberCTF/vulhub-joomla-cve-2023-23752: Vulhub joomla/CVE-2023-23752: Joomla Webservice Improper Access Check (CVE-2023-23752), run with Isoloom",
             "date_modified": "2026-10-09T19:09:06.000Z",
             "date_published": "2026-10-08T21:20:41.000Z",
-            "author": {
-                "name": "CyberCTF",
-                "url": "https://github.com/CyberCTF"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/190261590?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Vulhub activemq/CVE-2023-46604: ActiveMQ 5.17.3 OpenWire RCE, run with Isoloom</div>",
-            "url": "https://github.com/CyberCTF/vulhub-activemq-cve-2023-46604",
-            "title": "CyberCTF/vulhub-activemq-cve-2023-46604: Vulhub activemq/CVE-2023-46604: ActiveMQ 5.17.3 OpenWire RCE, run with Isoloom",
-            "date_modified": "2026-10-09T19:06:11.000Z",
-            "date_published": "2026-10-08T20:11:23.000Z",
             "author": {
                 "name": "CyberCTF",
                 "url": "https://github.com/CyberCTF"
