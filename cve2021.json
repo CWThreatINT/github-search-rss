@@ -6,6 +6,17 @@
     "description": "CVE-2021 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/17263099?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2021-42023</div>",
+            "url": "https://github.com/Geeoon/ModelSim-Decryptor",
+            "title": "Geeoon/ModelSim-Decryptor: CVE-2021-42023",
+            "date_modified": "2026-10-10T08:49:35.000Z",
+            "date_published": "2026-10-10T06:17:54.000Z",
+            "author": {
+                "name": "Geeoon",
+                "url": "https://github.com/Geeoon"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/21672558?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Log4j Exploit Detection Logic for Zeek</div>",
             "url": "https://github.com/corelight/cve-2021-44228",
             "title": "corelight/cve-2021-44228: Log4j Exploit Detection Logic for Zeek",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "Hu2ie",
                 "url": "https://github.com/Hu2ie"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/89426396?u=cedce2193df47fa34fc7f2e9cc8c7ed475ad83a7&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>PoC Exploit for Apache httpd 2.4.49 &amp; 2.4.50 remote code exploitation</div>",
-            "url": "https://github.com/lmcewen9/cve-2021-42013",
-            "title": "lmcewen9/cve-2021-42013: PoC Exploit for Apache httpd 2.4.49 & 2.4.50 remote code exploitation",
-            "date_modified": "2026-10-07T13:58:11.000Z",
-            "date_published": "2026-05-12T19:06:15.000Z",
-            "author": {
-                "name": "lmcewen9",
-                "url": "https://github.com/lmcewen9"
             }
         }
     ]
