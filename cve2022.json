@@ -6,6 +6,39 @@
     "description": "CVE-2022 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/190261590?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Vulhub imagemagick/CVE-2022-44268: ImageMagick PNG Text Chunk Arbitrary File Read (CVE-2022-44268), run with Isoloom</div>",
+            "url": "https://github.com/CyberCTF/vulhub-imagemagick-cve-2022-44268",
+            "title": "CyberCTF/vulhub-imagemagick-cve-2022-44268: Vulhub imagemagick/CVE-2022-44268: ImageMagick PNG Text Chunk Arbitrary File Read (CVE-2022-44268), run with Isoloom",
+            "date_modified": "2026-10-10T22:00:17.000Z",
+            "date_published": "2026-10-08T21:30:26.000Z",
+            "author": {
+                "name": "CyberCTF",
+                "url": "https://github.com/CyberCTF"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/190261590?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Vulhub h2database/CVE-2022-23221: H2 Database Console JDBC URL RCE (CVE-2022-23221), run with Isoloom</div>",
+            "url": "https://github.com/CyberCTF/vulhub-h2database-cve-2022-23221",
+            "title": "CyberCTF/vulhub-h2database-cve-2022-23221: Vulhub h2database/CVE-2022-23221: H2 Database Console JDBC URL RCE (CVE-2022-23221), run with Isoloom",
+            "date_modified": "2026-10-10T21:51:43.000Z",
+            "date_published": "2026-10-08T22:15:55.000Z",
+            "author": {
+                "name": "CyberCTF",
+                "url": "https://github.com/CyberCTF"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/190261590?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Vulhub cacti/CVE-2022-46169: Cacti remote_agent.php Command Injection (CVE-2022-46169), run with Isoloom</div>",
+            "url": "https://github.com/CyberCTF/vulhub-cacti-cve-2022-46169",
+            "title": "CyberCTF/vulhub-cacti-cve-2022-46169: Vulhub cacti/CVE-2022-46169: Cacti remote_agent.php Command Injection (CVE-2022-46169), run with Isoloom",
+            "date_modified": "2026-10-10T21:41:59.000Z",
+            "date_published": "2026-10-08T22:15:01.000Z",
+            "author": {
+                "name": "CyberCTF",
+                "url": "https://github.com/CyberCTF"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/190261590?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Vulhub spring/CVE-2022-22965: Spring4Shell on Spring WebMVC 5.3.17, run with Isoloom</div>",
             "url": "https://github.com/CyberCTF/vulhub-spring-cve-2022-22965",
             "title": "CyberCTF/vulhub-spring-cve-2022-22965: Vulhub spring/CVE-2022-22965: Spring4Shell on Spring WebMVC 5.3.17, run with Isoloom",
@@ -50,44 +83,11 @@
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/190261590?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Vulhub imagemagick/CVE-2022-44268: ImageMagick PNG Text Chunk Arbitrary File Read (CVE-2022-44268), run with Isoloom</div>",
-            "url": "https://github.com/CyberCTF/vulhub-imagemagick-cve-2022-44268",
-            "title": "CyberCTF/vulhub-imagemagick-cve-2022-44268: Vulhub imagemagick/CVE-2022-44268: ImageMagick PNG Text Chunk Arbitrary File Read (CVE-2022-44268), run with Isoloom",
-            "date_modified": "2026-10-09T19:08:31.000Z",
-            "date_published": "2026-10-08T21:30:26.000Z",
-            "author": {
-                "name": "CyberCTF",
-                "url": "https://github.com/CyberCTF"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/190261590?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Vulhub h2database/CVE-2022-23221: H2 Database Console JDBC URL RCE (CVE-2022-23221), run with Isoloom</div>",
-            "url": "https://github.com/CyberCTF/vulhub-h2database-cve-2022-23221",
-            "title": "CyberCTF/vulhub-h2database-cve-2022-23221: Vulhub h2database/CVE-2022-23221: H2 Database Console JDBC URL RCE (CVE-2022-23221), run with Isoloom",
-            "date_modified": "2026-10-09T19:08:02.000Z",
-            "date_published": "2026-10-08T22:15:55.000Z",
-            "author": {
-                "name": "CyberCTF",
-                "url": "https://github.com/CyberCTF"
-            }
-        },
-        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/190261590?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Vulhub django/CVE-2022-34265: Django Trunc and Extract SQL Injection (CVE-2022-34265), run with Isoloom</div>",
             "url": "https://github.com/CyberCTF/vulhub-django-cve-2022-34265",
             "title": "CyberCTF/vulhub-django-cve-2022-34265: Vulhub django/CVE-2022-34265: Django Trunc and Extract SQL Injection (CVE-2022-34265), run with Isoloom",
             "date_modified": "2026-10-09T19:06:57.000Z",
             "date_published": "2026-10-08T20:15:17.000Z",
-            "author": {
-                "name": "CyberCTF",
-                "url": "https://github.com/CyberCTF"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/190261590?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Vulhub cacti/CVE-2022-46169: Cacti remote_agent.php Command Injection (CVE-2022-46169), run with Isoloom</div>",
-            "url": "https://github.com/CyberCTF/vulhub-cacti-cve-2022-46169",
-            "title": "CyberCTF/vulhub-cacti-cve-2022-46169: Vulhub cacti/CVE-2022-46169: Cacti remote_agent.php Command Injection (CVE-2022-46169), run with Isoloom",
-            "date_modified": "2026-10-09T19:06:43.000Z",
-            "date_published": "2026-10-08T22:15:01.000Z",
             "author": {
                 "name": "CyberCTF",
                 "url": "https://github.com/CyberCTF"
