@@ -6,6 +6,17 @@
     "description": "CVE-2023 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/190261590?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Vulhub superset/CVE-2023-27524: Apache Superset Default SECRET_KEY Session Forgery (CVE-2023-27524), run with Isoloom</div>",
+            "url": "https://github.com/CyberCTF/vulhub-superset-cve-2023-27524",
+            "title": "CyberCTF/vulhub-superset-cve-2023-27524: Vulhub superset/CVE-2023-27524: Apache Superset Default SECRET_KEY Session Forgery (CVE-2023-27524), run with Isoloom",
+            "date_modified": "2026-10-10T18:17:18.000Z",
+            "date_published": "2026-10-08T19:38:15.000Z",
+            "author": {
+                "name": "CyberCTF",
+                "url": "https://github.com/CyberCTF"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/190261590?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Vulhub openfire/CVE-2023-32315: Openfire Admin Console Authentication Bypass (CVE-2023-32315), run with Isoloom</div>",
             "url": "https://github.com/CyberCTF/vulhub-openfire-cve-2023-32315",
             "title": "CyberCTF/vulhub-openfire-cve-2023-32315: Vulhub openfire/CVE-2023-32315: Openfire Admin Console Authentication Bypass (CVE-2023-32315), run with Isoloom",
@@ -58,17 +69,6 @@
             "author": {
                 "name": "GhostTroops",
                 "url": "https://github.com/GhostTroops"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/190261590?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Vulhub superset/CVE-2023-27524: Apache Superset Default SECRET_KEY Session Forgery (CVE-2023-27524), run with Isoloom</div>",
-            "url": "https://github.com/CyberCTF/vulhub-superset-cve-2023-27524",
-            "title": "CyberCTF/vulhub-superset-cve-2023-27524: Vulhub superset/CVE-2023-27524: Apache Superset Default SECRET_KEY Session Forgery (CVE-2023-27524), run with Isoloom",
-            "date_modified": "2026-10-09T19:13:05.000Z",
-            "date_published": "2026-10-08T19:38:15.000Z",
-            "author": {
-                "name": "CyberCTF",
-                "url": "https://github.com/CyberCTF"
             }
         },
         {

@@ -6,6 +6,17 @@
     "description": "CVE-2021 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/224176705?u=cffa1f0c7afa636a0ec582b57dfb640a1afa658e&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Technical analysis of Log4Shell (CVE-2021-44228) for CS50 Cybersecurity.</div>",
+            "url": "https://github.com/Developer-Dynamo/cs50-cybersecurity-final-project",
+            "title": "Developer-Dynamo/cs50-cybersecurity-final-project: Technical analysis of Log4Shell (CVE-2021-44228) for CS50 Cybersecurity.",
+            "date_modified": "2026-10-10T16:28:45.000Z",
+            "date_published": "2026-10-10T16:21:46.000Z",
+            "author": {
+                "name": "Developer-Dynamo",
+                "url": "https://github.com/Developer-Dynamo"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/190261590?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Vulhub apache-druid/CVE-2021-25646: Apache Druid Embedded JavaScript RCE (CVE-2021-25646), run with Isoloom</div>",
             "url": "https://github.com/CyberCTF/vulhub-apache-druid-cve-2021-25646",
             "title": "CyberCTF/vulhub-apache-druid-cve-2021-25646: Vulhub apache-druid/CVE-2021-25646: Apache Druid Embedded JavaScript RCE (CVE-2021-25646), run with Isoloom",
@@ -204,7 +215,7 @@
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/338969361?u=069d08ce6fbd7d3745720c761b120d4e9054794b&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>a proof of concept for the apache log4j Java logging library (CVE-2021-44228 vulnerability) </div>",
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/338969361?u=6c6fd3eee632ba3fda751baefcbee5327c923d5e&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>a proof of concept for the apache log4j Java logging library (CVE-2021-44228 vulnerability) </div>",
             "url": "https://github.com/ResoluteRacoons/log4-Java-logging-poc",
             "title": "ResoluteRacoons/log4-Java-logging-poc: a proof of concept for the apache log4j Java logging library (CVE-2021-44228 vulnerability) ",
             "date_modified": "2026-10-08T11:56:05.000Z",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "ResoluteRacoons",
                 "url": "https://github.com/ResoluteRacoons"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/314981752?u=a8e20b5cc37005d2fa76658a2013957dadac4a6a&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2021-38759 — Raspberry Pi OS Default Credentials Exploit</div>",
-            "url": "https://github.com/Hu2ie/CVE-2021-38759",
-            "title": "Hu2ie/CVE-2021-38759: CVE-2021-38759 — Raspberry Pi OS Default Credentials Exploit",
-            "date_modified": "2026-10-07T16:48:12.000Z",
-            "date_published": "2026-10-07T16:47:02.000Z",
-            "author": {
-                "name": "Hu2ie",
-                "url": "https://github.com/Hu2ie"
             }
         }
     ]
