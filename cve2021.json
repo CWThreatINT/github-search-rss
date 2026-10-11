@@ -6,6 +6,17 @@
     "description": "CVE-2021 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/190261590?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Vulhub nacos/CVE-2021-29441: Nacos User-Agent Authentication Bypass (CVE-2021-29441), run with Isoloom</div>",
+            "url": "https://github.com/CyberCTF/vulhub-nacos-cve-2021-29441",
+            "title": "CyberCTF/vulhub-nacos-cve-2021-29441: Vulhub nacos/CVE-2021-29441: Nacos User-Agent Authentication Bypass (CVE-2021-29441), run with Isoloom",
+            "date_modified": "2026-10-11T00:32:45.000Z",
+            "date_published": "2026-10-08T20:46:24.000Z",
+            "author": {
+                "name": "CyberCTF",
+                "url": "https://github.com/CyberCTF"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/190261590?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Vulhub grafana/CVE-2021-43798: Grafana Plugin Path Traversal (CVE-2021-43798), run with Isoloom</div>",
             "url": "https://github.com/CyberCTF/vulhub-grafana-cve-2021-43798",
             "title": "CyberCTF/vulhub-grafana-cve-2021-43798: Vulhub grafana/CVE-2021-43798: Grafana Plugin Path Traversal (CVE-2021-43798), run with Isoloom",
@@ -124,17 +135,6 @@
             "author": {
                 "name": "corelight",
                 "url": "https://github.com/corelight"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/190261590?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Vulhub nacos/CVE-2021-29441: Nacos User-Agent Authentication Bypass (CVE-2021-29441), run with Isoloom</div>",
-            "url": "https://github.com/CyberCTF/vulhub-nacos-cve-2021-29441",
-            "title": "CyberCTF/vulhub-nacos-cve-2021-29441: Vulhub nacos/CVE-2021-29441: Nacos User-Agent Authentication Bypass (CVE-2021-29441), run with Isoloom",
-            "date_modified": "2026-10-09T19:09:41.000Z",
-            "date_published": "2026-10-08T20:46:24.000Z",
-            "author": {
-                "name": "CyberCTF",
-                "url": "https://github.com/CyberCTF"
             }
         },
         {

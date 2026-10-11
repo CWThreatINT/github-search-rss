@@ -6,6 +6,28 @@
     "description": "CVE-2023 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/260011413?u=ec3a4789d339f27739af21fe48f079f4b7b5c5e8&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Rust toolchain for MediaTek logo images: unpack, edit, repack, and bypass CERT2 signature verification (CVE-2023-20696 / CVE-2025-20730).</div>",
+            "url": "https://github.com/ELF-RC/mtk_logo_toolkit",
+            "title": "ELF-RC/mtk_logo_toolkit: Rust toolchain for MediaTek logo images: unpack, edit, repack, and bypass CERT2 signature verification (CVE-2023-20696 / CVE-2025-20730).",
+            "date_modified": "2026-10-11T02:39:42.000Z",
+            "date_published": "2026-10-05T15:32:40.000Z",
+            "author": {
+                "name": "ELF-RC",
+                "url": "https://github.com/ELF-RC"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/190261590?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Vulhub joomla/CVE-2023-23752: Joomla Webservice Improper Access Check (CVE-2023-23752), run with Isoloom</div>",
+            "url": "https://github.com/CyberCTF/vulhub-joomla-cve-2023-23752",
+            "title": "CyberCTF/vulhub-joomla-cve-2023-23752: Vulhub joomla/CVE-2023-23752: Joomla Webservice Improper Access Check (CVE-2023-23752), run with Isoloom",
+            "date_modified": "2026-10-10T23:17:23.000Z",
+            "date_published": "2026-10-08T21:20:41.000Z",
+            "author": {
+                "name": "CyberCTF",
+                "url": "https://github.com/CyberCTF"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/190261590?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Vulhub superset/CVE-2023-27524: Apache Superset Default SECRET_KEY Session Forgery (CVE-2023-27524), run with Isoloom</div>",
             "url": "https://github.com/CyberCTF/vulhub-superset-cve-2023-27524",
             "title": "CyberCTF/vulhub-superset-cve-2023-27524: Vulhub superset/CVE-2023-27524: Apache Superset Default SECRET_KEY Session Forgery (CVE-2023-27524), run with Isoloom",
@@ -69,17 +91,6 @@
             "author": {
                 "name": "GhostTroops",
                 "url": "https://github.com/GhostTroops"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/190261590?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Vulhub joomla/CVE-2023-23752: Joomla Webservice Improper Access Check (CVE-2023-23752), run with Isoloom</div>",
-            "url": "https://github.com/CyberCTF/vulhub-joomla-cve-2023-23752",
-            "title": "CyberCTF/vulhub-joomla-cve-2023-23752: Vulhub joomla/CVE-2023-23752: Joomla Webservice Improper Access Check (CVE-2023-23752), run with Isoloom",
-            "date_modified": "2026-10-09T19:09:06.000Z",
-            "date_published": "2026-10-08T21:20:41.000Z",
-            "author": {
-                "name": "CyberCTF",
-                "url": "https://github.com/CyberCTF"
             }
         },
         {
@@ -212,17 +223,6 @@
             "author": {
                 "name": "Dnyaneshwari-123",
                 "url": "https://github.com/Dnyaneshwari-123"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/4809643?u=87163842ffd3dd2062f6feff2712589c99656b30&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Passively fingerprint Citrix ADC / NetScaler ADC &amp; Gateway builds and detect known CVEs — CVE-2023-3519, CitrixBleed 2/3, CVE-2026-8452, and CVE-2026-88771/88772 (KEV)</div>",
-            "url": "https://github.com/securekomodo/citrixInspector",
-            "title": "securekomodo/citrixInspector: Passively fingerprint Citrix ADC / NetScaler ADC & Gateway builds and detect known CVEs — CVE-2023-3519, CitrixBleed 2/3, CVE-2026-8452, and CVE-2026-88771/88772 (KEV)",
-            "date_modified": "2026-10-03T10:32:00.000Z",
-            "date_published": "2023-07-20T16:05:07.000Z",
-            "author": {
-                "name": "securekomodo",
-                "url": "https://github.com/securekomodo"
             }
         }
     ]

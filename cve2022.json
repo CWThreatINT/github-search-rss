@@ -6,6 +6,17 @@
     "description": "CVE-2022 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/190261590?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Vulhub django/CVE-2022-34265: Django Trunc and Extract SQL Injection (CVE-2022-34265), run with Isoloom</div>",
+            "url": "https://github.com/CyberCTF/vulhub-django-cve-2022-34265",
+            "title": "CyberCTF/vulhub-django-cve-2022-34265: Vulhub django/CVE-2022-34265: Django Trunc and Extract SQL Injection (CVE-2022-34265), run with Isoloom",
+            "date_modified": "2026-10-10T23:03:33.000Z",
+            "date_published": "2026-10-08T20:15:17.000Z",
+            "author": {
+                "name": "CyberCTF",
+                "url": "https://github.com/CyberCTF"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/190261590?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Vulhub imagemagick/CVE-2022-44268: ImageMagick PNG Text Chunk Arbitrary File Read (CVE-2022-44268), run with Isoloom</div>",
             "url": "https://github.com/CyberCTF/vulhub-imagemagick-cve-2022-44268",
             "title": "CyberCTF/vulhub-imagemagick-cve-2022-44268: Vulhub imagemagick/CVE-2022-44268: ImageMagick PNG Text Chunk Arbitrary File Read (CVE-2022-44268), run with Isoloom",
@@ -77,17 +88,6 @@
             "title": "CyberCTF/vulhub-redis-cve-2022-0543: Vulhub redis/CVE-2022-0543: Redis Lua Sandbox Escape (CVE-2022-0543), run with Isoloom",
             "date_modified": "2026-10-10T10:44:24.000Z",
             "date_published": "2026-10-08T21:45:02.000Z",
-            "author": {
-                "name": "CyberCTF",
-                "url": "https://github.com/CyberCTF"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/190261590?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Vulhub django/CVE-2022-34265: Django Trunc and Extract SQL Injection (CVE-2022-34265), run with Isoloom</div>",
-            "url": "https://github.com/CyberCTF/vulhub-django-cve-2022-34265",
-            "title": "CyberCTF/vulhub-django-cve-2022-34265: Vulhub django/CVE-2022-34265: Django Trunc and Extract SQL Injection (CVE-2022-34265), run with Isoloom",
-            "date_modified": "2026-10-09T19:06:57.000Z",
-            "date_published": "2026-10-08T20:15:17.000Z",
             "author": {
                 "name": "CyberCTF",
                 "url": "https://github.com/CyberCTF"
