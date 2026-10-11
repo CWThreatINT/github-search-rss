@@ -6,6 +6,28 @@
     "description": "CVE-2021 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/17263099?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2021-42023</div>",
+            "url": "https://github.com/Geeoon/ModelSim-Decryptor",
+            "title": "Geeoon/ModelSim-Decryptor: CVE-2021-42023",
+            "date_modified": "2026-10-11T03:03:21.000Z",
+            "date_published": "2026-10-10T06:17:54.000Z",
+            "author": {
+                "name": "Geeoon",
+                "url": "https://github.com/Geeoon"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/190261590?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>secDevLabs Golden Hat Society: mitmproxy 5.3.0 request smuggling, CVE-2021-39214 (OWASP A06), run with Isoloom</div>",
+            "url": "https://github.com/CyberCTF/secdevlabs-golden-hat",
+            "title": "CyberCTF/secdevlabs-golden-hat: secDevLabs Golden Hat Society: mitmproxy 5.3.0 request smuggling, CVE-2021-39214 (OWASP A06), run with Isoloom",
+            "date_modified": "2026-10-11T02:52:49.000Z",
+            "date_published": "2026-10-08T14:43:10.000Z",
+            "author": {
+                "name": "CyberCTF",
+                "url": "https://github.com/CyberCTF"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/190261590?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Vulhub nacos/CVE-2021-29441: Nacos User-Agent Authentication Bypass (CVE-2021-29441), run with Isoloom</div>",
             "url": "https://github.com/CyberCTF/vulhub-nacos-cve-2021-29441",
             "title": "CyberCTF/vulhub-nacos-cve-2021-29441: Vulhub nacos/CVE-2021-29441: Nacos User-Agent Authentication Bypass (CVE-2021-29441), run with Isoloom",
@@ -116,17 +138,6 @@
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/17263099?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2021-42023</div>",
-            "url": "https://github.com/Geeoon/ModelSim-Decryptor",
-            "title": "Geeoon/ModelSim-Decryptor: CVE-2021-42023",
-            "date_modified": "2026-10-10T08:49:35.000Z",
-            "date_published": "2026-10-10T06:17:54.000Z",
-            "author": {
-                "name": "Geeoon",
-                "url": "https://github.com/Geeoon"
-            }
-        },
-        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/21672558?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Log4j Exploit Detection Logic for Zeek</div>",
             "url": "https://github.com/corelight/cve-2021-44228",
             "title": "corelight/cve-2021-44228: Log4j Exploit Detection Logic for Zeek",
@@ -135,17 +146,6 @@
             "author": {
                 "name": "corelight",
                 "url": "https://github.com/corelight"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/190261590?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>secDevLabs Golden Hat Society: mitmproxy 5.3.0 request smuggling, CVE-2021-39214 (OWASP A06), run with Isoloom</div>",
-            "url": "https://github.com/CyberCTF/secdevlabs-golden-hat",
-            "title": "CyberCTF/secdevlabs-golden-hat: secDevLabs Golden Hat Society: mitmproxy 5.3.0 request smuggling, CVE-2021-39214 (OWASP A06), run with Isoloom",
-            "date_modified": "2026-10-09T19:01:36.000Z",
-            "date_published": "2026-10-08T14:43:10.000Z",
-            "author": {
-                "name": "CyberCTF",
-                "url": "https://github.com/CyberCTF"
             }
         },
         {
