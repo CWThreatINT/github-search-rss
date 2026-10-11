@@ -6,6 +6,17 @@
     "description": "CVE-2023 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/260011413?u=ec3a4789d339f27739af21fe48f079f4b7b5c5e8&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Rust toolchain for MediaTek logo images: unpack, edit, repack, and bypass CERT2 signature verification (CVE-2023-20696 / CVE-2025-20730).</div>",
+            "url": "https://github.com/ELF-RC/mtk_logo_toolkit",
+            "title": "ELF-RC/mtk_logo_toolkit: Rust toolchain for MediaTek logo images: unpack, edit, repack, and bypass CERT2 signature verification (CVE-2023-20696 / CVE-2025-20730).",
+            "date_modified": "2026-10-11T14:40:03.000Z",
+            "date_published": "2026-10-05T15:32:40.000Z",
+            "author": {
+                "name": "ELF-RC",
+                "url": "https://github.com/ELF-RC"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/151980876?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>TOP All bugbounty pentesting CVE-2023- POC Exp  RCE example payload  Things</div>",
             "url": "https://github.com/GhostTroops/TOP",
             "title": "GhostTroops/TOP: TOP All bugbounty pentesting CVE-2023- POC Exp  RCE example payload  Things",
@@ -14,17 +25,6 @@
             "author": {
                 "name": "GhostTroops",
                 "url": "https://github.com/GhostTroops"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/260011413?u=ec3a4789d339f27739af21fe48f079f4b7b5c5e8&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Rust toolchain for MediaTek logo images: unpack, edit, repack, and bypass CERT2 signature verification (CVE-2023-20696 / CVE-2025-20730).</div>",
-            "url": "https://github.com/ELF-RC/mtk_logo_toolkit",
-            "title": "ELF-RC/mtk_logo_toolkit: Rust toolchain for MediaTek logo images: unpack, edit, repack, and bypass CERT2 signature verification (CVE-2023-20696 / CVE-2025-20730).",
-            "date_modified": "2026-10-11T05:51:06.000Z",
-            "date_published": "2026-10-05T15:32:40.000Z",
-            "author": {
-                "name": "ELF-RC",
-                "url": "https://github.com/ELF-RC"
             }
         },
         {
