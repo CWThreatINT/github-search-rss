@@ -6,6 +6,17 @@
     "description": "CVE-2021 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/117227948?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Research notes &amp; harnesses: KGSL SVM use-after-free (CVE-2021-1905) on Qualcomm MSM8953 / Adreno 506 / kernel 3.18 armv7. Credits upstream patches and prior art.</div>",
+            "url": "https://github.com/Gonvar/kgsl-1905-msm8953",
+            "title": "Gonvar/kgsl-1905-msm8953: Research notes & harnesses: KGSL SVM use-after-free (CVE-2021-1905) on Qualcomm MSM8953 / Adreno 506 / kernel 3.18 armv7. Credits upstream patches and prior art.",
+            "date_modified": "2026-10-12T13:48:45.000Z",
+            "date_published": "2026-10-12T11:05:26.000Z",
+            "author": {
+                "name": "Gonvar",
+                "url": "https://github.com/Gonvar"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/17263099?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2021-42023</div>",
             "url": "https://github.com/Geeoon/ModelSim-Decryptor",
             "title": "Geeoon/ModelSim-Decryptor: CVE-2021-42023",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "LordX404",
                 "url": "https://github.com/LordX404"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/338969361?u=6c6fd3eee632ba3fda751baefcbee5327c923d5e&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>a proof of concept for the apache log4j Java logging library (CVE-2021-44228 vulnerability) </div>",
-            "url": "https://github.com/ResoluteRacoons/log4-Java-logging-poc",
-            "title": "ResoluteRacoons/log4-Java-logging-poc: a proof of concept for the apache log4j Java logging library (CVE-2021-44228 vulnerability) ",
-            "date_modified": "2026-10-08T11:56:05.000Z",
-            "date_published": "2026-10-08T11:41:17.000Z",
-            "author": {
-                "name": "ResoluteRacoons",
-                "url": "https://github.com/ResoluteRacoons"
             }
         }
     ]
