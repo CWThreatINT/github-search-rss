@@ -9,11 +9,22 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/117227948?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Research notes &amp; harnesses: KGSL SVM use-after-free (CVE-2021-1905) on Qualcomm MSM8953 / Adreno 506 / kernel 3.18 armv7. Credits upstream patches and prior art.</div>",
             "url": "https://github.com/Gonvar/kgsl-1905-msm8953",
             "title": "Gonvar/kgsl-1905-msm8953: Research notes & harnesses: KGSL SVM use-after-free (CVE-2021-1905) on Qualcomm MSM8953 / Adreno 506 / kernel 3.18 armv7. Credits upstream patches and prior art.",
-            "date_modified": "2026-10-12T13:48:45.000Z",
+            "date_modified": "2026-10-12T21:21:41.000Z",
             "date_published": "2026-10-12T11:05:26.000Z",
             "author": {
                 "name": "Gonvar",
                 "url": "https://github.com/Gonvar"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/129468607?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Zero-days per week, before and after Mythos: exploited CVEs, AI-found vulnerabilities and vendor patch volume, one ISO week at a time since 2021.</div>",
+            "url": "https://github.com/sirbennyy88/zero-project",
+            "title": "sirbennyy88/zero-project: Zero-days per week, before and after Mythos: exploited CVEs, AI-found vulnerabilities and vendor patch volume, one ISO week at a time since 2021.",
+            "date_modified": "2026-10-12T19:13:05.000Z",
+            "date_published": "2026-09-06T07:58:32.000Z",
+            "author": {
+                "name": "sirbennyy88",
+                "url": "https://github.com/sirbennyy88"
             }
         },
         {
@@ -212,17 +223,6 @@
             "author": {
                 "name": "aomsin2526",
                 "url": "https://github.com/aomsin2526"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/150133351?u=8466c583c1caf90a9ae6ab1ecb567e8ab5429d09&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>this is a exploit for CVE_2021-41773</div>",
-            "url": "https://github.com/LordX404/CVE_2021-41773",
-            "title": "LordX404/CVE_2021-41773: this is a exploit for CVE_2021-41773",
-            "date_modified": "2026-10-08T21:06:46.000Z",
-            "date_published": "2026-10-08T20:51:53.000Z",
-            "author": {
-                "name": "LordX404",
-                "url": "https://github.com/LordX404"
             }
         }
     ]
