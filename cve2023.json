@@ -6,6 +6,17 @@
     "description": "CVE-2023 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/312404851?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>VampSecure Labs: FortiOS CVE scanner (CVE-2018-13379, CVE-2022-40684, CVE-2023-27997, CVE-2024-21762)</div>",
+            "url": "https://github.com/Vampsecure-Labs/vamp-forticheck",
+            "title": "Vampsecure-Labs/vamp-forticheck: VampSecure Labs: FortiOS CVE scanner (CVE-2018-13379, CVE-2022-40684, CVE-2023-27997, CVE-2024-21762)",
+            "date_modified": "2026-10-13T15:22:28.000Z",
+            "date_published": "2026-07-31T10:13:19.000Z",
+            "author": {
+                "name": "Vampsecure-Labs",
+                "url": "https://github.com/Vampsecure-Labs"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/120130511?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>oob_entry tfp0 kernel exploit for armv7 iOS (iOS 3.0–10.3.4), using CVE-2023-32434. We will publish a write-up detailing the methods in the coming weeks. 🐙</div>",
             "url": "https://github.com/rkrakesh524/oob_entry",
             "title": "rkrakesh524/oob_entry: oob_entry tfp0 kernel exploit for armv7 iOS (iOS 3.0–10.3.4), using CVE-2023-32434. We will publish a write-up detailing the methods in the coming weeks. 🐙",
@@ -105,17 +116,6 @@
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/312404851?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>VampSecure Labs: FortiOS CVE scanner (CVE-2018-13379, CVE-2022-40684, CVE-2023-27997, CVE-2024-21762)</div>",
-            "url": "https://github.com/Vampsecure-Labs/vamp-forticheck",
-            "title": "Vampsecure-Labs/vamp-forticheck: VampSecure Labs: FortiOS CVE scanner (CVE-2018-13379, CVE-2022-40684, CVE-2023-27997, CVE-2024-21762)",
-            "date_modified": "2026-10-12T10:51:39.000Z",
-            "date_published": "2026-07-31T10:13:19.000Z",
-            "author": {
-                "name": "Vampsecure-Labs",
-                "url": "https://github.com/Vampsecure-Labs"
-            }
-        },
-        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/145111222?u=8af7910098aafa5c735c76903bea77bdebe1c100&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2023-54391: Proxmox VE Authentication Bypass RCE Exploit</div>",
             "url": "https://github.com/alexand0www/CVE-2023-54391-RCE",
             "title": "alexand0www/CVE-2023-54391-RCE: CVE-2023-54391: Proxmox VE Authentication Bypass RCE Exploit",
@@ -127,10 +127,10 @@
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/181821849?u=506e433b254832292f2379924c969e7a93b5fb0a&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/181821849?u=506e433b254832292f2379924c969e7a93b5fb0a&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2023-3776 analysis</div>",
             "url": "https://github.com/Sakura999999999/CVE-2023-3776_repro",
-            "title": "Sakura999999999/CVE-2023-3776_repro",
-            "date_modified": "2026-10-08T10:27:00.000Z",
+            "title": "Sakura999999999/CVE-2023-3776_repro: CVE-2023-3776 analysis",
+            "date_modified": "2026-10-13T14:50:38.000Z",
             "date_published": "2026-09-30T05:49:23.000Z",
             "author": {
                 "name": "Sakura999999999",
