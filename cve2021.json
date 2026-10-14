@@ -6,6 +6,39 @@
     "description": "CVE-2021 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/174759153?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>V8 TheHole leak via JSON.stringify - PoC + OrderedHashMap amplification</div>",
+            "url": "https://github.com/jamezx32/CVE-2021-38003",
+            "title": "jamezx32/CVE-2021-38003: V8 TheHole leak via JSON.stringify - PoC + OrderedHashMap amplification",
+            "date_modified": "2026-10-14T11:02:10.000Z",
+            "date_published": "2026-10-14T08:27:00.000Z",
+            "author": {
+                "name": "jamezx32",
+                "url": "https://github.com/jamezx32"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/174759153?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>V8 SuperIC confusion - PoC + addrof/fakeobj/arb-rw exploit snippets</div>",
+            "url": "https://github.com/jamezx32/CVE-2021-30517",
+            "title": "jamezx32/CVE-2021-30517: V8 SuperIC confusion - PoC + addrof/fakeobj/arb-rw exploit snippets",
+            "date_modified": "2026-10-14T11:02:05.000Z",
+            "date_published": "2026-10-14T08:26:49.000Z",
+            "author": {
+                "name": "jamezx32",
+                "url": "https://github.com/jamezx32"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/242891739?u=e3879f2a3805319515e2d0ea83306e6b2ef6ec1a&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div> Log4Shell (CVE-2021-44228)</div>",
+            "url": "https://github.com/sajanapamuditha/Cyber-Attack-Simulation-",
+            "title": "sajanapamuditha/Cyber-Attack-Simulation-:  Log4Shell (CVE-2021-44228)",
+            "date_modified": "2026-10-14T09:19:35.000Z",
+            "date_published": "2026-05-02T05:17:53.000Z",
+            "author": {
+                "name": "sajanapamuditha",
+                "url": "https://github.com/sajanapamuditha"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/19336661?u=13500ba2e7bb732283720a08aa9559502e0a97f0&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2021-21413 isotaled-vm Sandbox Escape PoC</div>",
             "url": "https://github.com/sm1ee/CVE-2021-21413",
             "title": "sm1ee/CVE-2021-21413: CVE-2021-21413 isotaled-vm Sandbox Escape PoC",
@@ -182,17 +215,6 @@
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/242891739?u=e3879f2a3805319515e2d0ea83306e6b2ef6ec1a&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div> Log4Shell (CVE-2021-44228)</div>",
-            "url": "https://github.com/sajanapamuditha/Cyber-Attack-Simulation-",
-            "title": "sajanapamuditha/Cyber-Attack-Simulation-:  Log4Shell (CVE-2021-44228)",
-            "date_modified": "2026-10-09T14:58:33.000Z",
-            "date_published": "2026-05-02T05:17:53.000Z",
-            "author": {
-                "name": "sajanapamuditha",
-                "url": "https://github.com/sajanapamuditha"
-            }
-        },
-        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/228044151?u=cb82566b0e6fab3cd7b000572cc2229dd743a739&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
             "url": "https://github.com/hoangvvthu/CVE-2021-44228-Log4Shell-Lab",
             "title": "hoangvvthu/CVE-2021-44228-Log4Shell-Lab",
@@ -201,28 +223,6 @@
             "author": {
                 "name": "hoangvvthu",
                 "url": "https://github.com/hoangvvthu"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/215319458?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Corrected python code for CVE-2021-26828 </div>",
-            "url": "https://github.com/h002733/CVE-2021-26828",
-            "title": "h002733/CVE-2021-26828: Corrected python code for CVE-2021-26828 ",
-            "date_modified": "2026-10-09T06:52:14.000Z",
-            "date_published": "2026-10-09T06:50:46.000Z",
-            "author": {
-                "name": "h002733",
-                "url": "https://github.com/h002733"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/125451309?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>C++ contact-list demo comparing vulnerable ICU4C 66.1 with ICU4X through Crubit (CVE-2021-30535).</div>",
-            "url": "https://github.com/califio/icu4x-crubit-demo",
-            "title": "califio/icu4x-crubit-demo: C++ contact-list demo comparing vulnerable ICU4C 66.1 with ICU4X through Crubit (CVE-2021-30535).",
-            "date_modified": "2026-10-09T05:18:35.000Z",
-            "date_published": "2026-10-08T14:00:45.000Z",
-            "author": {
-                "name": "califio",
-                "url": "https://github.com/califio"
             }
         }
     ]

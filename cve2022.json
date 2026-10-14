@@ -6,6 +6,17 @@
     "description": "CVE-2022 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/174759153?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>V8 escape-analysis object materialization confusion - PoC</div>",
+            "url": "https://github.com/jamezx32/CVE-2022-1364",
+            "title": "jamezx32/CVE-2022-1364: V8 escape-analysis object materialization confusion - PoC",
+            "date_modified": "2026-10-14T11:02:14.000Z",
+            "date_published": "2026-10-14T08:27:11.000Z",
+            "author": {
+                "name": "jamezx32",
+                "url": "https://github.com/jamezx32"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/341293720?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A self-contained Linux kit for BLU G35 (Unisoc SC9863A): unlock the bootloader via the publicly documented CVE-2022-38694 BootROM method, insure first with three cross-verified backups, gate every write behind typed consent, and roll back to full box state. Security research — read the pinned issue before running anything.</div>",
             "url": "https://github.com/mpse-engineering/BLU_G35",
             "title": "mpse-engineering/BLU_G35: A self-contained Linux kit for BLU G35 (Unisoc SC9863A): unlock the bootloader via the publicly documented CVE-2022-38694 BootROM method, insure first with three cross-verified backups, gate every write behind typed consent, and roll back to full box state. Security research — read the pinned issue before running anything.",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "artsbykriss",
                 "url": "https://github.com/artsbykriss"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/130175558?u=407a42c1bdd399e36a297d4d31c419f8a21a72cf&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>PoC for CVE-2022-3218</div>",
-            "url": "https://github.com/mermehr/MouseServer-1.7.8.5-RCE",
-            "title": "mermehr/MouseServer-1.7.8.5-RCE: PoC for CVE-2022-3218",
-            "date_modified": "2026-10-12T10:43:31.000Z",
-            "date_published": "2026-08-15T17:50:46.000Z",
-            "author": {
-                "name": "mermehr",
-                "url": "https://github.com/mermehr"
             }
         }
     ]
