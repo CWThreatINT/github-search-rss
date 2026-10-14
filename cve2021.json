@@ -6,6 +6,17 @@
     "description": "CVE-2021 FEED on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/19336661?u=13500ba2e7bb732283720a08aa9559502e0a97f0&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CVE-2021-21413 isotaled-vm Sandbox Escape PoC</div>",
+            "url": "https://github.com/sm1ee/CVE-2021-21413",
+            "title": "sm1ee/CVE-2021-21413: CVE-2021-21413 isotaled-vm Sandbox Escape PoC",
+            "date_modified": "2026-10-14T01:24:16.000Z",
+            "date_published": "2026-10-14T00:15:35.000Z",
+            "author": {
+                "name": "sm1ee",
+                "url": "https://github.com/sm1ee"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/117227948?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Research notes &amp; harnesses: KGSL SVM use-after-free (CVE-2021-1905) on Qualcomm MSM8953 / Adreno 506 / kernel 3.18 armv7. Credits upstream patches and prior art.</div>",
             "url": "https://github.com/Gonvar/kgsl-1905-msm8953",
             "title": "Gonvar/kgsl-1905-msm8953: Research notes & harnesses: KGSL SVM use-after-free (CVE-2021-1905) on Qualcomm MSM8953 / Adreno 506 / kernel 3.18 armv7. Credits upstream patches and prior art.",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "califio",
                 "url": "https://github.com/califio"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/10350761?u=c7ce4bdba2dc7cd93a5104d96acd6e57dffcab8b&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>My take on unlocking Xperia 5 SO-01M for p42 bootloader using CVE-2021-1931</div>",
-            "url": "https://github.com/aomsin2526/xperia_5_bl_unlocker_poc",
-            "title": "aomsin2526/xperia_5_bl_unlocker_poc: My take on unlocking Xperia 5 SO-01M for p42 bootloader using CVE-2021-1931",
-            "date_modified": "2026-10-09T02:16:02.000Z",
-            "date_published": "2026-07-02T08:03:35.000Z",
-            "author": {
-                "name": "aomsin2526",
-                "url": "https://github.com/aomsin2526"
             }
         }
     ]
